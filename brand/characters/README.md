@@ -10,7 +10,7 @@ Hai nhân vật xuất hiện xuyên suốt mọi video EduHistory Studio. Bản
 | Đạo cụ | Máy tính bảng xám (không logo) | Sổ tay |
 | Tính cách | Tự tin, tò mò, hơi hài hước; hay đặt câu hỏi “vì sao” | Ấm áp, sắc sảo, mê kể chuyện; hay nối sự kiện thành câu chuyện |
 | Vai trong video | Đặt câu hỏi, phản ứng, tóm tắt điều cần nhớ | Dẫn chuyện chính, giải thích, kết nối bối cảnh |
-| Giọng (Gemini TTS) | `Puck` (thầy đã duyệt) | Đang chọn lại: nhẹ và thanh hơn (Erinome / Zephyr / Autonoe) |
+| Giọng (Gemini TTS) | `Puck` (thầy đã duyệt) | `Zephyr` (thầy chọn: nhẹ, thanh) |
 
 ## Quy tắc vẽ nhất quán
 - Mọi cảnh có nhân vật đều đưa bảng thiết kế làm ảnh tham chiếu khi tạo ảnh; nhắc lại đồng phục và đặc điểm nhận dạng trong lời nhắc.
