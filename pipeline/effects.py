@@ -60,3 +60,44 @@ def cho(W, H, n, sc):
     if line: d.text((W * 0.08, y), line, font=f2, fill=(230, 230, 230))
     arr = np.asarray(img)
     for i in range(n): yield arr
+
+def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
+    """Câu hỏi dừng hình: hiện câu hỏi + 3 lựa chọn A/B/C, đếm ngược 3-2-1 sau khi đọc xong câu hỏi, rồi lật đáp án đúng."""
+    s = H / 1080
+    f_q = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(52 * s))
+    f_o = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int(42 * s))
+    f_c = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-900-normal.ttf"), int(120 * s))
+    f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-700-normal.ttf"), int(34 * s))
+    def wrap(d, text, font, maxw):
+        out, cur = [], ""
+        for w in text.split():
+            if d.textlength((cur + " " + w).strip(), font=font) > maxw: out.append(cur); cur = w
+            else: cur = (cur + " " + w).strip()
+        return out + [cur]
+    for i in range(n):
+        t = i / fps
+        img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
+        d.rounded_rectangle([W * .06, H * .06, W * .94, H * .76], radius=int(30 * s), fill=(250, 244, 230))
+        d.text((W * .1, H * .1), "DỪNG HÌNH – THỬ TÀI", font=f_t, fill=(242, 107, 29))
+        y = H * .17
+        for line in wrap(d, q["hoi"], f_q, W * .62):
+            d.text((W * .1, y), line, font=f_q, fill=(22, 33, 52)); y += 66 * s
+        y += 18 * s
+        for k, opt in enumerate(q["lua_chon"]):
+            ok = k == q["dung"] and t >= reveal
+            dim = t >= reveal and not ok
+            box = [W * .1, y, W * .66, y + 78 * s]
+            d.rounded_rectangle(box, radius=int(16 * s), fill=(46, 160, 87) if ok else ((225, 220, 210) if dim else (255, 255, 255)), outline=(200, 190, 170), width=3)
+            d.text((W * .12, y + 14 * s), f"{'ABC'[k]}.  {opt}", font=f_o, fill=(255, 255, 255) if ok else ((150, 145, 140) if dim else (22, 33, 52)))
+            y += 96 * s
+        if q_end <= t < reveal:   # đồng hồ đếm ngược
+            left = max(1, int(math.ceil(reveal - t))) if reveal - t <= 3.2 else 3
+            cx, cy, r = W * .8, H * .42, 120 * s
+            frac = (reveal - t) / max(0.1, reveal - q_end)
+            d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(16, 35, 63))
+            d.arc([cx - r, cy - r, cx + r, cy + r], start=-90, end=-90 + 360 * frac, fill=(242, 107, 29), width=int(16 * s))
+            txt = str(left); tw = d.textlength(txt, font=f_c)
+            d.text((cx - tw / 2, cy - 80 * s), txt, font=f_c, fill=(255, 255, 255))
+        if t >= reveal:
+            d.text((W * .7, H * .38), "✓ Chính xác!" if False else "Đáp án đúng!", font=f_q, fill=(46, 160, 87))
+        yield np.asarray(img)

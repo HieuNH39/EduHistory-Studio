@@ -1,0 +1,462 @@
+{
+ "ma": "L7-B14-04",
+ "ten_tap": "Bạch Đằng 1288: Bản hùng ca trên sông",
+ "ten_tap_en": "Bạch Đằng 1288: An Epic on the River",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+  "trang": [
+   71,
+   72
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tran-hung-dao",
+  "tran-nhan-tong",
+  "tran-khanh-du",
+  "thoat-hoan",
+  "o-ma-nhi",
+  "quan-doi-nha-tran",
+  "quan-mong-nguyen"
+ ],
+ "nhac": {
+  "tam_trang": "hùng tráng, trống trận; lắng ở cảnh trời yên sau trận",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 14, tr. 71–72.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "ken_burns",
+   "hinh": "Nhật Minh và Hân Hân đứng ở khu di tích Bạch Đằng Giang, phía sau là tượng đài võ tướng Trần Quốc Tuấn uy nghi (vẽ theo bảng thiết kế), dòng sông rộng phía xa, trời trong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là khu di tích Bạch Đằng Giang ở thành phố Hải Phòng, nơi có tượng Quốc công tiết chế Hưng Đạo Đại vương Trần Quốc Tuấn.",
+     "This is the Bạch Đằng Giang historical site in Hải Phòng, home to the statue of Supreme Commander Trần Quốc Tuấn."
+    ],
+    [
+     "Nhật Minh",
+     "Dòng sông này từng chứng kiến một trận thuỷ chiến lừng danh năm 1288. Tụi mình đi xem nhé!",
+     "This river witnessed a legendary naval battle in 1288. Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1287",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thoat-hoan",
+    "quan-mong-nguyen"
+   ],
+   "hinh": "Đại quân Nguyên (kỵ binh, bộ binh) và đoàn chiến thuyền lớn cùng tiến về phía nam; Thoát Hoan cưỡi ngựa đi đầu, cờ xí không chữ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau hai lần thất bại thảm hại, vua Nguyên tức tối cử Thoát Hoan tiếp tục chỉ huy 50 vạn quân theo hai đường thuỷ, bộ tấn công xâm lược Đại Việt lần thứ ba.",
+     "After two crushing defeats, the furious Yuan emperor sent Toghan again, with 500,000 troops by river and by land, to invade Đại Việt a third time."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tran-nhan-tong",
+    "tran-hung-dao"
+   ],
+   "hinh": "Trong cung điện nhà Trần, vua Trần Nhân Tông ngồi hỏi; Trần Quốc Tuấn đứng chắp tay đáp, thần thái điềm tĩnh, tự tin",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đoán được dã tâm của kẻ thù, nhà Trần chủ động chuẩn bị kháng chiến.",
+     "Seeing through the enemy's plans, the Trần court prepared for war in advance."
+    ],
+    [
+     "Trần Nhân Tông",
+     "Giặc tới, liệu tình hình thế nào?",
+     "The enemy is coming. How do things stand?"
+    ],
+    [
+     "Trần Quốc Tuấn",
+     "Năm nay đánh giặc nhàn.",
+     "This year, beating the enemy will be easy."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tran-khanh-du",
+    "quan-doi-nha-tran",
+    "quan-mong-nguyen"
+   ],
+   "hinh": "Giữa vùng vịnh nhiều đảo đá vôi, thuyền nhẹ của quân Trần do Trần Khánh Dư chỉ huy lao ra từ sau các đảo, tấn công đoàn thuyền lương lớn của quân Nguyên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối năm 1287, quân Nguyên ồ ạt tiến vào nước ta. Quân dân nhà Trần chặn đường tiến quân của giặc đến Thăng Long.",
+     "In late 1287 the Yuan poured into our land. The Trần army and people blocked their advance on Thăng Long."
+    ],
+    [
+     "Nhật Minh",
+     "Trần Khánh Dư chỉ huy quân phục kích đoàn thuyền lương của quân Nguyên, giành thắng lợi tại Vân Đồn – Cửa Lục, nay thuộc tỉnh Quảng Ninh.",
+     "Trần Khánh Dư ambushed the Yuan supply fleet and won at Vân Đồn – Cửa Lục, in today's Quảng Ninh province."
+    ]
+   ],
+   "nguon_trang": [
+    71,
+    72
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thoat-hoan",
+    "quan-mong-nguyen"
+   ],
+   "hinh": "Thoát Hoan đứng giữa kinh thành Thăng Long vắng lặng, nhà cửa trống không, kho lương trống rỗng, nét mặt giận dữ, lo lắng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 1288, quân Nguyên chiếm Thăng Long, nhưng vẫn trúng kế “vườn không nhà trống” của nhà Trần.",
+     "In early 1288 the Yuan took Thăng Long, but fell once more into the Trần 'empty gardens, empty houses' strategy."
+    ],
+    [
+     "Thoát Hoan",
+     "Lương thực đâu? Cả kinh thành trống không!",
+     "Where is the food? The whole capital is empty!"
+    ],
+    [
+     "Nhật Minh",
+     "Lâm vào tình cảnh ngày càng khó khăn, Thoát Hoan quyết định kéo quân sang Vạn Kiếp rồi theo hai đường thuỷ, bộ rút về nước.",
+     "In ever greater difficulty, Toghan moved his army to Vạn Kiếp and decided to retreat home by river and by land."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tran-hung-dao",
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Lúc nước ròng, quân Trần đóng những hàng cọc gỗ đầu nhọn xuống lòng sông rộng; Trần Quốc Tuấn đứng trên bờ quan sát, chỉ tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà Trần quyết định phản công, bố trí trận địa mai phục tại vùng cửa sông Bạch Đằng, dưới sự chỉ huy trực tiếp của Trần Quốc Tuấn.",
+     "The Trần decided to strike back, laying an ambush at the mouth of the Bạch Đằng River under Trần Quốc Tuấn's direct command."
+    ],
+    [
+     "Trần Quốc Tuấn",
+     "Đóng cọc thật chắc. Chờ con nước rút, giặc sẽ không còn đường thoát!",
+     "Drive the stakes deep. When the tide goes out, the enemy will have no escape!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-1288",
+   "pha": "dia_the",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lòng sông có bãi cọc ngầm, hai bên bờ có quân mai phục, các thuyền chiến nấp sẵn trong những nhánh sông nhỏ.",
+     "Hidden stakes lay in the riverbed, troops waited in ambush on both banks, and warboats hid in the side creeks."
+    ]
+   ],
+   "nguon_trang": [
+    71,
+    72
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-mong-nguyen"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau lau sậy ven sông lúc nước lên cao, nhìn đoàn chiến thuyền lớn của quân Nguyên xuôi dòng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Suỵt… Đầu tháng 4 năm 1288 rồi. Đoàn thuyền do Ô Mã Nhi chỉ huy đang tiến gần đến sông Bạch Đằng!",
+     "Shh… It's early April 1288. The fleet led by Omar is approaching the Bạch Đằng River!"
+    ],
+    [
+     "Hân Hân",
+     "Nước đang lên cao, thuyền giặc chưa thấy bãi cọc đâu.",
+     "The tide is high. They can't see the stakes yet."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-1288",
+   "pha": "nhu",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân Trần bất ngờ tấn công, buộc chúng phải rút theo đường dẫn đến bãi cọc.",
+     "The Trần attacked by surprise, forcing them to retreat along the route leading to the stakes."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Điều gì khiến thuyền giặc mắc kẹt ở bãi cọc?",
+    "lua_chon": [
+     "Nước triều rút nhanh",
+     "Gió bão nổi lên",
+     "Sông bị đóng băng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng lại một chút! Điều gì khiến thuyền giặc mắc kẹt ở bãi cọc?",
+     "Pause for a moment! What made the enemy ships get stuck on the stakes?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án đúng là A: nước triều rút nhanh!",
+     "The answer is A: the tide went out fast!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-1288",
+   "pha": "nuoc_rut",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân địch lọt vào trận địa mai phục đúng lúc nước triều rút nhanh. Chiến thuyền của quân Trần đổ ra đánh quyết liệt.",
+     "The enemy entered the ambush just as the tide ebbed fast. Trần warboats poured out to fight fiercely."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-mong-nguyen",
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Những chiến thuyền lớn của quân Nguyên va vào bãi cọc nhô lên khi nước rút, thuyền nghiêng, vỡ, mắc kẹt; thuyền nhỏ quân Trần áp sát (không cảnh máu me)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thuyền địch tháo chạy, lớp trước lớp sau dồn vào bãi cọc, bị vỡ, đắm hoặc bị mắc kẹt không tiến tiếp được.",
+     "Fleeing enemy ships piled into the stakes, wave after wave, breaking, sinking or stuck fast."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Từ thượng nguồn, những chiếc thuyền chở đầy rơm củi bốc cháy được thả trôi theo dòng nước về phía đoàn thuyền giặc đang mắc kẹt; khói lửa ngút trời",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lúc này, các thuyền của quân Trần chứa đầy chất dễ cháy được đốt và thả trôi theo dòng nước, thực hiện kế hoả công!",
+     "Then Trần boats packed with flammable material were set alight and sent drifting downstream: an attack by fire!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-1288",
+   "pha": "hoa_cong",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân Nguyên bị tiêu diệt không biết bao nhiêu mà kể. Những tên sống sót tháo chạy lên bờ lại bị quân mai phục đánh cho tơi tả.",
+     "Countless Yuan troops were destroyed. Survivors who fled ashore were cut down by the troops waiting in ambush."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "o-ma-nhi",
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Ô Mã Nhi bị quân Trần bắt sống, bị giải lên bờ; phía sau khói lửa trên sông đã tàn, trời hửng sáng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ô Mã Nhi bị bắt sống. Trận Bạch Đằng đại thắng!",
+     "Omar was captured alive. A great victory at Bạch Đằng!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-1288",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 7,
+   "loi": [
+    [
+     "Hân Hân",
+     "Cánh quân bộ trên đường rút chạy cũng bị quân dân nhà Trần đánh cho tan tác. Cuộc kháng chiến năm 1287 – 1288 kết thúc thắng lợi.",
+     "The retreating land army was also routed by the Trần forces and people. The 1287–1288 resistance ended in victory."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "ken_burns",
+   "hinh": "Nhật Minh và Hân Hân trở lại khu di tích Bạch Đằng Giang lúc hoàng hôn, nét mặt tự hào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trần Quốc Tuấn đã tổng kết nguyên nhân thắng lợi: vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức.",
+     "Trần Quốc Tuấn summed up the reasons for victory: king and subjects of one mind, brothers in harmony, the whole country contributing."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: quân Trần đã tận dụng yếu tố tự nhiên nào trong trận Bạch Đằng? Bình luận đáp án nhé!",
+     "Your challenge: which natural factor did the Trần army use at Bạch Đằng? Answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai chỉ huy quân Trần phục kích đoàn thuyền lương của quân Nguyên ở Vân Đồn – Cửa Lục?",
+   "dap_an": [
+    "Trần Quốc Toản",
+    "Trần Khánh Dư",
+    "Trần Bình Trọng",
+    "Trần Thủ Độ"
+   ],
+   "dung": 1,
+   "trang": 72
+  },
+  {
+   "hoi": "Trận Bạch Đằng năm 1288 diễn ra vào thời gian nào?",
+   "dap_an": [
+    "Đầu tháng 4 – 1288",
+    "Tháng 1 – 1258",
+    "Tháng 5 – 1285",
+    "Cuối năm 1287"
+   ],
+   "dung": 0,
+   "trang": 72
+  },
+  {
+   "hoi": "Tướng giặc nào bị bắt sống trong trận Bạch Đằng năm 1288?",
+   "dap_an": [
+    "Thoát Hoan",
+    "Ô Mã Nhi",
+    "Toa Đô",
+    "Ngột Lương Hợp Thai"
+   ],
+   "dung": 1,
+   "trang": 72
+  },
+  {
+   "hoi": "Câu “Năm nay đánh giặc nhàn” là của ai?",
+   "dap_an": [
+    "Trần Nhân Tông",
+    "Trần Quốc Tuấn",
+    "Trần Thủ Độ",
+    "Trần Khánh Dư"
+   ],
+   "dung": 1,
+   "trang": 71
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 71–72 (tư liệu 4, 5; Hình 3, 4). Đối thoại Trần Nhân Tông – Trần Quốc Tuấn đúng tư liệu 4 SGK. Sơ đồ cửa sông là minh hoạ theo mô tả SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

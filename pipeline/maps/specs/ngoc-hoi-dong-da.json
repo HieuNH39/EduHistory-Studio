@@ -1,0 +1,71 @@
+{
+ "phien_ban": 2,
+ "ten": "Đại phá quân Thanh (1789)",
+ "phu_de": "Trận Ngọc Hồi – Đống Đa, Tết Kỷ Dậu",
+ "nguon": "Sơ đồ mô phỏng theo Lược đồ hình 8.5, SGK Lịch sử và Địa lí 8",
+ "khung": [-40, 0, 1060, 1265],
+ "lech_x": 0.08,
+ "tam": [560, 640],
+ "ho": [{"ten": "hồ Tây", "elip": [515, 185, 80, 70, -10], "nhan": [520, 190]}],
+ "song": [
+  {"ten": "S. Hồng", "diem": [[560,-20],[590,110],[680,200],[720,340],[780,480],[880,580],[960,720],[950,860],[900,960],[930,1080],[1030,1170]], "rong": 34, "nhan": [770,430], "goc": 62},
+  {"ten": "S. Tô Lịch", "diem": [[400,300],[420,440],[460,540],[480,640],[520,740],[580,790],[600,860],[640,950]], "rong": 5, "nhan": [520,600], "goc": 62},
+  {"ten": "S. Nhuệ", "diem": [[190,150],[140,330],[150,440],[200,510],[260,560],[300,640],[330,720],[360,800],[340,900],[320,1050],[300,1265]], "rong": 6, "nhan": [235,525], "goc": 35}
+ ],
+ "tuong_thanh": [[[400,240],[450,262],[530,262],[640,272],[690,340],[665,430],[600,475]], [[400,240],[385,330],[430,365],[520,405],[600,475]]],
+ "dia_danh": [
+  {"ten": "THĂNG LONG", "vi_tri": [525,290], "nhan": [400,300], "kieu": "thanh", "lon": true},
+  {"ten": "Đông Ngạn", "vi_tri": [728,60]}, {"ten": "Bồ Đề", "vi_tri": [830,280]}, {"ten": "Cầu Diễn", "vi_tri": [112,260]},
+  {"ten": "Cầu Giấy", "vi_tri": [325,335]}, {"ten": "Đại Mỗ", "vi_tri": [118,460]}, {"ten": "Hà Đông", "vi_tri": [240,688]},
+  {"ten": "ĐỐNG ĐA", "vi_tri": [535,492], "dam": true}, {"ten": "Thanh Đàm", "vi_tri": [575,728]}, {"ten": "Văn Điển", "vi_tri": [548,828]},
+  {"ten": "NGỌC HỒI", "vi_tri": [712,1000], "dam": true}, {"ten": "HÀ HỒI", "vi_tri": [785,1222], "dam": true}, {"ten": "Thanh Oai", "vi_tri": [130,1142]}
+ ],
+ "doi_tuong": {
+  "don_ha_hoi": {"loai": "don_dich", "vi_tri": [705,1205]},
+  "don_ngoc_hoi": {"loai": "don_dich", "vi_tri": [632,958]},
+  "don_dong_da": {"loai": "don_dich", "vi_tri": [470,452]},
+  "don_thang_long": {"loai": "don_dich", "vi_tri": [590,330]},
+  "vao_ha_hoi": {"loai": "mui_ten_ta", "diem": [[705,1268],[705,1235]], "w0": 8, "w1": 13},
+  "sao_ha_hoi": {"loai": "sao", "vi_tri": [705,1205]},
+  "qt_ngoc_hoi": {"loai": "mui_ten_ta", "diem": [[705,1190],[675,1095],[640,1000]]},
+  "sao_ngoc_hoi": {"loai": "sao", "vi_tri": [632,958]},
+  "bao_1": {"loai": "mui_ten_ta", "diem": [[150,1200],[260,1100],[375,1005]]},
+  "bao_2": {"loai": "mui_ten_ta", "diem": [[340,945],[380,860],[440,815],[490,850]], "w0": 6, "w1": 11},
+  "bao_3": {"loai": "mui_ten_ta", "diem": [[460,1000],[500,950],[530,895]], "w0": 6, "w1": 11},
+  "chan_van_dien": {"loai": "chan_danh", "vi_tri": [640,865], "goc": 0},
+  "rut_van_dien": {"loai": "rut_chay", "diem": [[560,866],[480,886]]},
+  "long_dong_da": {"loai": "mui_ten_ta", "diem": [[290,650],[360,570],[440,482]]},
+  "sao_dong_da": {"loai": "sao", "vi_tri": [470,452]},
+  "qt_bac": {"loai": "mui_ten_ta", "diem": [[645,935],[650,830],[645,700],[632,580]]},
+  "qt_tl_1": {"loai": "mui_ten_ta", "diem": [[628,560],[600,450],[566,350]]},
+  "qt_tl_2": {"loai": "mui_ten_ta", "diem": [[640,560],[650,450],[655,368]]},
+  "rut_tl_1": {"loai": "rut_chay", "diem": [[590,262],[615,200],[640,150]]},
+  "rut_tl_2": {"loai": "rut_chay", "diem": [[690,340],[745,282],[860,168]]},
+  "tl_sang": {"loai": "thanh_sang", "vi_tri": [525,290]}
+ },
+ "chu_giai": [
+  {"loai": "mui_ten_ta", "nhan": "Quân Tây Sơn hành quân, tiến công"},
+  {"loai": "sao", "nhan": "Nơi quân Tây Sơn thắng lớn"},
+  {"loai": "chan_danh", "nhan": "Quân Tây Sơn chặn đánh"},
+  {"loai": "rut_chay", "nhan": "Quân Thanh rút chạy"},
+  {"loai": "don_dich", "nhan": "Đồn quân Thanh"}
+ ],
+ "pha": {
+  "boi_canh": {"mo_dau": true, "zoom": [1.0, 1.03], "chu_giai": ["don_dich"],
+    "buoc": [{"id": "don_thang_long", "tu": 0.15, "den": 0.25}, {"id": "don_dong_da", "tu": 0.3, "den": 0.4}, {"id": "don_ngoc_hoi", "tu": 0.45, "den": 0.55}, {"id": "don_ha_hoi", "tu": 0.6, "den": 0.7}],
+    "moc": [{"chu": "Cuối năm 1788: quân Thanh chiếm Thăng Long", "tu": 0.1}]},
+  "ha_hoi": {"zoom": [1.04, 1.12], "tam": [690, 1050], "hien": ["don_thang_long", "don_dong_da", "don_ngoc_hoi", "don_ha_hoi"], "chu_giai": ["mui_ten_ta", "sao", "don_dich"],
+    "buoc": [{"id": "vao_ha_hoi", "tu": 0.25, "den": 0.45}, {"id": "don_ha_hoi", "tu": 0.5, "den": 0.65, "hieu_ung": "mat"}, {"id": "sao_ha_hoi", "tu": 0.62, "den": 0.75}],
+    "moc": [{"chu": "Đêm 30 Tết (25 – 1 – 1789): vượt sông Gián Khẩu", "tu": 0.02, "den": 0.45}, {"chu": "Đêm mồng 3 Tết (28 – 1 – 1789): vây đồn Hà Hồi", "tu": 0.47}]},
+  "ngoc_hoi_dong_da": {"zoom": [1.0, 1.04], "hien": ["don_thang_long", "don_dong_da", "don_ngoc_hoi", "sao_ha_hoi"], "da_mat": [], "chu_giai": ["mui_ten_ta", "sao", "chan_danh", "rut_chay", "don_dich"],
+    "buoc": [{"id": "qt_ngoc_hoi", "tu": 0.08, "den": 0.25}, {"id": "bao_1", "tu": 0.1, "den": 0.28}, {"id": "bao_2", "tu": 0.26, "den": 0.36}, {"id": "bao_3", "tu": 0.28, "den": 0.38},
+             {"id": "don_ngoc_hoi", "tu": 0.3, "den": 0.4, "hieu_ung": "mat"}, {"id": "sao_ngoc_hoi", "tu": 0.38, "den": 0.48},
+             {"id": "chan_van_dien", "tu": 0.42, "den": 0.5}, {"id": "rut_van_dien", "tu": 0.45, "den": 0.55},
+             {"id": "long_dong_da", "tu": 0.5, "den": 0.66}, {"id": "don_dong_da", "tu": 0.64, "den": 0.72, "hieu_ung": "mat"}, {"id": "sao_dong_da", "tu": 0.7, "den": 0.8}],
+    "moc": [{"chu": "Sáng mồng 5 Tết (30 – 1 – 1789)", "tu": 0.02}]},
+  "thang_long": {"zoom": [1.04, 1.14], "tam": [560, 420], "hien": ["sao_ha_hoi", "sao_ngoc_hoi", "sao_dong_da", "qt_ngoc_hoi", "long_dong_da", "don_thang_long"], "chu_giai": ["mui_ten_ta", "sao", "rut_chay"],
+    "buoc": [{"id": "qt_bac", "tu": 0.05, "den": 0.25}, {"id": "qt_tl_1", "tu": 0.25, "den": 0.4}, {"id": "qt_tl_2", "tu": 0.27, "den": 0.42},
+             {"id": "rut_tl_1", "tu": 0.35, "den": 0.5}, {"id": "rut_tl_2", "tu": 0.37, "den": 0.52}, {"id": "don_thang_long", "tu": 0.45, "den": 0.55, "hieu_ung": "mat"}, {"id": "tl_sang", "tu": 0.55, "den": 0.7}],
+    "bang": {"chu": "Trưa mồng 5 Tết: quân Tây Sơn vào Thăng Long", "tu": 0.65}}
+ }
+}

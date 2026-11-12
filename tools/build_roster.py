@@ -27,7 +27,18 @@ TEN = {"nguyen-hue": "Nguyễn Huệ (Quang Trung)", "ho-chi-minh": "Hồ Chí M
 CO_ANH = {"mac", "ang-ghen", "na-po-le-ong-iii", "nu-hoang-anh-vich-to-ri-a", "s-dac-uyn", "lep-ton-xtoi", "vich-to-huy-go", "p-i-trai-cop-xki",
           "ph-so-panh", "h-ban-dac", "ham-nghi", "phan-dinh-phung", "ton-that-thuyet", "hoang-hoa-tham", "ho-xe-ri-dan", "bo-ni-pha-xi-o",
           "ph-gac-ni-e", "h-ri-vi-e", "nguyen-truong-to", "tu-duc"}
+# nhân vật bổ sung khi viết kịch bản chi tiết (data/scripts/*.json → nhan_vat_lich_su)
+BO_SUNG = {
+ "le-chieu-thong": {"ten": "Lê Chiêu Thống", "loai": "ca_nhan", "thoi_ky": "can_dai", "quoc_gia": "Việt Nam",
+                    "vai_tro": "Vua cuối cùng nhà Lê, cầu cứu nhà Thanh (1788)", "the_ki": "XVIII"},
+ "quan-doi-nha-tran": {"ten": "Quân đội nhà Trần", "loai": "nhom", "thoi_ky": "trung_dai", "quoc_gia": "Đại Việt",
+                       "vai_tro": "Quân dân nhà Trần trong ba lần kháng chiến chống Mông – Nguyên", "the_ki": "XIII"},
+}
 def main():
+    cu = {}
+    try:
+        cu = {a["id"]: a for a in json.load(open(f"{ROOT}/data/catalog/nhan-vat.json"))["nhan_vat"]}
+    except Exception: pass
     agg = {}
     for f in sorted(glob.glob(f"{ROOT}/data/catalog/characters_raw/*.json")):
         for t in json.load(open(f)).get("tap", []):
@@ -37,11 +48,17 @@ def main():
                 a = agg.setdefault(k, {"id": k, "ten": TEN.get(k, nv["ten"]), "loai": nv.get("loai"), "thoi_ky": nv.get("thoi_ky"),
                                        "quoc_gia": nv.get("quoc_gia"), "vai_tro": nv.get("vai_tro"), "the_ki": nv.get("the_ki"), "tap": []})
                 if t["ma"] not in a["tap"]: a["tap"].append(t["ma"])
+    for f in sorted(glob.glob(f"{ROOT}/data/scripts/*.json")):
+        sc = json.load(open(f))
+        for k in sc.get("nhan_vat_lich_su", []):
+            if k not in agg and k in BO_SUNG: agg[k] = {"id": k, **BO_SUNG[k], "tap": []}
+            if k in agg and sc["ma"] not in agg[k]["tap"]: agg[k]["tap"].append(sc["ma"])
     for k, a in agg.items():
         if a["loai"] == "nhom": a["nguon_hinh"] = "nhom_ve" if a["thoi_ky"] != "hien_dai" else "nhom_tu_lieu_hoac_ve"
         elif a["thoi_ky"] == "hien_dai" or k in CO_ANH: a["nguon_hinh"] = "anh_tu_lieu"
         else: a["nguon_hinh"] = "ve_theo_tham_chieu"
-        a["thiet_ke"] = "chua"  # chua | nhap | duyet
+        a["thiet_ke"] = cu.get(k, {}).get("thiet_ke", "chua")  # chua | nhap | duyet (giữ trạng thái cũ)
+        if cu.get(k, {}).get("ban_thiet_ke"): a["ban_thiet_ke"] = cu[k]["ban_thiet_ke"]
     json.dump({"ghi_chu": __doc__, "nhan_vat": sorted(agg.values(), key=lambda a: (-len(a["tap"]), a["ten"]))},
               open(f"{ROOT}/data/catalog/nhan-vat.json", "w"), ensure_ascii=False, indent=1)
     # gắn vào tập

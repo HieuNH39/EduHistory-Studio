@@ -6523,11 +6523,11 @@
    "ten_bai": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
    "so": 4,
    "ten_tap": "Bạch Đằng Giang: Bản hùng ca trên sông",
-   "noi_dung": "Diễn biến cuộc kháng chiến lần thứ ba (1287–1288): trận Vân Đồn chặn đoàn thuyền lương, rồi trận Bạch Đằng với bãi cọc ngầm và lợi dụng thuỷ triều để tiêu diệt thuỷ quân Nguyên.",
+   "noi_dung": "Diễn biến cuộc kháng chiến lần thứ ba (1287–1288): trận Vân Đồn – Cửa Lục chặn đoàn thuyền lương, rồi trận Bạch Đằng: bãi cọc ngầm, nước triều rút và kế hoả công tiêu diệt thuỷ quân Nguyên (SGK LS7 tr. 72).",
    "kien_thuc_chot": [
-    "Trận Vân Đồn: tiêu diệt đoàn thuyền lương của Trương Văn Hổ",
-    "Trận Bạch Đằng năm 1288: bãi cọc ngầm, nước triều",
-    "Bắt sống Ô Mã Nhi"
+    "Trần Khánh Dư phục kích đoàn thuyền lương ở Vân Đồn – Cửa Lục",
+    "Trận Bạch Đằng (4-1288): bãi cọc ngầm, nước triều rút, kế hoả công",
+    "Ô Mã Nhi bị bắt sống"
    ],
    "khung": "4-5p",
    "huong": "ngang",
@@ -6543,8 +6543,18 @@
    "dot": 1,
    "nhan_vat": [
     {
+     "id": "tran-nhan-tong",
+     "ten": "Trần Nhân Tông",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
      "id": "tran-hung-dao",
      "ten": "Trần Quốc Tuấn (Trần Hưng Đạo)",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "thoat-hoan",
+     "ten": "Thoát Hoan",
      "nguon_hinh": "ve_theo_tham_chieu"
     },
     {
@@ -6560,6 +6570,16 @@
     {
      "id": "quan-mai-phuc-dai-viet",
      "ten": "Quân mai phục Đại Việt",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "quan-mong-nguyen",
+     "ten": "quân Mông - Nguyên",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "quan-doi-nha-tran",
+     "ten": "Quân đội nhà Trần",
      "nguon_hinh": "nhom_ve"
     }
    ],
@@ -8984,6 +9004,11 @@
      "nguon_hinh": "ve_theo_tham_chieu"
     },
     {
+     "id": "nghia-quan-tay-son",
+     "ten": "Nghĩa quân Tây Sơn",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "quan-xiem",
      "ten": "Quân Xiêm",
      "nguon_hinh": "nhom_ve"
@@ -9025,6 +9050,11 @@
      "nguon_hinh": "ve_theo_tham_chieu"
     },
     {
+     "id": "nghia-quan-tay-son",
+     "ten": "Nghĩa quân Tây Sơn",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "ton-si-nghi",
      "ten": "Tôn Sĩ Nghị",
      "nguon_hinh": "ve_theo_tham_chieu"
@@ -9043,6 +9073,11 @@
      "id": "quan-thanh",
      "ten": "Quân Thanh",
      "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "le-chieu-thong",
+     "ten": "Lê Chiêu Thống",
+     "nguon_hinh": "ve_theo_tham_chieu"
     }
    ],
    "dang_phim": "Phim hoạt hình có kịch bản, Minh – Hân dẫn chuyện, tái hiện có nhân vật lịch sử, sa bàn/bản đồ động",

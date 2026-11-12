@@ -63,12 +63,12 @@ def _tts_group(lines):
             raise
     raise RuntimeError("Hết hạn mức giọng đọc Gemini TTS ở mọi mô hình")
 
-def voice_for(lines, gap=0.28):
+def voice_for(lines, gap=0.28, pauses=None):
     if CFG["tts"].get("engine") == "vieneu":
         import tts_vieneu
-        key = hashlib.sha1(json.dumps(lines, ensure_ascii=False).encode()).hexdigest()[:16]
+        key = hashlib.sha1(json.dumps([lines, pauses], ensure_ascii=False).encode()).hexdigest()[:16]
         out = os.path.join(CACHE, f"vn_scene_{key}.wav")
-        return out, tts_vieneu.scene(lines, out)
+        return out, tts_vieneu.scene(lines, out, pauses=pauses)
     return _voice_gemini(lines, gap)
 
 def _voice_gemini(lines, gap=0.28):
@@ -141,6 +141,33 @@ def chunk(text, maxlen):
         if cur and cur[-1] in ",.;:!?" and len(cur) > maxlen * 0.55:
             out.append(cur); cur = ""
     if cur: out.append(cur)
+    # tránh đoạn cuối quá ngắn (vd. "ta."): gộp hai đoạn cuối rồi chia đôi cho cân
+    if len(out) >= 2 and len(out[-1]) < maxlen * 0.35:
+        ws = (out[-2] + " " + out[-1]).split(); tot = sum(len(w) + 1 for w in ws); c = 0; best = None
+        for i, w in enumerate(ws[:-1]):
+            c += len(w) + 1; cost = abs(c / tot - 0.5) - (0.08 if w[-1] in ",.;:!?" else 0)
+            if best is None or cost < best[0]: best = (cost, i)
+        k = best[1] + 1; out[-2:] = [" ".join(ws[:k]), " ".join(ws[k:])]
+    return out
+
+def align_en(en, vparts):
+    """Chia phụ đề tiếng Anh thành đúng số đoạn của tiếng Việt, theo tỉ lệ độ dài,
+    ưu tiên ngắt sau dấu câu gần điểm cắt để hai dòng song ngữ khớp ý."""
+    n = len(vparts); words = en.split()
+    if n <= 1 or not words: return [en] + [""] * (n - 1) if n else []
+    tot_v = sum(len(v) for v in vparts); cum = []; c = 0
+    for w in words: c += len(w) + 1; cum.append(c)
+    tot_e = cum[-1]; cuts = []; acc = 0; start = 0
+    for v in vparts[:-1]:
+        acc += len(v); f = acc / tot_v; best = None
+        for i in range(start, len(words) - 1):
+            g = cum[i] / tot_e; cost = abs(g - f) - (0.07 if words[i][-1] in ",.;:!?" else 0)
+            if best is None or cost < best[0]: best = (cost, i)
+        if best is None: cuts.append(len(words) - 1); continue
+        cuts.append(best[1]); start = best[1] + 1
+    out = []; s = 0
+    for ci in cuts: out.append(" ".join(words[s:ci + 1])); s = ci + 1
+    out.append(" ".join(words[s:]))
     return out
 
 def build_ass(cues, W, H, vertical):
@@ -166,17 +193,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     maxlen = 34 if vertical else 58
     ev = []
     for t0, t1, vi, en in cues:
-        vparts = chunk(vi, maxlen); eparts = chunk(en or "", int(maxlen * 1.15)) if en else []
-        n = max(len(vparts), len(eparts), 1)
-        # gộp phần tiếng Anh cho khớp số đoạn tiếng Việt
-        def spread(parts, n):
-            if not parts: return [""] * n
-            if len(parts) == n: return parts
-            per = math.ceil(len(parts) / n) if len(parts) > n else 1
-            res = [" ".join(parts[i:i + per]) for i in range(0, len(parts), per)]
-            while len(res) < n: res.append("")
-            return res[:n]
-        vparts, eparts = spread(vparts, n), spread(eparts, n)
+        ml = maxlen
+        while True:
+            vparts = chunk(vi, ml)
+            eparts = align_en(en or "", vparts)
+            if ml <= 22 or all(len(e) <= ml * 1.45 for e in eparts): break
+            ml -= 6
         weights = [max(len(v), 1) for v in vparts]; span = t1 - t0; acc = t0
         for v, e, w in zip(vparts, eparts, weights):
             d = span * w / sum(weights)
@@ -274,11 +296,20 @@ def scene_source(spec, sc, W, H, n):
     rp = lambda x: x if os.path.isabs(x) else os.path.join(ROOT, x)
     lop = sc.get("lop")
     if lop == "sa_ban":
+        spec_file = os.path.join(ROOT, "pipeline/maps/specs", sc["sa_ban"] + ".json")
+        if json.load(open(spec_file)).get("phien_ban") == 2:
+            sys.path.insert(0, os.path.join(ROOT, "pipeline/maps"))
+            import saban2
+            return saban2.frames(sc["sa_ban"], sc["pha"], W, H, n, FPS)
         from maps import saban
         return saban.frames(sc["sa_ban"], sc["pha"], W, H, n, FPS)
     if lop == "chuyen_canh":
         import effects
         return effects.trong_dong(W, H, n, sc.get("chu", ""))
+    if lop == "cau_hoi":
+        import effects
+        b = sc.get("bounds") or [(0, 3), (6, 8)]
+        return effects.cau_hoi(W, H, n, sc["cau_hoi"], FPS, q_end=b[0][1] + 0.15, reveal=b[-1][0] + 0.15)
     base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
     vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
     img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)
@@ -299,7 +330,8 @@ def render(spec_path, out_dir=None):
     scenes = []
     for sc in spec["canh"]:
         lines = sc.get("loi", [])
-        wav, bounds = voice_for(lines) if lines else (None, [])
+        pauses = {"0": 3.4} if sc.get("lop") == "cau_hoi" else sc.get("nghi_sau_cau")
+        wav, bounds = voice_for(lines, pauses=pauses) if lines else (None, [])
         speech = dur(wav) if wav else sc.get("thoi_luong", 3.0)
         length = max(speech + (SCENE_PAD if wav else 0), sc.get("thoi_luong_toi_thieu", 0)) + XFADE
         scenes.append(dict(sc, wav=wav, bounds=bounds, speech=speech, length=length))

@@ -37,7 +37,7 @@ def line_wav(speaker, text):
         sf.write(out, w, t.sample_rate)
     return out
 
-def scene(lines, out_wav, gap=0.32):
+def scene(lines, out_wav, gap=0.32, pauses=None):
     """lines: [(người nói, câu, ...)] → ghi out_wav (48 kHz mono), trả về [(đầu, cuối)] từng câu."""
     parts, bounds, t, sr = [], [], 0.0, 48000
     for sp, text, *_ in lines:
@@ -45,6 +45,7 @@ def scene(lines, out_wav, gap=0.32):
         # cắt lặng hai đầu cho gọn
         nz = np.where(np.abs(w) > 0.008)[0]
         if len(nz): w = w[max(0, nz[0] - int(0.05 * sr)): nz[-1] + int(0.12 * sr)]
-        bounds.append((t, t + len(w) / sr)); parts += [w, np.zeros(int(gap * sr), np.float32)]; t += len(w) / sr + gap
+        g = gap + float((pauses or {}).get(str(len(bounds)), 0))
+        bounds.append((t, t + len(w) / sr)); parts += [w, np.zeros(int(g * sr), np.float32)]; t += len(w) / sr + g
     sf.write(out_wav, np.concatenate(parts[:-1]) if parts else np.zeros(1, np.float32), sr)
     return bounds
