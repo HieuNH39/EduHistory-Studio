@@ -18,3 +18,5 @@ Mỗi mục có thể đối chiếu với lịch sử commit của kho mã.
 | 7 | Thiết kế 3 phương án logo bằng mã SVG | – | Kết xuất PNG nền sáng/tối để giáo viên chọn |
 | 8 | Dò đầu bài tự động trên văn bản OCR (tìm cụm “Học xong bài này”) | Bỏ sót bài có trang đầu OCR kém; tiêu đề mục lẫn câu hỏi bài tập | Đối chiếu với ảnh mục lục SGK, chốt danh mục 78 bài + 7 chủ đề chung vào `data/catalog/lessons.json` |
 | 9 | Thử dùng trình duyệt trong ứng dụng Claude để tạo ảnh trên Gemini | Trình duyệt tích hợp không gắn được vào cuộc trò chuyện đang chạy | Chuyển sang tiện ích Claude in Chrome trên máy giáo viên |
+| 10 | Tạo bảng thiết kế hai nhân vật trên Gemini (qua trình duyệt) | Lần 1 đồng phục sai (áo trắng, quần xanh); máy tính bảng có logo thương hiệu; bạn nữ trông nhỏ tuổi hơn | Sửa theo yêu cầu giáo viên: áo polo cam FPT, quần/váy nâu, 15 tuổi; xóa logo trên đạo cụ (bản v4) |
+| 11 | Chọn giọng đọc: thử Gemini TTS nhiều cặp giọng | Không tự nghe được âm thanh | Dùng Gemini nghe – chép lại để đo tỉ lệ lỗi từ (WER) và chấm độ tự nhiên: cặp Puck/Leda đạt WER 1,5 %, tự nhiên 10/10 → chọn làm giọng Nhật Minh/Hân Hân |

@@ -1,0 +1,8 @@
+{
+  "tts": {"engine": "gemini", "model": "gemini-3.8-flash-tts", "fallback_model": "gemini-2.5-flash-preview-tts",
+          "voices": {"Nhật Minh": "Puck", "Hân Hân": "Leda"}, "offline_fallback": "piper vi_VN-vais1000-medium"},
+  "video": {"fps": 30, "landscape": [1920, 1080], "portrait": [1080, 1920], "loudness_lufs": -14},
+  "subtitle": {"font": "Be Vietnam Pro", "vi_position": "top_line", "en_position": "bottom_line"},
+  "logo": {"watermark": "brand/logo/final/eduhistory-watermark.png", "icon": "brand/logo/final/eduhistory-icon.png"},
+  "characters": "brand/characters/README.md"
+}
