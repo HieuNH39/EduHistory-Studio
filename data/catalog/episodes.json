@@ -1452,10 +1452,11 @@
     "Thập kỉ = 10 năm, Thế kỉ = 100 năm, Thiên niên kỉ = 1000 năm",
     "Cách tính khoảng cách năm giữa TCN và Công nguyên"
    ],
-   "khung": "4-5p",
+   "khung": "2-3p",
    "huong": "ngang",
    "mo_phong": "Trục thời gian tương tác kéo thả để tính khoảng cách giữa các mốc năm TCN và Công nguyên",
    "trang_sgk": [
+    14,
     15
    ],
    "uu_tien": "P1",
@@ -1464,6 +1465,11 @@
    "luu_y": [],
    "dot": 1,
    "nhan_vat": [
+    {
+     "id": "nguoi-ai-cap-co-dai",
+     "ten": "Người Ai Cập cổ đại",
+     "nguon_hinh": "nhom_ve"
+    },
     {
      "id": "chua-gie-su",
      "ten": "Chúa Giê-su",
@@ -7549,6 +7555,11 @@
      "nguon_hinh": "ve_theo_tham_chieu"
     },
     {
+     "id": "thuy-thu-tay-ban-nha",
+     "ten": "thủy thủ Tây Ban Nha",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "s-e-ca-no",
      "ten": "S. Ê-ca-nô",
      "nguon_hinh": "ve_theo_tham_chieu"
@@ -8200,8 +8211,18 @@
    "dot": 1,
    "nhan_vat": [
     {
+     "id": "cong-nhan-anh-the-ki-xviii",
+     "ten": "công nhân Anh thế kỉ XVIII",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "giem-oat",
      "ten": "Giêm Oát",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "r-ac-rai",
+     "ten": "R. Ác-rai",
      "nguon_hinh": "ve_theo_tham_chieu"
     }
    ],

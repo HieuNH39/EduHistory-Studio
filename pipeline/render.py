@@ -297,7 +297,12 @@ def scene_source(spec, sc, W, H, n):
     lop = sc.get("lop")
     if lop == "sa_ban":
         spec_file = os.path.join(ROOT, "pipeline/maps/specs", sc["sa_ban"] + ".json")
-        if json.load(open(spec_file)).get("phien_ban") == 2:
+        _sp = json.load(open(spec_file))
+        if _sp.get("loai") == "the_gioi":
+            sys.path.insert(0, os.path.join(ROOT, "pipeline/maps"))
+            import the_gioi
+            return the_gioi.frames(sc["sa_ban"], sc["pha"], W, H, n, FPS)
+        if _sp.get("phien_ban") == 2:
             sys.path.insert(0, os.path.join(ROOT, "pipeline/maps"))
             import saban2
             return saban2.frames(sc["sa_ban"], sc["pha"], W, H, n, FPS)
@@ -310,6 +315,10 @@ def scene_source(spec, sc, W, H, n):
         import effects
         b = sc.get("bounds") or [(0, 3), (6, 8)]
         return effects.cau_hoi(W, H, n, sc["cau_hoi"], FPS, q_end=b[0][1] + 0.15, reveal=b[-1][0] + 0.15)
+    if lop == "mo_phong":
+        import effects
+        kw = {"che_do": sc["che_do"]} if sc.get("che_do") else {}
+        return getattr(effects, sc["mo_phong"])(W, H, n, FPS, **kw)
     if lop in ("truc_thoi_gian", "ghi_nho"):
         import effects
         items = sc["moc"] if lop == "truc_thoi_gian" else sc["y"]

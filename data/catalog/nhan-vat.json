@@ -331,6 +331,23 @@
    "ban_thiet_ke": "brand/characters/lich-su/nhap/nguyen-hue-v1.jpg"
   },
   {
+   "id": "nguoi-ai-cap-co-dai",
+   "ten": "Người Ai Cập cổ đại",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Ai Cập",
+   "vai_tro": "Sáng tạo và sử dụng âm lịch",
+   "the_ki": "Cổ đại",
+   "tap": [
+    "L6-B3-02",
+    "L6-B7-03",
+    "L6-B7-04",
+    "L6-B3-03"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "nguoi-kho-me",
    "ten": "Người Khơ-me",
    "loai": "nhom",
@@ -528,22 +545,6 @@
     "L7-B9-01"
    ],
    "nguon_hinh": "ve_theo_tham_chieu",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "nguoi-ai-cap-co-dai",
-   "ten": "Người Ai Cập cổ đại",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Ai Cập",
-   "vai_tro": "Sáng tạo và sử dụng âm lịch",
-   "the_ki": "Cổ đại",
-   "tap": [
-    "L6-B3-02",
-    "L6-B7-03",
-    "L6-B7-04"
-   ],
-   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -1472,6 +1473,21 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "cong-nhan-anh-the-ki-xviii",
+   "ten": "công nhân Anh thế kỉ XVIII",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Anh",
+   "vai_tro": "người lao động trong các xưởng dệt",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B3-01",
+    "L8-B3-02"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "cong-nhan-nha-may",
    "ten": "công nhân nhà máy",
    "loai": "nhom",
@@ -1572,6 +1588,21 @@
    "tap": [
     "L7-CD1-01",
     "L7-CD1-04"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "thuy-thu-tay-ban-nha",
+   "ten": "thủy thủ Tây Ban Nha",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Tây Ban Nha",
+   "vai_tro": "đoàn người đồng hành cùng Cô-lôm-bô",
+   "the_ki": "XV",
+   "tap": [
+    "L7-CD1-02",
+    "L7-CD1-03"
    ],
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
@@ -6423,6 +6454,20 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "r-ac-rai",
+   "ten": "R. Ác-rai",
+   "loai": "ca_nhan",
+   "thoi_ky": "can_dai",
+   "quoc_gia": "Anh",
+   "vai_tro": "Phát minh máy kéo sợi chạy bằng sức nước (1769)",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B3-02"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "richard-nixon",
    "ten": "Richard Nixon",
    "loai": "ca_nhan",
@@ -7739,20 +7784,6 @@
    "thiet_ke": "chua"
   },
   {
-   "id": "cong-nhan-anh-the-ki-xviii",
-   "ten": "công nhân Anh thế kỉ XVIII",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Anh",
-   "vai_tro": "người lao động trong các xưởng dệt",
-   "the_ki": "XVIII",
-   "tap": [
-    "L8-B3-01"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
    "id": "cong-nhan-nga",
    "ten": "công nhân Nga",
    "loai": "nhom",
@@ -8154,20 +8185,6 @@
    "the_ki": "XVI - XVIII",
    "tap": [
     "L8-B9-02"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "thuy-thu-tay-ban-nha",
-   "ten": "thủy thủ Tây Ban Nha",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Tây Ban Nha",
-   "vai_tro": "đoàn người đồng hành cùng Cô-lôm-bô",
-   "the_ki": "XV",
-   "tap": [
-    "L7-CD1-02"
    ],
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"

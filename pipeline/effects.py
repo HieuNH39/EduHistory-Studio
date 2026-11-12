@@ -186,3 +186,181 @@ def ghi_nho(W, H, n, bullets, fps, times=None, title="GHI NHỚ"):
                     d.text((box[0] + 115 * s + 30 * s * (1 - a), yy), ln, font=f_b, fill=col); yy += LH
             y += LH * len(lines) + 30 * s
         yield np.asarray(img)
+
+def _ctx(W, H):
+    import cairo
+    surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(surf)
+    return surf, cr
+
+def _arr(surf, W, H):
+    buf = np.ndarray((H, W, 4), np.uint8, surf.get_data(), 0, (surf.get_stride(), 4, 1))
+    return buf[..., [2, 1, 0]].copy()
+
+def _txt(cr, s, x, y, size, color, bold=True, align="c", alpha=1.0):
+    import cairo
+    cr.select_font_face("Be Vietnam Pro", cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_BOLD if bold else cairo.FONT_WEIGHT_NORMAL)
+    cr.set_font_size(size); e = cr.text_extents(s)
+    dx = {"c": -e.width / 2 - e.x_bearing, "l": 0, "r": -e.width}[align]
+    cr.move_to(x + dx, y - e.height / 2 - e.y_bearing); cr.set_source_rgba(*color, alpha); cr.show_text(s)
+
+def may_hoi_nuoc(W, H, n, fps, labels=True):
+    """Mô phỏng nguyên lí máy hơi nước (minh hoạ đơn giản): lửa đun nồi hơi → hơi nước đẩy pít-tông qua lại
+    trong xi-lanh → tay biên làm quay bánh đà → dây cu-roa kéo máy móc. Nhãn hiện dần theo thời gian."""
+    s = H / 1080; cx0 = W * .5
+    for i in range(n):
+        t = i / fps; u = i / max(n - 1, 1)
+        surf, cr = _ctx(W, H)
+        cr.set_source_rgb(.95, .92, .86); cr.paint()
+        _txt(cr, "NGUYÊN LÍ MÁY HƠI NƯỚC (minh hoạ)", W * .06, H * .08, 40 * s, (.95, .42, .11), align="l")
+        ang = t * 2.4  # góc quay bánh đà
+        # nồi hơi
+        bx, by, bw, bh = W * .10, H * .42, W * .20, H * .26
+        cr.set_source_rgb(.45, .32, .25); cr.rectangle(bx, by, bw, bh); cr.fill()
+        cr.set_source_rgb(.30, .22, .18); cr.rectangle(bx - 10 * s, by - 18 * s, bw + 20 * s, 22 * s); cr.fill()
+        for k in range(6):  # lửa
+            fx = bx + bw * (k + .5) / 6; fh = (40 + 18 * math.sin(t * 9 + k)) * s
+            cr.set_source_rgba(1, .55 + .2 * math.sin(t * 7 + k), .1, .9); cr.move_to(fx - 16 * s, by + bh + 40 * s); cr.line_to(fx, by + bh + 40 * s - fh); cr.line_to(fx + 16 * s, by + bh + 40 * s); cr.close_path(); cr.fill()
+        # ống dẫn hơi
+        py = H * .40; cyx0, cyx1 = W * .38, W * .60
+        cr.set_source_rgb(.55, .55, .58); cr.set_line_width(16 * s); cr.move_to(bx + bw * .7, by - 18 * s); cr.line_to(bx + bw * .7, py - 70 * s); cr.line_to(cyx0 + 20 * s, py - 70 * s); cr.line_to(cyx0 + 20 * s, py - 40 * s); cr.stroke()
+        # xi-lanh
+        cr.set_source_rgb(.35, .38, .42); cr.rectangle(cyx0, py - 40 * s, cyx1 - cyx0, 80 * s); cr.fill()
+        cr.set_source_rgb(.85, .87, .9); cr.rectangle(cyx0 + 8 * s, py - 32 * s, cyx1 - cyx0 - 16 * s, 64 * s); cr.fill()
+        # bánh đà + tay biên
+        fwx, fwy, R, r = W * .80, py + 20 * s, 150 * s, 70 * s
+        crank = (fwx + r * math.cos(ang), fwy + r * math.sin(ang))
+        L = 300 * s
+        pxp = crank[0] - math.sqrt(max(L * L - (crank[1] - py) ** 2, 1))
+        pist = min(max(pxp - 120 * s, cyx0 + 30 * s), cyx1 - 60 * s)
+        # hơi nước trong xi-lanh (phía trái pít-tông)
+        cr.set_source_rgba(.75, .85, 1, .8); cr.rectangle(cyx0 + 8 * s, py - 32 * s, pist - cyx0 - 8 * s, 64 * s); cr.fill()
+        cr.set_source_rgb(.25, .25, .28); cr.rectangle(pist, py - 32 * s, 30 * s, 64 * s); cr.fill()
+        cr.set_line_width(12 * s); cr.move_to(pist + 30 * s, py); cr.line_to(pxp, py); cr.stroke()
+        cr.set_line_width(10 * s); cr.set_source_rgb(.45, .3, .2); cr.move_to(pxp, py); cr.line_to(*crank); cr.stroke()
+        cr.set_source_rgb(.2, .2, .22); cr.set_line_width(18 * s); cr.arc(fwx, fwy, R, 0, 6.2832); cr.stroke()
+        for k in range(6):
+            a = ang + k * math.pi / 3; cr.set_line_width(8 * s); cr.move_to(fwx, fwy); cr.line_to(fwx + R * math.cos(a), fwy + R * math.sin(a)); cr.stroke()
+        cr.arc(*crank, 9 * s, 0, 6.2832); cr.fill()
+        # dây cu-roa xuống máy dệt
+        mx, my = W * .80, H * .78
+        cr.set_source_rgb(.4, .3, .2); cr.set_line_width(5 * s); cr.move_to(fwx - 30 * s, fwy); cr.line_to(mx - 30 * s, my); cr.move_to(fwx + 30 * s, fwy); cr.line_to(mx + 30 * s, my); cr.stroke()
+        cr.set_source_rgb(.55, .45, .3); cr.rectangle(mx - 120 * s, my, 240 * s, 60 * s); cr.fill()
+        for k in range(5):
+            sx = mx - 90 * s + k * 45 * s; cr.set_source_rgb(.95, .95, .9); cr.arc(sx, my - 10 * s, 12 * s, 0, 6.2832); cr.fill()
+            cr.set_source_rgb(.3, .3, .3); cr.set_line_width(2); cr.move_to(sx, my - 10 * s); cr.line_to(sx + 10 * s * math.cos(ang * 3 + k), my - 10 * s + 10 * s * math.sin(ang * 3 + k)); cr.stroke()
+        # khói/hơi thoát
+        for k in range(4):
+            ph = (t * .6 + k / 4) % 1; cr.set_source_rgba(1, 1, 1, .5 * (1 - ph)); cr.arc(cyx1 - 30 * s, py - 50 * s - ph * 160 * s, (14 + 30 * ph) * s, 0, 6.2832); cr.fill()
+        if labels:
+            items = [(.08, "Lửa đun nóng nồi hơi", bx + bw / 2, by + bh + 80 * s), (.25, "Hơi nước", cyx0 - 60 * s, py - 95 * s), (.42, "Pít-tông chuyển động qua lại", (cyx0 + cyx1) / 2, py + 75 * s),
+                     (.58, "Bánh đà quay", fwx, fwy - R - 40 * s), (.74, "Máy móc chạy theo", mx, my + 95 * s)]
+            for t0, lab, lx, ly in items:
+                a = _ease((u - t0) / .06)
+                if a > 0: _txt(cr, lab, lx, ly, 30 * s, (.12, .16, .24), alpha=a)
+        yield _arr(surf, W, H)
+
+def nha_may(W, H, n, fps):
+    """Trước: xưởng dệt phải bám bờ sông chảy xiết (bánh xe nước). Sau: nhà máy dùng máy hơi nước mọc lên ở nhiều nơi thuận lợi."""
+    s = H / 1080
+    def factory(cr, x, y, k, chimney=True, t=0):
+        cr.set_source_rgba(.55, .25, .18, k); cr.rectangle(x - 70 * s, y - 70 * s, 140 * s, 70 * s); cr.fill()
+        cr.move_to(x - 70 * s, y - 70 * s)
+        for j in range(4): cr.line_to(x - 70 * s + j * 35 * s + 17 * s, y - 95 * s); cr.line_to(x - 70 * s + (j + 1) * 35 * s, y - 70 * s)
+        cr.close_path(); cr.fill()
+        if chimney:
+            cr.rectangle(x + 40 * s, y - 150 * s, 18 * s, 80 * s); cr.fill()
+            for q in range(3):
+                ph = (t * .5 + q / 3) % 1; cr.set_source_rgba(.4, .4, .42, .45 * k * (1 - ph)); cr.arc(x + 49 * s + ph * 40 * s, y - 160 * s - ph * 90 * s, (10 + 22 * ph) * s, 0, 6.2832); cr.fill()
+    for i in range(n):
+        t = i / fps; u = i / max(n - 1, 1)
+        surf, cr = _ctx(W, H)
+        cr.set_source_rgb(.88, .93, .84); cr.paint()
+        _txt(cr, "NHÀ MÁY KHÔNG CÒN PHẢI BÁM BỜ SÔNG (minh hoạ)", W * .30, H * .08, 38 * s, (.95, .42, .11), align="l")
+        # sông bên trái
+        cr.set_source_rgb(.55, .75, .9); cr.move_to(W * .08, 0); cr.curve_to(W * .2, H * .3, W * .05, H * .6, W * .16, H)
+        cr.line_to(W * .26, H); cr.curve_to(W * .15, H * .6, W * .3, H * .3, W * .18, 0); cr.close_path(); cr.fill()
+        # xưởng ven sông + bánh xe nước
+        factory(cr, W * .30, H * .52, 1, chimney=False)
+        wx, wy = W * .215, H * .48
+        cr.set_source_rgb(.4, .28, .18); cr.set_line_width(6 * s); cr.arc(wx, wy, 50 * s, 0, 6.2832); cr.stroke()
+        for k in range(8):
+            a = t * 2 + k * math.pi / 4; cr.move_to(wx, wy); cr.line_to(wx + 50 * s * math.cos(a), wy + 50 * s * math.sin(a)); cr.stroke()
+        _txt(cr, "1771: xưởng dệt bên sông chảy xiết", W * .36, H * .60, 26 * s, (.12, .16, .24))
+        k2 = _ease((u - .35) / .25)
+        if k2 > 0:
+            for j, (x, y) in enumerate([(.55, .40), (.72, .55), (.86, .38), (.62, .72), (.84, .74)]):
+                kk = _ease((u - .35 - j * .06) / .15)
+                if kk > 0: factory(cr, W * x, H * y, kk, True, t)
+            _txt(cr, "Sau 1784: nhà máy dùng máy hơi nước, xây ở bất cứ nơi nào thuận lợi", W * .66, H * .88, 28 * s, (.12, .16, .24), alpha=k2)
+        yield _arr(surf, W, H)
+
+def truc_cong_lich(W, H, n, fps, che_do="co_ban"):
+    """Trục Công lịch (theo Hình 3 SGK LSĐL 6, tr. 15). che_do: co_ban | don_vi | khoang_cach."""
+    s = H / 1080; y = H * .42; x0, x1 = W * .06, W * .94; xm = W * .5
+    def X(year):  # năm âm = TCN; trục co giãn: 3000 TCN .. 3000 CN
+        return xm + (x1 - xm) * (year / 3000.0)
+    for i in range(n):
+        t = i / fps; u = i / max(n - 1, 1)
+        surf, cr = _ctx(W, H)
+        cr.set_source_rgb(.10, .17, .30); cr.paint()
+        _txt(cr, {"co_ban": "TRỤC CÔNG LỊCH", "don_vi": "THẬP KỈ – THẾ KỈ – THIÊN NIÊN KỈ", "khoang_cach": "TÍNH KHOẢNG CÁCH THỜI GIAN"}[che_do], W * .06, H * .08, 40 * s, (.95, .42, .11), align="l")
+        k = _ease(u / .15)
+        cr.set_source_rgba(.79, .55, .17, 1); cr.set_line_width(8 * s)
+        cr.move_to(xm - (xm - x0) * k, y); cr.line_to(xm + (x1 - xm) * k, y); cr.stroke()
+        cr.move_to(x1 * 1 + 0 * s, y); cr.line_to(x1 - 24 * s, y - 14 * s); cr.line_to(x1 - 24 * s, y + 14 * s); cr.close_path(); cr.fill()
+        for yr in (-2000, -1000, 1000, 2000):
+            xx = X(yr); cr.set_line_width(4 * s); cr.move_to(xx, y - 14 * s); cr.line_to(xx, y + 14 * s); cr.stroke()
+            _txt(cr, f"{abs(yr)}", xx, y + 48 * s, 30 * s, (.92, .94, .98), bold=False, alpha=k)
+        _txt(cr, "Trước Công nguyên (TCN)", (x0 + xm) / 2, y - 60 * s, 34 * s, (.75, .85, 1), alpha=k)
+        _txt(cr, "Công nguyên", (xm + x1) / 2, y - 60 * s, 34 * s, (1, .85, .6), alpha=k)
+        # mốc năm 1
+        a1 = _ease((u - .15) / .1) if che_do == "co_ban" else 1
+        if a1 > 0:
+            cr.set_source_rgba(.95, .42, .11, a1); cr.arc(xm + 6 * s, y, 12 * s, 0, 6.2832); cr.fill()
+            cr.set_source_rgba(.75, .85, 1, a1); cr.arc(xm - 6 * s, y, 9 * s, 0, 6.2832); cr.fill()
+            _txt(cr, "Năm 1", xm + 60 * s, y + 48 * s, 30 * s, (1, .85, .6), alpha=a1)
+            _txt(cr, "Năm 1 TCN", xm - 90 * s, y + 48 * s, 30 * s, (.75, .85, 1), alpha=a1)
+        if che_do == "co_ban":
+            a2 = _ease((u - .3) / .1)
+            if a2 > 0: _txt(cr, "Năm ra đời của Chúa Giê-su (tương truyền) – năm đầu tiên của Công nguyên", xm, y - 150 * s, 30 * s, (1, 1, 1), bold=False, alpha=a2)
+            a3 = _ease((u - .6) / .1)
+            if a3 > 0:
+                cr.set_source_rgba(.95, .3, .3, a3); cr.set_line_width(5 * s); cr.move_to(xm - 40 * s, y + 90 * s); cr.line_to(xm + 40 * s, y + 150 * s); cr.move_to(xm + 40 * s, y + 90 * s); cr.line_to(xm - 40 * s, y + 150 * s); cr.stroke()
+                _txt(cr, "Không có năm 0", xm, y + 190 * s, 34 * s, (.95, .4, .4), alpha=a3)
+        elif che_do == "don_vi":
+            rows = [(.12, "Thập kỉ = 10 năm", "2021 – 2030"), (.38, "Thế kỉ = 100 năm", "Thế kỉ XXI: 2001 – 2100"), (.64, "Thiên niên kỉ = 1 000 năm", "Thiên niên kỉ III: 2001 – 3000")]
+            X2 = lambda yr: W * .34 + (yr - 2000) / 1000.0 * W * .58
+            az = _ease((u - .05) / .08)
+            if az > 0:
+                _txt(cr, "Phóng to đoạn từ năm 2000 đến năm 3000", W * .34, y + 95 * s, 26 * s, (.75, .85, 1), bold=False, align="l", alpha=az)
+                cr.set_source_rgba(.79, .55, .17, az); cr.set_line_width(4 * s); cr.move_to(X2(2000), y + 125 * s); cr.line_to(X2(3000), y + 125 * s); cr.stroke()
+                for yr in (2000, 2100, 2500, 3000):
+                    cr.move_to(X2(yr), y + 115 * s); cr.line_to(X2(yr), y + 135 * s); cr.stroke()
+                    _txt(cr, str(yr), X2(yr), y + 152 * s, 22 * s, (.92, .94, .98), bold=False, alpha=az)
+            for j, (t0, a, b) in enumerate(rows):
+                aa = _ease((u - t0) / .1)
+                if aa <= 0: continue
+                ya = y + (200 + j * 80) * s
+                x_a = X2(2001); x_b = X2({0: 2030, 1: 2100, 2: 3000}[j]); x_b = max(x_b, x_a + 10 * s)
+                cr.set_source_rgba(.95, .42, .11, aa); cr.rectangle(x_a, ya - 14 * s, (x_b - x_a) * aa, 28 * s); cr.fill()
+                _txt(cr, a, W * .06, ya, 32 * s, (1, 1, 1), align="l", alpha=aa)
+                if j < 2: _txt(cr, b, x_b + 20 * s, ya, 28 * s, (1, .85, .6), bold=False, align="l", alpha=aa)
+                else: _txt(cr, b, (x_a + x_b) / 2, ya, 28 * s, (1, 1, 1), alpha=aa)
+            aa = _ease((u - .85) / .08)
+            if aa > 0: _txt(cr, "Tính từ năm đầu tiên của mỗi khoảng thời gian", xm, y - 150 * s, 30 * s, (1, 1, 1), bold=False, alpha=aa)
+        else:
+            a, b = -208, 2026
+            ka = _ease((u - .15) / .2); kb = _ease((u - .4) / .2)
+            if ka > 0:
+                cr.set_source_rgba(.75, .85, 1, .9); cr.rectangle(X(a), y - 30 * s, (xm - X(a)) * ka, 18 * s); cr.fill()
+                _txt(cr, "208 TCN: Thục Phán lập nước Âu Lạc", X(a) - 10 * s, y - 120 * s, 28 * s, (.75, .85, 1), align="r", alpha=ka)
+                cr.set_source_rgba(.75, .85, 1, ka); cr.move_to(X(a), y - 100 * s); cr.line_to(X(a), y - 30 * s); cr.set_line_width(3 * s); cr.stroke()
+            if kb > 0:
+                cr.set_source_rgba(1, .7, .3, .9); cr.rectangle(xm, y - 30 * s, (X(b) - xm) * kb, 18 * s); cr.fill()
+                _txt(cr, "Năm 2026", X(b), y - 120 * s, 28 * s, (1, .85, .6), alpha=kb)
+                cr.set_source_rgba(1, .85, .6, kb); cr.move_to(X(b), y - 100 * s); cr.line_to(X(b), y - 30 * s); cr.stroke()
+            kc = _ease((u - .62) / .12)
+            if kc > 0: _txt(cr, "208 + 2026 = 2 234: khoảng 2 234 năm", xm, y + 130 * s, 44 * s, (1, 1, 1), alpha=kc)
+            kd = _ease((u - .82) / .1)
+            if kd > 0: _txt(cr, "Chính xác: 2 234 − 1 = 2 233 năm (vì không có năm 0)", xm, y + 200 * s, 32 * s, (.95, .6, .5), bold=False, alpha=kd)
+        yield _arr(surf, W, H)

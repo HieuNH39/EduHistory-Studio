@@ -33,6 +33,8 @@ BO_SUNG = {
                     "vai_tro": "Vua cuối cùng nhà Lê, cầu cứu nhà Thanh (1788)", "the_ki": "XVIII"},
  "hoa-mau": {"ten": "Hoà Mâu", "loai": "ca_nhan", "thoi_ky": "trung_dai", "quoc_gia": "Tống",
              "vai_tro": "Chỉ huy quân thuỷ Tống năm 1077", "the_ki": "XI"},
+ "r-ac-rai": {"ten": "R. Ác-rai", "loai": "ca_nhan", "thoi_ky": "can_dai", "quoc_gia": "Anh",
+              "vai_tro": "Phát minh máy kéo sợi chạy bằng sức nước (1769)", "the_ki": "XVIII"},
  "quan-ngo-quyen": {"ten": "Quân của Ngô Quyền", "loai": "nhom", "thoi_ky": "trung_dai", "quoc_gia": "Việt Nam",
                     "vai_tro": "Quân dân đánh trận Bạch Đằng năm 938", "the_ki": "X"},
  "quan-doi-nha-tran": {"ten": "Quân đội nhà Trần", "loai": "nhom", "thoi_ky": "trung_dai", "quoc_gia": "Đại Việt",
