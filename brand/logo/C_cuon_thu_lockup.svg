@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="660" viewBox="0 0 1620 660"><rect width="1620" height="660" fill="#FFFFFF"/><rect x="60" y="60" width="540" height="540" rx="112.5" fill="#10233F"/>
+<rect x="161.25" y="223.125" width="337.5" height="213.75" fill="#FFF6E6"/>
+<rect x="135.9375" y="200.625" width="50.625" height="258.75" rx="25.3125" fill="#C98B2B"/>
+<rect x="150.0" y="183.75" width="22.5" height="292.5" rx="11.25" fill="#F26B1D"/>
+<rect x="473.4375" y="200.625" width="50.625" height="258.75" rx="25.3125" fill="#C98B2B"/>
+<rect x="487.5" y="183.75" width="22.5" height="292.5" rx="11.25" fill="#F26B1D"/>
+<line x1="200.625" y1="397.5" x2="459.375" y2="397.5" stroke="#10233F" stroke-width="5.625" stroke-linecap="round"/>
+<circle cx="239.4" cy="397.5" r="10.125" fill="#10233F"/>
+<circle cx="330.0" cy="397.5" r="10.125" fill="#F26B1D"/>
+<circle cx="420.6" cy="397.5" r="10.125" fill="#10233F"/>
+<circle cx="330" cy="313.125" r="59.0625" fill="#F26B1D"/>
+<path d="M312.1,285.0 L362.7,313.1 L312.1,341.2 Z" fill="#FFF6E6" stroke="#FFF6E6" stroke-width="4.5" stroke-linejoin="round"/><text x="660" y="330" font-family="Be Vietnam Pro" font-weight="900" font-size="150" fill="#10233F">Edu<tspan fill="#F26B1D">History</tspan></text><text x="668" y="455" font-family="Be Vietnam Pro" font-weight="600" font-size="62" letter-spacing="34" fill="#C98B2B">STUDIO</text></svg>

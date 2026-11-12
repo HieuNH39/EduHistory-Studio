@@ -1,0 +1,12 @@
+# Bí mật & dữ liệu riêng (không đưa lên GitHub)
+.env
+*.env
+secrets/
+data/_private/
+*.pdf
+# Tệp sinh ra trong quá trình dựng
+renders/
+tmp/
+__pycache__/
+node_modules/
+.DS_Store

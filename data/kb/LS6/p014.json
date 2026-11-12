@@ -1,0 +1,57 @@
+{
+ "pdf": 14,
+ "in": 12,
+ "phan": "LICH_SU",
+ "chuong": null,
+ "bai": null,
+ "bat_dau_bai": false,
+ "muc": [
+  "2. Tư liệu chữ viết"
+ ],
+ "yeu_cau_can_dat": [],
+ "du_kien": [
+  {
+   "loai": "khai_niem",
+   "noi_dung": "Khái niệm tư liệu chữ viết bao gồm toàn bộ văn bản ghi chép tay, sách in hoặc các chữ được khắc trên vật liệu.",
+   "thoi_gian": null,
+   "nhan_vat": [],
+   "dia_danh": []
+  },
+  {
+   "loai": "khac",
+   "noi_dung": "Dạng tư liệu chữ viết cung cấp lượng thông tin tương đối chi tiết và toàn diện về đời sống con người, tuy nhiên thông tin này thường mang tính chủ quan từ phía người ghi chép.",
+   "thoi_gian": null,
+   "nhan_vat": [],
+   "dia_danh": []
+  },
+  {
+   "loai": "van_hoa",
+   "noi_dung": "Tại Văn Miếu (Hà Nội) có trưng bày hệ thống bia Tiến sĩ từ thời xưa dùng để khắc ghi tên tuổi của những người đỗ đạt.",
+   "thoi_gian": null,
+   "nhan_vat": [],
+   "dia_danh": [
+    "Văn Miếu",
+    "Hà Nội"
+   ]
+  },
+  {
+   "loai": "su_kien",
+   "noi_dung": "Chủ tịch Hồ Chí Minh khẳng định niềm tin tuyệt đối vào thắng lợi hoàn toàn của cuộc kháng chiến chống Mỹ cứu nước và bày tỏ mong muốn thăm hỏi đồng bào, chiến sĩ hai miền Nam Bắc sau ngày chiến thắng.",
+   "thoi_gian": "10/5/1969",
+   "nhan_vat": [
+    "Hồ Chí Minh"
+   ],
+   "dia_danh": [
+    "Nam",
+    "Bắc"
+   ]
+  }
+ ],
+ "hinh": [
+  {
+   "so": "Hình 4",
+   "mo_ta": "Ảnh chụp các tấm bia Tiến sĩ được dựng trên lưng rùa đá thời xưa tại Văn Miếu (thành phố Hà Nội)"
+  }
+ ],
+ "co_the_mo_phong": null
+}

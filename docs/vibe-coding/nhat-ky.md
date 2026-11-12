@@ -1,0 +1,18 @@
+# Nhật ký Vibe Coding – EduHistory Studio
+
+Ghi lại các phiên làm việc thật giữa người hướng dẫn và trợ lý AI lập trình (Claude): yêu cầu bằng ngôn ngữ tự nhiên → AI làm gì → kiểm tra thấy lỗi gì → sửa thế nào.
+Mỗi mục có thể đối chiếu với lịch sử commit của kho mã.
+
+## Phiên 1 – 12–13/11/2026: Khởi động dự án
+
+**Yêu cầu:** đọc thể lệ STEMPETITION 2027, lập quy trình tổng thể; số hóa 4 cuốn SGK Lịch sử và Địa lí 6–9 (PDF ảnh scan) để làm kho dữ liệu đối chiếu.
+
+| # | AI làm | Lỗi / vấn đề phát hiện khi kiểm tra | Cách xử lý |
+| --- | --- | --- | --- |
+| 1 | Thử giọng đọc tiếng Việt bằng thư viện edge-tts | Kết nối bị từ chối (dịch vụ dùng WebSocket, môi trường chặn) | Chuyển sang mô hình giọng Piper chạy offline làm phương án dự phòng; giọng chính dùng Vbee/FPT.AI |
+| 2 | Kiểm tra PDF SGK | PDF chỉ chứa ảnh, không có lớp chữ | Viết script OCR Tesseract tiếng Việt chạy song song 2 luồng, 503 trang |
+| 3 | Chép lại trang SGK bằng Gemini (đọc ảnh) | Mô hình lặp một chữ hàng trăm lần (“quá quá quá…”) | Viết bộ phát hiện lặp bằng biểu thức chính quy, tự chép lại trang lỗi với cấu hình khác |
+| 4 | Tiếp tục chép nguyên văn | Gemini dừng với lý do RECITATION (nội dung có bản quyền) | Đổi thiết kế: không chép nguyên văn, chỉ **trích dữ kiện diễn đạt lại + số trang** – đúng nguyên tắc bản quyền của dự án |
+| 5 | Chạy hàng loạt trên Gemini | Hết hạn mức miễn phí theo ngày của mô hình | Kho dữ kiện dựng từ OCR Tesseract + trợ lý AI trích theo từng bài; Gemini dùng cho kiểm tra chéo và trợ lý hỏi đáp |
+| 6 | Tải phông chữ Be Vietnam Pro | Bản phân phối tách riêng bộ chữ Latin và tiếng Việt | Dùng fonttools gộp các phần thành một phông đầy đủ dấu tiếng Việt |
+| 7 | Thiết kế 3 phương án logo bằng mã SVG | – | Kết xuất PNG nền sáng/tối để giáo viên chọn |

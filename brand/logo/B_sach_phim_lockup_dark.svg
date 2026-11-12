@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="660" viewBox="0 0 1620 660"><rect width="1620" height="660" fill="#10233F"/><rect x="60" y="60" width="540" height="540" rx="112.5" fill="#FFF6E6"/>
+<path d="M330,245.625 C279.375,200.625 189.375,195.0 127.5,217.5 L127.5,442.5 C189.375,420.0 279.375,425.625 330,470.625 Z" fill="#10233F"/>
+<path d="M330,245.625 C380.625,200.625 470.625,195.0 532.5,217.5 L532.5,442.5 C470.625,420.0 380.625,425.625 330,470.625 Z" fill="#F26B1D"/>
+<rect x="138.75" y="237.2" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="237.2" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="138.75" y="275.4" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="275.4" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="138.75" y="313.7" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="313.7" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="138.75" y="351.9" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="351.9" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="138.75" y="390.2" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="390.2" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="138.75" y="428.4" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<rect x="506.625" y="428.4" width="14.625" height="20.25" rx="3.375" fill="#FFF6E6"/>
+<path d="M172.5,273.8 C217.5,256.9 268.125,256.9 301.875,273.8" fill="none" stroke="#C98B2B" stroke-width="7.875" stroke-linecap="round"/>
+<path d="M172.5,313.1 C217.5,296.2 268.125,296.2 301.875,313.1" fill="none" stroke="#C98B2B" stroke-width="7.875" stroke-linecap="round"/>
+<path d="M172.5,352.5 C217.5,335.6 268.125,335.6 301.875,352.5" fill="none" stroke="#C98B2B" stroke-width="7.875" stroke-linecap="round"/>
+<path d="M172.5,391.9 C217.5,375.0 268.125,375.0 301.875,391.9" fill="none" stroke="#C98B2B" stroke-width="7.875" stroke-linecap="round"/>
+<path d="M393.7,282.2 L489.9,335.6 L393.7,389.1 Z" fill="#FFF6E6" stroke="#FFF6E6" stroke-width="8.6" stroke-linejoin="round"/>
+<path d="M330,245.625 L330,470.625" stroke="#C98B2B" stroke-width="6.75"/><text x="660" y="330" font-family="Be Vietnam Pro" font-weight="900" font-size="150" fill="#FFF6E6">Edu<tspan fill="#F26B1D">History</tspan></text><text x="668" y="455" font-family="Be Vietnam Pro" font-weight="600" font-size="62" letter-spacing="34" fill="#C98B2B">STUDIO</text></svg>
