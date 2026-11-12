@@ -3114,10 +3114,11 @@
     "Tổng chiều dài khoảng 16 000 m",
     "Lẫy nỏ, mũi tên đồng tìm thấy ở Cổ Loa"
    ],
-   "khung": "4-5p",
+   "khung": "2-3p",
    "huong": "ngang",
    "mo_phong": "Mô hình 3D thành Cổ Loa xoay 360 độ",
    "trang_sgk": [
+    61,
     62
    ],
    "uu_tien": "P1",
@@ -3126,6 +3127,16 @@
    "luu_y": [],
    "dot": 1,
    "nhan_vat": [
+    {
+     "id": "an-duong-vuong",
+     "ten": "An Dương Vương",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "nguoi-lac-viet-va-au-viet",
+     "ten": "Người Lạc Việt và Âu Việt",
+     "nguon_hinh": "nhom_ve"
+    },
     {
      "id": "quan-doi-au-lac",
      "ten": "Quân đội Âu Lạc",
@@ -7033,9 +7044,19 @@
    "dot": 1,
    "nhan_vat": [
     {
+     "id": "nguyen-trai",
+     "ten": "Nguyễn Trãi",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
      "id": "moc-thanh",
      "ten": "Mộc Thạnh",
      "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "quan-minh",
+     "ten": "Quân Minh",
+     "nguon_hinh": "nhom_ve"
     },
     {
      "id": "le-loi",

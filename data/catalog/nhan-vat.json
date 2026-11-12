@@ -168,6 +168,25 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "nguyen-trai",
+   "ten": "Nguyễn Trãi",
+   "loai": "ca_nhan",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Đại Ngu",
+   "vai_tro": "Nhân tài đỗ đạt trong kì thi Thái học sinh",
+   "the_ki": "XV",
+   "tap": [
+    "L7-B15-02",
+    "L7-B16-02",
+    "L7-B16-06",
+    "L7-B17-03",
+    "L9-CD3-01",
+    "L7-B16-05"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "thuc-dan-phap",
    "ten": "Thực dân Pháp",
    "loai": "nhom",
@@ -203,24 +222,6 @@
     "L9-B6-01"
    ],
    "nguon_hinh": "anh_tu_lieu",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "nguyen-trai",
-   "ten": "Nguyễn Trãi",
-   "loai": "ca_nhan",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Đại Ngu",
-   "vai_tro": "Nhân tài đỗ đạt trong kì thi Thái học sinh",
-   "the_ki": "XV",
-   "tap": [
-    "L7-B15-02",
-    "L7-B16-02",
-    "L7-B16-06",
-    "L7-B17-03",
-    "L9-CD3-01"
-   ],
-   "nguon_hinh": "ve_theo_tham_chieu",
    "thiet_ke": "chua"
   },
   {
@@ -381,6 +382,23 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "quan-minh",
+   "ten": "Quân Minh",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Trung Quốc (nhà Minh)",
+   "vai_tro": "Lực lượng xâm lược Đại Ngu",
+   "the_ki": "XV",
+   "tap": [
+    "L7-B15-03",
+    "L7-B16-01",
+    "L7-B16-04",
+    "L7-B16-05"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "thuong-nhan-nuoc-ngoai",
    "ten": "Thương nhân nước ngoài",
    "loai": "nhom",
@@ -410,6 +428,22 @@
     "L7-B14-05",
     "L7-B18-01",
     "L7-B14-04"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "an-duong-vuong",
+   "ten": "An Dương Vương",
+   "loai": "ca_nhan",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Việt Nam",
+   "vai_tro": "Vua nước Âu Lạc, người lãnh đạo kháng chiến chống quân Tần",
+   "the_ki": "III TCN",
+   "tap": [
+    "L6-B14-02",
+    "L8-CD2-05",
+    "L6-B14-03"
    ],
    "nguon_hinh": "ve_theo_tham_chieu",
    "thiet_ke": "chua"
@@ -577,22 +611,6 @@
    "thiet_ke": "chua"
   },
   {
-   "id": "quan-minh",
-   "ten": "Quân Minh",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Trung Quốc (nhà Minh)",
-   "vai_tro": "Lực lượng xâm lược Đại Ngu",
-   "the_ki": "XV",
-   "tap": [
-    "L7-B15-03",
-    "L7-B16-01",
-    "L7-B16-04"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
    "id": "quan-tong",
    "ten": "Quân Tống",
    "loai": "nhom",
@@ -684,21 +702,6 @@
     "L7-B13-04",
     "L7-B14-03",
     "L7-B14-04"
-   ],
-   "nguon_hinh": "ve_theo_tham_chieu",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "an-duong-vuong",
-   "ten": "An Dương Vương",
-   "loai": "ca_nhan",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Việt Nam",
-   "vai_tro": "Vua nước Âu Lạc, người lãnh đạo kháng chiến chống quân Tần",
-   "the_ki": "III TCN",
-   "tap": [
-    "L6-B14-02",
-    "L8-CD2-05"
    ],
    "nguon_hinh": "ve_theo_tham_chieu",
    "thiet_ke": "chua"
@@ -971,6 +974,21 @@
     "L9-CD3-01"
    ],
    "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "nguoi-lac-viet-va-au-viet",
+   "ten": "Người Lạc Việt và Âu Việt",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Việt Nam",
+   "vai_tro": "Cư dân đoàn kết chống ngoại xâm và lập nước Âu Lạc",
+   "the_ki": "III TCN",
+   "tap": [
+    "L6-B14-02",
+    "L6-B14-03"
+   ],
+   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -4649,20 +4667,6 @@
    "the_ki": "trước XIII",
    "tap": [
     "L7-B7-01"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "nguoi-lac-viet-va-au-viet",
-   "ten": "Người Lạc Việt và Âu Việt",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Việt Nam",
-   "vai_tro": "Cư dân đoàn kết chống ngoại xâm và lập nước Âu Lạc",
-   "the_ki": "III TCN",
-   "tap": [
-    "L6-B14-02"
    ],
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
