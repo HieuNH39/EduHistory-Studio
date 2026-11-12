@@ -16,3 +16,5 @@ Mỗi mục có thể đối chiếu với lịch sử commit của kho mã.
 | 5 | Chạy hàng loạt trên Gemini | Hết hạn mức miễn phí theo ngày của mô hình | Kho dữ kiện dựng từ OCR Tesseract + trợ lý AI trích theo từng bài; Gemini dùng cho kiểm tra chéo và trợ lý hỏi đáp |
 | 6 | Tải phông chữ Be Vietnam Pro | Bản phân phối tách riêng bộ chữ Latin và tiếng Việt | Dùng fonttools gộp các phần thành một phông đầy đủ dấu tiếng Việt |
 | 7 | Thiết kế 3 phương án logo bằng mã SVG | – | Kết xuất PNG nền sáng/tối để giáo viên chọn |
+| 8 | Dò đầu bài tự động trên văn bản OCR (tìm cụm “Học xong bài này”) | Bỏ sót bài có trang đầu OCR kém; tiêu đề mục lẫn câu hỏi bài tập | Đối chiếu với ảnh mục lục SGK, chốt danh mục 78 bài + 7 chủ đề chung vào `data/catalog/lessons.json` |
+| 9 | Thử dùng trình duyệt trong ứng dụng Claude để tạo ảnh trên Gemini | Trình duyệt tích hợp không gắn được vào cuộc trò chuyện đang chạy | Chuyển sang tiện ích Claude in Chrome trên máy giáo viên |

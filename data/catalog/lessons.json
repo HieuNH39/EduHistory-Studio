@@ -1,0 +1,771 @@
+{
+ "nguon": "SGK Lịch sử và Địa lí 6–9, Kết nối tri thức với cuộc sống (bản tái bản có chỉnh lí), phần Lịch sử và chủ đề chung",
+ "so_bai": 85,
+ "bai": [
+  {
+   "id": "L6-B1",
+   "lop": 6,
+   "chuong": "Chương 1. Vì sao phải học lịch sử?",
+   "ma": "B1",
+   "ten": "Lịch sử và cuộc sống",
+   "trang_in": 9,
+   "pdf": 11
+  },
+  {
+   "id": "L6-B2",
+   "lop": 6,
+   "chuong": "Chương 1. Vì sao phải học lịch sử?",
+   "ma": "B2",
+   "ten": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+   "trang_in": 11,
+   "pdf": 13
+  },
+  {
+   "id": "L6-B3",
+   "lop": 6,
+   "chuong": "Chương 1. Vì sao phải học lịch sử?",
+   "ma": "B3",
+   "ten": "Thời gian trong lịch sử",
+   "trang_in": 14,
+   "pdf": 16
+  },
+  {
+   "id": "L6-B4",
+   "lop": 6,
+   "chuong": "Chương 2. Xã hội nguyên thuỷ",
+   "ma": "B4",
+   "ten": "Nguồn gốc loài người",
+   "trang_in": 17,
+   "pdf": 19
+  },
+  {
+   "id": "L6-B5",
+   "lop": 6,
+   "chuong": "Chương 2. Xã hội nguyên thuỷ",
+   "ma": "B5",
+   "ten": "Xã hội nguyên thuỷ",
+   "trang_in": 20,
+   "pdf": 22
+  },
+  {
+   "id": "L6-B6",
+   "lop": 6,
+   "chuong": "Chương 2. Xã hội nguyên thuỷ",
+   "ma": "B6",
+   "ten": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+   "trang_in": 24,
+   "pdf": 26
+  },
+  {
+   "id": "L6-B7",
+   "lop": 6,
+   "chuong": "Chương 3. Xã hội cổ đại",
+   "ma": "B7",
+   "ten": "Ai Cập và Lưỡng Hà cổ đại",
+   "trang_in": 29,
+   "pdf": 31
+  },
+  {
+   "id": "L6-B8",
+   "lop": 6,
+   "chuong": "Chương 3. Xã hội cổ đại",
+   "ma": "B8",
+   "ten": "Ấn Độ cổ đại",
+   "trang_in": 34,
+   "pdf": 36
+  },
+  {
+   "id": "L6-B9",
+   "lop": 6,
+   "chuong": "Chương 3. Xã hội cổ đại",
+   "ma": "B9",
+   "ten": "Trung Quốc cổ đại",
+   "trang_in": 39,
+   "pdf": 41
+  },
+  {
+   "id": "L6-B10",
+   "lop": 6,
+   "chuong": "Chương 3. Xã hội cổ đại",
+   "ma": "B10",
+   "ten": "Hy Lạp và La Mã cổ đại",
+   "trang_in": 44,
+   "pdf": 46
+  },
+  {
+   "id": "L6-B11",
+   "lop": 6,
+   "chuong": "Chương 4. Đông Nam Á từ những thế kỉ tiếp giáp đầu Công nguyên đến thế kỉ X",
+   "ma": "B11",
+   "ten": "Các quốc gia sơ kì ở Đông Nam Á",
+   "trang_in": 51,
+   "pdf": 53
+  },
+  {
+   "id": "L6-B12",
+   "lop": 6,
+   "chuong": "Chương 4. Đông Nam Á từ những thế kỉ tiếp giáp đầu Công nguyên đến thế kỉ X",
+   "ma": "B12",
+   "ten": "Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+   "trang_in": 54,
+   "pdf": 56
+  },
+  {
+   "id": "L6-B13",
+   "lop": 6,
+   "chuong": "Chương 4. Đông Nam Á từ những thế kỉ tiếp giáp đầu Công nguyên đến thế kỉ X",
+   "ma": "B13",
+   "ten": "Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+   "trang_in": 56,
+   "pdf": 58
+  },
+  {
+   "id": "L6-B14",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B14",
+   "ten": "Nhà nước Văn Lang, Âu Lạc",
+   "trang_in": 60,
+   "pdf": 62
+  },
+  {
+   "id": "L6-B15",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B15",
+   "ten": "Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+   "trang_in": 65,
+   "pdf": 67
+  },
+  {
+   "id": "L6-B16",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B16",
+   "ten": "Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+   "trang_in": 70,
+   "pdf": 72
+  },
+  {
+   "id": "L6-B17",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B17",
+   "ten": "Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+   "trang_in": 78,
+   "pdf": 80
+  },
+  {
+   "id": "L6-B18",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B18",
+   "ten": "Bước ngoặt lịch sử đầu thế kỉ X",
+   "trang_in": 80,
+   "pdf": 82
+  },
+  {
+   "id": "L6-B19",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B19",
+   "ten": "Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+   "trang_in": 86,
+   "pdf": 88
+  },
+  {
+   "id": "L6-B20",
+   "lop": 6,
+   "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+   "ma": "B20",
+   "ten": "Vương quốc Phù Nam",
+   "trang_in": 91,
+   "pdf": 93
+  },
+  {
+   "id": "L7-B1",
+   "lop": 7,
+   "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI",
+   "ma": "B1",
+   "ten": "Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+   "trang_in": 9,
+   "pdf": 11
+  },
+  {
+   "id": "L7-B2",
+   "lop": 7,
+   "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI",
+   "ma": "B2",
+   "ten": "Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+   "trang_in": 14,
+   "pdf": 16
+  },
+  {
+   "id": "L7-B3",
+   "lop": 7,
+   "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI",
+   "ma": "B3",
+   "ten": "Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+   "trang_in": 18,
+   "pdf": 20
+  },
+  {
+   "id": "L7-B4",
+   "lop": 7,
+   "chuong": "Chương 2. Trung Quốc và Ấn Độ thời trung đại",
+   "ma": "B4",
+   "ten": "Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+   "trang_in": 24,
+   "pdf": 26
+  },
+  {
+   "id": "L7-B5",
+   "lop": 7,
+   "chuong": "Chương 2. Trung Quốc và Ấn Độ thời trung đại",
+   "ma": "B5",
+   "ten": "Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+   "trang_in": 29,
+   "pdf": 31
+  },
+  {
+   "id": "L7-B6",
+   "lop": 7,
+   "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "ma": "B6",
+   "ten": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "trang_in": 35,
+   "pdf": 37
+  },
+  {
+   "id": "L7-B7",
+   "lop": 7,
+   "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "ma": "B7",
+   "ten": "Vương quốc Lào",
+   "trang_in": 39,
+   "pdf": 41
+  },
+  {
+   "id": "L7-B8",
+   "lop": 7,
+   "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "ma": "B8",
+   "ten": "Vương quốc Cam-pu-chia",
+   "trang_in": 42,
+   "pdf": 44
+  },
+  {
+   "id": "L7-B9",
+   "lop": 7,
+   "chuong": "Chương 4. Đất nước dưới thời các vương triều Ngô – Đinh – Tiền Lê (939 – 1009)",
+   "ma": "B9",
+   "ten": "Đất nước buổi đầu độc lập (939 – 967)",
+   "trang_in": 45,
+   "pdf": 47
+  },
+  {
+   "id": "L7-B10",
+   "lop": 7,
+   "chuong": "Chương 4. Đất nước dưới thời các vương triều Ngô – Đinh – Tiền Lê (939 – 1009)",
+   "ma": "B10",
+   "ten": "Đại Cồ Việt thời Đinh và Tiền Lê (968 – 1009)",
+   "trang_in": 48,
+   "pdf": 50
+  },
+  {
+   "id": "L7-B11",
+   "lop": 7,
+   "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+   "ma": "B11",
+   "ten": "Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+   "trang_in": 52,
+   "pdf": 54
+  },
+  {
+   "id": "L7-B12",
+   "lop": 7,
+   "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+   "ma": "B12",
+   "ten": "Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+   "trang_in": 58,
+   "pdf": 60
+  },
+  {
+   "id": "L7-B13",
+   "lop": 7,
+   "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+   "ma": "B13",
+   "ten": "Đại Việt thời Trần (1226 – 1400)",
+   "trang_in": 62,
+   "pdf": 64
+  },
+  {
+   "id": "L7-B14",
+   "lop": 7,
+   "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+   "ma": "B14",
+   "ten": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+   "trang_in": 68,
+   "pdf": 70
+  },
+  {
+   "id": "L7-B15",
+   "lop": 7,
+   "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+   "ma": "B15",
+   "ten": "Nước Đại Ngu thời Hồ (1400 – 1407)",
+   "trang_in": 74,
+   "pdf": 76
+  },
+  {
+   "id": "L7-B16",
+   "lop": 7,
+   "chuong": "Chương 6. Khởi nghĩa Lam Sơn và Đại Việt thời Lê sơ (1418 – 1527)",
+   "ma": "B16",
+   "ten": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "trang_in": 78,
+   "pdf": 80
+  },
+  {
+   "id": "L7-B17",
+   "lop": 7,
+   "chuong": "Chương 6. Khởi nghĩa Lam Sơn và Đại Việt thời Lê sơ (1418 – 1527)",
+   "ma": "B17",
+   "ten": "Đại Việt thời Lê sơ (1428 – 1527)",
+   "trang_in": 83,
+   "pdf": 85
+  },
+  {
+   "id": "L7-B18",
+   "lop": 7,
+   "chuong": "Chương 7. Vùng đất phía Nam Việt Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "ma": "B18",
+   "ten": "Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "trang_in": 90,
+   "pdf": 92
+  },
+  {
+   "id": "L7-CD1",
+   "lop": 7,
+   "chuong": "Chủ đề chung",
+   "ma": "CD1",
+   "ten": "Các cuộc đại phát kiến địa lí",
+   "trang_in": 166,
+   "pdf": 168
+  },
+  {
+   "id": "L7-CD2",
+   "lop": 7,
+   "chuong": "Chủ đề chung",
+   "ma": "CD2",
+   "ten": "Đô thị: Lịch sử và hiện tại",
+   "trang_in": 170,
+   "pdf": 172
+  },
+  {
+   "id": "L8-B1",
+   "lop": 8,
+   "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B1",
+   "ten": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+   "trang_in": 8,
+   "pdf": 10
+  },
+  {
+   "id": "L8-B2",
+   "lop": 8,
+   "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B2",
+   "ten": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+   "trang_in": 12,
+   "pdf": 14
+  },
+  {
+   "id": "L8-B3",
+   "lop": 8,
+   "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B3",
+   "ten": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+   "trang_in": 15,
+   "pdf": 17
+  },
+  {
+   "id": "L8-B4",
+   "lop": 8,
+   "chuong": "Chương 2. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+   "ma": "B4",
+   "ten": "Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+   "trang_in": 19,
+   "pdf": 21
+  },
+  {
+   "id": "L8-B5",
+   "lop": 8,
+   "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B5",
+   "ten": "Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+   "trang_in": 23,
+   "pdf": 25
+  },
+  {
+   "id": "L8-B6",
+   "lop": 8,
+   "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B6",
+   "ten": "Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+   "trang_in": 28,
+   "pdf": 30
+  },
+  {
+   "id": "L8-B7",
+   "lop": 8,
+   "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B7",
+   "ten": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+   "trang_in": 31,
+   "pdf": 33
+  },
+  {
+   "id": "L8-B8",
+   "lop": 8,
+   "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B8",
+   "ten": "Phong trào Tây Sơn",
+   "trang_in": 35,
+   "pdf": 37
+  },
+  {
+   "id": "L8-B9",
+   "lop": 8,
+   "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+   "ma": "B9",
+   "ten": "Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+   "trang_in": 42,
+   "pdf": 44
+  },
+  {
+   "id": "L8-B10",
+   "lop": 8,
+   "chuong": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+   "ma": "B10",
+   "ten": "Sự hình thành chủ nghĩa đế quốc ở các nước Âu – Mỹ (cuối thế kỉ XIX – đầu thế kỉ XX)",
+   "trang_in": 46,
+   "pdf": 48
+  },
+  {
+   "id": "L8-B11",
+   "lop": 8,
+   "chuong": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+   "ma": "B11",
+   "ten": "Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+   "trang_in": 50,
+   "pdf": 52
+  },
+  {
+   "id": "L8-B12",
+   "lop": 8,
+   "chuong": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+   "ma": "B12",
+   "ten": "Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+   "trang_in": 54,
+   "pdf": 56
+  },
+  {
+   "id": "L8-B13",
+   "lop": 8,
+   "chuong": "Chương 5. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+   "ma": "B13",
+   "ten": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+   "trang_in": 58,
+   "pdf": 60
+  },
+  {
+   "id": "L8-B14",
+   "lop": 8,
+   "chuong": "Chương 6. Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B14",
+   "ten": "Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+   "trang_in": 62,
+   "pdf": 64
+  },
+  {
+   "id": "L8-B15",
+   "lop": 8,
+   "chuong": "Chương 6. Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B15",
+   "ten": "Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+   "trang_in": 67,
+   "pdf": 69
+  },
+  {
+   "id": "L8-B16",
+   "lop": 8,
+   "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B16",
+   "ten": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+   "trang_in": 71,
+   "pdf": 73
+  },
+  {
+   "id": "L8-B17",
+   "lop": 8,
+   "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B17",
+   "ten": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+   "trang_in": 77,
+   "pdf": 79
+  },
+  {
+   "id": "L8-B18",
+   "lop": 8,
+   "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B18",
+   "ten": "Phong trào chống Pháp trong những năm 1885 – 1896",
+   "trang_in": 84,
+   "pdf": 86
+  },
+  {
+   "id": "L8-B19",
+   "lop": 8,
+   "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+   "ma": "B19",
+   "ten": "Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+   "trang_in": 88,
+   "pdf": 90
+  },
+  {
+   "id": "L8-CD1",
+   "lop": 8,
+   "chuong": "Chủ đề chung",
+   "ma": "CD1",
+   "ten": "Văn minh châu thổ sông Hồng và sông Cửu Long",
+   "trang_in": 155,
+   "pdf": 157
+  },
+  {
+   "id": "L8-CD2",
+   "lop": 8,
+   "chuong": "Chủ đề chung",
+   "ma": "CD2",
+   "ten": "Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+   "trang_in": 162,
+   "pdf": 164
+  },
+  {
+   "id": "L9-B1",
+   "lop": 9,
+   "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945",
+   "ma": "B1",
+   "ten": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+   "trang_in": 7,
+   "pdf": 9
+  },
+  {
+   "id": "L9-B2",
+   "lop": 9,
+   "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945",
+   "ma": "B2",
+   "ten": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+   "trang_in": 10,
+   "pdf": 12
+  },
+  {
+   "id": "L9-B3",
+   "lop": 9,
+   "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945",
+   "ma": "B3",
+   "ten": "Châu Á từ năm 1918 đến năm 1945",
+   "trang_in": 14,
+   "pdf": 16
+  },
+  {
+   "id": "L9-B4",
+   "lop": 9,
+   "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945",
+   "ma": "B4",
+   "ten": "Chiến tranh thế giới thứ hai (1939 – 1945)",
+   "trang_in": 18,
+   "pdf": 20
+  },
+  {
+   "id": "L9-B5",
+   "lop": 9,
+   "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945",
+   "ma": "B5",
+   "ten": "Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+   "trang_in": 22,
+   "pdf": 24
+  },
+  {
+   "id": "L9-B6",
+   "lop": 9,
+   "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945",
+   "ma": "B6",
+   "ten": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "trang_in": 26,
+   "pdf": 28
+  },
+  {
+   "id": "L9-B7",
+   "lop": 9,
+   "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945",
+   "ma": "B7",
+   "ten": "Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+   "trang_in": 30,
+   "pdf": 32
+  },
+  {
+   "id": "L9-B8",
+   "lop": 9,
+   "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945",
+   "ma": "B8",
+   "ten": "Cách mạng tháng Tám năm 1945",
+   "trang_in": 34,
+   "pdf": 36
+  },
+  {
+   "id": "L9-B9",
+   "lop": 9,
+   "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991",
+   "ma": "B9",
+   "ten": "Chiến tranh lạnh (1947 – 1989)",
+   "trang_in": 41,
+   "pdf": 43
+  },
+  {
+   "id": "L9-B10",
+   "lop": 9,
+   "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991",
+   "ma": "B10",
+   "ten": "Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+   "trang_in": 44,
+   "pdf": 46
+  },
+  {
+   "id": "L9-B11",
+   "lop": 9,
+   "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991",
+   "ma": "B11",
+   "ten": "Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+   "trang_in": 49,
+   "pdf": 51
+  },
+  {
+   "id": "L9-B12",
+   "lop": 9,
+   "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991",
+   "ma": "B12",
+   "ten": "Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+   "trang_in": 52,
+   "pdf": 54
+  },
+  {
+   "id": "L9-B13",
+   "lop": 9,
+   "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975",
+   "ma": "B13",
+   "ten": "Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+   "trang_in": 61,
+   "pdf": 63
+  },
+  {
+   "id": "L9-B14",
+   "lop": 9,
+   "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975",
+   "ma": "B14",
+   "ten": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+   "trang_in": 67,
+   "pdf": 69
+  },
+  {
+   "id": "L9-B15",
+   "lop": 9,
+   "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975",
+   "ma": "B15",
+   "ten": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+   "trang_in": 73,
+   "pdf": 75
+  },
+  {
+   "id": "L9-B16",
+   "lop": 9,
+   "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975",
+   "ma": "B16",
+   "ten": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+   "trang_in": 80,
+   "pdf": 82
+  },
+  {
+   "id": "L9-B17",
+   "lop": 9,
+   "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975",
+   "ma": "B17",
+   "ten": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+   "trang_in": 85,
+   "pdf": 87
+  },
+  {
+   "id": "L9-B18",
+   "lop": 9,
+   "chuong": "Chương 5. Thế giới từ năm 1991 đến nay",
+   "ma": "B18",
+   "ten": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+   "trang_in": 93,
+   "pdf": 95
+  },
+  {
+   "id": "L9-B19",
+   "lop": 9,
+   "chuong": "Chương 5. Thế giới từ năm 1991 đến nay",
+   "ma": "B19",
+   "ten": "Châu Á từ năm 1991 đến nay",
+   "trang_in": 96,
+   "pdf": 98
+  },
+  {
+   "id": "L9-B20",
+   "lop": 9,
+   "chuong": "Chương 6. Việt Nam từ năm 1976 đến nay",
+   "ma": "B20",
+   "ten": "Việt Nam từ năm 1976 đến nay",
+   "trang_in": 101,
+   "pdf": 103
+  },
+  {
+   "id": "L9-B21",
+   "lop": 9,
+   "chuong": "Chương 7. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+   "ma": "B21",
+   "ten": "Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+   "trang_in": 111,
+   "pdf": 113
+  },
+  {
+   "id": "L9-CD1",
+   "lop": 9,
+   "chuong": "Chủ đề chung",
+   "ma": "CD1",
+   "ten": "Đô thị: Lịch sử và hiện tại (2)",
+   "trang_in": 221,
+   "pdf": 223
+  },
+  {
+   "id": "L9-CD2",
+   "lop": 9,
+   "chuong": "Chủ đề chung",
+   "ma": "CD2",
+   "ten": "Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+   "trang_in": 225,
+   "pdf": 227
+  },
+  {
+   "id": "L9-CD3",
+   "lop": 9,
+   "chuong": "Chủ đề chung",
+   "ma": "CD3",
+   "ten": "Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+   "trang_in": 230,
+   "pdf": 232
+  }
+ ]
+}
