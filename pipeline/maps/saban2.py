@@ -47,6 +47,12 @@ class SaBan2:
         g = cairo.RadialGradient(W * .5, H * .45, H * .2, W * .5, H * .5, W * .75)
         g.add_color_stop_rgb(0, *C["giay"]); g.add_color_stop_rgb(1, *C["giay2"]); cr.set_source(g); cr.paint()
         cr.set_line_cap(cairo.LINE_CAP_ROUND); cr.set_line_join(cairo.LINE_JOIN_ROUND)
+        if S.get("nen_bien"):   # bản đồ có nền biển: tô biển trước, đất liền vẽ đè lên
+            cr.set_source_rgb(*S["nen_bien"]); cr.paint()
+        for v in S.get("vung_mau", []):   # vùng tô màu (đất liền các nước, tỉnh...) – đa giác thẳng, không làm mượt
+            pts = self.PP(v["diem"]); self.line(cr, pts); cr.close_path()
+            cr.set_source_rgb(*v.get("mau", C["dao"])); cr.fill_preserve()
+            cr.set_source_rgba(*C["bo"], .9); cr.set_line_width(v.get("vien", 1.2)); cr.stroke()
         for poly in S.get("vung_nuoc", []):
             self.line(cr, self.PP(catmull(poly + [poly[0]], 8))); cr.close_path()
             cr.set_source_rgb(*C["nuoc"]); cr.fill_preserve(); cr.set_source_rgba(*C["bo"], .9); cr.set_line_width(1.8); cr.stroke()
@@ -154,6 +160,25 @@ class SaBan2:
         elif typ == "mui_ten_dich": self.arrow(cr, o["diem"], k, C["dich"], o.get("w0", 3), o.get("w1", 6), .9)
         elif typ == "rut_chay": self.arrow(cr, o["diem"], k, C["dich"], o.get("w0", 4), 4, .85, dashed=True)
         elif typ == "rut_lui": self.arrow(cr, o["diem"], k, C["ta"], o.get("w0", 6), 6, .85, dashed=True)
+        elif typ == "vong":   # vòng vây của ta: đường cong khép kín vẽ dần
+            pts = cut(self.PP(catmull(o["diem"] + [o["diem"][0], o["diem"][1]], 12)), k)
+            if len(pts) < 2: return
+            self.line(cr, pts); cr.set_source_rgba(*C["ta"], .75); cr.set_line_width(o.get("rong", 7) * self.k); cr.stroke()
+        elif typ == "cu_diem":   # cứ điểm (hầm nửa tròn như kí hiệu SGK), nhỏ gọn cho tập đoàn cứ điểm dày đặc
+            x, y = self.P(o["vi_tri"]); r = 7 * self.k * (0.6 + 0.4 * k) * o.get("co", 1)
+            cr.set_source_rgba(.15, .15, .18, k); cr.arc(x, y, r, math.pi, 0); cr.close_path(); cr.fill()
+            cr.set_source_rgba(1, 1, 1, k); cr.rectangle(x - r * .45, y - r * .45, r * .9, r * .3); cr.fill()
+            g = o.get("_gone", 0)
+            if g: cr.set_source_rgba(*C["ta"], g); cr.set_line_width(3 * self.k / 1.4); cr.move_to(x - r * 1.3, y - r * 1.3); cr.line_to(x + r * 1.3, y + r * .6); cr.move_to(x - r * 1.3, y + r * .6); cr.line_to(x + r * 1.3, y - r * 1.3); cr.stroke()
+        elif typ == "san_bay":   # sân bay: dải băng có dấu máy bay giản lược
+            x, y = self.P(o["vi_tri"]); sc2 = self.k * (0.6 + 0.4 * k)
+            cr.save(); cr.translate(x, y); cr.rotate(math.radians(o.get("goc", 0))); cr.scale(sc2, sc2)
+            cr.set_source_rgba(.96, .96, .94, k); cr.rectangle(-40, -7, 80, 14); cr.fill_preserve()
+            cr.set_source_rgba(*C["dich"], k); cr.set_line_width(1.6); cr.stroke()
+            cr.set_line_width(2.4); cr.move_to(-12, 0); cr.line_to(12, 0); cr.move_to(2, -9); cr.line_to(2, 9); cr.move_to(-10, -4); cr.line_to(-10, 4); cr.stroke()
+            if o.get("_gone"):
+                cr.set_source_rgba(*C["ta"], o["_gone"]); cr.set_line_width(4); cr.move_to(-30, -14); cr.line_to(30, 14); cr.move_to(-30, 14); cr.line_to(30, -14); cr.stroke()
+            cr.restore()
         elif typ in ("tuong", "tran_tuyen"):   # phòng tuyến có răng cưa (ta) / trận tuyến hình răng vuông (địch), vẽ dần theo k
             pts = cut(self.PP(catmull(o["diem"], 12)), k)
             if len(pts) < 2: return
@@ -252,6 +277,12 @@ class SaBan2:
             elif typ == "mui_ten_dich": self.arrow(cr, [[cx - 22 * s, cy], [cx + 22 * s, cy]], 1, C["dich"], 3, 5, alpha, screen=True)
             elif typ == "rut_chay": self.arrow(cr, [[cx - 24 * s, cy], [cx + 24 * s, cy]], 1, C["dich"], 3, 3, alpha, dashed=True, screen=True)
             elif typ == "rut_lui": self.arrow(cr, [[cx - 24 * s, cy], [cx + 24 * s, cy]], 1, C["ta"], 4, 4, alpha, dashed=True, screen=True)
+            elif typ == "vong":
+                cr.set_source_rgba(*C["ta"], .75 * alpha); cr.set_line_width(5); cr.arc(cx, cy, 12 * s, 0, 6.3); cr.stroke()
+            elif typ == "cu_diem":
+                cr.set_source_rgb(.15, .15, .18); cr.arc(cx, cy + 5, 9 * s, math.pi, 0); cr.close_path(); cr.fill()
+            elif typ == "san_bay":
+                cr.save(); cr.translate(cx, cy); cr.scale(.6 * s, .6 * s); cr.set_source_rgb(.96, .96, .94); cr.rectangle(-40, -7, 80, 14); cr.fill_preserve(); cr.set_source_rgb(*C["dich"]); cr.set_line_width(1.6); cr.stroke(); cr.restore()
             elif typ == "tuong":
                 cr.set_source_rgb(.42, .40, .38); cr.rectangle(cx - 24 * s, cy - 2, 48 * s, 7); cr.fill()
                 for dx in (-20, -8, 4, 16): cr.rectangle(cx + dx * s, cy - 8, 6 * s, 7); cr.fill()
@@ -276,8 +307,14 @@ class SaBan2:
     def frame(self, phase, u, t):
         W, H, S = self.W, self.H, self.S; ph = S["pha"][phase]
         surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(surf)
+        cr.set_source_rgb(*C["giay2"]); cr.paint()   # nền giấy cho phần lộ ra khi máy quay lia
         z0, z1 = ph.get("zoom", [1.0, 1.04]); fx, fy = self.P(ph.get("tam", S.get("tam", [(S["khung"][0] + S["khung"][2]) / 2, (S["khung"][1] + S["khung"][3]) / 2])))
-        z = z0 + (z1 - z0) * ease(u); cr.translate(fx, fy); cr.scale(z, z); cr.translate(-fx, -fy)
+        z = z0 + (z1 - z0) * ease(u)
+        if ph.get("can_giua"):   # đưa điểm 'tam' về giữa khung (máy quay lia tới vùng cần xem)
+            tx, ty = W * ph["can_giua"][0], H * ph["can_giua"][1]
+            cr.translate(tx, ty); cr.scale(z, z); cr.translate(-fx, -fy)
+        else:
+            cr.translate(fx, fy); cr.scale(z, z); cr.translate(-fx, -fy)
         cr.set_source_surface(self.base); cr.paint()
         if ph.get("mo_dau"):
             a = seg(u, 0, .08)

@@ -49,7 +49,7 @@ def cho(W, H, n, sc):
     """Khung chờ cho cảnh chưa có hình (bản dựng thử): ghi rõ lớp cảnh và mô tả hình cần tạo."""
     f1 = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-700-normal.ttf"), int(H * 0.04))
     f2 = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-400-normal.ttf"), int(H * 0.03))
-    names = {"dan_chuyen": "DẪN CHUYỆN", "du_hanh": "DU HÀNH", "tai_hien": "TÁI HIỆN"}
+    names = {"dan_chuyen": "DẪN CHUYỆN", "du_hanh": "DU HÀNH", "tai_hien": "TÁI HIỆN", "tu_lieu": "ẢNH / PHIM TƯ LIỆU THẬT"}
     img = Image.new("RGB", (W, H), (34, 40, 52)); d = ImageDraw.Draw(img)
     d.text((W * 0.08, H * 0.16), f"[{names.get(sc.get('lop'), 'CẢNH')} – cảnh {sc.get('so', '')}]", font=f1, fill=(242, 160, 90))
     words = (sc.get("hinh") or "").split(); line = ""; y = H * 0.27

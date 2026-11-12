@@ -32,8 +32,11 @@ by["L9-B12-05"]["kien_thuc_chot"]=["1947: Ấn Độ được hưởng quy chế
     "26-1-1950: thành lập nước Cộng hoà Ấn Độ","Thành công của 'Cách mạng xanh'","Chế tạo bom nguyên tử (1974), phóng vệ tinh (1975)"]
 by["L6-B14-03"]["kien_thuc_chot"]=["Thành xây theo hình xoáy trôn ốc, ba vòng khép kín","Tổng chiều dài khoảng 16 000 m","Lẫy nỏ, mũi tên đồng tìm thấy ở Cổ Loa"]
 by["L7-B14-04"]["kien_thuc_chot"]=["Trần Khánh Dư phục kích đoàn thuyền lương ở Vân Đồn – Cửa Lục","Trận Bạch Đằng (4-1288): bãi cọc ngầm, nước triều rút, kế hoả công","Ô Mã Nhi bị bắt sống"]
+by["L9-B17-05"]["kien_thuc_chot"]=["Ba chiến dịch: Tây Nguyên, Huế – Đà Nẵng, Hồ Chí Minh (SGK LS9 tr. 89–90)",
+    "10 giờ 45 phút ngày 30-4-1975: xe tăng Quân Giải phóng tiến vào Dinh Độc Lập; 11 giờ 30 phút cờ cách mạng bay trên nóc dinh",
+    "Ngày 2-5-1975: Châu Đốc là tỉnh cuối cùng ở miền Nam được giải phóng (SGK LS9 tr. 91)"]
 # 3b) Sửa trang SGK khi viết kịch bản chi tiết phát hiện lệch (đối chiếu OCR)
-TRANG={"L6-B18-04":[83,84,85],"L6-B14-03":[61,62],"L6-B3-03":[14,15]}
+TRANG={"L6-B18-04":[83,84,85],"L6-B14-03":[61,62],"L6-B3-03":[14,15],"L9-B17-05":[89,90,91]}
 for k,v in TRANG.items(): by[k]["trang_sgk"]=v
 # 3c) Khung thời lượng chỉnh theo lượng kiến thức SGK thực có (không kéo dài bằng chi tiết ngoài SGK)
 KHUNG={"L6-B14-03":"2-3p","L6-B3-03":"2-3p"}
