@@ -1,0 +1,92 @@
+{
+ "muc_chinh": [
+  "Vai trò của đô thị",
+  "Quá trình đô thị hóa thời kì xã hội công nghiệp và hậu công nghiệp",
+  "Tác động của đô thị hóa đối với sự phát triển kinh tế - xã hội ở Việt Nam"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày vai trò của đô thị",
+  "Mô tả quá trình đô thị hóa qua các thời kì",
+  "Phân tích tác động của đô thị hóa"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đô thị - Trái tim của sự phát triển",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã tại sao đô thị lại là hạt nhân quyền lực, kinh tế và trung tâm đổi mới sáng tạo của vùng.",
+   "kien_thuc_chot": [
+    "Đô thị là trung tâm kinh tế, quyền lực",
+    "Thúc đẩy đổi mới sáng tạo và công nghệ cao",
+    "Đầu mối giao thông, liên kết hội nhập",
+    "Đi đầu trong tăng trưởng xanh"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    223
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Thời đại khói bụi: Đô thị hóa công nghiệp",
+   "noi_dung": "Hai bạn nhỏ ngược dòng thời gian về thế kỉ XVIII, khám phá sự bùng nổ của các thành phố công nghiệp như Luân Đôn, Man-che-xtơ.",
+   "kien_thuc_chot": [
+    "Gắn liền với cách mạng công nghiệp",
+    "Số dân thành thị tăng nhanh",
+    "Đô thị tập trung gần nguồn nguyên liệu, cảng biển",
+    "Phát triển thiếu kiểm soát gây ô nhiễm"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới mô phỏng sự xuất hiện các chấm đỏ (đô thị) dọc theo các dòng sông và cảng biển từ thế kỉ XVIII đến XIX.",
+   "trang_sgk": [
+    223,
+    224
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kỷ nguyên số: Đô thị hóa hậu công nghiệp",
+   "noi_dung": "Khám phá sự chuyển mình của đô thị hiện đại với internet, kinh tế tri thức và các siêu đô thị như Tô-ky-ô.",
+   "kien_thuc_chot": [
+    "Phát triển kinh tế tri thức và tự động hóa",
+    "Xuất hiện vùng đô thị và dải siêu đô thị",
+    "Hướng tới đô thị xanh, thông minh",
+    "Sự khác biệt giữa nước phát triển và đang phát triển"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "So sánh hình ảnh đô thị công nghiệp cũ (nhà máy khói) với đô thị thông minh (không gian xanh, kết nối số).",
+   "trang_sgk": [
+    225
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Đô thị Việt Nam: Cơ hội và thách thức",
+   "noi_dung": "Nhật Minh và Hân Hân nhìn lại bức tranh đô thị hóa tại Việt Nam, từ vai trò cực tăng trưởng đến các vấn đề quá tải.",
+   "kien_thuc_chot": [
+    "Đô thị hóa gắn với công nghiệp hóa, hiện đại hóa",
+    "Hà Nội và TP.HCM là cực tăng trưởng",
+    "Lan tỏa phát triển kinh tế vùng nông thôn",
+    "Thách thức về hạ tầng và môi trường"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    226
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng thành phố tương lai': Người dùng chọn các yếu tố (công nghiệp, dịch vụ, không gian xanh, công nghệ) để xem tác động đến dân số và môi trường của đô thị.",
+ "id": "L9-CD1",
+ "ten": "Đô thị: Lịch sử và hiện tại (2)",
+ "lop": 9,
+ "chuong": "Chủ đề chung"
+}

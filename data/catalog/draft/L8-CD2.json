@@ -1,0 +1,109 @@
+{
+ "muc_chinh": [
+  "Vị trí, phạm vi các vùng biển và hải đảo Việt Nam",
+  "Thuận lợi và khó khăn đối với phát triển kinh tế và bảo vệ chủ quyền",
+  "Quá trình xác lập chủ quyền biển đảo trong lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Xác định được phạm vi vùng biển Việt Nam theo Luật Biển 2012",
+  "Phân tích được tiềm năng và thách thức tại Biển Đông",
+  "Hiểu được quá trình xác lập chủ quyền biển đảo từ thời tiền sử"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Biển Đông - Không gian sinh tồn của người Việt",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về vị trí địa lý và tầm quan trọng của Biển Đông đối với dân tộc Việt Nam.",
+   "kien_thuc_chot": [
+    "Biển đảo là không gian sinh tồn của dân tộc",
+    "Luật Biển Việt Nam 2012 quy định 5 vùng biển chính",
+    "Diện tích vùng biển khoảng 1 triệu km2"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    164,
+    166
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Giải mã đường cơ sở và vịnh Bắc Bộ",
+   "noi_dung": "Hai bạn cùng tìm hiểu cách xác định đường cơ sở và hiệp định phân định vịnh Bắc Bộ giữa Việt Nam và Trung Quốc.",
+   "kien_thuc_chot": [
+    "Đường cơ sở gồm các điểm từ 0 đến A24",
+    "Hiệp định phân định vịnh Bắc Bộ ký năm 2000",
+    "Đường phân định gồm 21 điểm nối tiếp"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác cho phép kéo thả các điểm A1-A24 và 21 điểm phân định vịnh Bắc Bộ.",
+   "trang_sgk": [
+    165,
+    166,
+    167,
+    168
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kinh tế biển: Tiềm năng và thách thức",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích các ngành kinh tế biển và những khó khăn do thiên tai, biến đổi khí hậu.",
+   "kien_thuc_chot": [
+    "Thuận lợi: Tài nguyên phong phú, vị trí hàng hải quốc tế",
+    "Khó khăn: Thiên tai, bão, biến đổi khí hậu",
+    "Cơ sở hạ tầng cần được đầu tư đồng bộ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    169
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Bảo vệ chủ quyền bằng luật pháp quốc tế",
+   "noi_dung": "Hai bạn thảo luận về vai trò của UNCLOS 1982 và các biện pháp hòa bình trong giải quyết tranh chấp.",
+   "kien_thuc_chot": [
+    "UNCLOS 1982 là cơ sở pháp lý quan trọng",
+    "Việt Nam tích cực xây dựng COC",
+    "Giải quyết tranh chấp bằng biện pháp hòa bình"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    169,
+    170
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Dấu ấn cha ông trên biển đảo",
+   "noi_dung": "Nhật Minh và Hân Hân kể lại quá trình xác lập chủ quyền từ thời tiền sử đến các nhà nước phong kiến.",
+   "kien_thuc_chot": [
+    "Cư dân Việt cổ khai thác biển từ sớm",
+    "Truyền thuyết gắn liền với biển đảo",
+    "Khẳng định chủ quyền liên tục qua các thời kỳ"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Dòng thời gian (Timeline) tương tác từ thời tiền sử đến thế kỷ X, hiển thị các bằng chứng khảo cổ.",
+   "trang_sgk": [
+    170
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số Biển Đông: Học sinh có thể nhấn vào các điểm A1-A24 để xem thông tin tọa độ và nhấn vào các vùng biển để xem định nghĩa pháp lý tương ứng.",
+ "id": "L8-CD2",
+ "ten": "Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+ "lop": 8,
+ "chuong": "Chủ đề chung"
+}

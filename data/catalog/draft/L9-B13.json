@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Các biện pháp xây dựng và củng cố chính quyền cách mạng",
+  "Giải quyết những khó khăn về kinh tế, văn hoá, giáo dục",
+  "Cuộc kháng chiến chống thực dân Pháp trở lại xâm lược của nhân dân Nam Bộ"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được các biện pháp củng cố chính quyền, kinh tế, văn hóa, quân sự",
+  "Trình bày nét chính về kháng chiến chống Pháp ở Nam Bộ"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Việt Nam 1945: 'Ngàn cân treo sợi tóc'",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu bối cảnh đất nước sau 2/9/1945 với muôn vàn khó khăn và kẻ thù bao vây.",
+   "kien_thuc_chot": [
+    "Chính quyền non trẻ đối mặt với quân Trung Hoa Dân quốc và thực dân Pháp",
+    "Nạn đói, nạn dốt và ngân khố trống rỗng"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    63
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Tổng tuyển cử và chính quyền của dân",
+   "noi_dung": "Kể về cuộc Tổng tuyển cử 6/1/1946 và việc xây dựng bộ máy nhà nước, Hiến pháp đầu tiên.",
+   "kien_thuc_chot": [
+    "Tổng tuyển cử 6/1/1946 bầu ra Quốc hội khóa I",
+    "Hiến pháp đầu tiên năm 1946 được thông qua",
+    "Chính phủ thực hiện sách lược hòa hoãn với quân Trung Hoa Dân quốc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng cảnh bỏ phiếu bầu cử năm 1946 với hình ảnh người dân xếp hàng bỏ phiếu",
+   "trang_sgk": [
+    63,
+    64
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Diệt giặc đói, giặc dốt",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích cách Chính phủ vận động nhân dân tăng gia sản xuất và xóa mù chữ.",
+   "kien_thuc_chot": [
+    "Phong trào tăng gia sản xuất, hũ gạo cứu đói, Tuần lễ vàng",
+    "Nha Bình dân học vụ xóa nạn mù chữ",
+    "Xây dựng đời sống văn hóa mới"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng biểu đồ tăng trưởng sản xuất và hình ảnh lớp học Bình dân học vụ",
+   "trang_sgk": [
+    65,
+    66
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Nam Bộ kháng chiến: Thành đồng Tổ quốc",
+   "noi_dung": "Tái hiện cuộc chiến đấu kiên cường của nhân dân Sài Gòn - Chợ Lớn chống Pháp quay lại.",
+   "kien_thuc_chot": [
+    "Pháp đánh úp Sài Gòn ngày 23/9/1945",
+    "Nhân dân Nam Bộ dựng chiến lũy, phá kho tàng, cắt điện nước",
+    "Phong trào Nam tiến ủng hộ miền Nam"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ diễn biến quân Pháp đánh Sài Gòn và các mũi tiến quân của bộ đội Nam tiến",
+   "trang_sgk": [
+    66,
+    67,
+    68
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà lãnh đạo trẻ': Người chơi chọn các biện pháp (cứu đói, bầu cử, ngoại giao) để giải quyết các tình huống khó khăn giả định của đất nước năm 1945.",
+ "id": "L9-B13",
+ "ten": "Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+ "lop": 9,
+ "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975"
+}

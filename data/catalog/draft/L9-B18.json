@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Xu hướng vận động và sự hình thành trật tự thế giới mới từ năm 1991 đến nay",
+  "Liên bang Nga từ năm 1991 đến nay",
+  "Nước Mỹ từ năm 1991 đến nay"
+ ],
+ "yeu_cau_can_dat": [
+  "Nhận biết xu hướng trật tự thế giới mới",
+  "Nêu tình hình chính trị, kinh tế Liên bang Nga",
+  "Trình bày tình hình chính trị, kinh tế nước Mỹ"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Thế giới sau Chiến tranh lạnh: Bước ngoặt lịch sử",
+   "noi_dung": "Nhật Minh và Hân Hân cùng giải mã sự kiện Liên Xô sụp đổ năm 1991 và sự kết thúc của trật tự hai cực I-an-ta.",
+   "kien_thuc_chot": [
+    "Năm 1991, Liên Xô sụp đổ, trật tự hai cực I-an-ta chấm dứt",
+    "Xu thế chủ đạo: đối thoại, hòa hoãn, lấy kinh tế làm trọng tâm",
+    "Thế giới đang hình thành xu hướng đa cực, nhiều trung tâm"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới chuyển đổi từ hai khối màu đối lập (Mỹ-Liên Xô) sang bản đồ đa cực với các trung tâm quyền lực: Mỹ, EU, Nhật Bản, Trung Quốc, Nga.",
+   "trang_sgk": [
+    95,
+    96
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Nước Nga: Từ khủng hoảng đến phục hồi",
+   "noi_dung": "Hân Hân kể về hành trình đầy thử thách của nước Nga từ những năm 90 đầy biến động đến vị thế hiện nay.",
+   "kien_thuc_chot": [
+    "Tháng 12/1993, Hiến pháp mới xác lập thể chế Cộng hòa Tổng thống",
+    "Kinh tế chuyển từ kế hoạch hóa tập trung sang thị trường",
+    "Nga là cường quốc với các ngành mũi nhọn: năng lượng, vũ trụ, quốc phòng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    96
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Nước Mỹ: Siêu cường và tham vọng đơn cực",
+   "noi_dung": "Nhật Minh phân tích vị thế siêu cường của Mỹ và những nỗ lực duy trì ảnh hưởng toàn cầu từ năm 1991.",
+   "kien_thuc_chot": [
+    "Mỹ duy trì nền dân chủ tư sản, tham vọng thiết lập trật tự đơn cực",
+    "Kinh tế Mỹ đứng đầu thế giới về tài chính, công nghệ, xuất khẩu",
+    "Mỹ chi phối các tổ chức quốc tế như WTO, WB, IMF"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Biểu đồ cột so sánh GDP của Mỹ qua các mốc 2000-2021 và các lĩnh vực xuất khẩu chủ đạo.",
+   "trang_sgk": [
+    97
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thử thách: Thế giới đa cực có gì vui?",
+   "noi_dung": "Nhật Minh và Hân Hân tóm tắt nhanh về cuộc cạnh tranh giữa các cường quốc hiện nay.",
+   "kien_thuc_chot": [
+    "Sự trỗi dậy của EU, Nhật Bản, Trung Quốc cạnh tranh với Mỹ",
+    "Hòa bình là xu thế nhưng vẫn còn xung đột sắc tộc, tôn giáo",
+    "Việt Nam cần tận dụng thời cơ và vượt qua thách thức trong bối cảnh mới"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    95,
+    96,
+    97
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo thả: Học sinh kéo các biểu tượng (Nga, Mỹ, EU, Trung Quốc, Nhật Bản) vào bản đồ thế giới để xác định các trung tâm quyền lực trong trật tự đa cực hiện nay.",
+ "id": "L9-B18",
+ "ten": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+ "lop": 9,
+ "chuong": "Chương 5. Thế giới từ năm 1991 đến nay"
+}

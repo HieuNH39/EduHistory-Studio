@@ -1,0 +1,106 @@
+{
+ "muc_chinh": [
+  "Nét đặc sắc văn hóa châu thổ sông Hồng và sông Cửu Long",
+  "Biến đổi khí hậu ở hai vùng châu thổ",
+  "Tác động của biến đổi khí hậu đến kinh tế - xã hội",
+  "Biện pháp ứng phó với biến đổi khí hậu"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày nét đặc sắc văn hóa",
+  "Phân tích biểu hiện và tác động của biến đổi khí hậu",
+  "Đề xuất biện pháp ứng phó"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Văn hóa sông Hồng: Cái nôi di sản",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá các di sản vật thể và phi vật thể đặc trưng của vùng đồng bằng sông Hồng.",
+   "kien_thuc_chot": [
+    "Di sản vật thể: Thành Cổ Loa, Hoàng thành Thăng Long, Văn Miếu.",
+    "Di sản phi vật thể: Gốm Bát Tràng, đúc đồng Đại Bái, Quan họ Bắc Ninh, Ca trù."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác 3D các di tích tại Hà Nội và các làng nghề vùng Bắc Bộ.",
+   "trang_sgk": [
+    225,
+    226
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 1,
+   "ten_tap": "Văn hóa sông nước Cửu Long",
+   "noi_dung": "Hân Hân đưa Nhật Minh đi chợ nổi và tìm hiểu nét sống gắn liền với sông nước miền Tây.",
+   "kien_thuc_chot": [
+    "Đặc trưng: Nhà nổi, chợ nổi (Cái Răng, Phụng Hiệp).",
+    "Nghề thủ công: Đóng ghe xuồng, làm đường thốt nốt.",
+    "Di sản thế giới: Đờn ca tài tử Nam Bộ."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D cảnh sinh hoạt trên chợ nổi Cái Răng.",
+   "trang_sgk": [
+    226
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Biến đổi khí hậu: Chuyện không của riêng ai",
+   "noi_dung": "Hai bạn cùng phân tích số liệu nhiệt độ và mực nước biển dâng qua các thập niên.",
+   "kien_thuc_chot": [
+    "Nhiệt độ trung bình tăng.",
+    "Thời tiết cực đoan khó dự báo.",
+    "Mực nước biển dâng trung bình 2,7mm/năm."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Đồ thị động hiển thị sự thay đổi nhiệt độ từ 1961 đến 2020.",
+   "trang_sgk": [
+    227,
+    228
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thách thức từ biến đổi khí hậu",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về tác động tiêu cực đến nông nghiệp và đời sống người dân.",
+   "kien_thuc_chot": [
+    "Sông Hồng: Nắng nóng tăng, rét giảm, bão lũ bất thường.",
+    "Sông Cửu Long: Hạn hán, xâm nhập mặn, sạt lở bờ biển."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    228,
+    229
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Cùng chung tay ứng phó",
+   "noi_dung": "Đề xuất các giải pháp thích ứng thông minh cho hai vùng đồng bằng.",
+   "kien_thuc_chot": [
+    "Sông Hồng: Thay đổi thời vụ, công nghệ sản xuất xanh.",
+    "Sông Cửu Long: Giống cây chịu mặn, đê biển, du lịch sinh thái, bảo vệ rừng ngập mặn."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trò chơi kéo thả: Chọn biện pháp phù hợp cho từng loại hình thiên tai.",
+   "trang_sgk": [
+    229,
+    230
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác hai miền: Người dùng nhấn vào từng vùng để xem các biểu hiện biến đổi khí hậu và chọn giải pháp ứng phó phù hợp để nhận phản hồi kết quả.",
+ "id": "L9-CD2",
+ "ten": "Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+ "lop": 9,
+ "chuong": "Chủ đề chung"
+}

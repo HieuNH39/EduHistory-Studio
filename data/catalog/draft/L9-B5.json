@@ -1,0 +1,107 @@
+{
+ "muc_chinh": [
+  "Hoạt động yêu nước của người Việt Nam ở nước ngoài",
+  "Phong trào của giai cấp tư sản và tầng lớp tiểu tư sản",
+  "Phong trào của giai cấp công nhân",
+  "Sự ra đời của các tổ chức yêu nước cách mạng"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả được nét chính phong trào dân tộc dân chủ 1918-1930",
+  "Hiểu được sự chuyển biến của phong trào từ tự phát sang tự giác",
+  "Phân tích được sự thất bại của khuynh hướng dân chủ tư sản và sự thắng thế của khuynh hướng vô sản"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Việt Nam sau Thế chiến I: Bối cảnh mới",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu chương trình khai thác thuộc địa lần 2 của Pháp và tác động của Cách mạng tháng Mười Nga.",
+   "kien_thuc_chot": [
+    "Pháp đẩy mạnh khai thác thuộc địa lần 2",
+    "Tác động của Cách mạng tháng Mười Nga (1917)",
+    "Sự ra đời của Quốc tế Cộng sản (1919)"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    24
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Người Việt yêu nước ở phương xa",
+   "noi_dung": "Câu chuyện về Tâm tâm xã tại Trung Quốc và Hội những người yêu nước tại Pháp của Phan Châu Trinh.",
+   "kien_thuc_chot": [
+    "Tâm tâm xã (1923) mưu sát Toàn quyền Méc-lanh",
+    "Phan Châu Trinh thành lập Hội những người yêu nước tại Pháp (1919)"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển từ Việt Nam sang Trung Quốc và Pháp với các icon tổ chức",
+   "trang_sgk": [
+    24
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Tư sản và Tiểu tư sản: Những bước chuyển mình",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích các phong trào đòi quyền lợi kinh tế và sự thức tỉnh của trí thức trẻ.",
+   "kien_thuc_chot": [
+    "Tư sản đấu tranh chống chèn ép, thành lập Đảng Lập hiến (1923)",
+    "Tiểu tư sản sôi nổi với báo chí và các tổ chức chính trị sơ khai",
+    "Các phong trào đòi thả Phan Bội Châu, đám tang Phan Châu Trinh"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    24,
+    25
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Ba Son - Cột mốc lịch sử",
+   "noi_dung": "Kể lại cuộc bãi công Ba Son (1925) dưới sự lãnh đạo của Tôn Đức Thắng, bước ngoặt từ tự phát sang tự giác.",
+   "kien_thuc_chot": [
+    "Cuộc bãi công Ba Son (1925) thắng lợi",
+    "Chuyển biến từ đấu tranh tự phát sang tự giác",
+    "Công nhân trở thành lực lượng chính trị độc lập"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng xưởng đóng tàu Ba Son và biểu đồ tiến trình bãi công",
+   "trang_sgk": [
+    25,
+    26
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Cuộc đua của các tổ chức cách mạng",
+   "noi_dung": "So sánh Hội Việt Nam Cách mạng Thanh niên, Tân Việt và Việt Nam Quốc dân đảng.",
+   "kien_thuc_chot": [
+    "Hội Việt Nam Cách mạng Thanh niên (1925) truyền bá chủ nghĩa Mác-Lênin",
+    "Việt Nam Quốc dân đảng (1927) thất bại với khởi nghĩa Yên Bái",
+    "Khuynh hướng vô sản thắng thế"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ so sánh khuynh hướng dân chủ tư sản và khuynh hướng vô sản",
+   "trang_sgk": [
+    26,
+    27
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tư duy tương tác: Học sinh kéo thả các sự kiện vào dòng thời gian 1918-1930 để thấy sự phân hóa giữa các khuynh hướng chính trị.",
+ "id": "L9-B5",
+ "ten": "Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+ "lop": 9,
+ "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945"
+}

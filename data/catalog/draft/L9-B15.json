@@ -1,0 +1,103 @@
+{
+ "muc_chinh": [
+  "Những thắng lợi trên mặt trận chính trị, kinh tế, văn hóa",
+  "Những thắng lợi trên mặt trận quân sự",
+  "Những thắng lợi trên mặt trận ngoại giao",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày thắng lợi các mặt trận 1951-1954",
+  "Nêu ý nghĩa và nguyên nhân thắng lợi kháng chiến chống Pháp"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đại hội Đảng và sức mạnh đoàn kết",
+   "noi_dung": "Nhật Minh và Hân Hân kể về Đại hội đại biểu lần thứ II của Đảng (1951) và sự ra đời của Mặt trận Liên Việt.",
+   "kien_thuc_chot": [
+    "Đại hội II (2/1951) khẳng định đường lối kháng chiến",
+    "Thành lập Mặt trận Liên Việt (3/1951) tăng cường khối đại đoàn kết"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    76
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Kế hoạch Na-va và chiến cuộc Đông - Xuân",
+   "noi_dung": "Phân tích âm mưu của Pháp-Mỹ qua kế hoạch Na-va và cách quân ta phá tan kế hoạch này bằng chiến cuộc Đông-Xuân 1953-1954.",
+   "kien_thuc_chot": [
+    "Kế hoạch Na-va nhằm xoay chuyển cục diện trong 18 tháng",
+    "Ta tập trung tiến công vào các hướng quan trọng, buộc địch phân tán lực lượng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị sự phân tán lực lượng của Pháp tại 5 điểm: đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang, Plây-ku",
+   "trang_sgk": [
+    77,
+    78
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Điện Biên Phủ - Lừng lẫy năm châu",
+   "noi_dung": "Tái hiện diễn biến 3 đợt tấn công tại chiến dịch Điện Biên Phủ và tinh thần 'Tất cả cho tiền tuyến'.",
+   "kien_thuc_chot": [
+    "Chuyển phương châm từ 'đánh nhanh, thắng nhanh' sang 'đánh chắc, tiến chắc'",
+    "Chiến thắng ngày 7/5/1954 kết thúc thắng lợi chiến dịch"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3 đợt tấn công trên sơ đồ chiến dịch, nhấn mạnh việc kiểm soát sân bay Mường Thanh",
+   "trang_sgk": [
+    78,
+    79
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Hội nghị Giơ-ne-vơ và hòa bình",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích tầm quan trọng của Hiệp định Giơ-ne-vơ trong việc chấm dứt chiến tranh.",
+   "kien_thuc_chot": [
+    "Ký kết Hiệp định Giơ-ne-vơ (21/7/1954)",
+    "Đình chỉ chiến sự, lập lại hòa bình, lấy vĩ tuyến 17 làm ranh giới tạm thời"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    80
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Tại sao chúng ta thắng?",
+   "noi_dung": "Tổng kết nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến chống Pháp.",
+   "kien_thuc_chot": [
+    "Sự lãnh đạo của Đảng và Bác Hồ",
+    "Tinh thần yêu nước, hậu phương vững chắc, sự ủng hộ quốc tế",
+    "Chấm dứt ách thống trị của Pháp, giải phóng miền Bắc"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    80,
+    81
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác chiến cuộc Đông - Xuân: Người dùng chọn các mũi tên tấn công của ta vào các hướng để thấy quân Pháp phải phân tán lực lượng về 5 điểm tập trung quân.",
+ "id": "L9-B15",
+ "ten": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+ "lop": 9,
+ "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975"
+}

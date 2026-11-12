@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Thành tựu của cuộc cách mạng khoa học - kĩ thuật và ảnh hưởng đối với Việt Nam",
+  "Xu thế toàn cầu hoá và tác động đối với thế giới và Việt Nam"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả thành tựu khoa học - kĩ thuật tiêu biểu",
+  "Phân tích ảnh hưởng của cách mạng khoa học - kĩ thuật đến Việt Nam",
+  "Giải thích khái niệm và tác động của toàn cầu hoá"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Thế giới thay đổi thế nào?",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá những thành tựu kỳ diệu của Cách mạng khoa học - kĩ thuật từ sau Chiến tranh thế giới thứ hai đến nay.",
+   "kien_thuc_chot": [
+    "Cách mạng khoa học - kĩ thuật dựa trên điện tử và công nghệ thông tin.",
+    "Thành tựu nổi bật: IoT, Big Data, AI, điện toán đám mây.",
+    "Ứng dụng trong mọi lĩnh vực: công nghệ sinh học, năng lượng mới, vật liệu mới, giao thông, thông tin liên lạc."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Đồ họa chuyển động các biểu tượng: Robot, máy bay siêu âm, vệ tinh, điện thoại thông minh kết nối với nhau.",
+   "trang_sgk": [
+    113,
+    114,
+    115
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Việt Nam trong dòng chảy công nghệ",
+   "noi_dung": "Hai bạn cùng thảo luận về cơ hội và thách thức mà cuộc cách mạng khoa học - kĩ thuật mang lại cho Việt Nam.",
+   "kien_thuc_chot": [
+    "Thời cơ: Thúc đẩy kinh tế hiện đại, hội nhập, chuyển đổi số.",
+    "Thách thức: Nguy cơ gia công lắp ráp, an ninh mạng, thiếu hụt nhân lực chất lượng cao.",
+    "Áp lực đào thải lao động do AI."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bảng so sánh hai cột: 'Thời cơ' (màu xanh) và 'Thách thức' (màu đỏ) hiện lên khi Nhật Minh và Hân Hân trò chuyện.",
+   "trang_sgk": [
+    115,
+    116
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Toàn cầu hoá: Thế giới phẳng",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích khái niệm toàn cầu hoá và những biểu hiện rõ nét của nó trong đời sống hiện nay.",
+   "kien_thuc_chot": [
+    "Toàn cầu hoá là sự hội nhập mạnh mẽ của các nền kinh tế và xã hội toàn thế giới.",
+    "Biểu hiện: Thương mại quốc tế phát triển, giao lưu văn hoá, sự lớn mạnh của các tổ chức khu vực và quốc tế (EU, ASEAN, UN).",
+    "Tác động tích cực: Tăng trưởng kinh tế, liên kết giải quyết vấn đề toàn cầu."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới với các đường kết nối thương mại và luồng di chuyển văn hóa giữa các châu lục.",
+   "trang_sgk": [
+    116,
+    117
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Việt Nam và bài toán toàn cầu hoá",
+   "noi_dung": "Tổng kết tác động của toàn cầu hoá đối với Việt Nam, nhấn mạnh việc tận dụng cơ hội và giữ gìn bản sắc.",
+   "kien_thuc_chot": [
+    "Cơ hội: Tiếp cận vốn, công nghệ, nâng cao uy tín quốc gia.",
+    "Thách thức: Cạnh tranh gay gắt, nguy cơ xói mòn bản sắc văn hoá.",
+    "Cần chủ động hội nhập để phát triển bền vững."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    117
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Học sinh chọn các thành tựu khoa học (AI, In 3D, Năng lượng gió) vào các lĩnh vực tương ứng (Y tế, Sản xuất, Năng lượng) để thấy sự tác động toàn diện.",
+ "id": "L9-B21",
+ "ten": "Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+ "lop": 9,
+ "chuong": "Chương 7. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá"
+}

@@ -1,0 +1,105 @@
+{
+ "muc_chinh": [
+  "Thành tựu xây dựng miền Bắc (1954-1965)",
+  "Thắng lợi quân sự của miền Nam (1954-1965)"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu được miền Bắc là hậu phương lớn, miền Nam là tiền tuyến trong kháng chiến chống Mỹ.",
+  "Nắm vững các mốc thời gian và sự kiện tiêu biểu như Đồng khởi, chiến thắng Ấp Bắc."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Miền Bắc hồi sinh sau chiến tranh",
+   "noi_dung": "Nhật Minh và Hân Hân kể về công cuộc cải cách ruộng đất và khôi phục kinh tế miền Bắc giai đoạn 1954-1957.",
+   "kien_thuc_chot": [
+    "Hoàn thành cải cách ruộng đất, xóa bỏ giai cấp địa chủ.",
+    "Khôi phục kinh tế, giải quyết nạn đói.",
+    "Xây dựng nhiều nhà máy lớn như Cơ khí Hà Nội, Diêm Thống Nhất."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    82,
+    83
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Hậu phương lớn chi viện tiền tuyến",
+   "noi_dung": "Hai bạn nhỏ giải thích cách miền Bắc xây dựng CNXH và vai trò của đường Trường Sơn trong việc chi viện cho miền Nam.",
+   "kien_thuc_chot": [
+    "Thực hiện kế hoạch 5 năm lần thứ nhất (1961-1965).",
+    "Thành lập Đoàn 559 và đường Trường Sơn năm 1959.",
+    "Chi viện sức người, sức của cho miền Nam."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị đường mòn Hồ Chí Minh nối liền Bắc - Nam.",
+   "trang_sgk": [
+    83,
+    84
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đồng khởi - Ngọn lửa bùng cháy",
+   "noi_dung": "Nhật Minh và Hân Hân tái hiện phong trào Đồng khởi tại Bến Tre, bước ngoặt của cách mạng miền Nam.",
+   "kien_thuc_chot": [
+    "Nghị quyết 15 của Trung ương Đảng (1959).",
+    "Phong trào Đồng khởi (1960) lan rộng khắp Nam Bộ.",
+    "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    85
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Đánh bại Chiến tranh đặc biệt",
+   "noi_dung": "Câu chuyện về chiến thắng Ấp Bắc và sự thất bại của chiến lược 'dùng người Việt đánh người Việt'.",
+   "kien_thuc_chot": [
+    "Chiến lược 'Chiến tranh đặc biệt' của Mỹ.",
+    "Chiến thắng Ấp Bắc (1963) mở ra khả năng đánh bại chiến lược của Mỹ.",
+    "Các chiến thắng An Lão, Ba Gia, Đồng Xoài làm phá sản chiến lược này."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng sơ đồ chiến thuật trận Ấp Bắc.",
+   "trang_sgk": [
+    86
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Tóm tắt nhanh: Giai đoạn 1954-1965",
+   "noi_dung": "Nhật Minh và Hân Hân tóm tắt các sự kiện chính bằng sơ đồ tư duy nhanh.",
+   "kien_thuc_chot": [
+    "Miền Bắc: Xây dựng CNXH, hậu phương vững chắc.",
+    "Miền Nam: Chuyển từ giữ gìn lực lượng sang tiến công.",
+    "Đoàn kết Bắc - Nam là yếu tố quyết định thắng lợi."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    82,
+    86
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác Việt Nam 1954-1965: Người dùng nhấn vào các địa danh (Hà Nội, Bến Tre, Ấp Bắc, Đường Trường Sơn) để xem thông tin sự kiện và hình ảnh tư liệu tương ứng.",
+ "id": "L9-B16",
+ "ten": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+ "lop": 9,
+ "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975"
+}

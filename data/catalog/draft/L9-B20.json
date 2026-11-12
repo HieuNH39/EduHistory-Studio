@@ -1,0 +1,111 @@
+{
+ "muc_chinh": [
+  "Thống nhất đất nước về mặt Nhà nước",
+  "Đấu tranh bảo vệ chủ quyền và toàn vẹn lãnh thổ",
+  "Tình hình chính trị, kinh tế, xã hội (1976 - 1985)",
+  "Công cuộc Đổi mới đất nước (1986 - nay)"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững quá trình thống nhất Nhà nước và bảo vệ chủ quyền",
+  "Hiểu bối cảnh và thành tựu của công cuộc Đổi mới",
+  "Đánh giá được ý nghĩa và thách thức của đất nước hiện nay"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Non sông thu về một mối",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự kiện Tổng tuyển cử năm 1976, đánh dấu cột mốc thống nhất đất nước về mặt Nhà nước.",
+   "kien_thuc_chot": [
+    "Quốc hội khóa VI thông qua chính sách thống nhất",
+    "Tên nước: Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "Thủ đô là Hà Nội, Sài Gòn đổi tên thành TP. Hồ Chí Minh"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    103,
+    104
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Giữ vững biên cương",
+   "noi_dung": "Hai bạn nhỏ tái hiện cuộc đấu tranh bảo vệ biên giới Tây Nam và phía Bắc, khẳng định ý chí bảo vệ chủ quyền.",
+   "kien_thuc_chot": [
+    "Chiến thắng biên giới Tây Nam (1978)",
+    "Chiến đấu bảo vệ biên giới phía Bắc (1979)",
+    "Khẳng định chủ quyền toàn vẹn lãnh thổ"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Việt Nam hiển thị các mũi tên tấn công và các điểm nóng biên giới Tây Nam, phía Bắc.",
+   "trang_sgk": [
+    104,
+    105
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Biển đảo là máu thịt",
+   "noi_dung": "Hân Hân và Nhật Minh chia sẻ về cuộc đấu tranh bảo vệ chủ quyền biển đảo, đặc biệt là sự kiện Gạc Ma 1988.",
+   "kien_thuc_chot": [
+    "Việt Nam thực thi chủ quyền tại Hoàng Sa, Trường Sa",
+    "Sự hy sinh của 64 chiến sĩ tại đảo Gạc Ma",
+    "Giải quyết tranh chấp bằng biện pháp hòa bình"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D các đảo chìm, bãi ngầm thuộc quần đảo Trường Sa.",
+   "trang_sgk": [
+    105,
+    106
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Bước ngoặt lịch sử: Đổi mới",
+   "noi_dung": "Giải thích lý do Đảng quyết định Đổi mới năm 1986 trong bối cảnh đất nước khủng hoảng kinh tế.",
+   "kien_thuc_chot": [
+    "Đại hội VI (1986) đề ra đường lối đổi mới toàn diện",
+    "Chuyển từ cơ chế tập trung quan liêu sang kinh tế thị trường",
+    "Mở rộng quan hệ đối ngoại"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    107,
+    108
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Việt Nam vươn mình",
+   "noi_dung": "Tổng kết những thành tựu rực rỡ của đất nước sau gần 40 năm Đổi mới trên mọi lĩnh vực.",
+   "kien_thuc_chot": [
+    "Kinh tế tăng trưởng, đời sống nhân dân cải thiện",
+    "Vị thế quốc tế được nâng cao",
+    "Giáo dục, y tế, quốc phòng phát triển vững mạnh"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Biểu đồ cột tương tác thể hiện sự tăng trưởng GDP từ 1991 đến 2023.",
+   "trang_sgk": [
+    109,
+    110,
+    111
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Hành trình Đổi mới': Học sinh kéo thả các thành tựu (GDP, quan hệ ngoại giao, giáo dục) vào các mốc thời gian tương ứng để thấy sự thay đổi của Việt Nam.",
+ "id": "L9-B20",
+ "ten": "Việt Nam từ năm 1976 đến nay",
+ "lop": 9,
+ "chuong": "Chương 6. Việt Nam từ năm 1976 đến nay"
+}

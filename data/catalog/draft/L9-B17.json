@@ -1,0 +1,131 @@
+{
+ "muc_chinh": [
+  "Miền Nam chống chiến lược Chiến tranh cục bộ (1965-1968)",
+  "Miền Nam chống chiến lược Việt Nam hóa chiến tranh (1969-1973)",
+  "Miền Bắc chống chiến tranh phá hoại và chi viện cho miền Nam",
+  "Tổng tiến công và nổi dậy Xuân 1975",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu các chiến lược của Mỹ",
+  "Nắm vững các thắng lợi quân sự tiêu biểu",
+  "Thấy rõ vai trò hậu phương miền Bắc",
+  "Hiểu ý nghĩa lịch sử của chiến thắng 1975"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Chiến tranh cục bộ: Mỹ đổ quân vào miền Nam",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích chiến lược Chiến tranh cục bộ và trận Vạn Tường mở đầu cao trào đánh Mỹ.",
+   "kien_thuc_chot": [
+    "Chiến tranh cục bộ là chiến lược thực dân mới",
+    "Quân Mỹ giữ vai trò chủ yếu",
+    "Trận Vạn Tường (18/8/1965) là thắng lợi mở đầu"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ miền Nam hiển thị các mũi tiến công của quân Mỹ và vị trí Vạn Tường",
+   "trang_sgk": [
+    87,
+    88
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Mậu Thân 1968: Cú sốc cho Nhà Trắng",
+   "noi_dung": "Kể về cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 làm lung lay ý chí xâm lược của Mỹ.",
+   "kien_thuc_chot": [
+    "Đồng loạt tiến công các đô thị và cơ quan đầu não",
+    "Mỹ buộc phải tuyên bố phi Mỹ hóa",
+    "Chấp nhận đàm phán tại Pa-ri"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    88
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Việt Nam hóa chiến tranh và sự hy sinh của Bác",
+   "noi_dung": "Giải thích chiến lược dùng người Việt đánh người Việt và sự kiện thành lập Chính phủ Cách mạng lâm thời.",
+   "kien_thuc_chot": [
+    "Quân đội Sài Gòn là chủ yếu",
+    "Thành lập Chính phủ Cách mạng lâm thời (6/6/1969)",
+    "Di chúc của Chủ tịch Hồ Chí Minh là nguồn động viên lớn"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    88,
+    89
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Hậu phương lớn miền Bắc và Điện Biên Phủ trên không",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự chi viện của miền Bắc và trận chiến 12 ngày đêm lịch sử.",
+   "kien_thuc_chot": [
+    "Miền Bắc vừa sản xuất vừa chiến đấu",
+    "Tuyến đường Hồ Chí Minh là mạch máu giao thông",
+    "Trận Điện Biên Phủ trên không (1972) buộc Mỹ ký Hiệp định Pa-ri"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng đường mòn Hồ Chí Minh và các đợt bắn rơi B52",
+   "trang_sgk": [
+    89,
+    90
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Đại thắng mùa Xuân 1975",
+   "noi_dung": "Diễn biến thần tốc của ba chiến dịch lớn dẫn đến ngày 30/4/1975.",
+   "kien_thuc_chot": [
+    "Chiến dịch Tây Nguyên, Huế - Đà Nẵng, Chiến dịch Hồ Chí Minh",
+    "Xe tăng húc đổ cổng Dinh Độc Lập",
+    "Miền Nam hoàn toàn giải phóng ngày 30/4/1975"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Lược đồ động 3 chiến dịch lớn tiến về Sài Gòn",
+   "trang_sgk": [
+    91,
+    92,
+    93
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 6,
+   "ten_tap": "Vì sao chúng ta thắng?",
+   "noi_dung": "Tổng kết nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến.",
+   "kien_thuc_chot": [
+    "Sự lãnh đạo sáng suốt của Đảng",
+    "Tinh thần đoàn kết dân tộc",
+    "Sự ủng hộ của bạn bè quốc tế",
+    "Mở ra kỉ nguyên độc lập, thống nhất, đi lên CNXH"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    93,
+    94
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Học sinh chọn các mốc thời gian từ 1965-1975 để xem các mũi tiến công quân sự và các tuyến chi viện từ miền Bắc vào miền Nam.",
+ "id": "L9-B17",
+ "ten": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+ "lop": 9,
+ "chuong": "Chương 4. Việt Nam từ năm 1945 đến năm 1975"
+}

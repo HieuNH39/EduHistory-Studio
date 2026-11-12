@@ -1,0 +1,121 @@
+{
+ "muc_chinh": [
+  "Sự phát triển kinh tế - xã hội của các nước Đông Bắc Á (Nhật Bản, Hàn Quốc, Trung Quốc)",
+  "Quá trình phát triển của ASEAN từ năm 1991 đến nay",
+  "Cộng đồng ASEAN"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được sự phát triển kinh tế - xã hội của Nhật Bản, Hàn Quốc, Trung Quốc từ 1991",
+  "Mô tả được quá trình mở rộng và hình thành Cộng đồng ASEAN"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đông Bắc Á: Những con rồng và công xưởng thế giới",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu tổng quan về vị thế kinh tế của Trung Quốc, Nhật Bản và Hàn Quốc trong thế kỷ XXI.",
+   "kien_thuc_chot": [
+    "Đông Bắc Á chiếm 1/5 GDP và 1/4 dân số thế giới",
+    "Trung Quốc, Nhật Bản, Hàn Quốc là các nền kinh tế chủ chốt"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    98
+   ],
+   "uu_tien": "P3"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Nhật Bản: Từ trì trệ đến chất lượng sống đỉnh cao",
+   "noi_dung": "Hân Hân phân tích sự chuyển dịch của Nhật Bản từ nền kinh tế lớn thứ hai thế giới sang tập trung vào chất lượng cuộc sống.",
+   "kien_thuc_chot": [
+    "Kinh tế tăng trưởng yếu ớt sau 1991",
+    "Vẫn là trung tâm tài chính lớn, HDI cao",
+    "Tuổi thọ trung bình khoảng 85 tuổi"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Biểu đồ cột so sánh GDP Nhật Bản qua các mốc 1991, 2000, 2010, 2021",
+   "trang_sgk": [
+    98,
+    99
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Hàn Quốc: Kỳ tích từ 'con rồng' châu Á",
+   "noi_dung": "Nhật Minh kể về hành trình Hàn Quốc vươn lên nhờ công nghệ cao và các tập đoàn toàn cầu.",
+   "kien_thuc_chot": [
+    "Là một trong bốn 'con rồng' châu Á",
+    "Dẫn đầu chuỗi cung ứng bán dẫn và ô tô",
+    "GDP tăng 5,5 lần từ 1991 đến 2021"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tư duy về các tập đoàn lớn (Samsung, LG, Hyundai) và lĩnh vực mũi nhọn",
+   "trang_sgk": [
+    99,
+    100
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Trung Quốc: Công xưởng mới của thế giới",
+   "noi_dung": "Hân Hân và Nhật Minh giải mã sự trỗi dậy thần tốc của Trung Quốc từ cải cách mở cửa.",
+   "kien_thuc_chot": [
+    "GDP tăng trưởng cao nhất thế giới trong 30 năm",
+    "Trở thành nền kinh tế lớn thứ hai thế giới",
+    "Sáng kiến Vành đai, Con đường"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện các khu vực kinh tế trọng điểm (Thượng Hải, Thiên Tân,...) và Vành đai - Con đường",
+   "trang_sgk": [
+    100
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "ASEAN: Từ 6 thành viên đến ngôi nhà chung",
+   "noi_dung": "Kể lại hành trình mở rộng ASEAN từ 1995 đến 1999 và sự ra đời của Cộng đồng ASEAN 2015.",
+   "kien_thuc_chot": [
+    "Việt Nam gia nhập năm 1995",
+    "Năm 1999: ASEAN 10 thành viên",
+    "Cộng đồng ASEAN thành lập năm 2015"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác: Người dùng nhấn vào từng năm để xem quốc gia gia nhập",
+   "trang_sgk": [
+    101
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 6,
+   "ten_tap": "Ba trụ cột của Cộng đồng ASEAN",
+   "noi_dung": "Giải thích cấu trúc của Cộng đồng ASEAN qua 3 trụ cột chính: Chính trị-An ninh, Kinh tế, Văn hóa-Xã hội.",
+   "kien_thuc_chot": [
+    "Cộng đồng Chính trị - An ninh (APSC)",
+    "Cộng đồng Kinh tế (AEC)",
+    "Cộng đồng Văn hóa - Xã hội (ASCC)"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ 3 khối trụ cột với các biểu tượng tương ứng cho mỗi trụ cột",
+   "trang_sgk": [
+    102
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác Đông Nam Á: Người dùng kéo thả cờ các nước vào bản đồ theo thứ tự gia nhập để mở khóa thông tin về quá trình hình thành ASEAN.",
+ "id": "L9-B19",
+ "ten": "Châu Á từ năm 1991 đến nay",
+ "lop": 9,
+ "chuong": "Chương 5. Thế giới từ năm 1991 đến nay"
+}
