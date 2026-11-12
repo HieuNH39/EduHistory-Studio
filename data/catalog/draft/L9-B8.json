@@ -1,0 +1,126 @@
+{
+ "muc_chinh": [
+  "Tình hình Việt Nam dưới ách thống trị của Pháp - Nhật",
+  "Công cuộc chuẩn bị tiến tới khởi nghĩa",
+  "Tổng khởi nghĩa tháng Tám năm 1945",
+  "Sự ra đời của nước Việt Nam Dân chủ Cộng hoà",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu rõ bối cảnh, diễn biến và tầm vóc lịch sử của Cách mạng tháng Tám 1945"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Việt Nam trong 'gọng kìm' Pháp - Nhật",
+   "noi_dung": "Nhật Minh và Hân Hân kể về cảnh nước ta bị hai kẻ thù bóc lột, gây ra nạn đói khủng khiếp cuối 1944.",
+   "kien_thuc_chot": [
+    "Pháp - Nhật cấu kết bóc lột nhân dân",
+    "Chính sách kinh tế chỉ huy và nhổ lúa trồng đay",
+    "Nạn đói cuối 1944 - đầu 1945"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    36,
+    37
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bước ngoặt lịch sử: Chuyển hướng chiến lược",
+   "noi_dung": "Hai bạn nhỏ giải thích tại sao Đảng lại đặt nhiệm vụ giải phóng dân tộc lên hàng đầu tại Hội nghị Pác Bó.",
+   "kien_thuc_chot": [
+    "Hội nghị Trung ương 8 (5/1941) do Nguyễn Ái Quốc chủ trì",
+    "Nhiệm vụ trung tâm: Giải phóng dân tộc",
+    "Hình thái khởi nghĩa: Từ từng phần tiến lên tổng khởi nghĩa"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tư duy động về sự chuyển hướng chiến lược",
+   "trang_sgk": [
+    37
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Việt Minh và Đội quân giải phóng",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về Mặt trận Việt Minh và sự ra đời của lực lượng vũ trang cách mạng.",
+   "kien_thuc_chot": [
+    "Thành lập Mặt trận Việt Minh (19/5/1941)",
+    "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (22/12/1944)",
+    "Xây dựng căn cứ địa Việt Bắc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ căn cứ địa Cao - Bắc - Lạng và Thái - Tuyên - Hà",
+   "trang_sgk": [
+    38,
+    39
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thời cơ ngàn năm có một",
+   "noi_dung": "Kể về không khí sục sôi khi Nhật đầu hàng Đồng minh và lệnh Tổng khởi nghĩa được ban bố.",
+   "kien_thuc_chot": [
+    "Nhật đầu hàng Đồng minh (15/8/1945)",
+    "Uỷ ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1",
+    "Đại hội Quốc dân Tân Trào thông qua chủ trương tổng khởi nghĩa"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng dòng thời gian diễn biến khởi nghĩa tại các tỉnh lị",
+   "trang_sgk": [
+    39,
+    40
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Ngày độc lập tại Ba Đình",
+   "noi_dung": "Hân Hân và Nhật Minh tái hiện khoảnh khắc Bác Hồ đọc Tuyên ngôn Độc lập.",
+   "kien_thuc_chot": [
+    "2/9/1945 tại Quảng trường Ba Đình",
+    "Khai sinh nước Việt Nam Dân chủ Cộng hoà",
+    "Ý nghĩa: Chấm dứt chế độ quân chủ, mở ra kỉ nguyên độc lập"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    41
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 6,
+   "ten_tap": "Tại sao chúng ta thắng?",
+   "noi_dung": "Tổng kết nguyên nhân thắng lợi và ý nghĩa lịch sử của Cách mạng tháng Tám.",
+   "kien_thuc_chot": [
+    "Truyền thống yêu nước",
+    "Sự lãnh đạo sáng suốt của Đảng và Hồ Chí Minh",
+    "Thời cơ khách quan thuận lợi",
+    "Cổ vũ phong trào giải phóng dân tộc thế giới"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    41,
+    42
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng nhấn vào các tỉnh lị trên bản đồ Việt Nam để xem thời điểm giành chính quyền và hình ảnh tư liệu tại địa phương đó trong tháng 8/1945.",
+ "id": "L9-B8",
+ "ten": "Cách mạng tháng Tám năm 1945",
+ "lop": 9,
+ "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945"
+}

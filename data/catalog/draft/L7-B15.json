@@ -1,0 +1,74 @@
+{
+ "muc_chinh": [
+  "Sự thành lập nhà Hồ",
+  "Nội dung và tác động của cải cách Hồ Quý Ly",
+  "Kháng chiến chống quân Minh của nhà Hồ"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày sự ra đời nhà Hồ",
+  "Phân tích cải cách Hồ Quý Ly",
+  "Giải thích nguyên nhân thất bại kháng chiến chống Minh"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nhà Trần suy yếu và sự ra đời của nhà Hồ",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh cuối thời Trần đầy biến động và việc Hồ Quý Ly lên nắm quyền.",
+   "kien_thuc_chot": [
+    "Cuối thế kỉ XIV, nhà Trần suy yếu, quý tộc ăn chơi hưởng lạc",
+    "Nhiều cuộc khởi nghĩa nông dân nổ ra",
+    "Năm 1400, Hồ Quý Ly phế truất vua Trần, lập ra nhà Hồ",
+    "Tên nước đổi thành Đại Ngu"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tư duy biến động xã hội cuối thời Trần dẫn đến sự thay đổi triều đại",
+   "trang_sgk": [
+    76,
+    77
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cải cách của Hồ Quý Ly: Bước tiến hay bước lùi?",
+   "noi_dung": "Hai bạn nhỏ khám phá những chính sách táo bạo của Hồ Quý Ly trên các lĩnh vực chính trị, kinh tế và giáo dục.",
+   "kien_thuc_chot": [
+    "Chính trị: Củng cố quân chủ tập quyền, xây thành Tây Đô",
+    "Kinh tế: Hạn điền, hạn nô, phát hành tiền giấy",
+    "Văn hóa: Đề cao chữ Nôm, cải cách thi cử",
+    "Tác động: Giảm thế lực quý tộc nhưng chưa triệt để"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D thành Tây Đô và so sánh tiền giấy Thông bảo hội sao với tiền kim loại",
+   "trang_sgk": [
+    77
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Vì sao nhà Hồ thất bại trước quân Minh?",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích nguyên nhân thất bại của cuộc kháng chiến chống Minh năm 1407.",
+   "kien_thuc_chot": [
+    "Quân Minh xâm lược năm 1406",
+    "Nhà Hồ thất bại do quá chú trọng phòng ngự bị động",
+    "Bài học: Không dựa vào dân, lòng dân không theo",
+    "Cuộc kháng chiến kết thúc năm 1407"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    78
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà lãnh đạo Đại Ngu': Học sinh lựa chọn các chính sách cải cách (hạn điền, hạn nô, xây thành) và xem kết quả tác động đến tiềm lực quốc gia và lòng dân trước khi quân Minh tấn công.",
+ "id": "L7-B15",
+ "ten": "Nước Đại Ngu thời Hồ (1400 – 1407)",
+ "lop": 7,
+ "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)"
+}

@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Phong trào Cần vương bùng nổ",
+  "Một số cuộc khởi nghĩa tiêu biểu trong phong trào Cần vương",
+  "Khởi nghĩa nông dân Yên Thế"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được các cuộc khởi nghĩa tiêu biểu trong phong trào Cần vương và khởi nghĩa Yên Thế",
+  "Phân tích được nguyên nhân, diễn biến và ý nghĩa của các cuộc khởi nghĩa"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Dụ Cần vương: Lời kêu gọi cứu nước",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh sau Hiệp ước Pa-tơ-nốt và việc Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở ban Dụ Cần vương.",
+   "kien_thuc_chot": [
+    "Pháp hoàn thành xâm lược Việt Nam",
+    "Tôn Thất Thuyết đại diện phái chủ chiến",
+    "Dụ Cần vương kêu gọi văn thân, sĩ phu và nhân dân giúp vua cứu nước"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    86
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Hương Khê - Ngọn cờ đầu phong trào Cần vương",
+   "noi_dung": "Hai bạn dẫn chuyện phân tích cuộc khởi nghĩa Hương Khê dưới sự lãnh đạo của Phan Đình Phùng và Cao Thắng.",
+   "kien_thuc_chot": [
+    "Căn cứ chính tại Hương Khê (Hà Tĩnh)",
+    "Nghĩa quân tự chế tạo được súng trường kiểu Pháp",
+    "Là cuộc khởi nghĩa tiêu biểu và kéo dài nhất"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng địa bàn hoạt động của nghĩa quân Hương Khê tại miền Tây Thanh-Nghệ-Tĩnh",
+   "trang_sgk": [
+    87,
+    88
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bãi Sậy và Ba Đình: Những pháo đài thép",
+   "noi_dung": "Khám phá chiến thuật du kích tại đầm lầy Bãi Sậy của Nguyễn Thiện Thuật và sự kiên cường của nghĩa quân Ba Đình.",
+   "kien_thuc_chot": [
+    "Bãi Sậy (Hưng Yên) nổi tiếng với chiến thuật du kích",
+    "Ba Đình (Thanh Hóa) có sự tham gia của người Kinh, Mường, Thái",
+    "Cả hai cuộc khởi nghĩa đều thể hiện tinh thần bất khuất"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D căn cứ Ba Đình với các làng Mậu Thịnh, Thượng Thọ, Mĩ Khê",
+   "trang_sgk": [
+    87,
+    88
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Đề Thám và nghĩa quân Yên Thế",
+   "noi_dung": "Câu chuyện về cuộc khởi nghĩa nông dân Yên Thế, sự lãnh đạo của Đề Nắm và Đề Thám.",
+   "kien_thuc_chot": [
+    "Mục tiêu: giữ đất, giữ làng, bảo vệ cuộc sống tự do",
+    "Là cuộc khởi nghĩa nông dân lớn nhất thời cận đại",
+    "Kéo dài từ năm 1884 đến năm 1913"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác thể hiện các giai đoạn chiến đấu và giảng hòa của nghĩa quân Yên Thế",
+   "trang_sgk": [
+    88,
+    89
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số tương tác: Người dùng chọn địa điểm trên bản đồ Việt Nam để xem thông tin tóm tắt, lãnh đạo và thời gian của các cuộc khởi nghĩa tiêu biểu.",
+ "id": "L8-B18",
+ "ten": "Phong trào chống Pháp trong những năm 1885 – 1896",
+ "lop": 8,
+ "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX"
+}

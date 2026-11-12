@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Nước Nga Xô viết từ năm 1918 đến năm 1922",
+  "Liên Xô từ năm 1922 đến năm 1945"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm được bối cảnh nước Nga Xô viết sau Cách mạng tháng Mười",
+  "Hiểu được sự chuyển đổi từ Chính sách cộng sản thời chiến sang Chính sách kinh tế mới (NEP)",
+  "Phân tích được thành tựu và hạn chế trong công cuộc xây dựng CNXH ở Liên Xô"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nước Nga Xô viết: Thử thách sinh tử",
+   "noi_dung": "Nhật Minh và Hân Hân kể về giai đoạn 1918-1920 khi nước Nga phải chống lại sự tấn công của 14 đế quốc và thù trong giặc ngoài.",
+   "kien_thuc_chot": [
+    "Nước Nga đối mặt với sự can thiệp của 14 đế quốc",
+    "Chính sách cộng sản thời chiến giúp kiểm soát kinh tế then chốt",
+    "Hồng quân đánh tan quân xâm lược vào cuối năm 1920"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị các mũi tấn công của quân đội 14 đế quốc và các vùng Hồng quân kiểm soát.",
+   "trang_sgk": [
+    9,
+    10
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "NEP - Bước ngoặt cứu vãn nền kinh tế",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích lý do Lê-nin đề xướng Chính sách kinh tế mới (NEP) năm 1921 và tác động tích cực của nó.",
+   "kien_thuc_chot": [
+    "Thay thế trưng thu lương thực bằng thuế lương thực",
+    "Cho phép tự do buôn bán và tư nhân mở xí nghiệp nhỏ",
+    "Kinh tế phục hồi, đời sống nhân dân được cải thiện"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    10
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Liên Xô hóa rồng: Thành tựu rực rỡ",
+   "noi_dung": "Hân Hân và Nhật Minh khám phá hành trình Liên Xô trở thành cường quốc công nghiệp thế giới thông qua các kế hoạch 5 năm.",
+   "kien_thuc_chot": [
+    "Thành lập Liên Xô năm 1922",
+    "Công nghiệp hóa tập trung vào công nghiệp nặng",
+    "Sản lượng công nghiệp đứng thứ 2 thế giới",
+    "Xóa nạn mù chữ và phát triển giáo dục"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Biểu đồ cột động so sánh sản lượng thép, dầu, điện từ 1928 đến 1940.",
+   "trang_sgk": [
+    10,
+    11
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Góc nhìn đa chiều về Liên Xô",
+   "noi_dung": "Hai bạn cùng thảo luận về những mặt hạn chế trong quá trình xây dựng CNXH và sự kiện phát xít Đức tấn công năm 1941.",
+   "kien_thuc_chot": [
+    "Hạn chế: Nóng vội, thiếu dân chủ trong tập thể hóa nông nghiệp",
+    "Chưa chú trọng đúng mức nâng cao đời sống nhân dân",
+    "Chiến tranh giữ nước vĩ đại (1941-1945) làm gián đoạn công cuộc xây dựng"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    11
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà quản lý kinh tế': Học sinh chọn các chính sách (trưng thu hay thuế lương thực) để xem tác động đến sự hài lòng của nông dân và sản lượng lương thực trên màn hình.",
+ "id": "L9-B1",
+ "ten": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+ "lop": 9,
+ "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945"
+}

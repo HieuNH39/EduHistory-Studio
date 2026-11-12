@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Phong trào cách mạng (1918-1923) và sự thành lập Quốc tế Cộng sản (1919)",
+  "Cuộc đại suy thoái kinh tế (1929-1933) và sự hình thành chủ nghĩa phát xít",
+  "Nước Mỹ giữa hai cuộc chiến tranh thế giới"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được phong trào cách mạng và sự ra đời Quốc tế Cộng sản.",
+  "Phân tích nguyên nhân, hậu quả đại suy thoái và sự trỗi dậy của chủ nghĩa phát xít.",
+  "Nắm bắt tình hình chính trị, kinh tế Mỹ và Chính sách mới của Ph. Ru-dơ-ven."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Làn sóng đỏ sau Thế chiến I",
+   "noi_dung": "Nhật Minh và Hân Hân kể về phong trào công nhân bùng nổ tại Đức, Anh, Pháp và sự ra đời của Quốc tế Cộng sản.",
+   "kien_thuc_chot": [
+    "Phong trào cách mạng 1918-1923 phát triển mạnh ở các nước tư bản châu Âu.",
+    "Nhiều Đảng Cộng sản ra đời (Đức, Pháp, Anh, I-ta-li-a).",
+    "Quốc tế Cộng sản thành lập năm 1919 tại Mát-xcơ-va."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ châu Âu với các điểm sáng bùng nổ cách mạng (Đức, Anh, Pháp, Hung-ga-ri) xuất hiện theo dòng thời gian.",
+   "trang_sgk": [
+    12,
+    13
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cơn địa chấn kinh tế 1929",
+   "noi_dung": "Giải thích nguyên nhân cuộc đại suy thoái bắt đầu từ Mỹ và lan rộng ra toàn cầu.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Sản xuất ồ ạt, cung vượt cầu.",
+    "Thời gian: 1929-1933, trầm trọng nhất năm 1932.",
+    "Hậu quả: Hàng triệu người thất nghiệp, kinh tế suy sụp."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    13,
+    14
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Chủ nghĩa phát xít trỗi dậy",
+   "noi_dung": "Hai bạn nhỏ phân tích tại sao Đức và I-ta-li-a lại chọn con đường phát xít hóa thay vì cải cách.",
+   "kien_thuc_chot": [
+    "Đức và I-ta-li-a thiếu thuộc địa và thị trường nên đi theo con đường phát xít.",
+    "Hít-le lên nắm quyền tại Đức năm 1933.",
+    "Các nước phát xít thiết lập chế độ độc tài, chuẩn bị chiến tranh."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "So sánh hình ảnh đối lập: Các nước Anh, Pháp thực hiện cải cách vs Đức, I-ta-li-a xây dựng lò lửa chiến tranh.",
+   "trang_sgk": [
+    14
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Nước Mỹ: Từ hoàng kim đến Chính sách mới",
+   "noi_dung": "Khám phá thời kỳ hoàng kim của Mỹ những năm 20 và cách Tổng thống Ph. Ru-dơ-ven cứu vãn nền kinh tế.",
+   "kien_thuc_chot": [
+    "Những năm 20: Kinh tế Mỹ phát triển mạnh mẽ.",
+    "Chính sách mới của Ph. Ru-dơ-ven giúp phục hồi kinh tế và ổn định xã hội.",
+    "Duy trì được chế độ dân chủ tư sản."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Đồ thị cột thể hiện sự tăng trưởng công nghiệp Mỹ 1923-1929 và sự phục hồi sau 1933.",
+   "trang_sgk": [
+    14,
+    15
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo thả 'Con đường thoát suy thoái': Người chơi chọn các biện pháp kinh tế (Cải cách hay Phát xít hóa) cho từng nhóm quốc gia để thấy kết quả khác nhau đối với hòa bình thế giới.",
+ "id": "L9-B2",
+ "ten": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+ "lop": 9,
+ "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945"
+}

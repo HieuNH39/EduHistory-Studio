@@ -1,0 +1,91 @@
+{
+ "muc_chinh": [
+  "Điều kiện tự nhiên và sự hình thành văn minh",
+  "Quá trình thành lập nhà nước",
+  "Những thành tựu văn hoá chủ yếu"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu tác động của sông ngòi đến văn minh",
+  "Nắm được quá trình lập quốc và thể chế quân chủ",
+  "Ghi nhớ các thành tựu văn hóa tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Quà tặng từ những dòng sông",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá lý do tại sao Ai Cập và Lưỡng Hà lại trở thành cái nôi của văn minh nhân loại nhờ sông Nin, sông Ti-gơ-rơ và Ơ-phơ-rát.",
+   "kien_thuc_chot": [
+    "Ai Cập là quà tặng của sông Nin",
+    "Lưỡng Hà nằm giữa hai sông Ti-gơ-rơ và Ơ-phơ-rát",
+    "Sông ngòi cung cấp phù sa và đường giao thông thuận lợi"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng dòng chảy sông Nin và vùng Lưỡng Hà, hiệu ứng phù sa bồi đắp biến sa mạc thành vùng đất màu mỡ.",
+   "trang_sgk": [
+    30,
+    31
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Pha-ra-ông và En-xi: Những người đứng đầu",
+   "noi_dung": "Hân Hân và Nhật Minh tìm hiểu về quá trình thống nhất nhà nước và quyền lực tối cao của các vị vua cổ đại.",
+   "kien_thuc_chot": [
+    "Năm 3200 TCN, Mê-nét thống nhất Ai Cập",
+    "Lưỡng Hà hình thành từ các thành bang của người Xu-me",
+    "Nhà nước quân chủ chuyên chế: vua có toàn quyền",
+    "Vua Ai Cập gọi là Pha-ra-ông, vua Lưỡng Hà gọi là En-xi"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác kéo thả các mốc lịch sử từ thời Cổ vương quốc đến khi bị La Mã và Ba Tư xâm lược.",
+   "trang_sgk": [
+    29,
+    31
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Giải mã chữ viết cổ đại",
+   "noi_dung": "Nhật Minh thử thách Hân Hân nhận diện chữ tượng hình Ai Cập và chữ hình nêm Lưỡng Hà trên đất sét.",
+   "kien_thuc_chot": [
+    "Ai Cập dùng chữ tượng hình trên giấy Pa-pi-rút",
+    "Lưỡng Hà dùng chữ hình nêm trên đất sét",
+    "Đây là những loại chữ cổ nhất thế giới"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Trò chơi nối chữ: người dùng kéo hình vẽ tượng hình vào đúng nghĩa của nó để giải mã thông điệp cổ.",
+   "trang_sgk": [
+    32
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Kỳ quan và những phát minh vĩ đại",
+   "noi_dung": "Tổng kết những thành tựu rực rỡ như Kim tự tháp, vườn treo Ba-bi-lon và hệ thống đếm số của người cổ đại.",
+   "kien_thuc_chot": [
+    "Ai Cập: Kim tự tháp, tượng Nhân sư, hệ đếm thập phân",
+    "Lưỡng Hà: Vườn treo Ba-bi-lon, hệ đếm 60",
+    "Phát minh: bánh xe, cái cày, lịch 12 tháng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D xoay của Kim tự tháp Kê-óp, cho phép người dùng 'bóc tách' các lớp đá để xem cách xây dựng không cần chất kết dính.",
+   "trang_sgk": [
+    32,
+    33
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác 'Thế giới cổ đại': Người dùng nhấn vào các vùng Ai Cập hoặc Lưỡng Hà để xem thông tin về điều kiện tự nhiên, thành tựu văn hóa và các mốc thời gian tương ứng.",
+ "id": "L6-B7",
+ "ten": "Ai Cập và Lưỡng Hà cổ đại",
+ "lop": 6,
+ "chuong": "Chương 3. Xã hội cổ đại"
+}

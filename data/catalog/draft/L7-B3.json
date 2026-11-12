@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Những biến đổi về kinh tế - xã hội Tây Âu từ thế kỉ XIII đến thế kỉ XVI",
+  "Phong trào Văn hoá Phục hưng",
+  "Phong trào Cải cách tôn giáo"
+ ],
+ "yeu_cau_can_dat": [
+  "Học sinh nắm được sự trỗi dậy của giai cấp tư sản và các phong trào tư tưởng lớn thời Phục hưng, Cải cách tôn giáo."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tây Âu chuyển mình: Khi tư bản trỗi dậy",
+   "noi_dung": "Nhật Minh và Hân Hân cùng khám phá sự ra đời của các công trường thủ công và giai cấp tư sản, những người muốn thay đổi trật tự cũ.",
+   "kien_thuc_chot": [
+    "Sự xuất hiện quan hệ sản xuất tư bản chủ nghĩa",
+    "Giai cấp tư sản có tiền nhưng chưa có địa vị xã hội",
+    "Nhu cầu xây dựng nền văn hóa mới đề cao con người"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    20,
+    21
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Những thiên tài thời Phục hưng",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu các gương mặt tiêu biểu như Lê-ô-na đơ Vanh-xi, Sếch-xpia và những kiệt tác nghệ thuật, khoa học.",
+   "kien_thuc_chot": [
+    "Phong trào Phục hưng khởi nguồn từ I-ta-li-a",
+    "Đề cao giá trị con người và tự do cá nhân",
+    "Thành tựu rực rỡ trong văn học, hội họa và thiên văn học"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D các kiệt tác: Bữa tiệc cuối cùng, Nàng La Giô-công-đơ và mô hình Trái Đất quay quanh Mặt Trời của Cô-péc-ních.",
+   "trang_sgk": [
+    21,
+    22
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Cải cách tôn giáo: Cuộc đối đầu lịch sử",
+   "noi_dung": "Hân Hân và Nhật Minh giải mã lý do Mác-tin Lu-thơ và Giăng Can-vanh đứng lên chỉ trích Giáo hội, dẫn đến sự ra đời của Tân giáo.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Giáo hội cản trở sự phát triển của tư sản",
+    "Nội dung: Phê phán giáo lí giả dối, đòi bãi bỏ lễ nghi tốn kém",
+    "Kết quả: Thiên Chúa giáo phân hóa thành Cựu giáo và Tân giáo"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    23,
+    24
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tóm tắt nhanh: Bước ngoặt Tây Âu",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết ý nghĩa của hai phong trào đối với sự phát triển của xã hội Tây Âu.",
+   "kien_thuc_chot": [
+    "Đấu tranh công khai của tư sản chống phong kiến",
+    "Mở đường cho văn hóa Tây Âu phát triển",
+    "Thay đổi tư duy con người thời trung đại"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    22,
+    24
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà sưu tầm lịch sử': Học sinh kéo thả các nhân vật (Sếch-xpia, Lu-thơ, Cô-péc-ních) vào đúng lĩnh vực (Văn học, Tôn giáo, Khoa học) và nối với thành tựu tương ứng.",
+ "id": "L7-B3",
+ "ten": "Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+ "lop": 7,
+ "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI"
+}

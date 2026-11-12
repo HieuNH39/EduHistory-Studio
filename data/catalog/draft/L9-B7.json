@@ -1,0 +1,87 @@
+{
+ "muc_chinh": [
+  "Phong trào cách mạng 1930 - 1931",
+  "Phong trào cách mạng 1936 - 1939"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả nét chính phong trào 1930-1931 và 1936-1939",
+  "Hiểu ý nghĩa lịch sử của hai giai đoạn"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao bùng nổ Xô viết Nghệ - Tĩnh?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích tác động của khủng hoảng kinh tế 1929-1933 và sự ra đời của Đảng Cộng sản Việt Nam.",
+   "kien_thuc_chot": [
+    "Khủng hoảng kinh tế thế giới ảnh hưởng sâu sắc đến Việt Nam",
+    "Mâu thuẫn dân tộc và mâu thuẫn giai cấp gay gắt",
+    "Đảng Cộng sản Việt Nam ra đời kịp thời lãnh đạo cách mạng"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    30
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Đỉnh cao Xô viết Nghệ - Tĩnh",
+   "noi_dung": "Khám phá diễn biến phong trào từ các cuộc bãi công đến việc thành lập chính quyền Xô viết tại Nghệ An và Hà Tĩnh.",
+   "kien_thuc_chot": [
+    "Phong trào đạt đỉnh cao tháng 9, 10-1930",
+    "Chính quyền Xô viết thực hiện các chính sách tiến bộ: chia ruộng đất, xóa nợ, dạy chữ Quốc ngữ",
+    "Khối liên minh công - nông được hình thành"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị các điểm bãi công/biểu tình và sự chuyển đổi sang chính quyền Xô viết tại Nghệ An, Hà Tĩnh.",
+   "trang_sgk": [
+    30,
+    31
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Phong trào 1936-1939: Cuộc diễn tập cho Cách mạng tháng Tám",
+   "noi_dung": "Nhật Minh và Hân Hân bàn về bối cảnh quốc tế và nhiệm vụ đấu tranh dân chủ công khai.",
+   "kien_thuc_chot": [
+    "Đại hội VII Quốc tế Cộng sản chủ trương lập Mặt trận Nhân dân",
+    "Nhiệm vụ: chống phát xít, đòi tự do, dân sinh, dân chủ",
+    "Hình thức: mít tinh, biểu tình, đấu tranh nghị trường và báo chí"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    32,
+    33
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "So sánh hai giai đoạn cách mạng",
+   "noi_dung": "Tổng kết và so sánh sự khác biệt về hình thức và ý nghĩa của hai phong trào.",
+   "kien_thuc_chot": [
+    "1930-1931: Đấu tranh quyết liệt, khẳng định vai trò lãnh đạo của Đảng",
+    "1936-1939: Đấu tranh công khai, rộng lớn, là cuộc diễn tập cho Cách mạng tháng Tám",
+    "Cả hai giai đoạn đều để lại bài học quý báu cho cách mạng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bảng so sánh tương tác hiện ra theo từng tiêu chí: Kẻ thù, Nhiệm vụ, Lực lượng, Ý nghĩa.",
+   "trang_sgk": [
+    33
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số tương tác: Người dùng chọn mốc thời gian (1930 hoặc 1936) để xem các điểm nóng cách mạng trên bản đồ Việt Nam, kèm theo các thẻ thông tin về hình thức đấu tranh tương ứng.",
+ "id": "L9-B7",
+ "ten": "Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+ "lop": 9,
+ "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945"
+}

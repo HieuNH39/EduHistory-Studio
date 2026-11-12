@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Khởi nghĩa Tây Sơn bùng nổ",
+  "Những thắng lợi tiêu biểu của phong trào Tây Sơn",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử",
+  "Quang Trung bước đầu xây dựng đất nước"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày nguyên nhân khởi nghĩa",
+  "Mô tả các thắng lợi quân sự tiêu biểu",
+  "Đánh giá vai trò của Nguyễn Huệ - Quang Trung"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Ngọn lửa Tây Sơn bùng cháy",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh Đàng Trong suy yếu và sự kiện ba anh em nhà Tây Sơn dựng cờ khởi nghĩa tại An Khê.",
+   "kien_thuc_chot": [
+    "Chính quyền chúa Nguyễn suy yếu, tham nhũng",
+    "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ khởi nghĩa",
+    "Khẩu hiệu: Lấy của người giàu chia cho người nghèo"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    35,
+    38
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Trận thủy chiến Rạch Gầm - Xoài Mút",
+   "noi_dung": "Hân Hân và Nhật Minh phân tích cách Nguyễn Huệ chọn địa thế và dùng mưu để đánh tan 5 vạn quân Xiêm.",
+   "kien_thuc_chot": [
+    "Ngày 19/1/1785, Nguyễn Huệ đánh tan quân Xiêm",
+    "Địa điểm: Khúc sông Rạch Gầm - Xoài Mút",
+    "Ý nghĩa: Khởi nghĩa Tây Sơn trở thành phong trào dân tộc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng bản đồ động: quân Xiêm tiến vào, quân Tây Sơn mai phục hai bên bờ và dùng thuyền lửa tấn công.",
+   "trang_sgk": [
+    39
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đại phá quân Thanh: 5 ngày thần tốc",
+   "noi_dung": "Nhật Minh và Hân Hân tái hiện không khí hào hùng của chiến dịch mùa xuân năm Kỷ Dậu 1789.",
+   "kien_thuc_chot": [
+    "Nguyễn Huệ lên ngôi Hoàng đế, lấy hiệu Quang Trung",
+    "Đêm 30 đến mồng 5 Tết Kỷ Dậu (1789)",
+    "Chiến thắng Ngọc Hồi - Đống Đa quét sạch quân Thanh"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ mũi tên tấn công từ Tam Điệp ra Thăng Long, mô phỏng các mũi tiến công vào đồn Hà Hồi, Ngọc Hồi, Đống Đa.",
+   "trang_sgk": [
+    40,
+    41
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản của Hoàng đế Quang Trung",
+   "noi_dung": "Hai bạn nhỏ tổng kết nguyên nhân thắng lợi và những chính sách cải cách quan trọng của vua Quang Trung.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Tinh thần yêu nước và tài lãnh đạo của Quang Trung",
+    "Chiếu khuyến nông, Chiếu lập học",
+    "Đưa chữ Nôm thành chữ viết chính thức"
+   ],
+   "khung": "2-3p",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    42
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác 'Hành trình Tây Sơn': Người dùng chọn các mốc thời gian (1771, 1785, 1786, 1789) để xem diễn biến quân sự và kết quả tương ứng trên bản đồ Việt Nam.",
+ "id": "L8-B8",
+ "ten": "Phong trào Tây Sơn",
+ "lop": 8,
+ "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII"
+}

@@ -1,0 +1,88 @@
+{
+ "muc_chinh": [
+  "Chính sách cai trị của các triều đại phong kiến phương Bắc",
+  "Những chuyển biến về kinh tế - xã hội trong thời kì Bắc thuộc"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được chính sách cai trị của phong kiến phương Bắc",
+  "Nhận biết được chuyển biến kinh tế, xã hội của người Việt"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Bóng đen đô hộ: Khi bộ máy cai trị ập đến",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích cách các triều đại phương Bắc chia nhỏ nước ta thành quận, huyện và đặt trị sở tại Luy Lâu, Tống Bình.",
+   "kien_thuc_chot": [
+    "Chia nước ta thành châu, quận, huyện",
+    "Trị sở đặt tại Luy Lâu, Tống Bình",
+    "Chính quyền đô hộ nắm quyền từ cấp huyện trở lên"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện sự thay đổi từ đơn vị hành chính Âu Lạc sang các quận Giao Chỉ, Cửu Chân, Nhật Nam dưới thời Hán.",
+   "trang_sgk": [
+    67,
+    68
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Vơ vét và đồng hóa: Kế sách của kẻ cai trị",
+   "noi_dung": "Hai bạn nhỏ phân tích chính sách tô thuế nặng nề, độc quyền sắt muối và âm mưu đồng hóa văn hóa của phong kiến phương Bắc.",
+   "kien_thuc_chot": [
+    "Chiếm đoạt ruộng đất, bắt dân làm nông nô",
+    "Độc quyền sắt, muối, bắt cống nạp sản vật quý",
+    "Chính sách đồng hóa: bắt theo phong tục, luật pháp Hán"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    69,
+    70
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Sức sống bền bỉ của người Việt",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự phát triển của nghề làm giấy, thủy tinh và sự hình thành tầng lớp hào trưởng bản địa.",
+   "kien_thuc_chot": [
+    "Nghề thủ công (rèn sắt, đúc đồng, làm giấy) phát triển",
+    "Hình thành tầng lớp hào trưởng bản địa",
+    "Mâu thuẫn giữa nhân dân ta và chính quyền đô hộ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D các sản phẩm gốm và công cụ sắt thời Bắc thuộc được tìm thấy tại di tích Luy Lâu.",
+   "trang_sgk": [
+    70,
+    71
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Ai sẽ đứng lên giành độc lập?",
+   "noi_dung": "Tổng kết bài học, hai bạn thảo luận về việc tại sao tầng lớp hào trưởng lại trở thành thủ lĩnh các cuộc khởi nghĩa.",
+   "kien_thuc_chot": [
+    "Hào trưởng có uy tín và vị thế trong xã hội",
+    "Mâu thuẫn dân tộc là động lực đấu tranh",
+    "Khẳng định tinh thần bất khuất của người Việt"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    71
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Học sinh kéo các chính sách của chính quyền đô hộ (tô thuế, độc quyền, đồng hóa) vào các ô tương ứng để thấy hậu quả kinh tế - xã hội đối với người dân.",
+ "id": "L6-B15",
+ "ten": "Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

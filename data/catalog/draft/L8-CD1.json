@@ -1,0 +1,94 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành và phát triển châu thổ sông Hồng và sông Cửu Long",
+  "Chế độ nước sông Hồng và sông Cửu Long",
+  "Quá trình con người khai khẩn, cải tạo và thích ứng với châu thổ"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được sự hình thành châu thổ và chế độ nước của hai hệ thống sông lớn.",
+  "Phân tích được cách con người chế ngự và thích ứng với môi trường sông nước."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hai dòng sông mẹ của Việt Nam",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về sự hình thành của châu thổ sông Hồng và sông Cửu Long từ phù sa bồi đắp.",
+   "kien_thuc_chot": [
+    "Châu thổ sông Hồng hình thành từ phù sa hệ thống sông Hồng, có dạng tam giác.",
+    "Châu thổ sông Cửu Long lớn nhất nước ta, hình thành từ phù sa sông Mê Công.",
+    "Địa hình châu thổ liên tục tiến ra biển nhờ quá trình bồi đắp."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng quá trình phù sa bồi đắp tại cửa sông theo thời gian.",
+   "trang_sgk": [
+    157,
+    158,
+    159
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Sông Hồng: Mùa lũ và những con đê huyền thoại",
+   "noi_dung": "Hân Hân kể về chế độ nước sông Hồng và nỗ lực đắp đê trị thủy từ thời Lý đến thời Nguyễn.",
+   "kien_thuc_chot": [
+    "Sông Hồng có mùa lũ (tháng 6-10) và mùa cạn (tháng 11-5).",
+    "Hệ thống đê sông Hồng giúp phòng chống lũ, bảo vệ sản xuất.",
+    "Thời Lý bắt đầu đắp đê, thời Trần đặt chức Hà đê sứ, thời Nguyễn chú trọng trị thủy."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D mặt cắt ngang con đê, cho thấy sự khác biệt giữa mực nước sông và mặt ruộng.",
+   "trang_sgk": [
+    158,
+    159,
+    161,
+    162
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Sông Cửu Long: Sống chung với lũ",
+   "noi_dung": "Nhật Minh giải thích cách người dân miền Tây thích ứng với chế độ nước điều hòa và kênh rạch chằng chịt.",
+   "kien_thuc_chot": [
+    "Sông Cửu Long có chế độ nước điều hòa, chịu ảnh hưởng mạnh của thủy triều.",
+    "Kênh Vĩnh Tế là công trình thủy lợi tiêu biểu thời Nguyễn.",
+    "Văn hóa chợ nổi, nhà nổi là cách thích ứng độc đáo với môi trường sông nước."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng bản đồ kênh rạch vùng Đồng bằng sông Cửu Long và hoạt động chợ nổi.",
+   "trang_sgk": [
+    160,
+    162,
+    163
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Đê hay Thích ứng? Bạn chọn gì?",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết sự khác biệt trong tư duy chế ngự thiên nhiên giữa hai vùng miền.",
+   "kien_thuc_chot": [
+    "Sông Hồng: Chế ngự bằng hệ thống đê điều kiên cố.",
+    "Sông Cửu Long: Thích ứng bằng cách sống chung với lũ và khai thác kênh rạch.",
+    "Cả hai đều là di sản văn hóa và kinh tế quan trọng của dân tộc."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    162,
+    163
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Người chơi chọn các công trình (đê, kênh, nhà nổi) đặt vào vị trí bản đồ tương ứng (Sông Hồng hoặc Sông Cửu Long) để thấy cách con người thích ứng.",
+ "id": "L8-CD1",
+ "ten": "Văn minh châu thổ sông Hồng và sông Cửu Long",
+ "lop": 8,
+ "chuong": "Chủ đề chung"
+}

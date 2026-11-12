@@ -1,0 +1,108 @@
+{
+ "muc_chinh": [
+  "Cuộc kháng chiến chống quân Mông Cổ năm 1258",
+  "Cuộc kháng chiến chống quân Nguyên năm 1285",
+  "Cuộc kháng chiến chống quân Nguyên năm 1287 - 1288",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Lập sơ đồ diễn biến ba cuộc kháng chiến",
+  "Phân tích nguyên nhân thắng lợi và ý nghĩa lịch sử",
+  "Đánh giá vai trò các nhân vật lịch sử thời Trần"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đế chế Mông Cổ và lời thách thức",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu bối cảnh thế kỷ XIII, khi đế chế Mông Cổ bành trướng và Đại Việt đứng trước nguy cơ bị xâm lược.",
+   "kien_thuc_chot": [
+    "Đế chế Mông Cổ thống trị nhiều nước Á-Âu",
+    "Nhà Trần chủ động phòng thủ, chuẩn bị lực lượng"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    70
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Vườn không nhà trống: Chiến thuật huyền thoại",
+   "noi_dung": "Kể về cuộc kháng chiến năm 1258, cách quân dân nhà Trần đối phó với 3 vạn quân Mông Cổ bằng kế sách vườn không nhà trống và chiến thắng Đông Bộ Đầu.",
+   "kien_thuc_chot": [
+    "Trận Bình Lệ Nguyên",
+    "Chiến thuật vườn không nhà trống",
+    "Chiến thắng Đông Bộ Đầu năm 1258"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng lược đồ quân Mông Cổ tiến vào Thăng Long và quân Trần rút lui chiến thuật",
+   "trang_sgk": [
+    70,
+    71
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Hào khí Đông A và Hội nghị Diên Hồng",
+   "noi_dung": "Tập trung vào năm 1285, sự chuẩn bị của nhà Trần qua Hội nghị Bình Than, Diên Hồng và tinh thần Sát Thát của quân dân Đại Việt.",
+   "kien_thuc_chot": [
+    "Hội nghị Bình Than, Diên Hồng",
+    "Trần Quốc Tuấn làm Quốc công tiết chế",
+    "Tinh thần Sát Thát"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    71,
+    72
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Bạch Đằng Giang: Bản hùng ca trên sông",
+   "noi_dung": "Diễn biến cuộc kháng chiến lần thứ ba (1287-1288), tập trung vào trận Bạch Đằng với bãi cọc ngầm và kế hoả công tiêu diệt quân Nguyên.",
+   "kien_thuc_chot": [
+    "Chiến thắng Vân Đồn",
+    "Trận Bạch Đằng năm 1288",
+    "Bắt sống Ô Mã Nhi"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng trận địa bãi cọc Bạch Đằng, nước triều lên xuống và các thuyền chiến bị mắc kẹt",
+   "trang_sgk": [
+    73,
+    74
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Vì sao Đại Việt chiến thắng?",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết nguyên nhân thắng lợi và ý nghĩa lịch sử, nhấn mạnh vai trò của vua tôi nhà Trần.",
+   "kien_thuc_chot": [
+    "Đoàn kết vua tôi, toàn dân",
+    "Kế sách đánh giặc sáng tạo",
+    "Ngăn chặn sự bành trướng của đế chế Mông-Nguyên"
+   ],
+   "khung": "2-3p",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    74,
+    75
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Ứng dụng tương tác cho phép học sinh kéo thả các quân cờ (quân Trần/quân Nguyên) trên bản đồ địa hình để thực hiện kế sách vườn không nhà trống hoặc bố trí bãi cọc trên sông Bạch Đằng.",
+ "id": "L7-B14",
+ "ten": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+ "lop": 7,
+ "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)"
+}

@@ -1,0 +1,108 @@
+{
+ "muc_chinh": [
+  "Điều kiện tự nhiên Ấn Độ",
+  "Vương triều Gúp-ta",
+  "Vương triều Hồi giáo Đê-li",
+  "Vương triều Mô-gôn",
+  "Thành tựu văn hóa tiêu biểu"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững đặc điểm tự nhiên và sự phát triển qua 3 vương triều",
+  "Nhận diện được các thành tựu văn hóa tiêu biểu và ảnh hưởng của chúng"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Ấn Độ - Tiểu lục địa huyền bí",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu vị trí địa lý đặc biệt của Ấn Độ và tầm quan trọng của dãy Hi-ma-lay-a.",
+   "kien_thuc_chot": [
+    "Ấn Độ là bán đảo lớn ở Nam Á, được ví như tiểu lục địa",
+    "Địa hình gồm đồng bằng sông Hằng và cao nguyên Đê-can",
+    "Khí hậu đa dạng, tạo điều kiện cho kinh tế phát triển"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    32
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Thời hoàng kim của Vương triều Gúp-ta",
+   "noi_dung": "Khám phá sự thống nhất đất nước dưới thời San-đra Gúp-ta I và những thành tựu kinh tế rực rỡ.",
+   "kien_thuc_chot": [
+    "Thành lập đầu thế kỉ IV, thống nhất hầu hết bán đảo",
+    "Sử dụng công cụ sắt, phát triển thủy lợi",
+    "Thời kỳ hoàng kim với đời sống nhân dân sung túc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện sự mở rộng lãnh thổ từ lưu vực sông Hằng ra toàn bán đảo",
+   "trang_sgk": [
+    32
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Vương triều Đê-li: Sự giao thoa và mâu thuẫn",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về sự du nhập của Hồi giáo và những biến động chính trị tại Ấn Độ từ thế kỉ XII.",
+   "kien_thuc_chot": [
+    "Thành lập năm 1206 bởi người Hồi giáo gốc Thổ Nhĩ Kỳ",
+    "Phát triển thủ công nghiệp và thương nghiệp biển",
+    "Mâu thuẫn tôn giáo, sắc tộc dẫn đến bất ổn xã hội"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    32,
+    33
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Vua A-cơ-ba và thời thịnh trị Mô-gôn",
+   "noi_dung": "Kể về vị vua kiệt xuất A-cơ-ba và những chính sách cải cách giúp Ấn Độ ổn định, phát triển.",
+   "kien_thuc_chot": [
+    "Thành lập đầu thế kỉ XVI, lật đổ triều Đê-li",
+    "A-cơ-ba thực hiện cải cách hành chính, luật pháp",
+    "Chính sách hòa hợp dân tộc và tôn giáo"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tư duy các chính sách cải cách của vua A-cơ-ba",
+   "trang_sgk": [
+    33,
+    34
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Dòng chảy văn hóa Ấn Độ",
+   "noi_dung": "Hân Hân và Nhật Minh điểm lại những di sản văn hóa thế giới như chùa hang A-gian-ta và văn học Phạn ngữ.",
+   "kien_thuc_chot": [
+    "Sự hình thành đạo Hin-đu từ đạo Bà La Môn",
+    "Văn học phong phú với tác phẩm Sơ-kun-to-la",
+    "Kiến trúc chịu ảnh hưởng của Phật giáo, Hin-đu giáo và Hồi giáo"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Slide trình chiếu hình ảnh 3D cột sắt không gỉ, đền Kha-giu-ra-hô và chùa hang A-gian-ta",
+   "trang_sgk": [
+    34,
+    35
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà cai trị thông thái': Người chơi chọn các chính sách (thuế, tôn giáo, quân sự) để quản lý vương quốc và xem kết quả sự ổn định/thịnh vượng của đất nước qua từng thời kỳ.",
+ "id": "L7-B5",
+ "ten": "Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+ "lop": 7,
+ "chuong": "Chương 2. Trung Quốc và Ấn Độ thời trung đại"
+}

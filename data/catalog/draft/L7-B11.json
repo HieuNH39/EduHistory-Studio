@@ -1,0 +1,91 @@
+{
+ "muc_chinh": [
+  "Nhà Lý thành lập và định đô ở Thăng Long",
+  "Tình hình chính trị",
+  "Tình hình kinh tế, xã hội",
+  "Tình hình văn hoá, giáo dục"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày sự thành lập nhà Lý và ý nghĩa dời đô",
+  "Mô tả chính trị, kinh tế, xã hội, văn hóa thời Lý",
+  "Giới thiệu thành tựu văn hóa, giáo dục tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Lý Công Uẩn và quyết định lịch sử",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự kiện năm 1009 khi Lý Công Uẩn lên ngôi và lý do ông dời đô từ Hoa Lư về Đại La.",
+   "kien_thuc_chot": [
+    "Năm 1009, nhà Lý thành lập.",
+    "Năm 1010, dời đô về Đại La, đổi tên là Thăng Long.",
+    "Chiếu dời đô khẳng định Thăng Long là thắng địa, trung tâm của đất nước."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển từ Hoa Lư ra Thăng Long, hiệu ứng rồng bay lên khi chạm vào thành Đại La.",
+   "trang_sgk": [
+    54,
+    55
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bộ máy nhà nước và 'Ngụ binh ư nông'",
+   "noi_dung": "Hai bạn nhỏ khám phá cách nhà Lý quản lý đất nước và chính sách quân đội độc đáo.",
+   "kien_thuc_chot": [
+    "Chính quyền trung ương tập quyền, chia cả nước thành 24 lộ, phủ.",
+    "Năm 1042, ban hành bộ luật Hình thư.",
+    "Chính sách 'Ngụ binh ư nông' giúp quân đội mạnh, sản xuất ổn định."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    56
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đại Việt thời Lý: Ruộng đồng và chợ búa",
+   "noi_dung": "Nhật Minh và Hân Hân tìm hiểu về đời sống kinh tế, từ lễ cày tịch điền đến cảng Vân Đồn sầm uất.",
+   "kien_thuc_chot": [
+    "Nông nghiệp được chú trọng qua lễ cày tịch điền.",
+    "Thủ công nghiệp phát triển với các sản phẩm như gốm hoa nâu.",
+    "Thương nghiệp phát triển, cảng Vân Đồn là trung tâm buôn bán quốc tế."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng cảnh chợ búa thời Lý và tàu thuyền ra vào cảng Vân Đồn.",
+   "trang_sgk": [
+    56,
+    57
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Văn Miếu - Quốc Tử Giám: Nền móng giáo dục",
+   "noi_dung": "Hai bạn giới thiệu về đời sống văn hóa, tôn giáo và sự ra đời của nền giáo dục khoa cử đầu tiên.",
+   "kien_thuc_chot": [
+    "Phật giáo rất thịnh hành.",
+    "Năm 1070 xây Văn Miếu, năm 1076 lập Quốc Tử Giám.",
+    "Năm 1075 mở khoa thi đầu tiên tuyển chọn nhân tài."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    58,
+    59
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng kinh thành': Người chơi chọn các biểu tượng (chùa, chợ, trường học, quân doanh) đặt vào sơ đồ thành Thăng Long để hiểu cấu trúc xã hội thời Lý.",
+ "id": "L7-B11",
+ "ten": "Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+ "lop": 7,
+ "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)"
+}

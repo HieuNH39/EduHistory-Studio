@@ -1,0 +1,94 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành xã hội phong kiến ở Tây Âu",
+  "Lãnh địa phong kiến và quan hệ xã hội",
+  "Sự ra đời của Thiên Chúa giáo",
+  "Sự xuất hiện và vai trò của thành thị trung đại"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu quá trình hình thành xã hội phong kiến",
+  "Nắm đặc điểm lãnh địa và thành thị",
+  "Nhận thức vai trò của Thiên Chúa giáo và thành thị"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đế quốc La Mã sụp đổ và sự trỗi dậy của người Giéc-man",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã sự kiện năm 476 khi đế quốc La Mã diệt vong và các vương quốc mới của người Giéc-man hình thành.",
+   "kien_thuc_chot": [
+    "Đế quốc La Mã sụp đổ năm 476",
+    "Người Giéc-man thành lập các vương quốc mới",
+    "Sự hình thành giai cấp lãnh chúa và nông nô"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng các bộ tộc Giéc-man di chuyển và phân chia lãnh thổ La Mã cũ.",
+   "trang_sgk": [
+    11,
+    12
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bên trong một lãnh địa phong kiến",
+   "noi_dung": "Khám phá cuộc sống biệt lập trong lãnh địa, nơi lãnh chúa làm vua và nông nô làm việc cật lực.",
+   "kien_thuc_chot": [
+    "Lãnh địa là đơn vị kinh tế, chính trị cơ bản",
+    "Kinh tế tự cấp tự túc",
+    "Quyền miễn trừ của lãnh chúa",
+    "Mối quan hệ bóc lột giữa lãnh chúa và nông nô"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D cắt lớp lãnh địa: lâu đài, đất khẩu phần, nhà ở nông nô và hào nước.",
+   "trang_sgk": [
+    12,
+    13
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Thiên Chúa giáo: Từ tôn giáo của người nghèo đến quốc giáo",
+   "noi_dung": "Câu chuyện về sự ra đời của Thiên Chúa giáo và sức ảnh hưởng mạnh mẽ của Giáo hội thời trung đại.",
+   "kien_thuc_chot": [
+    "Ra đời đầu Công nguyên tại Giê-ru-sa-lem",
+    "Trở thành quốc giáo của La Mã từ thế kỉ IV",
+    "Giáo hội có thế lực lớn về chính trị, văn hóa, tư tưởng"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    13,
+    14
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thành thị trung đại - Những bông hoa rực rỡ",
+   "noi_dung": "Nhật Minh và Hân Hân tìm hiểu lý do thành thị xuất hiện và tại sao C. Mác lại gọi chúng là những bông hoa rực rỡ.",
+   "kien_thuc_chot": [
+    "Thủ công nghiệp phát triển thúc đẩy thành thị",
+    "Cư dân là thợ thủ công và thương nhân",
+    "Phá vỡ kinh tế tự nhiên, tạo tiền đề cho kinh tế hàng hóa",
+    "Góp phần xây dựng chế độ phong kiến tập quyền"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng quá trình chuyển đổi từ lãnh địa tự cung tự cấp sang thị trường trao đổi hàng hóa tại thành thị.",
+   "trang_sgk": [
+    14,
+    15
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Học sinh sắp xếp các tầng lớp xã hội (quý tộc La Mã, người Giéc-man, nô lệ) vào đúng vị trí mới (lãnh chúa, nông nô) trong sơ đồ hình thành xã hội phong kiến.",
+ "id": "L7-B1",
+ "ten": "Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+ "lop": 7,
+ "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI"
+}

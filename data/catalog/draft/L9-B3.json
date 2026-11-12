@@ -1,0 +1,104 @@
+{
+ "muc_chinh": [
+  "Nhật Bản từ năm 1918 đến năm 1945",
+  "Phong trào đấu tranh giành độc lập dân tộc ở châu Á từ năm 1918 đến năm 1945"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được những nét chính về tình hình Nhật Bản và phong trào giải phóng dân tộc ở châu Á giai đoạn 1918-1945."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nhật Bản: Từ hưng thịnh đến lò lửa chiến tranh",
+   "noi_dung": "Nhật Minh và Hân Hân cùng phân tích sự biến động của kinh tế Nhật Bản từ sau Thế chiến I đến cuộc đại suy thoái 1929.",
+   "kien_thuc_chot": [
+    "Kinh tế Nhật phát triển nhanh sau Thế chiến I nhưng không ổn định.",
+    "Khủng hoảng tài chính 1927 và đại suy thoái 1929 làm kinh tế sa sút nghiêm trọng.",
+    "Nhật Bản chuyển sang quân sự hóa bộ máy nhà nước để thoát khủng hoảng."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Đồ thị đường biểu diễn sự tăng trưởng và suy giảm kinh tế Nhật Bản giai đoạn 1918-1931.",
+   "trang_sgk": [
+    16,
+    17
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Nhật Bản và tham vọng bá chủ",
+   "noi_dung": "Hai bạn dẫn chuyện giải thích cách Nhật Bản trở thành 'lò lửa chiến tranh' tại châu Á - Thái Bình Dương.",
+   "kien_thuc_chot": [
+    "Năm 1931, Nhật xâm chiếm vùng Đông Bắc Trung Quốc.",
+    "Tháng 12/1941, Nhật tấn công Trân Châu cảng, mở rộng chiến tranh ra Đông Nam Á.",
+    "Ngày 15/8/1945, Nhật đầu hàng Đồng minh không điều kiện."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ châu Á - Thái Bình Dương hiển thị các mũi tên tấn công của quân Nhật từ 1931 đến 1941.",
+   "trang_sgk": [
+    17
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Làn sóng độc lập trỗi dậy",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về phong trào giải phóng dân tộc lan rộng khắp châu Á dưới hai khuynh hướng chính.",
+   "kien_thuc_chot": [
+    "Cách mạng tháng Mười Nga tác động mạnh đến phong trào châu Á.",
+    "Hai khuynh hướng chính: dân chủ tư sản (Ấn Độ, In-đô-nê-xi-a) và vô sản (Trung Quốc, Việt Nam).",
+    "Sự ra đời của các quốc gia mới như Mông Cổ, Thổ Nhĩ Kỳ."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    17,
+    18
+   ],
+   "uu_tien": "P3"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Trung Quốc: Những bước ngoặt lịch sử",
+   "noi_dung": "Tìm hiểu về phong trào Ngũ tứ và sự hợp tác Quốc - Cộng chống Nhật.",
+   "kien_thuc_chot": [
+    "Phong trào Ngũ tứ (1919) mở đầu cho cuộc đấu tranh chống đế quốc.",
+    "Đảng Cộng sản Trung Quốc thành lập năm 1921.",
+    "Thời kỳ Quốc - Cộng hợp tác để kháng chiến chống Nhật từ năm 1937."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Timeline tương tác về các mốc sự kiện chính tại Trung Quốc từ 1919 đến 1945.",
+   "trang_sgk": [
+    18
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Đông Nam Á: Cuộc đấu tranh bền bỉ",
+   "noi_dung": "Tổng kết phong trào cách mạng tại Đông Nam Á với sự trưởng thành của giai cấp vô sản và các đảng cộng sản.",
+   "kien_thuc_chot": [
+    "Nhiều Đảng Cộng sản ra đời trong những năm 1920-1930.",
+    "Các cuộc khởi nghĩa tiêu biểu: Xô viết Nghệ - Tĩnh (Việt Nam), khởi nghĩa ở In-đô-nê-xi-a.",
+    "Phong trào dân chủ tư sản phát triển với các chính đảng có ảnh hưởng lớn."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Đông Nam Á đánh dấu các điểm bùng nổ khởi nghĩa và nơi thành lập các Đảng Cộng sản.",
+   "trang_sgk": [
+    18,
+    19
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác 'Châu Á 1918-1945': Người dùng click vào từng quốc gia để xem thông tin về khuynh hướng cách mạng và sự kiện nổi bật tại đó.",
+ "id": "L9-B3",
+ "ten": "Châu Á từ năm 1918 đến năm 1945",
+ "lop": 9,
+ "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945"
+}

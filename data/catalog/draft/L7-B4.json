@@ -1,0 +1,107 @@
+{
+ "muc_chinh": [
+  "Tiến trình phát triển lịch sử Trung Quốc",
+  "Sự thịnh vượng thời Đường",
+  "Kinh tế thời Minh - Thanh",
+  "Thành tựu văn hóa, khoa học, kĩ thuật"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững tiến trình lịch sử, các biểu hiện thịnh vượng thời Đường, sự phát triển kinh tế Minh - Thanh và các thành tựu văn hóa tiêu biểu."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Dòng chảy lịch sử Trung Quốc",
+   "noi_dung": "Nhật Minh và Hân Hân tóm tắt các triều đại phong kiến từ Tần đến Thanh trên một trục thời gian sinh động.",
+   "kien_thuc_chot": [
+    "Năm 221 TCN, Tần Thủy Hoàng thống nhất Trung Quốc.",
+    "Các triều đại chính: Tần, Hán, Đường, Tống, Nguyên, Minh, Thanh.",
+    "Nhà Thanh là triều đại phong kiến cuối cùng."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác xuất hiện các triều đại theo thứ tự, mỗi triều đại hiện ra kèm biểu tượng đặc trưng.",
+   "trang_sgk": [
+    27
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Thời Đường - Đỉnh cao phong kiến",
+   "noi_dung": "Hân Hân kể về sự thịnh vượng của nhà Đường qua tư tưởng 'thuyền và nước' của Đường Thái Tông.",
+   "kien_thuc_chot": [
+    "Bộ máy nhà nước được hoàn thiện, tuyển chọn quan lại qua khoa thi.",
+    "Mở rộng lãnh thổ qua chính sách xâm lược.",
+    "Kinh tế phát triển nhờ chính sách quân điền và giảm thuế.",
+    "Con đường tơ lụa kết nối giao thương Á - Âu."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ con đường tơ lụa nối từ Trung Quốc sang phương Tây.",
+   "trang_sgk": [
+    27,
+    28
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kinh tế Minh - Thanh: Mầm mống tư bản",
+   "noi_dung": "Nhật Minh khám phá sự sầm uất của các đô thị và nghề làm đồ sứ nổi tiếng thời Minh - Thanh.",
+   "kien_thuc_chot": [
+    "Nông nghiệp phát triển mạnh về kĩ thuật và sản lượng.",
+    "Xuất hiện các xưởng thủ công lớn, chuyên môn hóa cao.",
+    "Nghề làm đồ sứ đạt độ tinh xảo cao.",
+    "Xuất hiện mầm mống kinh tế tư bản chủ nghĩa."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    28
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản văn hóa rực rỡ",
+   "noi_dung": "Hai bạn cùng điểm lại những thành tựu văn học, kiến trúc và phát minh khoa học để đời.",
+   "kien_thuc_chot": [
+    "Nho giáo là tư tưởng chính thống.",
+    "Văn học nổi bật với thơ Đường và tiểu thuyết chương hồi.",
+    "Kiến trúc đồ sộ: Vạn Lý Trường Thành, Tử Cấm Thành.",
+    "4 phát minh lớn: Giấy, in, la bàn, thuốc súng."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Thư viện ảo trưng bày các tác phẩm văn học và mô hình các phát minh kỹ thuật.",
+   "trang_sgk": [
+    29,
+    30
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Dấu ấn Nguyễn An tại Tử Cấm Thành",
+   "noi_dung": "Câu chuyện ngắn về kiến trúc sư người Việt tham gia xây dựng Tử Cấm Thành.",
+   "kien_thuc_chot": [
+    "Nguyễn An là người Việt tài năng, tổng đốc công xây dựng Tử Cấm Thành.",
+    "Thể hiện sự giao lưu và ảnh hưởng văn hóa giữa các quốc gia."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    29
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà sử học nhí': Học sinh kéo thả các thành tựu văn hóa hoặc sự kiện kinh tế vào đúng triều đại tương ứng trên trục thời gian để nhận huy hiệu.",
+ "id": "L7-B4",
+ "ten": "Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+ "lop": 7,
+ "chuong": "Chương 2. Trung Quốc và Ấn Độ thời trung đại"
+}

@@ -1,0 +1,86 @@
+{
+ "muc_chinh": [
+  "Họ Khúc và họ Dương dựng quyền tự chủ",
+  "Ngô Quyền và chiến thắng Bạch Đằng năm 938"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được các cuộc vận động tự chủ của họ Khúc và họ Dương.",
+  "Mô tả diễn biến trận Bạch Đằng 938 và ý nghĩa lịch sử của chiến thắng này."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Khúc Thừa Dụ: Người đặt nền móng tự chủ",
+   "noi_dung": "Nhật Minh và Hân Hân kể lại sự kiện Khúc Thừa Dụ chớp thời cơ nhà Đường suy yếu để giành quyền tự chủ năm 905.",
+   "kien_thuc_chot": [
+    "Năm 905, Khúc Thừa Dụ đánh chiếm thành Đại La.",
+    "Xây dựng chính quyền tự chủ của người Việt.",
+    "Khúc Hạo cải cách hành chính, giảm thuế, xây dựng đất nước yên vui."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    83
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Dương Đình Nghệ và cuộc chiến bảo vệ nền tự chủ",
+   "noi_dung": "Câu chuyện về Dương Đình Nghệ tập hợp hào kiệt, đánh đuổi quân Nam Hán để giữ vững quyền tự chủ.",
+   "kien_thuc_chot": [
+    "Năm 931, Dương Đình Nghệ đánh bại quân Nam Hán.",
+    "Tiếp tục xây dựng nền tự chủ sau khi giành lại thành Đại La."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Lược đồ động mô tả quân Dương Đình Nghệ từ làng Giàng tiến về Đại La và chặn đánh quân tiếp viện Nam Hán.",
+   "trang_sgk": [
+    84
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Thiên tài quân sự Ngô Quyền",
+   "noi_dung": "Giới thiệu về Ngô Quyền và kế hoạch độc đáo: cắm cọc gỗ trên sông Bạch Đằng.",
+   "kien_thuc_chot": [
+    "Ngô Quyền là con rể Dương Đình Nghệ, có trí dũng phi thường.",
+    "Chọn sông Bạch Đằng làm trận địa nhờ địa hình hiểm trở và thủy triều lên xuống mạnh.",
+    "Sáng tạo trận địa cọc gỗ bịt sắt để tiêu diệt thuyền giặc."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D mặt cắt ngang sông Bạch Đằng, mô tả mực nước triều lên cao che lấp cọc và triều rút làm lộ cọc.",
+   "trang_sgk": [
+    85,
+    86
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Chiến thắng Bạch Đằng: Bản hùng ca nghìn năm",
+   "noi_dung": "Tái hiện trận đánh quyết định năm 938 và ý nghĩa lịch sử vĩ đại đối với dân tộc.",
+   "kien_thuc_chot": [
+    "Diễn biến: Dụ địch vào bãi cọc, chờ triều rút rồi phản công.",
+    "Kết quả: Quân Nam Hán thất bại, Hoằng Tháo bị tiêu diệt.",
+    "Ý nghĩa: Chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập lâu dài."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Hoạt họa diễn biến trận đánh: thuyền quân ta giả thua, dụ quân địch vào bãi cọc, thuyền địch mắc cọc và bị lật.",
+   "trang_sgk": [
+    86,
+    87
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà chiến lược nhí': Học sinh chọn vị trí cắm cọc trên lược đồ sông Bạch Đằng để đạt hiệu quả cao nhất dựa trên thông tin về thủy triều và địa hình.",
+ "id": "L6-B18",
+ "ten": "Bước ngoặt lịch sử đầu thế kỉ X",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

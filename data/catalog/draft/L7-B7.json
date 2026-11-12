@@ -1,0 +1,70 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành và phát triển của Vương quốc Lào",
+  "Vương quốc Lào thời Lan Xang",
+  "Một số nét tiêu biểu về văn hóa"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả được quá trình hình thành, phát triển của Vương quốc Lào",
+  "Nhận biết và đánh giá được sự phát triển của Vương quốc Lan Xang",
+  "Nêu được các thành tựu văn hóa tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Huyền thoại về Triệu Voi",
+   "noi_dung": "Nhật Minh và Hân Hân kể về nguồn gốc người Lào và sự kiện Pha Ngừm thống nhất các mường, lập nên nước Lan Xang.",
+   "kien_thuc_chot": [
+    "Cư dân cổ là người Lào Thơng, sau đó là người Lào Lùm",
+    "Năm 1353, Pha Ngừm thống nhất các mường",
+    "Tên nước là Lan Xang (Triệu Voi)"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Bản đồ di cư của người Lào từ thế kỉ XIII xuống vùng sông Mê Công",
+   "trang_sgk": [
+    41
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Lan Xang - Thời đại hoàng kim",
+   "noi_dung": "Hai bạn khám phá bộ máy nhà nước và đời sống kinh tế sung túc của Lan Xang trong các thế kỉ XV-XVII.",
+   "kien_thuc_chot": [
+    "Nhà nước chia làm 7 mường",
+    "Kinh tế nông nghiệp, thủ công nghiệp và buôn bán phát triển",
+    "Giữ quan hệ hòa hiếu với láng giềng, kiên quyết chống ngoại xâm"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ bộ máy nhà nước Lan Xang và hình ảnh các sản vật trao đổi với Đại Việt",
+   "trang_sgk": [
+    42
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Di sản văn hóa rực rỡ",
+   "noi_dung": "Nhật Minh và Hân Hân tìm hiểu về chữ viết, kiến trúc Thạt Luồng và nghệ thuật múa của người Lào.",
+   "kien_thuc_chot": [
+    "Sáng tạo chữ viết dựa trên nét cong của Cam-pu-chia và Mi-an-ma",
+    "Kiến trúc Phật giáo tiêu biểu là Thạt Luồng",
+    "Nghệ thuật múa hoa Chăm-pa đặc sắc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D xoay quanh Thạt Luồng để thấy rõ cấu trúc hình nậm rượu và bệ tháp",
+   "trang_sgk": [
+    43
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo thả: Học sinh kéo các mốc thời gian và sự kiện lịch sử vào trục thời gian để hoàn thiện lịch sử hình thành Vương quốc Lào.",
+ "id": "L7-B7",
+ "ten": "Vương quốc Lào",
+ "lop": 7,
+ "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI"
+}

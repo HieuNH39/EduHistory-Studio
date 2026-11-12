@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Điều kiện tự nhiên",
+  "Tiến trình lịch sử",
+  "Thành tựu văn minh"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu đặc điểm tự nhiên ảnh hưởng đến văn minh",
+  "Nắm vững các giai đoạn lịch sử chính",
+  "Liệt kê các thành tựu văn minh tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Bí ẩn vùng đất Hoàng Hà",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá cách sông Hoàng Hà và Trường Giang tạo nên cái nôi văn minh Trung Quốc cổ đại.",
+   "kien_thuc_chot": [
+    "Văn minh hình thành ở lưu vực Hoàng Hà, sau đó mở rộng tới Trường Giang",
+    "Đất đai màu mỡ thuận lợi cho nông nghiệp",
+    "Lũ lụt là thách thức lớn thúc đẩy con người đoàn kết"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ 3D mô phỏng dòng chảy hai con sông và các vùng đồng bằng phù sa",
+   "trang_sgk": [
+    40
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Dòng chảy lịch sử: Từ Nhà Hạ đến Chiến Quốc",
+   "noi_dung": "Hai bạn nhỏ cùng vẽ trục thời gian, tìm hiểu sự hình thành các triều đại Hạ, Thương, Chu và thời kỳ Xuân Thu - Chiến Quốc.",
+   "kien_thuc_chot": [
+    "Nhà Hạ (thế kỷ XXI - XVI TCN) là nhà nước sơ khai đầu tiên",
+    "Nhà Thương (thế kỷ XVI - XI TCN) phát triển luyện kim và chữ viết",
+    "Nhà Chu (thế kỷ XI - III TCN) tồn tại lâu nhất, sau đó suy yếu dẫn đến thời Chiến Quốc"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác kéo thả các triều đại vào đúng vị trí thế kỷ",
+   "trang_sgk": [
+    39,
+    41
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Giáp cốt văn và những di sản nghìn năm",
+   "noi_dung": "Hân Hân và Nhật Minh giải mã chữ viết cổ và các tác phẩm văn học, tư tưởng Nho gia, Đạo gia.",
+   "kien_thuc_chot": [
+    "Giáp cốt văn là nguồn gốc chữ Hán hiện đại",
+    "Kinh Thi và Sở Từ là những tác phẩm văn học tiêu biểu",
+    "Nho gia của Khổng Tử đề cao đạo đức và giáo dục"
+   ],
+   "khung": "2-3p",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    41,
+    42
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Y học và kỹ thuật đỉnh cao",
+   "noi_dung": "Khám phá tài năng của người xưa qua y học (bắt mạch, châm cứu) và kỹ thuật đúc đồng tinh xảo.",
+   "kien_thuc_chot": [
+    "Lịch âm - dương và bảng ghi chép hành tinh sớm nhất thế giới",
+    "Biên Thước là người đặt nền tảng cho Đông y",
+    "Kỹ thuật đúc đồng và xây dựng cung điện đạt trình độ cao"
+   ],
+   "khung": "2-3p",
+   "huong": "doc",
+   "mo_phong": "Mô phỏng 3D chuông đồng thời Chu và các dụng cụ y học cổ",
+   "trang_sgk": [
+    42,
+    43
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà khảo cổ nhí': Học sinh chọn các di chỉ (như Ân Khư) trên bản đồ để mở khóa thông tin về hiện vật (chuông đồng, xương thú, thẻ tre) và ghép chúng vào đúng triều đại tương ứng.",
+ "id": "L6-B9",
+ "ten": "Trung Quốc cổ đại",
+ "lop": 6,
+ "chuong": "Chương 3. Xã hội cổ đại"
+}

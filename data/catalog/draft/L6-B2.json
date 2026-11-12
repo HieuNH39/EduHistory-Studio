@@ -1,0 +1,100 @@
+{
+ "muc_chinh": [
+  "Tư liệu hiện vật",
+  "Tư liệu chữ viết",
+  "Tư liệu truyền miệng",
+  "Tư liệu gốc và tư liệu thứ cấp"
+ ],
+ "yeu_cau_can_dat": [
+  "Phân biệt được các nguồn sử liệu",
+  "Hiểu giá trị của từng loại tư liệu trong việc phục dựng lịch sử"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Thám tử lịch sử: Bạn là ai?",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu công việc của nhà sử học giống như thám tử, cần tìm kiếm bằng chứng để phục dựng quá khứ.",
+   "kien_thuc_chot": [
+    "Lịch sử cần được phục dựng từ bằng chứng",
+    "Bằng chứng lịch sử gọi là tư liệu lịch sử"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    13
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Dấu vết thời gian: Tư liệu hiện vật",
+   "noi_dung": "Khám phá trống đồng Ngọc Lũ và Hoàng thành Thăng Long để hiểu cách hiện vật kể chuyện về đời sống người xưa.",
+   "kien_thuc_chot": [
+    "Tư liệu hiện vật là di tích, đồ vật còn lưu giữ",
+    "Phản ánh đời sống vật chất và tinh thần"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D xoay 360 độ trống đồng Ngọc Lũ, click vào các hoa văn để hiện chú thích ý nghĩa.",
+   "trang_sgk": [
+    13,
+    14
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Lời thì thầm từ trang sách",
+   "noi_dung": "Tìm hiểu về tư liệu chữ viết qua bia Tiến sĩ và Di chúc của Bác Hồ, nhấn mạnh tính chủ quan của tác giả.",
+   "kien_thuc_chot": [
+    "Tư liệu chữ viết gồm bản ghi, sách, tài liệu khắc chữ",
+    "Cung cấp thông tin đầy đủ nhưng mang ý thức chủ quan"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    14
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Huyền thoại hay lịch sử?",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về truyền thuyết Thánh Gióng và giá trị của tư liệu truyền miệng.",
+   "kien_thuc_chot": [
+    "Tư liệu truyền miệng là truyện dân gian truyền đời",
+    "Không chính xác về thời gian, địa điểm nhưng phản ánh hiện thực"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    15
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Gốc hay Thứ cấp: Bí mật của nhà sử học",
+   "noi_dung": "Phân biệt tư liệu gốc (sơ cấp) và tư liệu thứ cấp, giải thích tại sao tư liệu gốc lại đáng tin cậy nhất.",
+   "kien_thuc_chot": [
+    "Tư liệu gốc cung cấp thông tin đầu tiên, trực tiếp",
+    "Tư liệu thứ cấp là kết quả tổng hợp, phân tích từ tư liệu gốc"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ cây: Tư liệu gốc ở gốc rễ, tư liệu thứ cấp là các nhánh cây phát triển từ đó.",
+   "trang_sgk": [
+    15
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Phân loại sử liệu': Người chơi kéo thả các hình ảnh (trống đồng, bia đá, sách giáo khoa, truyện kể) vào các giỏ tương ứng: Hiện vật, Chữ viết, Truyền miệng và phân loại Gốc/Thứ cấp.",
+ "id": "L6-B2",
+ "ten": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+ "lop": 6,
+ "chuong": "Chương 1. Vì sao phải học lịch sử?"
+}

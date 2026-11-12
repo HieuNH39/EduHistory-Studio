@@ -1,0 +1,108 @@
+{
+ "muc_chinh": [
+  "Các cuộc phát kiến địa lí lớn trên thế giới",
+  "Hệ quả của các cuộc phát kiến địa lí",
+  "Sự nảy sinh chủ nghĩa tư bản ở Tây Âu",
+  "Sự biến đổi của xã hội Tây Âu"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được hành trình các cuộc phát kiến địa lí",
+  "Phân tích hệ quả tích cực và tiêu cực",
+  "Giải thích sự hình thành quan hệ sản xuất tư bản chủ nghĩa",
+  "Nhận diện sự hình thành giai cấp tư sản và vô sản"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao người châu Âu lại đi tìm đường biển?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích lý do các quốc gia như Bồ Đào Nha, Tây Ban Nha tiên phong thám hiểm nhờ sự tiến bộ của la bàn và nhu cầu tìm đường sang châu Á.",
+   "kien_thuc_chot": [
+    "Sự ra đời của la bàn giúp định hướng trên biển",
+    "Bồ Đào Nha và Tây Ban Nha là những nước tiên phong"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    16,
+    17
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Những chuyến hải trình làm thay đổi thế giới",
+   "noi_dung": "Nhật Minh và Hân Hân cùng theo dõi lược đồ hành trình của B. Đi-a-xơ, C. Cô-lôm-bô, V. Ga-ma và Ph. Ma-gien-lăng.",
+   "kien_thuc_chot": [
+    "B. Đi-a-xơ đến mũi Hảo Vọng (1487)",
+    "C. Cô-lôm-bô tìm ra châu Mỹ (1492)",
+    "V. Ga-ma đến Ấn Độ (1498)",
+    "Ph. Ma-gien-lăng đi vòng quanh thế giới (1519-1522)"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Lược đồ tương tác hiển thị đường đi của 4 nhà thám hiểm với các mốc thời gian sáng dần",
+   "trang_sgk": [
+    17
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Thế giới thay đổi sau những chuyến đi",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về hai mặt của các cuộc phát kiến: mở ra thị trường mới nhưng cũng bắt đầu nạn buôn bán nô lệ và xâm lược thuộc địa.",
+   "kien_thuc_chot": [
+    "Mở rộng giao lưu thương mại quốc tế",
+    "Châu Âu tích lũy được nhiều vàng bạc, nguyên liệu",
+    "Nảy sinh nạn buôn bán nô lệ da đen và cướp bóc thuộc địa"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    18
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Cừu ăn thịt người và sự ra đời của chủ nghĩa tư bản",
+   "noi_dung": "Hân Hân kể về phong trào 'rào đất cướp ruộng' ở Anh, nơi nông dân mất đất phải đi làm thuê, hình thành quan hệ chủ - thợ.",
+   "kien_thuc_chot": [
+    "Quý tộc rào đất nuôi cừu, nông dân mất ruộng",
+    "Hình thành quan hệ sản xuất tư bản chủ nghĩa (chủ - thợ)",
+    "Tư sản tích lũy vốn và nhân công"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng chuyển đổi từ ruộng đất nông nghiệp sang đồng cỏ nuôi cừu và công trường thủ công",
+   "trang_sgk": [
+    18,
+    19
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Ai là Tư sản, ai là Vô sản?",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết về sự biến đổi xã hội Tây Âu với sự xuất hiện của hai giai cấp mới đối lập nhau.",
+   "kien_thuc_chot": [
+    "Giai cấp tư sản: nắm vốn, kinh doanh",
+    "Giai cấp vô sản: làm thuê, bán sức lao động",
+    "Sự đối lập về lợi ích giữa hai giai cấp"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    19
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ thế giới tương tác: Người dùng chọn tên nhà thám hiểm, bản đồ sẽ vẽ lại đường đi và hiển thị thông tin tóm tắt về chuyến đi đó.",
+ "id": "L7-B2",
+ "ten": "Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+ "lop": 7,
+ "chuong": "Chương 1. Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI"
+}

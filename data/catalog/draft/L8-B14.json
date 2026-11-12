@@ -1,0 +1,110 @@
+{
+ "muc_chinh": [
+  "Trung Quốc từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "Cách mạng Tân Hợi (1911)",
+  "Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "Nhật Bản chuyển sang giai đoạn đế quốc chủ nghĩa"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả quá trình xâm lược Trung Quốc",
+  "Trình bày nguyên nhân, ý nghĩa, hạn chế của Cách mạng Tân Hợi",
+  "Nêu nội dung, ý nghĩa Duy tân Minh Trị",
+  "Phân tích biểu hiện chủ nghĩa đế quốc ở Nhật Bản"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Trung Quốc: Miếng mồi ngon của đế quốc",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự kiện Chiến tranh thuốc phiện và cách các nước đế quốc xâu xé Trung Quốc.",
+   "kien_thuc_chot": [
+    "Chiến tranh thuốc phiện (1840-1842) mở đầu cho sự xâm lược của Anh",
+    "Hiệp ước Nam Kinh là hiệp ước bất bình đẳng đầu tiên",
+    "Trung Quốc trở thành nước phong kiến, nửa thuộc địa sau Hiệp ước Tân Sửu (1901)"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Trung Quốc hiện lên với các vùng bị các nước đế quốc chiếm đóng (Đức, Anh, Nga, Nhật, Pháp)",
+   "trang_sgk": [
+    64,
+    65
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cách mạng Tân Hợi: Bước ngoặt lịch sử",
+   "noi_dung": "Hân Hân và Nhật Minh giải mã nguyên nhân và diễn biến chính của cuộc cách mạng do Tôn Trung Sơn lãnh đạo.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Chính quyền Mãn Thanh bán rẻ quyền lợi đường sắt",
+    "Mục tiêu: Lật đổ phong kiến, xây dựng nước Trung Hoa dân chủ",
+    "Kết quả: Chấm dứt chế độ phong kiến, nhưng không xóa bỏ được địa chủ và đế quốc"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ diễn biến từ Vũ Xương lan rộng ra cả nước",
+   "trang_sgk": [
+    65,
+    66
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Duy tân Minh Trị: Nhật Bản hóa rồng",
+   "noi_dung": "Nhật Minh đưa Hân Hân về năm 1868 để chứng kiến Thiên hoàng Minh Trị thay đổi vận mệnh nước Nhật.",
+   "kien_thuc_chot": [
+    "Nội dung: Cải cách toàn diện về chính trị, kinh tế, quân sự, giáo dục",
+    "Ý nghĩa: Đưa Nhật Bản thành nước tư bản chủ nghĩa, giữ vững độc lập",
+    "Đây là cuộc cách mạng tư sản thành công"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ các lĩnh vực cải cách hiện ra theo dạng bảng tương tác",
+   "trang_sgk": [
+    66,
+    67
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Nhật Bản trở thành đế quốc",
+   "noi_dung": "Hân Hân và Nhật Minh phân tích quá trình Nhật Bản bành trướng và hình thành các tập đoàn độc quyền.",
+   "kien_thuc_chot": [
+    "Sự xuất hiện của các công ty độc quyền: Mít-xưi, Mít-su-bi-si",
+    "Đặc điểm: Công nghiệp quân sự phát triển, đẩy mạnh xâm lược thuộc địa",
+    "Chiến tranh Nga - Nhật (1904-1905) khẳng định vị thế đế quốc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    67,
+    68
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Tóm tắt nhanh: Trung Quốc vs Nhật Bản",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết sự khác biệt giữa hai con đường phát triển cuối thế kỉ XIX.",
+   "kien_thuc_chot": [
+    "Trung Quốc: Bị xâm lược, cách mạng tư sản chưa triệt để",
+    "Nhật Bản: Cải cách thành công, vươn lên thành cường quốc đế quốc"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    64,
+    68
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng kéo thả các nước đế quốc vào các vùng lãnh thổ Trung Quốc tương ứng và chọn các lĩnh vực cải cách của Nhật Bản để xem kết quả thay đổi của đất nước đó.",
+ "id": "L8-B14",
+ "ten": "Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+ "lop": 8,
+ "chuong": "Chương 6. Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX"
+}

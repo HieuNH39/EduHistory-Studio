@@ -1,0 +1,88 @@
+{
+ "muc_chinh": [
+  "Cuộc kháng chiến giai đoạn thứ nhất (1075)",
+  "Cuộc kháng chiến giai đoạn thứ hai (1077)",
+  "Ý nghĩa lịch sử và vai trò của Lý Thường Kiệt"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu chiến lược 'Tiên phát chế nhân', phòng tuyến Như Nguyệt và cách kết thúc chiến tranh nhân văn."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tiên phát chế nhân: Đánh trước để tự vệ",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích lý do Lý Thường Kiệt quyết định đem quân sang đất Tống thay vì ngồi yên đợi giặc.",
+   "kien_thuc_chot": [
+    "Lý Thường Kiệt là tổng chỉ huy",
+    "Chủ trương: Ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc",
+    "Năm 1075: Quân ta đánh vào Ung Châu, tiêu hủy kho lương rồi rút về"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng hai đạo quân tiến vào đất Tống và việc phá hủy kho lương Ung Châu.",
+   "trang_sgk": [
+    60,
+    61
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Phòng tuyến thép trên sông Như Nguyệt",
+   "noi_dung": "Hân Hân và Nhật Minh mô tả cách quân dân Đại Việt xây dựng phòng tuyến chặn đứng quân Tống.",
+   "kien_thuc_chot": [
+    "Phòng tuyến xây dựng bên bờ nam sông Như Nguyệt",
+    "Bố trí quân thủy chặn đường biển, bộ binh giữ đê",
+    "Sử dụng địa hình sông ngòi làm lá chắn tự nhiên"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D phòng tuyến: đê cao, dậu tre dày đặc và vị trí quân ta chặn quân Tống.",
+   "trang_sgk": [
+    62,
+    63
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Nam quốc sơn hà và đòn quyết định",
+   "noi_dung": "Kể về đêm ngâm thơ thần và trận phản công chớp nhoáng khiến quân Tống tan rã.",
+   "kien_thuc_chot": [
+    "Bài thơ Nam quốc sơn hà khích lệ tinh thần quân sĩ",
+    "Quân ta vượt sông phản công, quân Tống thua to",
+    "Lý Thường Kiệt chủ động đề nghị giảng hòa để bảo toàn lực lượng"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    62,
+    63
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Vì sao ta lại giảng hòa?",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về sự nhân văn và tài thao lược của Lý Thường Kiệt khi kết thúc chiến tranh.",
+   "kien_thuc_chot": [
+    "Giảng hòa giúp tránh tổn thất xương máu",
+    "Bảo toàn được tông miếu",
+    "Kết thúc chiến tranh một cách chủ động, khôn khéo"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    63
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà chiến lược nhí': Học sinh chọn các vị trí đặt quân trên bản đồ sông Như Nguyệt để chặn quân Tống và đưa ra quyết định giảng hòa đúng thời điểm.",
+ "id": "L7-B12",
+ "ten": "Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+ "lop": 7,
+ "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)"
+}

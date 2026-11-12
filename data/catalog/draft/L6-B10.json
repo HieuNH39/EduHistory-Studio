@@ -1,0 +1,93 @@
+{
+ "muc_chinh": [
+  "Điều kiện tự nhiên",
+  "Nhà nước thành bang và nền dân chủ cổ đại ở Hy Lạp",
+  "Nhà nước đế chế La Mã cổ đại",
+  "Một số thành tựu văn hoá tiêu biểu"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu tác động của tự nhiên đến văn minh Hy-La",
+  "Phân biệt tổ chức nhà nước thành bang và đế chế",
+  "Ghi nhớ các thành tựu văn hóa nền tảng của nhân loại"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hy Lạp và La Mã: Món quà từ biển cả",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá cách địa hình chia cắt và biển cả đã định hình nên các thành bang Hy Lạp và đế chế La Mã hùng mạnh.",
+   "kien_thuc_chot": [
+    "Hy Lạp: Địa hình chia cắt, nhiều vũng vịnh, thuận lợi giao thương.",
+    "La Mã: Bán đảo I-ta-li-a, nhiều đồng cỏ, khoáng sản thuận lợi luyện kim.",
+    "Điều kiện tự nhiên thúc đẩy kinh tế hàng hải và nông nghiệp."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ 3D tương tác so sánh địa hình Hy Lạp (núi non) và La Mã (đồng bằng, bán đảo).",
+   "trang_sgk": [
+    47,
+    48
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "A-ten: Nơi dân chủ bắt đầu",
+   "noi_dung": "Hân Hân giải thích về mô hình thành bang A-ten và cơ chế bỏ phiếu bằng vỏ sò độc đáo để bảo vệ nền dân chủ.",
+   "kien_thuc_chot": [
+    "Thành bang là nhà nước nhỏ gồm thành thị và vùng đất xung quanh.",
+    "A-ten tiêu biểu cho chế độ dân chủ cổ đại.",
+    "Đại hội nhân dân là cơ quan quyền lực cao nhất.",
+    "Bỏ phiếu bằng vỏ sò giúp ngăn chặn âm mưu đảo chính."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng quy trình bỏ phiếu bằng vỏ sò trong Đại hội nhân dân A-ten.",
+   "trang_sgk": [
+    48,
+    49
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Từ thành bang đến Đế chế La Mã",
+   "noi_dung": "Nhật Minh kể về sự chuyển mình của La Mã từ một thành bang nhỏ thành đế quốc rộng lớn dưới thời Ốc-ta-vi-út.",
+   "kien_thuc_chot": [
+    "Năm 27 TCN, Ốc-ta-vi-út trở thành hoàng đế.",
+    "Tổ chức nhà nước: Hoàng đế nắm quyền, Viện Nguyên lão chỉ còn là hình thức.",
+    "Đế chế La Mã mở rộng ra ba châu lục."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    49
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản Hy-La: Những thứ ta vẫn dùng hàng ngày",
+   "noi_dung": "Nhật Minh và Hân Hân điểm danh những thành tựu văn hóa như chữ cái, số La Mã và kiến trúc còn tồn tại đến tận ngày nay.",
+   "kien_thuc_chot": [
+    "Chữ cái La-tinh và chữ số La Mã.",
+    "Văn học: Hô-me, Xô-phốc; Khoa học: Pi-ta-go, Ac-si-mét.",
+    "Kiến trúc: Đền Pác-tê-nông, Đấu trường Cô-li-dê.",
+    "Sáng tạo ra dương lịch."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    50,
+    51
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà khảo cổ nhí': Học sinh ghép các thành tựu văn hóa (tượng, công trình, chữ viết) vào đúng nền văn minh Hy Lạp hoặc La Mã trên bản đồ thế giới cổ đại.",
+ "id": "L6-B10",
+ "ten": "Hy Lạp và La Mã cổ đại",
+ "lop": 6,
+ "chuong": "Chương 3. Xã hội cổ đại"
+}

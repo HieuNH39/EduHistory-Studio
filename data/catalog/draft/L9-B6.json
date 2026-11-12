@@ -1,0 +1,91 @@
+{
+ "muc_chinh": [
+  "Hoạt động của Nguyễn Ái Quốc từ năm 1918 đến năm 1930",
+  "Sự thành lập Đảng Cộng sản Việt Nam"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được các hoạt động chính của Nguyễn Ái Quốc giai đoạn 1918-1930",
+  "Trình bày quá trình thành lập Đảng và ý nghĩa lịch sử của sự kiện này",
+  "Đánh giá vai trò của Nguyễn Ái Quốc đối với cách mạng Việt Nam"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Người đi tìm hình của nước",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu hành trình của Nguyễn Ái Quốc tại Pháp từ 1918, đặc biệt là dấu mốc đọc Luận cương của Lê-nin.",
+   "kien_thuc_chot": [
+    "Năm 1919: Gửi Yêu sách đến Hội nghị Véc-xai",
+    "Tháng 7/1920: Đọc Luận cương của Lê-nin",
+    "Tháng 12/1920: Tham gia sáng lập Đảng Cộng sản Pháp",
+    "Bước ngoặt: Từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lê-nin"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    28,
+    29
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Từ Quảng Châu đến những hạt giống đỏ",
+   "noi_dung": "Kể về quá trình Nguyễn Ái Quốc huấn luyện cán bộ tại Trung Quốc và thành lập Hội Việt Nam Cách mạng Thanh niên.",
+   "kien_thuc_chot": [
+    "Sáng lập Hội Việt Nam Cách mạng Thanh niên (1925)",
+    "Mở lớp huấn luyện chính trị tại Quảng Châu",
+    "Xuất bản tác phẩm Đường Kách mệnh (1927)",
+    "Đào tạo đội ngũ cán bộ cốt cán cho cách mạng"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển từ Pháp sang Liên Xô và Trung Quốc, đánh dấu các địa điểm hoạt động chính.",
+   "trang_sgk": [
+    29
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Sự ra đời của ba tổ chức cộng sản",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích lý do phong trào vô sản hóa dẫn đến sự ra đời của ba tổ chức cộng sản năm 1929.",
+   "kien_thuc_chot": [
+    "Phong trào vô sản hóa thúc đẩy chủ nghĩa Mác-Lê-nin",
+    "Ba tổ chức cộng sản ra đời năm 1929 tại Việt Nam",
+    "Sự phát triển của phong trào yêu nước theo khuynh hướng vô sản"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ cây thể hiện sự phân hóa từ Hội Việt Nam Cách mạng Thanh niên thành các tổ chức cộng sản.",
+   "trang_sgk": [
+    30
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Hội nghị hợp nhất: Bước ngoặt lịch sử",
+   "noi_dung": "Tường thuật Hội nghị tại Hương Cảng đầu năm 1930 và ý nghĩa của việc thành lập Đảng Cộng sản Việt Nam.",
+   "kien_thuc_chot": [
+    "Hội nghị hợp nhất tại Hương Cảng (đầu 1930)",
+    "Thông qua Cương lĩnh chính trị đầu tiên",
+    "Đảng ra đời là kết quả kết hợp: Mác-Lê-nin + phong trào công nhân + phong trào yêu nước",
+    "Chấm dứt khủng hoảng về đường lối và giai cấp lãnh đạo"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng bàn hội nghị tại Hương Cảng với các văn kiện chính: Chính cương, Sách lược, Điều lệ vắn tắt.",
+   "trang_sgk": [
+    30,
+    31
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Học sinh kéo các sự kiện (Yêu sách, Luận cương, Hội nghị thành lập Đảng...) vào đúng mốc thời gian trên dòng thời gian (Timeline) từ 1918 đến 1930.",
+ "id": "L9-B6",
+ "ten": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+ "lop": 9,
+ "chuong": "Chương 2. Việt Nam từ năm 1918 đến năm 1945"
+}

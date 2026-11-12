@@ -1,0 +1,69 @@
+{
+ "muc_chinh": [
+  "Nước Mỹ từ năm 1945 đến năm 1991",
+  "Tây Âu từ năm 1945 đến năm 1991"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm được đặc điểm chính trị, kinh tế của Mỹ và Tây Âu giai đoạn 1945-1991",
+  "Hiểu về xu hướng liên kết khu vực và vị thế của Mỹ trên trường quốc tế"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nước Mỹ: Quyền lực và những biến động",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá cách nước Mỹ duy trì chế độ hai đảng và thực hiện chiến lược toàn cầu để làm bá chủ thế giới.",
+   "kien_thuc_chot": [
+    "Duy trì chế độ dân chủ tư sản (Đảng Dân chủ và Đảng Cộng hòa)",
+    "Thực hiện chiến lược toàn cầu, lập các khối quân sự như NATO, SEATO",
+    "Chấm dứt Chiến tranh lạnh với Liên Xô năm 1989"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới với các điểm sáng tại Mỹ và các khối quân sự NATO/SEATO đang hình thành.",
+   "trang_sgk": [
+    49,
+    50
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Kinh tế Mỹ: Từ đỉnh cao đến sự cạnh tranh",
+   "noi_dung": "Hân Hân và Nhật Minh phân tích tại sao Mỹ là cường quốc kinh tế số 1 nhưng tỉ trọng lại giảm dần sau năm 1950.",
+   "kien_thuc_chot": [
+    "Giai đoạn 1945-1950: Mỹ chiếm ưu thế tuyệt đối",
+    "Sau 1950: Sự vươn lên của Tây Âu và Nhật Bản khiến vị thế Mỹ giảm dần",
+    "Mỹ vẫn là trung tâm kinh tế, tài chính lớn nhất thế giới"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    50
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Tây Âu: Từ đống đổ nát đến liên minh hùng mạnh",
+   "noi_dung": "Nhật Minh và Hân Hân kể về hành trình hồi sinh của Tây Âu nhờ Kế hoạch Mác-san và xu hướng liên kết châu Âu.",
+   "kien_thuc_chot": [
+    "Nhận viện trợ Mỹ qua Kế hoạch Mác-san để phục hồi kinh tế",
+    "Xu hướng liên kết: Cộng đồng Than - Thép, Cộng đồng Kinh tế châu Âu",
+    "Năm 1991: Đặt nền móng thành lập Liên minh châu Âu (EU)"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ dòng thời gian chuyển đổi từ các quốc gia riêng lẻ sang các khối liên kết kinh tế.",
+   "trang_sgk": [
+    51
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bảng tương tác so sánh: Học sinh kéo thả các thẻ sự kiện (Kế hoạch Mác-san, NATO, thành lập EU, Chiến tranh lạnh) vào cột tương ứng 'Nước Mỹ' hoặc 'Tây Âu' để kiểm tra kiến thức.",
+ "id": "L9-B11",
+ "ten": "Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+ "lop": 9,
+ "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991"
+}

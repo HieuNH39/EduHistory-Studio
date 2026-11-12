@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Đô thị và sự hình thành các nền văn minh cổ đại",
+  "Đô thị và các nền văn minh Hy Lạp, La Mã cổ đại",
+  "Các đô thị châu Âu thời trung đại và vai trò của giới thương nhân"
+ ],
+ "yeu_cau_can_dat": [
+  "Phân tích điều kiện hình thành đô thị cổ đại và trung đại",
+  "Trình bày mối quan hệ giữa đô thị với văn minh",
+  "Giải thích vai trò của thương nhân trong sự phát triển đô thị trung đại"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Vì sao đô thị cổ đại xuất hiện bên dòng sông?",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá cách các khu định cư ven sông Nin, Lưỡng Hà, sông Ấn phát triển thành đô thị đầu tiên nhờ nông nghiệp.",
+   "kien_thuc_chot": [
+    "Đô thị cổ đại phương Đông hình thành từ thiên niên kỉ IV TCN",
+    "Điều kiện: lưu vực sông lớn, đất màu mỡ, phân công lao động",
+    "Ví dụ: Ba-bi-lon, Mem-phit, Mô-hen-giô Đa-rô"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác: người dùng kéo biểu tượng 'nông nghiệp' vào ven sông để thấy làng mạc biến thành thành phố.",
+   "trang_sgk": [
+    173
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "A-ten: Cái nôi văn minh phương Tây",
+   "noi_dung": "Hai bạn dẫn chuyện giải mã sự khác biệt giữa đô thị Hy Lạp - La Mã (gần biển, kinh tế công thương) so với đô thị phương Đông.",
+   "kien_thuc_chot": [
+    "Đô thị Hy Lạp, La Mã gắn liền với hải cảng và khoáng sản",
+    "Kinh tế chủ đạo: thủ công nghiệp và thương mại hàng hải",
+    "Đô thị là trung tâm văn hóa, chính trị, thúc đẩy dân chủ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    174
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Sự trỗi dậy của các đô thị trung đại",
+   "noi_dung": "Nhật Minh và Hân Hân kể về hành trình thợ thủ công thoát khỏi lãnh địa để lập nên các đô thị mới như Pa-ri, Luân Đôn.",
+   "kien_thuc_chot": [
+    "Đô thị trung đại ra đời từ thế kỉ XI",
+    "Nguồn gốc: thợ thủ công tự do, nơi giao thương, phục hồi đô thị cổ",
+    "Đô thị trở thành trung tâm kinh tế, chính trị, giáo dục"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    174,
+    175
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thương nhân - Những người thay đổi châu Âu",
+   "noi_dung": "Hân Hân giải thích tại sao giới thương nhân và các hội buôn lại là 'chìa khóa' mở ra thời đại Phục hưng.",
+   "kien_thuc_chot": [
+    "Thương nhân lập ra thương hội, hội chợ, ngân hàng",
+    "Thúc đẩy kinh tế hàng hóa, làm tan rã kinh tế tự nhiên",
+    "Thương nhân ủng hộ văn hóa mới, mở đường cho Văn hóa Phục hưng"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Animation: quá trình từ 'ghế dài' (banca) đổi tiền tại hội chợ biến thành ngân hàng hiện đại.",
+   "trang_sgk": [
+    175,
+    176
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng đô thị': Người chơi chọn vị trí (ven sông hoặc ven biển) và loại hình kinh tế (nông nghiệp hoặc thương mại) để xem đô thị phát triển như thế nào qua các thời kỳ.",
+ "id": "L7-CD2",
+ "ten": "Đô thị: Lịch sử và hiện tại",
+ "lop": 7,
+ "chuong": "Chủ đề chung"
+}

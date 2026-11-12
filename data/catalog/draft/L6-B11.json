@@ -1,0 +1,71 @@
+{
+ "muc_chinh": [
+  "Vị trí địa lí của khu vực Đông Nam Á",
+  "Quá trình hình thành các quốc gia sơ kì",
+  "Giao lưu thương mại và sự phát triển của các quốc gia sơ kì"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả được vị trí địa lí chiến lược của Đông Nam Á",
+  "Giải thích được cơ sở hình thành các quốc gia sơ kì",
+  "Phân tích được vai trò của giao lưu thương mại quốc tế"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Đông Nam Á - Ngã tư đường thế giới",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá vị trí địa lí đắc địa, nơi kết nối các nền văn minh lớn và là cái nôi của văn minh lúa nước.",
+   "kien_thuc_chot": [
+    "Vị trí cầu nối giữa Ấn Độ Dương và Thái Bình Dương",
+    "Gồm Đông Nam Á lục địa và Đông Nam Á hải đảo",
+    "Khí hậu nhiệt đới gió mùa thuận lợi cho lúa nước"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    53
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Sự ra đời của các quốc gia sơ kì",
+   "noi_dung": "Hai bạn cùng tìm hiểu về quá trình cư dân chuyển mình từ nông nghiệp, thủ công nghiệp sang hình thành các quốc gia đầu tiên.",
+   "kien_thuc_chot": [
+    "Cơ sở: Nông nghiệp lúa nước và nghề thủ công (đúc đồng, rèn sắt)",
+    "Thời gian: Từ thế kỉ VII TCN đến thế kỉ VII",
+    "Các quốc gia tiêu biểu: Văn Lang - Âu Lạc, Chăm-pa, Phù Nam"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị sự xuất hiện dần dần của các quốc gia sơ kì trên lược đồ Đông Nam Á theo dòng thời gian.",
+   "trang_sgk": [
+    54
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Những thương cảng sầm uất cổ đại",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã các hiện vật khảo cổ như tiền La Mã, chữ Phạn để thấy sự giao lưu thương mại quốc tế thời bấy giờ.",
+   "kien_thuc_chot": [
+    "Giao lưu kinh tế, văn hóa với Trung Quốc và Ấn Độ",
+    "Sự xuất hiện của các hải cảng sầm uất: Óc Eo, Ta-cô-la",
+    "Hiện vật khảo cổ chứng minh quan hệ buôn bán quốc tế"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng con đường hàng hải kết nối các quốc gia với các hiện vật (tiền vàng, gốm, tượng Phật) xuất hiện tại các điểm cảng.",
+   "trang_sgk": [
+    54,
+    55
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số tương tác: Học sinh kéo thả các hiện vật khảo cổ (tiền La Mã, mảnh gốm Hán, chữ Phạn) vào đúng vị trí các quốc gia sơ kì trên bản đồ để thấy mạng lưới giao thương.",
+ "id": "L6-B11",
+ "ten": "Các quốc gia sơ kì ở Đông Nam Á",
+ "lop": 6,
+ "chuong": "Chương 4. Đông Nam Á từ những thế kỉ tiếp giáp đầu Công nguyên đến thế kỉ X"
+}

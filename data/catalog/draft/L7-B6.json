@@ -1,0 +1,99 @@
+{
+ "muc_chinh": [
+  "Sự hình thành và phát triển của các vương quốc phong kiến",
+  "Những thành tựu văn hoá tiêu biểu"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả được quá trình hình thành, phát triển của các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI.",
+  "Giới thiệu và nhận xét được những thành tựu văn hoá tiêu biểu của khu vực."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Bản đồ Đông Nam Á: Những vương quốc trỗi dậy",
+   "noi_dung": "Nhật Minh và Hân Hân cùng nhìn lại bản đồ Đông Nam Á từ thế kỉ X đến XIII, khám phá sự trỗi dậy của Pa-gan, Cam-pu-chia và Sri Vi-giay-a.",
+   "kien_thuc_chot": [
+    "Các vương quốc cũ tiếp tục phát triển từ nửa sau thế kỉ X.",
+    "Pa-gan (Mi-an-ma), Cam-pu-chia (Khơ-me), Sri Vi-giay-a (Xu-ma-tơ-ra) là các quốc gia hùng mạnh."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác: Các vương quốc sáng đèn theo dòng thời gian từ thế kỉ X đến XIII.",
+   "trang_sgk": [
+    37
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Khi các vương quốc mới hình thành",
+   "noi_dung": "Nhật Minh và Hân Hân kể về giai đoạn thế kỉ XIII khi làn sóng ngoại xâm Mông - Nguyên thúc đẩy sự ra đời của các vương quốc lớn như Thái Lan, Lan Xang và Mô-giô-pa-hít.",
+   "kien_thuc_chot": [
+    "Sự xâm lược của Mông - Nguyên thúc đẩy liên kết quốc gia.",
+    "Hình thành các vương quốc: Su-khô-thay, A-út-thay-a (Thái Lan), Lan Xang (Lào), Mô-giô-pa-hít (In-đô-nê-xi-a)."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    38
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Ma-lắc-ca: 'Trái tim' thương mại Đông Nam Á",
+   "noi_dung": "Hân Hân đưa Nhật Minh đi chợ Ma-lắc-ca thế kỉ XV để thấy nơi đây là điểm kết nối giao thương toàn cầu.",
+   "kien_thuc_chot": [
+    "Ma-lắc-ca là trung tâm thương mại sầm uất, kết nối Á - Âu.",
+    "Kinh tế phát triển nhờ nông nghiệp lúa nước và thương mại đường biển."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Mô phỏng luồng hàng hóa từ Trung Quốc, Ấn Độ, Tây Á đổ về eo biển Ma-lắc-ca.",
+   "trang_sgk": [
+    38,
+    39
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tôn giáo và những trang viết đầu tiên",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về sự lan tỏa của Phật giáo Tiểu thừa, Hồi giáo và sự ra đời của chữ viết riêng của các dân tộc.",
+   "kien_thuc_chot": [
+    "Phật giáo Tiểu thừa và Hồi giáo là hai tôn giáo phổ biến.",
+    "Sáng tạo chữ viết riêng: Chữ Thái, chữ Lào, chữ Nôm (Việt Nam)."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    39,
+    40
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Kiệt tác kiến trúc Đông Nam Á",
+   "noi_dung": "Nhật Minh và Hân Hân chiêm ngưỡng các công trình vĩ đại như Ăng-co và Chùa Vàng, phân tích sự giao thoa văn hóa Ấn Độ - Trung Quốc.",
+   "kien_thuc_chot": [
+    "Kiến trúc tiêu biểu: Ăng-co (Cam-pu-chia), Chùa Vàng (Mi-an-ma, Thái Lan).",
+    "Văn hóa chịu ảnh hưởng Ấn Độ, Trung Quốc nhưng mang đậm bản sắc sáng tạo địa phương."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Xoay 3D các công trình kiến trúc Ăng-co và Chùa Vàng để học sinh quan sát chi tiết.",
+   "trang_sgk": [
+    40
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng vương quốc': Học sinh chọn vị trí trên bản đồ, chọn tôn giáo và chữ viết để hình thành vương quốc của riêng mình dựa trên các dữ liệu lịch sử đã học.",
+ "id": "L7-B6",
+ "ten": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+ "lop": 7,
+ "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI"
+}

@@ -1,0 +1,92 @@
+{
+ "muc_chinh": [
+  "Cuộc kháng chiến chống thực dân Pháp (1858 - 1874)",
+  "Phong trào kháng chiến chống thực dân Pháp lan rộng (1873 - 1884)",
+  "Trào lưu cải cách nửa sau thế kỉ XIX"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững quá trình Pháp xâm lược và sự phản kháng của quân dân ta",
+  "Phân tích được thái độ của triều đình nhà Nguyễn",
+  "Hiểu được ý nghĩa và hạn chế của các đề nghị cải cách"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Phát súng đầu tiên tại Đà Nẵng",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh năm 1858 khi Pháp lấy cớ bảo vệ đạo Gia Tô để tấn công Đà Nẵng, mở đầu quá trình xâm lược.",
+   "kien_thuc_chot": [
+    "Pháp tấn công Đà Nẵng năm 1858",
+    "Âm mưu đánh nhanh thắng nhanh của Pháp bị chặn đứng",
+    "Nguyễn Tri Phương chỉ huy quân dân kháng chiến"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Bản đồ 3D mô phỏng vị trí Đà Nẵng và các mũi tấn công của liên quân Pháp - Tây Ban Nha.",
+   "trang_sgk": [
+    79,
+    80
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Nam Kì dậy sóng: Những người anh hùng",
+   "noi_dung": "Câu chuyện về tinh thần bất khuất của Trương Định, Nguyễn Trung Trực và Nguyễn Hữu Huân trước sự bạc nhược của triều đình.",
+   "kien_thuc_chot": [
+    "Hiệp ước Nhâm Tuất 1862 cắt 3 tỉnh miền Đông Nam Kì cho Pháp",
+    "Trương Định được nhân dân suy tôn là Bình Tây Đại Nguyên soái",
+    "Nguyễn Trung Trực với câu nói bất hủ về lòng yêu nước"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    80,
+    81
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Hà Nội thất thủ: Hai lần kháng chiến",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích diễn biến Pháp đánh Bắc Kì lần 1 (1873) và lần 2 (1882), cùng sự hy sinh của Nguyễn Tri Phương và Hoàng Diệu.",
+   "kien_thuc_chot": [
+    "Pháp đánh chiếm Hà Nội năm 1873 và 1882",
+    "Chiến thắng Cầu Giấy lần 1 và lần 2 tiêu diệt Gác-ni-ê và Ri-vi-e",
+    "Triều đình kí Hiệp ước Giáp Tuất, Hác-măng và Pa-tơ-nốt"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ dòng thời gian tương tác về các hiệp ước và các trận đánh lớn tại Cầu Giấy.",
+   "trang_sgk": [
+    82,
+    83,
+    84
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Những bản điều trần tâm huyết",
+   "noi_dung": "Tìm hiểu về các sĩ phu yêu nước như Nguyễn Trường Tộ, Nguyễn Lộ Trạch với những đề nghị cải cách đất nước nhưng không thành.",
+   "kien_thuc_chot": [
+    "Các đề nghị tập trung vào kinh tế, quân sự, giáo dục",
+    "Nguyên nhân thất bại do tư tưởng bảo thủ của triều đình",
+    "Ý nghĩa: Tiền đề tư tưởng cho phong trào Duy tân đầu thế kỉ XX"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    84,
+    85
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số Việt Nam: Học sinh nhấn vào từng tỉnh/thành để xem diễn biến quân Pháp tấn công và các cuộc khởi nghĩa tương ứng tại địa phương đó theo dòng thời gian.",
+ "id": "L8-B17",
+ "ten": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+ "lop": 8,
+ "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX"
+}

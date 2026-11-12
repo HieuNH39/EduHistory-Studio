@@ -1,0 +1,92 @@
+{
+ "muc_chinh": [
+  "Sự phát hiện ra kim loại và bước tiến của xã hội nguyên thủy",
+  "Sự thay đổi trong đời sống xã hội",
+  "Sự tan rã của xã hội nguyên thủy ở Việt Nam"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày vai trò của kim loại trong sự phân hóa xã hội",
+  "Giải thích nguyên nhân xã hội nguyên thủy tan rã",
+  "Nêu nét cơ bản về các nền văn hóa đồ đồng ở Việt Nam"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Cuộc cách mạng từ đá sang kim loại",
+   "noi_dung": "Nhật Minh và Hân Hân cùng khám phá cách con người phát hiện ra đồng và sắt, thay thế công cụ đá bằng kim loại giúp năng suất lao động tăng vọt.",
+   "kien_thuc_chot": [
+    "Thiên niên kỉ IV TCN, con người phát hiện kim loại.",
+    "Công cụ kim loại (lưỡi cày, rìu) giúp khai hoang và mở rộng diện tích trồng trọt.",
+    "Xuất hiện các ngành nghề chuyên môn hóa: luyện kim, dệt vải, làm gốm."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ chuyển đổi từ công cụ đá sang công cụ đồng/sắt, hiển thị sự gia tăng sản phẩm dư thừa.",
+   "trang_sgk": [
+    26,
+    27
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Tại sao xã hội nguyên thủy tan rã?",
+   "noi_dung": "Hai bạn nhỏ thảo luận về sự thay đổi trong gia đình phụ hệ và sự phân hóa giàu nghèo dẫn đến sự tan rã của xã hội nguyên thủy.",
+   "kien_thuc_chot": [
+    "Gia đình phụ hệ thay thế thị tộc mẫu hệ.",
+    "Của cải dư thừa dẫn đến phân hóa giàu nghèo.",
+    "Ở phương Đông, sự phân hóa diễn ra sớm nhưng không triệt để do nhu cầu liên kết làm thủy lợi."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    27
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Dấu ấn văn hóa đồ đồng trên đất Việt",
+   "noi_dung": "Nhật Minh và Hân Hân điểm qua các nền văn hóa Phùng Nguyên, Đồng Đậu, Gò Mun, tiền Sa Huỳnh và Đồng Nai qua các hiện vật khảo cổ.",
+   "kien_thuc_chot": [
+    "Từ 4000 năm trước, cư dân Việt Nam đã biết dùng đồ đồng.",
+    "Các nền văn hóa tiêu biểu: Phùng Nguyên, Đồng Đậu, Gò Mun (Bắc Bộ), tiền Sa Huỳnh (Trung Bộ), Đồng Nai (Nam Bộ).",
+    "Sự phát triển kinh tế là tiền đề cho các quốc gia cổ đầu tiên."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Việt Nam tương tác: nhấn vào từng vùng để hiện hiện vật đặc trưng của văn hóa đó.",
+   "trang_sgk": [
+    28,
+    29
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tổng kết: Từ công xã đến quốc gia",
+   "noi_dung": "Nhật Minh và Hân Hân tóm tắt lại hành trình tiến hóa của xã hội nguyên thủy và ý nghĩa của sự chuyển biến này.",
+   "kien_thuc_chot": [
+    "Kim loại là chìa khóa thay đổi đời sống con người.",
+    "Sự phân hóa xã hội là tất yếu để hình thành nhà nước.",
+    "Việt Nam có quá trình phát triển đồ đồng phong phú, ổn định."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    26,
+    27,
+    28,
+    29
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác các nền văn hóa đồ đồng tại Việt Nam: Học sinh kéo thả các hiện vật (rìu, mũi tên, lưỡi câu) vào đúng khu vực địa lý tương ứng trên bản đồ.",
+ "id": "L6-B6",
+ "ten": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+ "lop": 6,
+ "chuong": "Chương 2. Xã hội nguyên thuỷ"
+}

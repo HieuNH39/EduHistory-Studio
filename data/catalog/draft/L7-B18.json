@@ -1,0 +1,87 @@
+{
+ "muc_chinh": [
+  "Vương quốc Chăm-pa từ thế kỉ X đến đầu thế kỉ XVI",
+  "Lược sử vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững đặc điểm chính trị, kinh tế, văn hóa của Chăm-pa và Nam Bộ giai đoạn thế kỉ X - XVI."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Chăm-pa: Vương triều Vi-giay-a thịnh vượng",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá sự hình thành vương triều Vi-giay-a và câu chuyện hôn nhân lịch sử giữa công chúa Huyền Trân và vua Chế Mân.",
+   "kien_thuc_chot": [
+    "Năm 988, Vương triều Vi-giay-a được thành lập.",
+    "Kinh đô đặt tại Đồ Bàn (An Nhơn, Bình Định).",
+    "Năm 1306, cuộc hôn nhân giữa công chúa Huyền Trân và vua Chế Mân."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển kinh đô từ các vùng phía nam lên Đồ Bàn.",
+   "trang_sgk": [
+    92,
+    93
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bí ẩn những ngôi tháp Chăm nghìn năm",
+   "noi_dung": "Hai bạn nhỏ tìm hiểu về kỹ thuật xây tháp độc đáo không dùng vữa và đời sống văn hóa, tôn giáo phong phú của người Chăm.",
+   "kien_thuc_chot": [
+    "Kỹ thuật xây tháp bằng gạch nung không dùng vữa.",
+    "Hin-đu giáo và Phật giáo là tôn giáo chính.",
+    "Nổi tiếng với vũ điệu Áp-sa-ra và các cụm tháp như Pô Klong Ga-rai."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Cận cảnh 3D mô phỏng cách xếp gạch và các phù điêu trang trí trên tháp.",
+   "trang_sgk": [
+    94,
+    95
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Nam Bộ: Vùng đất của những lưu dân",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã vì sao vùng đất Nam Bộ thời kỳ này lại thưa vắng và quá trình người Việt bắt đầu khai hoang.",
+   "kien_thuc_chot": [
+    "Sau thế kỉ VII, Nam Bộ thuộc quyền quản lí danh nghĩa của Chân Lạp.",
+    "Do điều kiện tự nhiên khắc nghiệt, dân cư thưa thớt.",
+    "Từ thế kỉ XIV, lưu dân người Việt bắt đầu đến khai hoang tại Mô Xoài và Đồng Nai."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thể hiện sự dịch chuyển của các nhóm lưu dân từ phía Bắc vào vùng đất Nam Bộ.",
+   "trang_sgk": [
+    95,
+    96
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Cuộc sống sông nước Nam Bộ xưa",
+   "noi_dung": "Tổng kết về đời sống kinh tế, văn hóa bình dân của cư dân Nam Bộ trong môi trường sông nước.",
+   "kien_thuc_chot": [
+    "Kinh tế chủ yếu là lúa nước, chăn nuôi và đánh bắt thủy hải sản.",
+    "Văn hóa mang tính bình dân, giao thoa giữa các nền văn hóa.",
+    "Tín ngưỡng dân gian, Phật giáo và Hin-đu giáo cùng tồn tại."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    96
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng kéo thả các biểu tượng (tháp Chăm, cảng biển, làng khai hoang) vào đúng vị trí địa lí trên bản đồ Việt Nam thế kỉ X-XVI.",
+ "id": "L7-B18",
+ "ten": "Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+ "lop": 7,
+ "chuong": "Chương 7. Vùng đất phía Nam Việt Nam từ đầu thế kỉ X đến đầu thế kỉ XVI"
+}

@@ -1,0 +1,93 @@
+{
+ "muc_chinh": [
+  "Khởi nghĩa Hai Bà Trưng",
+  "Khởi nghĩa Bà Triệu",
+  "Khởi nghĩa Lý Bí và sự thành lập nước Vạn Xuân",
+  "Khởi nghĩa Mai Thúc Loan",
+  "Khởi nghĩa Phùng Hưng"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được nguyên nhân, diễn biến, kết quả và ý nghĩa của các cuộc khởi nghĩa tiêu biểu thời Bắc thuộc."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hai Bà Trưng phất cờ khởi nghĩa",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh chính sách cai trị hà khắc của nhà Hán và sự kiện Hai Bà Trưng dựng cờ khởi nghĩa tại Mê Linh năm 40.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Chính sách cai trị hà khắc của nhà Hán.",
+    "Thời gian: Năm 40.",
+    "Kết quả: Đánh đuổi Tô Định, giành quyền tự chủ, đóng đô ở Mê Linh."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển của nghĩa quân từ sông Hát đến Luy Lâu.",
+   "trang_sgk": [
+    72,
+    73,
+    74
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bà Triệu - Nữ tướng cưỡi voi",
+   "noi_dung": "Câu chuyện về người nữ anh hùng Triệu Thị Trinh với khát vọng tự do, cưỡi voi ra trận chống lại nhà Ngô năm 248.",
+   "kien_thuc_chot": [
+    "Thời gian: Năm 248.",
+    "Địa bàn: Núi Nưa (Thanh Hóa).",
+    "Ý nghĩa: Thức tỉnh ý thức dân tộc, tạo đà cho các cuộc khởi nghĩa sau này."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    75,
+    76
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Lý Bí và nước Vạn Xuân",
+   "noi_dung": "Hân Hân và Nhật Minh tái hiện sự kiện Lý Bí xưng Đế, lập nước Vạn Xuân, khẳng định chủ quyền dân tộc thế kỉ VI.",
+   "kien_thuc_chot": [
+    "Năm 544, Lý Bí xưng Lý Nam Đế, lập nước Vạn Xuân.",
+    "Đóng đô ở cửa sông Tô Lịch.",
+    "Ý nghĩa: Khẳng định ý chí độc lập, mở đường cho các triều đại sau này."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng sơ đồ tổ chức triều đình Vạn Xuân và chùa Khai Quốc.",
+   "trang_sgk": [
+    76,
+    77
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Mai Thúc Loan và Phùng Hưng: Những ngọn lửa bất khuất",
+   "noi_dung": "Hai bạn nhỏ tổng kết về cuộc khởi nghĩa Mai Thúc Loan (713-722) và Phùng Hưng, nhấn mạnh tinh thần chống Bắc thuộc bền bỉ.",
+   "kien_thuc_chot": [
+    "Mai Thúc Loan: Xây thành Vạn An, làm chủ Hoan Châu.",
+    "Phùng Hưng: Chiếm thành Tống Bình, được tôn là Bố Cái Đại Vương.",
+    "Ý nghĩa chung: Khẳng định quyết tâm giành độc lập, tạo tiền đề cho thắng lợi cuối cùng."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ so sánh phạm vi ảnh hưởng của hai cuộc khởi nghĩa.",
+   "trang_sgk": [
+    77,
+    78,
+    79
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bảng tương tác: Học sinh kéo thả các thẻ thông tin (tên thủ lĩnh, năm, địa điểm) vào đúng cột của cuộc khởi nghĩa tương ứng trên bản đồ Việt Nam thời Bắc thuộc.",
+ "id": "L6-B16",
+ "ten": "Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

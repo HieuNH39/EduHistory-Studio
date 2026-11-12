@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Liên Xô từ năm 1945 đến năm 1991",
+  "Các nước Đông Âu từ năm 1945 đến năm 1991"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày tình hình chính trị, kinh tế, xã hội, văn hóa của Liên Xô và Đông Âu",
+  "Giải thích nguyên nhân sụp đổ của chế độ xã hội chủ nghĩa"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Liên Xô: Từ cường quốc đến khủng hoảng",
+   "noi_dung": "Nhật Minh và Hân Hân cùng nhìn lại chặng đường từ khôi phục kinh tế đến khi trở thành cường quốc công nghiệp và sự khởi đầu của công cuộc cải tổ.",
+   "kien_thuc_chot": [
+    "Liên Xô phục hồi kinh tế nhanh chóng sau 1945",
+    "Trở thành cường quốc công nghiệp thứ 2 thế giới",
+    "Tiên phong trong chinh phục vũ trụ (1957, 1961)",
+    "Khủng hoảng bắt đầu từ giữa những năm 70"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ nhiệt thể hiện sự tăng trưởng công nghiệp và các mốc phóng vệ tinh/tàu vũ trụ",
+   "trang_sgk": [
+    46,
+    47
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Sự tan rã của Liên bang Xô viết",
+   "noi_dung": "Phân tích nguyên nhân dẫn đến sự sụp đổ của Liên Xô sau công cuộc cải tổ của Goóc-ba-chốp.",
+   "kien_thuc_chot": [
+    "Cải tổ thiếu đồng bộ, khủng hoảng kinh tế trầm trọng",
+    "Chính trị đa nguyên, đa đảng gây bất ổn",
+    "Ngày 25/12/1991: Liên bang Xô viết tan rã"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Đồ thị đường biểu diễn sự suy giảm kinh tế và các cột mốc chính trị chính",
+   "trang_sgk": [
+    47
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đông Âu: Từ dân chủ nhân dân đến thay đổi chế độ",
+   "noi_dung": "Hân Hân và Nhật Minh khám phá sự hình thành các nước dân chủ nhân dân Đông Âu và bước ngoặt năm 1989.",
+   "kien_thuc_chot": [
+    "Hình thành các nhà nước dân chủ nhân dân sau 1945",
+    "Hợp tác kinh tế qua khối SEV",
+    "Từ năm 1989, chế độ xã hội chủ nghĩa ở Đông Âu sụp đổ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Lược đồ tương tác các nước Đông Âu trong khối SEV",
+   "trang_sgk": [
+    48,
+    49
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tại sao chủ nghĩa xã hội sụp đổ?",
+   "noi_dung": "Tổng kết bài học, giải mã lý do tại sao hệ thống xã hội chủ nghĩa ở Liên Xô và Đông Âu không duy trì được.",
+   "kien_thuc_chot": [
+    "Kinh tế trì trệ, thiếu hiệu quả",
+    "Sai lầm trong cải cách, buông lỏng quản lý",
+    "Sự chống phá của các thế lực thù địch",
+    "Mất niềm tin của nhân dân"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    48,
+    50
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo-thả: Học sinh sắp xếp các sự kiện kinh tế và chính trị vào dòng thời gian từ 1945 đến 1991 để thấy được sự chuyển biến từ phát triển sang khủng hoảng.",
+ "id": "L9-B10",
+ "ten": "Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+ "lop": 9,
+ "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991"
+}

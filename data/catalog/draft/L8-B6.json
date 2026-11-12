@@ -1,0 +1,86 @@
+{
+ "muc_chinh": [
+  "Khái quát về quá trình khai phá vùng đất phía Nam",
+  "Kết quả, ý nghĩa của công cuộc khai phá"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày khái quát công cuộc khai phá từ thế kỉ XVI đến XVIII",
+  "Đánh giá vai trò của chúa Nguyễn và ý nghĩa lịch sử",
+  "Hiểu về việc xác lập chủ quyền tại Hoàng Sa, Trường Sa"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hành trình về phương Nam",
+   "noi_dung": "Nhật Minh và Hân Hân kể về dấu mốc năm 1558 khi Nguyễn Hoàng vào trấn thủ Thuận Hóa, bắt đầu công cuộc mở mang bờ cõi.",
+   "kien_thuc_chot": [
+    "Năm 1558, Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+    "Dân cư Thuận - Quảng ban đầu còn thưa thớt",
+    "Chúa Nguyễn đẩy mạnh khai hoang và củng cố bộ máy chính quyền"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    30
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Xây dựng vùng đất mới",
+   "noi_dung": "Hai bạn nhỏ khám phá cách các chúa Nguyễn tổ chức hành chính, lập phủ Gia Định và các chính sách khuyến khích khai hoang.",
+   "kien_thuc_chot": [
+    "Năm 1698, Nguyễn Hữu Cảnh đặt phủ Gia Định",
+    "Chính sách: cấp công cụ, miễn giảm thuế, khuyến khích khai hoang",
+    "Hình thành các trung tâm thương mại: Nông Nại Đại Phố, Gia Định, Bến Nghé"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện sự mở rộng lãnh thổ từ Thuận Hóa đến Gia Định theo các mốc thời gian 1611, 1653, 1698.",
+   "trang_sgk": [
+    31
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Chủ quyền biển đảo từ xa xưa",
+   "noi_dung": "Nhật Minh và Hân Hân tìm hiểu về hoạt động của đội Hoàng Sa và đội Bắc Hải trong việc thực thi chủ quyền tại Biển Đông.",
+   "kien_thuc_chot": [
+    "Chúa Nguyễn chú trọng thực thi chủ quyền biển đảo",
+    "Đội Hoàng Sa và đội Bắc Hải hoạt động có tổ chức, liên tục",
+    "Khẳng định chủ quyền Việt Nam tại Hoàng Sa và Trường Sa từ thế kỉ XVII-XVIII"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng hình ảnh thuyền buồm của đội Hoàng Sa di chuyển giữa các đảo trên bản đồ Biển Đông.",
+   "trang_sgk": [
+    31
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản của cha ông",
+   "noi_dung": "Tổng kết ý nghĩa của công cuộc khai phá đối với lãnh thổ và văn hóa dân tộc Việt Nam.",
+   "kien_thuc_chot": [
+    "Mở rộng lãnh thổ từ dải Hoành Sơn đến mũi Cà Mau",
+    "Vùng đất phía Nam trở thành một phần lãnh thổ không thể tách rời",
+    "Sự hòa hợp văn hóa của cộng đồng cư dân Việt"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    32
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng kéo thả các mốc thời gian (1611, 1653, 1698, 1757) vào các vùng đất tương ứng trên bản đồ miền Nam để thấy sự hình thành các đơn vị hành chính.",
+ "id": "L8-B6",
+ "ten": "Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+ "lop": 8,
+ "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII"
+}

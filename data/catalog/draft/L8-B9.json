@@ -1,0 +1,85 @@
+{
+ "muc_chinh": [
+  "Tình hình kinh tế (Nông nghiệp, Thủ công nghiệp, Thương nghiệp)",
+  "Tình hình văn hoá (Tư tưởng, Tôn giáo, Chữ viết, Văn học, Nghệ thuật)"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được nét chính về kinh tế, văn hóa, tôn giáo thế kỉ XVI-XVIII",
+  "Nhận xét được sự chuyển biến văn hóa, tôn giáo trong giai đoạn này"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nông nghiệp Đàng Trong - Đàng Ngoài: Hai bức tranh đối lập",
+   "noi_dung": "Nhật Minh và Hân Hân so sánh sự sa sút nông nghiệp ở Đàng Ngoài do xung đột và sự phát triển mạnh mẽ tại Đàng Trong.",
+   "kien_thuc_chot": [
+    "Đàng Ngoài: Nông nghiệp sa sút, ruộng đất công thành tư, nông dân phiêu tán.",
+    "Đàng Trong: Khai hoang phát triển, nông nghiệp thịnh vượng ở đồng bằng sông Cửu Long."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ so sánh sự thay đổi diện tích canh tác giữa hai Đàng",
+   "trang_sgk": [
+    44
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Check-in làng nghề và phố thị sầm uất",
+   "noi_dung": "Hân Hân đưa Nhật Minh đi dạo qua các làng nghề nổi tiếng như Bát Tràng, Thổ Hà và các thương cảng sầm uất như Hội An, Phố Hiến.",
+   "kien_thuc_chot": [
+    "Thủ công nghiệp: Phát triển mạnh các làng nghề gốm, dệt, rèn.",
+    "Thương nghiệp: Hình thành các đô thị, cảng thị như Hội An, Phố Hiến.",
+    "Cuối thế kỉ XVIII: Ngoại thương suy tàn do chính sách hạn chế của chính quyền."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D tái hiện cảnh tấp nập tại cảng thị Hội An",
+   "trang_sgk": [
+    45,
+    46
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Sự ra đời của chữ Quốc ngữ và văn học Nôm",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã nguồn gốc chữ Quốc ngữ và sự nở rộ của văn học chữ Nôm cùng các danh nhân như Nguyễn Bỉnh Khiêm.",
+   "kien_thuc_chot": [
+    "Tôn giáo: Nho giáo giữ vị trí chủ đạo, Phật giáo, Đạo giáo phục hồi, Công giáo du nhập.",
+    "Chữ viết: Chữ Quốc ngữ ra đời từ nhu cầu truyền đạo của giáo sĩ phương Tây.",
+    "Văn học: Văn học chữ Nôm phát triển mạnh, tiêu biểu là Thiên Nam ngữ lục."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    46,
+    47
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Nghệ thuật dân gian: Hồn cốt Việt thế kỉ XVI-XVIII",
+   "noi_dung": "Hai bạn nhỏ khám phá vẻ đẹp độc đáo của điêu khắc đình chùa và các loại hình sân khấu truyền thống.",
+   "kien_thuc_chot": [
+    "Điêu khắc: Chạm khắc đình chùa tinh xảo, tượng Phật đặc sắc.",
+    "Sân khấu: Phát triển chèo, tuồng, ả đào và các điệu múa dân gian."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    47
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng bấm vào các địa danh (Bát Tràng, Hội An, Phố Hiến, Thổ Hà) để xem hình ảnh hiện vật và thông tin kinh tế tương ứng.",
+ "id": "L8-B9",
+ "ten": "Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+ "lop": 8,
+ "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII"
+}

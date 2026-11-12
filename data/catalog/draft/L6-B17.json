@@ -1,0 +1,68 @@
+{
+ "muc_chinh": [
+  "Sức sống của nền văn hoá bản địa",
+  "Tiếp thu có chọn lọc văn hoá Trung Hoa"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được cách người Việt giữ gìn văn hóa bản địa thời Bắc thuộc",
+  "Phân tích được sự tiếp thu có chọn lọc văn hóa Trung Hoa để phát triển văn hóa dân tộc"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao văn hóa Việt không bị đồng hóa?",
+   "noi_dung": "Nhật Minh và Hân Hân đặt vấn đề về việc dù bị phương Bắc đô hộ hàng nghìn năm, văn hóa Việt vẫn tồn tại bền bỉ.",
+   "kien_thuc_chot": [
+    "Người Việt có ý thức giữ gìn văn hóa bản địa",
+    "Tiếng Việt được truyền dạy qua các thế hệ",
+    "Tín ngưỡng thờ cúng tổ tiên và thần tự nhiên được duy trì"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    78
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Những phong tục 'không thể mất'",
+   "noi_dung": "Hân Hân kể về những phong tục đặc trưng như búi tóc, xăm mình, nhuộm răng đen, ăn trầu của người Việt cổ.",
+   "kien_thuc_chot": [
+    "Tục xăm mình để tránh thủy quái",
+    "Tục ăn trầu gắn liền với sự tích Trầu Cau",
+    "Các phong tục vẫn lưu truyền trong làng xã dù bị áp lực đồng hóa"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Hoạt hình 2D mô phỏng cảnh sinh hoạt làng xã Việt cổ với các chi tiết: búi tóc, nhuộm răng, ăn trầu.",
+   "trang_sgk": [
+    78
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Tiếp thu văn hóa: Chọn lọc hay hòa tan?",
+   "noi_dung": "Nhật Minh giải thích cách người Việt học hỏi kỹ thuật, chữ viết từ phương Bắc nhưng vẫn giữ bản sắc riêng.",
+   "kien_thuc_chot": [
+    "Tiếp thu kỹ thuật làm giấy, đồ thủy tinh",
+    "Tiếp thu chữ Hán, tư tưởng nhưng vẫn giữ truyền thống tôn trọng người già, phụ nữ",
+    "Tiếp thu Phật giáo, Đạo giáo nhưng hòa nhập với tín ngưỡng dân gian"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tư duy dạng kéo thả: Phân loại các yếu tố văn hóa tiếp thu (Kỹ thuật, Chữ viết, Tôn giáo) và cách người Việt biến đổi chúng.",
+   "trang_sgk": [
+    79
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Chiếc hộp văn hóa': Học sinh kéo các thẻ bài (ví dụ: Ăn trầu, Chữ Hán, Làm giấy, Thờ cúng tổ tiên) vào hai giỏ: 'Bản địa' hoặc 'Tiếp thu có chọn lọc' để thấy sự hòa quyện của hai dòng chảy văn hóa.",
+ "id": "L6-B17",
+ "ten": "Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

@@ -1,0 +1,108 @@
+{
+ "muc_chinh": [
+  "Sự thành lập và củng cố quyền thống trị của nhà Nguyễn",
+  "Tình hình kinh tế, xã hội Việt Nam nửa đầu thế kỉ XIX",
+  "Sự phát triển của văn hoá Việt Nam nửa đầu thế kỉ XIX",
+  "Quá trình thực thi chủ quyền đối với quần đảo Hoàng Sa và Trường Sa"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả sự ra đời nhà Nguyễn",
+  "Trình bày tình hình chính trị, kinh tế, xã hội, văn hóa",
+  "Khẳng định chủ quyền biển đảo thời Nguyễn"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Sự ra đời của vương triều cuối cùng",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh năm 1802, khi Nguyễn Ánh đánh bại nhà Tây Sơn và lập ra triều Nguyễn, chọn Phú Xuân làm kinh đô.",
+   "kien_thuc_chot": [
+    "Năm 1802, Nguyễn Ánh lên ngôi, lấy hiệu là Gia Long.",
+    "Kinh đô đặt tại Phú Xuân (Huế).",
+    "Nhà Nguyễn là vương triều phong kiến cuối cùng trong lịch sử Việt Nam."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    73
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cải cách Minh Mạng: Đỉnh cao quyền lực",
+   "noi_dung": "Hai bạn dẫn chuyện giải thích cách vua Minh Mạng hoàn thiện bộ máy nhà nước, chia cả nước thành 30 tỉnh và 1 phủ.",
+   "kien_thuc_chot": [
+    "Vua Minh Mạng thực hiện cải cách hành chính (1831-1832).",
+    "Cả nước chia thành 30 tỉnh và 1 phủ Thừa Thiên.",
+    "Ban hành bộ Hoàng Việt luật lệ (Luật Gia Long) để quản lý đất nước."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Việt Nam thời Nguyễn với hiệu ứng phân chia các tỉnh dần dần trên màn hình.",
+   "trang_sgk": [
+    74
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kinh tế và xã hội: Những mâu thuẫn âm ỉ",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích sự phát triển của khai hoang, nghề thủ công đối lập với chính sách bế quan tỏa cảng và các cuộc khởi nghĩa nông dân.",
+   "kien_thuc_chot": [
+    "Nông nghiệp: chú trọng khai hoang (Tiền Hải, Kim Sơn).",
+    "Thủ công nghiệp phát triển nhưng bị hạn chế bởi chính sách bế quan tỏa cảng.",
+    "Mâu thuẫn xã hội gay gắt dẫn đến hàng trăm cuộc khởi nghĩa (Phan Bá Vành, Cao Bá Quát...)."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    75
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản văn hóa rực rỡ thời Nguyễn",
+   "noi_dung": "Khám phá những thành tựu văn học, nghệ thuật và sử học tiêu biểu như Truyện Kiều, Nhã nhạc cung đình và các bộ sử lớn.",
+   "kien_thuc_chot": [
+    "Văn học chữ Nôm phát triển rực rỡ (Nguyễn Du, Hồ Xuân Hương).",
+    "Nhã nhạc cung đình Huế là di sản thế giới.",
+    "Nhiều công trình sử học, địa lý giá trị như Đại Nam thực lục."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    76,
+    77
+   ],
+   "uu_tien": "P3"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Khẳng định chủ quyền biển đảo",
+   "noi_dung": "Nhật Minh và Hân Hân trình bày bằng chứng lịch sử về việc vua Gia Long và Minh Mạng thực thi chủ quyền tại Hoàng Sa và Trường Sa.",
+   "kien_thuc_chot": [
+    "Nhà Nguyễn lập đội Hoàng Sa và Bắc Hải để quản lý biển đảo.",
+    "Năm 1816, vua Gia Long cắm cờ khẳng định chủ quyền.",
+    "Năm 1836, vua Minh Mạng sai Phạm Hữu Nhật đo đạc, dựng bia, trồng cây tại Hoàng Sa.",
+    "Đại Nam nhất thống toàn đồ thể hiện rõ Hoàng Sa, Trường Sa thuộc Việt Nam."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng hành trình thuyền của đội Hoàng Sa trên biển với các điểm mốc lịch sử xuất hiện theo thời gian.",
+   "trang_sgk": [
+    77,
+    78
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Học sinh click vào các tỉnh trên bản đồ thời Nguyễn để xem thông tin hành chính, hoặc click vào các quần đảo để xem tư liệu lịch sử khẳng định chủ quyền.",
+ "id": "L8-B16",
+ "ten": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+ "lop": 8,
+ "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX"
+}

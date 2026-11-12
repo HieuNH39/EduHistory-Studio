@@ -1,0 +1,93 @@
+{
+ "muc_chinh": [
+  "Tình hình nước Pháp trước cách mạng",
+  "Diễn biến chính của Cách mạng tư sản Pháp",
+  "Kết quả, ý nghĩa, tính chất và đặc điểm của Cách mạng"
+ ],
+ "yeu_cau_can_dat": [
+  "Xác định vị trí địa lý",
+  "Trình bày nguyên nhân, kết quả, ý nghĩa, tính chất",
+  "Nêu đặc điểm chính"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao nước Pháp bùng nổ cách mạng?",
+   "noi_dung": "Nhật Minh và Hân Hân cùng khám phá sự bất công trong xã hội Pháp cũ với 3 đẳng cấp và sự khủng hoảng của chế độ quân chủ.",
+   "kien_thuc_chot": [
+    "Pháp là nước nông nghiệp lạc hậu, công thương nghiệp bị kìm hãm",
+    "Xã hội chia 3 đẳng cấp: Tăng lữ, Quý tộc và Đẳng cấp thứ ba",
+    "Đẳng cấp thứ ba chịu mọi thuế, không có quyền chính trị",
+    "Vua Lu-i XVI khủng hoảng tài chính, tăng thuế dẫn đến mâu thuẫn gay gắt"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tháp xã hội Pháp: Đỉnh là Tăng lữ/Quý tộc, đáy là Đẳng cấp thứ ba (nông dân, tư sản) đang gánh nặng trên vai.",
+   "trang_sgk": [
+    12,
+    13
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Triết học Ánh sáng - Ngọn đuốc soi đường",
+   "noi_dung": "Hai bạn tìm hiểu về vai trò của các nhà tư tưởng như Mông-te-xki-ơ, Vôn-te, Rút-xô trong việc dọn đường cho cách mạng.",
+   "kien_thuc_chot": [
+    "Trào lưu Triết học Ánh sáng đả phá chế độ phong kiến và Giáo hội",
+    "Mông-te-xki-ơ chủ trương hạn chế quyền vua",
+    "Vôn-te đề cao tự do tín ngưỡng",
+    "Rút-xô ủng hộ thiết lập chế độ cộng hoà"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    13
+   ],
+   "uu_tien": "P3"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Ngày 14/7: Khi pháo đài Ba-xti sụp đổ",
+   "noi_dung": "Tái hiện diễn biến chính từ cuộc tấn công nhà tù Ba-xti đến khi thiết lập nền cộng hoà.",
+   "kien_thuc_chot": [
+    "14/7/1789: Tấn công nhà tù Ba-xti, mở đầu cách mạng",
+    "26/8/1789: Thông qua Tuyên ngôn Nhân quyền và Dân quyền",
+    "10/8/1792: Lật đổ chế độ quân chủ, thiết lập nền cộng hoà đầu tiên",
+    "Cách mạng kết thúc ngày 27/7/1794"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác: Đánh dấu sự kiện tại Paris và các mốc thời gian chuyển biến từ quân chủ lập hiến sang cộng hoà.",
+   "trang_sgk": [
+    13,
+    15
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản của cuộc đại cách mạng",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết ý nghĩa lịch sử và đặc điểm của cuộc cách mạng tư sản điển hình nhất châu Âu.",
+   "kien_thuc_chot": [
+    "Lật đổ chế độ phong kiến, đưa tư sản lên cầm quyền",
+    "Truyền bá tư tưởng Tự do - Bình đẳng - Bác ái",
+    "Là cuộc cách mạng dân chủ tư sản điển hình",
+    "Diễn ra dưới hình thức đấu tranh giai cấp quyết liệt"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    14
+   ],
+   "uu_tien": "P2"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ số: Người dùng nhấn vào các mốc thời gian trên dòng thời gian (timeline) để xem diễn biến tại Paris và các văn kiện quan trọng (Tuyên ngôn Nhân quyền) xuất hiện tương ứng.",
+ "id": "L8-B2",
+ "ten": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+ "lop": 8,
+ "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII"
+}

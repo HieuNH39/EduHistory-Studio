@@ -1,0 +1,68 @@
+{
+ "muc_chinh": [
+  "Vì sao phải xác định thời gian trong lịch sử?",
+  "Các cách tính thời gian trong lịch sử",
+  "Công lịch và cách phân chia thời gian"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu tầm quan trọng của việc xác định thời gian",
+  "Phân biệt âm lịch, dương lịch và Công lịch",
+  "Biết cách tính thập kỉ, thế kỉ, thiên niên kỉ"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao lịch sử cần thời gian?",
+   "noi_dung": "Nhật Minh và Hân Hân cùng quan sát tờ lịch treo tường và giải thích vì sao cần sắp xếp các sự kiện theo đúng trình tự để hiểu về quá khứ.",
+   "kien_thuc_chot": [
+    "Lịch sử là những gì đã xảy ra theo trình tự thời gian",
+    "Xác định thời gian giúp dựng lại bức tranh lịch sử chính xác"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    16
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Âm lịch hay Dương lịch?",
+   "noi_dung": "Hai bạn dẫn chuyện so sánh sự khác biệt giữa cách tính lịch dựa trên Mặt Trăng và Mặt Trời của các nền văn minh cổ đại.",
+   "kien_thuc_chot": [
+    "Âm lịch: dựa vào chu kì Mặt Trăng quanh Trái Đất",
+    "Dương lịch: dựa vào chu kì Trái Đất quanh Mặt Trời"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Đồ họa động mô phỏng quỹ đạo Mặt Trăng quanh Trái Đất và Trái Đất quanh Mặt Trời",
+   "trang_sgk": [
+    17
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Giải mã Công lịch",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích về Công lịch, cách tính năm trước và sau Công nguyên, cùng các đơn vị thời gian lớn.",
+   "kien_thuc_chot": [
+    "Công lịch lấy năm Chúa Giê-su ra đời làm năm đầu tiên",
+    "Thập kỉ = 10 năm, Thế kỉ = 100 năm, Thiên niên kỉ = 1000 năm",
+    "Cách tính khoảng cách năm giữa TCN và Công nguyên"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác kéo thả để tính khoảng cách giữa các mốc năm TCN và Công nguyên",
+   "trang_sgk": [
+    17
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Thước đo thời gian': Học sinh kéo các sự kiện lịch sử (như năm Thục Phán lập nước Âu Lạc) vào đúng vị trí trên trục thời gian để xem nó thuộc thế kỉ nào và cách hiện tại bao nhiêu năm.",
+ "id": "L6-B3",
+ "ten": "Thời gian trong lịch sử",
+ "lop": 6,
+ "chuong": "Chương 1. Vì sao phải học lịch sử?"
+}

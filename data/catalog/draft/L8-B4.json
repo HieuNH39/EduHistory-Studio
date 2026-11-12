@@ -1,0 +1,90 @@
+{
+ "muc_chinh": [
+  "Khái quát quá trình xâm nhập của thực dân phương Tây",
+  "Tình hình Đông Nam Á dưới ách đô hộ",
+  "Cuộc đấu tranh chống thực dân của nhân dân Đông Nam Á"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày quá trình xâm nhập của thực dân phương Tây",
+  "Nêu tình hình chính trị, kinh tế, văn hóa, xã hội dưới ách đô hộ",
+  "Mô tả các cuộc đấu tranh tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Vì sao Đông Nam Á lọt vào 'tầm ngắm'?",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã lý do các cường quốc phương Tây đổ xô đến Đông Nam Á từ thế kỉ XVI.",
+   "kien_thuc_chot": [
+    "Vị trí địa lí chiến lược",
+    "Nguồn tài nguyên khoáng sản phong phú",
+    "Sự lạc hậu của chế độ phong kiến Đông Nam Á so với châu Âu"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    21
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bản đồ thuộc địa: Ai đã đến đâu?",
+   "noi_dung": "Hai bạn nhỏ cùng nhìn lại bản đồ Đông Nam Á và quá trình các nước phương Tây chia nhau phạm vi ảnh hưởng.",
+   "kien_thuc_chot": [
+    "In-đô-nê-xi-a bị Hà Lan chiếm",
+    "Phi-líp-pin thuộc Tây Ban Nha suốt 350 năm",
+    "Anh, Pháp, Bồ Đào Nha tranh giành các khu vực còn lại"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Đông Nam Á tương tác, các lá cờ thực dân lần lượt xuất hiện tại các quốc gia theo dòng thời gian.",
+   "trang_sgk": [
+    22
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đông Nam Á dưới ách đô hộ: Bi kịch hay cơ hội?",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích chính sách cai trị của thực dân và tác động đến đời sống người dân.",
+   "kien_thuc_chot": [
+    "Chính trị: Chính quyền tay sai, chia để trị",
+    "Kinh tế: Vơ vét tài nguyên, xây dựng hạ tầng phục vụ khai thác",
+    "Văn hóa: Nô dịch, xói mòn giá trị truyền thống",
+    "Xã hội: Phân hóa sâu sắc, xuất hiện giai cấp mới"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    23,
+    24
+   ],
+   "uu_tien": "P3"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Những ngọn lửa kháng chiến không bao giờ tắt",
+   "noi_dung": "Kể về tinh thần bất khuất của nhân dân Đông Nam Á qua các cuộc khởi nghĩa tiêu biểu.",
+   "kien_thuc_chot": [
+    "In-đô-nê-xi-a: Khởi nghĩa Đi-pô-nê-gô-rô",
+    "Phi-líp-pin: La-pu-la-pu chống Tây Ban Nha",
+    "Miến Điện: Tướng Ban-đu-la kháng Anh",
+    "Dù thất bại nhưng thể hiện tinh thần yêu nước"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ thời gian các cuộc khởi nghĩa, nhấn mạnh vào các mốc thời gian và thủ lĩnh tiêu biểu.",
+   "trang_sgk": [
+    24
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà sử học nhí': Học sinh kéo thả các thẻ bài (tên nước, thực dân đô hộ, cuộc khởi nghĩa tiêu biểu) vào đúng vị trí trên bản đồ Đông Nam Á để hoàn thành bức tranh lịch sử.",
+ "id": "L8-B4",
+ "ten": "Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+ "lop": 8,
+ "chuong": "Chương 2. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX"
+}

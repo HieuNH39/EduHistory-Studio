@@ -1,0 +1,92 @@
+{
+ "muc_chinh": [
+  "Sự ra đời của Vương triều Mạc",
+  "Xung đột Nam - Bắc triều",
+  "Xung đột Trịnh - Nguyễn"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu nguyên nhân, diễn biến và hệ quả của các cuộc xung đột phong kiến thế kỉ XVI-XVIII",
+  "Phân tích được tác động của xung đột đến đời sống nhân dân và sự phát triển đất nước"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Mạc Đăng Dung và vương triều mới",
+   "noi_dung": "Nhật Minh và Hân Hân kể về bối cảnh nhà Lê suy yếu và sự kiện Mạc Đăng Dung lên ngôi năm 1527.",
+   "kien_thuc_chot": [
+    "Nhà Lê khủng hoảng đầu thế kỉ XVI",
+    "Mạc Đăng Dung thâu tóm quyền lực",
+    "Năm 1527, nhà Mạc thành lập"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    25,
+    26
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cuộc chiến Nam - Bắc triều: Huynh đệ tương tàn",
+   "noi_dung": "Hai bạn nhỏ giải thích lý do Nguyễn Kim khởi binh 'phù Lê diệt Mạc' và diễn biến chính của cuộc chiến 60 năm.",
+   "kien_thuc_chot": [
+    "Nam triều (nhà Lê) chống Bắc triều (nhà Mạc)",
+    "Xung đột kéo dài 1533 - 1592",
+    "Hệ quả: Đất nước bị chia cắt, nhân dân lầm than"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện sự di chuyển của quân đội giữa Thanh - Nghệ và Bắc Bộ",
+   "trang_sgk": [
+    26,
+    27
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Trịnh - Nguyễn phân tranh: Sông Gianh chia cắt",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích mâu thuẫn giữa họ Trịnh và họ Nguyễn, dẫn đến sự chia cắt Đàng Ngoài - Đàng Trong.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Mâu thuẫn quyền lực Trịnh - Nguyễn",
+    "Luỹ Thầy là phòng tuyến quan trọng",
+    "Sông Gianh trở thành ranh giới chia cắt đất nước",
+    "Cục diện Vua Lê - Chúa Trịnh và Chúa Nguyễn"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D Luỹ Thầy và vị trí sông Gianh trên bản đồ Việt Nam thế kỉ XVII",
+   "trang_sgk": [
+    27,
+    28,
+    29
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Hệ quả: Nỗi đau và sự mở mang",
+   "noi_dung": "Tổng kết những mất mát do chiến tranh nhưng cũng nhìn nhận quá trình di dân mở đất về phương Nam.",
+   "kien_thuc_chot": [
+    "Chiến tranh gây suy kiệt sức người, sức của",
+    "Đời sống nhân dân khốn cùng",
+    "Di dân giúp mở rộng lãnh thổ về phía Nam"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    27,
+    29
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Học sinh kéo thả mốc thời gian để xem sự thay đổi ranh giới giữa các thế lực trên bản đồ Đại Việt qua các giai đoạn 1533, 1592 và 1672.",
+ "id": "L8-B5",
+ "ten": "Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+ "lop": 8,
+ "chuong": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII"
+}

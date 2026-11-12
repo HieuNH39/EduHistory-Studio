@@ -20,3 +20,6 @@ Mỗi mục có thể đối chiếu với lịch sử commit của kho mã.
 | 9 | Thử dùng trình duyệt trong ứng dụng Claude để tạo ảnh trên Gemini | Trình duyệt tích hợp không gắn được vào cuộc trò chuyện đang chạy | Chuyển sang tiện ích Claude in Chrome trên máy giáo viên |
 | 10 | Tạo bảng thiết kế hai nhân vật trên Gemini (qua trình duyệt) | Lần 1 đồng phục sai (áo trắng, quần xanh); máy tính bảng có logo thương hiệu; bạn nữ trông nhỏ tuổi hơn | Sửa theo yêu cầu giáo viên: áo polo cam FPT, quần/váy nâu, 15 tuổi; xóa logo trên đạo cụ (bản v4) |
 | 11 | Chọn giọng đọc: thử Gemini TTS nhiều cặp giọng | Không tự nghe được âm thanh | Dùng Gemini nghe – chép lại để đo tỉ lệ lỗi từ (WER) và chấm độ tự nhiên: cặp Puck/Leda đạt WER 1,5 %, tự nhiên 10/10 → chọn làm giọng Nhật Minh/Hân Hân |
+| 12 | Viết bộ dựng video tự động (`pipeline/render.py`): giọng đọc → hình chuyển động → phụ đề song ngữ → logo → nhạc → chuẩn âm lượng | Phụ đề tiếng Anh bị đẩy lên TRÊN tiếng Việt (thư viện phụ đề tự tránh chồng chữ) | Đặt phụ đề tiếng Anh ở lớp riêng, tính lại khoảng cách; kiểm tra bằng ảnh cắt từ video |
+| 13 | Gắn logo góc màn hình | Chữ trắng của logo không đọc được trên nền sáng | Thêm nền viên thuốc xanh đậm bán trong suốt cho logo |
+| 14 | Đường dẫn ảnh trong kịch bản | Lỗi không tìm thấy tệp do đường dẫn tương đối | Quy mọi đường dẫn về thư mục gốc dự án |

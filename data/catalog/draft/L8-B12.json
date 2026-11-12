@@ -1,0 +1,106 @@
+{
+ "muc_chinh": [
+  "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+  "Cách mạng tháng Mười Nga năm 1917"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm được nguyên nhân, hậu quả CTTG I",
+  "Hiểu diễn biến, ý nghĩa Cách mạng tháng Mười Nga"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Vì sao thế giới bùng nổ chiến tranh?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích sự mâu thuẫn giữa các nước đế quốc già và trẻ dẫn đến việc hình thành hai khối quân sự đối lập.",
+   "kien_thuc_chot": [
+    "Sự phát triển không đều về kinh tế giữa các nước đế quốc",
+    "Mâu thuẫn gay gắt về thuộc địa",
+    "Hình thành khối Liên minh (Đức, Áo-Hung, I-ta-li-a) và khối Hiệp ước (Anh, Pháp, Nga)",
+    "Sự kiện ám sát Thái tử Áo-Hung là ngòi nổ chiến tranh"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới tương tác hiển thị màu sắc khác nhau cho hai khối quân sự và các điểm nóng thuộc địa",
+   "trang_sgk": [
+    56,
+    57
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cái giá của cuộc chiến tranh phi nghĩa",
+   "noi_dung": "Nhật Minh và Hân Hân phân tích hậu quả tàn khốc của CTTG I và sự thay đổi cục diện kinh tế thế giới.",
+   "kien_thuc_chot": [
+    "Chiến tranh gây tổn thất nặng nề về người và của",
+    "Châu Âu suy yếu, trở thành con nợ của Mỹ",
+    "Mỹ và Nhật Bản hưởng lợi và nâng cao vị thế",
+    "Đánh giá đây là cuộc chiến tranh đế quốc phi nghĩa"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    57
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đêm trước của Cách mạng tháng Mười Nga",
+   "noi_dung": "Nhật Minh và Hân Hân kể về tình trạng hai chính quyền song song tồn tại ở Nga sau Cách mạng tháng Hai.",
+   "kien_thuc_chot": [
+    "Chế độ Nga hoàng bị lật đổ",
+    "Tình trạng hai chính quyền song song: Chính phủ tư sản lâm thời và Xô viết",
+    "Đảng Bôn-sê-vích chuẩn bị kế hoạch giành chính quyền"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ chuyển động mô phỏng sự sụp đổ của chính quyền cũ và sự trỗi dậy của các Xô viết",
+   "trang_sgk": [
+    58
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tiếng súng Cung điện Mùa Đông",
+   "noi_dung": "Tái hiện diễn biến cuộc khởi vũ trang giành chính quyền tại Pê-tơ-rô-grát.",
+   "kien_thuc_chot": [
+    "Đêm 24-10 (6-11): Quân khởi nghĩa chiếm Pê-tơ-rô-grát",
+    "Đêm 25-10 (7-11): Cung điện Mùa Đông bị chiếm",
+    "Đầu năm 1918: Cách mạng thắng lợi hoàn toàn"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D cuộc tấn công vào Cung điện Mùa Đông với các mũi tên chỉ hướng quân khởi nghĩa",
+   "trang_sgk": [
+    58
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Tầm vóc của một cuộc cách mạng vĩ đại",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về ý nghĩa lịch sử và tác động của Cách mạng tháng Mười Nga đối với thế giới.",
+   "kien_thuc_chot": [
+    "Đập tan bộ máy nhà nước cũ, thành lập nhà nước công nông",
+    "Cổ vũ phong trào cách mạng quốc tế",
+    "Mở ra con đường giải phóng cho các dân tộc bị áp bức",
+    "Tạo ra chế độ xã hội đối lập với chủ nghĩa tư bản"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    59
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà ngoại giao lịch sử': Người chơi chọn các quốc gia và đưa ra quyết định ngoại giao/quân sự để xem kết quả dẫn đến việc hình thành các khối liên minh hoặc bùng nổ chiến tranh.",
+ "id": "L8-B12",
+ "ten": "Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+ "lop": 8,
+ "chuong": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX"
+}

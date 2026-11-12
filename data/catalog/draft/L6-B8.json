@@ -1,0 +1,93 @@
+{
+ "muc_chinh": [
+  "Điều kiện tự nhiên",
+  "Chế độ xã hội",
+  "Những thành tựu văn hoá tiêu biểu"
+ ],
+ "yeu_cau_can_dat": [
+  "Nêu được ảnh hưởng của sông Ấn, sông Hằng đến văn minh Ấn Độ",
+  "Trình bày chế độ đẳng cấp Vác-na",
+  "Liệt kê các thành tựu văn hóa tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Bí ẩn xứ sở các dòng sông",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá vị trí địa lý của Ấn Độ và vai trò của sông Ấn, sông Hằng đối với sự hình thành văn minh.",
+   "kien_thuc_chot": [
+    "Ấn Độ là bán đảo Nam Á, ba mặt giáp biển",
+    "Dãy Hi-ma-lay-a phía bắc, cao nguyên Đê-can miền Trung",
+    "Lưu vực sông Ấn, sông Hằng là cái nôi của văn minh Ấn Độ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ 3D chuyển động từ dãy Hi-ma-lay-a xuống các đồng bằng sông Ấn, sông Hằng",
+   "trang_sgk": [
+    36,
+    37
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Đẳng cấp Vác-na: Bức tường vô hình",
+   "noi_dung": "Hai bạn cùng tìm hiểu về sự phân chia xã hội khắt khe dựa trên chủng tộc và màu da giữa người A-ri-a và Đra-vi-đa.",
+   "kien_thuc_chot": [
+    "Chế độ đẳng cấp Vác-na gồm 4 tầng lớp",
+    "Bra-man (Tăng lữ), Ksa-tri-a (Vương công, quý tộc)",
+    "Vai-si-a (Bình dân), Su-đra (người bị áp bức)",
+    "Tầng lớp thấp kém nhất là Pa-ri-a"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ kim tự tháp đẳng cấp tương tác, khi click vào mỗi tầng sẽ hiện ra đặc điểm",
+   "trang_sgk": [
+    38
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Di sản rực rỡ của Ấn Độ cổ đại",
+   "noi_dung": "Nhật Minh và Hân Hân điểm lại những phát minh vĩ đại như chữ số 0, sử thi và các công trình kiến trúc.",
+   "kien_thuc_chot": [
+    "Sáng tạo chữ Phạn (San-xkrít)",
+    "Sử thi Ma-ha-bha-ra-ta và Ra-ma-y-a-na",
+    "Phát minh 10 chữ số (bao gồm số 0)",
+    "Kiến trúc cột đá A-sô-ca và đại bảo tháp San-chi"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Thư viện ảo trưng bày các hiện vật: con dấu đất nung, bản thảo sử thi và mô hình bảo tháp",
+   "trang_sgk": [
+    38,
+    39,
+    40
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Dấu ấn Ấn Độ trong đời sống hôm nay",
+   "noi_dung": "Một video ngắn tổng kết các giá trị văn hóa Ấn Độ vẫn còn tồn tại và ảnh hưởng đến thế giới hiện đại.",
+   "kien_thuc_chot": [
+    "Hệ thống chữ số Ả Rập-Ấn Độ",
+    "Ảnh hưởng của Phật giáo và Hindu giáo",
+    "Biểu tượng quốc huy Ấn Độ từ cột đá A-sô-ca"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    39,
+    40
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng xã hội cổ đại': Học sinh kéo thả các nhân vật vào đúng tầng lớp đẳng cấp Vác-na và chọn các thành tựu văn hóa tương ứng với thời đại.",
+ "id": "L6-B8",
+ "ten": "Ấn Độ cổ đại",
+ "lop": 6,
+ "chuong": "Chương 3. Xã hội cổ đại"
+}

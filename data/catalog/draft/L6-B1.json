@@ -1,0 +1,81 @@
+{
+ "muc_chinh": [
+  "Lịch sử là gì?",
+  "Vì sao phải học lịch sử?"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu khái niệm lịch sử và môn Lịch sử",
+  "Giải thích được tầm quan trọng của việc học lịch sử"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Chiếc máy tính thời gian",
+   "noi_dung": "Nhật Minh và Hân Hân cùng quan sát sự thay đổi của máy tính từ năm 1946 đến nay để hiểu rằng mọi thứ đều biến đổi theo thời gian.",
+   "kien_thuc_chot": [
+    "Mọi sự vật, con người và xã hội đều biến đổi theo thời gian",
+    "Sự thay đổi đó chính là lịch sử"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Hiệu ứng chuyển cảnh từ máy tính ENIAC khổng lồ sang máy tính xách tay hiện đại trên màn hình",
+   "trang_sgk": [
+    11
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Lịch sử là gì vậy nhỉ?",
+   "noi_dung": "Hân Hân giải thích cho Nhật Minh về hai cách hiểu của lịch sử: là những gì đã xảy ra và là khoa học nghiên cứu quá khứ.",
+   "kien_thuc_chot": [
+    "Lịch sử là tất cả những gì đã xảy ra trong quá khứ",
+    "Môn Lịch sử nghiên cứu sự hình thành và phát triển của xã hội loài người"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    11
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Lời Bác dạy tại Đền Hùng",
+   "noi_dung": "Nhật Minh và Hân Hân cùng đọc lại lời căn dặn của Bác Hồ và thảo luận về ý nghĩa của việc ghi nhớ cội nguồn.",
+   "kien_thuc_chot": [
+    "Học lịch sử để tìm về cội nguồn dân tộc",
+    "Dân ta phải biết sử ta để giữ gìn đất nước"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Hình ảnh tư liệu Bác Hồ tại Đền Hùng năm 1954",
+   "trang_sgk": [
+    12
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Tại sao lịch sử là 'thầy dạy'?",
+   "noi_dung": "Hai bạn cùng đúc kết lý do vì sao cần học lịch sử để rút ra bài học cho tương lai, đúng như câu nói của Xi-xê-rông.",
+   "kien_thuc_chot": [
+    "Học lịch sử giúp đúc kết bài học kinh nghiệm từ quá khứ",
+    "Phục vụ hiện tại và xây dựng tương lai"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    12
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Dòng thời gian': Học sinh kéo thả các hình ảnh sự vật (máy tính, điện thoại, trang phục) vào đúng mốc thời gian để thấy được sự biến đổi lịch sử.",
+ "id": "L6-B1",
+ "ten": "Lịch sử và cuộc sống",
+ "lop": 6,
+ "chuong": "Chương 1. Vì sao phải học lịch sử?"
+}

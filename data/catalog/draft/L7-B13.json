@@ -1,0 +1,91 @@
+{
+ "muc_chinh": [
+  "Sự thành lập nhà Trần",
+  "Tình hình chính trị",
+  "Tình hình kinh tế, xã hội",
+  "Tình hình văn hoá"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả sự thành lập nhà Trần",
+  "Trình bày chính trị, kinh tế, xã hội, văn hóa thời Trần",
+  "Nêu các thành tựu văn hóa tiêu biểu"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nhà Trần ra đời như thế nào?",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự suy yếu của nhà Lý và cách họ Trần thâu tóm quyền lực để thành lập triều đại mới vào năm 1226.",
+   "kien_thuc_chot": [
+    "Nhà Lý suy yếu, dựa vào họ Trần để dẹp loạn.",
+    "Năm 1226, Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh.",
+    "Các nhân vật chủ chốt: Trần Thủ Độ, Trần Lý, Trần Thừa."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    62
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Bộ máy chính quyền thời Trần có gì đặc biệt?",
+   "noi_dung": "Giải mã chế độ Thái thượng hoàng và cách nhà Trần tổ chức bộ máy chính quyền quy củ hơn thời Lý.",
+   "kien_thuc_chot": [
+    "Chế độ Thái thượng hoàng cùng quản lý đất nước.",
+    "Cả nước chia thành 12 lộ, phủ.",
+    "Chính sách 'ngụ binh ư nông' và ban hành Quốc triều hình luật."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tổ chức bộ máy nhà nước từ Trung ương đến địa phương với các chức quan mới như Hà đê sứ, Khuyến nông sứ.",
+   "trang_sgk": [
+    63
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kinh tế và xã hội thời Trần: Đất nước giàu mạnh",
+   "noi_dung": "Khám phá các chính sách phát triển nông nghiệp, điền trang và sự sầm uất của thương cảng Vân Đồn.",
+   "kien_thuc_chot": [
+    "Phát triển nông nghiệp: khai hoang, đắp đê.",
+    "Thương nghiệp phát triển với các cửa khẩu như Vân Đồn.",
+    "Xã hội phân hóa thành quý tộc, nông dân, thợ thủ công, thương nhân và nô tì."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ các thương cảng lớn và hình ảnh điền trang thời Trần.",
+   "trang_sgk": [
+    64,
+    65
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Văn hóa Đại Việt thời Trần: Hào khí Đông A",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về Thiền phái Trúc Lâm, giáo dục Nho học và những thành tựu khoa học, nghệ thuật rực rỡ.",
+   "kien_thuc_chot": [
+    "Thiền phái Trúc Lâm Yên Tử do vua Trần Nhân Tông sáng lập.",
+    "Giáo dục phát triển với Quốc Tử Giám và các kỳ thi Nho học.",
+    "Thành tựu sử học (Đại Việt sử ký), quân sự (Binh thư yếu lược), y học (Tuệ Tĩnh)."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Hình ảnh 3D tháp Phổ Minh, tượng Phật hoàng Trần Nhân Tông và các tác phẩm văn học, quân sự tiêu biểu.",
+   "trang_sgk": [
+    65,
+    66,
+    67
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà cai trị thông thái': Học sinh chọn các chính sách (khai hoang, đắp đê, mở trường, ngoại giao) để xây dựng đất nước và xem kết quả sự thịnh vượng của Đại Việt thời Trần.",
+ "id": "L7-B13",
+ "ten": "Đại Việt thời Trần (1226 – 1400)",
+ "lop": 7,
+ "chuong": "Chương 5. Đại Việt thời Lý – Trần – Hồ (1009 – 1407)"
+}

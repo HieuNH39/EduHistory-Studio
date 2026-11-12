@@ -1,0 +1,106 @@
+{
+ "muc_chinh": [
+  "Cách mạng công nghiệp Anh",
+  "Cách mạng công nghiệp lan ra các nước châu Âu và Mỹ",
+  "Những tác động của cách mạng công nghiệp đối với sản xuất và xã hội"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày thành tựu tiêu biểu",
+  "Phân tích tác động đến sản xuất và xã hội"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao Anh là cái nôi của Cách mạng công nghiệp?",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã vì sao nước Anh hội tụ đủ điều kiện về vốn, nhân công và kĩ thuật để khởi đầu cuộc cách mạng.",
+   "kien_thuc_chot": [
+    "Anh có đủ tiền vốn, nhân công và kĩ thuật",
+    "Bắt đầu từ ngành dệt",
+    "Máy kéo sợi Gien-ni (1764) là khởi đầu"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    17
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Giêm Oát và phát minh làm thay đổi thế giới",
+   "noi_dung": "Câu chuyện về chiếc máy hơi nước của Giêm Oát - 'trái tim' của các nhà máy công nghiệp.",
+   "kien_thuc_chot": [
+    "Giêm Oát phát minh máy hơi nước năm 1784",
+    "Máy hơi nước giúp nhà máy không còn phụ thuộc vào sức nước",
+    "Đánh dấu bước ngoặt của văn minh công nghiệp"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng 3D chuyển động của piston trong máy hơi nước và sự thay đổi vị trí nhà máy từ ven sông vào trung tâm thành phố.",
+   "trang_sgk": [
+    17,
+    18
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Tốc độ: Từ máy dệt đến tàu hỏa",
+   "noi_dung": "Hân Hân và Nhật Minh khám phá sự bùng nổ của máy dệt và sự ra đời của đường sắt tại Anh.",
+   "kien_thuc_chot": [
+    "Máy dệt của E. Các-rai (1785) tăng năng suất 40 lần",
+    "Xti-phen-xơn chế tạo đầu máy xe lửa (1814)",
+    "Nước Anh trở thành 'công xưởng của thế giới'"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác nối liền Man-che-xtơ và Li-vơ-pun, hiển thị sự phát triển của mạng lưới đường sắt theo thời gian.",
+   "trang_sgk": [
+    18
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Làn sóng công nghiệp lan tỏa",
+   "noi_dung": "Cách mạng công nghiệp đã lan rộng từ Anh sang Pháp, Đức và Mỹ như thế nào?",
+   "kien_thuc_chot": [
+    "Pháp: Bắt đầu từ 1830, mạnh về công nghiệp nhẹ",
+    "Đức: Phát triển mạnh công nghiệp nặng, luyện kim, hóa chất",
+    "Mỹ: Nổi bật với máy tách hạt bông, công nghiệp đường sắt"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    18,
+    19
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Mặt trái của văn minh công nghiệp",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về sự hình thành giai cấp tư sản - vô sản và những hệ lụy xã hội.",
+   "kien_thuc_chot": [
+    "Hình thành hai giai cấp: tư sản và vô sản",
+    "Mâu thuẫn gay gắt giữa tư sản và vô sản",
+    "Hệ lụy: ô nhiễm môi trường, bóc lột lao động trẻ em"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    19,
+    20
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Xây dựng đế chế công nghiệp': Người chơi chọn quốc gia, đầu tư vào các phát minh (máy dệt, máy hơi nước, đường sắt) để tăng năng suất và quan sát sự biến đổi của xã hội (tăng trưởng kinh tế vs. ô nhiễm/mâu thuẫn xã hội).",
+ "id": "L8-B3",
+ "ten": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+ "lop": 8,
+ "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII"
+}

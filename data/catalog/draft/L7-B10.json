@@ -1,0 +1,92 @@
+{
+ "muc_chinh": [
+  "Công cuộc xây dựng chính quyền và bảo vệ đất nước thời Đinh - Tiền Lê",
+  "Cuộc kháng chiến chống quân xâm lược Tống (năm 981)",
+  "Chính quyền thời Tiền Lê",
+  "Đời sống xã hội và văn hoá thời Đinh - Tiền Lê"
+ ],
+ "yeu_cau_can_dat": [
+  "Giới thiệu tổ chức chính quyền",
+  "Mô tả kháng chiến chống Tống 981",
+  "Nhận biết đời sống xã hội, văn hóa"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hoa Lư - Kinh đô giữa lòng núi",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá địa thế hiểm trở của Hoa Lư và sự kiện Đinh Bộ Lĩnh lên ngôi hoàng đế, đặt tên nước là Đại Cồ Việt.",
+   "kien_thuc_chot": [
+    "Năm 968, Đinh Bộ Lĩnh thống nhất đất nước.",
+    "Đặt tên nước là Đại Cồ Việt, niên hiệu Thái Bình.",
+    "Kinh đô đặt tại Hoa Lư (Ninh Bình)."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    48
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Lê Hoàn và chiến thắng Bạch Đằng vang dội",
+   "noi_dung": "Hai bạn nhỏ kể lại cuộc kháng chiến chống Tống năm 981 dưới sự chỉ huy của Lê Hoàn, nhấn mạnh các trận đánh ác liệt tại Lục Đầu Giang và Bạch Đằng.",
+   "kien_thuc_chot": [
+    "Năm 981, quân Tống xâm lược Đại Cồ Việt.",
+    "Lê Hoàn trực tiếp lãnh đạo kháng chiến.",
+    "Quân Tống đại bại, tướng Hầu Nhân Bảo tử trận.",
+    "Thắng lợi bảo vệ vững chắc nền độc lập dân tộc."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng đường tiến quân của quân Tống và các điểm chặn đánh của quân ta tại Đại La, Lục Đầu Giang, Bạch Đằng.",
+   "trang_sgk": [
+    48,
+    49
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bộ máy nhà nước thời Tiền Lê có gì mới?",
+   "noi_dung": "Nhật Minh và Hân Hân so sánh sự kiện đổi đơn vị hành chính từ đạo sang lộ, phủ, châu và cách tổ chức quân đội thời Tiền Lê.",
+   "kien_thuc_chot": [
+    "Vua đứng đầu nắm mọi quyền hành.",
+    "Năm 1002, đổi đạo thành lộ, phủ, châu.",
+    "Quân đội gồm cắm quân và quân địa phương.",
+    "Chú trọng luật lệnh và ngoại giao với nhà Tống."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    49,
+    50
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Đời sống người dân thời Đinh - Tiền Lê",
+   "noi_dung": "Khám phá xã hội phân hóa và đời sống văn hóa, nơi Phật giáo giữ vai trò quan trọng và các trò chơi dân gian bắt đầu phát triển.",
+   "kien_thuc_chot": [
+    "Xã hội gồm tầng lớp thống trị và bị trị.",
+    "Phật giáo được truyền bá rộng rãi.",
+    "Văn hóa dân gian như đua thuyền, đấu vật được giữ gìn."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    50
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Học sinh kéo thả các vị trí chiến lược (Đại La, Lục Đầu Giang, Bạch Đằng) để tái hiện diễn biến kháng chiến chống Tống năm 981.",
+ "id": "L7-B10",
+ "ten": "Đại Cồ Việt thời Đinh và Tiền Lê (968 – 1009)",
+ "lop": 7,
+ "chuong": "Chương 4. Đất nước dưới thời các vương triều Ngô – Đinh – Tiền Lê (939 – 1009)"
+}

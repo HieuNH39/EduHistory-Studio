@@ -1,0 +1,74 @@
+{
+ "muc_chinh": [
+  "Tác động của cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp",
+  "Hoạt động yêu nước của Phan Bội Châu và Phan Châu Trinh",
+  "Buổi đầu hoạt động cứu nước của Nguyễn Tất Thành"
+ ],
+ "yeu_cau_can_dat": [
+  "Hiểu tác động của Pháp đến xã hội Việt Nam",
+  "Phân biệt các khuynh hướng cứu nước đầu thế kỉ XX",
+  "Thấy rõ quyết tâm tìm đường cứu nước của Nguyễn Tất Thành"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Việt Nam thay đổi thế nào khi Pháp đến?",
+   "noi_dung": "Nhật Minh và Hân Hân cùng khám phá những thay đổi về chính trị, kinh tế và xã hội Việt Nam sau cuộc khai thác thuộc địa lần thứ nhất.",
+   "kien_thuc_chot": [
+    "Việt Nam trở thành nước thuộc địa nửa phong kiến",
+    "Xuất hiện hai mâu thuẫn cơ bản: dân tộc với Pháp và nông dân với địa chủ",
+    "Cơ cấu xã hội biến đổi với sự ra đời của tầng lớp công nhân, tiểu tư sản"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Việt Nam chuyển đổi từ màu sắc phong kiến sang màu sắc thuộc địa, hiển thị các biểu tượng nhà máy, đường sắt, cầu Long Biên xuất hiện.",
+   "trang_sgk": [
+    90,
+    91,
+    92
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Hai chí sĩ, hai con đường",
+   "noi_dung": "Hai người bạn dẫn chuyện so sánh tư tưởng của Phan Bội Châu (bạo động) và Phan Châu Trinh (cải cách).",
+   "kien_thuc_chot": [
+    "Phan Bội Châu chủ trương dùng bạo lực giành độc lập (Đông du, Quang phục hội)",
+    "Phan Châu Trinh chủ trương cải cách, khai dân trí (Duy tân)",
+    "Cả hai phong trào đều thất bại trước sự đàn áp của thực dân Pháp"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    92,
+    93
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Hành trình từ bến Nhà Rồng",
+   "noi_dung": "Câu chuyện về người thanh niên Nguyễn Tất Thành quyết tâm ra đi tìm con đường cứu nước mới khác biệt với các bậc tiền bối.",
+   "kien_thuc_chot": [
+    "Ngày 5/6/1911, Nguyễn Tất Thành ra đi tìm đường cứu nước tại bến Nhà Rồng",
+    "Người đi qua nhiều nước, làm nhiều nghề để học hỏi",
+    "Cách mạng tháng Mười Nga ảnh hưởng sâu sắc đến tư tưởng của Người"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": "Mô phỏng hành trình con tàu Amiral Latouche-Tréville rời cảng Nhà Rồng đi qua các châu lục trên bản đồ thế giới.",
+   "trang_sgk": [
+    93,
+    94
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng kéo thả các biểu tượng (nhà máy, trường học, tàu thủy, hội nhóm) vào đúng giai đoạn hoặc nhân vật lịch sử tương ứng để thấy sự biến chuyển của xã hội Việt Nam đầu thế kỉ XX.",
+ "id": "L8-B19",
+ "ten": "Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+ "lop": 8,
+ "chuong": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX"
+}

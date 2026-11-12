@@ -1,0 +1,133 @@
+{
+ "muc_chinh": [
+  "Khu vực Mỹ La-tinh từ năm 1945 đến năm 1991",
+  "Các nước Nhật Bản, Trung Quốc và Ấn Độ từ năm 1945 đến năm 1991",
+  "Các nước Đông Nam Á từ năm 1945 đến năm 1991"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững các sự kiện lịch sử tiêu biểu tại Mỹ La-tinh, châu Á",
+  "Hiểu quá trình hình thành và phát triển của ASEAN",
+  "Đánh giá được sự thay đổi của các quốc gia sau năm 1945"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Mỹ La-tinh: Cuộc chiến chống 'sân sau'",
+   "noi_dung": "Nhật Minh và Hân Hân kể về phong trào đấu tranh chống chế độ độc tài thân Mỹ tại Mỹ La-tinh.",
+   "kien_thuc_chot": [
+    "Mỹ muốn biến Mỹ La-tinh thành sân sau",
+    "Cách mạng Cu-ba (1959) mở đầu phong trào",
+    "Nhiều chính quyền độc tài bị lật đổ",
+    "Các nước tiến hành cải cách tiến bộ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Mỹ La-tinh với các điểm nóng cách mạng bùng nổ theo mốc thời gian",
+   "trang_sgk": [
+    54,
+    55
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Cu-ba: Hòn đảo tự do",
+   "noi_dung": "Hành trình từ pháo đài Môn-ca-da đến thắng lợi năm 1959 và thành tựu xây dựng CNXH.",
+   "kien_thuc_chot": [
+    "Phi-đen Cát-xtơ-rô lãnh đạo cách mạng",
+    "Thắng lợi 1/1/1959 lật đổ Ba-ti-xta",
+    "Giáo dục và y tế phát triển hàng đầu khu vực",
+    "Tuổi thọ trung bình tăng từ 64 lên 74 tuổi"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ dòng thời gian các mốc chính của cách mạng Cu-ba",
+   "trang_sgk": [
+    55,
+    56
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Nhật Bản: Sự trỗi dậy thần kì",
+   "noi_dung": "Nhật Minh phân tích cách Nhật Bản vươn lên thành trung tâm kinh tế thế giới sau chiến tranh.",
+   "kien_thuc_chot": [
+    "Cải cách dân chủ dưới sự chiếm đóng của Mỹ",
+    "Giai đoạn phát triển thần kì (1953-1973)",
+    "Trở thành trung tâm kinh tế thứ hai thế giới",
+    "Khoa học - công nghệ là đòn bẩy"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    56,
+    57
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Trung Quốc: Những bước ngoặt lịch sử",
+   "noi_dung": "Từ thành lập nước Cộng hòa đến công cuộc cải cách mở cửa năm 1978.",
+   "kien_thuc_chot": [
+    "Thành lập nước CHND Trung Hoa (1/10/1949)",
+    "Sai lầm từ 'Đại nhảy vọt' và 'Cách mạng văn hóa'",
+    "Đường lối cải cách mở cửa từ 1978",
+    "GDP tăng trưởng cao nhất thế giới giai đoạn 1980-1991"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    57,
+    58
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Ấn Độ: Tự chủ và phát triển",
+   "noi_dung": "Sự ra đời của nước Cộng hòa Ấn Độ và những thành tựu khoa học kỹ thuật.",
+   "kien_thuc_chot": [
+    "Độc lập năm 1950",
+    "Thành công của 'Cách mạng xanh'",
+    "Chế tạo bom nguyên tử (1974)",
+    "Phóng vệ tinh nhân tạo (1975)"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    59
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 6,
+   "ten_tap": "ASEAN: Từ chia rẽ đến đồng thuận",
+   "noi_dung": "Hân Hân kể về sự hình thành và phát triển của ASEAN từ 1967.",
+   "kien_thuc_chot": [
+    "Thành lập ngày 8/8/1967 tại Băng Cốc",
+    "Nguyên tắc: tôn trọng chủ quyền, không can thiệp nội bộ",
+    "Giải quyết tranh chấp bằng biện pháp hòa bình",
+    "Mở rộng thành viên và nâng cao vị thế"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Đông Nam Á chuyển động theo quá trình kết nạp thành viên ASEAN",
+   "trang_sgk": [
+    59,
+    61,
+    62
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ thế giới tương tác: Học sinh click vào các khu vực (Mỹ La-tinh, Nhật Bản, Trung Quốc, Ấn Độ, Đông Nam Á) để xem mốc thời gian giành độc lập và các thành tựu kinh tế tiêu biểu.",
+ "id": "L9-B12",
+ "ten": "Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+ "lop": 9,
+ "chuong": "Chương 3. Thế giới từ năm 1945 đến năm 1991"
+}

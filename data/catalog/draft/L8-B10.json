@@ -1,0 +1,72 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành chủ nghĩa đế quốc",
+  "Các nước đế quốc Anh, Pháp, Đức, Mỹ cuối thế kỉ XIX - đầu thế kỉ XX"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả được quá trình hình thành chủ nghĩa đế quốc",
+  "Nêu được chuyển biến về kinh tế, chính sách đối nội, đối ngoại của các nước đế quốc Anh, Pháp, Đức, Mỹ"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Chủ nghĩa đế quốc là gì?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích sự chuyển dịch từ tự do cạnh tranh sang độc quyền và sự ra đời của chủ nghĩa đế quốc.",
+   "kien_thuc_chot": [
+    "Cuối thế kỉ XIX, kinh tế tư bản phát triển mạnh nhờ khoa học kĩ thuật",
+    "Hình thành các công ty độc quyền (các-ten, xanh-đi-ca, tơ-rớt)",
+    "Tư bản tài chính ra đời từ sự dung hợp tư bản công nghiệp và ngân hàng",
+    "Đẩy mạnh xâm lược thuộc địa"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    48,
+    49
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Đế quốc Anh và Pháp: Kẻ thống trị thuộc địa",
+   "noi_dung": "Hân Hân và Nhật Minh so sánh sự suy giảm vị thế công nghiệp của Anh và Pháp so với Mỹ, Đức nhưng vẫn giữ hệ thống thuộc địa khổng lồ.",
+   "kien_thuc_chot": [
+    "Anh: Công nghiệp tụt xuống thứ 3 nhưng đứng đầu về thuộc địa và xuất khẩu tư bản",
+    "Pháp: Kinh tế chậm lại sau chiến tranh Pháp - Phổ, hệ thống thuộc địa lớn thứ 2 thế giới",
+    "Cả hai nước đều duy trì chế độ chính trị tư sản để bảo vệ quyền lợi giai cấp"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới highlight các thuộc địa của Anh (màu đỏ) và Pháp (màu xanh) năm 1914",
+   "trang_sgk": [
+    49,
+    50
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Đức và Mỹ: Hai gã khổng lồ trỗi dậy",
+   "noi_dung": "Nhật Minh kể về sự vươn lên thần tốc của Đức và Mỹ, thay đổi bản đồ kinh tế thế giới.",
+   "kien_thuc_chot": [
+    "Đức: Vươn lên đứng đầu châu Âu, chủ trương chạy đua vũ trang chia lại thuộc địa",
+    "Mỹ: Vươn lên đứng đầu thế giới về công nghiệp, hình thành các đế chế tài chính (Rốc-phe-lơ, Moóc-gân)",
+    "Mỹ bành trướng ảnh hưởng tại châu Á - Thái Bình Dương và khu vực Trung, Nam Mỹ"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Biểu đồ cột so sánh sản lượng công nghiệp của Anh, Pháp, Đức, Mỹ giai đoạn 1870-1913",
+   "trang_sgk": [
+    50,
+    51
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo thả: Học sinh kéo các đặc điểm kinh tế/đối ngoại tương ứng vào đúng tên quốc gia (Anh, Pháp, Đức, Mỹ) trên bản đồ thế giới để thấy sự phân chia thuộc địa.",
+ "id": "L8-B10",
+ "ten": "Sự hình thành chủ nghĩa đế quốc ở các nước Âu – Mỹ (cuối thế kỉ XIX – đầu thế kỉ XX)",
+ "lop": 8,
+ "chuong": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX"
+}

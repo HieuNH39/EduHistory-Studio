@@ -1,0 +1,88 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành và phát triển",
+  "Hoạt động kinh tế và tổ chức xã hội",
+  "Thành tựu văn hóa tiêu biểu"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả sự hình thành, phát triển, kinh tế, xã hội và văn hóa Chăm-pa từ thế kỉ II đến thế kỉ X."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Huyền thoại từ Tượng Lâm",
+   "noi_dung": "Nhật Minh và Hân Hân kể về cuộc khởi nghĩa của Khu Liên năm 192, đánh dấu sự ra đời của nước Lâm Ấp.",
+   "kien_thuc_chot": [
+    "Năm 192, Khu Liên lãnh đạo nhân dân Tượng Lâm khởi nghĩa.",
+    "Nước Lâm Ấp ra đời, tiền thân của Vương quốc Chăm-pa.",
+    "Cư dân Chăm-pa kế thừa nền văn hóa Sa Huỳnh."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    89
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Hành trình của những kinh đô",
+   "noi_dung": "Hai bạn nhỏ cùng khám phá sự dịch chuyển kinh đô từ Sin-ha-pu-ra đến Vi-ra-pu-ra và In-đra-pu-ra qua lược đồ.",
+   "kien_thuc_chot": [
+    "Trước thế kỉ VIII: Kinh đô Sin-ha-pu-ra (Đà Nẵng).",
+    "Thế kỉ VIII: Kinh đô Vi-ra-pu-ra (Khánh Hòa).",
+    "Thế kỉ IX: Kinh đô In-đra-pu-ra (Đà Nẵng)."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ tương tác hiển thị các điểm kinh đô sáng lên theo dòng thời gian.",
+   "trang_sgk": [
+    89,
+    90
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bậc thầy đi biển và xã hội Chăm-pa",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã cách người Chăm giao thương quốc tế và cấu trúc xã hội phân tầng.",
+   "kien_thuc_chot": [
+    "Kinh tế: Trồng lúa, thủ công nghiệp, khai thác lâm thổ sản.",
+    "Nổi tiếng với nghề đi biển và buôn bán quốc tế (trầm hương, ngọc trai).",
+    "Xã hội: Vua có quyền tối cao, gồm các tầng lớp: tăng lữ, quý tộc, dân tự do, nô lệ."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    90,
+    91
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Di sản trường tồn cùng thời gian",
+   "noi_dung": "Hai bạn cùng chiêm ngưỡng vẻ đẹp của Thánh địa Mỹ Sơn và tìm hiểu về chữ viết, lễ hội Ka-tê.",
+   "kien_thuc_chot": [
+    "Sáng tạo chữ viết riêng dựa trên chữ Phạn.",
+    "Tín ngưỡng đa dạng, du nhập Phật giáo và Bà La Môn giáo.",
+    "Kiến trúc, điêu khắc đặc sắc: Thánh địa Mỹ Sơn, Phật viện Đồng Dương."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D xoay quanh đài thờ Trà Kiệu và đền tháp Mỹ Sơn.",
+   "trang_sgk": [
+    91,
+    92
+   ],
+   "uu_tien": "P1"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà khảo cổ học nhí': Học sinh kéo thả các hiện vật (gốm, trầm hương, bia chữ Phạn) vào đúng vị trí trên bản đồ vương quốc Chăm-pa để nhận điểm thưởng.",
+ "id": "L6-B19",
+ "ten": "Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

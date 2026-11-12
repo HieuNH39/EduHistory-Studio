@@ -1,0 +1,85 @@
+{
+ "muc_chinh": [
+  "Quá trình hình thành và phát triển của Vương quốc Cam-pu-chia",
+  "Sự phát triển của Vương quốc Cam-pu-chia thời Ăng-co",
+  "Một số nét tiêu biểu về văn hoá"
+ ],
+ "yeu_cau_can_dat": [
+  "Mô tả quá trình hình thành, phát triển và những thành tựu văn hóa rực rỡ của vương quốc Cam-pu-chia thời Ăng-co."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hành trình từ Chân Lạp đến Ăng-co",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự ra đời của vương quốc người Khơ-me từ thế kỉ VI và bước ngoặt năm 802 khi vua Giay-a-vác-man II thống nhất đất nước.",
+   "kien_thuc_chot": [
+    "Thế kỉ VI: Vương quốc Chân Lạp hình thành.",
+    "Năm 802: Giay-a-vác-man II thống nhất, đổi tên thành Cam-pu-chia.",
+    "Thời kì Ăng-co (thế kỉ IX - XV) là thời kì phát triển rực rỡ nhất."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Đông Nam Á chuyển động từ các tiểu quốc nhỏ lẻ sang một khối thống nhất mang tên Cam-pu-chia.",
+   "trang_sgk": [
+    44
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Đỉnh cao quyền lực và nông nghiệp thời Ăng-co",
+   "noi_dung": "Hai bạn nhỏ khám phá cách các vị vua Ăng-co xây dựng cường quốc, từ hệ thống thủy lợi kỳ diệu đến việc mở rộng lãnh thổ.",
+   "kien_thuc_chot": [
+    "Vua Giay-a-vác-man VII chú trọng phúc lợi xã hội (đường xá, bệnh viện).",
+    "Kinh tế nông nghiệp phát triển nhờ hệ thống hồ, kênh mương (Ba-ray Tây, Ba-ray Đông).",
+    "Lãnh thổ mở rộng sang hạ lưu sông Chao Phray-a và trung lưu sông Mê Công."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D cắt lớp hệ thống thủy lợi Ba-ray và bản đồ mở rộng lãnh thổ qua các cuộc chinh phạt.",
+   "trang_sgk": [
+    44,
+    45
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kiệt tác đá giữa rừng già",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu về vẻ đẹp kiến trúc và văn hóa độc đáo của người Khơ-me qua các đền tháp huyền thoại.",
+   "kien_thuc_chot": [
+    "Văn hóa chịu ảnh hưởng mạnh mẽ từ Ấn Độ.",
+    "Kiến trúc tiêu biểu: Ăng-co Vát, Ăng-co Thom, đền Bay-on.",
+    "Đặc điểm: Xây bằng đá sa thạch và đá tổ ong không cần chất kết dính."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Video quay chậm (slow motion) chi tiết các bức phù điêu chạm khắc tinh xảo trên đá tại đền Bay-on.",
+   "trang_sgk": [
+    45
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Vì sao Ăng-co suy yếu?",
+   "noi_dung": "Một video ngắn tổng kết lại lý do vương quốc hùng mạnh phải dời đô về phía nam.",
+   "kien_thuc_chot": [
+    "Nguyên nhân: Tranh giành quyền lực nội bộ và sự tấn công của người Thái.",
+    "Hệ quả: Thế kỉ XV, kinh đô dời về vùng Phnôm Pênh ngày nay."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    44
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Kiến trúc sư Ăng-co': Học sinh kéo thả các khối đá sa thạch để lắp ghép mô hình đền tháp, tìm hiểu cách người xưa xây dựng mà không cần chất kết dính.",
+ "id": "L7-B8",
+ "ten": "Vương quốc Cam-pu-chia",
+ "lop": 7,
+ "chuong": "Chương 3. Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI"
+}

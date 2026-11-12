@@ -1,0 +1,105 @@
+{
+ "muc_chinh": [
+  "Nhà nước đầu tiên của người Việt cổ",
+  "Sự ra đời nước Âu Lạc",
+  "Đời sống vật chất và tinh thần của cư dân Văn Lang, Âu Lạc"
+ ],
+ "yeu_cau_can_dat": [
+  "Nắm vững sự thành lập và tổ chức nhà nước Văn Lang, Âu Lạc",
+  "Mô tả đời sống vật chất và tinh thần của cư dân thời kỳ này"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Nhà nước Văn Lang ra đời thế nào?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích lý do người Việt cổ thành lập nhà nước Văn Lang vào thế kỉ VII TCN.",
+   "kien_thuc_chot": [
+    "Ra đời khoảng thế kỉ VII TCN",
+    "Do nhu cầu làm thủy lợi và chống ngoại xâm",
+    "Chia làm 15 bộ, đứng đầu là Hùng Vương"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ 15 bộ của nhà nước Văn Lang",
+   "trang_sgk": [
+    61
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Sự trỗi dậy của nước Âu Lạc",
+   "noi_dung": "Câu chuyện về Thục Phán lãnh đạo người Lạc Việt và Âu Việt chống quân Tần, lập nên nước Âu Lạc.",
+   "kien_thuc_chot": [
+    "Thành lập khoảng năm 208 TCN",
+    "An Dương Vương là người đứng đầu",
+    "Kinh đô đặt tại Cổ Loa"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ di chuyển từ Phong Châu về Cổ Loa",
+   "trang_sgk": [
+    61,
+    62
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bí ẩn thành Cổ Loa",
+   "noi_dung": "Khám phá cấu trúc xoáy trôn ốc độc đáo và vũ khí nỏ thần của thành Cổ Loa.",
+   "kien_thuc_chot": [
+    "Thành có 3 vòng khép kín",
+    "Tổng chiều dài 16.000m",
+    "Sử dụng nỏ liên châu"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô hình 3D thành Cổ Loa xoay 360 độ",
+   "trang_sgk": [
+    62
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Người Việt cổ sống ra sao?",
+   "noi_dung": "Nhật Minh và Hân Hân khám phá đời sống vật chất: từ nhà sàn, nghề lúa nước đến trang phục.",
+   "kien_thuc_chot": [
+    "Nông nghiệp trồng lúa nước là chính",
+    "Kỹ thuật đúc đồng phát triển (trống đồng Ngọc Lũ)",
+    "Ở nhà sàn, mặc váy, đóng khố"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    63,
+    64
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Tục lệ độc đáo của tổ tiên",
+   "noi_dung": "Tìm hiểu về đời sống tinh thần: tục xăm mình, ăn trầu, bánh chưng bánh giày và thờ cúng tổ tiên.",
+   "kien_thuc_chot": [
+    "Tín ngưỡng thờ cúng tổ tiên",
+    "Tục xăm mình, nhuộm răng đen, ăn trầu",
+    "Lễ hội gắn liền với nông nghiệp"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    64
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi kéo thả: Xây dựng thành Cổ Loa bằng cách kéo các vòng thành vào đúng vị trí và chọn các loại vũ khí tương ứng với thời kỳ Âu Lạc.",
+ "id": "L6-B14",
+ "ten": "Nhà nước Văn Lang, Âu Lạc",
+ "lop": 6,
+ "chuong": "Chương 5. Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X"
+}

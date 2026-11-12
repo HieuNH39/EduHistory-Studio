@@ -1,0 +1,89 @@
+{
+ "muc_chinh": [
+  "Nguyên nhân và điều kiện của các cuộc đại phát kiến địa lí",
+  "Một số cuộc đại phát kiến địa lí tiêu biểu",
+  "Tác động của các cuộc đại phát kiến địa lí"
+ ],
+ "yeu_cau_can_dat": [
+  "Giải thích nguyên nhân, mô tả hành trình của C. Cô-lôm-bô và Ph. Ma-gien-lăng, phân tích hệ quả lịch sử."
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao người châu Âu lại khao khát ra khơi?",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã nhu cầu tìm vàng, hương liệu và con đường mới sang phương Đông khi các tuyến đường cũ bị chặn.",
+   "kien_thuc_chot": [
+    "Nhu cầu nguyên liệu, vàng bạc và thị trường tăng cao.",
+    "Con đường truyền thống qua Địa Trung Hải bị chặn.",
+    "Tiến bộ kĩ thuật: la bàn, hải đồ, tàu Ca-ra-ven."
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    168,
+    169
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 2,
+   "ten_tap": "C. Cô-lôm-bô và hành trình tìm ra châu Mỹ",
+   "noi_dung": "Hân Hân kể lại chuyến đi đầy thử thách của C. Cô-lôm-bô từ Tây Ban Nha, vô tình tìm ra châu Mỹ thay vì Ấn Độ.",
+   "kien_thuc_chot": [
+    "C. Cô-lôm-bô thực hiện 4 chuyến thám hiểm (1492-1502).",
+    "Phát hiện ra châu Mỹ (vùng biển Ca-ri-bê).",
+    "Mở ra sự kết nối giữa các châu lục."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động mô phỏng đường đi từ Tây Ban Nha vượt Đại Tây Dương đến vùng biển Ca-ri-bê.",
+   "trang_sgk": [
+    170
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Chuyến đi vòng quanh thế giới của Ph. Ma-gien-lăng",
+   "noi_dung": "Nhật Minh thuật lại hành trình lịch sử của đoàn tàu Ph. Ma-gien-lăng, chuyến đi chứng minh Trái Đất hình cầu.",
+   "kien_thuc_chot": [
+    "Hành trình 1519-1522 từ Tây Ban Nha.",
+    "Tìm ra eo biển Ma-gien-lăng và Thái Bình Dương.",
+    "S. Ê-ca-nô hoàn thành chuyến đi sau khi Ma-gien-lăng qua đời.",
+    "Khẳng định Trái Đất hình cầu."
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng đường đi vòng quanh thế giới trên quả địa cầu, đánh dấu các điểm dừng chân quan trọng.",
+   "trang_sgk": [
+    170,
+    171
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Thế giới thay đổi thế nào sau các cuộc phát kiến?",
+   "noi_dung": "Hai bạn cùng thảo luận về tác động hai mặt: sự phát triển kinh tế, giao lưu văn hóa và mặt trái là nạn nô lệ, cướp bóc thuộc địa.",
+   "kien_thuc_chot": [
+    "Thúc đẩy thương nghiệp, công nghiệp phát triển.",
+    "Mở rộng giao lưu văn hóa toàn cầu.",
+    "Nảy sinh nạn buôn bán nô lệ và cướp bóc thuộc địa.",
+    "Người lao động bị bần cùng hóa."
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    171
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Trò chơi 'Nhà thám hiểm nhí': Học sinh chọn lộ trình trên bản đồ, chọn loại tàu và công cụ định hướng để vượt đại dương, nếu chọn sai sẽ không đến được đích.",
+ "id": "L7-CD1",
+ "ten": "Các cuộc đại phát kiến địa lí",
+ "lop": 7,
+ "chuong": "Chủ đề chung"
+}

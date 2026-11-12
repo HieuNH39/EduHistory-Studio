@@ -1,0 +1,107 @@
+{
+ "muc_chinh": [
+  "Nguyên nhân dẫn tới Chiến tranh thế giới thứ hai",
+  "Diễn biến chính và hậu quả của chiến tranh",
+  "Nguyên nhân thắng lợi, ý nghĩa lịch sử và vai trò của Liên Xô và các nước Đồng minh"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày nguyên nhân, diễn biến chính và hậu quả của chiến tranh",
+  "Phân tích vai trò của Liên Xô và các nước Đồng minh",
+  "Rút ra bài học lịch sử về bảo vệ hòa bình"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao thế giới lại bùng nổ chiến tranh?",
+   "noi_dung": "Nhật Minh và Hân Hân giải thích về mâu thuẫn giữa các nước đế quốc và sự trỗi dậy của chủ nghĩa phát xít sau khủng hoảng kinh tế 1929-1933.",
+   "kien_thuc_chot": [
+    "Mâu thuẫn về thị trường và thuộc địa",
+    "Tác động của khủng hoảng kinh tế 1929-1933",
+    "Sự hình thành khối phát xít Đức, I-ta-li-a, Nhật Bản"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ tư duy động thể hiện sự đối đầu giữa hai khối: Phát xít và các nước tư bản dân chủ.",
+   "trang_sgk": [
+    20
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Từ Ba Lan đến Mát-xcơ-va: Chiến tranh lan rộng",
+   "noi_dung": "Theo chân Nhật Minh và Hân Hân tìm hiểu giai đoạn đầu của chiến tranh từ 1939 đến 1942.",
+   "kien_thuc_chot": [
+    "Ngày 1/9/1939: Đức tấn công Ba Lan",
+    "Ngày 22/6/1941: Đức tấn công Liên Xô",
+    "Tháng 12/1941: Mỹ tham chiến sau sự kiện Trân Châu cảng",
+    "Tháng 1/1942: Thành lập Mặt trận Đồng minh"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ thế giới động hiển thị các mũi tên tấn công của quân Đức vào châu Âu và Liên Xô.",
+   "trang_sgk": [
+    21
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bước ngoặt Xta-lin-grát và ngày tàn của phát xít",
+   "noi_dung": "Nhật Minh và Hân Hân kể về cuộc phản công của Đồng minh dẫn đến sự sụp đổ của phe phát xít.",
+   "kien_thuc_chot": [
+    "Chiến thắng Xta-lin-grát là bước ngoặt chiến tranh",
+    "Tháng 6/1944: Mở mặt trận thứ hai tại Noóc-măng-đi",
+    "Ngày 9/5/1945: Đức đầu hàng",
+    "Ngày 15/8/1945: Nhật Bản đầu hàng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Trục thời gian tương tác kéo thả các sự kiện từ 1942 đến 1945.",
+   "trang_sgk": [
+    21,
+    22
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Cái giá của chiến tranh",
+   "noi_dung": "Hân Hân và Nhật Minh phân tích những con số biết nói về hậu quả khủng khiếp của cuộc chiến.",
+   "kien_thuc_chot": [
+    "60 triệu người chết, 90 triệu người bị thương",
+    "Thiệt hại vật chất khổng lồ (4000 tỉ USD)",
+    "Sự sụp đổ của chủ nghĩa phát xít"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    22
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Ai đã đánh bại chủ nghĩa phát xít?",
+   "noi_dung": "Nhật Minh và Hân Hân thảo luận về nguyên nhân thắng lợi và vai trò quyết định của Liên Xô cùng các nước Đồng minh.",
+   "kien_thuc_chot": [
+    "Chiến tranh phi nghĩa (phát xít) đối đầu chính nghĩa (Đồng minh)",
+    "Liên Xô giữ vai trò quyết định nhất",
+    "Thắng lợi tạo điều kiện cho phong trào giải phóng dân tộc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    23
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng chọn các mốc thời gian trên thanh trượt để xem các mũi tên tấn công và các trận đánh lớn thay đổi cục diện chiến tranh trên bản đồ thế giới.",
+ "id": "L9-B4",
+ "ten": "Chiến tranh thế giới thứ hai (1939 – 1945)",
+ "lop": 9,
+ "chuong": "Chương 1. Thế giới từ năm 1918 đến năm 1945"
+}

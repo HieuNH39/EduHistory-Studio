@@ -1,0 +1,106 @@
+{
+ "muc_chinh": [
+  "Cách mạng tư sản Anh",
+  "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ"
+ ],
+ "yeu_cau_can_dat": [
+  "Xác định vị trí địa lí",
+  "Trình bày nguyên nhân, kết quả, ý nghĩa, tính chất",
+  "Nêu đặc điểm chính của hai cuộc cách mạng"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Tại sao nước Anh bùng nổ cách mạng?",
+   "noi_dung": "Nhật Minh và Hân Hân giải mã sự trỗi dậy của tầng lớp quý tộc mới và mâu thuẫn với chế độ quân chủ chuyên chế.",
+   "kien_thuc_chot": [
+    "Kinh tế Anh phát triển nhất châu Âu",
+    "Sự hình thành tầng lớp quý tộc mới",
+    "Mâu thuẫn giữa tư sản, quý tộc mới với chế độ phong kiến"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    10,
+    11
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Diễn biến và kết cục của Cách mạng Anh",
+   "noi_dung": "Hành trình từ cuộc nội chiến năm 1642 đến việc thiết lập chế độ quân chủ lập hiến.",
+   "kien_thuc_chot": [
+    "Cách mạng bùng nổ năm 1642",
+    "Vua Sác-lơ I bị xử tử năm 1649",
+    "Thiết lập chế độ quân chủ lập hiến năm 1689"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ dòng thời gian tương tác: 1640 (Triệu tập Quốc hội) -> 1642 (Nội chiến) -> 1649 (Xử tử vua) -> 1689 (Quân chủ lập hiến)",
+   "trang_sgk": [
+    11
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Bắc Mỹ: Ngọn lửa độc lập bùng cháy",
+   "noi_dung": "Câu chuyện về 13 thuộc địa Anh và sự kiện chè Bô-xtơn châm ngòi cho cuộc chiến tranh giải phóng.",
+   "kien_thuc_chot": [
+    "Thực dân Anh lập 13 thuộc địa ở Bắc Mỹ",
+    "Mâu thuẫn giữa thuộc địa và chính quốc",
+    "Sự kiện chè Bô-xtơn (12/1773) và chiến tranh bùng nổ (4/1775)"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    12
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Hợp chúng quốc Mỹ ra đời",
+   "noi_dung": "Hân Hân và Nhật Minh phân tích chiến thắng I-oóc-tao và ý nghĩa của Tuyên ngôn Độc lập 1776.",
+   "kien_thuc_chot": [
+    "Chiến thắng I-oóc-tao (1781) kết thúc chiến tranh",
+    "Thành lập Hợp chúng quốc Mỹ",
+    "Thiết lập chế độ cộng hòa tổng thống"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ 13 thuộc địa Anh tại Bắc Mỹ và các mốc chiến thắng quan trọng",
+   "trang_sgk": [
+    12,
+    13
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Nhìn lại lịch sử: Điểm chung và khác biệt",
+   "noi_dung": "Tổng kết tính chất, ý nghĩa của hai cuộc cách mạng và ảnh hưởng của chúng đến thế giới.",
+   "kien_thuc_chot": [
+    "Cả hai đều là cách mạng tư sản",
+    "Cách mạng Anh: Quân chủ lập hiến",
+    "Cách mạng Mỹ: Cộng hòa tổng thống"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    11,
+    13
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bảng so sánh tương tác: Học sinh kéo thả các đặc điểm (Lãnh đạo, Hình thức, Kết quả) vào cột tương ứng của Cách mạng Anh hoặc Cách mạng Mỹ để kiểm tra kiến thức.",
+ "id": "L8-B1",
+ "ten": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+ "lop": 8,
+ "chuong": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII"
+}

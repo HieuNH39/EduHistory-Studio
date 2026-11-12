@@ -1,0 +1,130 @@
+{
+ "muc_chinh": [
+  "Lê Lợi dựng cờ khởi nghĩa",
+  "Những năm đầu của cuộc khởi nghĩa (1418 - 1423)",
+  "Giai đoạn mở rộng hoạt động (1424 - 1425)",
+  "Khởi nghĩa toàn thắng (1426 - 1427)",
+  "Nguyên nhân thắng lợi và ý nghĩa lịch sử"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày sự kiện tiêu biểu",
+  "Giải thích nguyên nhân thắng lợi",
+  "Nêu ý nghĩa lịch sử",
+  "Đánh giá vai trò nhân vật lịch sử"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Hào khí Lam Sơn",
+   "noi_dung": "Nhật Minh và Hân Hân giới thiệu bối cảnh đất nước dưới ách đô hộ nhà Minh và sự kiện Lê Lợi dựng cờ khởi nghĩa tại Lam Sơn.",
+   "kien_thuc_chot": [
+    "Năm 1407, nhà Minh đô hộ Đại Ngu",
+    "Lê Lợi là hào trưởng uy tín tại Lam Sơn",
+    "Năm 1416: Hội thề Lũng Nhai",
+    "Năm 1418: Lê Lợi xưng Bình Định Vương"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    78,
+    79
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Gian nan những ngày đầu",
+   "noi_dung": "Kể về những khó khăn chồng chất tại núi Chí Linh và chiến thuật tạm hòa hoãn của nghĩa quân.",
+   "kien_thuc_chot": [
+    "Nghĩa quân nhiều lần rút lên núi Chí Linh",
+    "Lê Lai hy sinh cứu chủ tướng",
+    "Chủ trương tạm hòa hoãn để củng cố lực lượng",
+    "Nguyễn Trãi là quân sư đắc lực"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Mô phỏng bản đồ địa hình vùng núi Chí Linh với các điểm vây hãm của quân Minh",
+   "trang_sgk": [
+    79
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Kế sách 'Tránh chỗ mạnh, đánh chỗ yếu'",
+   "noi_dung": "Khám phá bước ngoặt chiến lược khi nghĩa quân tiến vào Nghệ An theo kế sách của Nguyễn Chích.",
+   "kien_thuc_chot": [
+    "Nguyễn Chích hiến kế đánh Nghệ An làm căn cứ",
+    "Giải phóng vùng đất từ Thanh Hóa đến đèo Hải Vân",
+    "Thay đổi cục diện chiến tranh"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện hướng tiến quân từ Thanh Hóa vào Nghệ An",
+   "trang_sgk": [
+    80
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Chiến thắng vang dội: Tốt Động - Chúc Động",
+   "noi_dung": "Tái hiện trận đánh quyết định khi nghĩa quân tiến quân ra Bắc và chặn đứng viện binh địch.",
+   "kien_thuc_chot": [
+    "Tháng 9/1426: Tiến quân ra Bắc",
+    "Tháng 11/1426: Thắng trận Tốt Động - Chúc Động",
+    "Siết chặt vòng vây thành Đông Quan"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Sơ đồ chiến thuật mai phục tại Tốt Động - Chúc Động",
+   "trang_sgk": [
+    80,
+    81
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 5,
+   "ten_tap": "Chi Lăng - Xương Giang và Hội thề Đông Quan",
+   "noi_dung": "Kể về trận đánh tiêu diệt viện binh Liễu Thăng và kết thúc chiến tranh bằng Hội thề Đông Quan.",
+   "kien_thuc_chot": [
+    "Tháng 10/1427: Chiến thắng Chi Lăng - Xương Giang",
+    "Liễu Thăng tử trận",
+    "10/12/1427: Hội thề Đông Quan",
+    "Đầu năm 1428: Đất nước giải phóng"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ động thể hiện hai hướng tiến quân của quân Minh và các điểm phục kích của nghĩa quân",
+   "trang_sgk": [
+    81,
+    82
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 6,
+   "ten_tap": "Vì sao ta thắng?",
+   "noi_dung": "Nhật Minh và Hân Hân tổng kết nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc khởi nghĩa.",
+   "kien_thuc_chot": [
+    "Tinh thần yêu nước, đoàn kết của nhân dân",
+    "Đường lối lãnh đạo sáng tạo của Lê Lợi, Nguyễn Trãi",
+    "Chấm dứt 20 năm đô hộ, khôi phục độc lập dân tộc"
+   ],
+   "khung": "2-3p",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    82
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng chọn các mốc thời gian (1418, 1424, 1426, 1427) để xem hướng di chuyển của nghĩa quân và các trận đánh then chốt trên bản đồ Đại Việt.",
+ "id": "L7-B16",
+ "ten": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+ "lop": 7,
+ "chuong": "Chương 6. Khởi nghĩa Lam Sơn và Đại Việt thời Lê sơ (1418 – 1527)"
+}

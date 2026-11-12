@@ -1,0 +1,91 @@
+{
+ "muc_chinh": [
+  "Ấn Độ nửa sau thế kỉ XIX",
+  "Phong trào giải phóng dân tộc ở Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX"
+ ],
+ "yeu_cau_can_dat": [
+  "Trình bày được tình hình chính trị, kinh tế, xã hội Ấn Độ",
+  "Nêu được các sự kiện tiêu biểu về phong trào giải phóng dân tộc ở Đông Nam Á"
+ ],
+ "tap": [
+  {
+   "so": 1,
+   "ten_tap": "Ấn Độ: Khi 'viên ngọc quý' bị chiếm đóng",
+   "noi_dung": "Nhật Minh và Hân Hân cùng tìm hiểu cách thực dân Anh biến Ấn Độ thành thuộc địa thông qua chính sách cai trị và bóc lột.",
+   "kien_thuc_chot": [
+    "Anh hoàn thành xâm lược Ấn Độ giữa thế kỉ XIX",
+    "Chính trị: Anh cai trị trực tiếp, Nữ hoàng Anh là Nữ hoàng Ấn Độ",
+    "Kinh tế: Vơ vét nguyên liệu, bóc lột nhân công",
+    "Xã hội: Mâu thuẫn sâu sắc giữa nhân dân Ấn Độ và thực dân Anh"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Ấn Độ chuyển từ màu sắc các vương quốc phong kiến sang màu cờ Anh, các mũi tên chỉ dòng chảy tài nguyên từ Ấn Độ về Anh.",
+   "trang_sgk": [
+    69,
+    70
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 2,
+   "ten_tap": "Đông Nam Á: Cuộc chiến chống thực dân",
+   "noi_dung": "Hai bạn nhỏ điểm lại bức tranh Đông Nam Á khi hầu hết các nước trở thành thuộc địa và tinh thần bất khuất của nhân dân khu vực.",
+   "kien_thuc_chot": [
+    "Ngoại trừ Xiêm, các nước khác đều trở thành thuộc địa",
+    "In-đô-nê-xi-a: Nhiều cuộc khởi nghĩa nổ ra (A-chê, Ba Tắc, Sa-min)",
+    "Phi-líp-pin: Cách mạng 1896-1898 lật đổ Tây Ban Nha nhưng sau đó bị Mỹ thôn tính",
+    "Xuất hiện xu hướng cải cách và bạo động"
+   ],
+   "khung": "4-5p",
+   "huong": "ngang",
+   "mo_phong": "Bản đồ Đông Nam Á với các mốc thời gian và địa điểm khởi nghĩa sáng lên khi Nhật Minh và Hân Hân nhắc đến.",
+   "trang_sgk": [
+    70,
+    71
+   ],
+   "uu_tien": "P1"
+  },
+  {
+   "so": 3,
+   "ten_tap": "Liên minh chiến đấu ba nước Đông Dương",
+   "noi_dung": "Nhật Minh và Hân Hân kể về sự phối hợp chiến đấu giữa nhân dân Việt Nam, Lào và Cam-pu-chia chống kẻ thù chung.",
+   "kien_thuc_chot": [
+    "Việt Nam: Cần vương, Yên Thế, xu hướng dân chủ tư sản",
+    "Cam-pu-chia: Khởi nghĩa A-cha Xoa, Pu-côm-bô, Si-vô-tha",
+    "Lào: Khởi nghĩa Pha-ca-đuốc, Ong Kẹo",
+    "Sự hình thành liên minh chiến đấu ba dân tộc"
+   ],
+   "khung": "2-3p",
+   "huong": "ngang",
+   "mo_phong": null,
+   "trang_sgk": [
+    72
+   ],
+   "uu_tien": "P2"
+  },
+  {
+   "so": 4,
+   "ten_tap": "Sự thật về 'Khai hoá văn minh'",
+   "noi_dung": "Nhật Minh và Hân Hân tranh luận về luận điệu 'khai hoá văn minh' của thực dân phương Tây.",
+   "kien_thuc_chot": [
+    "Thực dân không đến để giúp phát triển",
+    "Mục đích thực sự là vơ vét tài nguyên và bóc lột nhân công",
+    "Đấu tranh giành độc lập là tất yếu"
+   ],
+   "khung": "60s",
+   "huong": "doc",
+   "mo_phong": null,
+   "trang_sgk": [
+    69,
+    72
+   ],
+   "uu_tien": "P3"
+  }
+ ],
+ "mo_phong_tuong_tac": "Bản đồ tương tác: Người dùng chọn một quốc gia trên bản đồ Đông Nam Á, các cuộc khởi nghĩa tiêu biểu tại đó sẽ hiện ra cùng thông tin tóm tắt.",
+ "id": "L8-B15",
+ "ten": "Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+ "lop": 8,
+ "chuong": "Chương 6. Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX"
+}
