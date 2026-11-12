@@ -1,0 +1,93 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B14-01",
+   "nhan_vat": [
+    {
+     "ten": "Hùng Vương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người đứng đầu liên minh 15 bộ của nhà nước Văn Lang",
+     "the_ki": "VII TCN"
+    },
+    {
+     "ten": "Người Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân làm nông nghiệp và xây dựng nhà nước đầu tiên",
+     "the_ki": "VII TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B14-02",
+   "nhan_vat": [
+    {
+     "ten": "An Dương Vương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua nước Âu Lạc, người lãnh đạo kháng chiến chống quân Tần",
+     "the_ki": "III TCN"
+    },
+    {
+     "ten": "Quân Tần",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân xâm lược phương Bắc",
+     "the_ki": "III TCN"
+    },
+    {
+     "ten": "Người Lạc Việt và Âu Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân đoàn kết chống ngoại xâm và lập nước Âu Lạc",
+     "the_ki": "III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B14-03",
+   "nhan_vat": [
+    {
+     "ten": "Quân đội Âu Lạc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng bảo vệ thành Cổ Loa",
+     "the_ki": "III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B14-04",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Văn Lang, Âu Lạc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người nông dân trồng lúa nước và thợ thủ công đúc đồng",
+     "the_ki": "VII TCN - III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B14-05",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Văn Lang, Âu Lạc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người thực hiện các tục lệ xăm mình, ăn trầu, thờ cúng tổ tiên",
+     "the_ki": "VII TCN - III TCN"
+    }
+   ]
+  }
+ ]
+}

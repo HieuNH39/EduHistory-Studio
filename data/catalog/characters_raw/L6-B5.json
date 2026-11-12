@@ -1,0 +1,72 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B5-01",
+   "nhan_vat": [
+    {
+     "ten": "Người tối cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Sống thành bầy, dùng sức mạnh tập thể để săn bắt và tự vệ",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B5-02",
+   "nhan_vat": [
+    {
+     "ten": "Người tinh khôn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thành viên công xã thị tộc, sống quần tụ, bình đẳng, làm chung hưởng chung",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B5-03",
+   "nhan_vat": [
+    {
+     "ten": "Người tối cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chế tạo công cụ đá thô sơ, làm lửa, săn bắn",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tinh khôn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Trồng trọt, chăn nuôi, làm gốm, dệt vải, làm đồ trang sức",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B5-04",
+   "nhan_vat": [
+    {
+     "ten": "Người tối cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lao động để hoàn thiện cơ thể và hình thành bầy người",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tinh khôn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lao động để phát triển xã hội và nâng cao đời sống",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B20-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Phù Nam",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Người dân sinh sống tại vùng đất Nam Bộ thời cổ đại",
+     "the_ki": "I - VII"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B20-02",
+   "nhan_vat": [
+    {
+     "ten": "Thương nhân Phù Nam",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Người thực hiện các hoạt động buôn bán tại cảng thị Óc Eo",
+     "the_ki": "I - VII"
+    },
+    {
+     "ten": "Thương nhân nước ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc, Chăm-pa, Mã Lai, Ấn Độ",
+     "vai_tro": "Đối tác buôn bán tại cảng thị Óc Eo",
+     "the_ki": "I - VII"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B20-03",
+   "nhan_vat": [
+    {
+     "ten": "Vua Phù Nam",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Người đứng đầu nhà nước, có quyền lực cao nhất",
+     "the_ki": "III - VII"
+    },
+    {
+     "ten": "Tăng lữ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Tầng lớp thực hành tín ngưỡng, tôn giáo",
+     "the_ki": "I - VII"
+    },
+    {
+     "ten": "Quý tộc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Tầng lớp thống trị trong xã hội",
+     "the_ki": "I - VII"
+    },
+    {
+     "ten": "Dân tự do",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Thương nhân, thợ thủ công, nông dân",
+     "the_ki": "I - VII"
+    },
+    {
+     "ten": "Nô lệ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Tầng lớp thấp nhất trong xã hội",
+     "the_ki": "I - VII"
+    }
+   ]
+  }
+ ]
+}

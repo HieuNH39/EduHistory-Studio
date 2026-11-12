@@ -1,0 +1,93 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B3-01",
+   "nhan_vat": [
+    {
+     "ten": "công nhân Anh thế kỉ XVIII",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "người lao động trong các xưởng dệt",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B3-02",
+   "nhan_vat": [
+    {
+     "ten": "Giêm Oát",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "nhà phát minh máy hơi nước",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B3-03",
+   "nhan_vat": [
+    {
+     "ten": "E. Các-rai",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "nhà phát minh máy dệt",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Xti-phen-xơn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "nhà phát minh đầu máy xe lửa",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B3-04",
+   "nhan_vat": [
+    {
+     "ten": "công nhân công nghiệp châu Âu và Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp, Đức, Mỹ",
+     "vai_tro": "người vận hành máy móc trong các nhà máy",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B3-05",
+   "nhan_vat": [
+    {
+     "ten": "giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh, Pháp, Đức, Mỹ",
+     "vai_tro": "giai cấp thống trị, chủ sở hữu nhà máy",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "giai cấp vô sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh, Pháp, Đức, Mỹ",
+     "vai_tro": "giai cấp lao động làm thuê",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "trẻ em lao động",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh, Pháp, Đức, Mỹ",
+     "vai_tro": "nạn nhân của sự bóc lột sức lao động",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

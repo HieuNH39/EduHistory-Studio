@@ -1,0 +1,418 @@
+{
+ "ma": "L8-B8-02",
+ "ten_tap": "Trận thuỷ chiến Rạch Gầm – Xoài Mút",
+ "ten_tap_en": "The Rạch Gầm – Xoài Mút River Battle",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 8. Phong trào Tây Sơn",
+  "trang": [
+   36,
+   37
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-hue",
+  "nguyen-anh",
+  "tuong-xiem",
+  "nghia-quan-tay-son",
+  "quan-xiem"
+ ],
+ "nhac": {
+  "tam_trang": "mở đầu êm (đàn tranh, sáo), dồn dần bằng trống trận, cao trào ở cảnh bè lửa, kết lắng và tự hào",
+  "nguon": "nhạc miễn phí bản quyền"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 8, tr. 36–37.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "ken_burns",
+   "hinh": "Nhật Minh và Hân Hân đứng trên bờ sông Tiền rộng, hàng dừa nước, thuyền máy nhỏ chạy xa xa, chiều muộn (hiện tại)",
+   "am_thanh": "sóng vỗ nhẹ, chim, tiếng máy thuyền xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhật Minh, cậu có biết khúc sông hiền hoà này từng là chiến trường của một trận thuỷ chiến lớn trong lịch sử chống ngoại xâm không?",
+     "Nhat Minh, did you know this peaceful river was once the scene of one of the great naval battles against foreign invaders?"
+    ],
+    [
+     "Nhật Minh",
+     "Ở đây á? Sông Tiền, Đồng Tháp? Đưa tớ về xem đi!",
+     "Here? The Tiền River in Đồng Tháp? Take me back to see it!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1784",
+   "thoi_luong": 2.0,
+   "am_thanh": "tiếng trống đồng vang, gió cuốn"
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-anh"
+   ],
+   "hinh": "Nguyễn Ánh cúi chào trước triều đình Xiêm trong một cung điện mái nhọn, đèn nến, quan lại hai bên (vua Xiêm ở xa, quay nghiêng)",
+   "am_thanh": "không gian cung điện, tiếng xì xào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thất bại trước quân Tây Sơn, Nguyễn Ánh cầu cứu vua Xiêm.",
+     "Defeated by the Tây Sơn army, Nguyễn Ánh asked the King of Siam for help."
+    ],
+    [
+     "Nguyễn Ánh",
+     "Quân Tây Sơn quá mạnh. Xin bệ hạ giúp ta một tay!",
+     "The Tây Sơn are too strong. Your Majesty, I beg for your help!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-xiem"
+   ],
+   "hinh": "Đoàn thuyền chiến lớn của quân Xiêm nối nhau tiến vào cửa sông rộng vùng Nam Bộ, bộ binh hành quân trên bờ, viễn cảnh từ trên cao, sương sớm",
+   "am_thanh": "mái chèo, trống hành quân xa, sóng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối tháng 7 năm 1784, khoảng 5 vạn quân Xiêm theo cả đường thuỷ lẫn đường bộ kéo sang nước ta.",
+     "In late July 1784, about 50,000 Siamese troops came into our land by both river and road."
+    ],
+    [
+     "Hân Hân",
+     "Đến cuối năm, chúng đã chiếm hết miền Tây Gia Định, tức miền Tây Nam Bộ ngày nay.",
+     "By the end of that year, they held all of western Gia Định, today's western Southern Region."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-hue",
+    "nghia-quan-tay-son"
+   ],
+   "hinh": "Nguyễn Huệ đứng trên gò cao ven sông gần Mỹ Tho, cùng vài tướng lĩnh, nhìn xuống khúc sông rộng có cù lao giữa dòng; cờ đỏ bay trong gió",
+   "am_thanh": "gió sông, cờ bay phần phật",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 1 năm 1785, Nguyễn Huệ được lệnh tiến quân vào Gia Định. Ông đóng đại bản doanh ở Mỹ Tho.",
+     "In January 1785, Nguyễn Huệ was ordered into Gia Định. He set up his headquarters at Mỹ Tho."
+    ],
+    [
+     "Nguyễn Huệ",
+     "Khúc sông từ Rạch Gầm đến Xoài Mút này… Ta sẽ quyết chiến với giặc ở đây!",
+     "This stretch from Rạch Gầm to Xoài Mút… This is where we will fight the decisive battle!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "rach-gam-xoai-mut",
+   "pha": "dia_the",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn khúc sông: độ dài, bề rộng, cù lao Thới Sơn, kênh rạch và cây rậm hai bờ, vị trí Mỹ Tho",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao lại là khúc sông này nhỉ?",
+     "Why this stretch of river?"
+    ],
+    [
+     "Hân Hân",
+     "Đoạn sông dài khoảng 6 ki-lô-mét, rộng hơn 1 ki-lô-mét, có chỗ gần 2 ki-lô-mét. Giữa dòng có cù lao Thới Sơn.",
+     "It runs about 6 kilometres, more than 1 kilometre wide and nearly 2 in places, with Thới Sơn islet in the middle."
+    ],
+    [
+     "Nhật Minh",
+     "Hai bên bờ cây cối rậm rạp, lại có nhiều kênh rạch nhỏ. Rất hợp để giấu quân mai phục cả dưới sông lẫn trên bờ!",
+     "Both banks were thick with trees and small canals, perfect for hiding an ambush on the water and on land!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-hue",
+    "nghia-quan-tay-son"
+   ],
+   "hinh": "Trong lều chỉ huy, Nguyễn Huệ chỉ tay lên tấm bản đồ vẽ tay trải trên bàn, các tướng Tây Sơn đứng quanh lắng nghe, ánh đuốc",
+   "am_thanh": "lửa đuốc lách tách",
+   "loi": [
+    [
+     "Nguyễn Huệ",
+     "Thuyền chiến nấp trong các rạch. Bộ binh phục hai bên bờ. Chưa có hiệu lệnh, không ai được động!",
+     "Warships hide in the canals. Infantry wait on both banks. No one moves until the signal!"
+    ],
+    [
+     "Tướng Tây Sơn",
+     "Tuân lệnh!",
+     "Yes, sir!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "rach-gam-xoai-mut",
+   "pha": "mai_phuc",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Sa bàn: các cụm thuyền và bộ binh Tây Sơn hiện dần trong kênh rạch và dọc hai bờ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một trận địa mai phục cả thuỷ lẫn bộ được giăng sẵn dọc khúc sông, chỉ chờ quân Xiêm tiến vào.",
+     "A combined river-and-land ambush was laid along the river, waiting for the Siamese to sail in."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-tay-son"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi dừa nước bên một con rạch, nhìn ra sông; trong rạch phía sau là các thuyền nhỏ của nghĩa quân Tây Sơn ẩn dưới tán lá, sương sớm",
+   "am_thanh": "nước rạch, côn trùng, im lặng căng thẳng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Suỵt… Hôm nay là ngày 19 tháng 1 năm 1785. Nhìn kìa, thuyền Xiêm đang xuôi xuống!",
+     "Shh… It's the 19th of January, 1785. Look, the Siamese ships are coming downriver!"
+    ],
+    [
+     "Hân Hân",
+     "Còn nghĩa quân thì vẫn nằm im trong rạch. Họ đang chờ đấy.",
+     "And the Tây Sơn fighters are still hiding in the canal. They're waiting."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tuong-xiem",
+    "quan-xiem",
+    "nghia-quan-tay-son"
+   ],
+   "hinh": "Vài thuyền nhỏ Tây Sơn đánh khẽ rồi quay đầu rút chạy; trên mũi thuyền chiến lớn, tướng Xiêm vung tay ra lệnh đuổi theo",
+   "am_thanh": "tiếng hô, mái chèo gấp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nguyễn Huệ chọn cách đánh nghi binh, nhử quân Xiêm vào sâu trong trận địa mai phục.",
+     "Nguyễn Huệ chose to use a feint, luring the Siamese deep into the ambush."
+    ],
+    [
+     "Tướng Xiêm",
+     "Chúng bỏ chạy rồi! Đuổi theo! Không cho thoát!",
+     "They're running! After them! Don't let them escape!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "rach-gam-xoai-mut",
+   "pha": "nhu_dich",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Sa bàn: đoàn thuyền Xiêm xuôi dòng từ Rạch Gầm vào giữa trận địa, đuổi theo mũi nghi binh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cả đoàn thuyền Xiêm cứ thế lọt vào giữa trận địa mai phục.",
+     "And so the whole Siamese fleet sailed right into the trap."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-hue",
+    "nghia-quan-tay-son",
+    "quan-xiem"
+   ],
+   "hinh": "Trống lệnh nổi lên; từ các rạch hai bên, thuyền Tây Sơn và bè lửa lao ra; thuyền chiến Xiêm giữa sông bốc cháy, khói đen cuồn cuộn (viễn cảnh, không cận thương vong)",
+   "am_thanh": "trống lệnh dồn dập, tiếng hô xung trận, lửa bùng",
+   "loi": [
+    [
+     "Nguyễn Huệ",
+     "Đánh!",
+     "Attack!"
+    ],
+    [
+     "Nhật Minh",
+     "Nghĩa quân bất ngờ chặn đánh từ nhiều phía,",
+     "The Tây Sơn forces struck by surprise from every side,"
+    ],
+    [
+     "Hân Hân",
+     "kết hợp dùng thuyền, bè lửa đốt cháy thuyền giặc!",
+     "sending boats and fire rafts to set the enemy ships ablaze!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "sa_ban",
+   "sa_ban": "rach-gam-xoai-mut",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Sa bàn: đoàn thuyền Xiêm bị bao vây, tan rã; dòng chữ 'Thắng lợi hoàn toàn trong một ngày'",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Xiêm bị tiêu diệt gần hết. Chỉ trong một ngày, quân Tây Sơn giành thắng lợi hoàn toàn!",
+     "The Siamese army was almost wiped out. In a single day, the Tây Sơn won a complete victory!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6,
+   "am_thanh": "tiếng trống đồng, gió lặng dần"
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "ken_burns",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ sông Tiền hôm nay, hoàng hôn, nét mặt tự hào",
+   "am_thanh": "sóng nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là một trong những trận thuỷ chiến lớn trong lịch sử chống ngoại xâm của dân tộc. Từ đây, khởi nghĩa Tây Sơn trở thành phong trào dân tộc.",
+     "It was one of the great naval battles in our history of resisting invaders. From then on, the Tây Sơn uprising became a national movement."
+    ],
+    [
+     "Nhật Minh",
+     "Sử triều Nguyễn còn ghi lại: người Xiêm tuy miệng nói khoác, mà trong lòng thì sợ Tây Sơn như sợ cọp!",
+     "Even the Nguyễn court's history wrote that the Siamese talked big, but feared the Tây Sơn like a tiger!"
+    ],
+    [
+     "Hân Hân",
+     "Câu hỏi cho cậu: vì sao Nguyễn Huệ chọn khúc sông này làm trận địa quyết chiến? Hẹn gặp ở tập sau: Đại phá quân Thanh!",
+     "Your question: why did Nguyễn Huệ choose this river stretch for the decisive battle? See you next time: the great victory over the Qing!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trận Rạch Gầm – Xoài Mút diễn ra vào thời gian nào?",
+   "dap_an": [
+    "19-1-1785",
+    "30-1-1789",
+    "Tháng 7-1784",
+    "Năm 1771"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Khúc sông Rạch Gầm – Xoài Mút thuộc dòng sông nào?",
+   "dap_an": [
+    "Sông Hậu",
+    "Sông Tiền",
+    "Sông Đồng Nai",
+    "Sông Bạch Đằng"
+   ],
+   "dung": 1,
+   "trang": 37
+  },
+  {
+   "hoi": "Đặc điểm nào KHÔNG thuộc địa thế khúc sông Rạch Gầm – Xoài Mút?",
+   "dap_an": [
+    "Có cù lao Thới Sơn giữa dòng",
+    "Hai bờ cây cối rậm rạp, nhiều kênh rạch",
+    "Có bãi cọc ngầm dưới lòng sông",
+    "Dài khoảng 6 km, rộng hơn 1 km"
+   ],
+   "dung": 2,
+   "trang": 37
+  },
+  {
+   "hoi": "Ý nghĩa nổi bật của chiến thắng Rạch Gầm – Xoài Mút là gì?",
+   "dap_an": [
+    "Lật đổ chính quyền chúa Trịnh",
+    "Khởi nghĩa Tây Sơn trở thành phong trào dân tộc",
+    "Kết thúc chiến tranh Nam – Bắc triều",
+    "Đánh tan quân Thanh"
+   ],
+   "dung": 1,
+   "trang": 37
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 36–37: mọi số liệu, mốc, kết quả, ý nghĩa do người dẫn chuyện nói đều có trong SGK; lời thoại nhân vật chỉ diễn đạt lại nội dung SGK",
+  "gv_duyet": null
+ }
+}

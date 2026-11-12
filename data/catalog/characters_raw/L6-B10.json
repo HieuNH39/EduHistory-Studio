@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B10-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Hy Lạp cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Người làm nghề hàng hải, buôn bán và nông nghiệp",
+     "the_ki": "VIII TCN - I TCN"
+    },
+    {
+     "ten": "Cư dân La Mã cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "La Mã",
+     "vai_tro": "Người làm nghề trồng trọt, chăn nuôi và luyện kim",
+     "the_ki": "VIII TCN - V"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B10-02",
+   "nhan_vat": [
+    {
+     "ten": "Pê-ri-clét",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Chấp chính quan thời hoàng kim của A-ten",
+     "the_ki": "V TCN"
+    },
+    {
+     "ten": "Công dân A-ten",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Tham gia Đại hội nhân dân và bỏ phiếu bằng vỏ sò",
+     "the_ki": "V TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B10-03",
+   "nhan_vat": [
+    {
+     "ten": "Ốc-ta-vi-út",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "La Mã",
+     "vai_tro": "Hoàng đế đầu tiên của đế chế La Mã",
+     "the_ki": "I TCN - I"
+    },
+    {
+     "ten": "Viện Nguyên lão",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "La Mã",
+     "vai_tro": "Cơ quan quyền lực mang tính hình thức thời đế chế",
+     "the_ki": "I TCN - V"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B10-04",
+   "nhan_vat": [
+    {
+     "ten": "Hô-me",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Nhà văn, tác giả sử thi",
+     "the_ki": "VIII TCN"
+    },
+    {
+     "ten": "Xô-phốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Nhà soạn kịch",
+     "the_ki": "V TCN"
+    },
+    {
+     "ten": "Pi-ta-go",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Nhà khoa học",
+     "the_ki": "VI TCN"
+    },
+    {
+     "ten": "Ac-si-mét",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Nhà khoa học",
+     "the_ki": "III TCN"
+    }
+   ]
+  }
+ ]
+}

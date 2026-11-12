@@ -1,0 +1,117 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B15-01",
+   "nhan_vat": [
+    {
+     "ten": "Đại biểu Đảng Cộng sản Đông Dương",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tham dự Đại hội đại biểu lần thứ II",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B15-02",
+   "nhan_vat": [
+    {
+     "ten": "Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Họp bàn kế hoạch tác chiến Đông - Xuân",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Triển khai kế hoạch Na-va",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B15-03",
+   "nhan_vat": [
+    {
+     "ten": "Võ Nguyên Giáp",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đại tướng, Tư lệnh chiến dịch Điện Biên Phủ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Dân công hỏa tuyến",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vận chuyển lương thực, vũ khí phục vụ chiến dịch",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đờ Ca-xtơ-ri",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Tướng chỉ huy tập đoàn cứ điểm Điện Biên Phủ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Binh sĩ Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Đầu hàng tại Điện Biên Phủ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B15-04",
+   "nhan_vat": [
+    {
+     "ten": "Đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tham gia đàm phán tại Hội nghị Giơ-ne-vơ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đại diện các nước tham gia Hội nghị Giơ-ne-vơ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Đàm phán lập lại hòa bình ở Đông Dương",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B15-05",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch, lãnh đạo cuộc kháng chiến",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng kháng chiến và hậu phương",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

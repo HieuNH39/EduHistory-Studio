@@ -1,0 +1,67 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B3-01",
+   "nhan_vat": [
+    {
+     "ten": "Người xưa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Toàn cầu",
+     "vai_tro": "Sử dụng các dụng cụ đo thời gian cổ đại",
+     "the_ki": "Cổ đại"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B3-02",
+   "nhan_vat": [
+    {
+     "ten": "Người Ai Cập cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Sáng tạo và sử dụng âm lịch",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "Người Lưỡng Hà cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Sáng tạo và sử dụng âm lịch",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "Người Trung Quốc cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Sáng tạo và sử dụng âm lịch",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "Người La Mã",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "La Mã",
+     "vai_tro": "Sáng tạo và sử dụng dương lịch",
+     "the_ki": "Cổ đại"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B3-03",
+   "nhan_vat": [
+    {
+     "ten": "Chúa Giê-su",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Do Thái",
+     "vai_tro": "Nhân vật mốc thời gian cho Công lịch",
+     "the_ki": "I"
+    }
+   ]
+  }
+ ]
+}

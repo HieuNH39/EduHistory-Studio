@@ -1,0 +1,101 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B12-01",
+   "nhan_vat": [
+    {
+     "ten": "Thái tử Áo-Hung",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Áo-Hung",
+     "vai_tro": "Sự kiện ám sát là ngòi nổ chiến tranh",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "người Xéc-bi",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Xéc-bi",
+     "vai_tro": "Người ám sát Thái tử Áo-Hung",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B12-02",
+   "nhan_vat": [
+    {
+     "ten": "quân đội các nước đế quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Tham gia chiến tranh đế quốc phi nghĩa",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B12-03",
+   "nhan_vat": [
+    {
+     "ten": "V. I. Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Lãnh đạo Đảng Bôn-sê-vích chuẩn bị cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "công nhân Nga",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Lực lượng tham gia Xô viết",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "binh lính Nga",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Lực lượng tham gia Xô viết",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B12-04",
+   "nhan_vat": [
+    {
+     "ten": "quân khởi nghĩa",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Chiếm Cung điện Mùa Đông",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B12-05",
+   "nhan_vat": [
+    {
+     "ten": "Giôn Rít",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Nhà báo ghi chép về Cách mạng tháng Mười",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "công nông Nga",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Lực lượng xây dựng nhà nước mới",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

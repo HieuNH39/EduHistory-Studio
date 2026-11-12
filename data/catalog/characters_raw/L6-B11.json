@@ -1,0 +1,91 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B11-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Cư dân Đông Nam Á cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người làm nông nghiệp lúa nước",
+     "the_ki": "I"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B11-02",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Thợ thủ công cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người đúc đồng, rèn sắt",
+     "the_ki": "I"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B11-03",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Thương nhân quốc tế",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người giao thương tại các hải cảng",
+     "the_ki": "III"
+    }
+   ]
+  }
+ ]
+}

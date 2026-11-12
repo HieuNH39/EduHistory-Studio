@@ -1,0 +1,59 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B2-01",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L6-B2-02",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ nhân của trống đồng Ngọc Lũ và các di tích văn hóa",
+     "the_ki": "trước Công nguyên"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B2-03",
+   "nhan_vat": [
+    {
+     "ten": "Tiến sĩ Nho học",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Những người đỗ đạt được ghi danh trên bia đá",
+     "the_ki": "XV - XVIII"
+    },
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tác giả của bản Di chúc lịch sử",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B2-04",
+   "nhan_vat": [
+    {
+     "ten": "Thánh Gióng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật truyền thuyết đánh giặc Ân",
+     "the_ki": "truyền thuyết"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B2-05",
+   "nhan_vat": []
+  }
+ ]
+}

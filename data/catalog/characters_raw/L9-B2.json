@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B2-01",
+   "nhan_vat": [
+    {
+     "ten": "V. I. Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Lãnh đạo Đảng Bôn-sê-vích, người có hoạt động tích cực thành lập Quốc tế Cộng sản",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người tìm thấy con đường cứu nước qua Luận cương của Lê-nin",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân châu Âu",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức, Anh, Pháp, I-ta-li-a",
+     "vai_tro": "Lực lượng tham gia các cuộc bãi công và phong trào cách mạng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B2-02",
+   "nhan_vat": [
+    {
+     "ten": "Người thất nghiệp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ, Hà Lan",
+     "vai_tro": "Nạn nhân của cuộc đại suy thoái kinh tế",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Người bị mất ruộng đất và rơi vào cảnh nghèo đói",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B2-03",
+   "nhan_vat": [
+    {
+     "ten": "Hít-le",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Thủ tướng Đức, người thiết lập chế độ độc tài phát xít",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Hin-đen-bua",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Tổng thống Đức, người trao quyền thủ tướng cho Hít-le",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B2-04",
+   "nhan_vat": [
+    {
+     "ten": "Ph. Ru-dơ-ven",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng thống Mỹ, người thực hiện Chính sách mới để phục hồi kinh tế",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "tap": [
+  {
+   "ma": "L9-CD3-01",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân gắn bó với biển đảo từ thời văn hóa Hạ Long, Bàu Tró, Hoa Lộc",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "Cư dân Óc Eo",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Giao thương đường biển với Địa Trung Hải",
+     "the_ki": "I - VII"
+    },
+    {
+     "ten": "Vua Lý Anh Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người ra lệnh lập trang Vân Đồn để buôn bán",
+     "the_ki": "XII"
+    },
+    {
+     "ten": "Ngô Sỹ Liên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà sử học ghi chép về chủ quyền biển đảo",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nguyễn Trãi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà chính trị, tác giả Dư địa chí",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lê Quý Đôn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà bác học, tác giả Phủ biên tạp lục",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Bỉnh Khiêm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà thơ, nhà tư tưởng khẳng định chủ quyền biển Đông",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Thủy quân triều Nguyễn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thực thi chủ quyền, đo đạc, cắm mốc tại Hoàng Sa, Trường Sa",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD3-02",
+   "nhan_vat": [
+    {
+     "ten": "Toàn quyền Đông Dương",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Đưa ra tuyên bố chủ quyền đối với Hoàng Sa, Trường Sa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Cán bộ, chiến sĩ Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Quản lý, bảo vệ chủ quyền và xây dựng bia chủ quyền, trạm khí tượng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD3-03",
+   "nhan_vat": [
+    {
+     "ten": "Đại diện Chính phủ Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đàm phán, ký kết các hiệp định phân định biển và Luật Biển",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD3-04",
+   "nhan_vat": [
+    {
+     "ten": "Chiến sĩ nhà giàn DK1",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Bảo vệ chủ quyền và khai thác kinh tế trên thềm lục địa",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD3-05",
+   "nhan_vat": [
+    {
+     "ten": "Học sinh THCS",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học tập, tuyên truyền và bảo vệ chủ quyền biển đảo",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

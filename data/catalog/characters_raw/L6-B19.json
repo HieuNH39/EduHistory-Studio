@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B19-01",
+   "nhan_vat": [
+    {
+     "ten": "Khu Liên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lâm Ấp",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa giành độc lập",
+     "the_ki": "II"
+    },
+    {
+     "ten": "người dân Tượng Lâm",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lâm Ấp",
+     "vai_tro": "Lực lượng tham gia khởi nghĩa",
+     "the_ki": "II"
+    },
+    {
+     "ten": "cư dân văn hóa Sa Huỳnh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tiền thân của cư dân Chăm-pa",
+     "the_ki": "II"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B19-02",
+   "nhan_vat": [
+    {
+     "ten": "cư dân Chăm-pa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Người xây dựng các kinh đô",
+     "the_ki": "VIII-IX"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B19-03",
+   "nhan_vat": [
+    {
+     "ten": "Vua Chăm-pa",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Người đứng đầu vương quốc",
+     "the_ki": "II-X"
+    },
+    {
+     "ten": "thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Người thực hiện giao thương quốc tế",
+     "the_ki": "II-X"
+    },
+    {
+     "ten": "tăng lữ, quý tộc, dân tự do, nô lệ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Các tầng lớp trong xã hội",
+     "the_ki": "II-X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B19-04",
+   "nhan_vat": [
+    {
+     "ten": "người Chăm",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Người sáng tạo chữ viết và xây dựng đền tháp",
+     "the_ki": "IV-X"
+    }
+   ]
+  }
+ ]
+}

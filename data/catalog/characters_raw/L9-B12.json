@@ -1,0 +1,114 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B12-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhân dân các nước Mỹ La-tinh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ La-tinh",
+     "vai_tro": "Lực lượng đấu tranh chống chế độ độc tài",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B12-02",
+   "nhan_vat": [
+    {
+     "ten": "Phi-đen Cát-xtơ-rô",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cu-ba",
+     "vai_tro": "Lãnh đạo cách mạng Cu-ba",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Ba-ti-xta",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cu-ba",
+     "vai_tro": "Nhà độc tài quân sự",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nghĩa quân Cu-ba",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cu-ba",
+     "vai_tro": "Lực lượng vũ trang cách mạng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B12-03",
+   "nhan_vat": [
+    {
+     "ten": "Thiên hoàng Hi-rô-hi-tô",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Người đứng đầu Nhà nước Nhật Bản",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Lực lượng chiếm đóng Nhật Bản",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B12-04",
+   "nhan_vat": [
+    {
+     "ten": "Mao Trạch Đông",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Chủ tịch nước Cộng hòa Nhân dân Trung Hoa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Trung Quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Lực lượng xây dựng và cải cách đất nước",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B12-05",
+   "nhan_vat": [
+    {
+     "ten": "Nhân dân Ấn Độ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Lực lượng đấu tranh giành độc lập và xây dựng đất nước",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B12-06",
+   "nhan_vat": [
+    {
+     "ten": "Đại diện các nước ASEAN",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Các nhà lãnh đạo ký tuyên bố thành lập ASEAN",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

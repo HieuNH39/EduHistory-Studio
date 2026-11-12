@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B8-01",
+   "nhan_vat": [
+    {
+     "ten": "Giay-a-vác-man II",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Vua thống nhất đất nước năm 802",
+     "the_ki": "IX"
+    },
+    {
+     "ten": "Người Khơ-me",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Cư dân xây dựng vương quốc",
+     "the_ki": "VI - XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B8-02",
+   "nhan_vat": [
+    {
+     "ten": "Giay-a-vác-man VII",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Vua chú trọng phúc lợi xã hội và xây dựng công trình công cộng",
+     "the_ki": "XII - XIII"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Lực lượng sản xuất nông nghiệp và đào kênh mương",
+     "the_ki": "IX - XV"
+    },
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Người chạm khắc phù điêu và làm đồ trang sức",
+     "the_ki": "IX - XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B8-03",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Người xây dựng các đền tháp bằng đá sa thạch và đá tổ ong",
+     "the_ki": "IX - XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B8-04",
+   "nhan_vat": [
+    {
+     "ten": "Người Thái",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thái Lan",
+     "vai_tro": "Lực lượng tấn công khiến vương quốc suy yếu",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Người Khơ-me",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Cư dân di dời kinh đô về phía nam",
+     "the_ki": "XV"
+    }
+   ]
+  }
+ ]
+}

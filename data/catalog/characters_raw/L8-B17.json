@@ -1,0 +1,152 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B17-01",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Tri Phương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng chỉ huy quân dân kháng chiến tại Đà Nẵng",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Liên quân Pháp - Tây Ban Nha",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp, Tây Ban Nha",
+     "vai_tro": "Thực dân xâm lược",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Quân dân Đà Nẵng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng kháng chiến chống Pháp",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B17-02",
+   "nhan_vat": [
+    {
+     "ten": "Trương Định",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo nghĩa quân, Bình Tây Đại Nguyên soái",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nguyễn Trung Trực",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo nghĩa quân kháng chiến",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nguyễn Hữu Huân",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo nghĩa quân kháng chiến",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nghĩa quân Nam Kì",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng kháng chiến chống Pháp",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B17-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Tri Phương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng đốc Hà Nội, chỉ huy kháng chiến",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Hoàng Diệu",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng đốc Hà Nội, lãnh đạo kháng chiến",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Ph. Gác-ni-ê",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Chỉ huy quân Pháp đánh Bắc Kì lần 1",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "H. Ri-vi-e",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Chỉ huy quân Pháp đánh Bắc Kì lần 2",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Quân Cờ đen",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Lực lượng phối hợp kháng chiến",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B17-04",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Trường Tộ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà cải cách, sĩ phu yêu nước",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nguyễn Lộ Trạch",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà cải cách, sĩ phu yêu nước",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Vua Tự Đức",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua triều Nguyễn",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Sĩ phu yêu nước",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tầng lớp trí thức đề nghị cải cách",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

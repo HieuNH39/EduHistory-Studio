@@ -1,0 +1,117 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B1-01",
+   "nhan_vat": [
+    {
+     "ten": "Quý tộc mới",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Tầng lớp lãnh đạo kinh tế tư bản chủ nghĩa",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Lực lượng lãnh đạo cách mạng",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Lực lượng tham gia cách mạng",
+     "the_ki": "XVII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B1-02",
+   "nhan_vat": [
+    {
+     "ten": "Sác-lơ I",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Vua nước Anh bị xử tử",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Ô-li-vơ Crôm-oen",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Lãnh đạo quân đội Quốc hội",
+     "the_ki": "XVII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B1-03",
+   "nhan_vat": [
+    {
+     "ten": "Thực dân Anh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Thế lực thống trị 13 thuộc địa",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nhân dân 13 thuộc địa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Bắc Mỹ",
+     "vai_tro": "Lực lượng đấu tranh giành độc lập",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B1-04",
+   "nhan_vat": [
+    {
+     "ten": "G. Oa-sinh-tơn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng tư lệnh quân đội thuộc địa",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Tầng lớp chủ nô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Lực lượng lãnh đạo cách mạng",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B1-05",
+   "nhan_vat": [
+    {
+     "ten": "C. Mác",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Nhà tư tưởng đánh giá về cách mạng",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "V. I. Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Nhà tư tưởng đánh giá về cách mạng Mỹ",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

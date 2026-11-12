@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B6-01",
+   "nhan_vat": [
+    {
+     "ten": "Người nguyên thủy",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Á, Ai Cập",
+     "vai_tro": "Người phát hiện ra kim loại và chế tạo công cụ",
+     "the_ki": "IV TCN"
+    },
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Toàn cầu",
+     "vai_tro": "Chuyên môn hóa trong luyện kim, dệt vải, làm gốm",
+     "the_ki": "IV TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B6-02",
+   "nhan_vat": [
+    {
+     "ten": "Gia đình phụ hệ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Toàn cầu",
+     "vai_tro": "Đơn vị gia đình mới thay thế thị tộc mẫu hệ",
+     "the_ki": "IV TCN"
+    },
+    {
+     "ten": "Cư dân phương Đông",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập, Lưỡng Hà, Trung Quốc",
+     "vai_tro": "Người liên kết làm thủy lợi và chống ngoại xâm",
+     "the_ki": "IV TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B6-03",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân văn hóa Phùng Nguyên",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân sơ kỳ đồ đồng ở Bắc Bộ",
+     "the_ki": "XX TCN"
+    },
+    {
+     "ten": "Cư dân văn hóa Đồng Đậu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân phát triển đồ đồng ở Bắc Bộ",
+     "the_ki": "XV TCN"
+    },
+    {
+     "ten": "Cư dân văn hóa Gò Mun",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân chế tạo vũ khí và công cụ đồng ở Bắc Bộ",
+     "the_ki": "X TCN"
+    },
+    {
+     "ten": "Cư dân tiền Sa Huỳnh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân sử dụng đồ đồng ở Trung Bộ",
+     "the_ki": "X TCN"
+    },
+    {
+     "ten": "Cư dân văn hóa Đồng Nai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân sử dụng đồ đồng ở Nam Bộ",
+     "the_ki": "X TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B6-04",
+   "nhan_vat": [
+    {
+     "ten": "Người nông dân thời đại đồ đồng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người khai hoang, định cư ven sông và trồng lúa",
+     "the_ki": "X TCN"
+    }
+   ]
+  }
+ ]
+}

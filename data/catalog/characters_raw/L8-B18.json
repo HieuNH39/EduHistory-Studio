@@ -1,0 +1,128 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B18-01",
+   "nhan_vat": [
+    {
+     "ten": "Tôn Thất Thuyết",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thượng thư Bộ Binh, lãnh đạo phái chủ chiến",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Vua Hàm Nghi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua ban Dụ Cần vương",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Văn thân, sĩ phu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng hưởng ứng phong trào Cần vương",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B18-02",
+   "nhan_vat": [
+    {
+     "ten": "Phan Đình Phùng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cao nhất khởi nghĩa Hương Khê",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Cao Thắng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tướng lĩnh, người chế tạo súng trường",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nghĩa quân Hương Khê",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chiến đấu",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B18-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Thiện Thuật",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chỉ huy khởi nghĩa Bãi Sậy",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Phạm Bành",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo khởi nghĩa Ba Đình",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Đinh Công Tráng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo khởi nghĩa Ba Đình",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nghĩa quân Ba Đình",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người Kinh, Mường, Thái tham gia chiến đấu",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B18-04",
+   "nhan_vat": [
+    {
+     "ten": "Đề Nắm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thủ lĩnh đầu tiên khởi nghĩa Yên Thế",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Hoàng Hoa Thám",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thủ lĩnh khởi nghĩa Yên Thế",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nghĩa quân Yên Thế",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nông dân tham gia khởi nghĩa",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

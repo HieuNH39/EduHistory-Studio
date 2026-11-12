@@ -1,0 +1,91 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B12-01",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Cư dân xây dựng vương quốc Đại Cồ Việt",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Người Môn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Sri Kse-tra, Đva-ra-va-ti",
+     "vai_tro": "Cư dân xây dựng các vương quốc ở lưu vực sông",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Người Miến",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pa-gan",
+     "vai_tro": "Cư dân xây dựng vương quốc Pa-gan",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Người Khơ-me",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chân Lạp",
+     "vai_tro": "Cư dân xây dựng vương quốc Chân Lạp",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Người Mã Lai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Sri Vi-giay-a",
+     "vai_tro": "Cư dân xây dựng vương quốc Sri Vi-giay-a",
+     "the_ki": "VII - X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B12-02",
+   "nhan_vat": [
+    {
+     "ten": "Nhà vua Sri Vi-giay-a",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Sri Vi-giay-a",
+     "vai_tro": "Người cai trị vương quốc đảo giàu có",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Thương nhân nước ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Người đến giao thương gia vị tại các thương cảng",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Nông dân Đông Nam Á",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người sản xuất nông nghiệp và gia vị",
+     "the_ki": "VII - X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B12-03",
+   "nhan_vat": [
+    {
+     "ten": "Thương nhân cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Người tham gia trao đổi gia vị lấy hàng hóa giá trị",
+     "the_ki": "X"
+    }
+   ]
+  }
+ ]
+}

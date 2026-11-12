@@ -1,0 +1,125 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B4-01",
+   "nhan_vat": [
+    {
+     "ten": "Tần Thủy Hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Hoàng đế đầu tiên thống nhất Trung Quốc",
+     "the_ki": "III TCN"
+    },
+    {
+     "ten": "Lưu Bang",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người sáng lập triều Hán",
+     "the_ki": "III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B4-02",
+   "nhan_vat": [
+    {
+     "ten": "Đường Thái Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Hoàng đế thời Đường",
+     "the_ki": "VII"
+    },
+    {
+     "ten": "Nông dân thời Đường",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người lao động sản xuất nông nghiệp",
+     "the_ki": "VII - X"
+    },
+    {
+     "ten": "Thương nhân trên con đường tơ lụa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đa quốc gia",
+     "vai_tro": "Người giao thương kết nối Á - Âu",
+     "the_ki": "VII - X"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B4-03",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công thời Minh - Thanh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người làm nghề thủ công và đồ sứ",
+     "the_ki": "XIV - XIX"
+    },
+    {
+     "ten": "Thương nhân tại các đô thị",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người buôn bán tại các thành thị sầm uất",
+     "the_ki": "XIV - XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B4-04",
+   "nhan_vat": [
+    {
+     "ten": "Lý Bạch",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà thơ nổi tiếng thời Đường",
+     "the_ki": "VIII"
+    },
+    {
+     "ten": "Đỗ Phủ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà thơ nổi tiếng thời Đường",
+     "the_ki": "VIII"
+    },
+    {
+     "ten": "Bạch Cư Dị",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà thơ nổi tiếng thời Đường",
+     "the_ki": "IX"
+    },
+    {
+     "ten": "Nghệ nhân Trung Quốc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người xây dựng các công trình kiến trúc đồ sộ",
+     "the_ki": "III TCN - XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B4-05",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn An",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng đốc công xây dựng Tử Cấm Thành",
+     "the_ki": "XV"
+    }
+   ]
+  }
+ ]
+}

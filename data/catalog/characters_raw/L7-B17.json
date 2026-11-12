@@ -1,0 +1,115 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B17-01",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua sáng lập nhà Lê sơ",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lê Thánh Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua xây dựng bộ máy nhà nước tập quyền",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Quan lại triều đình",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Bộ máy hành chính nhà nước",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B17-02",
+   "nhan_vat": [
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng sản xuất nông nghiệp",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Sản xuất gốm sứ tại Chu Đậu, Bát Tràng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Giao thương tại các thương cảng",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B17-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Trãi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Anh hùng dân tộc, danh nhân văn hóa",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lê Thánh Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua, chủ soái Hội Tao đàn",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Ngô Sỹ Liên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà sử học",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lương Thế Vinh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Trạng nguyên, nhà toán học",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Thân Nhân Trung",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Đại thần, Phó soái Hội Tao đàn",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Sĩ tử",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người tham gia khoa cử",
+     "the_ki": "XV"
+    }
+   ]
+  }
+ ]
+}

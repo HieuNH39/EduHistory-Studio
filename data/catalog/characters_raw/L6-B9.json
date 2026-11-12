@@ -1,0 +1,80 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B9-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân lưu vực Hoàng Hà và Trường Giang",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người khai phá và xây dựng nền văn minh nông nghiệp sớm",
+     "the_ki": "XXI TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B9-02",
+   "nhan_vat": [
+    {
+     "ten": "Vua nhà Hạ, Thương, Chu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người đứng đầu các triều đại sơ khai",
+     "the_ki": "XXI - III TCN"
+    },
+    {
+     "ten": "Chư hầu thời Chiến Quốc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Các thế lực tranh chấp quyền lực",
+     "the_ki": "V - III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B9-03",
+   "nhan_vat": [
+    {
+     "ten": "Khổng Tử",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà tư tưởng, người sáng lập Nho gia",
+     "the_ki": "VI - V TCN"
+    },
+    {
+     "ten": "Khuất Nguyên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà thơ yêu nước thời Chiến Quốc",
+     "the_ki": "IV - III TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B9-04",
+   "nhan_vat": [
+    {
+     "ten": "Biên Thước",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Danh y đặt nền tảng cho Đông y",
+     "the_ki": "V - IV TCN"
+    },
+    {
+     "ten": "Thợ thủ công đúc đồng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người chế tác đồ đồng và vũ khí",
+     "the_ki": "XVI - III TCN"
+    }
+   ]
+  }
+ ]
+}

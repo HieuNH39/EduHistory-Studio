@@ -1,0 +1,96 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B18-01",
+   "nhan_vat": [
+    {
+     "ten": "Khúc Thừa Dụ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Hào trưởng, người giành quyền tự chủ năm 905",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Khúc Hạo",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tiết độ sứ, người thực hiện cải cách hành chính",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B18-02",
+   "nhan_vat": [
+    {
+     "ten": "Dương Đình Nghệ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tướng lĩnh, người đánh đuổi quân Nam Hán năm 931",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Hào kiệt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tập hợp tại làng Giàng cùng Dương Đình Nghệ",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Quân Nam Hán",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nam Hán",
+     "vai_tro": "Quân xâm lược bị đánh bại",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B18-03",
+   "nhan_vat": [
+    {
+     "ten": "Ngô Quyền",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tướng, người lập kế hoạch trận địa cọc Bạch Đằng",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B18-04",
+   "nhan_vat": [
+    {
+     "ten": "Ngô Quyền",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chỉ huy trận Bạch Đằng năm 938",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Hoằng Tháo",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nam Hán",
+     "vai_tro": "Chủ tướng quân Nam Hán, bị tiêu diệt",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Quân Nam Hán",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nam Hán",
+     "vai_tro": "Quân xâm lược",
+     "the_ki": "X"
+    }
+   ]
+  }
+ ]
+}

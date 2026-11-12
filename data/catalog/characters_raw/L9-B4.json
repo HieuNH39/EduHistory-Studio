@@ -1,0 +1,101 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B4-01",
+   "nhan_vat": [
+    {
+     "ten": "Giới cầm quyền các nước phát xít Đức, I-ta-li-a, Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức, I-ta-li-a, Nhật Bản",
+     "vai_tro": "Thủ phạm gây ra chiến tranh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B4-02",
+   "nhan_vat": [
+    {
+     "ten": "Quân đội Đức",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Tấn công Ba Lan và Liên Xô",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Hồng quân Liên Xô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Chống lại sự tấn công của phát xít",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Tấn công Trân Châu cảng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B4-03",
+   "nhan_vat": [
+    {
+     "ten": "Hồng quân Liên Xô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Phản công tại Xta-lin-grát và công phá Béc-lin",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Liên quân Mỹ, Anh và Đồng minh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ, Anh, Pháp",
+     "vai_tro": "Đổ bộ Noóc-măng-đi",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B4-04",
+   "nhan_vat": [
+    {
+     "ten": "Nạn nhân chiến tranh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Toàn cầu",
+     "vai_tro": "Người chịu hậu quả của chiến tranh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B4-05",
+   "nhan_vat": [
+    {
+     "ten": "Lực lượng Đồng minh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô, Mỹ, Anh",
+     "vai_tro": "Lực lượng trụ cột tiêu diệt phát xít",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Các dân tộc bị phát xít chiếm đóng",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhiều quốc gia",
+     "vai_tro": "Đấu tranh vì hòa bình và độc lập dân tộc",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

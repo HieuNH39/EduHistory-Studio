@@ -1,0 +1,141 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B5-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B5-02",
+   "nhan_vat": [
+    {
+     "ten": "San-đra Gúp-ta I",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Vua sáng lập vương triều Gúp-ta",
+     "the_ki": "IV"
+    },
+    {
+     "ten": "Nông dân Ấn Độ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người sản xuất nông nghiệp",
+     "the_ki": "IV-V"
+    },
+    {
+     "ten": "Pháp Hiên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Nhà sư, người ghi chép lịch sử",
+     "the_ki": "V"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B5-03",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Tướng lĩnh Hồi giáo",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người cai quản các khu vực hành chính",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Ba-ran",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người dân nhận xét về sự phồn thịnh",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B5-04",
+   "nhan_vat": [
+    {
+     "ten": "A-cơ-ba",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Vua kiệt xuất vương triều Mô-gôn",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Quan lại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Bộ máy hành chính",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B5-05",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Ka-li-đa-sa",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Đại văn hào, tác giả kịch Sơ-kun-to-la",
+     "the_ki": "IV"
+    }
+   ]
+  }
+ ]
+}

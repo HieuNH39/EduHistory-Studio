@@ -1,0 +1,138 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B8-01",
+   "nhan_vat": [
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Thực dân cai trị",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân phiệt Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Quân xâm lược",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nạn nhân của nạn đói và sự bóc lột",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B8-02",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh tụ Đảng Cộng sản Đông Dương",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đại biểu Hội nghị Trung ương 8",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Các cán bộ cách mạng tham gia hội nghị",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B8-03",
+   "nhan_vat": [
+    {
+     "ten": "Đội Việt Nam Tuyên truyền Giải phóng quân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng vũ trang cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quần chúng nhân dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thành viên các Hội Cứu quốc",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B8-04",
+   "nhan_vat": [
+    {
+     "ten": "Uỷ ban Khởi nghĩa toàn quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cơ quan lãnh đạo tổng khởi nghĩa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân cả nước",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia tổng khởi nghĩa",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B8-05",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch Chính phủ lâm thời",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Thủ đô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân dự lễ Độc lập",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B8-06",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Việt Nam Giải phóng quân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng nòng cốt cách mạng",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

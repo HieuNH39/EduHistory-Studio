@@ -1,0 +1,75 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B9-01",
+   "nhan_vat": [
+    {
+     "ten": "Ngô Quyền",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua, người mở ra kỉ nguyên độc lập",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Quan văn, võ thời Ngô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Bộ máy chính quyền trung ương",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Tướng lĩnh thời Ngô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Trấn giữ các châu quan trọng",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B9-02",
+   "nhan_vat": [
+    {
+     "ten": "12 sứ quân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Các thế lực hào trưởng cát cứ",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Nhân dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân chịu cảnh loạn lạc",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B9-03",
+   "nhan_vat": [
+    {
+     "ten": "Đinh Bộ Lĩnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vạn Thắng Vương, người thống nhất đất nước",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Nhân dân Hoa Lư",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người ủng hộ Đinh Bộ Lĩnh",
+     "the_ki": "X"
+    }
+   ]
+  }
+ ]
+}

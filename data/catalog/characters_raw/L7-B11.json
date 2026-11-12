@@ -1,0 +1,112 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B11-01",
+   "nhan_vat": [
+    {
+     "ten": "Lý Công Uẩn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua sáng lập nhà Lý, người dời đô về Thăng Long",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Sư Vạn Hạnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người thầy, cố vấn của Lý Công Uẩn",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Triều thần",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Các quan lại ủng hộ Lý Công Uẩn lên ngôi",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B11-02",
+   "nhan_vat": [
+    {
+     "ten": "Vua",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người đứng đầu bộ máy nhà nước",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quan đại thần",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Giúp việc cho vua trong triều đình",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quân đội nhà Lý",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Bao gồm cấm quân và quân địa phương thực hiện chính sách Ngụ binh ư nông",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B11-03",
+   "nhan_vat": [
+    {
+     "ten": "Vua Lý Thái Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua thực hiện lễ cày tịch điền",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng sản xuất chính trong xã hội",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người buôn bán tại các chợ và cảng Vân Đồn",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B11-04",
+   "nhan_vat": [
+    {
+     "ten": "Lê Văn Thịnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Trạng nguyên đầu tiên, thầy dạy Thái tử",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Sĩ tử",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người tham gia các khoa thi tuyển chọn nhân tài",
+     "the_ki": "XI"
+    }
+   ]
+  }
+ ]
+}

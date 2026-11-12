@@ -1,0 +1,125 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B2-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhà thám hiểm Bồ Đào Nha",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Bồ Đào Nha",
+     "vai_tro": "Người tiên phong trong các cuộc thám hiểm đường biển",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nhà thám hiểm Tây Ban Nha",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "Người tiên phong trong các cuộc thám hiểm đường biển",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B2-02",
+   "nhan_vat": [
+    {
+     "ten": "B. Đi-a-xơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Bồ Đào Nha",
+     "vai_tro": "Hiệp sĩ hoàng gia, người tìm ra mũi Hảo Vọng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "C. Cô-lôm-bô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "Người tìm ra châu Mỹ",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "V. Ga-ma",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Bồ Đào Nha",
+     "vai_tro": "Người tìm ra đường biển sang Ấn Độ",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Ph. Ma-gien-lăng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "Người thực hiện chuyến đi vòng quanh thế giới",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B2-03",
+   "nhan_vat": [
+    {
+     "ten": "Nô lệ da đen",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Phi",
+     "vai_tro": "Nạn nhân của nạn buôn bán nô lệ",
+     "the_ki": "XVI-XVIII"
+    },
+    {
+     "ten": "Thương nhân châu Âu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Người thực hiện buôn bán nô lệ và cướp bóc thuộc địa",
+     "the_ki": "XVI-XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B2-04",
+   "nhan_vat": [
+    {
+     "ten": "Quý tộc Anh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Người thực hiện phong trào rào đất cướp ruộng",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Nông nô mất đất",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Người bị mất ruộng đất, phải đi làm thuê",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B2-05",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Chủ công trường, chủ đồn điền, nắm vốn",
+     "the_ki": "XVI-XVIII"
+    },
+    {
+     "ten": "Giai cấp vô sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Người làm thuê bán sức lao động",
+     "the_ki": "XVI-XVIII"
+    }
+   ]
+  }
+ ]
+}

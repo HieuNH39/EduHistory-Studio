@@ -1,0 +1,21 @@
+{
+ "ma": "L8-B14-01",
+ "nhan_vat": [
+  {
+   "ten": "Thương nhân Anh",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Anh",
+   "vai_tro": "Thực hiện buôn bán thuốc phiện trái phép tại Trung Quốc",
+   "the_ki": "XIX"
+  },
+  {
+   "ten": "Quan lại nhà Thanh",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Trung Quốc",
+   "vai_tro": "Đại diện chính quyền phong kiến Mãn Thanh",
+   "the_ki": "XIX"
+  }
+ ]
+}

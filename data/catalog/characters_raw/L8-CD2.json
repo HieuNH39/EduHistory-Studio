@@ -1,0 +1,89 @@
+{
+ "tap": [
+  {
+   "ma": "L8-CD2-01",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L8-CD2-02",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L8-CD2-03",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L8-CD2-04",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L8-CD2-05",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Khai thác biển, đánh bắt hải sản từ thời tiền sử",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "Lạc Long Quân",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật truyền thuyết gắn liền với cội nguồn dân tộc và biển đảo",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "Âu Cơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật truyền thuyết gắn liền với cội nguồn dân tộc và biển đảo",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "Mai An Tiêm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật truyền thuyết về việc chinh phục đảo",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "An Dương Vương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật truyền thuyết gắn với thần biển (Rùa vàng)",
+     "the_ki": "trước Công nguyên"
+    },
+    {
+     "ten": "Tướng lĩnh nhà Trần",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Trấn thủ thương cảng Vân Đồn",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Thương nhân nước ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Giao thương tại các thương cảng như Vân Đồn, Hội An, Óc Eo",
+     "the_ki": "X-XIX"
+    },
+    {
+     "ten": "Quan lại chúa Nguyễn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Khuyến khích mộ dân khai khẩn, lập xã thôn ở vùng đảo phía Nam",
+     "the_ki": "XVII-XIX"
+    }
+   ]
+  }
+ ]
+}

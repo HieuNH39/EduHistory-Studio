@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B2-01",
+   "nhan_vat": [
+    {
+     "ten": "Lu-i XVI",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Vua Pháp, người nắm quyền hành trong thời kì khủng hoảng",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Tăng lữ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Đẳng cấp đặc quyền, nắm giữ chức vụ cao và miễn thuế",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Quý tộc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Đẳng cấp đặc quyền, nắm giữ chức vụ cao và miễn thuế",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Đẳng cấp thứ ba",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Gồm tư sản, nông dân và bình dân thành thị, chịu mọi thuế",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B2-02",
+   "nhan_vat": [
+    {
+     "ten": "Mông-te-xki-ơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Nhà tư tưởng, chủ trương hạn chế quyền vua",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Vôn-te",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Nhà tư tưởng, đề cao tự do tín ngưỡng và quyền tư hữu",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Rút-xô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Nhà tư tưởng, ủng hộ thiết lập chế độ cộng hoà",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B2-03",
+   "nhan_vat": [
+    {
+     "ten": "Quần chúng nhân dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Lực lượng tấn công pháo đài Ba-xti và tham gia cách mạng",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B2-04",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Lãnh đạo cuộc cách mạng, lên cầm quyền",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước, người trích dẫn Tuyên ngôn Nhân quyền và Dân quyền",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

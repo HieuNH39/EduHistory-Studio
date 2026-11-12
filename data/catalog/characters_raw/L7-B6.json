@@ -1,0 +1,93 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B6-01",
+   "nhan_vat": [
+    {
+     "ten": "người Khơ-me",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "cư dân vương quốc Cam-pu-chia",
+     "the_ki": "XI-XIII"
+    },
+    {
+     "ten": "người Mi-an-ma",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mi-an-ma",
+     "vai_tro": "cư dân vương quốc Pa-gan",
+     "the_ki": "XI-XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B6-02",
+   "nhan_vat": [
+    {
+     "ten": "quân Mông - Nguyên",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đế quốc Mông Cổ",
+     "vai_tro": "lực lượng xâm lược Đông Nam Á",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "người Thái",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thái Lan",
+     "vai_tro": "cư dân lập nên các vương quốc Su-khô-thay và A-út-thay-a",
+     "the_ki": "XIII-XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B6-03",
+   "nhan_vat": [
+    {
+     "ten": "thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "người buôn bán tại cảng Ma-lắc-ca",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B6-04",
+   "nhan_vat": [
+    {
+     "ten": "nhà sư",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "người truyền bá Phật giáo Tiểu thừa",
+     "the_ki": "XIII-XV"
+    },
+    {
+     "ten": "thương nhân Ả Rập",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ả Rập",
+     "vai_tro": "người du nhập Hồi giáo vào Đông Nam Á",
+     "the_ki": "XII-XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B6-05",
+   "nhan_vat": [
+    {
+     "ten": "nghệ nhân Đông Nam Á",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "người xây dựng đền tháp và tạc tượng",
+     "the_ki": "X-XVI"
+    }
+   ]
+  }
+ ]
+}

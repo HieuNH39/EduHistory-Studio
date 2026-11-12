@@ -1,0 +1,120 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B7-01",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia đấu tranh đòi quyền lợi",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia đấu tranh chống địa chủ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B7-02",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng nòng cốt trong khối liên minh công-nông",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia chính quyền Xô viết",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Thế lực đàn áp phong trào",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B7-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn An Ninh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà hoạt động cách mạng, người khởi xướng phong trào Đông Dương đại hội",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Gô-đa",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Phái viên Chính phủ Pháp sang điều tra tình hình Đông Dương",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Brê-vi-ê",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Toàn quyền Đông Dương",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quần chúng nhân dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia mít tinh, biểu tình đòi dân sinh, dân chủ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B7-04",
+   "nhan_vat": [
+    {
+     "ten": "Đảng Cộng sản Đông Dương",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổ chức lãnh đạo các phong trào cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia cả hai giai đoạn cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia cả hai giai đoạn cách mạng",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

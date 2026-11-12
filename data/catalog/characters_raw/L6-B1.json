@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B1-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh quan sát sự thay đổi của máy tính",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh quan sát sự thay đổi của máy tính",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B1-02",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh tìm hiểu khái niệm lịch sử",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh giải thích khái niệm lịch sử",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B1-03",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước căn dặn chiến sĩ tại Đền Hùng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Chiến sĩ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người nghe lời căn dặn của Bác Hồ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Vua Hùng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vị vua khai quốc",
+     "the_ki": "Trước Công nguyên"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B1-04",
+   "nhan_vat": [
+    {
+     "ten": "Xi-xê-rông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "La Mã",
+     "vai_tro": "Nhà chính trị nổi tiếng",
+     "the_ki": "I TCN"
+    },
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh thảo luận về ý nghĩa của lịch sử",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học sinh thảo luận về ý nghĩa của lịch sử",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

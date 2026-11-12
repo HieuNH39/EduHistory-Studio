@@ -1,0 +1,112 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B4-01",
+   "nhan_vat": [
+    {
+     "ten": "thương nhân châu Âu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Người đại diện cho các cường quốc phương Tây đến Đông Nam Á",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "nông dân Đông Nam Á",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Đại diện cho chế độ phong kiến lạc hậu",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B4-02",
+   "nhan_vat": [
+    {
+     "ten": "thực dân Hà Lan",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hà Lan",
+     "vai_tro": "Thực dân xâm chiếm In-đô-nê-xi-a",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "thực dân Tây Ban Nha",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "Thực dân thống trị Phi-líp-pin",
+     "the_ki": "XVI-XIX"
+    },
+    {
+     "ten": "thực dân Anh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Thực dân tranh giành ảnh hưởng tại Mã Lai và Miến Điện",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B4-03",
+   "nhan_vat": [
+    {
+     "ten": "quan chức thực dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phương Tây",
+     "vai_tro": "Người điều hành bộ máy cai trị",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "tầng lớp phong kiến tay sai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Tầng lớp đầu hàng và phục vụ thực dân",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "giai cấp công nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Giai cấp mới hình thành dưới ách đô hộ",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B4-04",
+   "nhan_vat": [
+    {
+     "ten": "Đi-pô-nê-gô-rô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "In-đô-nê-xi-a",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa chống Hà Lan",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "La-pu-la-pu",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phi-líp-pin",
+     "vai_tro": "Thủ lĩnh thổ dân đảo Mác-tan chống Tây Ban Nha",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Ban-đu-la",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Miến Điện",
+     "vai_tro": "Tướng chỉ huy quân đội kháng Anh",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

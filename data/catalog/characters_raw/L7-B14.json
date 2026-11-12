@@ -1,0 +1,189 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B14-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Quân Mông Cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mông Cổ",
+     "vai_tro": "Đội quân xâm lược",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Quân dân Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng phòng thủ",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B14-02",
+   "nhan_vat": [
+    {
+     "ten": "Trần Thái Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua chỉ huy kháng chiến",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Thủ Độ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thái sư, người chỉ huy quân sự",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Ngột Lương Hợp Thai",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mông Cổ",
+     "vai_tro": "Tướng chỉ huy quân Mông Cổ",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Dân binh địa phương",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng chặn đánh quân địch",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B14-03",
+   "nhan_vat": [
+    {
+     "ten": "Trần Quốc Tuấn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Quốc công tiết chế, tổng chỉ huy",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Quốc Toản",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tướng trẻ yêu nước",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Các bô lão",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Đại diện nhân dân dự hội nghị Diên Hồng",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Thoát Hoan",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nguyên",
+     "vai_tro": "Tướng chỉ huy quân Nguyên",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B14-04",
+   "nhan_vat": [
+    {
+     "ten": "Trần Khánh Dư",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tướng chỉ huy trận Vân Đồn",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Ô Mã Nhi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nguyên",
+     "vai_tro": "Tướng chỉ huy thủy quân Nguyên",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Quốc Tuấn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tổng chỉ huy trận Bạch Đằng",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Quân mai phục Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng chiến đấu tại Bạch Đằng",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B14-05",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Trần Nhân Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua lãnh đạo kháng chiến",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Thánh Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thượng hoàng lãnh đạo kháng chiến",
+     "the_ki": "XIII"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B11-01",
+   "nhan_vat": [
+    {
+     "ten": "Richard Nixon",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng thống Mỹ, người ra quyết định leo thang chiến tranh Việt Nam và thăm Trung Quốc",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Sinh viên Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Lực lượng biểu tình phản đối chiến tranh xâm lược Việt Nam",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B11-02",
+   "nhan_vat": [
+    {
+     "ten": "Giới tài chính Phố Uôn",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Đại diện cho trung tâm kinh tế, tài chính của Mỹ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B11-03",
+   "nhan_vat": [
+    {
+     "ten": "Các nhà lãnh đạo Tây Âu",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Những người tham gia đàm phán và ký kết các hiệp ước liên kết châu Âu",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

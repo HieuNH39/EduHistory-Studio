@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B4-01",
+   "nhan_vat": [
+    {
+     "ten": "Vượn người",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Phi",
+     "vai_tro": "Tổ tiên loài người cách đây 5-6 triệu năm",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tối cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thế giới",
+     "vai_tro": "Dạng người xuất hiện cách đây 4 triệu năm",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tinh khôn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thế giới",
+     "vai_tro": "Dạng người xuất hiện cách đây 15 vạn năm",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B4-02",
+   "nhan_vat": [
+    {
+     "ten": "Người tối cổ tại Gia-va",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "In-đô-nê-xi-a",
+     "vai_tro": "Dấu vết xưa nhất của Người tối cổ ở Đông Nam Á",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tinh khôn tại hang Ni-a",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ma-lai-xi-a",
+     "vai_tro": "Người tinh khôn sinh sống cách đây 4 vạn năm",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B4-03",
+   "nhan_vat": [
+    {
+     "ten": "Người tối cổ tại Thẩm Khuyên, Thẩm Hai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người nguyên thủy để lại di cốt tại Lạng Sơn",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người nguyên thủy tại An Khê",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người chế tác công cụ đá cách đây 80 vạn năm",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B4-04",
+   "nhan_vat": [
+    {
+     "ten": "Vượn người",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thế giới",
+     "vai_tro": "Đối tượng so sánh đặc điểm tiến hóa",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tối cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thế giới",
+     "vai_tro": "Đối tượng so sánh đặc điểm tiến hóa",
+     "the_ki": "Tiền sử"
+    },
+    {
+     "ten": "Người tinh khôn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thế giới",
+     "vai_tro": "Đối tượng so sánh đặc điểm tiến hóa",
+     "the_ki": "Tiền sử"
+    }
+   ]
+  }
+ ]
+}

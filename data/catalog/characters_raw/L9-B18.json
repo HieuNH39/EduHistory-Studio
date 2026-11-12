@@ -1,0 +1,72 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B18-01",
+   "nhan_vat": [
+    {
+     "ten": "G. Bu-sơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng thống Mỹ tham gia cuộc gặp tại Man-ta",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "M. Goóc-ba-chốp",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Tổng Bí thư Đảng Cộng sản Liên Xô tham gia cuộc gặp tại Man-ta",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B18-02",
+   "nhan_vat": [
+    {
+     "ten": "Người dân Nga",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên bang Nga",
+     "vai_tro": "Đại diện cho xã hội Nga trong giai đoạn chuyển đổi kinh tế",
+     "the_ki": "XX, XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B18-03",
+   "nhan_vat": [
+    {
+     "ten": "B. Clin-tơn",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng thống Mỹ thực hiện chiến lược Cam kết và mở rộng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Lực lượng sản xuất trong các ngành công nghiệp mũi nhọn",
+     "the_ki": "XX, XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B18-04",
+   "nhan_vat": [
+    {
+     "ten": "Các nhà lãnh đạo cường quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ, EU, Nhật Bản, Trung Quốc, Nga",
+     "vai_tro": "Đại diện cho các trung tâm quyền lực trong thế giới đa cực",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

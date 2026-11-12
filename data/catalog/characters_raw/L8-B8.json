@@ -1,0 +1,144 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B8-01",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Nhạc",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lãnh đạo khởi nghĩa Tây Sơn",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Huệ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lãnh đạo khởi nghĩa Tây Sơn",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Lữ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lãnh đạo khởi nghĩa Tây Sơn",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nghĩa quân Tây Sơn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng tham gia khởi nghĩa",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B8-02",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Huệ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chỉ huy quân Tây Sơn",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Quân Xiêm",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Xiêm",
+     "vai_tro": "Quân xâm lược",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Ánh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người cầu cứu quân Xiêm",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B8-03",
+   "nhan_vat": [
+    {
+     "ten": "Quang Trung",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Hoàng đế, chỉ huy chiến dịch",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Tôn Sĩ Nghị",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng chỉ huy quân Thanh",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Sầm Nghi Đống",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng quân Thanh",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Đô đốc Long",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tướng quân Tây Sơn",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Quân Thanh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân xâm lược",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B8-04",
+   "nhan_vat": [
+    {
+     "ten": "Quang Trung",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Hoàng đế, nhà cải cách",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Công chúa Ngọc Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vợ vua Quang Trung",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nhân dân Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân thực hiện các chính sách cải cách",
+     "the_ki": "XVIII"
+    }
+   ]
+  }
+ ]
+}

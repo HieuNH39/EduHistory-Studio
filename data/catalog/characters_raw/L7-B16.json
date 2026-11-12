@@ -1,0 +1,210 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B16-01",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Hào trưởng, người lãnh đạo khởi nghĩa",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Hào kiệt Lũng Nhai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Những người cùng Lê Lợi thề quyết tâm đánh giặc",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Quân Minh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Thế lực đô hộ",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B16-02",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chủ tướng nghĩa quân",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nguyễn Trãi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Quân sư, người phụ trách ngoại giao",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lê Lai",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người hy sinh cứu chủ tướng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nghĩa quân Lam Sơn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng chiến đấu",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B16-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Chích",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tướng lĩnh hiến kế đánh Nghệ An",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chủ tướng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nghĩa quân Lam Sơn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng thực hiện chiến lược",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B16-04",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chủ tướng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Vương Thông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng chỉ huy quân Minh",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nghĩa quân Lam Sơn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng chiến đấu",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Quân Minh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Địch quân",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B16-05",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chủ tướng",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Liễu Thăng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng chỉ huy viện binh nhà Minh",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Mộc Thạnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng chỉ huy viện binh nhà Minh",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Vương Thông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Tướng nhà Minh tham gia Hội thề",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nghĩa quân Lam Sơn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng chiến đấu",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B16-06",
+   "nhan_vat": [
+    {
+     "ten": "Lê Lợi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lãnh đạo khởi nghĩa",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nguyễn Trãi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Quân sư, nhà văn hóa",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nhân dân Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng ủng hộ khởi nghĩa",
+     "the_ki": "XV"
+    }
+   ]
+  }
+ ]
+}

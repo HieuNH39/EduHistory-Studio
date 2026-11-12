@@ -1,0 +1,123 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B15-01",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Quý Ly",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Người thâu tóm quyền lực và lập ra nhà Hồ",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Phạm Sư Ôn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa nông dân",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Nông dân và nô tì",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng tham gia các cuộc khởi nghĩa",
+     "the_ki": "XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B15-02",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Quý Ly",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Nhà cải cách, thực hiện các chính sách đổi mới",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Hồ Nguyên Trừng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Nhà khoa học, người chế tạo súng thần cơ",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Nguyễn Trãi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Nhân tài đỗ đạt trong kì thi Thái học sinh",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Lý Tử Tấn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Nhân tài đỗ đạt trong kì thi Thái học sinh",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Vũ Mộng Nguyên",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Nhân tài đỗ đạt trong kì thi Thái học sinh",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B15-03",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Hán Thương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Vua nhà Hồ lãnh đạo kháng chiến",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Hồ Nguyên Trừng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Ngu",
+     "vai_tro": "Tướng lĩnh chỉ huy quân đội",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Trương Phụ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc (nhà Minh)",
+     "vai_tro": "Tướng chỉ huy quân Minh xâm lược",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Mộc Thạnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc (nhà Minh)",
+     "vai_tro": "Tướng chỉ huy quân Minh xâm lược",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "Quân Minh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc (nhà Minh)",
+     "vai_tro": "Lực lượng xâm lược Đại Ngu",
+     "the_ki": "XV"
+    }
+   ]
+  }
+ ]
+}

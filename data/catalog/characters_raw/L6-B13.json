@@ -1,0 +1,96 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B13-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chương trình",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B13-02",
+   "nhan_vat": [
+    {
+     "ten": "Nhà vua Đông Nam Á",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Biểu tượng Thần - Vua",
+     "the_ki": "I - X"
+    },
+    {
+     "ten": "Cư dân Đông Nam Á",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người thực hành tín ngưỡng bản địa",
+     "the_ki": "I - X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B13-03",
+   "nhan_vat": [
+    {
+     "ten": "Người Khơ-me cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Người sáng tạo chữ viết và phù điêu sử thi",
+     "the_ki": "I - X"
+    },
+    {
+     "ten": "Người Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người kế thừa chữ Hán",
+     "the_ki": "I - X"
+    },
+    {
+     "ten": "Người Môn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mi-an-ma",
+     "vai_tro": "Người sáng tạo chữ Môn cổ",
+     "the_ki": "I - X"
+    },
+    {
+     "ten": "Người Mã Lai",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "In-đô-nê-xi-a",
+     "vai_tro": "Người sáng tạo chữ Mã Lai cổ",
+     "the_ki": "I - X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B13-04",
+   "nhan_vat": [
+    {
+     "ten": "Nghệ nhân điêu khắc cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đông Nam Á",
+     "vai_tro": "Người xây dựng đền-núi và chạm khắc phù điêu",
+     "the_ki": "I - X"
+    }
+   ]
+  }
+ ]
+}

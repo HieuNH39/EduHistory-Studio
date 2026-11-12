@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B11-01",
+   "nhan_vat": [
+    {
+     "ten": "nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "người bị mất ruộng đất phải ra thành thị làm thuê",
+     "the_ki": "XVIII-XIX"
+    },
+    {
+     "ten": "công nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "giai cấp cơ bản trong xã hội tư bản",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "giai cấp cơ bản trong xã hội tư bản",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B11-02",
+   "nhan_vat": [
+    {
+     "ten": "C. Mác",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "lãnh tụ phong trào công nhân quốc tế",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Ph. Ăng-ghen",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "lãnh tụ phong trào công nhân quốc tế",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B11-03",
+   "nhan_vat": [
+    {
+     "ten": "công nhân Pa-ri",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "lực lượng chính của cuộc khởi nghĩa và Công xã",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Vệ quốc quân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "lực lượng vũ trang của Công xã",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Na-pô-lê-ông III",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "người đứng đầu chính quyền bị lật đổ",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B11-04",
+   "nhan_vat": [
+    {
+     "ten": "công nhân Si-ca-gô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "người tham gia đình công đòi ngày làm 8 giờ",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "V. I. Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "lãnh tụ giai cấp công nhân, phát triển chủ nghĩa Mác",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

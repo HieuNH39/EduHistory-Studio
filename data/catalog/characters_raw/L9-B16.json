@@ -1,0 +1,109 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B16-01",
+   "nhan_vat": [
+    {
+     "ten": "Nông dân miền Bắc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người được chia ruộng đất trong cải cách",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân nhà máy",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người lao động tại các nhà máy mới xây dựng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B16-02",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước, lãnh đạo công cuộc xây dựng CNXH",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Bộ đội Trường Sơn",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chi viện cho chiến trường miền Nam",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B16-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Thị Định",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo đội quân tóc dài trong phong trào Đồng khởi",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đội quân tóc dài",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng phụ nữ tham gia phong trào Đồng khởi",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Bến Tre",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Quần chúng nổi dậy trong phong trào Đồng khởi",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B16-04",
+   "nhan_vat": [
+    {
+     "ten": "Quân dân miền Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chiến đấu chống chiến lược Chiến tranh đặc biệt",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Cố vấn Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Hoa Kỳ",
+     "vai_tro": "Người chỉ huy quân đội tay sai trong chiến tranh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B16-05",
+   "nhan_vat": [
+    {
+     "ten": "Thanh niên miền Bắc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia phong trào Ba sẵn sàng",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

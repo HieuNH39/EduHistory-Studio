@@ -1,0 +1,99 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B7-01",
+   "nhan_vat": [
+    {
+     "ten": "Người Lào Thơng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Cư dân cổ sinh sống lâu đời tại Lào",
+     "the_ki": "trước XIII"
+    },
+    {
+     "ten": "Người Lào Lùm",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Nhóm người nói tiếng Thái di cư đến Lào",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Pha Ngừm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Tộc trưởng thống nhất các mường, lập ra nước Lan Xang",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Vua Cam-pu-chia",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Người nuôi dạy Pha Ngừm và gả con gái cho ông",
+     "the_ki": "XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B7-02",
+   "nhan_vat": [
+    {
+     "ten": "Vua Lan Xang",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Người đứng đầu nhà nước Lan Xang",
+     "the_ki": "XV-XVII"
+    },
+    {
+     "ten": "Quan đại thần Lan Xang",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Các quan kiêm Tổng đốc tỉnh giúp vua cai trị",
+     "the_ki": "XV-XVII"
+    },
+    {
+     "ten": "Quân đội Lan Xang",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Lực lượng bảo vệ đất nước, chống quân xâm lược",
+     "the_ki": "XV-XVII"
+    },
+    {
+     "ten": "Quân Miến Điện",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Miến Điện",
+     "vai_tro": "Quân xâm lược tấn công Lan Xang",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B7-03",
+   "nhan_vat": [
+    {
+     "ten": "Người Lào",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Cư dân sáng tạo chữ viết, kiến trúc và nghệ thuật múa",
+     "the_ki": "XV-XVII"
+    },
+    {
+     "ten": "Vũ công Lào",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Người biểu diễn điệu múa hoa Chăm-pa",
+     "the_ki": "XV-XVII"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B21-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhà khoa học",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Đại diện cho lực lượng sáng tạo thành tựu khoa học kĩ thuật",
+     "the_ki": "XX-XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B21-02",
+   "nhan_vat": [
+    {
+     "ten": "Người lao động Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đối tượng chịu tác động của chuyển đổi số và áp lực đào thải từ AI",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Nhân lực chất lượng cao",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng nòng cốt để làm chủ công nghệ và dữ liệu",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B21-03",
+   "nhan_vat": [
+    {
+     "ten": "Đại diện các tổ chức quốc tế (EU, ASEAN, UN)",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Biểu hiện của sự liên kết và hợp tác toàn cầu",
+     "the_ki": "XX-XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B21-04",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt Nam trong thời đại hội nhập",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ thể tiếp nhận cơ hội và giữ gìn bản sắc văn hoá dân tộc",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

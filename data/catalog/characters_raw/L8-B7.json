@@ -1,0 +1,99 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B7-01",
+   "nhan_vat": [
+    {
+     "ten": "Vua Lê",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua bù nhìn trong cung cấm",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Chúa Trịnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người nắm quyền hành thực tế",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Hoạn quan",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tầng lớp lộng quyền trong phủ chúa",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nông dân Đàng Ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân chịu sưu thuế và thiên tai",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B7-02",
+   "nhan_vat": [
+    {
+     "ten": "Hoàng Công Chất",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thủ lĩnh khởi nghĩa tại Mường Thanh",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Danh Phương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thủ lĩnh khởi nghĩa tại Tam Đảo",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nguyễn Hữu Cầu",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thủ lĩnh khởi nghĩa (Quận He)",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nghĩa quân nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng tham gia khởi nghĩa",
+     "the_ki": "XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B7-03",
+   "nhan_vat": [
+    {
+     "ten": "Quân Trịnh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng trấn áp khởi nghĩa",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Nông dân Đàng Ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân được hưởng chính sách khoan thư",
+     "the_ki": "XVIII"
+    }
+   ]
+  }
+ ]
+}

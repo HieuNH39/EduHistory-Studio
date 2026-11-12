@@ -1,0 +1,184 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B13-01",
+   "nhan_vat": [
+    {
+     "ten": "Lý Chiêu Hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vị vua cuối cùng của nhà Lý",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Cảnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua đầu tiên của nhà Trần",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Thủ Độ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người có công lớn trong việc thành lập nhà Trần",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Lý",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người có công lớn trong việc thành lập nhà Trần",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Thừa",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người có công lớn trong việc thành lập nhà Trần",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B13-02",
+   "nhan_vat": [
+    {
+     "ten": "Vua Trần",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người đứng đầu triều đình",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Thái thượng hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua đã nhường ngôi nhưng vẫn cùng quản lý đất nước",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Quan lại nhà Trần",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Bộ máy chính quyền",
+     "the_ki": "XIII-XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B13-03",
+   "nhan_vat": [
+    {
+     "ten": "Quý tộc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tầng lớp nắm giữ chức vụ và điền trang",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng sản xuất chính",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Sản xuất hàng hóa",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Trao đổi hàng hóa tại Vân Đồn và kinh thành",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Nô tì",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tầng lớp phục dịch",
+     "the_ki": "XIII-XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B13-04",
+   "nhan_vat": [
+    {
+     "ten": "Trần Nhân Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua, người sáng lập Thiền phái Trúc Lâm",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Pháp Loa",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thiền sư kế tục sự nghiệp Trúc Lâm",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Huyền Quang",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thiền sư kế tục sự nghiệp Trúc Lâm",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Chu Văn An",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà giáo, nhà nho tiêu biểu",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Lê Văn Hưu",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà sử học",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Trần Quốc Tuấn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà quân sự",
+     "the_ki": "XIII-XIV"
+    },
+    {
+     "ten": "Tuệ Tĩnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Thầy thuốc",
+     "the_ki": "XIV"
+    }
+   ]
+  }
+ ]
+}

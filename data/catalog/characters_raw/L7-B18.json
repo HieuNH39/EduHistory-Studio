@@ -1,0 +1,80 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B18-01",
+   "nhan_vat": [
+    {
+     "ten": "Chế Mân",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Vua Chăm-pa, người kết hôn với công chúa Huyền Trân",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Huyền Trân",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Công chúa Đại Việt, Vương hậu Chăm-pa",
+     "the_ki": "XIV"
+    },
+    {
+     "ten": "Trần Nhân Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua Đại Việt, cha của công chúa Huyền Trân",
+     "the_ki": "XIII-XIV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B18-02",
+   "nhan_vat": [
+    {
+     "ten": "người Chăm",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Cư dân xây dựng đền tháp và thực hành tôn giáo",
+     "the_ki": "X-XVI"
+    },
+    {
+     "ten": "vũ nữ Áp-sa-ra",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Chăm-pa",
+     "vai_tro": "Người biểu diễn vũ điệu truyền thống",
+     "the_ki": "X-XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B18-03",
+   "nhan_vat": [
+    {
+     "ten": "lưu dân người Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người đến khai hoang vùng đất Nam Bộ",
+     "the_ki": "XIV-XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B18-04",
+   "nhan_vat": [
+    {
+     "ten": "cư dân Nam Bộ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân làm nông nghiệp, đánh bắt thủy hải sản",
+     "the_ki": "X-XVI"
+    }
+   ]
+  }
+ ]
+}

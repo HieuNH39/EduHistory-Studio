@@ -1,0 +1,117 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B5-01",
+   "nhan_vat": [
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Thực hiện chương trình khai thác thuộc địa lần thứ hai",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B5-02",
+   "nhan_vat": [
+    {
+     "ten": "Thành viên Tâm tâm xã",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhóm thanh niên yêu nước mưu sát Toàn quyền Méc-lanh",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Phan Châu Trinh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà yêu nước, sáng lập Hội những người yêu nước Việt Nam tại Pháp",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B5-03",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đấu tranh đòi quyền lợi kinh tế, thành lập Đảng Lập hiến",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Tầng lớp tiểu tư sản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Trí thức, học sinh, sinh viên tham gia phong trào yêu nước",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Phan Bội Châu",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà yêu nước được nhân dân đòi thả tự do",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B5-04",
+   "nhan_vat": [
+    {
+     "ten": "Tôn Đức Thắng",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc bãi công Ba Son",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân Ba Son",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng nòng cốt trong cuộc bãi công năm 1925",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B5-05",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người sáng lập Hội Việt Nam Cách mạng Thanh niên",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nguyễn Thái Học",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo Việt Nam Quốc dân đảng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Phó Đức Chính",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thành viên chủ chốt Việt Nam Quốc dân đảng",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

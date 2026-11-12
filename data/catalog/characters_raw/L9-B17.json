@@ -1,0 +1,130 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B17-01",
+   "nhan_vat": [
+    {
+     "ten": "Quân đội Mỹ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Lực lượng chủ yếu thực hiện chiến lược Chiến tranh cục bộ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân Giải phóng miền Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chiến đấu đánh bại các cuộc hành quân của Mỹ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B17-02",
+   "nhan_vat": [
+    {
+     "ten": "Quân Giải phóng miền Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tiến công các cơ quan đầu não của địch trong Mậu Thân 1968",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Chủ tịch Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo Đảng và nhân dân trong kháng chiến",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B17-03",
+   "nhan_vat": [
+    {
+     "ten": "Chủ tịch Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người để lại Di chúc là nguồn động viên lớn cho toàn dân",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Sài Gòn",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chủ yếu trong chiến lược Việt Nam hóa chiến tranh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B17-04",
+   "nhan_vat": [
+    {
+     "ten": "10 cô gái thanh niên xung phong Ngã ba Đồng Lộc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Biểu tượng hy sinh bảo vệ mạch máu giao thông",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân dân miền Bắc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Sản xuất và chiến đấu chống chiến tranh phá hoại",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B17-05",
+   "nhan_vat": [
+    {
+     "ten": "Quân Giải phóng miền Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng thực hiện Tổng tiến công và nổi dậy Xuân 1975",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Dương Văn Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng thống chính quyền Sài Gòn tuyên bố đầu hàng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B17-06",
+   "nhan_vat": [
+    {
+     "ten": "Đảng Cộng sản Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo sáng suốt cuộc kháng chiến",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đoàn kết, chiến đấu vì độc lập dân tộc",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

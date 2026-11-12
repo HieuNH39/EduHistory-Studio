@@ -1,0 +1,80 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B9-01",
+   "nhan_vat": [
+    {
+     "ten": "nông dân Đàng Ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "người chịu ảnh hưởng của xung đột và mất ruộng đất",
+     "the_ki": "XVI - XVIII"
+    },
+    {
+     "ten": "địa chủ Đàng Trong",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "tầng lớp sở hữu ruộng đất lớn trong quá trình khai hoang",
+     "the_ki": "XVII - XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B9-02",
+   "nhan_vat": [
+    {
+     "ten": "thợ thủ công làng nghề",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "người sản xuất gốm, dệt, rèn tại các làng nghề",
+     "the_ki": "XVI - XVIII"
+    },
+    {
+     "ten": "thương nhân nước ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nhật Bản, Trung Quốc, phương Tây",
+     "vai_tro": "người buôn bán tại các cảng thị Hội An, Phố Hiến",
+     "the_ki": "XVII - XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B9-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Bỉnh Khiêm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "nhà thơ, nhà giáo dục tiêu biểu",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "giáo sĩ phương Tây",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phương Tây",
+     "vai_tro": "người truyền đạo và sáng tạo chữ Quốc ngữ",
+     "the_ki": "XVII - XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B9-04",
+   "nhan_vat": [
+    {
+     "ten": "nghệ nhân dân gian",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "người chạm khắc đình chùa và biểu diễn nghệ thuật sân khấu",
+     "the_ki": "XVI - XVIII"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B7-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Ai Cập cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Người làm nông nghiệp ven sông Nin",
+     "the_ki": "IV TCN"
+    },
+    {
+     "ten": "Cư dân Lưỡng Hà cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Người làm nông nghiệp ven sông Ti-gơ-rơ và Ơ-phơ-rát",
+     "the_ki": "IV TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B7-02",
+   "nhan_vat": [
+    {
+     "ten": "Mê-nét",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Vua thống nhất Ai Cập",
+     "the_ki": "IV TCN"
+    },
+    {
+     "ten": "Ha-mu-ra-bi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Vua trị vì Ba-bi-lon",
+     "the_ki": "XVIII TCN"
+    },
+    {
+     "ten": "Pha-ra-ông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Người đứng đầu nhà nước Ai Cập",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "En-xi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Người đứng đầu thành bang Lưỡng Hà",
+     "the_ki": "Cổ đại"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B7-03",
+   "nhan_vat": [
+    {
+     "ten": "Người Ai Cập cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Người sáng tạo và sử dụng chữ tượng hình",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "Người Lưỡng Hà cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Người sáng tạo và sử dụng chữ hình nêm",
+     "the_ki": "Cổ đại"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B7-04",
+   "nhan_vat": [
+    {
+     "ten": "Người Ai Cập cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Người xây dựng kim tự tháp và tượng Nhân sư",
+     "the_ki": "Cổ đại"
+    },
+    {
+     "ten": "Người Lưỡng Hà cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Người xây dựng vườn treo Ba-bi-lon và phát minh bánh xe",
+     "the_ki": "Cổ đại"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B9-01",
+   "nhan_vat": [
+    {
+     "ten": "Nhật Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Hân Hân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dẫn chuyện",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B9-02",
+   "nhan_vat": [
+    {
+     "ten": "Tơ-ru-man",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Tổng thống Mỹ, người khởi xướng Chiến tranh lạnh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B9-03",
+   "nhan_vat": [
+    {
+     "ten": "Phi-đen Cát-xtơ-rô",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cu-ba",
+     "vai_tro": "Lãnh đạo Chính phủ Cu-ba",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội các nước NATO",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Khối tư bản",
+     "vai_tro": "Lực lượng quân sự khối tư bản",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội các nước Vác-sa-va",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Khối xã hội chủ nghĩa",
+     "vai_tro": "Lực lượng quân sự khối xã hội chủ nghĩa",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B9-04",
+   "nhan_vat": [
+    {
+     "ten": "Nhà lãnh đạo Mỹ",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Đại diện Mỹ tại hội nghị Man-ta",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhà lãnh đạo Liên Xô",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Đại diện Liên Xô tại hội nghị Man-ta",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B14-01",
+   "nhan_vat": [
+    {
+     "ten": "Chủ tịch Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo kháng chiến, ra Lời kêu gọi toàn quốc kháng chiến",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Thế lực xâm lược, bội ước và gây hấn",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B14-02",
+   "nhan_vat": [
+    {
+     "ten": "Trường Chinh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tổng Bí thư, tác giả tác phẩm Kháng chiến nhất định thắng lợi",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng thực hiện đường lối kháng chiến toàn dân",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B14-03",
+   "nhan_vat": [
+    {
+     "ten": "Cảm tử quân Hà Nội",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chiến sĩ chiến đấu tại các đô thị, ôm bom ba càng đánh xe tăng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Lực lượng xâm lược bị giam chân tại đô thị và thất bại ở Việt Bắc",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B14-04",
+   "nhan_vat": [
+    {
+     "ten": "Chủ tịch Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chỉ đạo chiến dịch Biên giới",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Bộ đội chủ lực Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tiến công giải phóng biên giới",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B14-05",
+   "nhan_vat": [
+    {
+     "ten": "Chủ tịch Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo công cuộc kiến quốc, thăm nông dân sản xuất",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tăng gia sản xuất, hậu phương kháng chiến",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Học viên Bình dân học vụ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân tham gia xóa nạn mù chữ",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

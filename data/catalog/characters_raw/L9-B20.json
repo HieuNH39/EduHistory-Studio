@@ -1,0 +1,85 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B20-01",
+   "nhan_vat": [
+    {
+     "ten": "Đại biểu Quốc hội khóa VI",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tham gia kỳ họp thông qua chính sách thống nhất đất nước",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B20-02",
+   "nhan_vat": [
+    {
+     "ten": "Quân đội nhân dân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chiến đấu bảo vệ biên giới Tây Nam và phía Bắc",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân Pôn Pốt",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Lực lượng xâm lược biên giới Tây Nam",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B20-03",
+   "nhan_vat": [
+    {
+     "ten": "Chiến sĩ Hải quân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chiến đấu bảo vệ chủ quyền tại đảo Gạc Ma",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B20-04",
+   "nhan_vat": [
+    {
+     "ten": "Đại biểu Đại hội Đảng lần thứ VI",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đề ra đường lối đổi mới toàn diện đất nước",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B20-05",
+   "nhan_vat": [
+    {
+     "ten": "Người lao động Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đại diện cho nhân dân trong công cuộc đổi mới và phát triển",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "Chiến sĩ Quân đội nhân dân Việt Nam hiện đại",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng bảo vệ Tổ quốc và tham gia gìn giữ hòa bình",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

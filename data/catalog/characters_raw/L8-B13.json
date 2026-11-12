@@ -1,0 +1,152 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B13-01",
+   "nhan_vat": [
+    {
+     "ten": "I. Niu-tơn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nhà khoa học, người phát minh ra thuyết vạn vật hấp dẫn",
+     "the_ki": "XVII-XVIII"
+    },
+    {
+     "ten": "M. Lô-mô-nô-xốp",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Nhà khoa học, người tìm ra định luật bảo toàn và chuyển hoá năng lượng",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "S. Đác-uyn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nhà khoa học, người xây dựng thuyết tiến hoá",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B13-02",
+   "nhan_vat": [
+    {
+     "ten": "A. Xmít",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nhà kinh tế chính trị học",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "D. Ri-các-đô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nhà kinh tế chính trị học",
+     "the_ki": "XVIII-XIX"
+    },
+    {
+     "ten": "C. Mác",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Nhà sáng lập chủ nghĩa xã hội khoa học",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Ph. Ăng-ghen",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Nhà sáng lập chủ nghĩa xã hội khoa học",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "giai cấp công nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Lực lượng đấu tranh chống chủ nghĩa tư bản",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B13-03",
+   "nhan_vat": [
+    {
+     "ten": "Phơn-tơn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Nhà phát minh tàu thuỷ chạy bằng động cơ hơi nước",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "công nhân nhà máy",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Người vận hành máy móc trong cuộc cách mạng công nghiệp",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B13-04",
+   "nhan_vat": [
+    {
+     "ten": "H. Ban-dắc",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Nhà văn",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Vích-to Huy-gô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Nhà văn",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Lép Tôn-xtôi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Nhà văn",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "L. Bét-tô-ven",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Nhà soạn nhạc",
+     "the_ki": "XVIII-XIX"
+    },
+    {
+     "ten": "Ph. Sô-panh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ba Lan",
+     "vai_tro": "Nhà soạn nhạc",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "P. I. Trai-cốp-xki",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nga",
+     "vai_tro": "Nhà soạn nhạc",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

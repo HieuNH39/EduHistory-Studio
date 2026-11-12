@@ -1,0 +1,95 @@
+{
+ "tap": [
+  {
+   "ma": "L8-CD1-01",
+   "nhan_vat": []
+  },
+  {
+   "ma": "L8-CD1-02",
+   "nhan_vat": [
+    {
+     "ten": "Vua Lý Nhân Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua khởi xướng việc đắp đê",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Hà đê sứ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Quan chuyên trách đê điều thời Trần",
+     "the_ki": "XIII"
+    },
+    {
+     "ten": "Nguyễn Công Trứ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Doanh điền sứ khai khẩn vùng ven biển",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Vua Gia Long",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua ban chiếu về việc đắp đê",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nông dân Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người trực tiếp đắp đê, trị thủy",
+     "the_ki": "XI-XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-CD1-03",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Nam Bộ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người khai khẩn và thích ứng với sông nước",
+     "the_ki": "XVII-XIX"
+    },
+    {
+     "ten": "Vua Minh Mạng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua chỉ đạo đào kênh Vĩnh Tế",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-CD1-04",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Cư dân khai thác sông Hồng thời tiền sử",
+     "the_ki": "Trước Công nguyên"
+    },
+    {
+     "ten": "Cư dân Phù Nam",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phù Nam",
+     "vai_tro": "Cư dân nông nghiệp lúa nước đầu tiên ở Nam Bộ",
+     "the_ki": "I-VII"
+    }
+   ]
+  }
+ ]
+}

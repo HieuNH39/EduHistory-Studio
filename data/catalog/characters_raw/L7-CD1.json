@@ -1,0 +1,112 @@
+{
+ "tap": [
+  {
+   "ma": "L7-CD1-01",
+   "nhan_vat": [
+    {
+     "ten": "thương nhân Tây Âu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "người có nhu cầu tìm kiếm vàng bạc và hương liệu",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "người Ả Rập",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ả Rập",
+     "vai_tro": "kiểm soát các tuyến đường buôn bán truyền thống",
+     "the_ki": "XV"
+    },
+    {
+     "ten": "người Thổ Nhĩ Kỳ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thổ Nhĩ Kỳ",
+     "vai_tro": "kiểm soát các tuyến đường buôn bán truyền thống",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD1-02",
+   "nhan_vat": [
+    {
+     "ten": "C. Cô-lôm-bô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "I-ta-li-a/Tây Ban Nha",
+     "vai_tro": "nhà thám hiểm tìm ra châu Mỹ",
+     "the_ki": "XV-XVI"
+    },
+    {
+     "ten": "thủy thủ Tây Ban Nha",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "đoàn người đồng hành cùng Cô-lôm-bô",
+     "the_ki": "XV"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD1-03",
+   "nhan_vat": [
+    {
+     "ten": "Ph. Ma-gien-lăng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Bồ Đào Nha/Tây Ban Nha",
+     "vai_tro": "nhà thám hiểm thực hiện chuyến đi vòng quanh thế giới",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "S. Ê-ca-nô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "người hoàn thành chuyến đi vòng quanh thế giới",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "thổ dân Phi-líp-pin",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phi-líp-pin",
+     "vai_tro": "người đụng độ với đoàn thám hiểm",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD1-04",
+   "nhan_vat": [
+    {
+     "ten": "thương nhân Tây Âu",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "tầng lớp giàu lên nhờ phát kiến địa lí",
+     "the_ki": "XVI-XVIII"
+    },
+    {
+     "ten": "nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "người lao động bị bần cùng hóa",
+     "the_ki": "XVI-XVIII"
+    },
+    {
+     "ten": "nô lệ da đen",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Phi",
+     "vai_tro": "nạn nhân của nạn buôn bán nô lệ",
+     "the_ki": "XVI-XVIII"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B3-01",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Người lao động chịu ảnh hưởng của khủng hoảng kinh tế",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Tầng lớp bị bần cùng hóa trong khủng hoảng",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B3-02",
+   "nhan_vat": [
+    {
+     "ten": "Ta-na-ca",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Thủ tướng Nhật Bản, người đề ra kế hoạch xâm lược",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhật hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Người đứng đầu bộ máy quân sự hóa Nhật Bản",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Lực lượng thực hiện xâm lược và gây chiến",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B3-03",
+   "nhan_vat": [
+    {
+     "ten": "M. Gan-đi",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Lãnh đạo Đảng Quốc đại, đấu tranh giành độc lập",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Người dân Ấn Độ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Tham gia tuần hành chống thực dân Anh",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B3-04",
+   "nhan_vat": [
+    {
+     "ten": "Sinh viên Bắc Kinh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Lực lượng nòng cốt trong phong trào Ngũ tứ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đảng viên Đảng Cộng sản Trung Quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Lãnh đạo cuộc kháng chiến chống Nhật",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B3-05",
+   "nhan_vat": [
+    {
+     "ten": "Ong Kẹo",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Lãnh đạo khởi nghĩa chống thực dân Pháp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Com-ma-đam",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Lãnh đạo khởi nghĩa chống thực dân Pháp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "A-cha Hem-chiêu",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Nhà sư lãnh đạo phong trào yêu nước",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân Nghệ - Tĩnh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia cao trào Xô viết Nghệ - Tĩnh",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B16-01",
+   "nhan_vat": [
+    {
+     "ten": "Gia Long",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Hoàng đế sáng lập triều Nguyễn",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Quân đội triều Nguyễn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng quân sự thời Nguyễn",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B16-02",
+   "nhan_vat": [
+    {
+     "ten": "Minh Mạng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Hoàng đế thực hiện cải cách hành chính",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Quan lại triều Nguyễn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Bộ máy quản lý nhà nước",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B16-03",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Công Trứ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người tổ chức khai hoang lập ấp",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng sản xuất và khởi nghĩa",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Phan Bá Vành",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa nông dân",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Cao Bá Quát",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa nông dân",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B16-04",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Du",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhà thơ, tác giả Truyện Kiều",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Hồ Xuân Hương",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nữ sĩ thơ Nôm",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nghệ nhân Nhã nhạc cung đình",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người biểu diễn nghệ thuật cung đình",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B16-05",
+   "nhan_vat": [
+    {
+     "ten": "Phạm Hữu Nhật",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Thủy quân Chánh đội trưởng đi đo đạc Hoàng Sa",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Đội Hoàng Sa và Bắc Hải",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng thực thi chủ quyền biển đảo",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

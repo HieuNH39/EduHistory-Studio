@@ -1,0 +1,80 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B1-01",
+   "nhan_vat": [
+    {
+     "ten": "Hoàng đế Sác-lơ-ma-nhơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Vương quốc Phơ-răng",
+     "vai_tro": "Hoàng đế mở rộng lãnh thổ, củng cố vương quốc",
+     "the_ki": "VIII-IX"
+    },
+    {
+     "ten": "Người Giéc-man",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Các bộ tộc xâm chiếm La Mã và lập nên các vương quốc mới",
+     "the_ki": "V"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B1-02",
+   "nhan_vat": [
+    {
+     "ten": "Lãnh chúa phong kiến",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Chủ sở hữu lãnh địa, cai quản và bóc lột nông nô",
+     "the_ki": "IX-XVI"
+    },
+    {
+     "ten": "Nông nô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Lực lượng sản xuất chính trong lãnh địa",
+     "the_ki": "IX-XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B1-03",
+   "nhan_vat": [
+    {
+     "ten": "Chúa Giê-su",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Giê-ru-sa-lem",
+     "vai_tro": "Người sáng lập Thiên Chúa giáo",
+     "the_ki": "I"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B1-04",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Cư dân thành thị, sản xuất hàng hóa",
+     "the_ki": "XI trở đi"
+    },
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Cư dân thành thị, thúc đẩy trao đổi hàng hóa",
+     "the_ki": "XI trở đi"
+    }
+   ]
+  }
+ ]
+}

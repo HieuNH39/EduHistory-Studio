@@ -1,0 +1,120 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B5-01",
+   "nhan_vat": [
+    {
+     "ten": "Mạc Đăng Dung",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Võ quan thâu tóm quyền lực, người sáng lập vương triều Mạc",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Vua Lê",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Vua bị ép nhường ngôi",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng tham gia các cuộc khởi nghĩa",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B5-02",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Kim",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Quan võ khởi binh phù Lê diệt Mạc",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Quân Nam triều",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng trung thành với nhà Lê",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Quân Bắc triều",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng của nhà Mạc",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B5-03",
+   "nhan_vat": [
+    {
+     "ten": "Trịnh Kiểm",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người nắm binh quyền họ Trịnh",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Nguyễn Hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người trấn thủ Thuận Hóa, gây dựng cơ nghiệp họ Nguyễn",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Đào Duy Từ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà quân sự chỉ huy xây dựng Luỹ Thầy",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Trịnh Tùng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chúa Trịnh xây dựng vương phủ",
+     "the_ki": "XVII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B5-04",
+   "nhan_vat": [
+    {
+     "ten": "Nông dân Đàng Ngoài",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân chịu ảnh hưởng chiến tranh và di dân",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Lưu dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người di cư vào phương Nam khai phá đất đai",
+     "the_ki": "XVII"
+    }
+   ]
+  }
+ ]
+}

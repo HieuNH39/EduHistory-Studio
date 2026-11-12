@@ -1,0 +1,112 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B10-01",
+   "nhan_vat": [
+    {
+     "ten": "Đinh Bộ Lĩnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Hoàng đế sáng lập nhà Đinh",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Nhân dân Đại Cồ Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Người dân sinh sống tại Hoa Lư",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B10-02",
+   "nhan_vat": [
+    {
+     "ten": "Lê Hoàn",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Vua lãnh đạo kháng chiến chống Tống",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Hầu Nhân Bảo",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nhà Tống",
+     "vai_tro": "Tổng chỉ huy quân Tống",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Quân đội Đại Cồ Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Lực lượng chiến đấu bảo vệ đất nước",
+     "the_ki": "X"
+    },
+    {
+     "ten": "Quân Tống",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nhà Tống",
+     "vai_tro": "Quân xâm lược",
+     "the_ki": "X"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B10-03",
+   "nhan_vat": [
+    {
+     "ten": "Vua thời Tiền Lê",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Người đứng đầu bộ máy nhà nước",
+     "the_ki": "X-XI"
+    },
+    {
+     "ten": "Quan lại thời Tiền Lê",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Giúp việc cho vua (quan văn, quan võ)",
+     "the_ki": "X-XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B10-04",
+   "nhan_vat": [
+    {
+     "ten": "Nhà sư",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Người có học thức, được triều đình đề cao",
+     "the_ki": "X-XI"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Tầng lớp bị trị, lao động sản xuất",
+     "the_ki": "X-XI"
+    },
+    {
+     "ten": "Nô tì",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Cồ Việt",
+     "vai_tro": "Tầng lớp có địa vị thấp kém nhất",
+     "the_ki": "X-XI"
+    }
+   ]
+  }
+ ]
+}

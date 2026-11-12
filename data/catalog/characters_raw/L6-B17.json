@@ -1,0 +1,59 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B17-01",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt thời Bắc thuộc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân giữ gìn tiếng nói và tín ngưỡng truyền thống",
+     "the_ki": "I-X"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B17-02",
+   "nhan_vat": [
+    {
+     "ten": "Người Việt cổ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người thực hiện các phong tục xăm mình, nhuộm răng, ăn trầu",
+     "the_ki": "I-XIII"
+    },
+    {
+     "ten": "Trần Anh Tông",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Vua ra lệnh bãi bỏ tục xăm mình",
+     "the_ki": "XIII"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B17-03",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người tiếp thu kỹ thuật làm giấy và đồ thủy tinh",
+     "the_ki": "I-X"
+    },
+    {
+     "ten": "Cao tăng Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người truyền bá Phật giáo và giảng kinh tại Trung Hoa",
+     "the_ki": "I-X"
+    }
+   ]
+  }
+ ]
+}

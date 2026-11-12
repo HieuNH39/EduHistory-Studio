@@ -1,0 +1,104 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B8-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân lưu vực sông Ấn",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người khai phá nền văn minh sông Ấn",
+     "the_ki": "XXV TCN"
+    },
+    {
+     "ten": "Cư dân lưu vực sông Hằng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người khai phá nền văn minh sông Hằng",
+     "the_ki": "I TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B8-02",
+   "nhan_vat": [
+    {
+     "ten": "Người A-ri-a",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người thiết lập hệ thống đẳng cấp Vác-na",
+     "the_ki": "II TCN"
+    },
+    {
+     "ten": "Người Đra-vi-đa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người bản địa bị áp bức thành đẳng cấp Su-đra",
+     "the_ki": "II TCN"
+    },
+    {
+     "ten": "Tăng lữ Bra-man",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Tầng lớp cao nhất trong xã hội",
+     "the_ki": "I TCN"
+    },
+    {
+     "ten": "Người Pa-ri-a",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Tầng lớp thấp kém nhất trong xã hội",
+     "the_ki": "I TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B8-03",
+   "nhan_vat": [
+    {
+     "ten": "Xít-đác-ta Gô-ta-ma",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người sáng lập Phật giáo",
+     "the_ki": "VI TCN"
+    },
+    {
+     "ten": "Hoàng tử Ra-ma",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Nhân vật chính trong sử thi Ra-ma-y-a-na",
+     "the_ki": "I TCN"
+    },
+    {
+     "ten": "Công chúa Si-ta",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Nhân vật chính trong sử thi Ra-ma-y-a-na",
+     "the_ki": "I TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B8-04",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người sử dụng thuật ngữ Paria để đấu tranh cho các dân tộc bị áp bức",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

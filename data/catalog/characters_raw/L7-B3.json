@@ -1,0 +1,128 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B3-01",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Giai cấp mới có tiềm lực kinh tế muốn thay đổi trật tự xã hội",
+     "the_ki": "XIII-XVI"
+    },
+    {
+     "ten": "Thợ thủ công",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Người lao động trong các công trường thủ công",
+     "the_ki": "XIII-XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B3-02",
+   "nhan_vat": [
+    {
+     "ten": "Lê-ô-na đơ Vanh-xi",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "I-ta-li-a",
+     "vai_tro": "Họa sĩ thiên tài, biểu tượng thời Phục hưng",
+     "the_ki": "XV-XVI"
+    },
+    {
+     "ten": "W. Sếch-xpia",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nhà viết kịch vĩ đại",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "M. Xéc-van-tét",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Ban Nha",
+     "vai_tro": "Nhà văn lớn",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Mi-ken-lăng-giơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "I-ta-li-a",
+     "vai_tro": "Danh họa, nhà điêu khắc, kiến trúc sư",
+     "the_ki": "XV-XVI"
+    },
+    {
+     "ten": "N. Cô-péc-ních",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ba Lan",
+     "vai_tro": "Nhà thiên văn học",
+     "the_ki": "XV-XVI"
+    },
+    {
+     "ten": "G. Ga-li-lê",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "I-ta-li-a",
+     "vai_tro": "Nhà khoa học dũng cảm bảo vệ chân lý",
+     "the_ki": "XVI-XVII"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B3-03",
+   "nhan_vat": [
+    {
+     "ten": "Mác-tin Lu-thơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Nhà cải cách tôn giáo",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Giăng Can-vanh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Thụy Sĩ",
+     "vai_tro": "Nhà cải cách tôn giáo",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Giáo hoàng và giám mục",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Đại diện Giáo hội bị chỉ trích",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B3-04",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tây Âu",
+     "vai_tro": "Lực lượng đấu tranh chống phong kiến",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Nông dân Đức",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Lực lượng tham gia chiến tranh nông dân",
+     "the_ki": "XVI"
+    }
+   ]
+  }
+ ]
+}

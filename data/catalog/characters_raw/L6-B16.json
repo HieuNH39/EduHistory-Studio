@@ -1,0 +1,120 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B16-01",
+   "nhan_vat": [
+    {
+     "ten": "Trưng Trắc",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa",
+     "the_ki": "I"
+    },
+    {
+     "ten": "Trưng Nhị",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa",
+     "the_ki": "I"
+    },
+    {
+     "ten": "Tô Định",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Thái thú nhà Hán",
+     "the_ki": "I"
+    },
+    {
+     "ten": "Nghĩa quân Hai Bà Trưng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng tham gia khởi nghĩa",
+     "the_ki": "I"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B16-02",
+   "nhan_vat": [
+    {
+     "ten": "Bà Triệu",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo cuộc khởi nghĩa",
+     "the_ki": "III"
+    },
+    {
+     "ten": "Quân Ngô",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân xâm lược nhà Ngô",
+     "the_ki": "III"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B16-03",
+   "nhan_vat": [
+    {
+     "ten": "Lý Bí",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo khởi nghĩa, Lý Nam Đế",
+     "the_ki": "VI"
+    },
+    {
+     "ten": "Triệu Quang Phục",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tướng lĩnh, người kế tục lãnh đạo",
+     "the_ki": "VI"
+    },
+    {
+     "ten": "Quân Lương",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân xâm lược nhà Lương",
+     "the_ki": "VI"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B16-04",
+   "nhan_vat": [
+    {
+     "ten": "Mai Thúc Loan",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo khởi nghĩa, Mai Hắc Đế",
+     "the_ki": "VIII"
+    },
+    {
+     "ten": "Phùng Hưng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lãnh đạo khởi nghĩa, Bố Cái Đại Vương",
+     "the_ki": "VIII"
+    },
+    {
+     "ten": "Quân Đường",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân xâm lược nhà Đường",
+     "the_ki": "VIII"
+    }
+   ]
+  }
+ ]
+}

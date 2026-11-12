@@ -1,0 +1,80 @@
+{
+ "tap": [
+  {
+   "ma": "L7-CD2-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân Ai Cập cổ đại",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ai Cập",
+     "vai_tro": "Canh tác nông nghiệp ven sông Nin",
+     "the_ki": "IV TCN"
+    },
+    {
+     "ten": "Người Xu-me",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Lưỡng Hà",
+     "vai_tro": "Xây dựng các đô thị đầu tiên như U-rúc",
+     "the_ki": "IV TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD2-02",
+   "nhan_vat": [
+    {
+     "ten": "Lái buôn Hy Lạp",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Giao thương hàng hải tại cảng Pi-rê",
+     "the_ki": "V TCN"
+    },
+    {
+     "ten": "Nô lệ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Hy Lạp",
+     "vai_tro": "Hàng hóa trao đổi chính tại các đô thị",
+     "the_ki": "V TCN"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD2-03",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công tự do",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Rời lãnh địa để lập nên các đô thị mới",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Lãnh chúa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Xây dựng hoặc quản lý các đô thị",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-CD2-04",
+   "nhan_vat": [
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Châu Âu",
+     "vai_tro": "Thành lập thương hội, ngân hàng và thúc đẩy văn hóa Phục hưng",
+     "the_ki": "XIV-XV"
+    }
+   ]
+  }
+ ]
+}

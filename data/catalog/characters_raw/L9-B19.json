@@ -1,0 +1,82 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B19-01",
+   "nhan_vat": [
+    {
+     "ten": "Người dân Đông Bắc Á",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc, Nhật Bản, Hàn Quốc",
+     "vai_tro": "Đại diện cho dân số khu vực",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B19-02",
+   "nhan_vat": [
+    {
+     "ten": "Người dân Nhật Bản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Đại diện cho chất lượng cuộc sống và tuổi thọ cao",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B19-03",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân ngành công nghệ cao Hàn Quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Hàn Quốc",
+     "vai_tro": "Đại diện cho lực lượng sản xuất bán dẫn và ô tô",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B19-04",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân công xưởng Trung Quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Đại diện cho sự phát triển công nghiệp và đô thị hóa",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B19-05",
+   "nhan_vat": [
+    {
+     "ten": "Các nhà lãnh đạo ASEAN",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Các nước Đông Nam Á",
+     "vai_tro": "Đại diện cho quá trình kết nạp thành viên và xây dựng cộng đồng",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B19-06",
+   "nhan_vat": [
+    {
+     "ten": "Người dân các nước ASEAN",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Các nước Đông Nam Á",
+     "vai_tro": "Đại diện cho sự gắn kết văn hóa - xã hội trong cộng đồng",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

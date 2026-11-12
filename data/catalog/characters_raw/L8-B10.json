@@ -1,0 +1,83 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B10-01",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu - Mỹ",
+     "vai_tro": "Đại diện cho tầng lớp nắm giữ tư bản và các công ty độc quyền",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Công nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu - Mỹ",
+     "vai_tro": "Lực lượng lao động trong các nhà máy, xí nghiệp",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B10-02",
+   "nhan_vat": [
+    {
+     "ten": "Giai cấp tư sản Anh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Đại diện cho các đảng Tự do và Bảo thủ nắm quyền",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Giai cấp công nhân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Lực lượng đấu tranh chống lại chính sách đàn áp của chính phủ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B10-03",
+   "nhan_vat": [
+    {
+     "ten": "Rốc-phe-lơ",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Ông trùm công nghiệp dầu mỏ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Moóc-gân",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Ông trùm công nghiệp thép",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Pho",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Mỹ",
+     "vai_tro": "Ông trùm công nghiệp ô tô",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Giới cầm quyền Đức",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Đại diện cho quý tộc địa chủ và tư bản độc quyền",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

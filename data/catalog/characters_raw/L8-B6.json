@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B6-01",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Hoàng",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chúa Nguyễn vào trấn thủ Thuận Hóa, khởi đầu công cuộc mở mang bờ cõi",
+     "the_ki": "XVI"
+    },
+    {
+     "ten": "Dân cư Thuận - Quảng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân di cư và khai phá vùng đất mới",
+     "the_ki": "XVI"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B6-02",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Hữu Cảnh",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người đặt phủ Gia Định, xác lập bộ máy hành chính tại Nam Bộ",
+     "the_ki": "XVII"
+    },
+    {
+     "ten": "Lưu dân khai hoang",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân thực hiện khai khẩn ruộng đất, lập làng xóm",
+     "the_ki": "XVII-XVIII"
+    },
+    {
+     "ten": "Thương nhân",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt và nước ngoài",
+     "vai_tro": "Người giao thương tại các thương cảng như Nông Nại Đại Phố, Bến Nghé",
+     "the_ki": "XVII-XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B6-03",
+   "nhan_vat": [
+    {
+     "ten": "Đội Hoàng Sa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Đội dân binh thực thi chủ quyền tại quần đảo Hoàng Sa",
+     "the_ki": "XVII-XVIII"
+    },
+    {
+     "ten": "Đội Bắc Hải",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Đội dân binh thực thi chủ quyền tại các đảo phía Nam và Trường Sa",
+     "the_ki": "XVII-XVIII"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B6-04",
+   "nhan_vat": [
+    {
+     "ten": "Cộng đồng cư dân Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Người dân cùng chung sống, hòa hợp và phát triển văn hóa tại vùng đất mới",
+     "the_ki": "XVIII"
+    }
+   ]
+  }
+ ]
+}

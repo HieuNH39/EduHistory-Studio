@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B10-01",
+   "nhan_vat": [
+    {
+     "ten": "I-u-ri Ga-ga-rin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Người đầu tiên bay vào vũ trụ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân Liên Xô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Lực lượng lao động xây dựng đất nước",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B10-02",
+   "nhan_vat": [
+    {
+     "ten": "M. Goóc-ba-chốp",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Tổng Bí thư Đảng Cộng sản Liên Xô, người khởi xướng cải tổ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Lãnh đạo Đảng và Nhà nước Liên Xô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Những người tham gia cuộc đảo chính năm 1991",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B10-03",
+   "nhan_vat": [
+    {
+     "ten": "Hồng quân Liên Xô",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Hỗ trợ các nước Đông Âu thành lập nhà nước dân chủ nhân dân",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Công nhân Ba Lan",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Ba Lan",
+     "vai_tro": "Lực lượng tham gia các cuộc bãi công, biểu tình",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B10-04",
+   "nhan_vat": [
+    {
+     "ten": "Nhân dân Liên Xô và Đông Âu",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô và Đông Âu",
+     "vai_tro": "Người dân chịu ảnh hưởng của khủng hoảng kinh tế và thay đổi chế độ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Các thế lực thù địch",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Quốc tế",
+     "vai_tro": "Các lực lượng chống phá chế độ xã hội chủ nghĩa",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

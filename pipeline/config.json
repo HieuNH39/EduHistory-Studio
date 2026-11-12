@@ -1,34 +1,39 @@
 {
-  "tts": {
-    "engine": "gemini",
-    "model": "gemini-3.8-flash-tts",
-    "fallback_model": "gemini-2.5-flash-preview-tts",
-    "voices": {
-      "Nhật Minh": "Puck",
-      "Hân Hân": "Zephyr"
-    },
-    "offline_fallback": "piper vi_VN-vais1000-medium"
+ "tts": {
+  "engine": "gemini",
+  "model": "gemini-3.8-flash-tts",
+  "fallback_model": "gemini-2.5-flash-preview-tts",
+  "voices": {
+   "Nhật Minh": "Puck",
+   "Hân Hân": "Zephyr",
+   "Nguyễn Huệ": "Alnilam",
+   "Nguyễn Ánh": "Iapetus",
+   "Tướng Xiêm": "Algenib",
+   "Tướng Tây Sơn": "Fenrir"
   },
-  "video": {
-    "fps": 30,
-    "landscape": [
-      1920,
-      1080
-    ],
-    "portrait": [
-      1080,
-      1920
-    ],
-    "loudness_lufs": -14
-  },
-  "subtitle": {
-    "font": "Be Vietnam Pro",
-    "vi_position": "top_line",
-    "en_position": "bottom_line"
-  },
-  "logo": {
-    "watermark": "brand/logo/final/eduhistory-watermark-pill.png",
-    "icon": "brand/logo/final/eduhistory-icon.png"
-  },
-  "characters": "brand/characters/README.md"
+  "offline_fallback": "piper vi_VN-vais1000-medium",
+  "ghi_chu": "Giọng nhân vật lịch sử: xem brand/characters/lich-su/README.md"
+ },
+ "video": {
+  "fps": 30,
+  "landscape": [
+   1920,
+   1080
+  ],
+  "portrait": [
+   1080,
+   1920
+  ],
+  "loudness_lufs": -14
+ },
+ "subtitle": {
+  "font": "Be Vietnam Pro",
+  "vi_position": "top_line",
+  "en_position": "bottom_line"
+ },
+ "logo": {
+  "watermark": "brand/logo/final/eduhistory-watermark-pill.png",
+  "icon": "brand/logo/final/eduhistory-icon.png"
+ },
+ "characters": "brand/characters/README.md"
 }

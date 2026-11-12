@@ -1,0 +1,128 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B13-01",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước Việt Nam Dân chủ Cộng hòa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội Trung Hoa Dân quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Quân đội chiếm đóng miền Bắc",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Quân đội xâm lược miền Nam",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B13-02",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước, đại biểu Quốc hội",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đại biểu Quốc hội khóa I",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Các đại biểu được bầu trong Tổng tuyển cử",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B13-03",
+   "nhan_vat": [
+    {
+     "ten": "Hồ Chí Minh",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Chủ tịch nước kêu gọi tăng gia và xóa mù chữ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhân dân Hà Nội",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân tham gia cứu đói và Tuần lễ vàng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nhà tư sản yêu nước",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người ủng hộ tiền vàng cho Quỹ độc lập",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Học viên lớp Bình dân học vụ",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người dân tham gia xóa mù chữ",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B13-04",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân Sài Gòn - Chợ Lớn",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng kháng chiến chống Pháp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Thực dân Pháp",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Pháp",
+     "vai_tro": "Quân đội xâm lược",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân Anh",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Quân đội hỗ trợ Pháp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Chi đội Nam tiến",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng chi viện cho miền Nam",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

@@ -42,16 +42,51 @@ def dur(path):
     return float(run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", path]).stdout.strip())
 
 # ---------------------------------------------------------------- giọng đọc
-def voice_for(lines):
+_QUOTA_OUT = set()
+
+def _tts_group(lines):
     voices = CFG["tts"]["voices"]
-    speakers = {}
-    for s, *_ in lines:
-        speakers[s] = voices.get(s, "Puck")
-    key = hashlib.sha1(json.dumps([lines, speakers], ensure_ascii=False).encode()).hexdigest()[:16]
-    wav = os.path.join(CACHE, f"tts_{key}.wav")
-    if not os.path.exists(wav):
-        tts_gemini.tts([(s, t) for s, t, *_ in lines], speakers, wav, model=CFG["tts"]["model"])
-    return wav
+    speakers = {sp: voices.get(sp, "Puck") for sp, *_ in lines}
+    for model in (CFG["tts"]["model"], CFG["tts"]["fallback_model"]):
+        key = hashlib.sha1(json.dumps([lines, speakers, model], ensure_ascii=False).encode()).hexdigest()[:16]
+        wav = os.path.join(CACHE, f"tts_{key}.wav")
+        if os.path.exists(wav): return wav
+    for model in (CFG["tts"]["model"], CFG["tts"]["fallback_model"]):
+        if model in _QUOTA_OUT: continue
+        key = hashlib.sha1(json.dumps([lines, speakers, model], ensure_ascii=False).encode()).hexdigest()[:16]
+        wav = os.path.join(CACHE, f"tts_{key}.wav")
+        try:
+            tts_gemini.tts([(sp, t) for sp, t, *_ in lines], speakers, wav, model=model, retries=4)
+            return wav
+        except Exception as e:
+            if "429" in str(e) or "quota" in str(e).lower(): _QUOTA_OUT.add(model); continue
+            raise
+    raise RuntimeError("Hết hạn mức giọng đọc Gemini TTS ở mọi mô hình")
+
+def voice_for(lines, gap=0.28):
+    """Lời một cảnh → (wav, [(đầu, cuối) từng câu]). Gemini TTS nói nhiều giọng tối đa 2 người/lần,
+    nên cảnh có ≥3 người nói được chia nhóm liên tiếp ≤2 người, đọc riêng rồi nối."""
+    groups, cur = [], []
+    for ln in lines:
+        if cur and len({x[0] for x in cur} | {ln[0]}) > 2:
+            groups.append(cur); cur = []
+        cur.append(ln)
+    if cur: groups.append(cur)
+    wavs = [_tts_group(g) for g in groups]
+    if len(wavs) == 1:
+        return wavs[0], line_bounds(wavs[0], groups[0])
+    key = hashlib.sha1("|".join(wavs).encode()).hexdigest()[:16]
+    out = os.path.join(CACHE, f"tts_cat_{key}.wav")
+    bounds, t = [], 0.0
+    for w, g in zip(wavs, groups):
+        bounds += [(a + t, b + t) for a, b in line_bounds(w, g)]; t += dur(w) + gap
+    if not os.path.exists(out):
+        inp = []; flt = []
+        for k, w in enumerate(wavs):
+            inp += ["-i", w]; flt.append(f"[{k}]aresample=24000,aformat=channel_layouts=mono,apad=pad_dur={gap}[a{k}]")
+        run(["ffmpeg", "-y", "-loglevel", "error", *inp, "-filter_complex",
+             ";".join(flt) + ";" + "".join(f"[a{k}]" for k in range(len(wavs))) + f"concat=n={len(wavs)}:v=0:a=1[o]", "-map", "[o]", out])
+    return out, bounds
 
 def line_bounds(wav, lines):
     """Ước lượng thời điểm bắt đầu/kết thúc từng câu: tìm khoảng lặng, khớp với số câu; dự phòng chia theo độ dài chữ."""
@@ -178,7 +213,7 @@ def video_frames(path, W, H, nframes):
         yield frames[min(i, len(frames) - 1)]
 
 # ---------------------------------------------------------------- hình hiệu logo (mở đầu / kết)
-def ident_frames(W, H, seconds=2.6, title=None):
+def ident_frames(W, H, seconds=2.6, title=None, note=None):
     icon = Image.open(os.path.join(ROOT, CFG["logo"]["icon"])).convert("RGBA")
     size = int(min(W, H) * 0.34); icon = icon.resize((size, size), Image.LANCZOS)
     f_big = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-900-normal.ttf"), int(size * 0.34))
@@ -210,14 +245,42 @@ def ident_frames(W, H, seconds=2.6, title=None):
                 f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-700-normal.ttf"), int(size * 0.12))
                 wt = d.textlength(title, font=f_t)
                 d.text((W // 2 - wt / 2, y + int(size * 0.68)), title, font=f_t, fill=(255, 255, 255, int(230 * kt)))
+            if note:
+                f_n = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-400-italic.ttf"), int(size * 0.075))
+                wn = d.textlength(note, font=f_n)
+                d.text((W // 2 - wn / 2, H - int(size * 0.32)), note, font=f_n, fill=(220, 210, 190, int(220 * kt)))
             bg.paste(txt, (0, 0), txt)
         fade = min(1, (n - i) / (0.35 * FPS))
         arr = np.asarray(bg).astype(np.float32) * fade
         yield arr.astype(np.uint8)
 
 # ---------------------------------------------------------------- dựng tập
+def load_spec(path):
+    spec = json.load(open(path))
+    spec.setdefault("id", spec.get("ma"))
+    if isinstance(spec.get("nhac"), dict): spec["nhac"] = spec["nhac"].get("tep")
+    return spec
+
+def scene_source(spec, sc, W, H, n):
+    """Chọn nguồn hình: sa bàn code / chuyển cảnh trống đồng / clip video / ảnh tĩnh / khung chờ."""
+    rp = lambda x: x if os.path.isabs(x) else os.path.join(ROOT, x)
+    lop = sc.get("lop")
+    if lop == "sa_ban":
+        from maps import saban
+        return saban.frames(sc["sa_ban"], sc["pha"], W, H, n, FPS)
+    if lop == "chuyen_canh":
+        import effects
+        return effects.trong_dong(W, H, n, sc.get("chu", ""))
+    base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
+    vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
+    img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)
+    if vid: return video_frames(rp(vid), W, H, n)
+    if img: return still_frames(load_rgb(rp(img)), W, H, n, sc.get("chuyen_dong") if sc.get("chuyen_dong") in ("vao", "ra", "trai", "phai", "len", "xuong") else "vao")
+    import effects
+    return effects.cho(W, H, n, sc)
+
 def render(spec_path, out_dir=None):
-    spec = json.load(open(spec_path))
+    spec = load_spec(spec_path)
     vertical = spec.get("huong") == "doc"
     W, H = CFG["video"]["portrait"] if vertical else CFG["video"]["landscape"]
     out_dir = out_dir or os.path.join(ROOT, "renders"); os.makedirs(out_dir, exist_ok=True)
@@ -228,13 +291,14 @@ def render(spec_path, out_dir=None):
     scenes = []
     for sc in spec["canh"]:
         lines = sc.get("loi", [])
-        wav = voice_for(lines) if lines else None
+        wav, bounds = voice_for(lines) if lines else (None, [])
         speech = dur(wav) if wav else sc.get("thoi_luong", 3.0)
-        scenes.append(dict(sc, wav=wav, speech=speech, length=speech + SCENE_PAD + XFADE))
+        length = max(speech + (SCENE_PAD if wav else 0), sc.get("thoi_luong_toi_thieu", 0)) + XFADE
+        scenes.append(dict(sc, wav=wav, bounds=bounds, speech=speech, length=length))
     log["khau"]["giong_doc_s"] = round(time.time() - t0, 1)
 
     intro = 0 if vertical else 2.6
-    outro = 2.6 if vertical else 3.0
+    outro = (2.6 if vertical else 3.0) + (1.2 if spec.get("ghi_chu_tai_hien") else 0)
     # mốc thời gian
     starts = []; cur = intro
     for s in scenes:
@@ -254,9 +318,7 @@ def render(spec_path, out_dir=None):
     xf = int(XFADE * FPS)
     for k, s in enumerate(scenes):
         n = int(round(s["length"] * FPS))
-        rp = lambda x: x if os.path.isabs(x) else os.path.join(ROOT, x)
-        gen = video_frames(rp(s["video"]), W, H, n) if s.get("video") else still_frames(load_rgb(rp(s["anh"])), W, H, n, s.get("chuyen_dong", "vao"))
-        frames_iter = iter(gen)
+        frames_iter = iter(scene_source(spec, s, W, H, n))
         for i in range(n):
             fr = next(frames_iter)
             if i < xf and prev_tail is not None:
@@ -269,7 +331,7 @@ def render(spec_path, out_dir=None):
                 tail.append(fr); continue
             write(fr)
         prev_tail = tail if k < len(scenes) - 1 else None
-    for fr in ident_frames(W, H, outro, title=spec.get("ten_tap")): write(fr)
+    for fr in ident_frames(W, H, outro, title=spec.get("ten_tap"), note=spec.get("ghi_chu_tai_hien")): write(fr)
     ff.stdin.close(); ff.wait()
     log["khau"]["dung_hinh_s"] = round(time.time() - t0, 1)
 
@@ -301,7 +363,7 @@ def render(spec_path, out_dir=None):
     cues = []
     for k, s in enumerate(scenes):
         if not s["wav"]: continue
-        for (a, b), ln in zip(line_bounds(s["wav"], s["loi"]), s["loi"]):
+        for (a, b), ln in zip(s["bounds"], s["loi"]):
             cues.append((starts[k] + 0.15 + a, starts[k] + 0.15 + b, ln[1], ln[2] if len(ln) > 2 else ""))
     ass = os.path.join(work, "subs.ass"); open(ass, "w").write(build_ass(cues, W, H, vertical))
 

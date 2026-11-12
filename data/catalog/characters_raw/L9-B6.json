@@ -1,0 +1,120 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B6-01",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Nhân vật chính, người gửi Yêu sách và tham gia sáng lập Đảng Cộng sản Pháp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Tác giả Luận cương về vấn đề dân tộc và thuộc địa",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B6-02",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Người sáng lập Hội Việt Nam Cách mạng Thanh niên và huấn luyện cán bộ",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Lê Hồng Phong",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học viên lớp huấn luyện chính trị tại Quảng Châu",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Phùng Chí Kiên",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học viên lớp huấn luyện chính trị tại Quảng Châu",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nguyễn Lương Bằng",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học viên lớp huấn luyện chính trị tại Quảng Châu",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Trần Phú",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học viên lớp huấn luyện chính trị tại Quảng Châu",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Phạm Văn Đồng",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Học viên lớp huấn luyện chính trị tại Quảng Châu",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B6-03",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng nòng cốt trong phong trào vô sản hóa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đảng viên Hội Việt Nam Cách mạng Thanh niên",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Những người thành lập các tổ chức cộng sản năm 1929",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B6-04",
+   "nhan_vat": [
+    {
+     "ten": "Nguyễn Ái Quốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Phái viên Quốc tế Cộng sản, chủ trì Hội nghị hợp nhất",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Đại biểu các tổ chức cộng sản",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Tham dự hội nghị hợp nhất tại Hương Cảng",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

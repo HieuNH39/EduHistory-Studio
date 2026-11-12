@@ -1,0 +1,96 @@
+{
+ "tap": [
+  {
+   "ma": "L6-B15-01",
+   "nhan_vat": [
+    {
+     "ten": "Triệu Đà",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Nam Việt",
+     "vai_tro": "Người chiếm Âu Lạc và bắt đầu thời kỳ Bắc thuộc",
+     "the_ki": "II TCN"
+    },
+    {
+     "ten": "Quan lại phương Bắc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Đại diện chính quyền đô hộ cai trị tại các quận huyện",
+     "the_ki": "I - IX"
+    },
+    {
+     "ten": "Quân đồn trú phương Bắc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Lực lượng bảo vệ trị sở và bộ máy cai trị",
+     "the_ki": "I - IX"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B15-02",
+   "nhan_vat": [
+    {
+     "ten": "Nông dân Âu Lạc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu Lạc",
+     "vai_tro": "Người bị bóc lột, trở thành nông nô trên chính ruộng đất của mình",
+     "the_ki": "I - IX"
+    },
+    {
+     "ten": "Người Hán di cư",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Trung Quốc",
+     "vai_tro": "Người được đưa sang để thực hiện chính sách đồng hóa",
+     "the_ki": "I - IX"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B15-03",
+   "nhan_vat": [
+    {
+     "ten": "Thợ thủ công Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu Lạc",
+     "vai_tro": "Người làm nghề rèn sắt, đúc đồng, làm giấy, thủy tinh",
+     "the_ki": "I - IX"
+    },
+    {
+     "ten": "Hào trưởng bản địa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu Lạc",
+     "vai_tro": "Tầng lớp có uy tín và vị thế trong xã hội",
+     "the_ki": "I - IX"
+    }
+   ]
+  },
+  {
+   "ma": "L6-B15-04",
+   "nhan_vat": [
+    {
+     "ten": "Hào trưởng bản địa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu Lạc",
+     "vai_tro": "Thủ lĩnh các cuộc khởi nghĩa giành độc lập",
+     "the_ki": "I - IX"
+    },
+    {
+     "ten": "Nhân dân Âu Lạc",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Âu Lạc",
+     "vai_tro": "Lực lượng đấu tranh chống chính quyền đô hộ",
+     "the_ki": "I - IX"
+    }
+   ]
+  }
+ ]
+}

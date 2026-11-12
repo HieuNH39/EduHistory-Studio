@@ -1,0 +1,112 @@
+{
+ "tap": [
+  {
+   "ma": "L7-B12-01",
+   "nhan_vat": [
+    {
+     "ten": "Lý Thường Kiệt",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Tổng chỉ huy cuộc kháng chiến",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quân đội nhà Lý",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng tiến công sang đất Tống",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B12-02",
+   "nhan_vat": [
+    {
+     "ten": "Lý Thường Kiệt",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chỉ huy xây dựng phòng tuyến",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quân dân Đại Việt",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Xây dựng phòng tuyến sông Như Nguyệt",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Tù trưởng dân tộc ít người",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Bố trí quân đánh chặn ở biên giới",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B12-03",
+   "nhan_vat": [
+    {
+     "ten": "Lý Thường Kiệt",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Chỉ huy phản công và đề nghị giảng hòa",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quân đội nhà Lý",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Lực lượng phản công vượt sông Như Nguyệt",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quân Tống",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tống",
+     "vai_tro": "Quân xâm lược bị đánh bại",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quách Quỳ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tống",
+     "vai_tro": "Chỉ huy quân Tống",
+     "the_ki": "XI"
+    }
+   ]
+  },
+  {
+   "ma": "L7-B12-04",
+   "nhan_vat": [
+    {
+     "ten": "Lý Thường Kiệt",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Đại Việt",
+     "vai_tro": "Nhà quân sự đưa ra quyết định giảng hòa",
+     "the_ki": "XI"
+    },
+    {
+     "ten": "Quách Quỳ",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Tống",
+     "vai_tro": "Tướng quân Tống chấp nhận giảng hòa",
+     "the_ki": "XI"
+    }
+   ]
+  }
+ ]
+}

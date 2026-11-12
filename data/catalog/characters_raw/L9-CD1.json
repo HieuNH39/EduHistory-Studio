@@ -1,0 +1,64 @@
+{
+ "tap": [
+  {
+   "ma": "L9-CD1-01",
+   "nhan_vat": [
+    {
+     "ten": "Cư dân đô thị hiện đại",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đại diện cho lối sống và sự phát triển tại đô thị",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD1-02",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân công nghiệp Anh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Lực lượng lao động chính trong các nhà máy thời kỳ cách mạng công nghiệp",
+     "the_ki": "XVIII"
+    },
+    {
+     "ten": "Người dân di cư ra thành thị",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Phản ánh sự gia tăng dân số đô thị nhanh chóng",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD1-03",
+   "nhan_vat": [
+    {
+     "ten": "Chuyên gia kinh tế tri thức",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nhật Bản",
+     "vai_tro": "Đại diện cho lực lượng lao động trong kỷ nguyên số",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD1-04",
+   "nhan_vat": [
+    {
+     "ten": "Người lao động Việt Nam",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Đại diện cho sự chuyển dịch cơ cấu lao động tại các đô thị lớn",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

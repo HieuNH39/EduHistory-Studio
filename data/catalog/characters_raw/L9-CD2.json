@@ -1,0 +1,109 @@
+{
+ "tap": [
+  {
+   "ma": "L9-CD2-01",
+   "nhan_vat": [
+    {
+     "ten": "nghệ nhân gốm Bát Tràng",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người làm nghề thủ công truyền thống",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "nghệ nhân đúc đồng Đại Bái",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người làm nghề thủ công truyền thống",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "liền anh liền chị Quan họ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người biểu diễn nghệ thuật dân gian",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD2-02",
+   "nhan_vat": [
+    {
+     "ten": "người dân vùng sông nước Cửu Long",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người dân sinh sống và buôn bán trên chợ nổi",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "nghệ nhân Đờn ca tài tử",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người biểu diễn nghệ thuật dân gian",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD2-03",
+   "nhan_vat": [
+    {
+     "ten": "nhà khoa học khí tượng",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người phân tích số liệu biến đổi khí hậu",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD2-04",
+   "nhan_vat": [
+    {
+     "ten": "nông dân đồng bằng sông Hồng",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người chịu ảnh hưởng của thời tiết cực đoan",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "nông dân đồng bằng sông Cửu Long",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người chịu ảnh hưởng của hạn hán và xâm nhập mặn",
+     "the_ki": "XXI"
+    }
+   ]
+  },
+  {
+   "ma": "L9-CD2-05",
+   "nhan_vat": [
+    {
+     "ten": "kỹ sư nông nghiệp",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người hướng dẫn giải pháp thích ứng biến đổi khí hậu",
+     "the_ki": "XXI"
+    },
+    {
+     "ten": "cộng đồng dân cư địa phương",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "người thực hiện các biện pháp ứng phó",
+     "the_ki": "XXI"
+    }
+   ]
+  }
+ ]
+}

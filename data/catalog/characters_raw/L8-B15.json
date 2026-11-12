@@ -1,0 +1,144 @@
+{
+ "tap": [
+  {
+   "ma": "L8-B15-01",
+   "nhan_vat": [
+    {
+     "ten": "Nữ hoàng Anh Vích-to-ri-a",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Nữ hoàng Anh và Ấn Độ",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Thực dân Anh",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Anh",
+     "vai_tro": "Bộ máy cai trị và quân đội thực dân",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nông dân Ấn Độ",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ",
+     "vai_tro": "Người bị bóc lột và khởi nghĩa",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B15-02",
+   "nhan_vat": [
+    {
+     "ten": "Hô-xê Ri-dan",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phi-líp-pin",
+     "vai_tro": "Nhà lãnh đạo cải cách",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Bô-ni-pha-xi-ô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phi-líp-pin",
+     "vai_tro": "Nhà lãnh đạo xu hướng bạo động",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Sa-min",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "In-đô-nê-xi-a",
+     "vai_tro": "Lãnh đạo khởi nghĩa nông dân",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Công nhân In-đô-nê-xi-a",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "In-đô-nê-xi-a",
+     "vai_tro": "Lực lượng đấu tranh giai cấp",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B15-03",
+   "nhan_vat": [
+    {
+     "ten": "A-cha Xoa",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Lãnh đạo khởi nghĩa",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Pu-côm-bô",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Nhà sư lãnh đạo khởi nghĩa",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Si-vô-tha",
+     "loai": "ca_nhan",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Cam-pu-chia",
+     "vai_tro": "Hoàng thân lãnh đạo khởi nghĩa",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Pha-ca-đuốc",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Lãnh đạo khởi nghĩa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Ong Kẹo",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Lào",
+     "vai_tro": "Lãnh đạo khởi nghĩa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nghĩa quân Cần vương",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Việt Nam",
+     "vai_tro": "Lực lượng kháng chiến chống Pháp",
+     "the_ki": "XIX"
+    }
+   ]
+  },
+  {
+   "ma": "L8-B15-04",
+   "nhan_vat": [
+    {
+     "ten": "Thực dân phương Tây",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Phương Tây",
+     "vai_tro": "Thực dân xâm lược",
+     "the_ki": "XIX"
+    },
+    {
+     "ten": "Nhân dân thuộc địa",
+     "loai": "nhom",
+     "thoi_ky": "co_dai_trung_dai",
+     "quoc_gia": "Ấn Độ và Đông Nam Á",
+     "vai_tro": "Người đấu tranh giành độc lập",
+     "the_ki": "XIX"
+    }
+   ]
+  }
+ ]
+}

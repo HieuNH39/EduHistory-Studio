@@ -1,0 +1,88 @@
+{
+ "tap": [
+  {
+   "ma": "L9-B1-01",
+   "nhan_vat": [
+    {
+     "ten": "Hồng quân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga Xô viết",
+     "vai_tro": "Lực lượng vũ trang bảo vệ chính quyền cách mạng",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân đội 14 đế quốc",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Anh, Pháp, Mỹ, Nhật Bản",
+     "vai_tro": "Lực lượng can thiệp quân sự vào nước Nga",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B1-02",
+   "nhan_vat": [
+    {
+     "ten": "V.I. Lê-nin",
+     "loai": "ca_nhan",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga Xô viết",
+     "vai_tro": "Người đề xướng Chính sách kinh tế mới (NEP)",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Nông dân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Nga Xô viết",
+     "vai_tro": "Đối tượng thực hiện chính sách thuế lương thực mới",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B1-03",
+   "nhan_vat": [
+    {
+     "ten": "Công nhân",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Lực lượng nòng cốt trong công nghiệp hóa",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Trí thức xã hội chủ nghĩa",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Lực lượng tham gia phát triển giáo dục và khoa học",
+     "the_ki": "XX"
+    }
+   ]
+  },
+  {
+   "ma": "L9-B1-04",
+   "nhan_vat": [
+    {
+     "ten": "Nông dân tập thể",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Liên Xô",
+     "vai_tro": "Đối tượng chịu ảnh hưởng của tập thể hóa nông nghiệp",
+     "the_ki": "XX"
+    },
+    {
+     "ten": "Quân phát xít Đức",
+     "loai": "nhom",
+     "thoi_ky": "hien_dai",
+     "quoc_gia": "Đức",
+     "vai_tro": "Lực lượng tấn công Liên Xô năm 1941",
+     "the_ki": "XX"
+    }
+   ]
+  }
+ ]
+}

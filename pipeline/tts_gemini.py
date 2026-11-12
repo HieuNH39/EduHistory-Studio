@@ -33,6 +33,8 @@ def tts(lines, speakers, out_wav, model="gemini-3.8-flash-tts", style=None, retr
             return out_wav
         except urllib.error.HTTPError as e:
             msg = e.read().decode()[:300]
-            if e.code in (429, 500, 503) and i < retries - 1:
+            if e.code == 429 and "quota" in msg.lower():
+                raise RuntimeError(f"429 quota {msg}")
+            if e.code in (429, 500, 502, 503, 504) and i < retries - 1:
                 print("[tts]", e.code, msg[:150], flush=True); time.sleep(10 * (i + 1)); continue
             raise RuntimeError(f"{e.code} {msg}")
