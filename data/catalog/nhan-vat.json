@@ -545,6 +545,22 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "quach-quy",
+   "ten": "Quách Quỳ",
+   "loai": "ca_nhan",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Tống",
+   "vai_tro": "Chỉ huy quân Tống",
+   "the_ki": "XI",
+   "tap": [
+    "L7-B12-03",
+    "L7-B12-04",
+    "L7-B12-02"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "quan-giai-phong-mien-nam",
    "ten": "Quân Giải phóng miền Nam",
    "loai": "nhom",
@@ -572,6 +588,22 @@
     "L7-B15-03",
     "L7-B16-01",
     "L7-B16-04"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "quan-tong",
+   "ten": "Quân Tống",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Nhà Tống",
+   "vai_tro": "Quân xâm lược",
+   "the_ki": "X",
+   "tap": [
+    "L7-B10-02",
+    "L7-B12-03",
+    "L7-B12-02"
    ],
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
@@ -1167,18 +1199,18 @@
    "thiet_ke": "chua"
   },
   {
-   "id": "quach-quy",
-   "ten": "Quách Quỳ",
-   "loai": "ca_nhan",
+   "id": "quan-mong-co",
+   "ten": "Quân Mông Cổ",
+   "loai": "nhom",
    "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Tống",
-   "vai_tro": "Chỉ huy quân Tống",
-   "the_ki": "XI",
+   "quoc_gia": "Mông Cổ",
+   "vai_tro": "Đội quân xâm lược",
+   "the_ki": "XIII",
    "tap": [
-    "L7-B12-03",
-    "L7-B12-04"
+    "L7-B14-01",
+    "L7-B14-02"
    ],
-   "nguon_hinh": "ve_theo_tham_chieu",
+   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -1192,21 +1224,6 @@
    "tap": [
     "L6-B18-02",
     "L6-B18-04"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "quan-tong",
-   "ten": "Quân Tống",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Nhà Tống",
-   "vai_tro": "Quân xâm lược",
-   "the_ki": "X",
-   "tap": [
-    "L7-B10-02",
-    "L7-B12-03"
    ],
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
@@ -1254,6 +1271,21 @@
     "L9-B4-02"
    ],
    "nguon_hinh": "nhom_tu_lieu_hoac_ve",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "quan-doi-nha-tran",
+   "ten": "Quân đội nhà Trần",
+   "loai": "nhom",
+   "thoi_ky": "trung_dai",
+   "quoc_gia": "Đại Việt",
+   "vai_tro": "Quân dân nhà Trần trong ba lần kháng chiến chống Mông – Nguyên",
+   "the_ki": "XIII",
+   "tap": [
+    "L7-B14-02",
+    "L7-B14-04"
+   ],
+   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -3037,6 +3069,20 @@
     "L9-B2-03"
    ],
    "nguon_hinh": "anh_tu_lieu",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "hoa-mau",
+   "ten": "Hoà Mâu",
+   "loai": "ca_nhan",
+   "thoi_ky": "trung_dai",
+   "quoc_gia": "Tống",
+   "vai_tro": "Chỉ huy quân thuỷ Tống năm 1077",
+   "the_ki": "XI",
+   "tap": [
+    "L7-B12-02"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
    "thiet_ke": "chua"
   },
   {
@@ -5938,20 +5984,6 @@
    "thiet_ke": "chua"
   },
   {
-   "id": "quan-mong-co",
-   "ten": "Quân Mông Cổ",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Mông Cổ",
-   "vai_tro": "Đội quân xâm lược",
-   "the_ki": "XIII",
-   "tap": [
-    "L7-B14-01"
-   ],
-   "nguon_hinh": "nhom_ve",
-   "thiet_ke": "chua"
-  },
-  {
    "id": "quan-nam-trieu",
    "ten": "Quân Nam triều",
    "loai": "nhom",
@@ -6049,6 +6081,20 @@
    "nguon_hinh": "nhom_ve",
    "thiet_ke": "nhap",
    "ban_thiet_ke": "brand/characters/lich-su/nhap/tuong-xiem-v1.jpg"
+  },
+  {
+   "id": "quan-ngo-quyen",
+   "ten": "Quân của Ngô Quyền",
+   "loai": "nhom",
+   "thoi_ky": "trung_dai",
+   "quoc_gia": "Việt Nam",
+   "vai_tro": "Quân dân đánh trận Bạch Đằng năm 938",
+   "the_ki": "X",
+   "tap": [
+    "L6-B18-04"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
   },
   {
    "id": "quan-dan-mien-bac",
@@ -6258,20 +6304,6 @@
     "L9-B9-03"
    ],
    "nguon_hinh": "nhom_tu_lieu_hoac_ve",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "quan-doi-nha-tran",
-   "ten": "Quân đội nhà Trần",
-   "loai": "nhom",
-   "thoi_ky": "trung_dai",
-   "quoc_gia": "Đại Việt",
-   "vai_tro": "Quân dân nhà Trần trong ba lần kháng chiến chống Mông – Nguyên",
-   "the_ki": "XIII",
-   "tap": [
-    "L7-B14-04"
-   ],
-   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {

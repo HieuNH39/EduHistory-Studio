@@ -3799,6 +3799,8 @@
    "huong": "ngang",
    "mo_phong": "Hoạt họa diễn biến trận đánh: thuyền quân ta giả thua, dụ quân địch vào bãi cọc, thuyền địch mắc cọc và bị lật.",
    "trang_sgk": [
+    83,
+    84,
     85
    ],
    "uu_tien": "P1",
@@ -3821,6 +3823,11 @@
      "id": "hoang-thao",
      "ten": "Hoằng Tháo",
      "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "quan-ngo-quyen",
+     "ten": "Quân của Ngô Quyền",
+     "nguon_hinh": "nhom_ve"
     }
    ],
    "dang_phim": "Phim hoạt hình có kịch bản, Minh – Hân dẫn chuyện, tái hiện có nhân vật lịch sử, sa bàn/bản đồ động",
@@ -6060,6 +6067,11 @@
    "dot": 1,
    "nhan_vat": [
     {
+     "id": "quan-tong",
+     "ten": "Quân Tống",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "ly-thuong-kiet",
      "ten": "Lý Thường Kiệt",
      "nguon_hinh": "ve_theo_tham_chieu"
@@ -6073,6 +6085,16 @@
      "id": "tu-truong-dan-toc-it-nguoi",
      "ten": "Tù trưởng dân tộc ít người",
      "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "quach-quy",
+     "ten": "Quách Quỳ",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "hoa-mau",
+     "ten": "Hoà Mâu",
+     "nguon_hinh": "ve_theo_tham_chieu"
     }
    ],
    "dang_phim": "Phim hoạt hình có kịch bản, Minh – Hân dẫn chuyện, tái hiện có nhân vật lịch sử, sa bàn/bản đồ động",
@@ -6453,6 +6475,11 @@
      "nguon_hinh": "ve_theo_tham_chieu"
     },
     {
+     "id": "quan-mong-co",
+     "ten": "Quân Mông Cổ",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "ngot-luong-hop-thai",
      "ten": "Ngột Lương Hợp Thai",
      "nguon_hinh": "ve_theo_tham_chieu"
@@ -6460,6 +6487,11 @@
     {
      "id": "dan-binh-dia-phuong",
      "ten": "Dân binh địa phương",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "quan-doi-nha-tran",
+     "ten": "Quân đội nhà Trần",
      "nguon_hinh": "nhom_ve"
     }
    ],

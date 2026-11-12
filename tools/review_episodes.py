@@ -32,6 +32,9 @@ by["L9-B12-05"]["kien_thuc_chot"]=["1947: Ấn Độ được hưởng quy chế
     "26-1-1950: thành lập nước Cộng hoà Ấn Độ","Thành công của 'Cách mạng xanh'","Chế tạo bom nguyên tử (1974), phóng vệ tinh (1975)"]
 by["L6-B14-03"]["kien_thuc_chot"]=["Thành xây theo hình xoáy trôn ốc, ba vòng khép kín","Tổng chiều dài khoảng 16 000 m","Lẫy nỏ, mũi tên đồng tìm thấy ở Cổ Loa"]
 by["L7-B14-04"]["kien_thuc_chot"]=["Trần Khánh Dư phục kích đoàn thuyền lương ở Vân Đồn – Cửa Lục","Trận Bạch Đằng (4-1288): bãi cọc ngầm, nước triều rút, kế hoả công","Ô Mã Nhi bị bắt sống"]
+# 3b) Sửa trang SGK khi viết kịch bản chi tiết phát hiện lệch (đối chiếu OCR)
+TRANG={"L6-B18-04":[83,84,85]}
+for k,v in TRANG.items(): by[k]["trang_sgk"]=v
 # 4) Chuẩn hoá khung – hướng: 60s dọc (mạng xã hội); 2–5 phút ngang (bản đồ, diễn biến). Mỗi tập ngang có thêm 1 bản cắt dọc 60s.
 for e in E:
     e["huong"]="doc" if e["khung"]=="60s" else "ngang"

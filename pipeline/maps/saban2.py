@@ -153,6 +153,34 @@ class SaBan2:
         if typ == "mui_ten_ta": self.arrow(cr, o["diem"], k, C["ta"], o.get("w0", 8), o.get("w1", 14), .95)
         elif typ == "mui_ten_dich": self.arrow(cr, o["diem"], k, C["dich"], o.get("w0", 3), o.get("w1", 6), .9)
         elif typ == "rut_chay": self.arrow(cr, o["diem"], k, C["dich"], o.get("w0", 4), 4, .85, dashed=True)
+        elif typ == "rut_lui": self.arrow(cr, o["diem"], k, C["ta"], o.get("w0", 6), 6, .85, dashed=True)
+        elif typ in ("tuong", "tran_tuyen"):   # phòng tuyến có răng cưa (ta) / trận tuyến hình răng vuông (địch), vẽ dần theo k
+            pts = cut(self.PP(catmull(o["diem"], 12)), k)
+            if len(pts) < 2: return
+            d = np.r_[0, np.cumsum(np.linalg.norm(np.diff(pts, axis=0), axis=1))]
+            if typ == "tuong":
+                self.line(cr, pts); cr.set_source_rgba(.42, .40, .38, .95); cr.set_line_width(9 * self.k); cr.stroke()
+                step = 11 * self.k; side = o.get("phia", 1)
+                for L in np.arange(0, d[-1] - step, step * 2):
+                    i = np.searchsorted(d, L); j = min(np.searchsorted(d, L + step), len(pts) - 1)
+                    if j <= i: continue
+                    a, b = pts[i], pts[j]; v = b - a; n = np.array([-v[1], v[0]]) / (np.linalg.norm(v) + 1e-6) * 9 * self.k * side
+                    cr.move_to(*a); cr.line_to(*(a + n)); cr.line_to(*(b + n)); cr.line_to(*b); cr.close_path(); cr.fill()
+            else:
+                step = 13 * self.k; side = 1; cr.set_source_rgba(.12, .12, .14, .9); cr.set_line_width(3.2 * self.k)
+                prev = None
+                for L in np.arange(0, d[-1], step):
+                    i = min(np.searchsorted(d, L), len(pts) - 1); j = min(np.searchsorted(d, L + step), len(pts) - 1)
+                    a, b = pts[i], pts[j]; v = b - a; n = np.array([-v[1], v[0]]) / (np.linalg.norm(v) + 1e-6) * 8 * self.k
+                    o1 = a + n * side; o2 = b + n * side
+                    if prev is None: cr.move_to(*a)
+                    cr.line_to(*o1); cr.line_to(*o2); side = -side; prev = o2
+                cr.stroke()
+        elif typ == "phong_tuyen":   # phòng tuyến: vòng cung đậm có mũi nhọn hướng về phía địch
+            x, y = self.P(o["vi_tri"]); s2 = self.k * (0.6 + 0.4 * k)
+            cr.save(); cr.translate(x, y); cr.rotate(math.radians(o.get("goc", 0))); cr.scale(s2, s2); cr.set_source_rgba(*C["ta"], k)
+            cr.set_line_width(8); cr.arc(0, 26, 30, math.radians(-150), math.radians(-30)); cr.stroke()
+            cr.move_to(0, -16); cr.line_to(-9, -2); cr.line_to(9, -2); cr.close_path(); cr.fill(); cr.rectangle(-3, -4, 6, 12); cr.fill(); cr.restore()
         elif typ == "sao": x, y = self.P(o["vi_tri"]); self.star(cr, x, y, k)
         elif typ == "don_dich": x, y = self.P(o["vi_tri"]); self.fort(cr, x, y, 1 if k > 0 else 0, C["dich"], gone=o.get("_gone", 0))
         elif typ == "don_ta": x, y = self.P(o["vi_tri"]); self.fort(cr, x, y, k, C["ta"])
@@ -215,6 +243,7 @@ class SaBan2:
     def legend(self, cr, items, alpha=1.0):
         if not items: return
         s = self.k; x = 28; y = 160 * s; rowh = 30 * s; w = 360 * s; h = rowh * len(items) + 16 * s
+        if self.S.get("chu_giai_xy"): x, y = self.S["chu_giai_xy"][0] * self.W, self.S["chu_giai_xy"][1] * self.H
         cr.set_source_rgba(*C["giay"], .9 * alpha); cr.rectangle(x, y, w, h); cr.fill()
         cr.set_source_rgba(*C["chu"], .45 * alpha); cr.set_line_width(1.2); cr.rectangle(x, y, w, h); cr.stroke()
         for i, (typ, lab) in enumerate(items):
@@ -222,6 +251,17 @@ class SaBan2:
             if typ == "mui_ten_ta": self.arrow(cr, [[cx - 22 * s, cy], [cx + 22 * s, cy]], 1, C["ta"], 6, 9, alpha, screen=True)
             elif typ == "mui_ten_dich": self.arrow(cr, [[cx - 22 * s, cy], [cx + 22 * s, cy]], 1, C["dich"], 3, 5, alpha, screen=True)
             elif typ == "rut_chay": self.arrow(cr, [[cx - 24 * s, cy], [cx + 24 * s, cy]], 1, C["dich"], 3, 3, alpha, dashed=True, screen=True)
+            elif typ == "rut_lui": self.arrow(cr, [[cx - 24 * s, cy], [cx + 24 * s, cy]], 1, C["ta"], 4, 4, alpha, dashed=True, screen=True)
+            elif typ == "tuong":
+                cr.set_source_rgb(.42, .40, .38); cr.rectangle(cx - 24 * s, cy - 2, 48 * s, 7); cr.fill()
+                for dx in (-20, -8, 4, 16): cr.rectangle(cx + dx * s, cy - 8, 6 * s, 7); cr.fill()
+            elif typ == "tran_tuyen":
+                cr.set_source_rgb(.12, .12, .14); cr.set_line_width(2.5); cr.move_to(cx - 24 * s, cy)
+                for q in range(4): xx = cx - 24 * s + q * 12 * s; cr.line_to(xx, cy - 6 * s if q % 2 == 0 else cy + 6 * s); cr.line_to(xx + 12 * s, cy - 6 * s if q % 2 == 0 else cy + 6 * s)
+                cr.stroke()
+            elif typ == "phong_tuyen":
+                cr.save(); cr.translate(cx, cy + 4 * s); cr.scale(.7 * s, .7 * s); cr.set_source_rgba(*C["ta"], alpha); cr.set_line_width(8)
+                cr.arc(0, 26, 30, math.radians(-150), math.radians(-30)); cr.stroke(); cr.move_to(0, -16); cr.line_to(-9, -2); cr.line_to(9, -2); cr.close_path(); cr.fill(); cr.restore()
             elif typ == "sao": self.star(cr, cx, cy, .8)
             elif typ == "don_dich": self.fort(cr, cx, cy + 5 * s, .9, C["dich"])
             elif typ == "chan_danh": self.block(cr, cx, cy, .8)
@@ -259,7 +299,8 @@ class SaBan2:
         for m in ph.get("moc", []):  # mốc thời gian lớn góc phải
             k = seg(u, m["tu"], m["tu"] + .06) * (1 - seg(u, m.get("den", 1.1) - .05, m.get("den", 1.1)))
             if k > 0:
-                s = self.k; tw = 560 * s; x = W - tw - 30; y = H * .14
+                s = self.k; cr.select_font_face(FONT, cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_BOLD); cr.set_font_size(22 * s)
+                tw = max(cr.text_extents(m["chu"]).width + 70 * s, 260 * s); x = W - tw - 30; y = H * .165
                 cr.set_source_rgba(.55, .1, .08, .85 * k); cr.rectangle(x, y, tw, 64 * s); cr.fill()
                 self.text(cr, m["chu"], x + tw / 2, y + 32 * s, 22 * s, (1, .95, .85), bold=True, halo=False, alpha=k)
         if ph.get("bang"):

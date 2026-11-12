@@ -77,9 +77,10 @@ def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
     for i in range(n):
         t = i / fps
         img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
-        d.rounded_rectangle([W * .06, H * .06, W * .94, H * .76], radius=int(30 * s), fill=(250, 244, 230))
-        d.text((W * .1, H * .1), "DỪNG HÌNH – THỬ TÀI", font=f_t, fill=(242, 107, 29))
-        y = H * .17
+        top = .15 if W > H else .12
+        d.rounded_rectangle([W * .06, H * top, W * .94, H * (top + .69)], radius=int(30 * s), fill=(250, 244, 230))
+        d.text((W * .1, H * (top + .04)), "DỪNG HÌNH – THỬ TÀI", font=f_t, fill=(242, 107, 29))
+        y = H * (top + .11)
         for line in wrap(d, q["hoi"], f_q, W * .62):
             d.text((W * .1, y), line, font=f_q, fill=(22, 33, 52)); y += 66 * s
         y += 18 * s
@@ -92,12 +93,96 @@ def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
             y += 96 * s
         if q_end <= t < reveal:   # đồng hồ đếm ngược
             left = max(1, int(math.ceil(reveal - t))) if reveal - t <= 3.2 else 3
-            cx, cy, r = W * .8, H * .42, 120 * s
+            cx, cy, r = W * .8, H * (top + .36), 120 * s
             frac = (reveal - t) / max(0.1, reveal - q_end)
             d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(16, 35, 63))
             d.arc([cx - r, cy - r, cx + r, cy + r], start=-90, end=-90 + 360 * frac, fill=(242, 107, 29), width=int(16 * s))
             txt = str(left); tw = d.textlength(txt, font=f_c)
             d.text((cx - tw / 2, cy - 80 * s), txt, font=f_c, fill=(255, 255, 255))
         if t >= reveal:
-            d.text((W * .7, H * .38), "✓ Chính xác!" if False else "Đáp án đúng!", font=f_q, fill=(46, 160, 87))
+            d.text((W * .7, H * (top + .32)), "Đáp án đúng!", font=f_q, fill=(46, 160, 87))
+        yield np.asarray(img)
+
+def _wrap(d, text, font, maxw):
+    out, cur = [], ""
+    for w in text.split():
+        if cur and d.textlength(cur + " " + w, font=font) > maxw: out.append(cur); cur = w
+        else: cur = (cur + " " + w).strip()
+    return out + ([cur] if cur else [])
+
+def truc_thoi_gian(W, H, n, items, fps, times=None, title="TRỤC THỜI GIAN"):
+    """Sơ đồ trục thời gian (hoạt động SGK 'trình bày diễn biến trên trục thời gian').
+    items = [[mốc, nội dung], ...]; times = thời điểm (giây) hiện từng mốc, khớp lời đọc."""
+    s = H / 1080; vertical = H > W
+    f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(44 * s))
+    f_d = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int((50 if not vertical else 34) * s))
+    f_l = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-500-normal.ttf"), int((36 if not vertical else 27) * s))
+    m = len(items); dur_s = n / fps
+    if not times or len(times) != m: times = [0.4 + k * (dur_s - 1.5) / max(m, 1) for k in range(m)]
+    for i in range(n):
+        t = i / fps
+        img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
+        d.text((W * .06, H * .07), title, font=f_t, fill=(242, 107, 29))
+        if not vertical:
+            x0, x1, y = W * .05, W * .95, H * .42
+            prog = _ease(t / max(times[-1] + .6, .1))
+            d.line([x0, y, x0 + (x1 - x0) * prog, y], fill=(201, 139, 43), width=int(8 * s))
+            step = (x1 - x0) / m
+            for k, (moc, nd) in enumerate(items):
+                a = _ease((t - times[k]) / .45)
+                if a <= 0: continue
+                cx = x0 + step * (k + .5); r = 18 * s * (0.6 + .4 * a)
+                d.ellipse([cx - r, y - r, cx + r, y + r], fill=(242, 107, 29), outline=(255, 236, 200), width=int(4 * s))
+                col = tuple(int(c * a + 16 * (1 - a)) for c in (255, 214, 140))
+                lines = _wrap(d, moc, f_d, step * .94); yy = y - 44 * s - len(lines) * 60 * s
+                for ln in lines:
+                    d.text((cx - d.textlength(ln, font=f_d) / 2, yy), ln, font=f_d, fill=col); yy += 60 * s
+                yy = y + 40 * s; colb = tuple(int(c * a + 30 * (1 - a)) for c in (235, 238, 245))
+                for ln in _wrap(d, nd, f_l, step * .92):
+                    d.text((cx - d.textlength(ln, font=f_l) / 2, yy), ln, font=f_l, fill=colb); yy += 48 * s
+        else:
+            x, y0, y1 = W * .16, H * .14, H * .74
+            prog = _ease(t / max(times[-1] + .6, .1))
+            d.line([x, y0, x, y0 + (y1 - y0) * prog], fill=(201, 139, 43), width=int(8 * s))
+            step = (y1 - y0) / m
+            for k, (moc, nd) in enumerate(items):
+                a = _ease((t - times[k]) / .45)
+                if a <= 0: continue
+                cy = y0 + step * (k + .3); r = 16 * s
+                d.ellipse([x - r, cy - r, x + r, cy + r], fill=(242, 107, 29), outline=(255, 236, 200), width=int(4 * s))
+                d.text((x + 40 * s, cy - 24 * s), moc, font=f_d, fill=(255, 214, 140))
+                yy = cy + 22 * s
+                for ln in _wrap(d, nd, f_l, W * .7):
+                    d.text((x + 40 * s, yy), ln, font=f_l, fill=(235, 238, 245)); yy += 36 * s
+        yield np.asarray(img)
+
+def ghi_nho(W, H, n, bullets, fps, times=None, title="GHI NHỚ"):
+    """Thẻ ghi nhớ kiến thức chốt, từng ý hiện theo lời đọc."""
+    s = H / 1080; vertical = H > W
+    f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(46 * s))
+    f_b = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int((46 if not vertical else 36) * s))
+    m = len(bullets); dur_s = n / fps
+    if not times or len(times) != m: times = [0.5 + k * (dur_s - 1.5) / max(m, 1) for k in range(m)]
+    LH = (62 if not vertical else 50) * s
+    dd = ImageDraw.Draw(Image.new("RGB", (8, 8)))
+    need = 120 * s + sum(LH * len(_wrap(dd, b, f_b, W * .86 - 170 * s)) + 30 * s for b in bullets) + 40 * s
+    top = H * (.16 if not vertical else .12); box = [W * .07, top, W * .93, min(H * (.80 if not vertical else .72), top + need)]
+    for i in range(n):
+        t = i / fps
+        img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
+        d.rounded_rectangle(box, radius=int(30 * s), fill=(250, 244, 230))
+        d.text((box[0] + 50 * s, box[1] + 36 * s), title, font=f_t, fill=(242, 107, 29))
+        y = box[1] + 120 * s
+        for k, b in enumerate(bullets):
+            a = _ease((t - times[k]) / .4)
+            lines = _wrap(d, b, f_b, (box[2] - box[0]) - 170 * s)
+            if a > 0:
+                cx, cy, r = box[0] + 70 * s, y + LH * .45, 24 * s
+                d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(46, 160, 87))
+                d.line([cx - 10 * s, cy, cx - 2 * s, cy + 9 * s, cx + 12 * s, cy - 9 * s], fill=(255, 255, 255), width=int(5 * s))
+                col = tuple(int(c * a + 250 * (1 - a)) for c in (22, 33, 52))
+                yy = y
+                for ln in lines:
+                    d.text((box[0] + 115 * s + 30 * s * (1 - a), yy), ln, font=f_b, fill=col); yy += LH
+            y += LH * len(lines) + 30 * s
         yield np.asarray(img)

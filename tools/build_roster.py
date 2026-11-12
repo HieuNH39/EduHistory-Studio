@@ -31,6 +31,10 @@ CO_ANH = {"mac", "ang-ghen", "na-po-le-ong-iii", "nu-hoang-anh-vich-to-ri-a", "s
 BO_SUNG = {
  "le-chieu-thong": {"ten": "Lê Chiêu Thống", "loai": "ca_nhan", "thoi_ky": "can_dai", "quoc_gia": "Việt Nam",
                     "vai_tro": "Vua cuối cùng nhà Lê, cầu cứu nhà Thanh (1788)", "the_ki": "XVIII"},
+ "hoa-mau": {"ten": "Hoà Mâu", "loai": "ca_nhan", "thoi_ky": "trung_dai", "quoc_gia": "Tống",
+             "vai_tro": "Chỉ huy quân thuỷ Tống năm 1077", "the_ki": "XI"},
+ "quan-ngo-quyen": {"ten": "Quân của Ngô Quyền", "loai": "nhom", "thoi_ky": "trung_dai", "quoc_gia": "Việt Nam",
+                    "vai_tro": "Quân dân đánh trận Bạch Đằng năm 938", "the_ki": "X"},
  "quan-doi-nha-tran": {"ten": "Quân đội nhà Trần", "loai": "nhom", "thoi_ky": "trung_dai", "quoc_gia": "Đại Việt",
                        "vai_tro": "Quân dân nhà Trần trong ba lần kháng chiến chống Mông – Nguyên", "the_ki": "XIII"},
 }

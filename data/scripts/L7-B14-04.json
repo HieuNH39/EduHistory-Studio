@@ -380,14 +380,62 @@
    ]
   },
   {
-   "so": 18,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KHÁNG CHIẾN 1287 – 1288",
+   "moc": [
+    [
+     "Cuối 1287",
+     "Quân Nguyên ồ ạt tiến vào nước ta"
+    ],
+    [
+     "Vân Đồn – Cửa Lục",
+     "Trần Khánh Dư phục kích đoàn thuyền lương"
+    ],
+    [
+     "Đầu 1288",
+     "Quân Nguyên chiếm Thăng Long, trúng kế “vườn không nhà trống”"
+    ],
+    [
+     "Đầu tháng 4 – 1288",
+     "Trận Bạch Đằng đại thắng, Ô Mã Nhi bị bắt sống"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng tóm tắt trên trục thời gian nhé! Cuối năm 1287, quân Nguyên ồ ạt tiến vào nước ta.",
+     "Let's sum up on a timeline! In late 1287 the Yuan poured into our land."
+    ],
+    [
+     "Nhật Minh",
+     "Trần Khánh Dư phục kích đoàn thuyền lương của giặc ở Vân Đồn – Cửa Lục.",
+     "Trần Khánh Dư ambushed the enemy supply fleet at Vân Đồn – Cửa Lục."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1288, quân Nguyên chiếm Thăng Long nhưng trúng kế “vườn không nhà trống”.",
+     "In early 1288 the Yuan took Thăng Long but fell into the 'empty gardens, empty houses' trap."
+    ],
+    [
+     "Nhật Minh",
+     "Đầu tháng 4 năm 1288, trận Bạch Đằng đại thắng, Ô Mã Nhi bị bắt sống.",
+     "In early April 1288 came the great victory at Bạch Đằng, and Omar was captured alive."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ],
+   "so": 18
+  },
+  {
+   "so": 19,
    "lop": "chuyen_canh",
    "hieu_ung": "cong_trong_dong",
    "chu": "Hôm nay",
    "thoi_luong": 1.6
   },
   {
-   "so": 19,
+   "so": 20,
    "lop": "dan_chuyen",
    "chuyen_dong": "ken_burns",
    "hinh": "Nhật Minh và Hân Hân trở lại khu di tích Bạch Đằng Giang lúc hoàng hôn, nét mặt tự hào",
@@ -396,7 +444,52 @@
      "Hân Hân",
      "Trần Quốc Tuấn đã tổng kết nguyên nhân thắng lợi: vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức.",
      "Trần Quốc Tuấn summed up the reasons for victory: king and subjects of one mind, brothers in harmony, the whole country contributing."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "lop": "ghi_nho",
+   "y": [
+    "Trần Khánh Dư phục kích đoàn thuyền lương ở Vân Đồn – Cửa Lục",
+    "Trận Bạch Đằng (4 – 1288): bãi cọc ngầm, nước triều rút, kế hoả công",
+    "Ô Mã Nhi bị bắt sống; kháng chiến 1287 – 1288 thắng lợi",
+    "Nguyên nhân: vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Trần Khánh Dư phục kích đoàn thuyền lương ở Vân Đồn – Cửa Lục.",
+     "Remember: Trần Khánh Dư ambushed the supply fleet at Vân Đồn – Cửa Lục."
     ],
+    [
+     "Hân Hân",
+     "Trận Bạch Đằng tháng 4 năm 1288 có bãi cọc ngầm, nước triều rút và kế hoả công.",
+     "The Battle of Bạch Đằng in April 1288 had hidden stakes, an ebbing tide and an attack by fire."
+    ],
+    [
+     "Nhật Minh",
+     "Ô Mã Nhi bị bắt sống, cuộc kháng chiến năm 1287 – 1288 kết thúc thắng lợi.",
+     "Omar was captured, and the 1287–1288 resistance ended in victory."
+    ],
+    [
+     "Hân Hân",
+     "Và bí quyết thắng lợi: vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức.",
+     "And the secret of victory: one mind, brotherly harmony, a whole nation pitching in."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ],
+   "so": 21
+  },
+  {
+   "lop": "dan_chuyen",
+   "chuyen_dong": "ken_burns",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem, phía sau là dòng sông Bạch Đằng lúc hoàng hôn, Nhật Minh giơ tay mời bình luận",
+   "loi": [
     [
      "Nhật Minh",
      "Thử thách cho cậu: quân Trần đã tận dụng yếu tố tự nhiên nào trong trận Bạch Đằng? Bình luận đáp án nhé!",
@@ -405,7 +498,8 @@
    ],
    "nguon_trang": [
     72
-   ]
+   ],
+   "so": 22
   }
  ],
  "cau_hoi": [

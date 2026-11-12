@@ -310,6 +310,18 @@ def scene_source(spec, sc, W, H, n):
         import effects
         b = sc.get("bounds") or [(0, 3), (6, 8)]
         return effects.cau_hoi(W, H, n, sc["cau_hoi"], FPS, q_end=b[0][1] + 0.15, reveal=b[-1][0] + 0.15)
+    if lop in ("truc_thoi_gian", "ghi_nho"):
+        import effects
+        items = sc["moc"] if lop == "truc_thoi_gian" else sc["y"]
+        b = sc.get("bounds") or []
+        if sc.get("hien_luc"): times = sc["hien_luc"]
+        elif len(b) == len(items): times = [x[0] + 0.1 for x in b]
+        elif b:
+            a0, a1 = b[0][0], b[-1][1]; m = len(items)
+            times = [a0 + 0.1 + k * (a1 - a0) / m for k in range(m)]
+        else: times = None
+        fn = effects.truc_thoi_gian if lop == "truc_thoi_gian" else effects.ghi_nho
+        return fn(W, H, n, items, FPS, times=times, **({"title": sc["tieu_de"]} if sc.get("tieu_de") else {}))
     base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
     vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
     img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)
