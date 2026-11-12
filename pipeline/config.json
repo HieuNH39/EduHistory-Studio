@@ -1,6 +1,6 @@
 {
  "tts": {
-  "engine": "gemini",
+  "engine": "vieneu",
   "model": "gemini-3.8-flash-tts",
   "fallback_model": "gemini-2.5-flash-preview-tts",
   "voices": {
@@ -12,7 +12,16 @@
    "Tướng Tây Sơn": "Fenrir"
   },
   "offline_fallback": "piper vi_VN-vais1000-medium",
-  "ghi_chu": "Giọng nhân vật lịch sử: xem brand/characters/lich-su/README.md"
+  "ghi_chu": "engine=vieneu: VieNeu-TTS v3 Turbo (Apache-2.0). Minh/Hân nhân bản từ mẫu Puck/Zephyr đã duyệt; nhân vật lịch sử dùng giọng có sẵn theo vùng miền. Gemini TTS giữ làm dự phòng.",
+  "vieneu_voices": {
+   "Nhật Minh": "ref:brand/voices/ref/nhat-minh-puck.wav",
+   "Hân Hân": "ref:brand/voices/ref/han-han-zephyr.wav",
+   "Nguyễn Huệ": "Quang Sơn",
+   "Nguyễn Ánh": "Thái Sơn",
+   "Tướng Xiêm": "Phạm Tuyên",
+   "Tướng Tây Sơn": "Xuân Vĩnh",
+   "_mac_dinh": "Thanh Bình"
+  }
  },
  "video": {
   "fps": 30,

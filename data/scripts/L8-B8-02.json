@@ -21,7 +21,8 @@
  ],
  "nhac": {
   "tam_trang": "mở đầu êm (đàn tranh, sáo), dồn dần bằng trống trận, cao trào ở cảnh bè lửa, kết lắng và tự hào",
-  "nguon": "nhạc miễn phí bản quyền"
+  "nguon": "nhạc miễn phí bản quyền",
+  "tep": "assets/music/imperial-grandeur.mp3"
  },
  "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 8, tr. 36–37.",
  "canh": [
@@ -39,8 +40,8 @@
     ],
     [
      "Nhật Minh",
-     "Ở đây á? Sông Tiền, Đồng Tháp? Đưa tớ về xem đi!",
-     "Here? The Tiền River in Đồng Tháp? Take me back to see it!"
+     "Ngay ở đây á? Sông Tiền, Đồng Tháp? Đưa tớ về xem đi!",
+     "Right here? The Tiền River in Đồng Tháp? Take me back to see it!"
     ]
    ],
    "nguon_trang": [

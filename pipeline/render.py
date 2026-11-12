@@ -64,6 +64,14 @@ def _tts_group(lines):
     raise RuntimeError("Hết hạn mức giọng đọc Gemini TTS ở mọi mô hình")
 
 def voice_for(lines, gap=0.28):
+    if CFG["tts"].get("engine") == "vieneu":
+        import tts_vieneu
+        key = hashlib.sha1(json.dumps(lines, ensure_ascii=False).encode()).hexdigest()[:16]
+        out = os.path.join(CACHE, f"vn_scene_{key}.wav")
+        return out, tts_vieneu.scene(lines, out)
+    return _voice_gemini(lines, gap)
+
+def _voice_gemini(lines, gap=0.28):
     """Lời một cảnh → (wav, [(đầu, cuối) từng câu]). Gemini TTS nói nhiều giọng tối đa 2 người/lần,
     nên cảnh có ≥3 người nói được chia nhóm liên tiếp ≤2 người, đọc riêng rồi nối."""
     groups, cur = [], []
