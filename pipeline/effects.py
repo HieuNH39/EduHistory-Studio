@@ -364,3 +364,89 @@ def truc_cong_lich(W, H, n, fps, che_do="co_ban"):
             kd = _ease((u - .82) / .1)
             if kd > 0: _txt(cr, "Chính xác: 2 234 − 1 = 2 233 năm (vì không có năm 0)", xm, y + 200 * s, 32 * s, (.95, .6, .5), bold=False, alpha=kd)
         yield _arr(surf, W, H)
+
+def kim_tu_thap(W, H, n, fps):
+    """Mô phỏng xây Kim tự tháp Kê-óp: các lớp đá xếp chồng dần (nhìn ngang), số liệu theo SGK LSĐL 6 tr. 33."""
+    s = H / 1080; base_y = H * .80; cx = W * .33; half = W * .25; layers = 26; top_y = H * .20
+    lh = (base_y - top_y) / layers
+    for i in range(n):
+        t = i / fps; u = i / max(n - 1, 1)
+        surf, cr = _ctx(W, H)
+        g = __import__("cairo").LinearGradient(0, 0, 0, H); g.add_color_stop_rgb(0, .98, .86, .62); g.add_color_stop_rgb(1, .95, .75, .45); cr.set_source(g); cr.paint()
+        cr.set_source_rgb(.88, .72, .48); cr.rectangle(0, base_y, W, H - base_y); cr.fill()
+        _txt(cr, "KIM TỰ THÁP KÊ-ÓP (minh hoạ)", W * .06, H * .08, 40 * s, (.55, .2, .08), align="l")
+        built = min(layers, int(_ease(u / .7) * layers + .0001))
+        frac = _ease(u / .7) * layers - built
+        for L in range(layers):
+            if L > built: break
+            w = half * (1 - L / layers); y = base_y - (L + 1) * lh
+            k = 1 if L < built else frac
+            if k <= 0: continue
+            nb = max(1, int(w * 2 / (40 * s)))
+            bw = w * 2 / nb
+            for b in range(int(nb * k + .999)):
+                x = cx - w + b * bw
+                shade = .80 + .08 * ((b + L) % 3) / 2
+                cr.set_source_rgb(.86 * shade, .70 * shade, .46 * shade); cr.rectangle(x + 1, y + 1, bw - 2, lh - 2); cr.fill()
+        # thước đo chiều cao
+        a = _ease((u - .72) / .08)
+        if a > 0:
+            cr.set_source_rgba(.55, .2, .08, a); cr.set_line_width(3 * s)
+            hx = cx + half + 40 * s; cr.move_to(hx, base_y); cr.line_to(hx, top_y); cr.stroke()
+            for yy in (base_y, top_y): cr.move_to(hx - 14 * s, yy); cr.line_to(hx + 14 * s, yy); cr.stroke()
+            _txt(cr, "147 m", hx + 24 * s, (base_y + top_y) / 2, 44 * s, (.55, .2, .08), align="l", alpha=a)
+        items = [(.80, "Khoảng 2,3 triệu tảng đá"), (.86, "Mỗi tảng nặng 2,5 – 4 tấn"), (.92, "Xếp chồng, không dùng vật liệu kết dính")]
+        for j, (t0, lab) in enumerate(items):
+            a = _ease((u - t0) / .05)
+            if a > 0: _txt(cr, lab, W * .645, H * (.36 + j * .09), 30 * s, (.2, .15, .1), align="l", alpha=a)
+        yield _arr(surf, W, H)
+
+def _so_ai_cap(cr, sym, x, y, sz):
+    """Vẽ kí hiệu chữ số Ai Cập cổ (giản lược): 1 nét gạch, 10 hình vòm, 100 cuộn dây, 1000 hoa sen."""
+    cr.set_line_width(sz * .12); cr.set_line_cap(1)
+    if sym == 1:
+        cr.move_to(x, y - sz * .5); cr.line_to(x, y + sz * .5); cr.stroke()
+    elif sym == 10:
+        cr.move_to(x - sz * .3, y + sz * .5); cr.line_to(x - sz * .3, y - sz * .05); cr.curve_to(x - sz * .3, y - sz * .55, x + sz * .3, y - sz * .55, x + sz * .3, y - sz * .05); cr.line_to(x + sz * .3, y + sz * .5); cr.stroke()
+    elif sym == 100:
+        r = sz * .05; a = 0; cr.move_to(x, y)
+        while r < sz * .38: a += .3; r += sz * .011; cr.line_to(x + r * math.cos(a), y + r * math.sin(a))
+        cr.line_to(x + sz * .2, y - sz * .55); cr.stroke()
+    elif sym == 1000:
+        cr.move_to(x, y + sz * .5); cr.line_to(x, y - sz * .1); cr.stroke()
+        cr.move_to(x, y - sz * .1); cr.curve_to(x - sz * .35, y - sz * .2, x - sz * .25, y - sz * .55, x, y - sz * .5); cr.curve_to(x + sz * .25, y - sz * .55, x + sz * .35, y - sz * .2, x, y - sz * .1); cr.stroke()
+        cr.move_to(x - sz * .3, y + sz * .5); cr.line_to(x + sz * .3, y + sz * .5); cr.stroke()
+
+def chu_so_ai_cap(W, H, n, fps):
+    """Bảng chữ số Ai Cập (1, 10, 100, 1 000) và phép tính 124 + 321 = 445 theo cách viết của họ (bài tập SGK LSĐL 6 tr. 33)."""
+    s = H / 1080; sz = 56 * s
+    def draw_num(cr, num, x, y, a):
+        cr.set_source_rgba(.2, .14, .08, a); xx = x
+        for val in (1000, 100, 10, 1):
+            for _ in range((num // val) % 10):
+                _so_ai_cap(cr, val, xx, y, sz); xx += sz * .8
+            if (num // val) % 10: xx += sz * .3
+        return xx
+    for i in range(n):
+        u = i / max(n - 1, 1)
+        surf, cr = _ctx(W, H)
+        cr.set_source_rgb(.96, .90, .76); cr.paint()
+        _txt(cr, "CHỮ SỐ CỦA NGƯỜI AI CẬP CỔ ĐẠI (hệ đếm thập phân)", W * .06, H * .08, 38 * s, (.55, .2, .08), align="l")
+        for j, val in enumerate((1, 10, 100, 1000)):
+            a = _ease((u - j * .07) / .06)
+            if a <= 0: continue
+            x = W * (.16 + j * .20); y = H * .26
+            cr.set_source_rgba(.2, .14, .08, a); _so_ai_cap(cr, val, x, y, sz * 1.3)
+            _txt(cr, f"{val:,}".replace(",", " "), x, y + 80 * s, 34 * s, (.55, .2, .08), alpha=a)
+        rows = [(.32, 124, "124"), (.45, 321, "+ 321"), (.62, 445, "= 445")]
+        for t0, num, lab in rows:
+            a = _ease((u - t0) / .08)
+            if a <= 0: continue
+            y = H * (.48 + (t0 > .4) * .12 + (t0 > .6) * .14)
+            _txt(cr, lab, W * .14, y, 44 * s, (.2, .14, .08), align="r", alpha=a)
+            draw_num(cr, num, W * .20, y, a)
+        if u > .62:
+            cr.set_source_rgba(.55, .2, .08, _ease((u - .62) / .05)); cr.set_line_width(3 * s); cr.move_to(W * .08, H * .665); cr.line_to(W * .62, H * .665); cr.stroke()
+        a = _ease((u - .80) / .08)
+        if a > 0: _txt(cr, "Gộp các kí hiệu cùng loại: 10 nét gạch đổi thành 1 hình vòm,...", W * .06, H * .86, 28 * s, (.3, .25, .2), bold=False, align="l", alpha=a)
+        yield _arr(surf, W, H)

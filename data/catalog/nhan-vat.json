@@ -843,6 +843,21 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "lu-i-xvi",
+   "ten": "Lu-i XVI",
+   "loai": "ca_nhan",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Pháp",
+   "vai_tro": "Vua Pháp, người nắm quyền hành trong thời kì khủng hoảng",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B2-01",
+    "L8-B2-03"
+   ],
+   "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "le-thanh-tong",
    "ten": "Lê Thánh Tông",
    "loai": "ca_nhan",
@@ -1620,6 +1635,21 @@
     "L7-B9-03"
    ],
    "nguon_hinh": "ve_theo_tham_chieu",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "dang-cap-thu-ba",
+   "ten": "Đẳng cấp thứ ba",
+   "loai": "nhom",
+   "thoi_ky": "co_dai_trung_dai",
+   "quoc_gia": "Pháp",
+   "vai_tro": "Gồm tư sản, nông dân và bình dân thành thị, chịu mọi thuế",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B2-01",
+    "L8-B2-03"
+   ],
+   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -3639,20 +3669,6 @@
    "thiet_ke": "chua"
   },
   {
-   "id": "lu-i-xvi",
-   "ten": "Lu-i XVI",
-   "loai": "ca_nhan",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Pháp",
-   "vai_tro": "Vua Pháp, người nắm quyền hành trong thời kì khủng hoảng",
-   "the_ki": "XVIII",
-   "tap": [
-    "L8-B2-01"
-   ],
-   "nguon_hinh": "ve_theo_tham_chieu",
-   "thiet_ke": "chua"
-  },
-  {
    "id": "lai-buon-hy-lap",
    "ten": "Lái buôn Hy Lạp",
    "loai": "nhom",
@@ -5624,6 +5640,20 @@
     "L8-B10-03"
    ],
    "nguon_hinh": "anh_tu_lieu",
+   "thiet_ke": "chua"
+  },
+  {
+   "id": "phai-gia-co-banh",
+   "ten": "Phái Gia-cô-banh",
+   "loai": "nhom",
+   "thoi_ky": "can_dai",
+   "quoc_gia": "Pháp",
+   "vai_tro": "Nền chuyên chính dân chủ cách mạng (1793 – 1794)",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B2-03"
+   ],
+   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {
@@ -8414,6 +8444,20 @@
    "thiet_ke": "chua"
   },
   {
+   "id": "dai-bieu-quoc-hoi-phap",
+   "ten": "Đại biểu Quốc hội Pháp (1789)",
+   "loai": "nhom",
+   "thoi_ky": "can_dai",
+   "quoc_gia": "Pháp",
+   "vai_tro": "Thông qua Tuyên ngôn Nhân quyền và Dân quyền",
+   "the_ki": "XVIII",
+   "tap": [
+    "L8-B2-03"
+   ],
+   "nguon_hinh": "nhom_ve",
+   "thiet_ke": "chua"
+  },
+  {
    "id": "dai-bieu-quoc-hoi-khoa-i",
    "ten": "Đại biểu Quốc hội khóa I",
    "loai": "nhom",
@@ -8593,20 +8637,6 @@
     "L9-B3-04"
    ],
    "nguon_hinh": "nhom_tu_lieu_hoac_ve",
-   "thiet_ke": "chua"
-  },
-  {
-   "id": "dang-cap-thu-ba",
-   "ten": "Đẳng cấp thứ ba",
-   "loai": "nhom",
-   "thoi_ky": "co_dai_trung_dai",
-   "quoc_gia": "Pháp",
-   "vai_tro": "Gồm tư sản, nông dân và bình dân thành thị, chịu mọi thuế",
-   "the_ki": "XVIII",
-   "tap": [
-    "L8-B2-01"
-   ],
-   "nguon_hinh": "nhom_ve",
    "thiet_ke": "chua"
   },
   {

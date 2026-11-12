@@ -8099,8 +8099,28 @@
    "dot": 1,
    "nhan_vat": [
     {
+     "id": "lu-i-xvi",
+     "ten": "Lu-i XVI",
+     "nguon_hinh": "ve_theo_tham_chieu"
+    },
+    {
+     "id": "dang-cap-thu-ba",
+     "ten": "Đẳng cấp thứ ba",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
      "id": "quan-chung-nhan-dan",
      "ten": "Quần chúng nhân dân",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "dai-bieu-quoc-hoi-phap",
+     "ten": "Đại biểu Quốc hội Pháp (1789)",
+     "nguon_hinh": "nhom_ve"
+    },
+    {
+     "id": "phai-gia-co-banh",
+     "ten": "Phái Gia-cô-banh",
      "nguon_hinh": "nhom_ve"
     }
    ],
