@@ -1,0 +1,519 @@
+{
+ "ma": "L6-B10-02",
+ "ten_tap": "A-ten: Nơi nền dân chủ cổ đại toả sáng",
+ "ten_tap_en": "Athens: Where Ancient Democracy Shone",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 10. Hy Lạp và La Mã cổ đại",
+  "trang": [
+   44,
+   46,
+   47
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-dan-a-ten",
+  "pe-ri-clet"
+ ],
+ "nhac": {
+  "tam_trang": "tươi sáng, cổ điển (đàn hạc, sáo), hồi hộp nhẹ ở đoạn bỏ phiếu vỏ sò",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; Pê-ri-clét vẽ theo tượng (Hình 6 SGK). Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 10, tr. 44, 46–47.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Lớp học hiện đại trong buổi bầu ban cán sự lớp: Nhật Minh và Hân Hân (đồng phục FPT) vừa thả phiếu kín vào thùng phiếu giấy bìa đặt trên bàn giáo viên, các bạn khác xếp hàng phía sau, bảng ghi 'Bầu ban cán sự lớp'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bỏ phiếu kín xong rồi! Cậu có biết hơn hai nghìn năm trước, người A-ten ở Hy Lạp cũng bỏ phiếu kín, nhưng là ghi tên lên… vỏ sò không?",
+     "Secret ballot done! Did you know that over two thousand years ago, the people of Athens also voted in secret, by writing names on… shells?"
+    ],
+    [
+     "Nhật Minh",
+     "Vỏ sò á? Phải đến A-ten xem tận mắt mới được!",
+     "Shells? I have to see that in Athens!"
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VIII TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Toàn cảnh bờ biển Hy Lạp cổ đại nhìn từ trên cao: những dãy núi thấp chạy ra biển chia cắt các đồng bằng nhỏ; trên mỗi đồng bằng là một thành thị nhỏ có tường bao, xung quanh là vườn nho, ô liu; thuyền buồm ở các vịnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ VIII đến thế kỉ IV trước Công nguyên, ở Hy Lạp đã hình thành hàng chục nhà nước nhỏ.",
+     "From the 8th to the 4th century BCE, dozens of small states formed in Greece."
+    ],
+    [
+     "Hân Hân",
+     "Chúng được gọi là nhà nước thành bang, hay thị quốc.",
+     "They were called city-states."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một con phố lát đá của thành bang Hy Lạp cổ đại, người dân mặc áo choàng trắng qua lại; nhìn quanh thấy đền thờ cột đá, sân vận động, nhà hát lộ thiên hình bán nguyệt và xa xa là bến cảng đông thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mỗi thành bang lấy một thành thị làm trung tâm, xung quanh là vùng đất trồng trọt.",
+     "Each city-state had a city at its centre, surrounded by farmland."
+    ],
+    [
+     "Nhật Minh",
+     "Thành thị có phố xá, lâu đài, đền thờ, sân vận động, nhà hát… và quan trọng hơn cả là bến cảng!",
+     "The city had streets, mansions, temples, a stadium, a theatre… and most important of all, a harbour!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Thành bang A-ten cổ đại lúc bình minh: trên ngọn đồi đá cao là đền Pác-tê-nông với hàng cột đá trắng (vẽ theo Hình 1 SGK), dưới chân đồi là phố xá, người dân đổ về quảng trường",
+   "loi": [
+    [
+     "Hân Hân",
+     "A-ten là thành bang quan trọng nhất, tiêu biểu cho chế độ dân chủ ở Hy Lạp cổ đại.",
+     "Athens was the most important city-state, the model of democracy in ancient Greece."
+    ],
+    [
+     "Nhật Minh",
+     "Trên đồi cao kia là đền Pác-tê-nông, công trình kiến trúc tiêu biểu của Hy Lạp cổ đại.",
+     "On that hill stands the Parthenon, the signature building of ancient Greece."
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    46
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thành bang nào tiêu biểu cho chế độ dân chủ ở Hy Lạp cổ đại?",
+    "lua_chon": [
+     "Rô-ma",
+     "A-ten",
+     "Pi-rê"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Thành bang nào tiêu biểu cho chế độ dân chủ ở Hy Lạp cổ đại?",
+     "Pause! Which city-state was the model of democracy in ancient Greece?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: A-ten!",
+     "The answer is B: Athens!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Đại hội nhân dân A-ten họp ngoài trời trên sườn đồi: hàng nghìn công dân nam mặc áo choàng ngồi trên bậc đá, nhiều cánh tay giơ lên biểu quyết; bục đá phía trước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở A-ten, Đại hội nhân dân gồm toàn bộ công dân nam từ 18 tuổi trở lên.",
+     "In Athens, the People's Assembly was made up of all male citizens aged 18 and over."
+    ],
+    [
+     "Hân Hân",
+     "Đại hội có quyền thảo luận và biểu quyết tất cả những vấn đề hệ trọng của đất nước.",
+     "It had the right to debate and vote on every important matter of the state."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "pe-ri-clet",
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Pê-ri-clét (vẽ theo tượng Hình 6 SGK: râu quai nón, đội mũ chiến binh Hy Lạp, áo choàng) đứng trên bục đá, giơ tay nói trước Đại hội nhân dân; công dân lắng nghe",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Pê-ri-clét, Chấp chính quan trong thời đại hoàng kim của A-ten.",
+     "This is Pericles, chief magistrate during the golden age of Athens."
+    ],
+    [
+     "Pê-ri-clét",
+     "Hỡi công dân A-ten! Việc hệ trọng của đất nước, chúng ta cùng thảo luận và biểu quyết!",
+     "Citizens of Athens! On every important matter of the state, let us debate and vote together!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "TỔ CHỨC NHÀ NƯỚC THÀNH BANG A-TEN",
+   "y": [
+    "Đại hội nhân dân: toàn bộ công dân nam từ 18 tuổi trở lên",
+    "Bầu ra Hội đồng 500 người",
+    "Bầu ra Toà án 6 000 thẩm phán",
+    "Bầu ra Hội đồng 10 tư lệnh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xem sơ đồ nhé! Đứng đầu là Đại hội nhân dân.",
+     "Let's look at the chart! At the top is the People's Assembly."
+    ],
+    [
+     "Hân Hân",
+     "Đại hội bầu ra Hội đồng 500 người,",
+     "The Assembly elected the Council of 500,"
+    ],
+    [
+     "Nhật Minh",
+     "Toà án 6 000 thẩm phán,",
+     "a court of 6,000 judges,"
+    ],
+    [
+     "Hân Hân",
+     "và Hội đồng 10 tư lệnh.",
+     "and the Board of 10 Generals."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đại hội nhân dân A-ten gồm những ai?",
+    "lua_chon": [
+     "Tất cả cư dân trong thành",
+     "Toàn bộ công dân nam từ 18 tuổi trở lên",
+     "Chỉ các quý tộc giàu có"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đại hội nhân dân A-ten gồm những ai?",
+     "Quick test! Who made up the Athenian People's Assembly?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: toàn bộ công dân nam từ 18 tuổi trở lên!",
+     "The answer is B: all male citizens aged 18 and over!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng lẫn ở rìa quảng trường A-ten, nhìn các công dân xếp hàng, mỗi người cầm một mảnh vỏ sò hoặc mảnh gốm, dùng vật nhọn khắc chữ lên đó; không khí nghiêm trang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây chính là “chế độ bỏ phiếu bằng vỏ sò”!",
+     "And this is the famous 'shell vote'!"
+    ],
+    [
+     "Hân Hân",
+     "Nếu công dân nào bị nghi ngờ có âm mưu, hành vi đe doạ nền dân chủ, Đại hội nhân dân sẽ tiến hành bỏ phiếu kín.",
+     "If any citizen was suspected of plotting against democracy, the Assembly held a secret vote."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Cận cảnh: những bàn tay khắc tên lên mảnh vỏ sò, mảnh gốm rồi thả vào chiếc vò gốm lớn; bên cạnh, vài người ngồi đếm phiếu, xếp thành từng đống",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mỗi người ghi tên người bị nghi ngờ lên mảnh vỏ sò hoặc mảnh gốm.",
+     "Each voter wrote the suspect's name on a piece of shell or pottery."
+    ],
+    [
+     "Hân Hân",
+     "Nếu có 6 000 phiếu cùng ghi tên một người, người đó buộc phải rời khỏi A-ten trong thời hạn 10 năm.",
+     "If 6,000 votes bore the same name, that person had to leave Athens for 10 years."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-dan-a-ten"
+   ],
+   "hinh": "Một người đàn ông mặc áo choàng, vai đeo túi hành lí, lặng lẽ bước ra khỏi cổng thành A-ten; các công dân đứng nhìn theo; con đường đất dẫn về phía đồi xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bằng cách này, người A-ten bảo vệ nền dân chủ và ngăn chặn những âm mưu đảo chính.",
+     "This way, Athenians protected their democracy and stopped plots to seize power."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cần bao nhiêu phiếu cùng ghi tên một người thì người đó phải rời khỏi A-ten?",
+    "lua_chon": [
+     "500 phiếu",
+     "6 000 phiếu",
+     "10 phiếu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cần bao nhiêu phiếu cùng ghi tên một người thì người đó phải rời khỏi A-ten?",
+     "Pause! How many votes with the same name forced someone to leave Athens?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 6 000 phiếu, và người đó phải đi xa trong 10 năm!",
+     "The answer is B: 6,000 votes, and they had to stay away for 10 years!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Đoàn quân La Mã đội mũ giáp, cầm khiên chữ nhật đỏ hành quân qua cổng một thành phố Hy Lạp; người dân đứng hai bên đường; trời chiều u ám",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng đến thế kỉ I trước Công nguyên, Hy Lạp bị đế quốc La Mã thôn tính.",
+     "But by the 1st century BCE, Greece had been conquered by the Roman Empire."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trở lại lớp học: cô giáo đang mở thùng phiếu, Nhật Minh và Hân Hân đứng cạnh bảng ghi số phiếu, nét mặt hào hứng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người A-ten đã xây dựng cả một bộ máy để công dân cùng thảo luận, biểu quyết việc nước.",
+     "The Athenians built a whole system for citizens to debate and vote on state affairs."
+    ],
+    [
+     "Nhật Minh",
+     "Lại còn bỏ phiếu kín bằng vỏ sò để bảo vệ nền dân chủ. Thảo nào A-ten được coi là tiêu biểu cho chế độ dân chủ cổ đại!",
+     "Plus secret shell votes to protect democracy. No wonder Athens is the model of ancient democracy!"
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Thành bang: một thành thị làm trung tâm, xung quanh là vùng đất trồng trọt",
+    "A-ten: thành bang quan trọng nhất, tiêu biểu cho chế độ dân chủ",
+    "Đại hội nhân dân: công dân nam từ 18 tuổi, biểu quyết việc hệ trọng",
+    "Bỏ phiếu bằng vỏ sò: bảo vệ dân chủ, ngăn âm mưu đảo chính"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: mỗi thành bang lấy một thành thị làm trung tâm, xung quanh là vùng đất trồng trọt.",
+     "Remember: each city-state had a city at its centre, ringed by farmland."
+    ],
+    [
+     "Hân Hân",
+     "A-ten là thành bang quan trọng nhất, tiêu biểu cho chế độ dân chủ.",
+     "Athens was the most important, the model of democracy."
+    ],
+    [
+     "Nhật Minh",
+     "Đại hội nhân dân gồm công dân nam từ 18 tuổi trở lên, biểu quyết mọi việc hệ trọng.",
+     "The Assembly of male citizens aged 18 and up voted on every key matter."
+    ],
+    [
+     "Hân Hân",
+     "Chế độ bỏ phiếu bằng vỏ sò giúp bảo vệ nền dân chủ, ngăn chặn âm mưu đảo chính.",
+     "Shell voting protected democracy and stopped coups."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng cạnh thùng phiếu trong lớp, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, tổ chức nhà nước thành bang A-ten có những ưu điểm gì? Bình luận cho tụi mình biết nhé!",
+     "Your challenge: what were the strengths of the Athenian city-state? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà nước thành bang ở Hy Lạp hình thành trong khoảng thời gian nào?",
+   "dap_an": [
+    "Thế kỉ VIII – IV TCN",
+    "Thế kỉ XXI – XVI TCN",
+    "Thế kỉ I – V",
+    "Thế kỉ XVI – XI TCN"
+   ],
+   "dung": 0,
+   "trang": 46
+  },
+  {
+   "hoi": "Đại hội nhân dân A-ten bầu ra những cơ quan nào?",
+   "dap_an": [
+    "Viện Nguyên lão và Hoàng đế",
+    "Hội đồng 500 người, Toà án 6 000 thẩm phán, Hội đồng 10 tư lệnh",
+    "Hội đồng 10 tư lệnh và Hoàng đế",
+    "Toà án 500 thẩm phán và Viện Nguyên lão"
+   ],
+   "dung": 1,
+   "trang": 47
+  },
+  {
+   "hoi": "Trong “chế độ bỏ phiếu bằng vỏ sò”, người bị ghi tên đủ 6 000 phiếu buộc phải",
+   "dap_an": [
+    "Nộp phạt",
+    "Rời khỏi A-ten trong thời hạn 10 năm",
+    "Làm nô lệ",
+    "Ra trận"
+   ],
+   "dung": 1,
+   "trang": 47
+  },
+  {
+   "hoi": "Pê-ri-clét là",
+   "dap_an": [
+    "Hoàng đế La Mã",
+    "Chấp chính quan trong thời đại hoàng kim của A-ten",
+    "Nhà thơ viết I-li-át",
+    "Người lập ra thành Rô-ma"
+   ],
+   "dung": 1,
+   "trang": 47
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 44 (chú thích Hình 1), tr. 46 (mục 2) và ảnh trang tr. 47 (Hình 5 – sơ đồ tổ chức nhà nước A-ten, ô Em có biết về bỏ phiếu bằng vỏ sò, Hình 6 – Pê-ri-clét). Hiệu đính kiến thức chốt của danh mục: SGK không dùng cụm 'cơ quan quyền lực cao nhất' cho Đại hội nhân dân mà nêu 'có quyền thảo luận và biểu quyết tất cả những vấn đề hệ trọng của đất nước' và bầu ra ba cơ quan – kịch bản dùng đúng ý SGK. Cụm 'hơn hai nghìn năm trước' ở cảnh 1 là suy ra từ mốc thế kỉ VIII – IV TCN (tr. 46). Lời Pê-ri-clét (cảnh 8) là lời tái hiện, chỉ diễn đạt lại quyền của Đại hội nhân dân theo SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

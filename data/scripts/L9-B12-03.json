@@ -1,0 +1,567 @@
+{
+ "ma": "L9-B12-03",
+ "ten_tap": "Nhật Bản: Sự trỗi dậy thần kì",
+ "ten_tap_en": "Japan: The Miraculous Rise",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   54,
+   55
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hi-ro-hi-to",
+  "quan-doi-my"
+ ],
+ "nhac": {
+  "tam_trang": "trầm ở đầu, tăng tốc và sáng dần ở phần kinh tế “thần kì”; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 54–55.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng STEM của trường; trên bàn có mô hình đoàn tàu cao tốc mũi thuôn màu trắng – xanh, vài linh kiện điện tử; màn hình phía sau hiện bản đồ châu Á",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc tàu mô hình này gợi nhớ chuyến tàu siêu tốc đầu tiên ở Nhật Bản, năm 1964.",
+     "This model train recalls Japan's first high-speed train, in 1964."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1945, Nhật Bản phải đầu hàng không điều kiện. Vậy mà sau đó, nền kinh tế nước này trỗi dậy “thần kì”. Bí quyết là gì? Cùng tìm hiểu nhé!",
+     "In 1945, Japan had to surrender unconditionally. Yet afterwards its economy rose 'miraculously'. What was the secret? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    55,
+    15
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "BỊ CHIẾM ĐÓNG VÀ CẢI CÁCH (1945 – 1952)",
+   "y": [
+    "Quân đội Mỹ chiếm đóng, dưới danh nghĩa lực lượng Đồng minh",
+    "SCAP do Mỹ đứng đầu tiến hành cải cách",
+    "Loại bỏ chủ nghĩa quân phiệt, lập nền dân chủ tư sản đại nghị",
+    "Lệ thuộc hoàn toàn vào Mỹ về chính trị, an ninh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1945 đến năm 1952, Nhật Bản bị quân đội Mỹ chiếm đóng, dưới danh nghĩa lực lượng Đồng minh.",
+     "From 1945 to 1952, Japan was occupied by US forces in the name of the Allies."
+    ],
+    [
+     "Hân Hân",
+     "Bộ chỉ huy tối cao lực lượng Đồng minh, gọi tắt là SCAP, do Mỹ đứng đầu, đã tiến hành cải cách: loại bỏ chủ nghĩa quân phiệt, thiết lập nền dân chủ tư sản đại nghị.",
+     "The Supreme Command of the Allied Powers, SCAP, headed by the US, carried out reforms: it removed militarism and set up a bourgeois parliamentary democracy."
+    ],
+    [
+     "Nhật Minh",
+     "Trong giai đoạn này, Nhật Bản hoàn toàn lệ thuộc vào Mỹ về chính trị và an ninh.",
+     "In this period, Japan depended entirely on the US for politics and security."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Thiên hoàng Hi-rô-hi-tô công bố Hiến pháp mới ở Nhật Bản, tháng 11 – 1946 (như Hình 12.1 SGK, tr. 52)",
+    "tim": "Emperor Hirohito promulgation constitution November 1946 photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: công bố Hiến pháp mới ở Nhật Bản (11 – 1946)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 11 năm 1946, Thiên hoàng Hi-rô-hi-tô công bố Hiến pháp mới.",
+     "In November 1946, Emperor Hirohito proclaimed the new Constitution."
+    ],
+    [
+     "Nhật Minh",
+     "Theo Hiến pháp mới, Quốc hội là cơ quan quyền lực tối cao, Thiên hoàng chỉ là người đứng đầu Nhà nước mang tính tượng trưng. Nhật Bản không duy trì hải, lục, không quân, không tham gia chiến tranh với bất cứ nước nào.",
+     "Under it, the Diet was the highest authority and the Emperor only a symbolic head of state. Japan would keep no army, navy or air force and wage war on no country."
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    54
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Hiến pháp mới của Nhật Bản, cơ quan quyền lực tối cao là",
+    "lua_chon": [
+     "Thiên hoàng",
+     "Quốc hội",
+     "Nội các"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Theo Hiến pháp mới của Nhật Bản, cơ quan quyền lực tối cao là gì?",
+     "Pause! Under Japan's new Constitution, what was the highest authority?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Quốc hội! Thiên hoàng chỉ mang tính tượng trưng.",
+     "The answer is B: the Diet! The Emperor was only symbolic."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "HIỆP ƯỚC AN NINH MỸ – NHẬT (8 – 9 – 1951)",
+   "y": [
+    "Nhật Bản chấp nhận đặt dưới “ô bảo hộ hạt nhân” của Mỹ",
+    "Mỹ được đóng quân, xây dựng căn cứ quân sự trên lãnh thổ Nhật Bản"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Em có biết? Ngày 8 tháng 9 năm 1951, Nhật Bản kí với Mỹ Hiệp ước an ninh Mỹ – Nhật, chấp nhận đặt dưới “ô bảo hộ hạt nhân” của Mỹ.",
+     "Did you know? On 8 September 1951, Japan signed the US–Japan Security Treaty, accepting the US 'nuclear umbrella'."
+    ],
+    [
+     "Nhật Minh",
+     "Theo đó, Mỹ được đóng quân và xây dựng căn cứ quân sự trên lãnh thổ Nhật Bản.",
+     "Under it, the US could station troops and build military bases on Japanese soil."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH TRỊ (1955 – 1991)",
+   "y": [
+    "Đảng Dân chủ Tự do (LDP) liên tục cầm quyền",
+    "Vẫn liên minh chặt chẽ với Mỹ",
+    "Dần đa dạng hoá quan hệ đối ngoại"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1955 đến năm 1991, Đảng Dân chủ Tự do, LDP, liên tục cầm quyền ở Nhật Bản.",
+     "From 1955 to 1991, the Liberal Democratic Party, the LDP, was continuously in power in Japan."
+    ],
+    [
+     "Hân Hân",
+     "Nhật Bản vẫn liên minh chặt chẽ với Mỹ, nhưng dần đa dạng hoá quan hệ đối ngoại để nâng cao vị thế quốc tế.",
+     "Japan stayed a close US ally, but gradually diversified its foreign relations to raise its international standing."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1953",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "KINH TẾ VƯƠN LÊN",
+   "y": [
+    "1945 – 1952: cải cách, kinh tế được khôi phục",
+    "Những năm 60: tăng trưởng “thần kì”",
+    "Vượt Tây Âu, đứng thứ hai thế giới, sau Mỹ",
+    "Đầu những năm 70: một trong ba trung tâm kinh tế – tài chính"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, sau thời gian cải cách từ năm 1945 đến năm 1952, nền kinh tế Nhật Bản được khôi phục và phát triển nhanh.",
+     "Economically, after the 1945–1952 reforms, Japan's economy recovered and grew fast."
+    ],
+    [
+     "Nhật Minh",
+     "Những năm 60, tận dụng cuộc chiến tranh xâm lược Việt Nam của Mỹ, kinh tế Nhật Bản có cơ hội tăng trưởng “thần kì”, vượt qua các nước Tây Âu, đứng thứ hai thế giới, sau Mỹ.",
+     "In the 1960s, taking advantage of the US war of aggression in Vietnam, Japan's economy grew 'miraculously', overtaking Western Europe to rank second in the world after the US."
+    ],
+    [
+     "Hân Hân",
+     "Đến đầu những năm 70, Nhật Bản trở thành một trong ba trung tâm kinh tế – tài chính của thế giới.",
+     "By the early 1970s, Japan had become one of the world's three economic and financial centres."
+    ]
+   ],
+   "nguon_trang": [
+    54,
+    55
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "GIAI ĐOẠN “THẦN KÌ”",
+   "y": [
+    "1953 – 1973: GNP tăng trung bình 9,4%",
+    "Thập kỉ 60: GNP tăng trung bình 11%",
+    "1988: GDP bình quân đầu người khoảng 25 000 USD – vượt Mỹ, thứ hai thế giới (sau Thuỵ Sĩ)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1953 – 1973, tổng sản phẩm quốc dân, GNP, tăng trung bình 9,4%; riêng thập kỉ 60 tăng trung bình 11%. Đó là giai đoạn phát triển “thần kì”.",
+     "In 1953–1973, gross national product, GNP, grew by 9.4% on average; in the 1960s alone, by 11%. That was the 'miracle' period."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1988, GDP bình quân đầu người của Nhật Bản đạt khoảng 25 000 USD, vượt Mỹ, đứng thứ hai thế giới, sau Thuỵ Sĩ.",
+     "In 1988, Japan's GDP per head reached about 25,000 dollars, ahead of the US and second in the world after Switzerland."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giai đoạn phát triển “thần kì” của kinh tế Nhật Bản là",
+    "lua_chon": [
+     "1945 – 1952",
+     "1953 – 1973",
+     "1973 – 1991"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Giai đoạn phát triển “thần kì” của kinh tế Nhật Bản là giai đoạn nào?",
+     "Quick test! Which was the 'miracle' period of Japan's economy?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: từ năm 1953 đến năm 1973!",
+     "The answer is B: from 1953 to 1973!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: chuyến tàu siêu tốc đầu tiên ở Nhật Bản, năm 1964 (như Hình 12.5 SGK, tr. 55)",
+    "tim": "Shinkansen 0 series 1964 photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chuyến tàu siêu tốc đầu tiên ở Nhật Bản (1964)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là chuyến tàu siêu tốc đầu tiên ở Nhật Bản, năm 1964.",
+     "This is Japan's first high-speed train, in 1964."
+    ],
+    [
+     "Nhật Minh",
+     "Nhật Bản coi khoa học – công nghệ là đòn bẩy để phát triển kinh tế – xã hội.",
+     "Japan saw science and technology as the lever for economic and social development."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "KHOA HỌC – CÔNG NGHỆ: ĐÒN BẨY",
+   "y": [
+    "Khuyến khích các phát minh trong nước",
+    "Đẩy mạnh mua bằng sáng chế của nước ngoài",
+    "Tập trung chủ yếu vào ứng dụng dân dụng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bên cạnh khuyến khích các phát minh trong nước, Nhật Bản đẩy mạnh mua bằng sáng chế của nước ngoài,",
+     "Besides encouraging home-grown inventions, Japan bought many foreign patents,"
+    ],
+    [
+     "Nhật Minh",
+     "tập trung chủ yếu vào lĩnh vực ứng dụng dân dụng.",
+     "focusing mainly on civilian applications."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhật Bản coi lĩnh vực nào là “đòn bẩy” để phát triển kinh tế – xã hội?",
+    "lua_chon": [
+     "Quân sự",
+     "Khoa học – công nghệ",
+     "Khai thác mỏ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Nhật Bản coi lĩnh vực nào là “đòn bẩy” để phát triển?",
+     "One more! What did Japan treat as its 'lever' for development?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: khoa học – công nghệ!",
+     "The answer is B: science and technology!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NHẬT BẢN 1945 – 1991",
+   "moc": [
+    [
+     "1945 – 1952",
+     "Bị chiếm đóng, cải cách"
+    ],
+    [
+     "11 – 1946",
+     "Hiến pháp mới"
+    ],
+    [
+     "8 – 9 – 1951",
+     "Hiệp ước an ninh Mỹ – Nhật"
+    ],
+    [
+     "1953 – 1973",
+     "Phát triển “thần kì”"
+    ],
+    [
+     "1964",
+     "Tàu siêu tốc đầu tiên"
+    ],
+    [
+     "1988",
+     "GDP/người ~25 000 USD"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    3
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! 1945 – 1952: bị chiếm đóng và cải cách. Tháng 11 năm 1946: Hiến pháp mới.",
+     "Recap! 1945–1952: occupation and reform. November 1946: the new Constitution."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 8 tháng 9 năm 1951: Hiệp ước an ninh Mỹ – Nhật.",
+     "8 September 1951: the US–Japan Security Treaty."
+    ],
+    [
+     "Nhật Minh",
+     "1953 – 1973: phát triển “thần kì”; năm 1964: tàu siêu tốc đầu tiên.",
+     "1953–1973: the miracle years; 1964: the first high-speed train."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1988: GDP bình quân đầu người khoảng 25 000 USD.",
+     "1988: GDP per head of about 25,000 dollars."
+    ]
+   ],
+   "nguon_trang": [
+    54,
+    55,
+    52
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "1945 – 1952: Mỹ chiếm đóng, cải cách dân chủ",
+    "1953 – 1973: phát triển “thần kì”",
+    "Đứng thứ hai thế giới sau Mỹ; một trong ba trung tâm kinh tế – tài chính",
+    "Khoa học – công nghệ là đòn bẩy"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ năm 1945 đến năm 1952, Nhật Bản bị Mỹ chiếm đóng và tiến hành cải cách dân chủ.",
+     "Remember: 1945–1952, US occupation and democratic reform."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1953 đến năm 1973 là giai đoạn phát triển “thần kì”.",
+     "1953–1973: the miracle years."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế Nhật Bản đứng thứ hai thế giới sau Mỹ, là một trong ba trung tâm kinh tế – tài chính.",
+     "Japan's economy ranked second after the US, one of three world centres."
+    ],
+    [
+     "Hân Hân",
+     "Và khoa học – công nghệ là đòn bẩy phát triển.",
+     "And science and technology were its lever."
+    ]
+   ],
+   "nguon_trang": [
+    54,
+    55
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình tàu cao tốc trong phòng STEM, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo SGK, những yếu tố nào giúp kinh tế Nhật Bản tăng trưởng “thần kì”? Nêu hai yếu tố ở phần bình luận nhé!",
+     "Your challenge: according to the textbook, what helped Japan's economy grow 'miraculously'? Name two factors in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    54,
+    55
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ năm 1945 đến năm 1952, Nhật Bản bị quân đội nước nào chiếm đóng dưới danh nghĩa lực lượng Đồng minh?",
+   "dap_an": [
+    "Liên Xô",
+    "Anh",
+    "Mỹ",
+    "Pháp"
+   ],
+   "dung": 2,
+   "trang": 54
+  },
+  {
+   "hoi": "Ngày 8 – 9 – 1951, Nhật Bản kí với Mỹ văn kiện nào?",
+   "dap_an": [
+    "Hiến pháp mới",
+    "Hiệp ước an ninh Mỹ – Nhật",
+    "Kế hoạch Mác-san",
+    "Hiệp ước Vác-sa-va"
+   ],
+   "dung": 1,
+   "trang": 54
+  },
+  {
+   "hoi": "Đến đầu những năm 70 của thế kỉ XX, Nhật Bản trở thành",
+   "dap_an": [
+    "Nước có nền kinh tế đứng đầu thế giới",
+    "Một trong ba trung tâm kinh tế – tài chính của thế giới",
+    "Thành viên của SEV",
+    "Nước lệ thuộc Liên Xô"
+   ],
+   "dung": 1,
+   "trang": 55
+  },
+  {
+   "hoi": "Năm 1988, GDP bình quân đầu người của Nhật Bản đứng thứ hai thế giới, sau nước nào?",
+   "dap_an": [
+    "Mỹ",
+    "Thuỵ Sĩ",
+    "Đức",
+    "Anh"
+   ],
+   "dung": 1,
+   "trang": 55
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 54–55 và ảnh trang 54 (hộp 'Em có biết' về Hiệp ước an ninh Mỹ – Nhật và Tư liệu 1 bị OCR lẫn cột, đã đọc lại từ ảnh); Hình 12.1 (tr. 52), Hình 12.5 (tr. 55); câu mở đầu 'năm 1945 Nhật Bản đầu hàng không điều kiện' theo tr. 15. Tư liệu 1 được diễn đạt lại. Đã chỉnh kiến thức chốt của danh mục: SGK nói kinh tế Nhật Bản 'đứng thứ hai thế giới, sau Mỹ' và 'một trong ba trung tâm kinh tế – tài chính' (không nói 'trung tâm kinh tế thứ hai'). Nhân vật chỉ qua ảnh tư liệu, không vẽ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

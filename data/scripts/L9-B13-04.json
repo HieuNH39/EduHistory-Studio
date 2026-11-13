@@ -1,0 +1,504 @@
+{
+ "ma": "L9-B13-04",
+ "ten_tap": "Nam Bộ kháng chiến: Thành đồng Tổ quốc",
+ "ten_tap_en": "The Southern Resistance: Bronze Citadel of the Fatherland",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+  "trang": [
+   61,
+   64,
+   65
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuc-dan-phap",
+  "cong-nhan-sai-gon-cho-lon",
+  "quan-anh",
+  "chi-doi-nam-tien"
+ ],
+ "nhac": {
+  "tam_trang": "khẩn trương, kiên cường; hào hùng ở đoạn cả nước ủng hộ; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 13, tr. 61–65.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên vỉa hè rợp bóng cây của một đại lộ ở trung tâm Thành phố Hồ Chí Minh ngày nay, xe cộ tấp nập, nhà cao tầng, cờ đỏ sao vàng treo trước các toà nhà; nắng sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1945, chỉ ít ngày sau ngày Độc lập, nhân dân Sài Gòn – Chợ Lớn đã phải cầm vũ khí chống thực dân Pháp quay lại xâm lược.",
+     "In September 1945, just days after Independence Day, the people of Sài Gòn – Chợ Lớn had to take up arms against the returning French colonialists."
+    ],
+    [
+     "Nhật Minh",
+     "Vì sao đồng bào Nam Bộ được tặng danh hiệu “Thành đồng Tổ quốc”? Cùng tìm hiểu nhé!",
+     "Why were the people of the South honoured as the 'Bronze Citadel of the Fatherland'? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "9 – 1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "TÌNH HÌNH SAU NGÀY ĐỘC LẬP",
+   "y": [
+    "Từ vĩ tuyến 16 trở ra Bắc: quân Trung Hoa Dân quốc kéo vào",
+    "Từ vĩ tuyến 16 trở vào Nam: quân Anh mở đường cho thực dân Pháp",
+    "Nền độc lập bị đe doạ nghiêm trọng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Cách mạng tháng Tám, nền độc lập vừa giành được bị đe doạ nghiêm trọng. Từ vĩ tuyến 16 trở ra Bắc, quân đội Trung Hoa Dân quốc kéo vào Việt Nam.",
+     "After the August Revolution, the newly won independence was gravely threatened. North of the 16th parallel, Chinese Nationalist troops marched into Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Còn từ vĩ tuyến 16 trở vào Nam, quân Anh mở đường cho thực dân Pháp quay trở lại xâm lược.",
+     "South of the 16th parallel, British troops opened the way for the French colonialists to return."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "SÀI GÒN, THÁNG 9 – 1945",
+   "y": [
+    "2 – 9: Pháp gây hấn ngay trong ngày mít tinh mừng Độc lập",
+    "Đêm 22, rạng sáng 23 – 9: Pháp đánh úp trụ sở Uỷ ban hành chính Nam Bộ",
+    "Mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai",
+    "Sáng 23 – 9: Lời kêu gọi cầm vũ khí đánh đuổi quân xâm lược"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 2 tháng 9 năm 1945, đúng ngày nhân dân Sài Gòn – Chợ Lớn mít tinh chào mừng ngày Độc lập, quân Pháp đã có hành động gây hấn.",
+     "On 2 September 1945, the very day Sài Gòn – Chợ Lớn rallied to celebrate independence, French troops made provocations."
+    ],
+    [
+     "Hân Hân",
+     "Được quân Anh giúp sức, đêm 22, rạng sáng 23 tháng 9 năm 1945, thực dân Pháp đánh úp trụ sở Uỷ ban hành chính Nam Bộ và cơ quan tự vệ thành phố Sài Gòn,",
+     "Helped by the British, on the night of 22 and early morning of 23 September 1945, the French made a surprise attack on the Southern Administrative Committee's headquarters and the Sài Gòn self-defence office,"
+    ],
+    [
+     "Nhật Minh",
+     "mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai.",
+     "starting their second war of aggression against Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Sáng 23 tháng 9, cơ quan kháng chiến ở Nam Bộ thống nhất ra Lời kêu gọi đồng bào cầm vũ khí đánh đuổi quân xâm lược.",
+     "On the morning of 23 September, the resistance leadership in the South jointly called on the people to take up arms and drive out the invaders."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thực dân Pháp đánh úp trụ sở Uỷ ban hành chính Nam Bộ vào thời gian nào?",
+    "lua_chon": [
+     "Ngày 2 – 9 – 1945",
+     "Đêm 22, rạng sáng 23 – 9 – 1945",
+     "Tháng 10 – 1945"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Thực dân Pháp đánh úp trụ sở Uỷ ban hành chính Nam Bộ vào lúc nào?",
+     "Pause! When did the French attack the Southern Administrative Committee's headquarters?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: đêm 22, rạng sáng 23 tháng 9 năm 1945!",
+     "The answer is B: the night of 22 to the morning of 23 September 1945!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân Nam Bộ trong những ngày đầu Nam Bộ kháng chiến (như Hình 13.5 SGK, tr. 65)",
+    "tim": "Nam Bộ kháng chiến 1945 ảnh tư liệu Sài Gòn",
+    "yeu_cau": "ảnh tư liệu công khai (tác phẩm công bố năm 1945 – 1946), ghi nguồn; không dùng ảnh thương vong cận cảnh"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Nam Bộ những ngày đầu kháng chiến (1945)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đêm 23 tháng 9, công nhân Sài Gòn – Chợ Lớn cắt toàn bộ điện, nước.",
+     "On the night of 23 September, the workers of Sài Gòn – Chợ Lớn cut off all electricity and water."
+    ],
+    [
+     "Hân Hân",
+     "Trên đường phố, chiến luỹ được dựng lên bằng bàn, ghế, giường, tủ để chặn bước tiến của quân Pháp. Các đội tự vệ, thanh niên xung kích nhanh chóng triển khai chiến đấu.",
+     "In the streets, barricades of tables, chairs, beds and cupboards went up to block the French. Self-defence teams and youth shock units quickly went into battle."
+    ],
+    [
+     "Nhật Minh",
+     "Hàng trăm xí nghiệp, công sở, kho tàng, bến bãi cũng bị phá huỷ, không để rơi vào tay thực dân Pháp.",
+     "Hundreds of factories, offices, warehouses and wharves were destroyed so they would not fall into French hands."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đêm 23 – 9 – 1945, công nhân Sài Gòn – Chợ Lớn đã làm gì để chống quân Pháp?",
+    "lua_chon": [
+     "Cắt toàn bộ điện, nước",
+     "Mở cửa thành đón quân Pháp",
+     "Tổ chức Tổng tuyển cử"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Đêm 23 tháng 9, công nhân Sài Gòn – Chợ Lớn đã làm gì?",
+     "Quick test! What did the workers of Sài Gòn – Chợ Lớn do on the night of 23 September?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cắt toàn bộ điện, nước!",
+     "The answer is A: they cut off all electricity and water!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "QUÂN PHÁP MỞ RỘNG ĐÁNH CHIẾM",
+   "y": [
+    "Tháng 10 – 1945: Pháp mới phá được vòng vây ở Sài Gòn, Chợ Lớn",
+    "Có quân Anh hỗ trợ và quân tiếp viện",
+    "Đánh chiếm các tỉnh Nam Bộ, Nam Trung Bộ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Phải đến tháng 10 năm 1945, thực dân Pháp, với sự hỗ trợ của quân Anh và quân tiếp viện, mới phá được vòng vây ở Sài Gòn, Chợ Lớn,",
+     "Only in October 1945 did the French, backed by the British and reinforcements, break out of the encirclement in Sài Gòn and Chợ Lớn,"
+    ],
+    [
+     "Nhật Minh",
+     "rồi mở rộng đánh chiếm các tỉnh Nam Bộ, Nam Trung Bộ.",
+     "and then went on to attack the provinces of the South and South Central regions."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "TƯ LIỆU (SGK tr. 65)",
+   "y": [
+    "“Từ Nam chí Bắc, đồng bào ta luôn luôn sẵn sàng”",
+    "“Không quân đội nào, không khí giới nào có thể đánh ngã được tinh thần hi sinh của toàn thể một dân tộc”"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Chủ tịch Hồ Chí Minh kêu gọi: “Từ Nam chí Bắc, đồng bào ta luôn luôn sẵn sàng.”",
+     "President Hồ Chí Minh declared: 'From South to North, our people are always ready.'"
+    ],
+    [
+     "Nhật Minh",
+     "Người khẳng định: “Không quân đội nào, không khí giới nào có thể đánh ngã được tinh thần hi sinh của toàn thể một dân tộc.”",
+     "He affirmed: 'No army and no weapon can defeat the self-sacrificing spirit of an entire nation.'"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân Hà Nội ủng hộ Nam Bộ kháng chiến (như Hình 13.6 SGK, tr. 65)",
+    "tim": "Hà Nội ủng hộ Nam Bộ kháng chiến 1945 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai (tác phẩm công bố năm 1945 – 1946), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Hà Nội ủng hộ Nam Bộ kháng chiến",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Bắc Bộ và Bắc Trung Bộ, phong trào quyên góp “Ủng hộ cuộc kháng chiến anh dũng của đồng bào Nam Bộ” diễn ra rộng khắp.",
+     "In the North and North Central regions, the campaign to 'support the heroic resistance of our southern compatriots' spread everywhere."
+    ],
+    [
+     "Nhật Minh",
+     "Thanh niên nô nức tòng quân, các chi đội Nam tiến gấp rút lên đường vào Nam chiến đấu.",
+     "Young people eagerly enlisted, and the 'Southward March' units hurried south to fight."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Các đơn vị gấp rút lên đường vào Nam chiến đấu năm 1945 được gọi là gì?",
+    "lua_chon": [
+     "Các chi đội Nam tiến",
+     "Các đội Bình dân học vụ",
+     "Các đội cứu đói"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Những đơn vị gấp rút lên đường vào Nam chiến đấu được gọi là gì?",
+     "One more! What were the units that hurried south to fight called?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: các chi đội Nam tiến!",
+     "The answer is A: the Southward March units!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "THÀNH ĐỒNG TỔ QUỐC",
+   "y": [
+    "Quân Pháp bị giam chân tại Nam Bộ trong nhiều tháng",
+    "2 – 1946: Chủ tịch Hồ Chí Minh tặng đồng bào Nam Bộ danh hiệu “Thành đồng Tổ quốc”"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuộc chiến đấu ở Nam Bộ đã giam chân quân Pháp tại đây trong nhiều tháng.",
+     "The fighting in the South pinned the French down there for many months."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 2 năm 1946, ghi nhận tinh thần chiến đấu kiên cường, bất khuất của quân và dân Nam Bộ, Chủ tịch Hồ Chí Minh đã tặng đồng bào Nam Bộ danh hiệu vẻ vang: “Thành đồng Tổ quốc”.",
+     "In February 1946, honouring the southern army and people's steadfast fighting spirit, President Hồ Chí Minh gave the people of the South the glorious title 'Bronze Citadel of the Fatherland'."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NAM BỘ KHÁNG CHIẾN",
+   "moc": [
+    [
+     "2 – 9 – 1945",
+     "Pháp gây hấn ở Sài Gòn"
+    ],
+    [
+     "23 – 9 – 1945",
+     "Pháp đánh úp Sài Gòn, Nam Bộ kháng chiến"
+    ],
+    [
+     "10 – 1945",
+     "Pháp phá vòng vây, đánh chiếm Nam Bộ, Nam Trung Bộ"
+    ],
+    [
+     "2 – 1946",
+     "Danh hiệu “Thành đồng Tổ quốc”"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 2 tháng 9 năm 1945, Pháp gây hấn ở Sài Gòn.",
+     "Recap! 2 September 1945: French provocations in Sài Gòn."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 23 tháng 9, Pháp đánh úp Sài Gòn, Nam Bộ đứng lên kháng chiến.",
+     "23 September: the French strike Sài Gòn and the South rises to resist."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1945, Pháp phá được vòng vây, đánh chiếm Nam Bộ, Nam Trung Bộ.",
+     "October 1945: the French break out and attack the South and South Central regions."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 2 năm 1946, đồng bào Nam Bộ được tặng danh hiệu “Thành đồng Tổ quốc”.",
+     "February 1946: the southern people receive the title 'Bronze Citadel of the Fatherland'."
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "23 – 9 – 1945: Pháp đánh úp Sài Gòn, mở đầu xâm lược Việt Nam lần thứ hai",
+    "Nhân dân cắt điện, nước, dựng chiến luỹ, phá kho tàng không để rơi vào tay giặc",
+    "Cả nước ủng hộ; các chi đội Nam tiến vào Nam chiến đấu",
+    "Quân Pháp bị giam chân nhiều tháng; Nam Bộ – “Thành đồng Tổ quốc”"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ngày 23 tháng 9 năm 1945, Pháp đánh úp Sài Gòn, mở đầu cuộc xâm lược Việt Nam lần thứ hai.",
+     "Remember: 23 September 1945, the French attack Sài Gòn, starting their second invasion."
+    ],
+    [
+     "Hân Hân",
+     "Nhân dân cắt điện, nước, dựng chiến luỹ, phá kho tàng, không để rơi vào tay giặc.",
+     "The people cut power and water, built barricades and destroyed depots rather than let them fall to the enemy."
+    ],
+    [
+     "Nhật Minh",
+     "Cả nước ủng hộ, các chi đội Nam tiến lên đường vào Nam chiến đấu.",
+     "The whole country helped, and the Southward March units headed south."
+    ],
+    [
+     "Hân Hân",
+     "Quân Pháp bị giam chân nhiều tháng. Nam Bộ xứng đáng là “Thành đồng Tổ quốc”.",
+     "The French were pinned down for months. The South truly earned its title."
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên vỉa hè đại lộ ở Thành phố Hồ Chí Minh lúc chiều, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kể hai việc nhân dân Sài Gòn – Chợ Lớn đã làm để chặn bước tiến của quân Pháp. Bình luận nhé!",
+     "Your challenge: name two things the people of Sài Gòn – Chợ Lớn did to block the French advance. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ vĩ tuyến 16 trở vào Nam, quân đội nước nào mở đường cho thực dân Pháp quay lại xâm lược Việt Nam?",
+   "dap_an": [
+    "Mỹ",
+    "Anh",
+    "Trung Hoa Dân quốc",
+    "Nhật Bản"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Sự kiện đêm 22, rạng sáng 23 – 9 – 1945 ở Sài Gòn có ý nghĩa gì?",
+   "dap_an": [
+    "Mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai của thực dân Pháp",
+    "Kết thúc chiến tranh",
+    "Pháp rút khỏi Nam Bộ",
+    "Tổng tuyển cử đầu tiên"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Danh hiệu “Thành đồng Tổ quốc” được Chủ tịch Hồ Chí Minh tặng đồng bào Nam Bộ vào thời gian nào?",
+   "dap_an": [
+    "9 – 1945",
+    "10 – 1945",
+    "2 – 1946",
+    "12 – 1946"
+   ],
+   "dung": 2,
+   "trang": 65
+  },
+  {
+   "hoi": "Kết quả của cuộc chiến đấu ở Nam Bộ những tháng cuối năm 1945 là",
+   "dap_an": [
+    "Quân Pháp bị giam chân tại đây trong nhiều tháng",
+    "Pháp chiếm được cả nước",
+    "Quân Anh rút về nước ngay",
+    "Nam Bộ giành lại toàn bộ đất đai"
+   ],
+   "dung": 0,
+   "trang": 65
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 61 (quân Anh, quân Trung Hoa Dân quốc, vĩ tuyến 16) và tr. 64–65 (mục 3, Tư liệu 3, Hình 13.5, 13.6). Tư liệu 3 chỉ trích hai câu ngắn. Kiến thức chốt của danh mục đúng SGK (Pháp đánh úp Sài Gòn đêm 22, rạng sáng 23 – 9 – 1945; cắt điện nước, dựng chiến luỹ, phá kho tàng; chi đội Nam tiến). SGK không có lược đồ cho mục này nên không dựng sa bàn; dùng ảnh tư liệu và thẻ chữ. Lãnh tụ chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

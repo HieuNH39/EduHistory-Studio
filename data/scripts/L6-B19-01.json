@@ -1,0 +1,193 @@
+{
+ "ma": "L6-B19-01",
+ "ten_tap": "Huyền thoại từ Tượng Lâm",
+ "ten_tap_en": "The Legend of Tượng Lâm",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 19. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+  "trang": [
+   87
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "khu-lien",
+  "nguoi-dan-tuong-lam",
+  "cu-dan-van-hoa-sa-huynh"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, trống Ghi-năng dồn dập, sóng biển",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 19, tr. 87.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bãi biển miền Trung ngày nay lúc bình minh, sau lưng là sóng biển và dãy núi xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Gần hai nghìn năm trước, trên dải đất miền Trung này, một vương quốc đã ra đời từ một cuộc nổi dậy!",
+     "Nearly two thousand years ago, on this central coast, a kingdom was born from an uprising!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dan-tuong-lam"
+   ],
+   "hinh": "Khung dọc 9:16: làng ven biển thời Bắc thuộc ở phía nam dãy núi; quan lại nhà Hán thu thuế, người dân Tượng Lâm cúi đầu, ánh mắt bất bình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Bắc thuộc, nhà Hán đặt ách cai trị vùng đất phía nam dãy Hoành Sơn, gọi là quận Nhật Nam.",
+     "Under northern rule, the Han governed the land south of the Hoành Sơn range as Nhật Nam prefecture."
+    ],
+    [
+     "Hân Hân",
+     "Tượng Lâm là một huyện ở phía nam quận Nhật Nam.",
+     "Tượng Lâm was a district in the south of Nhật Nam."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "khu-lien",
+    "nguoi-dan-tuong-lam"
+   ],
+   "hinh": "Khung dọc 9:16: Khu Liên, thủ lĩnh người Tượng Lâm, đứng trên tảng đá giơ cao ngọn giáo, phía sau là đông đảo dân chúng cầm giáo, cung nỏ, cờ không chữ tung bay",
+   "loi": [
+    [
+     "Khu Liên",
+     "Hỡi người Tượng Lâm! Hãy đứng lên lật đổ ách cai trị ngoại bang!",
+     "People of Tượng Lâm! Rise up and overthrow foreign rule!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 192, dưới sự lãnh đạo của Khu Liên, nhân dân Tượng Lâm nổi dậy, lập ra nước Lâm Ấp.",
+     "In 192, led by Khu Liên, the people of Tượng Lâm rose up and founded the state of Lâm Ấp."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Lâm Ấp là tên gọi ban đầu của vương quốc nào?",
+    "lua_chon": [
+     "Chăm-pa",
+     "Phù Nam",
+     "Văn Lang"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lâm Ấp là tên gọi ban đầu của vương quốc nào?",
+     "Pause! Lâm Ấp was the original name of which kingdom?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Vương quốc Chăm-pa!",
+     "The answer is A: the Kingdom of Champa!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân trên bãi biển, nhìn thẳng về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn người Sa Huỳnh thời đồ sắt sống ở miền Trung từ hơn 2 000 năm trước, về sau trở thành một bộ phận của cư dân Chăm-pa.",
+     "And the Iron Age Sa Huỳnh people, living here over 2,000 years ago, later became part of the Champa population."
+    ],
+    [
+     "Nhật Minh",
+     "Bình luận nhé: cậu đã từng đến di tích Chăm nào chưa?",
+     "Comment below: have you ever visited a Cham heritage site?"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nước Lâm Ấp ra đời vào năm nào?",
+   "dap_an": [
+    "Năm 192",
+    "Năm 40",
+    "Năm 544",
+    "Năm 938"
+   ],
+   "dung": 0,
+   "trang": 87
+  },
+  {
+   "hoi": "Ai lãnh đạo nhân dân Tượng Lâm nổi dậy lập ra nước Lâm Ấp?",
+   "dap_an": [
+    "Khu Liên",
+    "Lý Bí",
+    "Bà Triệu",
+    "Phùng Hưng"
+   ],
+   "dung": 0,
+   "trang": 87
+  },
+  {
+   "hoi": "Tượng Lâm là một huyện thuộc quận nào thời Bắc thuộc?",
+   "dap_an": [
+    "Nhật Nam",
+    "Giao Chỉ",
+    "Cửu Chân",
+    "Hợp Phố"
+   ],
+   "dung": 0,
+   "trang": 87
+  },
+  {
+   "hoi": "Người Sa Huỳnh về sau trở thành",
+   "dap_an": [
+    "Một bộ phận của cư dân Chăm-pa",
+    "Cư dân Phù Nam",
+    "Người Hán",
+    "Người Khơ-me"
+   ],
+   "dung": 0,
+   "trang": 87
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 87 (mục 1a, ô về Sa Huỳnh và Tượng Lâm). Hiệu đính kiến thức chốt của danh mục: SGK viết 'người Sa Huỳnh trở thành một bộ phận của cư dân Chăm-pa' (danh mục ghi 'cư dân Chăm-pa kế thừa nền văn hoá Sa Huỳnh'). 'Gần hai nghìn năm trước' (cảnh 1) suy ra từ mốc năm 192. Lời Khu Liên (cảnh 3) là lời tái hiện diễn đạt ý 'nổi dậy lật đổ ách cai trị ngoại bang'.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

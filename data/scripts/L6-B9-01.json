@@ -1,0 +1,346 @@
+{
+ "ma": "L6-B9-01",
+ "ten_tap": "Bí ẩn vùng đất Hoàng Hà",
+ "ten_tap_en": "Mysteries of the Yellow River Lands",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 9. Trung Quốc cổ đại",
+  "trang": [
+   40
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, rộng lớn (sáo trúc, đàn nhị); dồn dập ở cảnh lũ lụt rồi lắng lại",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ, không theo bản đồ tỉ lệ. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 9, tr. 40 (và Bài 6, tr. 25 về sự liên kết của cư dân phương Đông).",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học Địa lí, đứng bên quả địa cầu lớn; Hân Hân xoay địa cầu tới khu vực Đông Á, Nhật Minh chỉ tay lên hai đường sông uốn lượn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đố cậu: con sông dài nhất Trung Quốc là sông nào?",
+     "Quiz: what's the longest river in China?"
+    ],
+    [
+     "Nhật Minh",
+     "Hoàng Hà à? … Ơ, sai rồi sao? Vậy Hoàng Hà có gì đặc biệt? Đi xem nào!",
+     "The Yellow River? … Oh, wrong? Then what's special about the Yellow River? Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lưu vực Hoàng Hà",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Dòng Hoàng Hà rộng, nước vàng đục cuộn chảy; trên đồng bằng ven sông, cư dân cổ đại cuốc đất, gieo hạt, làng nhà đất nện mái tranh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Trung Quốc đã xây dựng nền văn minh đầu tiên ở lưu vực Hoàng Hà.",
+     "The Chinese built their first civilisation in the Yellow River basin."
+    ],
+    [
+     "Hân Hân",
+     "Hoàng Hà là sông dài thứ hai Trung Quốc và thứ sáu thế giới.",
+     "The Yellow River is China's second-longest river and the sixth-longest in the world."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Đoàn người cổ đại mang theo nông cụ, gia súc di chuyển về phía nam tới một dòng sông lớn khác rộng mênh mông, nước xanh hơn, hai bờ cây cối um tùm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau đó, nền văn minh mở rộng đến lưu vực Trường Giang, còn gọi là sông Dương Tử.",
+     "Later, it spread to the Yangtze basin, also called the Chang Jiang."
+    ],
+    [
+     "Hân Hân",
+     "Trường Giang mới là sông dài nhất Trung Quốc và thứ ba thế giới, dài 6 300 ki-lô-mét!",
+     "The Yangtze is China's longest river and the world's third-longest, at 6,300 kilometres!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sông dài nhất Trung Quốc là",
+    "lua_chon": [
+     "Hoàng Hà",
+     "Trường Giang",
+     "Sông Hằng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Sông dài nhất Trung Quốc là sông nào?",
+     "Pause! What's the longest river in China?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Trường Giang, tớ nhớ rồi!",
+     "The answer is B: the Yangtze. Got it now!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một gò đất cao, nhìn ra đồng bằng phù sa bất tận, ruộng đồng xanh tươi chạy tít tắp, kênh nước nhỏ len giữa các thửa ruộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phù sa của hai dòng sông đã tạo nên các đồng bằng Hoa Bắc, Hoa Trung và Hoa Nam rộng lớn, phì nhiêu.",
+     "The silt of the two rivers built the vast, fertile plains of North, Central and South China."
+    ],
+    [
+     "Nhật Minh",
+     "Thật thuận lợi cho phát triển nông nghiệp!",
+     "Perfect for farming!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Mùa lũ: nước sông vàng đục dâng cao tràn bờ, cuốn trôi ruộng đồng; cư dân cổ đại dắt gia súc, bồng con chạy lên gò cao; trời mưa xám (không cảnh thương vong)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy nhiên, lũ lụt do hai con sông gây ra cũng đem lại nhiều khó khăn cho đời sống của người dân.",
+     "But floods from the two rivers also brought many hardships to people's lives."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Sau mùa lũ, cả cộng đồng làng xóm cùng nhau khiêng đất, đắp đê dọc bờ sông, đào mương dẫn nước; người già chỉ việc, trẻ nhỏ mang giỏ đất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sống ven những con sông lớn, cư dân phương Đông, trong đó có Trung Quốc, phải liên kết với nhau để làm thuỷ lợi.",
+     "Living by great rivers, Eastern peoples, including the Chinese, had to join together to manage water."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Vùng thượng nguồn cao ráo: đồng cỏ xanh trải dài trên cao nguyên, người chăn nuôi cổ đại lùa đàn cừu, đàn bò; núi xa phủ mây",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn thượng nguồn các dòng sông là vùng đất cao, có nhiều đồng cỏ.",
+     "The upper reaches of the rivers were high lands with plenty of grassland."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ vậy, chăn nuôi ở đây đã phát triển từ sớm!",
+     "So livestock raising developed early here!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao chăn nuôi ở Trung Quốc cổ đại phát triển từ sớm?",
+    "lua_chon": [
+     "Thượng nguồn các sông là vùng đất cao, nhiều đồng cỏ",
+     "Ba mặt giáp biển",
+     "Khí hậu khô nóng, ít mưa"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao chăn nuôi ở Trung Quốc cổ đại phát triển từ sớm?",
+     "Quick test! Why did livestock raising develop early in ancient China?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vì thượng nguồn các dòng sông là vùng đất cao, có nhiều đồng cỏ!",
+     "The answer is A: the upper rivers were high lands full of grassland!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Văn minh đầu tiên: lưu vực Hoàng Hà, rồi mở rộng đến Trường Giang",
+    "Phù sa tạo đồng bằng Hoa Bắc, Hoa Trung, Hoa Nam phì nhiêu",
+    "Lũ lụt gây nhiều khó khăn cho đời sống",
+    "Thượng nguồn nhiều đồng cỏ: chăn nuôi phát triển sớm"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: văn minh Trung Quốc bắt đầu ở lưu vực Hoàng Hà, rồi mở rộng đến Trường Giang.",
+     "Remember: Chinese civilisation began in the Yellow River basin and spread to the Yangtze."
+    ],
+    [
+     "Hân Hân",
+     "Phù sa tạo nên các đồng bằng Hoa Bắc, Hoa Trung, Hoa Nam rộng lớn, phì nhiêu.",
+     "Silt formed the vast, fertile plains of North, Central and South China."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng lũ lụt cũng gây nhiều khó khăn cho người dân.",
+     "But floods also brought people many hardships."
+    ],
+    [
+     "Hân Hân",
+     "Thượng nguồn nhiều đồng cỏ nên chăn nuôi phát triển sớm.",
+     "Grassy uplands meant livestock raising started early."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên quả địa cầu trong phòng học, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: điều kiện tự nhiên đã tác động như thế nào đến sự hình thành nền văn minh Trung Quốc? Nêu cả thuận lợi và khó khăn ở phần bình luận nhé!",
+     "Your challenge: how did natural conditions shape the rise of Chinese civilisation? Give both advantages and difficulties in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người Trung Quốc xây dựng nền văn minh đầu tiên ở đâu?",
+   "dap_an": [
+    "Lưu vực Trường Giang",
+    "Lưu vực Hoàng Hà",
+    "Ven biển phía đông",
+    "Cao nguyên phía tây"
+   ],
+   "dung": 1,
+   "trang": 40
+  },
+  {
+   "hoi": "Phù sa của Hoàng Hà và Trường Giang đã tạo nên những đồng bằng nào?",
+   "dap_an": [
+    "Hoa Bắc, Hoa Trung, Hoa Nam",
+    "Lưỡng Hà",
+    "Đê-can",
+    "Hoa Đông và Hoa Tây"
+   ],
+   "dung": 0,
+   "trang": 40
+  },
+  {
+   "hoi": "Trường Giang dài khoảng bao nhiêu ki-lô-mét?",
+   "dap_an": [
+    "3 000 km",
+    "6 300 km",
+    "700 km",
+    "6 400 km"
+   ],
+   "dung": 1,
+   "trang": 40
+  },
+  {
+   "hoi": "Khó khăn lớn mà hai con sông gây ra cho cư dân Trung Quốc cổ đại là",
+   "dap_an": [
+    "Hạn hán kéo dài",
+    "Lũ lụt",
+    "Bão cát",
+    "Động đất"
+   ],
+   "dung": 1,
+   "trang": 40
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 40 (mục 1) và ảnh trang (ô Kết nối với địa lí: Hoàng Hà dài thứ hai Trung Quốc, thứ sáu thế giới; Trường Giang dài nhất Trung Quốc, thứ ba thế giới, 6 300 km – OCR bỏ sót phần đầu ô nên đã đọc từ ảnh; không đọc số 5 464 km để lời gọn), tr. 25 (cư dân phương Đông liên kết để làm thuỷ lợi), tr. 43 (câu Luyện tập 1). Hiệu đính kiến thức chốt của danh mục: SGK tr. 40 chỉ nói lũ lụt 'gây ra nhiều khó khăn', không viết 'thúc đẩy con người đoàn kết'; ý liên kết làm thuỷ lợi lấy từ tr. 25 (Bài 6) và được ghi nguồn riêng ở cảnh 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

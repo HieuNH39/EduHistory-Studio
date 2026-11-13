@@ -1,0 +1,363 @@
+{
+ "ma": "L6-B15-02",
+ "ten_tap": "Vơ vét và đồng hoá: Kế sách của kẻ cai trị",
+ "ten_tap_en": "Plunder and Assimilation: The Rulers' Schemes",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 15. Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+  "trang": [
+   67,
+   68,
+   69
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan-au-lac",
+  "nguoi-han-di-cu",
+  "quan-lai-phuong-bac"
+ ],
+ "nhac": {
+  "tam_trang": "nặng nề, u uất; nhịp chậm; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của viên thứ sử là lời tái hiện, diễn đạt lại đoạn tư liệu 1 SGK tr. 67 (theo Đại Việt sử ký toàn thư); không vẽ bạo lực, hình phạt. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 15, tr. 67–69.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Gian bếp gia đình Việt Nam ngày nay: Hân Hân (đồng phục FPT) cầm hũ muối trắng, Nhật Minh cầm con dao sắt; trên bàn có rổ rau, nồi canh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Muối và sắt, hai thứ quá quen thuộc trong bếp nhà mình, đúng không?",
+     "Salt and iron: two everyday things in our kitchen, right?"
+    ],
+    [
+     "Nhật Minh",
+     "Vậy mà từng có thời, sắt và muối bị chính quyền đô hộ phương Bắc nắm độc quyền đấy! Cùng xem họ đã cai trị nước ta ra sao.",
+     "Yet there was a time when the northern rulers held a monopoly on iron and salt! Let's see how they ruled our land."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Bắc thuộc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac",
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Quan lại phương Bắc cưỡi ngựa, chỉ tay cắm cọc chiếm ruộng; người nông dân Âu Lạc gầy gò, cúi đầu cày cấy trên mảnh ruộng giờ thuộc về ấp trại của quan; lính cầm giáo đứng canh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các quan cai trị phương Bắc chiếm ruộng đất của nhân dân Âu Lạc, lập thành ấp, trại và bắt dân ta cày cấy.",
+     "The northern officials seized Âu Lạc people's land, set up estates and forced our people to farm it."
+    ],
+    [
+     "Hân Hân",
+     "Người Việt mất ruộng, bị biến thành nông nô của chính quyền đô hộ.",
+     "The Việt people lost their fields and became serfs of the colonial government."
+    ]
+   ],
+   "nguon_trang": [
+    67,
+    69
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac",
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Sân trước công đường: dân làng xếp hàng dài nộp thóc, vải vóc; viên quan ghi sổ, lính khuân lên thuyền những bó vải, giỏ hương liệu, rương sản vật quý để chở về phương Bắc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ áp đặt chính sách tô thuế nặng nề, đặc biệt là dưới thời Đường.",
+     "They imposed crushing taxes, especially under the Tang."
+    ],
+    [
+     "Nhật Minh",
+     "Nhân dân ta còn bị bắt cống nạp nhiều vải vóc, hương liệu, sản vật quý để đưa về Trung Quốc.",
+     "Our people were also forced to send cloth, aromatics and treasures as tribute to China."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac"
+   ],
+   "hinh": "Trong dinh thứ sử: một viên quan phương Bắc béo tốt mặc áo gấm, đứng giữa những rương đầy ngọc trai, đồi mồi, ngà voi, sừng tê, lông chim trả, gỗ quý; nét mặt tham lam, tay xoa vào nhau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử cũ chép rằng: các thứ sử thấy đất Giao Chỉ có ngọc trai, lông chim trả, tê, voi, đồi mồi, hương lạ, gỗ tốt, nên nhiều người không liêm khiết, vơ vét của cải.",
+     "Old records say governors saw that Giao Chỉ had pearls, kingfisher feathers, rhino horn, elephants, tortoiseshell, rare incense and fine timber, and many, being corrupt, plundered it."
+    ],
+    [
+     "Viên thứ sử",
+     "Vơ vét cho đầy rồi… ta sẽ xin đổi đi nơi khác!",
+     "Once my coffers are full… I'll ask to be posted elsewhere!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chính quyền đô hộ phương Bắc nắm độc quyền về những gì?",
+    "lua_chon": [
+     "Sắt và muối",
+     "Lúa và gạo",
+     "Gốm và gỗ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chính quyền đô hộ phương Bắc nắm độc quyền về những gì?",
+     "Pause! What did the northern rulers hold a monopoly on?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: sắt và muối!",
+     "The answer is A: iron and salt!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac",
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Ruộng muối trắng ven biển và một lò rèn sắt, cả hai đều có lính phương Bắc canh giữ, cắm cờ không chữ; người dân đứng ngoài hàng rào nhìn vào",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính quyền đô hộ nắm độc quyền về sắt và muối, hai thứ thiết yếu với đời sống và sản xuất.",
+     "The rulers monopolised iron and salt, two things essential for daily life and work."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-han-di-cu",
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Một đoàn người Hán di cư mang theo đồ đạc đến dựng nhà ngay giữa một làng Việt; quan lại dán bảng cáo thị ở đình làng; người Việt đứng nhìn, nét mặt lo âu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về văn hoá – xã hội, chính quyền phương Bắc thực hiện chính sách đồng hoá dân tộc Việt.",
+     "In culture and society, the northern regime pursued a policy of assimilating the Việt people."
+    ],
+    [
+     "Nhật Minh",
+     "Họ đưa người Hán sang ở cùng dân Việt, bắt nhân dân ta theo phong tục, luật pháp của người Hán, tìm mọi cách xoá bỏ những tập quán lâu đời của người Việt.",
+     "They settled Han people among the Việt, forced Han customs and laws on us, and tried every way to erase our age-old traditions."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-han-di-cu",
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng sau bụi tre đầu làng thời Bắc thuộc, nhìn những ngôi nhà kiểu phương Bắc mọc lên xen giữa nhà sàn người Việt; trẻ em hai bên nhìn nhau ngỡ ngàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử cũ còn chép: nhà Hán dời những người phạm tội ở Trung Quốc sang ở lẫn vào các quận ở nước ta.",
+     "Old records also say the Han moved convicts from China to live among our people."
+    ],
+    [
+     "Nhật Minh",
+     "Người Việt bị ép phải sống trộn lẫn ngay trên chính quê hương mình.",
+     "The Việt were forced to live mixed in, right in their own homeland."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đưa người Hán sang ở cùng dân Việt, bắt theo phong tục, luật pháp người Hán là chính sách gì?",
+    "lua_chon": [
+     "Chính sách đồng hoá",
+     "Chính sách độc quyền sắt, muối",
+     "Chính sách cống nạp"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đưa người Hán sang ở cùng dân Việt, bắt theo phong tục, luật pháp người Hán là chính sách gì?",
+     "Quick test! Settling Han people among the Việt and imposing Han customs and laws: what policy was that?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chính sách đồng hoá!",
+     "The answer is A: assimilation!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Đất đai: chiếm ruộng, lập ấp trại → người Việt thành nông nô",
+    "Thuế khoá – cống nạp: tô thuế nặng nề; vải vóc, hương liệu, sản vật quý",
+    "Thủ công nghiệp: độc quyền sắt và muối",
+    "Văn hoá – xã hội: chính sách đồng hoá"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: chính quyền đô hộ chiếm ruộng, lập ấp trại, biến người Việt thành nông nô.",
+     "Remember: the rulers seized land and turned the Việt into serfs."
+    ],
+    [
+     "Hân Hân",
+     "Tô thuế nặng nề, bắt cống nạp vải vóc, hương liệu, sản vật quý.",
+     "Crushing taxes, and tribute of cloth, aromatics and treasures."
+    ],
+    [
+     "Nhật Minh",
+     "Nắm độc quyền về sắt và muối.",
+     "A monopoly on iron and salt."
+    ],
+    [
+     "Hân Hân",
+     "Và thực hiện chính sách đồng hoá dân tộc Việt.",
+     "And a policy to assimilate the Việt people."
+    ]
+   ],
+   "nguon_trang": [
+    67,
+    69
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trở lại gian bếp: Nhật Minh và Hân Hân nhìn về phía người xem, hũ muối và con dao đặt trên bàn; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: chính sách tô thuế, cống nạp và độc quyền sắt, muối đã gây ra hậu quả gì cho nhân dân ta? Hoàn thành bảng trong SGK rồi chia sẻ ở phần bình luận nhé!",
+     "Your challenge: what harm did the taxes, tribute and iron-and-salt monopoly do to our people? Complete the textbook table and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thuế khoá dưới thời Bắc thuộc đặc biệt nặng nề dưới triều đại nào?",
+   "dap_an": [
+    "Nhà Tần",
+    "Nhà Hán",
+    "Nhà Đường",
+    "Nhà Hạ"
+   ],
+   "dung": 2,
+   "trang": 67
+  },
+  {
+   "hoi": "Hậu quả của việc chính quyền đô hộ chiếm ruộng đất, lập ấp trại là",
+   "dap_an": [
+    "Người Việt mất ruộng, bị biến thành nông nô",
+    "Người Việt có thêm nhiều ruộng",
+    "Nông nghiệp bị bỏ hoang hoàn toàn",
+    "Người Hán phải đi cày thay người Việt"
+   ],
+   "dung": 0,
+   "trang": 69
+  },
+  {
+   "hoi": "Sản vật nào được tư liệu trong SGK nhắc đến khi nói về sự vơ vét của các thứ sử ở Giao Chỉ?",
+   "dap_an": [
+    "Ngọc trai, đồi mồi, gỗ tốt",
+    "Lúa mì, nho",
+    "Than đá, dầu mỏ",
+    "Trà, tơ lụa"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Mục đích của chính sách đồng hoá là",
+   "dap_an": [
+    "Xoá bỏ những tập quán lâu đời của người Việt",
+    "Giúp người Việt giàu lên",
+    "Bảo tồn phong tục Việt",
+    "Mở trường dạy chữ Việt"
+   ],
+   "dung": 0,
+   "trang": 67
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 67 (mục 1b, đoạn tư liệu 1 theo Đại Việt sử ký toàn thư, mục 1c), tr. 68 (đoạn tư liệu 2), tr. 69 (bảng Luyện tập 2 – đối chiếu ảnh trang: ô 'Người Việt mất ruộng, bị biến thành nông nô của chính quyền đô hộ' là hậu quả SGK đã điền sẵn; các ô '?' để học sinh tự điền nên kịch bản không trả lời thay mà đưa vào thử thách cuối). Kiến thức chốt của danh mục khớp SGK. Lời 'Viên thứ sử' là lời tái hiện rút từ ý 'vơ vét của cải cho đầy, rồi lại xin đổi đi' trong tư liệu 1. Câu 'hai thứ thiết yếu với đời sống và sản xuất' (cảnh 7) là giải thích của người dẫn chuyện.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "ma": "L6-B16-01",
+ "ten_tap": "Hai Bà Trưng phất cờ khởi nghĩa",
+ "ten_tap_en": "The Trưng Sisters Raise the Banner of Revolt",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 16. Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+  "trang": [
+   70,
+   71,
+   72
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "trung-trac",
+  "trung-nhi",
+  "to-dinh",
+  "nghia-quan-hai-ba-trung"
+ ],
+ "nhac": {
+  "tam_trang": "nén chịu ở đoạn bị áp bức, bùng lên hào hùng (trống trận) khi phất cờ, trang nghiêm ở đoạn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; Hai Bà Trưng cưỡi voi vẽ theo tinh thần tranh dân gian Đông Hồ (Hình 2 SGK); sa bàn vẽ lại, giản lược theo Hình 1 SGK tr. 71; không cận cảnh thương vong. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 16, tr. 70–72.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước một ngôi đền cổ thờ Hai Bà Trưng ngày nay: mái ngói cong, sân lát gạch, lư hương nghi ngút khói, cây đa cổ thụ; người dân đến dâng hương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhân dân ta đã lập đền thờ Hai Bà Trưng ở nhiều nơi để đời đời thờ cúng.",
+     "Our people built temples to the Trưng Sisters in many places, to honour them forever."
+    ],
+    [
+     "Nhật Minh",
+     "Hai Bà đã làm nên điều gì mà được ghi nhớ như vậy? Quay về năm 40 thôi!",
+     "What did they do to be remembered like this? Back to the year 40!"
+    ]
+   ],
+   "nguon_trang": [
+    71,
+    72
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 40",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "to-dinh"
+   ],
+   "hinh": "Sân công đường thời thuộc Hán: Thái thú Tô Định ngồi ghế cao, lính thu thuế khuân thóc lúa của dân; các Lạc tướng người Việt đứng cúi đầu nhận lệnh, nét mặt bất bình; dân chúng phía sau oán giận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời thuộc Hán, chính quyền đô hộ cai trị hà khắc, bóc lột tô thuế nặng nề.",
+     "Under Han rule, the colonial regime was harsh and taxes were crushing."
+    ],
+    [
+     "Hân Hân",
+     "Họ còn khống chế các Lạc tướng và con cháu họ. Quý tộc người Việt bất bình, nhân dân oán hận.",
+     "They even controlled the Lạc lords and their families. The Việt nobles were angry, and the people resentful."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trung-trac",
+    "trung-nhi",
+    "nghia-quan-hai-ba-trung"
+   ],
+   "hinh": "Cửa sông Hát lúc bình minh: Trưng Trắc và Trưng Nhị trong trang phục nữ tướng, áo giáp nhẹ, đứng trên gò cao giương lá cờ lớn (không chữ); nghĩa quân đông đảo cầm giáo, nỏ, dàn hàng bên bờ sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hai Bà Trưng là con gái Lạc tướng huyện Mê Linh, nay thuộc thành phố Hà Nội. Hai Bà dựng cờ khởi nghĩa để giành lại quyền tự chủ.",
+     "The Trưng Sisters were daughters of the Lạc lord of Mê Linh, now in Hà Nội. They raised the banner of revolt to win back self-rule."
+    ],
+    [
+     "Trưng Trắc",
+     "Hỡi tướng sĩ! Ta dựng cờ khởi nghĩa, giành lại quyền tự chủ cho non sông!",
+     "Soldiers! We raise the banner of revolt to win back our land's self-rule!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "hai-ba-trung-40",
+   "pha": "khoi_nghia",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 3 năm 40, Trưng Trắc, Trưng Nhị phất cờ nổi dậy tại cửa sông Hát, nay thuộc xã Hát Môn.",
+     "In the third month of the year 40, Trưng Trắc and Trưng Nhị rose up at the mouth of the Hát River, now Hát Môn commune."
+    ],
+    [
+     "Nhật Minh",
+     "Tướng lĩnh khắp 65 thành trì đều quy tụ về với cuộc khởi nghĩa!",
+     "Commanders from 65 citadels all rallied to the uprising!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "hai-ba-trung-40",
+   "pha": "tien_quan",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ sông Hát, nghĩa quân theo đường sông Hồng tiến xuống, đánh chiếm căn cứ quân Hán ở Mê Linh và Cổ Loa.",
+     "From the Hát River, the rebels followed the Red River down and took the Han bases at Mê Linh and Cổ Loa."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trung-trac",
+    "trung-nhi",
+    "nghia-quan-hai-ba-trung"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi lau ven sông, ngước nhìn Hai Bà Trưng cưỡi voi dẫn đầu đoàn nghĩa quân rầm rập tiến qua, cờ bay phấp phới, bụi tung mù (vẽ theo tinh thần tranh Đông Hồ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Oa! Hai Bà cưỡi voi ra trận, khí thế quá!",
+     "Wow! The Sisters ride elephants into battle. Such spirit!"
+    ],
+    [
+     "Nhật Minh",
+     "Sử cũ chép rằng: Trưng Trắc thực là hùng dũng, đến đâu đều như có gió cuốn.",
+     "The old chronicles say Trưng Trắc was truly heroic: wherever she went, it was like a gale sweeping through."
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    72
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "hai-ba-trung-40",
+   "pha": "luy_lau",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 4 năm 40, nghĩa quân tiếp tục tấn công thành Luy Lâu và chiếm được trị sở của chính quyền đô hộ.",
+     "In the fourth month of 40, the rebels attacked Luy Lâu and captured the seat of the colonial government."
+    ],
+    [
+     "Nhật Minh",
+     "Thái thú Tô Định phải bỏ chạy về nước!",
+     "Governor Su Ding had to flee home!"
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    71
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "to-dinh"
+   ],
+   "hinh": "Tô Định hốt hoảng cởi bỏ áo quan, trà trộn lên một chiếc thuyền nhỏ rời bến trong đêm; phía xa, cổng thành Luy Lâu rực đuốc của nghĩa quân (không cảnh giao tranh cận)",
+   "loi": [
+    [
+     "Tô Định",
+     "Quân của Trưng Trắc đến như gió cuốn… Rút! Rút mau!",
+     "Trưng Trắc's army sweeps in like a gale… Retreat! Retreat now!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai Bà Trưng phất cờ khởi nghĩa ở đâu?",
+    "lua_chon": [
+     "Cửa sông Hát (Hát Môn)",
+     "Cổ Loa",
+     "Cửa sông Bạch Đằng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hai Bà Trưng phất cờ khởi nghĩa ở đâu?",
+     "Pause! Where did the Trưng Sisters raise the banner of revolt?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cửa sông Hát, nay thuộc xã Hát Môn!",
+     "The answer is A: the mouth of the Hát River, now Hát Môn!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "hai-ba-trung-40",
+   "pha": "thang_loi",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khởi nghĩa thắng lợi! Trưng Trắc được suy tôn làm vua, đóng đô ở Mê Linh.",
+     "The uprising triumphed! Trưng Trắc was proclaimed queen, with her capital at Mê Linh."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trung-trac",
+    "trung-nhi",
+    "nghia-quan-hai-ba-trung"
+   ],
+   "hinh": "Hoàng hôn trên chiến luỹ: Hai Bà Trưng đứng giữa các tướng sĩ, nhìn về phía đoàn quân Hán đông đảo kéo đến từ xa (viễn cảnh), nét mặt kiên quyết; cờ nghĩa quân bay trong gió",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 42, nhà Hán cử tướng Mã Viện dẫn đại quân sang đàn áp. Hai Bà cùng các tướng sĩ đã chiến đấu anh dũng.",
+     "In 42, the Han sent general Ma Yuan with a great army to crush them. The Sisters and their soldiers fought bravely."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 43, cuộc khởi nghĩa bị đàn áp. Nhưng nó đã chứng tỏ tinh thần đấu tranh bất khuất của người Việt, tạo tiền đề khôi phục nền độc lập, tự chủ sau này.",
+     "In 43, the uprising was crushed. But it proved the unyielding spirit of the Việt people and paved the way for regaining independence later."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân: cai trị hà khắc, tô thuế nặng nề; khống chế Lạc tướng",
+    "Tháng 3 – năm 40: phất cờ ở cửa sông Hát (Hát Môn)",
+    "Chiếm Mê Linh, Cổ Loa, Luy Lâu; Tô Định bỏ chạy; Trưng Trắc lên ngôi, đóng đô ở Mê Linh",
+    "Ý nghĩa: tinh thần bất khuất; tiền đề khôi phục độc lập sau này"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nhà Hán cai trị hà khắc, bóc lột nặng nề, khống chế các Lạc tướng.",
+     "Remember: Han rule was harsh, exploitative, and controlled the Lạc lords."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 3 năm 40, Hai Bà Trưng phất cờ khởi nghĩa ở cửa sông Hát.",
+     "In the third month of 40, the Trưng Sisters rose up at the Hát River mouth."
+    ],
+    [
+     "Nhật Minh",
+     "Nghĩa quân chiếm Mê Linh, Cổ Loa, Luy Lâu; Tô Định bỏ chạy; Trưng Trắc lên ngôi, đóng đô ở Mê Linh.",
+     "They took Mê Linh, Cổ Loa and Luy Lâu; Su Ding fled; Trưng Trắc became queen at Mê Linh."
+    ],
+    [
+     "Hân Hân",
+     "Khởi nghĩa thể hiện tinh thần bất khuất và tạo tiền đề khôi phục độc lập sau này.",
+     "The uprising showed an unyielding spirit and paved the way for future independence."
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sân đền thờ Hai Bà Trưng lúc chiều, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: một viên Thái thú người Hán từng phàn nàn: “Dân xứ ấy rất khó cai trị”. Cậu nghĩ gì về câu nói này? Bình luận nhé!",
+     "Your challenge: a Han governor once complained, 'The people of that land are very hard to rule.' What do you make of that? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hai Bà Trưng là con gái Lạc tướng huyện nào?",
+   "dap_an": [
+    "Mê Linh",
+    "Cửu Chân",
+    "Luy Lâu",
+    "Phong Châu"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Thái thú nhà Hán bị nghĩa quân Hai Bà Trưng đánh đuổi là",
+   "dap_an": [
+    "Mã Viện",
+    "Tô Định",
+    "Triệu Đà",
+    "Hoằng Tháo"
+   ],
+   "dung": 1,
+   "trang": 70
+  },
+  {
+   "hoi": "Khởi nghĩa thắng lợi, Trưng Trắc được suy tôn làm vua, đóng đô ở",
+   "dap_an": [
+    "Cổ Loa",
+    "Luy Lâu",
+    "Mê Linh",
+    "Hoa Lư"
+   ],
+   "dung": 2,
+   "trang": 71
+  },
+  {
+   "hoi": "Năm 42, nhà Hán cử tướng nào dẫn đại quân sang đàn áp khởi nghĩa Hai Bà Trưng?",
+   "dap_an": [
+    "Tô Định",
+    "Mã Viện",
+    "Lưu Cung",
+    "Hoằng Tháo"
+   ],
+   "dung": 1,
+   "trang": 72
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 70 (phần mở đầu – lời Thái thú 'Dân xứ ấy rất khó cai trị'; mục 1; tư liệu 1 theo Đại Việt sử ký tiền biên), tr. 71 (Hình 1 lược đồ và sơ đồ 4 bước diễn biến – đối chiếu ảnh trang: mốc 3 – 40 ở Hát Môn, 4 – 40 ở Luy Lâu; 65 thành trì), tr. 72 (năm 42 Mã Viện, năm 43, đền thờ, ý nghĩa; Hình 2). Kiến thức chốt của danh mục khớp SGK. Sa bàn mới: pipeline/maps/specs/hai-ba-trung-40.json (sinh bằng tools/make_spec_hai_ba_trung.py, vẽ lại giản lược theo Hình 1). Lời Trưng Trắc (cảnh 4) và Tô Định (cảnh 9) là lời tái hiện, diễn đạt lại ý SGK ('giành lại quyền tự chủ', 'đến đâu đều như có gió cuốn', 'Tô Định bỏ chạy về'). Số '65' (thành trì) OCR tr. 71 đọc hỏng, đã đối chiếu ảnh trang – công cụ kiểm tra có thể báo số 65 ở cảnh 5, số này đúng theo ảnh trang.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

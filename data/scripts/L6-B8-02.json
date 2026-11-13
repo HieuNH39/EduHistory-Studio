@@ -1,0 +1,479 @@
+{
+ "ma": "L6-B8-02",
+ "ten_tap": "Đẳng cấp Vác-na: Bức tường vô hình",
+ "ten_tap_en": "The Varna Caste System: Invisible Walls",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 8. Ấn Độ cổ đại",
+  "trang": [
+   36
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-dra-vi-da",
+  "nguoi-a-ri-a",
+  "tang-lu-bra-man",
+  "nguoi-pa-ri-a"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, suy tư, âm hưởng Nam Á nhẹ (đàn dây, trống tay); không dùng nhạc vui nhộn ở đoạn tầng lớp bị áp bức",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện xã hội Ấn Độ cổ đại mang tính minh hoạ, vẽ tôn trọng mọi tầng lớp; tờ báo Le Paria là ảnh tư liệu. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 8, tr. 36.",
+ "chinh_sach_hinh": "Cảnh về báo Le Paria (năm 1922) chỉ dùng ảnh tư liệu của tờ báo (như Hình 4 SGK), không vẽ chân dung Nguyễn Ái Quốc. Các cảnh Ấn Độ cổ đại vẽ minh hoạ, không biếm hoạ, không gắn đẳng cấp với dân tộc hay tôn giáo ngày nay.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, đứng trước tấm bản đồ bán đảo Ấn Độ treo tường; Hân Hân cầm cuốn sách mở trang có sơ đồ hình kim tự tháp bốn tầng; nắng chiều qua cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết không? Ở Ấn Độ cổ đại, xã hội từng bị chia thành bốn đẳng cấp, như những bức tường vô hình ngăn cách con người.",
+     "Did you know? Ancient Indian society was split into four castes, like invisible walls between people."
+    ],
+    [
+     "Nhật Minh",
+     "Bốn đẳng cấp ư? Ai đặt ra, và dựa vào đâu? Tụi mình đi tìm hiểu ngay!",
+     "Four castes? Who made them, and based on what? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "2500 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dra-vi-da"
+   ],
+   "hinh": "Người Đra-vi-đa bản địa (da ngăm, áo vải mộc) đang xây những dãy nhà gạch nung ngay ngắn của một thành thị cổ bên bờ sông Ấn; người khiêng gạch, người xếp tường, thuyền nhỏ trên sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng năm 2500 trước Công nguyên, người bản địa Đra-vi-đa đã xây dựng những thành thị đầu tiên dọc hai bên bờ sông Ấn.",
+     "Around 2500 BCE, the native Dravidians built the first cities along both banks of the Indus."
+    ],
+    [
+     "Hân Hân",
+     "Ở Ha-ráp-pa, một thành thị cổ thuộc lưu vực sông Ấn, người ta còn tìm thấy con dấu bằng đất nung khắc kí tự tượng hình.",
+     "At Harappa, an ancient city in the Indus valley, a terracotta seal carved with pictographs was found."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-a-ri-a"
+   ],
+   "hinh": "Những đoàn người A-ri-a (da sáng, mặc áo choàng, cưỡi ngựa, dắt xe kéo chở đồ đạc) vượt qua đèo núi từ phương bắc, tiến xuống đồng bằng rộng lớn; bụi tung mờ, trời trong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa thiên niên kỉ II trước Công nguyên, người A-ri-a từ vùng Trung Á tràn vào miền Bắc Ấn Độ.",
+     "In the middle of the 2nd millennium BCE, the Aryans swept into northern India from Central Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Họ xua đuổi người Đra-vi-đa, rồi biến họ thành đẳng cấp thứ tư, gọi là Su-đra.",
+     "They drove out the Dravidians and turned them into the fourth caste, the Shudras."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-a-ri-a",
+    "nguoi-dra-vi-da"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép bên một cột đá ở góc con phố cổ miền Bắc Ấn Độ, quan sát dòng người: những nhóm người khác nhau về trang phục và màu da đi tách biệt, không ai hoà vào nhóm khác; nét mặt hai bạn trầm ngâm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một hệ thống bốn đẳng cấp đã hình thành, dựa trên sự phân biệt về chủng tộc và màu da.",
+     "A system of four castes took shape, based on distinctions of race and skin colour."
+    ],
+    [
+     "Hân Hân",
+     "Chế độ này còn được gọi là chế độ đẳng cấp Vác-na.",
+     "It's also called the Varna caste system."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tang-lu-bra-man"
+   ],
+   "hinh": "Các tăng lữ Bra-man mặc áo trắng, ngồi trang nghiêm bên bàn thờ lửa trên bậc đá ven sông, khói hương bay lên; vẽ tôn trọng, không biếm hoạ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hãy hình dung bốn đẳng cấp như một kim tự tháp. Đứng trên cùng là Bra-man, tức tầng lớp tăng lữ.",
+     "Picture the four castes as a pyramid. At the very top were the Brahmins, the priests."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Trong một cung điện cổ có cột chạm khắc, các vương công và quý tộc Ksa-tri-a đội mũ, đeo trang sức, mặc áo choàng sang trọng, hai bên có binh lính cầm giáo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thứ hai là Ksa-tri-a, gồm vương công và quý tộc.",
+     "Second came the Kshatriyas: princes and nobles."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Một khu chợ và cánh đồng ven làng Ấn Độ cổ đại: nông dân dắt bò cày ruộng, thợ thủ công nặn gốm và dệt vải, thương nhân bày hàng vải, gia vị; khung cảnh nhộn nhịp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thứ ba là Vai-si-a, những người bình dân: nông dân, thợ thủ công và thương nhân.",
+     "Third were the Vaishyas, the common people: farmers, craftsmen and merchants."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dra-vi-da"
+   ],
+   "hinh": "Những người lao động da ngăm, áo vải thô, gánh vác những bao hàng nặng dưới nắng gắt bên bến sông; nét mặt nhẫn nại, vẽ cảm thông, không cảnh bạo lực",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Và ở đáy kim tự tháp là Su-đra, những người có địa vị thấp kém.",
+     "And at the bottom of the pyramid were the Shudras, people of low status."
+    ],
+    [
+     "Hân Hân",
+     "Đó chính là đẳng cấp mà người Đra-vi-đa bản địa đã bị biến thành.",
+     "That was the caste the native Dravidians had been turned into."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người A-ri-a đã biến người Đra-vi-đa thành đẳng cấp nào?",
+    "lua_chon": [
+     "Bra-man",
+     "Vai-si-a",
+     "Su-đra"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Người A-ri-a đã biến người Đra-vi-đa thành đẳng cấp nào?",
+     "Pause! Which caste did the Aryans turn the Dravidians into?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Su-đra, đẳng cấp thứ tư!",
+     "The answer is C: the Shudras, the fourth caste!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-pa-ri-a"
+   ],
+   "hinh": "Một nhóm người Pa-ri-a áo quần cũ sờn đứng lặng lẽ ở rìa ngoài một ngôi làng cổ, cách xa đám đông; ánh chiều buồn, vẽ cảm thông, giữ phẩm giá nhân vật",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Không chỉ có vậy. SGK còn cho biết: tầng lớp thấp kém nhất trong xã hội là Pa-ri-a.",
+     "And there's more. The lowest group in society was the Pariahs."
+    ],
+    [
+     "Hân Hân",
+     "Pa-ri-a có nghĩa là sự không thừa nhận.",
+     "Pariah means 'not recognised'."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: trang nhất báo Le Paria (Người cùng khổ), năm 1922 (như Hình 4 SGK)",
+    "tim": "journal Le Paria 1922 première page",
+    "yeu_cau": "ảnh tư liệu công khai (ấn phẩm năm 1922, đã hết thời hạn bảo hộ), ghi nguồn; không dùng ảnh hay tranh vẽ chân dung lãnh tụ"
+   },
+   "hinh": "Ảnh tư liệu: trang nhất báo Le Paria, năm 1922",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1922, Nguyễn Ái Quốc đã dùng chính từ Pariah để đặt tên cho tờ báo Le Paria, nghĩa là Người cùng khổ.",
+     "In 1922, Nguyễn Ái Quốc used the very word 'Pariah' to name the newspaper Le Paria, meaning 'The Outcast'."
+    ],
+    [
+     "Nhật Minh",
+     "Tờ báo nói về đời sống của các dân tộc bị áp bức.",
+     "It wrote about the lives of oppressed peoples."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chế độ đẳng cấp Vác-na dựa trên sự phân biệt về",
+    "lua_chon": [
+     "Tài năng và học vấn",
+     "Chủng tộc và màu da",
+     "Tuổi tác"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Chế độ đẳng cấp Vác-na dựa trên sự phân biệt về điều gì?",
+     "Quick test! What was the Varna caste system based on?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chủng tộc và màu da!",
+     "The answer is B: race and skin colour!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "tieu_de": "BỐN ĐẲNG CẤP VÁC-NA (từ cao xuống thấp)",
+   "y": [
+    "Bra-man – Tăng lữ",
+    "Ksa-tri-a – Vương công, quý tộc",
+    "Vai-si-a – Bình dân: nông dân, thợ thủ công, thương nhân",
+    "Su-đra – Những người có địa vị thấp kém"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng dựng lại kim tự tháp nhé! Trên cùng: Bra-man, tăng lữ.",
+     "Let's rebuild the pyramid! At the top: Brahmins, the priests."
+    ],
+    [
+     "Nhật Minh",
+     "Thứ hai: Ksa-tri-a, vương công, quý tộc.",
+     "Second: Kshatriyas, princes and nobles."
+    ],
+    [
+     "Hân Hân",
+     "Thứ ba: Vai-si-a, người bình dân gồm nông dân, thợ thủ công, thương nhân.",
+     "Third: Vaishyas, common people – farmers, craftsmen, merchants."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối cùng: Su-đra, những người có địa vị thấp kém.",
+     "Last: Shudras, people of low status."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại thư viện trường, ngồi bên bàn đọc, cuốn sách vẫn mở ở trang sơ đồ kim tự tháp bốn tầng; nét mặt suy nghĩ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vậy là bức tường vô hình ấy được dựng lên từ sự phân biệt chủng tộc và màu da.",
+     "So those invisible walls were built from distinctions of race and skin colour."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ vì khác chủng tộc, khác màu da mà con người bị xếp cao thấp khác nhau. Thật là bất công!",
+     "People were ranked high or low just for their race and skin colour. How unfair!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Khoảng 2500 TCN: người Đra-vi-đa xây thành thị đầu tiên bên sông Ấn",
+    "Giữa thiên niên kỉ II TCN: người A-ri-a từ Trung Á tràn vào Bắc Ấn Độ",
+    "Bốn đẳng cấp dựa trên chủng tộc, màu da: chế độ Vác-na",
+    "Thấp kém nhất là Pa-ri-a (“sự không thừa nhận”)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: khoảng năm 2500 trước Công nguyên, người Đra-vi-đa xây những thành thị đầu tiên bên sông Ấn.",
+     "Remember: around 2500 BCE, the Dravidians built the first cities by the Indus."
+    ],
+    [
+     "Hân Hân",
+     "Giữa thiên niên kỉ II trước Công nguyên, người A-ri-a từ Trung Á tràn vào miền Bắc Ấn Độ.",
+     "In the mid-2nd millennium BCE, the Aryans came into northern India from Central Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Họ lập ra bốn đẳng cấp dựa trên chủng tộc và màu da, gọi là chế độ đẳng cấp Vác-na.",
+     "Four castes based on race and skin colour emerged: the Varna system."
+    ],
+    [
+     "Hân Hân",
+     "Tầng lớp thấp kém nhất là Pa-ri-a, nghĩa là sự không thừa nhận.",
+     "The lowest group were the Pariahs, meaning 'not recognised'."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trước giá sách thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao chế độ đẳng cấp Vác-na được ví như những bức tường vô hình? Viết suy nghĩ của cậu ở phần bình luận nhé!",
+     "Your challenge: why is the Varna system compared to invisible walls? Share your thoughts in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những thành thị đầu tiên dọc hai bờ sông Ấn (khoảng năm 2500 TCN) do ai xây dựng?",
+   "dap_an": [
+    "Người A-ri-a",
+    "Người Đra-vi-đa",
+    "Người Ba Tư",
+    "Người Ả Rập"
+   ],
+   "dung": 1,
+   "trang": 36
+  },
+  {
+   "hoi": "Người A-ri-a tràn vào miền Bắc Ấn Độ từ vùng nào?",
+   "dap_an": [
+    "Trung Á",
+    "Đông Nam Á",
+    "Bắc Phi",
+    "Tây Âu"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Đẳng cấp đứng đầu trong chế độ đẳng cấp Vác-na là",
+   "dap_an": [
+    "Ksa-tri-a",
+    "Vai-si-a",
+    "Bra-man",
+    "Su-đra"
+   ],
+   "dung": 2,
+   "trang": 36
+  },
+  {
+   "hoi": "Nông dân, thợ thủ công và thương nhân thuộc đẳng cấp nào?",
+   "dap_an": [
+    "Bra-man",
+    "Ksa-tri-a",
+    "Vai-si-a",
+    "Su-đra"
+   ],
+   "dung": 2,
+   "trang": 36
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 36 (mục 2, ô Kết nối với văn hoá – Hình 4 báo Le Paria, chú thích Hình 5) và ảnh trang (Hình 3 – sơ đồ đẳng cấp Vác-na, OCR đọc thiếu tầng Su-đra). Hiệu đính kiến thức chốt của danh mục: tầng Su-đra trong SGK là 'những người có địa vị thấp kém' (danh mục ghi 'người bị áp bức' – không đúng chữ SGK); Pa-ri-a là tầng lớp thấp kém nhất, nghĩa 'sự không thừa nhận'. Không nêu tính cha truyền con nối hay Pa-ri-a 'nằm ngoài bốn đẳng cấp' vì SGK không viết; nhận xét 'bất công' ở cảnh 16 là cảm nghĩ của người dẫn chuyện rút từ ý 'dựa trên phân biệt chủng tộc và màu da'. Không có lời thoại cho nhân vật (nhóm vô danh); Nguyễn Ái Quốc chỉ được nhắc tên, dùng ảnh tư liệu tờ báo.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

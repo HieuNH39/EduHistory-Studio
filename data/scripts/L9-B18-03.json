@@ -1,0 +1,555 @@
+{
+ "ma": "L9-B18-03",
+ "ten_tap": "Nước Mỹ: Siêu cường và tham vọng đơn cực",
+ "ten_tap_en": "The United States: A Superpower and Its Unipolar Ambition",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 18. Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+  "trang": [
+   93,
+   94,
+   95
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "b-clin-ton",
+  "cong-nhan-my"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, nhịp đều, hơi căng ở phần cạnh tranh; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 18, tr. 93–95.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng máy tính của trường; màn hình lớn phía sau hiện quả địa cầu và các biểu đồ cột (không có chữ, không có cờ); ánh sáng xanh dịu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1991, Liên Xô sụp đổ, Trật tự hai cực I-an-ta kết thúc.",
+     "In 1991, the Soviet Union collapsed and the bipolar Yalta order came to an end."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ trở thành siêu cường duy nhất. Mỹ đã làm gì với vị thế ấy, và tham vọng của Mỹ có thành hiện thực không? Cùng tìm hiểu nhé!",
+     "The US became the only superpower. What did it do with that position, and did its ambition come true? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    95
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH TRỊ",
+   "y": [
+    "Duy trì nền dân chủ tư sản",
+    "Cầm quyền: một trong hai đảng – Đảng Dân chủ, Đảng Cộng hoà",
+    "Tham vọng chi phối và lãnh đạo thế giới; thúc đẩy trật tự đơn cực"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về chính trị, nước Mỹ vẫn duy trì nền dân chủ tư sản, dưới sự cầm quyền của một trong hai đảng: Đảng Dân chủ và Đảng Cộng hoà.",
+     "Politically, the US kept its bourgeois democracy, governed by one of two parties: the Democrats or the Republicans."
+    ],
+    [
+     "Hân Hân",
+     "Mỹ nhất quán theo đuổi tham vọng chi phối và lãnh đạo thế giới. Sau khi Liên Xô tan rã, Mỹ tận dụng vị thế siêu cường duy nhất để thúc đẩy việc thiết lập trật tự thế giới đơn cực.",
+     "The US consistently pursued its ambition to dominate and lead the world. After the Soviet collapse, it used its sole-superpower status to push for a unipolar world order."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN LƯỢC “CAM KẾT VÀ MỞ RỘNG”",
+   "y": [
+    "Bảo đảm an ninh của Mỹ với lực lượng quân sự mạnh",
+    "Khôi phục và phát triển sức mạnh kinh tế",
+    "Dùng khẩu hiệu “dân chủ” để can thiệp vào nội bộ nước khác"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 90 của thế kỉ XX, Tổng thống B. Clin-tơn thực hiện chiến lược “Cam kết và mở rộng”.",
+     "In the 1990s, President B. Clinton carried out the strategy of 'Engagement and Enlargement'."
+    ],
+    [
+     "Hân Hân",
+     "Mục tiêu là bảo đảm an ninh của Mỹ với lực lượng quân sự mạnh, tăng cường khôi phục và phát triển sức mạnh kinh tế,",
+     "Its goals: secure America with strong military forces, restore and build up economic strength,"
+    ],
+    [
+     "Nhật Minh",
+     "và thúc đẩy khẩu hiệu “dân chủ” để can thiệp vào công việc nội bộ của các nước khác.",
+     "and promote the slogan of 'democracy' to interfere in other countries' internal affairs."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến lược “Cam kết và mở rộng” những năm 90 do Tổng thống Mỹ nào thực hiện?",
+    "lua_chon": [
+     "G. Bu-sơ (cha)",
+     "B. Clin-tơn",
+     "Tơ-ru-man"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chiến lược “Cam kết và mở rộng” do Tổng thống Mỹ nào thực hiện?",
+     "Pause! Which US president carried out 'Engagement and Enlargement'?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: B. Clin-tơn, vào những năm 90 của thế kỉ XX!",
+     "The answer is B: B. Clinton, in the 1990s!"
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: nhà máy Bô-inh ở tiểu bang Oa-sinh-tơn (như Hình 18.4 SGK, tr. 95)",
+    "tim": "Boeing Everett factory Washington state photo",
+    "yeu_cau": "ảnh có giấy phép mở hoặc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh: nhà máy Bô-inh ở tiểu bang Oa-sinh-tơn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, Mỹ là quốc gia có nền kinh tế, tài chính, công nghệ lớn mạnh hàng đầu thế giới. Đây là nhà máy Bô-inh ở tiểu bang Oa-sinh-tơn.",
+     "Economically, the US has one of the world's strongest economies, financial systems and technologies. This is the Boeing factory in Washington state."
+    ],
+    [
+     "Nhật Minh",
+     "Các lĩnh vực sản xuất rất đa dạng: dầu mỏ, thép, ô tô, hàng không vũ trụ, hoá chất, điện tử, hàng tiêu dùng, nông sản và chế biến thực phẩm.",
+     "Its production is highly diverse: oil, steel, cars, aerospace, chemicals, electronics, consumer goods, farm produce and food processing."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "GDP CỦA MỸ",
+   "y": [
+    "GDP đứng đầu thế giới",
+    "Hơn 30% GDP toàn thế giới (2000)",
+    "24% GDP toàn thế giới (2021)",
+    "GDP/người: nhóm 10 nước cao nhất (hơn 70 000 USD, 2021)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "GDP của Mỹ vẫn đứng đầu thế giới: chiếm hơn 30% GDP toàn thế giới năm 2000, và 24% năm 2021.",
+     "US GDP is still the world's largest: over 30% of world GDP in 2000 and 24% in 2021."
+    ],
+    [
+     "Nhật Minh",
+     "GDP bình quân đầu người luôn thuộc nhóm 10 quốc gia cao nhất thế giới, năm 2021 là hơn 70 000 USD.",
+     "GDP per head is always among the world's top 10, over 70,000 dollars in 2021."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 2021, GDP của Mỹ chiếm bao nhiêu phần trăm GDP toàn thế giới?",
+    "lua_chon": [
+     "14%",
+     "24%",
+     "34%"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Năm 2021, GDP của Mỹ chiếm bao nhiêu phần trăm GDP toàn thế giới?",
+     "Quick test! What share of world GDP did the US have in 2021?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 24%, vẫn đứng đầu thế giới!",
+     "The answer is B: 24%, still the world's largest!"
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "XUẤT KHẨU (2021)",
+   "y": [
+    "Đứng đầu thế giới: dầu mỏ tinh chế, hàng không vũ trụ, thiết bị y tế, rau quả…",
+    "Đứng thứ hai thế giới: lúa mì, thịt gia cầm…"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 2021, Mỹ đứng đầu thế giới về xuất khẩu dầu mỏ tinh chế, hàng không vũ trụ, thiết bị y tế, rau quả;",
+     "In 2021, the US led the world in exports of refined oil, aerospace products, medical equipment, fruit and vegetables;"
+    ],
+    [
+     "Nhật Minh",
+     "và đứng thứ hai thế giới về xuất khẩu lúa mì, thịt gia cầm.",
+     "and ranked second in exports of wheat and poultry."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "CHI PHỐI CÁC TỔ CHỨC KINH TẾ – TÀI CHÍNH",
+   "y": [
+    "Tổ chức Thương mại thế giới (WTO)",
+    "Ngân hàng Thế giới (WB)",
+    "Quỹ Tiền tệ quốc tế (IMF)"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mỹ giữ vai trò lãnh đạo và chi phối trong hầu hết các tổ chức kinh tế – tài chính quốc tế,",
+     "The US leads and dominates most international economic and financial organisations,"
+    ],
+    [
+     "Hân Hân",
+     "như Tổ chức Thương mại thế giới, Ngân hàng Thế giới, Quỹ Tiền tệ quốc tế.",
+     "such as the World Trade Organization, the World Bank and the International Monetary Fund."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tên viết tắt của Quỹ Tiền tệ quốc tế là gì?",
+    "lua_chon": [
+     "WTO",
+     "WB",
+     "IMF"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Quỹ Tiền tệ quốc tế viết tắt là gì?",
+     "One more! What is the abbreviation for the International Monetary Fund?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: IMF!",
+     "The answer is C: IMF!"
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "NHỮNG ĐỢT SUY THOÁI NGẮN",
+   "y": [
+    "1997 – 1998",
+    "2008 – 2009",
+    "2014 – 2015"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuy nhiên, kinh tế Mỹ cũng trải qua những đợt suy thoái ngắn, do tác động của các cuộc khủng hoảng kinh tế, tài chính:",
+     "However, the US economy also went through short recessions caused by economic and financial crises:"
+    ],
+    [
+     "Hân Hân",
+     "năm 1997 – 1998, năm 2008 – 2009 và năm 2014 – 2015.",
+     "in 1997–1998, 2008–2009 and 2014–2015."
+    ]
+   ],
+   "nguon_trang": [
+    95
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "THAM VỌNG ĐƠN CỰC GẶP THÁCH THỨC",
+   "y": [
+    "Từ đầu thế kỉ XXI: nhiều quốc gia, khu vực vươn lên cạnh tranh",
+    "EU lớn mạnh; Nhật Bản tìm vị thế chính trị; Liên bang Nga phục hồi",
+    "Trung Quốc – nền kinh tế lớn thứ hai thế giới – cạnh tranh quyết liệt từ 2010",
+    "Trật tự thế giới dần hình thành theo xu hướng đa cực"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thế nhưng, từ đầu thế kỉ XXI, nhiều quốc gia, khu vực vươn lên cạnh tranh với Mỹ: EU ngày càng lớn mạnh, Nhật Bản tìm cách đạt vị thế chính trị tương xứng, Liên bang Nga đang phục hồi và trỗi dậy.",
+     "Yet from the start of the 21st century, many countries and regions rose to compete with the US: the EU grew ever stronger, Japan sought a matching political role, and Russia was recovering and rising."
+    ],
+    [
+     "Hân Hân",
+     "Đặc biệt, Trung Quốc, nền kinh tế lớn thứ hai thế giới, từ năm 2010 đã và đang là đối thủ cạnh tranh quyết liệt vị thế siêu cường với Mỹ.",
+     "Above all, China, the world's second-largest economy, has since 2010 been a fierce rival to America's superpower status."
+    ],
+    [
+     "Nhật Minh",
+     "Một trật tự thế giới mới đang dần hình thành theo xu hướng đa cực, nhiều trung tâm.",
+     "A new world order is gradually taking shape, multipolar and with many centres."
+    ]
+   ],
+   "nguon_trang": [
+    94,
+    93
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NƯỚC MỸ TỪ NĂM 1991",
+   "moc": [
+    [
+     "1991",
+     "Liên Xô tan rã, Mỹ là siêu cường duy nhất"
+    ],
+    [
+     "Những năm 90",
+     "Chiến lược “Cam kết và mở rộng”"
+    ],
+    [
+     "2000",
+     "GDP hơn 30% thế giới"
+    ],
+    [
+     "2010",
+     "Trung Quốc thành đối thủ cạnh tranh quyết liệt"
+    ],
+    [
+     "2021",
+     "GDP 24% thế giới, vẫn đứng đầu"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1991: Liên Xô tan rã, Mỹ là siêu cường duy nhất. Những năm 90: chiến lược “Cam kết và mở rộng”.",
+     "Recap! 1991: the USSR collapses and the US is the sole superpower. The 1990s: 'Engagement and Enlargement'."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2000: GDP của Mỹ chiếm hơn 30% thế giới. Từ năm 2010: Trung Quốc thành đối thủ cạnh tranh quyết liệt.",
+     "2000: over 30% of world GDP. From 2010: China becomes a fierce rival."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2021: GDP của Mỹ chiếm 24%, vẫn đứng đầu thế giới.",
+     "2021: 24% of world GDP, still number one."
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Chính trị: dân chủ tư sản; tham vọng trật tự đơn cực",
+    "Kinh tế, tài chính, công nghệ hàng đầu thế giới; GDP đứng đầu",
+    "Chi phối WTO, WB, IMF",
+    "Bị nhiều nước, khu vực cạnh tranh; thế giới theo xu hướng đa cực"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Mỹ duy trì nền dân chủ tư sản và tham vọng thiết lập trật tự đơn cực.",
+     "Remember: the US kept bourgeois democracy and sought a unipolar order."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế, tài chính, công nghệ Mỹ hàng đầu thế giới, GDP vẫn đứng đầu.",
+     "Its economy, finance and technology lead the world, and its GDP is still first."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ chi phối các tổ chức WTO, WB, IMF.",
+     "It dominates the WTO, the World Bank and the IMF."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng Mỹ bị nhiều nước, khu vực cạnh tranh; thế giới đang đi theo xu hướng đa cực.",
+     "But many countries and regions compete with it, and the world is turning multipolar."
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong phòng máy tính, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao từ năm 1991 đến nay, Mỹ không thể thiết lập trật tự đơn cực? Nêu một lí do ở phần bình luận nhé!",
+     "Your challenge: why has the US been unable to set up a unipolar order since 1991? Give one reason in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau khi Liên Xô tan rã, Mỹ tận dụng vị thế siêu cường duy nhất để thúc đẩy điều gì?",
+   "dap_an": [
+    "Trật tự hai cực",
+    "Trật tự thế giới đơn cực",
+    "Chiến tranh lạnh",
+    "Kế hoạch Mác-san"
+   ],
+   "dung": 1,
+   "trang": 95
+  },
+  {
+   "hoi": "Năm 2000, GDP của Mỹ chiếm bao nhiêu phần trăm GDP toàn thế giới?",
+   "dap_an": [
+    "Hơn 10%",
+    "Hơn 20%",
+    "Hơn 30%",
+    "Hơn 50%"
+   ],
+   "dung": 2,
+   "trang": 95
+  },
+  {
+   "hoi": "Tổ chức nào KHÔNG được SGK nêu là tổ chức kinh tế – tài chính quốc tế do Mỹ chi phối?",
+   "dap_an": [
+    "WTO",
+    "WB",
+    "IMF",
+    "ASEAN"
+   ],
+   "dung": 3,
+   "trang": 95
+  },
+  {
+   "hoi": "Từ năm 2010, quốc gia nào đã và đang là đối thủ cạnh tranh quyết liệt vị thế siêu cường với Mỹ?",
+   "dap_an": [
+    "Nhật Bản",
+    "Trung Quốc",
+    "Liên bang Nga",
+    "Ấn Độ"
+   ],
+   "dung": 1,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 93–95 (xu hướng trật tự thế giới mới; mục Nước Mỹ từ năm 1991 đến nay; Hình 18.4). Đã chỉnh kiến thức chốt của danh mục cho đúng SGK: Mỹ có 'nền kinh tế, tài chính, công nghệ lớn mạnh hàng đầu thế giới', về xuất khẩu chỉ đứng đầu ở một số mặt hàng (dầu mỏ tinh chế, hàng không vũ trụ, thiết bị y tế, rau quả – năm 2021) chứ không phải đứng đầu xuất khẩu nói chung. SGK không có biểu đồ GDP của Mỹ cho giai đoạn này nên dùng thẻ số liệu (30% năm 2000, 24% năm 2021) thay cho biểu đồ cột. Nhân vật chỉ được nhắc tên; không vẽ người thật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

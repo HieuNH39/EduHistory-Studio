@@ -1,0 +1,356 @@
+{
+ "ma": "L6-B12-02",
+ "ten_tap": "Đông Nam Á – “Đảo Vàng” và Con đường gia vị",
+ "ten_tap_en": "Southeast Asia: The 'Golden Island' and the Spice Route",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 12. Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+  "trang": [
+   54,
+   55
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan-dong-nam-a",
+  "thuong-nhan-nuoc-ngoai",
+  "nha-vua-sri-vi-giay-a"
+ ],
+ "nhac": {
+  "tam_trang": "rộn ràng chợ phiên, hương vị phương Đông, sóng biển",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời của nhà địa lí Ả Rập là lời tái hiện, diễn đạt lại đoạn tư liệu SGK tr. 55; cảnh chợ gia vị, thương cảng mang tính minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 12, tr. 54–55.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Gian bếp gia đình Việt Nam ngày nay: Hân Hân (đồng phục FPT) cầm vài bông hoa hồi và thanh quế, đưa lên mũi ngửi; Nhật Minh đứng cạnh nồi nước dùng đang bốc khói",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hoa hồi, quế… những gia vị quen thuộc trong bếp nhà mình đấy.",
+     "Star anise, cinnamon… familiar spices in our kitchen."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày xưa, gia vị Đông Nam Á từng quý giá đến mức thương nhân khắp nơi tìm đến. Đi kiểm chứng thôi!",
+     "Long ago, Southeast Asian spices were so precious that traders came from everywhere. Let's check it out!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VII – X",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-dong-nam-a"
+   ],
+   "hinh": "Đồng bằng lục địa Đông Nam Á thời cổ: nông dân cấy lúa, trâu kéo cày, những ngôi đền gạch giữa làng; dòng sông lớn uốn quanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ VII đến thế kỉ X, nhiều vương quốc lấy nông nghiệp làm ngành kinh tế chính.",
+     "From the 7th to the 10th century, many kingdoms relied on farming."
+    ],
+    [
+     "Hân Hân",
+     "Chủ yếu ở vùng lục địa như Chăm-pa, Chân Lạp, lưu vực sông Chao Phray-a và sông I-ra-oa-đi.",
+     "Mostly on the mainland, like Champa and Chenla, and in the Chao Phraya and Irrawaddy valleys."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Biển đảo Đông Nam Á thời cổ: những đoàn thuyền buôn lớn căng buồm giữa các hòn đảo xanh, chở đầy bao tải và rương hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một số vương quốc lại chủ yếu dựa vào thương mại biển, như Sri Vi-giay-a, Ka-lin-ga, Ma-ta-ram, ở In-đô-nê-xi-a ngày nay.",
+     "Others relied mainly on sea trade, like Srivijaya, Kalinga and Mataram, in today's Indonesia."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một khu chợ gia vị nhộn nhịp bên thương cảng cổ: những thúng đầy quế, hoa hồi, nhục đậu khấu, đinh hương; thương nhân nhiều nước mặc cả; mùi hương như toả ra khỏi khung hình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thơm quá! Quế, hoa hồi, nhục đậu khấu… Với nguồn sản vật phong phú, đặc biệt là gia vị,",
+     "What a smell! Cinnamon, star anise, nutmeg… With such rich produce, especially spices,"
+    ],
+    [
+     "Hân Hân",
+     "các vương quốc này góp nhiều mặt hàng chủ lực trên những tuyến buôn bán đường biển nối Á – Âu, sau này gọi là Con đường gia vị!",
+     "these kingdoms supplied key goods for the sea routes linking Asia and Europe, later called the Spice Route!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Một nhà địa lí Ả Rập thời cổ đội khăn xếp, ngồi trên boong thuyền cập bến Sri Vi-giay-a, vừa nhìn những kiện hàng thơm vừa ghi chép vào cuộn giấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một nhà địa lí Ả Rập đã nhận xét về Vương quốc Sri Vi-giay-a như thế này:",
+     "An Arab geographer described the kingdom of Srivijaya like this:"
+    ],
+    [
+     "Nhà địa lí Ả Rập",
+     "Nhà vua có nhiều loại dầu thơm và cây thuốc mà không một ông vua nào có được! Đất đai sinh ra long não, trầm hương, đinh hương, đàn hương, đậu khấu…",
+     "The king has perfumes and medicinal plants no other king possesses! The land yields camphor, agarwood, cloves, sandalwood, cardamom…"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những tuyến buôn bán đường biển nối Á – Âu, nơi gia vị Đông Nam Á là hàng chủ lực, sau này được gọi là",
+    "lua_chon": [
+     "Con đường gia vị",
+     "Con đường muối",
+     "Con đường hổ phách"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tuyến buôn bán đường biển nối Á – Âu này sau được gọi là gì?",
+     "Pause! What was this Asia–Europe sea trade route later called?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Con đường gia vị!",
+     "The answer is A: the Spice Route!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Minh hoạ vui: một chiếc cân đĩa cổ, một bên là túi nhỏ nghệ tây, bên kia là hình một con ngựa; cân thăng bằng; bên cạnh một túi gừng cân ngang hình một con bò",
+   "loi": [
+    [
+     "Nhật Minh",
+     "SGK còn kể một câu chuyện thú vị: vào thế kỉ X, 1 pao nghệ tây, khoảng 4 lạng, có giá ngang với 1 con ngựa.",
+     "The textbook tells a fun story: in the 10th century, 1 pound of saffron, about 4 lạng, cost as much as a horse."
+    ],
+    [
+     "Hân Hân",
+     "Còn 1 pao gừng có giá ngang 1 con bò! Gia vị quý giá đến thế đấy!",
+     "And 1 pound of ginger was worth a cow! That's how precious spices were!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Hai thương cảng cổ nối tiếp: một cảng ven biển miền Trung có tháp gạch Chăm trên đồi, và một cảng bên dòng sông trên đảo Xu-ma-tơ-ra; thuyền buồm nhiều kiểu dáng từ nhiều châu lục neo kín bến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giao lưu thương mại với nước ngoài đã thúc đẩy các vương quốc phát triển. Xuất hiện những thương cảng sầm uất như Đại Chiêm của Chăm-pa, Pa-lem-bang của Sri Vi-giay-a…",
+     "Foreign trade drove the kingdoms forward. Busy ports appeared, like Đại Chiêm in Champa and Palembang in Srivijaya…"
+    ],
+    [
+     "Hân Hân",
+     "Những thương cảng này trở thành điểm kết nối kinh tế, văn hoá giữa các châu lục.",
+     "These ports became economic and cultural links between continents."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thương cảng Đại Chiêm thuộc vương quốc nào?",
+    "lua_chon": [
+     "Chăm-pa",
+     "Sri Vi-giay-a",
+     "Chân Lạp"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Thương cảng Đại Chiêm thuộc vương quốc nào?",
+     "Quick test! Which kingdom did the port of Đại Chiêm belong to?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Chăm-pa!",
+     "The answer is A: Champa!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Vùng lục địa (Chăm-pa, Chân Lạp…): nông nghiệp là chính",
+    "Sri Vi-giay-a, Ka-lin-ga, Ma-ta-ram: chủ yếu thương mại biển",
+    "Gia vị là mặt hàng chủ lực trên Con đường gia vị nối Á – Âu",
+    "Thương cảng Đại Chiêm, Pa-lem-bang: kết nối các châu lục"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: các vương quốc ở vùng lục địa lấy nông nghiệp làm chính.",
+     "Remember: mainland kingdoms lived mainly by farming."
+    ],
+    [
+     "Hân Hân",
+     "Sri Vi-giay-a, Ka-lin-ga, Ma-ta-ram chủ yếu dựa vào thương mại biển.",
+     "Srivijaya, Kalinga and Mataram relied mainly on sea trade."
+    ],
+    [
+     "Nhật Minh",
+     "Gia vị là mặt hàng chủ lực trên Con đường gia vị nối Á – Âu.",
+     "Spices were the key goods on the Asia–Europe Spice Route."
+    ],
+    [
+     "Hân Hân",
+     "Thương cảng Đại Chiêm, Pa-lem-bang là điểm kết nối giữa các châu lục.",
+     "Ports like Đại Chiêm and Palembang linked the continents."
+    ]
+   ],
+   "nguon_trang": [
+    54,
+    55
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trở lại gian bếp: Nhật Minh thả bông hoa hồi vào nồi, Hân Hân cầm thanh quế, cả hai nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: viết 3 đến 5 câu mô tả vì sao gia vị Đông Nam Á lại hấp dẫn thương nhân nước ngoài đến vậy. Đăng ở phần bình luận nhé!",
+     "Your challenge: write 3 to 5 sentences on why Southeast Asian spices drew foreign traders. Post it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Các vương quốc phong kiến ở vùng lục địa Đông Nam Á (như Chăm-pa, Chân Lạp) lấy ngành nào làm kinh tế chính?",
+   "dap_an": [
+    "Nông nghiệp",
+    "Thương mại biển",
+    "Khai mỏ",
+    "Du mục"
+   ],
+   "dung": 0,
+   "trang": 54
+  },
+  {
+   "hoi": "Vương quốc nào chủ yếu dựa vào hoạt động thương mại biển?",
+   "dap_an": [
+    "Chân Lạp",
+    "Sri Vi-giay-a",
+    "Đva-ra-va-ti",
+    "Pa-gan"
+   ],
+   "dung": 1,
+   "trang": 55
+  },
+  {
+   "hoi": "Sản vật nào KHÔNG được nhắc trong nhận xét của nhà địa lí Ả Rập về Sri Vi-giay-a?",
+   "dap_an": [
+    "Long não",
+    "Trầm hương",
+    "Đinh hương",
+    "Lúa mì"
+   ],
+   "dung": 3,
+   "trang": 55
+  },
+  {
+   "hoi": "Thương cảng Pa-lem-bang thuộc vương quốc nào?",
+   "dap_an": [
+    "Chăm-pa",
+    "Sri Vi-giay-a",
+    "Ka-lin-ga",
+    "Chân Lạp"
+   ],
+   "dung": 1,
+   "trang": 55
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 54 (mục 2 đoạn đầu), tr. 55 (đoạn về thương mại biển, ảnh gia vị: hoa hồi, nhục đậu khấu, quế; tư liệu nhận xét của nhà địa lí Ả Rập; đoạn về thương cảng Đại Chiêm, Pa-lem-bang; câu Vận dụng 3 về giá nghệ tây, gừng). Kiến thức chốt của danh mục khớp SGK. Lời 'Nhà địa lí Ả Rập' (cảnh 6) là lời tái hiện rút gọn từ đoạn tư liệu SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

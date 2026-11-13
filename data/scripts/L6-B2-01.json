@@ -1,0 +1,189 @@
+{
+ "ma": "L6-B2-01",
+ "ten_tap": "Thám tử lịch sử: Bạn là ai?",
+ "ten_tap_en": "History Detectives: Who Are You?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+  "trang": [
+   11,
+   12,
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trinh thám vui nhộn, nhịp nhanh",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 2, tr. 11–13.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh (đồng phục FPT) đội mũ thám tử, cầm kính lúp soi một mảnh gốm cổ trên bàn thư viện; Hân Hân khoanh tay đứng cạnh cười",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thám tử Nhật Minh xin chào! Hôm nay tớ điều tra… quá khứ!",
+     "Detective Nhật Minh here! Today I'm investigating… the past!"
+    ],
+    [
+     "Hân Hân",
+     "Đúng rồi đấy! Các nhà sử học làm việc giống như những thám tử.",
+     "Spot on! Historians work just like detectives."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "BẰNG CHỨNG CỦA NHÀ SỬ HỌC",
+   "y": [
+    "Tư liệu hiện vật: di tích, đồ vật của người xưa",
+    "Tư liệu chữ viết: bản ghi, sách in, chữ khắc",
+    "Tư liệu truyền miệng: thần thoại, truyền thuyết, cổ tích"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Muốn dựng lại lịch sử, họ phải đi tìm bằng chứng, tức là các tư liệu lịch sử:",
+     "To rebuild history, they hunt for evidence: historical sources."
+    ],
+    [
+     "Nhật Minh",
+     "tư liệu hiện vật, tư liệu chữ viết, tư liệu truyền miệng.",
+     "Material sources, written sources and oral sources."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Hân Hân giơ một cuốn sổ chép tay cũ ố vàng, Nhật Minh soi kính lúp vào trang giấy, nét mặt hào hứng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quý nhất là tư liệu gốc: nó cung cấp thông tin đầu tiên và trực tiếp về sự kiện, đáng tin cậy nhất!",
+     "The most precious are primary sources: first-hand, direct information about events, the most reliable of all!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Bằng chứng giúp nhà sử học dựng lại lịch sử gọi là gì?",
+    "lua_chon": [
+     "Tư liệu lịch sử",
+     "Truyện tranh",
+     "Bài hát"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Bằng chứng giúp dựng lại lịch sử gọi là gì?",
+     "Pause! What is the evidence for rebuilding history called?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tư liệu lịch sử!",
+     "The answer is A: historical sources!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh trao chiếc mũ thám tử cho Hân Hân, cả hai nhìn thẳng về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi tự mình lí giải được sự việc dựa trên chứng cứ khoa học, cậu đã sắp trở thành “nhà sử học” rồi đấy!",
+     "When you can explain past events using scientific evidence, you're almost a 'historian'!"
+    ],
+    [
+     "Nhật Minh",
+     "Bình luận nhé: món đồ nào trong nhà cậu có thể là một bằng chứng lịch sử?",
+     "Comment below: what in your home could be a piece of historical evidence?"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tư liệu gốc là tư liệu",
+   "dap_an": [
+    "Cung cấp thông tin đầu tiên và trực tiếp về sự kiện",
+    "Được tổng hợp lại từ nhiều sách khác",
+    "Do học sinh tự viết ra",
+    "Chỉ gồm các câu chuyện cổ tích"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Thần thoại, truyền thuyết, cổ tích được kể từ đời này qua đời khác thuộc loại tư liệu nào?",
+   "dap_an": [
+    "Tư liệu hiện vật",
+    "Tư liệu chữ viết",
+    "Tư liệu truyền miệng",
+    "Tư liệu gốc"
+   ],
+   "dung": 2,
+   "trang": 13
+  },
+  {
+   "hoi": "Những bản ghi, tài liệu chép tay hay sách được in, khắc chữ được gọi chung là",
+   "dap_an": [
+    "Tư liệu chữ viết",
+    "Tư liệu hiện vật",
+    "Tư liệu truyền miệng",
+    "Tư liệu thứ cấp"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Nguồn tư liệu đáng tin cậy nhất khi tìm hiểu lịch sử là",
+   "dap_an": [
+    "Tư liệu gốc",
+    "Tư liệu thứ cấp",
+    "Lời đồn",
+    "Trò chơi điện tử"
+   ],
+   "dung": 0,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 11 (phần mở đầu – nhà sử học giống thám tử, tư liệu lịch sử; mục 1), tr. 12 (mục 2), tr. 13 (mục 3, 4 – tư liệu gốc, thứ cấp; câu 'sắp trở thành nhà sử học'). Kiến thức chốt của danh mục khớp SGK. Thẻ ghi nhớ chỉ dùng định nghĩa rút gọn đúng SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

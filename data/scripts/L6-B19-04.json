@@ -1,0 +1,508 @@
+{
+ "ma": "L6-B19-04",
+ "ten_tap": "Chăm-pa: Di sản trường tồn cùng thời gian",
+ "ten_tap_en": "Champa: A Heritage That Stands the Test of Time",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 19. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+  "trang": [
+   86,
+   89,
+   90
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-cham-pa",
+  "nguoi-cham",
+  "nghe-nhan-dieu-khac-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, sâu lắng (trống Ghi-năng, kèn Sa-ra-nai gợi âm hưởng Chăm); rộn ràng ở đoạn lễ hội Ka-tê",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện cư dân Chăm-pa xưa mang tính minh hoạ; đài thờ Trà Kiệu, bia đá vẽ theo Hình 1, Hình 5 SGK; cảnh lễ hội Ka-tê ngày nay vẽ minh hoạ, tôn trọng văn hoá dân tộc Chăm. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 19, tr. 86, 89–90.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, đội mũ rộng vành) đứng giữa Thánh địa Mỹ Sơn ngày nay: những ngôi tháp gạch đỏ cổ kính phủ rêu trong thung lũng xanh, núi rừng bao quanh, vài du khách xa xa, nắng sớm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở Thánh địa Mỹ Sơn, thành phố Đà Nẵng. Năm 1999, nơi đây được UNESCO ghi danh là Di sản văn hoá thế giới.",
+     "We're at the Mỹ Sơn Sanctuary in Đà Nẵng. In 1999, UNESCO listed it as a World Cultural Heritage site."
+    ],
+    [
+     "Nhật Minh",
+     "Những ngôi tháp này là di sản của cư dân Chăm-pa xưa. Họ còn để lại những gì nữa nhỉ? Đi xem nào!",
+     "These towers are the legacy of the ancient Champa people. What else did they leave behind? Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    89,
+    90
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ IV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Trong một ngôi nhà gỗ thời Chăm-pa, một người thư lại ngồi bên án thư thấp, dùng bút ghi những dòng chữ uốn lượn lên lá buông và tấm da; bên cạnh, một tấm bản mẫu chữ Ấn Độ để so sánh; ánh đèn dầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sáng tạo ra chữ viết riêng cho dân tộc mình là thành tựu văn hoá nổi bật của cư dân Chăm-pa.",
+     "Creating their own script was a standout cultural achievement of the Champa people."
+    ],
+    [
+     "Hân Hân",
+     "Họ dùng chữ Phạn để ghi chép. Rồi từ thế kỉ IV, họ cải biên chữ viết của người Ấn Độ để tạo thành hệ thống chữ Chăm cổ.",
+     "They wrote in Sanskrit, and from the 4th century they adapted Indian script to create the Old Cham writing system."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghe-nhan-dieu-khac-co-dai"
+   ],
+   "hinh": "Người thợ đá Chăm-pa xưa đang khắc những hàng chữ Phạn lên một tấm bia đá dựng đứng (vẽ theo Hình 5 SGK), bụi đá bay, búa và đục trong tay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tấm bia khắc chữ Phạn như thế này đã được tìm thấy ở xã Mỹ Sơn, thành phố Đà Nẵng.",
+     "A stele carved in Sanskrit like this one was found in Mỹ Sơn commune, Đà Nẵng."
+    ],
+    [
+     "Hân Hân",
+     "Hiện nay, tấm bia được trưng bày tại Bảo tàng Điêu khắc Chăm Đà Nẵng.",
+     "Today it's on display at the Đà Nẵng Museum of Cham Sculpture."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cư dân Chăm-pa cải biên chữ viết của người nước nào để tạo ra chữ Chăm cổ?",
+    "lua_chon": [
+     "Trung Quốc",
+     "Ấn Độ",
+     "Ả Rập"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cư dân Chăm-pa cải biên chữ viết của người nước nào để tạo ra chữ Chăm cổ?",
+     "Pause! Whose writing did the Champa people adapt to create Old Cham?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Ấn Độ!",
+     "The answer is B: India!"
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Bên cánh đồng lúa chín vùng ven biển miền Trung thời xưa, cư dân Chăm-pa dâng lễ vật (lúa, hoa, trái cây) hướng về phía mặt trời mọc trên núi; xa xa là biển xanh và một ngôi tháp gạch",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân Chăm-pa xưa theo nhiều tín ngưỡng: thờ thần Mặt Trời, thần Núi, thần Nước, thần Lúa…",
+     "The ancient Champa people had many beliefs: they worshipped gods of the Sun, the Mountain, Water and Rice…"
+    ],
+    [
+     "Hân Hân",
+     "Họ còn du nhập một số tôn giáo lớn từ bên ngoài như Phật giáo và Bà La Môn giáo.",
+     "They also brought in major religions from abroad, such as Buddhism and Brahmanism."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa",
+    "nghe-nhan-dieu-khac-co-dai"
+   ],
+   "hinh": "Thợ Chăm-pa xưa đang xây một ngôi tháp gạch đỏ cao giữa thung lũng: người xếp gạch, người kéo gạch lên giàn tre, nghệ nhân chạm hoa văn lên mặt gạch; tháp đã cao quá nửa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính sự đa dạng về tín ngưỡng và tôn giáo đã góp phần tạo nên những thành tựu đặc sắc về kiến trúc và điêu khắc Chăm-pa.",
+     "This rich mix of beliefs and religions helped create Champa's remarkable architecture and sculpture."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép sau gốc cây cổ thụ, ngắm khu đền tháp Mỹ Sơn thời Chăm-pa còn nguyên vẹn, gạch đỏ tươi, chạm khắc sắc nét; đoàn người Chăm xưa mang lễ vật đi vào tháp; khói hương",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Oa, các tháp còn mới tinh! Đây là Thánh địa Mỹ Sơn thời Chăm-pa.",
+     "Wow, the towers look brand new! This is Mỹ Sơn in Champa times."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều di sản Chăm-pa còn tồn tại đến ngày nay như Thánh địa Mỹ Sơn, Phật viện Đồng Dương và nhiều đền tháp Chăm khác ở ven biển miền Trung.",
+     "Many Champa heritage sites survive today, like Mỹ Sơn, the Đồng Dương Buddhist monastery and many other Cham towers along the central coast."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghe-nhan-dieu-khac-co-dai"
+   ],
+   "hinh": "Nghệ nhân Chăm-pa xưa đang hoàn thiện đài thờ Trà Kiệu bằng đá (vẽ theo Hình 1 SGK): bệ thờ vuông, quanh thành bệ chạm nổi những hình người đang múa, chơi nhạc; ánh đuốc ấm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là đài thờ Trà Kiệu, một kiệt tác điêu khắc Chăm-pa thế kỉ VII – VIII.",
+     "And this is the Trà Kiệu altar, a masterpiece of Champa sculpture from the 7th–8th century."
+    ],
+    [
+     "Hân Hân",
+     "Đài thờ được tìm thấy ở xã Duy Xuyên, thành phố Đà Nẵng, và cũng đang trưng bày tại Bảo tàng Điêu khắc Chăm Đà Nẵng.",
+     "It was found in Duy Xuyên commune, Đà Nẵng, and is also on display at the Đà Nẵng Museum of Cham Sculpture."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thánh địa Mỹ Sơn được UNESCO ghi danh là Di sản văn hoá thế giới năm nào?",
+    "lua_chon": [
+     "Năm 1999",
+     "Năm 2006",
+     "Năm 1975"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Thánh địa Mỹ Sơn được UNESCO ghi danh là Di sản văn hoá thế giới năm nào?",
+     "Quick test! In what year did UNESCO list Mỹ Sơn as World Cultural Heritage?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: năm 1999!",
+     "The answer is A: 1999!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Một lễ hội của cư dân Chăm-pa xưa trước sân tháp: người đánh trống, thổi kèn, thiếu nữ múa trong trang phục truyền thống, mâm lễ vật lúa gạo, hoa quả; cả làng tụ hội, vui tươi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều lễ hội được tổ chức trong năm cho thấy đời sống tinh thần rất phong phú của cư dân Chăm-pa xưa.",
+     "Many festivals throughout the year show how rich the spiritual life of the ancient Champa people was."
+    ],
+    [
+     "Nhật Minh",
+     "Các lễ hội thường cầu mong cuộc sống tốt đẹp, mùa màng bội thu, xã hội yên bình và hưng thịnh.",
+     "They usually prayed for a good life, bumper harvests, and a peaceful, prosperous society."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở rìa sân một cụm đền tháp Chăm ở Khánh Hoà ngày nay trong ngày lễ hội Ka-tê: đồng bào Chăm mặc trang phục truyền thống trắng, đội lễ vật đi về phía tháp, tiếng trống rộn ràng; hai bạn đứng xem lặng lẽ, tôn trọng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong các lễ hội ấy, tiêu biểu nhất là lễ hội Ka-tê, lễ hội dân gian đặc sắc nhất của dân tộc Chăm, đến nay vẫn được tổ chức.",
+     "Of these, the most famous is Kate, the most distinctive folk festival of the Cham people, still held today."
+    ],
+    [
+     "Hân Hân",
+     "Đây là dịp người Chăm dâng lễ vật tri ân các vị thần và tưởng nhớ tổ tiên.",
+     "It's when the Cham make offerings to thank the gods and remember their ancestors."
+    ],
+    [
+     "Nhật Minh",
+     "Lễ hội tổ chức vào tháng 9 đến đầu tháng 10 dương lịch, tại các cụm đền tháp Chăm nổi tiếng ở tỉnh Khánh Hoà và vùng duyên hải tỉnh Lâm Đồng hiện nay.",
+     "It's held from September to early October at famous Cham tower sites in Khánh Hoà province and the coast of today's Lâm Đồng province."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lễ hội dân gian đặc sắc nhất của dân tộc Chăm là",
+    "lua_chon": [
+     "Lễ hội Ka-tê",
+     "Tết Té nước Song-kran",
+     "Lễ hội tắm sông Hằng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lễ hội dân gian đặc sắc nhất của dân tộc Chăm là lễ hội nào?",
+     "Pause! What is the most distinctive folk festival of the Cham people?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: lễ hội Ka-tê!",
+     "The answer is A: the Kate festival!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · DI SẢN CHĂM-PA",
+   "moc": [
+    [
+     "Thế kỉ IV",
+     "Chữ Chăm cổ ra đời"
+    ],
+    [
+     "Thế kỉ VII – VIII",
+     "Đài thờ Trà Kiệu"
+    ],
+    [
+     "Năm 1999",
+     "Mỹ Sơn: Di sản văn hoá thế giới"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng tóm tắt nhé! Từ thế kỉ IV, cư dân Chăm-pa tạo ra chữ Chăm cổ.",
+     "Recap! From the 4th century, the Champa people created Old Cham script."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ VII – VIII, đài thờ Trà Kiệu ra đời, một kiệt tác điêu khắc.",
+     "In the 7th–8th century came the Trà Kiệu altar, a sculptural masterpiece."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 1999, Thánh địa Mỹ Sơn được UNESCO ghi danh là Di sản văn hoá thế giới.",
+     "And in 1999, Mỹ Sơn was listed by UNESCO as World Cultural Heritage."
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    89,
+    90
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại Thánh địa Mỹ Sơn ngày nay lúc chiều muộn, nắng vàng trên những ngôi tháp gạch đỏ, hai bạn ngồi trên bậc đá nhìn quanh, nét mặt tự hào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chữ viết, đền tháp, đài thờ, lễ hội… Cư dân Chăm-pa đã để lại một kho di sản thật phong phú.",
+     "Writing, towers, altars, festivals… The Champa people left behind a truly rich heritage."
+    ],
+    [
+     "Nhật Minh",
+     "Và nhiều di sản ấy vẫn còn tồn tại đến ngày nay, ngay trên đất nước mình.",
+     "And much of it still survives today, right here in our country."
+    ]
+   ],
+   "nguon_trang": [
+    89,
+    90
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ thế kỉ IV: cải biên chữ Ấn Độ thành chữ Chăm cổ",
+    "Tín ngưỡng đa dạng; du nhập Phật giáo, Bà La Môn giáo",
+    "Kiến trúc, điêu khắc: Mỹ Sơn, Phật viện Đồng Dương, đài thờ Trà Kiệu",
+    "Lễ hội Ka-tê: tri ân thần linh, tưởng nhớ tổ tiên"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ thế kỉ IV, cư dân Chăm-pa cải biên chữ viết Ấn Độ thành chữ Chăm cổ.",
+     "Remember: from the 4th century, the Champa people adapted Indian script into Old Cham."
+    ],
+    [
+     "Hân Hân",
+     "Họ theo nhiều tín ngưỡng, du nhập Phật giáo và Bà La Môn giáo.",
+     "They had many beliefs and adopted Buddhism and Brahmanism."
+    ],
+    [
+     "Nhật Minh",
+     "Kiến trúc, điêu khắc tiêu biểu: Thánh địa Mỹ Sơn, Phật viện Đồng Dương, đài thờ Trà Kiệu.",
+     "Signature architecture and sculpture: Mỹ Sơn, Đồng Dương monastery, the Trà Kiệu altar."
+    ],
+    [
+     "Hân Hân",
+     "Lễ hội Ka-tê là dịp tri ân các vị thần và tưởng nhớ tổ tiên.",
+     "The Kate festival honours the gods and the ancestors."
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    89,
+    90
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trước một ngôi tháp gạch đỏ ở Mỹ Sơn, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, chúng ta cần làm gì để bảo tồn và phát huy giá trị của những di tích Chăm-pa? Bình luận ý tưởng của cậu nhé!",
+     "Your challenge: what should we do to preserve and promote Champa's heritage sites? Share your ideas in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ thế kỉ nào, cư dân Chăm-pa đã tạo ra hệ thống chữ Chăm cổ?",
+   "dap_an": [
+    "Thế kỉ II",
+    "Thế kỉ IV",
+    "Thế kỉ VIII",
+    "Thế kỉ X"
+   ],
+   "dung": 1,
+   "trang": 89
+  },
+  {
+   "hoi": "Hai tôn giáo lớn được cư dân Chăm-pa du nhập từ bên ngoài là",
+   "dap_an": [
+    "Phật giáo và Bà La Môn giáo",
+    "Nho giáo và Đạo giáo",
+    "Hồi giáo và Thiên Chúa giáo",
+    "Đạo giáo và Phật giáo"
+   ],
+   "dung": 0,
+   "trang": 89
+  },
+  {
+   "hoi": "Đài thờ Trà Kiệu là kiệt tác điêu khắc Chăm-pa thuộc thế kỉ nào?",
+   "dap_an": [
+    "Thế kỉ II – III",
+    "Thế kỉ VII – VIII",
+    "Thế kỉ X – XI",
+    "Thế kỉ XV"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "Lễ hội Ka-tê được tổ chức vào thời gian nào?",
+   "dap_an": [
+    "Tháng 1 – tháng 2 dương lịch",
+    "Tháng 9 – đầu tháng 10 dương lịch",
+    "Tháng 5 âm lịch",
+    "Tháng 12 dương lịch"
+   ],
+   "dung": 1,
+   "trang": 90
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 86 (Hình 1 – đài thờ Trà Kiệu), tr. 89 (mục 3a, 3b, Hình 5), tr. 90 (Hình 6, mục 3c, ô Em có biết về Ka-tê – đã đối chiếu ảnh trang: 'tháng 9 – đầu tháng 10 dương lịch'; OCR đọc '10' thành 'I0' nên công cụ kiểm tra có thể báo số 10 ở cảnh 12, số này đúng theo ảnh trang). Địa danh hành chính dùng đúng như SGK ghi (xã Mỹ Sơn, xã Duy Xuyên, thành phố Đà Nẵng; tỉnh Khánh Hoà, tỉnh Lâm Đồng). Hiệu đính kiến thức chốt của danh mục: SGK viết 'cải biên chữ viết của người Ấn Độ để tạo thành chữ Chăm cổ' (từ thế kỉ IV), đồng thời vẫn dùng chữ Phạn; tôn giáo du nhập là Phật giáo và Bà La Môn giáo. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

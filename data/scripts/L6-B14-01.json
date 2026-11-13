@@ -1,0 +1,362 @@
+{
+ "ma": "L6-B14-01",
+ "ten_tap": "Nhà nước Văn Lang ra đời thế nào?",
+ "ten_tap_en": "How Was the State of Văn Lang Born?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+  "trang": [
+   60,
+   61,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vua-hung",
+  "nguoi-viet-co"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào, âm hưởng trống đồng và sáo trúc",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện thời Văn Lang mang tính minh hoạ; Hùng Vương vẽ theo hình tượng truyền thống, không có lời thoại dựng; sơ đồ tổ chức vẽ lại theo Hình 2 SGK tr. 61. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 14, tr. 60–61, 64.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Lễ hội Đền Hùng (Phú Thọ) ngày nay: dòng người đông vui đi lên đền, cờ hội rực rỡ, đoàn rước kiệu; Nhật Minh và Hân Hân (đồng phục FPT) đứng bên lối đi, Hân Hân đọc câu ca dao",
+   "loi": [
+    [
+     "Hân Hân",
+     "“Dù ai đi ngược về xuôi, nhớ ngày giỗ Tổ mùng Mười tháng Ba.” Từ lâu đời, tín ngưỡng thờ cúng Hùng Vương đã ăn sâu vào tâm thức người Việt.",
+     "'Wherever you roam, remember the Ancestors' Day on the tenth of the third lunar month.' Worship of the Hùng Kings has long been rooted in Vietnamese hearts."
+    ],
+    [
+     "Nhật Minh",
+     "Hùng Vương đứng đầu nhà nước đầu tiên của người Việt cổ, Nhà nước Văn Lang. Nhà nước ấy ra đời thế nào nhỉ?",
+     "The Hùng King led the first state of the ancient Việt people, Văn Lang. How was it born?"
+    ]
+   ],
+   "nguon_trang": [
+    60,
+    61
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VII TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Làng Việt cổ ven sông: người nông dân cày ruộng bằng lưỡi cày đồng, thợ rèn đập sắt bên lò, thợ đúc đồng đổ khuôn; ruộng lúa nước trải dài",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vào khoảng thế kỉ VII trước Công nguyên, nhờ sự phát triển của công cụ bằng đồng và sắt, đời sống sản xuất của người Việt cổ đã chuyển biến rõ rệt.",
+     "Around the 7th century BCE, thanks to better bronze and iron tools, the ancient Việt people's way of producing changed markedly."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê đất, nhìn người dân nhiều làng cùng nhau khiêng đất đắp đê, đào mương dẫn nước vào đồng; ai nấy hăng hái",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn kìa, dân nhiều làng cùng nhau đắp đê, đào mương!",
+     "Look, people from many villages are building dykes and digging canals together!"
+    ],
+    [
+     "Nhật Minh",
+     "Nhu cầu chung sống, cùng làm thuỷ lợi đã gắn bó mọi người lại với nhau.",
+     "The need to live together and manage water bound them together."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Trai tráng người Việt cổ cầm giáo đồng, rìu đồng đứng thành hàng ở cửa làng, sẵn sàng bảo vệ quê hương; phía sau là nhà sàn và trống đồng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng với nhu cầu chống ngoại xâm, những điều đó đã thúc đẩy sự ra đời của nhà nước đầu tiên ở Việt Nam: Nhà nước Văn Lang.",
+     "Together with the need to resist invaders, this led to the first state in Việt Nam: Văn Lang."
+    ],
+    [
+     "Nhật Minh",
+     "Địa bàn chủ yếu của nước Văn Lang gắn với lưu vực các dòng sông lớn ở Bắc Bộ và Bắc Trung Bộ ngày nay.",
+     "Văn Lang's heartland lay in the basins of the great rivers of today's North and North Central regions."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà nước Văn Lang ra đời vào khoảng thời gian nào?",
+    "lua_chon": [
+     "Khoảng thế kỉ VII TCN",
+     "Khoảng năm 208 TCN",
+     "Năm 938"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nhà nước Văn Lang ra đời vào khoảng thời gian nào?",
+     "Pause! When did the state of Văn Lang come into being?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: khoảng thế kỉ VII trước Công nguyên!",
+     "The answer is A: around the 7th century BCE!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-hung",
+    "nguoi-viet-co"
+   ],
+   "hinh": "Sân rộng trước nhà sàn lớn của Hùng Vương: Hùng Vương đội mũ lông chim, mặc áo choàng, ngồi giữa; các Lạc hầu đứng bên, các Lạc tướng đứng đầu các bộ đến chầu, mang theo cờ hiệu riêng (không chữ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nước Văn Lang chia làm 15 bộ. Đứng đầu liên minh 15 bộ là Hùng Vương.",
+     "Văn Lang was divided into 15 tribal regions, led by the Hùng King."
+    ],
+    [
+     "Hân Hân",
+     "Tương truyền, Hùng Vương trải qua 18 đời, cha truyền con nối.",
+     "Legend says there were 18 generations of Hùng Kings, passed from father to son."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "SƠ ĐỒ TỔ CHỨC NHÀ NƯỚC VĂN LANG",
+   "y": [
+    "Trung ương: Hùng Vương, Lạc hầu",
+    "Bộ: Lạc tướng đứng đầu",
+    "Chiềng, chạ: Bồ chính đứng đầu"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng xem sơ đồ nhé! Ở trung ương có Hùng Vương và các Lạc hầu.",
+     "Let's see the chart! At the centre: the Hùng King and the Lạc hầu ministers."
+    ],
+    [
+     "Nhật Minh",
+     "Mỗi bộ do một Lạc tướng đứng đầu.",
+     "Each region was headed by a Lạc tướng."
+    ],
+    [
+     "Hân Hân",
+     "Dưới bộ là các chiềng, chạ, do Bồ chính đứng đầu.",
+     "Below the regions were villages, the chiềng and chạ, headed by Bồ chính elders."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đứng đầu các chiềng, chạ trong Nhà nước Văn Lang?",
+    "lua_chon": [
+     "Lạc tướng",
+     "Bồ chính",
+     "Lạc hầu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Ai đứng đầu các chiềng, chạ trong Nhà nước Văn Lang?",
+     "Quick test! Who headed the villages in Văn Lang?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Bồ chính!",
+     "The answer is B: the Bồ chính!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Toàn cảnh một vùng đồng bằng ven sông thời Văn Lang lúc bình minh: làng mạc nhà sàn nối tiếp, ruộng lúa, thuyền trên sông, tiếng trống đồng vang xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy còn sơ khai, chưa có pháp luật thành văn và chữ viết,",
+     "Though still simple, with no written laws or script,"
+    ],
+    [
+     "Nhật Minh",
+     "nhưng sự ra đời của Nhà nước Văn Lang đã mở ra thời kì dựng nước đầu tiên trong lịch sử dân tộc!",
+     "the birth of Văn Lang opened the first era of nation-building in our history!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Khoảng thế kỉ VII TCN: Nhà nước Văn Lang ra đời",
+    "Nguyên nhân: công cụ đồng, sắt; nhu cầu làm thuỷ lợi, chống ngoại xâm",
+    "15 bộ, đứng đầu là Hùng Vương (tương truyền 18 đời)",
+    "Mở ra thời kì dựng nước đầu tiên của dân tộc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: khoảng thế kỉ VII trước Công nguyên, Nhà nước Văn Lang ra đời.",
+     "Remember: around the 7th century BCE, Văn Lang was born."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ công cụ đồng, sắt, cùng nhu cầu làm thuỷ lợi và chống ngoại xâm.",
+     "Thanks to bronze and iron tools, and the need for water management and defence."
+    ],
+    [
+     "Nhật Minh",
+     "Nước chia làm 15 bộ, đứng đầu là Hùng Vương.",
+     "It had 15 regions, led by the Hùng King."
+    ],
+    [
+     "Hân Hân",
+     "Văn Lang mở ra thời kì dựng nước đầu tiên của dân tộc.",
+     "Văn Lang opened our nation's first era of state-building."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng giữa không khí lễ hội Đền Hùng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: Lễ hội Đền Hùng được tổ chức vào ngày mùng 10 tháng 3 âm lịch hằng năm. Theo cậu, lễ hội có ý nghĩa như thế nào? Bình luận nhé!",
+     "Your challenge: the Hùng Temple Festival is held every year on the 10th day of the 3rd lunar month. What does it mean to you? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà nước đầu tiên ở Việt Nam là",
+   "dap_an": [
+    "Âu Lạc",
+    "Văn Lang",
+    "Chăm-pa",
+    "Phù Nam"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Nước Văn Lang được chia làm bao nhiêu bộ?",
+   "dap_an": [
+    "10 bộ",
+    "15 bộ",
+    "18 bộ",
+    "20 bộ"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Đứng đầu mỗi bộ trong Nhà nước Văn Lang là",
+   "dap_an": [
+    "Lạc hầu",
+    "Lạc tướng",
+    "Bồ chính",
+    "Hùng Vương"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Yếu tố nào KHÔNG phải là nguyên nhân dẫn đến sự ra đời của Nhà nước Văn Lang?",
+   "dap_an": [
+    "Sự phát triển của công cụ bằng đồng và sắt",
+    "Nhu cầu cùng làm thuỷ lợi",
+    "Nhu cầu chống ngoại xâm",
+    "Có pháp luật thành văn và chữ viết"
+   ],
+   "dung": 3,
+   "trang": 61
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 60 (câu ca dao, đoạn mở đầu), tr. 61 (mục 1) và ảnh trang (Hình 2 – sơ đồ tổ chức: Trung ương – Hùng Vương, Lạc hầu; Bộ – Lạc tướng; Chiềng, chạ – Bồ chính), tr. 64 (câu Vận dụng 3 về Lễ hội Đền Hùng 10 – 3 âm lịch). Kiến thức chốt của danh mục khớp SGK; bổ sung yếu tố 'nhu cầu chung sống' và 'công cụ đồng, sắt' theo SGK. Không dựng lời thoại cho Hùng Vương (nhân vật được tôn thờ, SGK không có lời).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

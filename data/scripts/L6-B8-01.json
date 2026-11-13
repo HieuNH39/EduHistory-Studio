@@ -1,0 +1,343 @@
+{
+ "ma": "L6-B8-01",
+ "ten_tap": "Bí ẩn xứ sở các dòng sông",
+ "ten_tap_en": "Secrets of the Land of Rivers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 8. Ấn Độ cổ đại",
+  "trang": [
+   34,
+   35
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-luu-vuc-song-an",
+  "cu-dan-luu-vuc-song-hang"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, rộng lớn, âm hưởng Nam Á (đàn dây, trống tay)",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh địa hình và cư dân cổ mang tính minh hoạ; cảnh lễ hội ngày nay chỉ xuất hiện trên màn hình ti vi, vẽ tôn trọng tín ngưỡng. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 8, tr. 34–35.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi trên sofa trong phòng khách, xem ti vi đang chiếu phóng sự: dòng người đông đúc trong trang phục nhiều màu xuống tắm trên một dòng sông lớn lúc bình minh (hình nhỏ, xa, không rõ mặt)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là lễ hội tắm nước sông Hằng, một trong những lễ hội tôn giáo cổ và lớn nhất thế giới.",
+     "This is the Ganges bathing festival, one of the oldest and largest religious festivals in the world."
+    ],
+    [
+     "Nhật Minh",
+     "Tín đồ Ấn Độ giáo tin rằng nước sông Hằng linh thiêng sẽ tẩy rửa mọi tội lỗi. Những dòng sông quan trọng với người Ấn Độ đến vậy sao?",
+     "Hindu believers hold that the Ganges' sacred water washes away all sins. Are rivers really that important in India?"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ấn Độ cổ đại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Toàn cảnh nhìn từ trên cao xuống bán đảo Ấn Độ hình tam giác nhô ra đại dương, ba mặt là biển xanh, những con thuyền buồm cổ đi dọc tuyến đường biển từ tây sang đông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ấn Độ là một bán đảo ở Nam Á, có ba mặt giáp biển, nằm trên trục đường biển từ Tây sang Đông.",
+     "India is a peninsula in South Asia, bordered by sea on three sides and lying on the sea route between West and East."
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Dãy núi tuyết Hi-ma-lay-a hùng vĩ uốn thành vòng cung ở phía bắc, sườn núi thoải dần xuống những đồng bằng phù sa rộng lớn có hai dòng sông lớn uốn lượn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phía bắc được bao bọc bởi một vòng cung khổng lồ là dãy Hi-ma-lay-a.",
+     "In the north, it's ringed by a gigantic arc: the Himalayas."
+    ],
+    [
+     "Nhật Minh",
+     "Thoải dần về phía nam là đồng bằng sông Ấn, sông Hằng rộng lớn. Chính nơi đây đã hình thành những trung tâm văn minh sớm nhất của nhân loại.",
+     "Sloping south are the vast plains of the Indus and the Ganges, where some of humanity's earliest centres of civilisation arose."
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phía bắc Ấn Độ được bao bọc bởi",
+    "lua_chon": [
+     "Dãy Hi-ma-lay-a",
+     "Cao nguyên Đê-can",
+     "Vịnh Ben-gan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Phía bắc Ấn Độ được bao bọc bởi đâu?",
+     "Pause! What surrounds India to the north?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: dãy Hi-ma-lay-a!",
+     "The answer is A: the Himalayas!"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-song-an"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, đội mũ che nắng) đứng bên bờ sông Ấn thời cổ đại, trời nắng gắt, đất khô cằn, cồn cát xa xa; cư dân cổ gánh nước từ sông lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nóng quá! Lưu vực sông Ấn chịu tác động của sa mạc nên rất ít mưa, khí hậu khô nóng.",
+     "So hot! The Indus valley is affected by the desert, so it gets little rain and is hot and dry."
+    ],
+    [
+     "Nhật Minh",
+     "Con sông này dài gần 3 000 ki-lô-mét đấy!",
+     "This river is nearly 3,000 kilometres long!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-song-hang"
+   ],
+   "hinh": "Lưu vực sông Hằng thời cổ đại trong mùa mưa: mây đen kéo đến, mưa rào trên những cánh rừng và đồng ruộng xanh mướt, cư dân cổ che lá chuối đi trên bờ ruộng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn ở lưu vực sông Hằng, do tác động của gió mùa nên lượng mưa nhiều, cây cối tươi tốt.",
+     "In the Ganges valley, the monsoon brings plenty of rain, and plants grow lush."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Cao nguyên Đê-can thời cổ: rừng rậm phủ kín, núi đá dựng đứng hiểm trở; xa phía nam là dải đồng bằng nhỏ hẹp ven biển với làng mạc đông đúc, thuyền đánh cá",
+   "loi": [
+    [
+     "Hân Hân",
+     "Miền Trung và miền Nam là cao nguyên Đê-can với rừng rậm và núi đá hiểm trở.",
+     "The centre and south are the Deccan Plateau, with dense forests and rugged rocky hills."
+    ],
+    [
+     "Nhật Minh",
+     "Chỉ có vùng cực Nam và hai bờ ven biển là những đồng bằng nhỏ hẹp, nơi sinh sống thuận lợi, dân cư đông đúc.",
+     "Only the far south and the coasts have small, narrow plains, easier to live on and densely populated."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-song-an"
+   ],
+   "hinh": "Bên bờ sông Ấn thời cổ, đoàn thương nhân Ba Tư dắt lạc đà gặp cư dân bản địa; một người bản địa chỉ tay ra dòng sông, người Ba Tư nhắc lại tên gọi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo tiếng Phạn, sông Ấn gọi là Sin-đu. Về sau, người Ba Tư đọc thành Hin-du.",
+     "In Sanskrit, the Indus was called Sindhu. Later, the Persians said it as Hindu."
+    ],
+    [
+     "Nhật Minh",
+     "Họ gọi bán đảo Ấn Độ là Hin-du-xtan, nghĩa là “xứ sở các con sông”!",
+     "They called the Indian peninsula Hindustan: 'the land of rivers'!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "“Hin-du-xtan” có nghĩa là gì?",
+    "lua_chon": [
+     "Xứ sở các con sông",
+     "Đất nước của núi tuyết",
+     "Vùng đất sa mạc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! “Hin-du-xtan” có nghĩa là gì?",
+     "Quick test! What does 'Hindustan' mean?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: xứ sở các con sông!",
+     "The answer is A: the land of rivers!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Bán đảo ở Nam Á, ba mặt giáp biển, trên trục đường biển Tây – Đông",
+    "Phía bắc: dãy Hi-ma-lay-a; miền Trung, Nam: cao nguyên Đê-can",
+    "Sông Ấn: ít mưa, khô nóng · Sông Hằng: gió mùa, mưa nhiều",
+    "Đồng bằng sông Ấn, sông Hằng: trung tâm văn minh sớm nhất"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Ấn Độ là bán đảo ở Nam Á, ba mặt giáp biển, nằm trên trục đường biển từ Tây sang Đông.",
+     "Remember: India is a South Asian peninsula, with sea on three sides, on the West–East sea route."
+    ],
+    [
+     "Hân Hân",
+     "Phía bắc là dãy Hi-ma-lay-a; miền Trung và miền Nam là cao nguyên Đê-can.",
+     "The Himalayas lie to the north; the Deccan Plateau covers the centre and south."
+    ],
+    [
+     "Nhật Minh",
+     "Lưu vực sông Ấn ít mưa, khô nóng; lưu vực sông Hằng mưa nhiều nhờ gió mùa.",
+     "The Indus valley is dry and hot; the Ganges valley is rainy thanks to the monsoon."
+    ],
+    [
+     "Hân Hân",
+     "Đồng bằng sông Ấn, sông Hằng là nơi hình thành những trung tâm văn minh sớm nhất.",
+     "The Indus and Ganges plains were home to the earliest centres of civilisation."
+    ]
+   ],
+   "nguon_trang": [
+    34,
+    35
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại phòng khách, ti vi đã tắt; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao Ấn Độ ngày nay đã là một cường quốc kinh tế mà vẫn duy trì những phong tục cổ xưa như lễ hội tắm sông Hằng? Bình luận suy nghĩ của cậu nhé!",
+     "Your challenge: why does India, an economic power today, still keep ancient customs like the Ganges bathing festival? Share your thoughts in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ấn Độ là một bán đảo thuộc khu vực nào?",
+   "dap_an": [
+    "Nam Á",
+    "Đông Á",
+    "Tây Nam Á",
+    "Đông Nam Á"
+   ],
+   "dung": 0,
+   "trang": 34
+  },
+  {
+   "hoi": "Lưu vực sông Ấn có khí hậu như thế nào?",
+   "dap_an": [
+    "Mưa nhiều, cây cối tươi tốt",
+    "Rất ít mưa, khô nóng",
+    "Lạnh giá quanh năm",
+    "Ẩm ướt do gió mùa"
+   ],
+   "dung": 1,
+   "trang": 35
+  },
+  {
+   "hoi": "Theo tiếng Phạn, sông Ấn được gọi là",
+   "dap_an": [
+    "Sin-đu",
+    "Hin-du-xtan",
+    "Hằng",
+    "Đê-can"
+   ],
+   "dung": 0,
+   "trang": 35
+  },
+  {
+   "hoi": "Những trung tâm văn minh sớm nhất của Ấn Độ hình thành ở",
+   "dap_an": [
+    "Cao nguyên Đê-can",
+    "Đồng bằng sông Ấn, sông Hằng",
+    "Dãy Hi-ma-lay-a",
+    "Các đảo ngoài khơi"
+   ],
+   "dung": 1,
+   "trang": 34
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 34 (phần mở đầu – lễ hội tắm nước sông Hằng, chú thích Hình 1; mục 1 đoạn đầu) và tr. 35 (mục 1 tiếp, ô về sông Ấn – Sin-đu, Hin-du, Hin-du-xtan). Hiệu đính kiến thức chốt của danh mục: SGK không dùng cụm 'cái nôi của văn minh Ấn Độ' mà viết 'chính nơi đây đã hình thành nên những trung tâm văn minh sớm nhất của nhân loại'. Câu hỏi cuối là câu hỏi mở của SGK tr. 34. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

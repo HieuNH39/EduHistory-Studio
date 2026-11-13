@@ -1,0 +1,510 @@
+{
+ "ma": "L9-CD2-05",
+ "ten_tap": "Cùng chung tay ứng phó",
+ "ten_tap_en": "Joining Hands to Respond",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chuyên đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long",
+  "trang": [
+   226,
+   227,
+   228,
+   229
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-dong-dan-cu-dia-phuong"
+ ],
+ "nhac": {
+  "tam_trang": "trầm ở phần tác động, tươi sáng và hi vọng ở phần biện pháp; nhịp vừa phải",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; số liệu và nội dung dựa trên SGK Lịch sử và Địa lí 9, Chuyên đề 2, tr. 226–229.",
+ "chinh_sach_hinh": "Nội dung hiện tại: cảnh dẫn chuyện của Minh – Hân dựng hình minh hoạ; không vẽ người thật cụ thể; ảnh công trình, địa điểm dùng ảnh thật có giấy phép, ghi nguồn; số liệu, biện pháp trình bày bằng thẻ chữ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, đội nón lá) đứng trên bờ kênh giữa cánh đồng lúa ở đồng bằng sông Cửu Long ngày nay, xa xa là cống ngăn mặn và hàng cây; nắng gắt mùa khô, mặt ruộng hơi nứt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Biến đổi khí hậu đang tác động mạnh đến hai vùng châu thổ lớn của nước ta: sông Hồng và sông Cửu Long.",
+     "Climate change is hitting our two great deltas hard: the Red River and the Mekong."
+    ],
+    [
+     "Nhật Minh",
+     "Hai châu thổ cần chung tay ứng phó như thế nào? Cùng tìm hiểu nhé!",
+     "How can the two deltas work together to respond? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    226,
+    228
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1961 – 2020",
+   "thoi_luong": 2.2
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "NHIỆT ĐỘ TRUNG BÌNH NĂM TĂNG (Bảng 1)",
+   "y": [
+    "Thái Bình (Hưng Yên): 23,2 °C (1961 – 1970) → 24,0 °C (2011 – 2020)",
+    "Cần Thơ: 26,5 °C (1961 – 1970) → 27,6 °C (2011 – 2020)"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1961 – 2020, nhiệt độ trung bình năm có xu thế tăng ở cả hai châu thổ.",
+     "From 1961 to 2020, average annual temperatures rose in both deltas."
+    ],
+    [
+     "Hân Hân",
+     "Ở trạm Thái Bình, tỉnh Hưng Yên, nhiệt độ trung bình tăng từ 23,2 độ C lên 24,0 độ C. Ở trạm Cần Thơ, từ 26,5 độ C lên 27,6 độ C.",
+     "At the Thái Bình station in Hưng Yên province, the average rose from 23.2 to 24.0 °C. At Cần Thơ, from 26.5 to 27.6 °C."
+    ]
+   ],
+   "nguon_trang": [
+    226,
+    227
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "NHỮNG BIỂU HIỆN KHÁC",
+   "y": [
+    "Lượng mưa biến động qua các thập niên",
+    "Thời tiết cực đoan bất thường, khó dự báo, hậu quả nặng nề hơn",
+    "Nắng nóng tăng; sông Hồng: rét đậm, rét hại giảm; sông Cửu Long: thêm các đợt hạn",
+    "Mực nước biển dâng trung bình 2,7 mm/năm"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lượng mưa biến động qua các thập niên. Các hiện tượng thời tiết cực đoan trở nên bất thường, khó dự báo và gây hậu quả nặng nề hơn.",
+     "Rainfall varied from decade to decade. Extreme weather became erratic, hard to forecast and more damaging."
+    ],
+    [
+     "Hân Hân",
+     "Ở châu thổ sông Hồng, số ngày nắng nóng tăng, số ngày rét đậm, rét hại giảm. Ở châu thổ sông Cửu Long, nắng nóng tăng và các đợt hạn gia tăng.",
+     "In the Red River Delta, hot days increased while severe cold days decreased. In the Mekong Delta, heat and droughts both increased."
+    ],
+    [
+     "Nhật Minh",
+     "Mực nước biển ven biển hai châu thổ có xu thế tăng, trung bình 2,7 mi-li-mét mỗi năm.",
+     "Sea levels along both deltas' coasts are rising, by 2.7 millimetres a year on average."
+    ]
+   ],
+   "nguon_trang": [
+    227
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, mực nước biển ven biển hai châu thổ tăng trung bình bao nhiêu mỗi năm?",
+    "lua_chon": [
+     "0,7 mm",
+     "2,7 mm",
+     "27 mm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mực nước biển ven biển hai châu thổ tăng trung bình bao nhiêu mỗi năm?",
+     "Pause! On average, how much does the sea rise each year along the two deltas?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 2,7 mi-li-mét mỗi năm!",
+     "The answer is B: 2.7 millimetres a year!"
+    ]
+   ],
+   "nguon_trang": [
+    227
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "TÁC ĐỘNG Ở CHÂU THỔ SÔNG HỒNG",
+   "y": [
+    "Nắng nóng kéo dài: tăng chi phí làm mát, hại sức khoẻ",
+    "Mùa lạnh ngắn đi: ảnh hưởng cây vụ đông",
+    "Bão, mưa lớn nhiều hơn: ngập lụt, sản xuất bấp bênh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở châu thổ sông Hồng, các đợt nắng nóng kéo dài làm tăng chi phí cho thiết bị làm mát, ảnh hưởng tiêu cực đến sức khoẻ người dân.",
+     "In the Red River Delta, long heatwaves raise cooling costs and harm people's health."
+    ],
+    [
+     "Nhật Minh",
+     "Mùa lạnh ngắn đi ảnh hưởng đến cây vụ đông. Bão, mưa lớn nhiều hơn gây ngập lụt, khiến sản xuất nông nghiệp càng bấp bênh.",
+     "Shorter cold seasons affect winter crops. More storms and heavy rain cause floods and make farming ever more precarious."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "TÁC ĐỘNG Ở CHÂU THỔ SÔNG CỬU LONG",
+   "y": [
+    "Nhiệt độ tăng: sâu bệnh, dịch hại tăng",
+    "Mùa khô gay gắt: hạn hán, thiếu nước, nguy cơ cháy rừng",
+    "Nước biển dâng: sạt lở bờ biển, xâm nhập mặn, đất nhiễm phèn, mặn",
+    "Ảnh hưởng việc làm, thu nhập, an sinh xã hội"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở châu thổ sông Cửu Long, nhiệt độ tăng làm gia tăng sâu bệnh, dịch hại. Mùa khô gay gắt hơn, hạn hán gây thiếu nước, tăng nguy cơ cháy rừng.",
+     "In the Mekong Delta, rising temperatures bring more pests and disease. Harsher dry seasons and droughts cause water shortages and raise the risk of forest fires."
+    ],
+    [
+     "Hân Hân",
+     "Nước biển dâng gây sạt lở bờ biển, thu hẹp đất nông nghiệp và rừng ngập mặn. Mùa khô, nước mặn xâm nhập sâu, đất bị nhiễm phèn, nhiễm mặn.",
+     "Rising seas erode the coast and shrink farmland and mangroves. In the dry season, salt water pushes far inland and soils turn acidic and salty."
+    ],
+    [
+     "Nhật Minh",
+     "Biến đổi khí hậu còn ảnh hưởng đến việc làm, thu nhập và an sinh xã hội.",
+     "Climate change also affects jobs, incomes and social security."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tác động nào của biến đổi khí hậu được SGK nêu ở châu thổ sông Cửu Long?",
+    "lua_chon": [
+     "Mùa lạnh ngắn đi, ảnh hưởng cây vụ đông",
+     "Nước mặn xâm nhập sâu, đất nhiễm phèn, nhiễm mặn",
+     "Số ngày rét đậm, rét hại tăng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Tác động nào được nêu ở châu thổ sông Cửu Long?",
+     "Quick test! Which impact is described for the Mekong Delta?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: nước mặn xâm nhập sâu, đất nhiễm phèn, nhiễm mặn!",
+     "The answer is B: salt water intrudes deep inland and soils become acidic and salty!"
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ứng phó",
+   "thoi_luong": 1.8
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI NHÓM BIỆN PHÁP",
+   "y": [
+    "Giảm nhẹ: giảm phát thải khí nhà kính, tăng hấp thụ khí nhà kính",
+    "Thích ứng: biện pháp phù hợp với từng châu thổ"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Để ứng phó, hai châu thổ cần thực hiện đồng thời các biện pháp giảm nhẹ và thích ứng với biến đổi khí hậu.",
+     "To respond, both deltas must combine mitigation and adaptation."
+    ],
+    [
+     "Nhật Minh",
+     "Giảm nhẹ là giảm khí nhà kính thải vào khí quyển và tăng cường hấp thụ chúng. Còn thích ứng thì mỗi châu thổ cần biện pháp phù hợp với vùng mình.",
+     "Mitigation means cutting greenhouse gas emissions and absorbing more of them. Adaptation needs measures suited to each delta."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "THÍCH ỨNG Ở CHÂU THỔ SÔNG HỒNG",
+   "y": [
+    "Nông nghiệp: kĩ thuật canh tác, công nghệ mới; thay đổi thời gian mùa vụ, nhất là vụ đông",
+    "Công nghiệp: đổi mới công nghệ, giảm phát thải",
+    "Cộng đồng: theo dõi thông tin thời tiết, phòng chống thiên tai"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở châu thổ sông Hồng, nông nghiệp áp dụng kĩ thuật canh tác, công nghệ sản xuất mới và thay đổi thời gian mùa vụ, nhất là cây vụ đông.",
+     "In the Red River Delta, farming adopts new cultivation techniques and technology and shifts crop calendars, especially winter crops."
+    ],
+    [
+     "Hân Hân",
+     "Công nghiệp đổi mới công nghệ để giảm phát thải. Người dân thường xuyên theo dõi thông tin thời tiết để phòng, chống thiên tai, nhất là khi nắng nóng, rét đậm, rét hại.",
+     "Industry upgrades technology to cut emissions. People follow weather news closely to guard against disasters, especially heatwaves and severe cold."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: kè chắn sóng, chống sạt lở ở Cà Mau (như Hình 3 SGK, tr. 229)",
+    "tim": "kè chắn sóng chống sạt lở Cà Mau ảnh",
+    "yeu_cau": "ảnh chụp công khai hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Ảnh: kè chắn sóng, chống sạt lở ở Cà Mau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là kè chắn sóng, chống sạt lở ở Cà Mau, một công trình thích ứng với biến đổi khí hậu ở châu thổ sông Cửu Long.",
+     "This is a wave-breaking, anti-erosion embankment in Cà Mau, an adaptation work in the Mekong Delta."
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "THÍCH ỨNG Ở CHÂU THỔ SÔNG CỬU LONG",
+   "y": [
+    "Giống cây chịu mặn, chịu hạn; chuyển đất lúa sang cây khác hoặc thuỷ sản",
+    "Mô hình sống chung với lũ; thích ứng nước lợ, nước mặn",
+    "Trồng, bảo vệ rừng ngập mặn; đê biển, kè chắn sóng, cống ngăn mặn",
+    "Du lịch sinh thái; bảo đảm nước sạch mùa khô"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở châu thổ sông Cửu Long, cần tạo giống cây chịu mặn, chịu hạn; chuyển đất trồng lúa bị nhiễm phèn, mặn sang trồng cây khác hoặc nuôi thuỷ sản; xây dựng mô hình sống chung với lũ.",
+     "In the Mekong Delta, we need salt- and drought-tolerant crops, switching acid or salty rice land to other crops or aquaculture, and models for living with floods."
+    ],
+    [
+     "Hân Hân",
+     "Trồng và bảo vệ rừng ngập mặn; xây dựng kênh mương, đê biển, kè chắn sóng, cống ngăn mặn.",
+     "Plant and protect mangroves; build canals, sea dykes, breakwaters and salinity sluices."
+    ],
+    [
+     "Nhật Minh",
+     "Phát triển du lịch sinh thái gắn với sông nước, miệt vườn, rừng ngập mặn, rừng tràm; và bảo đảm nguồn nước sạch cho sinh hoạt, nhất là mùa khô.",
+     "Develop eco-tourism with rivers, orchards, mangrove and melaleuca forests, and secure clean water for daily life, especially in the dry season."
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Biện pháp nào được SGK nêu cho châu thổ sông Cửu Long?",
+    "lua_chon": [
+     "Trồng và bảo vệ rừng ngập mặn",
+     "Thay đổi thời gian trồng cây vụ đông",
+     "Phòng chống rét đậm, rét hại"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Biện pháp nào được nêu cho châu thổ sông Cửu Long?",
+     "One more! Which measure is listed for the Mekong Delta?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: trồng và bảo vệ rừng ngập mặn!",
+     "The answer is A: planting and protecting mangroves!"
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Biểu hiện: nhiệt độ tăng, thời tiết cực đoan, nước biển dâng",
+    "Sông Hồng: thay đổi mùa vụ, công nghệ giảm phát thải, theo dõi thời tiết",
+    "Sông Cửu Long: giống chịu mặn, rừng ngập mặn, đê kè, du lịch sinh thái",
+    "Kết hợp giảm nhẹ và thích ứng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: biến đổi khí hậu biểu hiện qua nhiệt độ tăng, thời tiết cực đoan và nước biển dâng.",
+     "Remember: climate change shows up as rising heat, extreme weather and rising seas."
+    ],
+    [
+     "Hân Hân",
+     "Châu thổ sông Hồng thay đổi mùa vụ, đổi mới công nghệ, theo dõi thời tiết.",
+     "The Red River Delta shifts crop seasons, upgrades technology and watches the weather."
+    ],
+    [
+     "Nhật Minh",
+     "Châu thổ sông Cửu Long dùng giống chịu mặn, bảo vệ rừng ngập mặn, xây đê kè, làm du lịch sinh thái.",
+     "The Mekong Delta uses salt-tolerant crops, protects mangroves, builds dykes and develops eco-tourism."
+    ],
+    [
+     "Hân Hân",
+     "Và luôn kết hợp giảm nhẹ với thích ứng.",
+     "And always combines mitigation with adaptation."
+    ]
+   ],
+   "nguon_trang": [
+    227,
+    228,
+    229
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên bờ kênh giữa cánh đồng lúa lúc chiều, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy nghĩ một khẩu hiệu ngắn tuyên truyền một biện pháp đơn giản để thích ứng với biến đổi khí hậu ở quê mình. Bình luận nhé!",
+     "Your challenge: come up with a short slogan promoting one simple way to adapt to climate change where you live. Post it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo Bảng 1, nhiệt độ trung bình năm ở trạm Cần Thơ thập kỉ 2011 – 2020 là",
+   "dap_an": [
+    "26,5 °C",
+    "26,8 °C",
+    "27,1 °C",
+    "27,6 °C"
+   ],
+   "dung": 3,
+   "trang": 227
+  },
+  {
+   "hoi": "Ở châu thổ sông Hồng, số ngày rét đậm, rét hại có xu thế",
+   "dap_an": [
+    "Tăng",
+    "Giảm",
+    "Không đổi",
+    "Tăng gấp đôi"
+   ],
+   "dung": 1,
+   "trang": 227
+  },
+  {
+   "hoi": "Biện pháp thích ứng nào được SGK nêu cho nông nghiệp châu thổ sông Hồng?",
+   "dap_an": [
+    "Thay đổi thời gian mùa vụ, đặc biệt cây vụ đông",
+    "Xây cống ngăn mặn",
+    "Chuyển đất lúa sang nuôi thuỷ sản nước lợ",
+    "Phát triển du lịch rừng tràm"
+   ],
+   "dung": 0,
+   "trang": 228
+  },
+  {
+   "hoi": "Để ứng phó với biến đổi khí hậu ở hai châu thổ cần",
+   "dap_an": [
+    "Chỉ thực hiện biện pháp giảm nhẹ",
+    "Chỉ thực hiện biện pháp thích ứng",
+    "Thực hiện đồng thời biện pháp giảm nhẹ và thích ứng",
+    "Di dời toàn bộ dân cư"
+   ],
+   "dung": 2,
+   "trang": 228
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 226–229 (mục 2: biểu hiện, tác động, biện pháp ứng phó với biến đổi khí hậu; Hình 3) và ảnh trang 227 (Bảng 1 bị OCR mất dấu phẩy: đọc lại 23,2; 24,0; 26,5; 27,6 °C – bộ kiểm tra cảnh báo các số '24', '27', '0' là do OCR ghi liền '240', '276', '271' – đã kiểm tra trên ảnh trang). Kiến thức chốt của danh mục đúng SGK; 'công nghệ sản xuất xanh' của danh mục được diễn đạt lại đúng SGK là 'đổi mới công nghệ để giảm phát thải khí nhà kính'. Đây là nội dung hiện tại (không phải lịch sử có người thật): cảnh dẫn chuyện có thể dựng hình minh hoạ, ảnh công trình dùng ảnh thật có ghi nguồn; số liệu trình bày bằng thẻ chữ dựng bằng code.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

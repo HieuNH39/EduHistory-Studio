@@ -1,0 +1,330 @@
+{
+ "ma": "L6-B2-02",
+ "ten_tap": "Dấu vết thời gian: Tư liệu hiện vật",
+ "ten_tap_en": "Traces of Time: Material Sources",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+  "trang": [
+   11,
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-co"
+ ],
+ "nhac": {
+  "tam_trang": "tò mò, trinh thám nhẹ nhàng; ấm áp ở đoạn cuộc sống người Việt cổ",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hiện vật thật (trống đồng Ngọc Lũ, ngói úp đôi chim phượng) dùng ảnh tư liệu, không vẽ lại bằng AI; cảnh đời sống người Việt cổ là minh hoạ theo hoạ tiết trống đồng (Hình 6, 8 SGK tr. 63–64). Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 2, tr. 11; Bài 14, tr. 63–64.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng trưng bày Bảo tàng Lịch sử quốc gia, đứng trước tủ kính lớn đặt một chiếc trống đồng cổ màu xanh xỉn (hình khối mờ, không vẽ chi tiết hoa văn); Nhật Minh cầm kính lúp như thám tử",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nhà sử học làm việc giống như thám tử đấy! Muốn dựng lại lịch sử, họ phải đi tìm bằng chứng, tức là các tư liệu lịch sử.",
+     "Historians work like detectives! To rebuild history, they must hunt for evidence: historical sources."
+    ],
+    [
+     "Nhật Minh",
+     "Và bằng chứng đầu tiên của tụi mình nằm ngay trong tủ kính này!",
+     "And our first piece of evidence is right in this display case!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: mặt trống đồng Ngọc Lũ (như Hình 1 SGK tr. 11), hiện vật tại Bảo tàng Lịch sử quốc gia",
+    "tim": "mặt trống đồng Ngọc Lũ Bảo tàng Lịch sử quốc gia",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng (ảnh công khai của bảo tàng hoặc giấy phép mở), ghi nguồn; không dùng ảnh AI vẽ lại hoa văn"
+   },
+   "hinh": "Ảnh tư liệu: mặt trống đồng Ngọc Lũ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là mặt trống đồng Ngọc Lũ, hiện vật tiêu biểu của nền văn minh Việt cổ, trưng bày tại Bảo tàng Lịch sử quốc gia.",
+     "This is the face of the Ngọc Lũ bronze drum, a signature artefact of ancient Việt civilisation, displayed at the National Museum of History."
+    ],
+    [
+     "Hân Hân",
+     "Nó được coi là loại trống đẹp nhất của trống đồng Đông Sơn.",
+     "It's considered the most beautiful of the Đông Sơn bronze drums."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    63
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Người Việt cổ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên bờ sông trong một làng Việt cổ, nhìn quanh: những ngôi nhà sàn mái cong, người giã gạo bằng chày dài, thuyền dài trên sông, nhóm người đội mũ lông chim múa hát; cảnh vật giống hệt hoạ tiết trên trống đồng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn kìa! Hoạ tiết trên mặt trống có mái nhà cong, hình thuyền, người giã gạo, người múa hát…",
+     "Look! The drum's patterns show curved roofs, boats, people pounding rice, people singing and dancing…"
+    ],
+    [
+     "Nhật Minh",
+     "Những hình ảnh ấy giúp tụi mình hình dung nơi ở, việc làm, phương tiện đi lại và cả lễ hội của người Việt cổ!",
+     "These images help us picture the homes, work, transport and even festivals of the ancient Việt people!"
+    ]
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Một gia đình người Việt cổ dưới gầm nhà sàn bằng tre, gỗ, lá: hai người giã gạo nhịp nhàng trong cối gỗ, em nhỏ ngồi sàng gạo; nam đóng khố cởi trần, nữ mặc váy, yếm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư liệu hiện vật là những di tích, đồ vật của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất.",
+     "Material sources are the sites and objects people left behind, underground or above ground."
+    ],
+    [
+     "Hân Hân",
+     "Nếu biết khai thác, chúng cho ta biết khá cụ thể và trung thực về đời sống vật chất, và phần nào đời sống tinh thần của người xưa.",
+     "Studied well, they tell us quite concretely and honestly about people's material life, and partly their spiritual life."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trống đồng Ngọc Lũ hiện được trưng bày ở đâu?",
+    "lua_chon": [
+     "Bảo tàng Lịch sử quốc gia",
+     "Văn Miếu",
+     "Đền Hùng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Trống đồng Ngọc Lũ hiện được trưng bày ở đâu?",
+     "Pause! Where is the Ngọc Lũ drum displayed today?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Bảo tàng Lịch sử quốc gia!",
+     "The answer is A: the National Museum of History!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên lan can nhìn xuống khu khai quật khảo cổ tại di tích Hoàng thành Thăng Long ngày nay: nền móng gạch cổ, chân cột đá lộ ra dưới mái che, lối đi gỗ cho khách tham quan",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư liệu hiện vật còn có thể là cả một di tích, như di tích Hoàng thành Thăng Long ở số 18 Hoàng Diệu, thành phố Hà Nội.",
+     "A material source can even be a whole site, like the Thăng Long Imperial Citadel at 18 Hoàng Diệu, Hà Nội."
+    ],
+    [
+     "Hân Hân",
+     "Nền móng, chân cột… mỗi dấu vết đều là một manh mối!",
+     "Foundations, column bases… every trace is a clue!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: ngói úp trang trí đôi chim phượng bằng đất nung tìm thấy ở Hoàng thành Thăng Long (như Hình 3 SGK tr. 11)",
+    "tim": "ngói úp đôi chim phượng đất nung Hoàng thành Thăng Long",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng, ghi nguồn; không dùng ảnh AI"
+   },
+   "hinh": "Ảnh tư liệu: ngói úp trang trí đôi chim phượng bằng đất nung",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn đây là ngói úp trang trí đôi chim phượng bằng đất nung, tìm thấy ở Hoàng thành Thăng Long.",
+     "And this is a terracotta ridge tile decorated with a pair of phoenixes, found at the Thăng Long Citadel."
+    ],
+    [
+     "Nhật Minh",
+     "Chỉ một viên ngói thôi mà cho thấy cả bàn tay khéo léo và óc thẩm mĩ của người xưa.",
+     "Just one tile shows both the skilled hands and the sense of beauty of people long ago."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là tư liệu hiện vật?",
+    "lua_chon": [
+     "Ngói úp trang trí đôi chim phượng",
+     "Một câu ca dao",
+     "Một cuốn sách chép tay"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài thám tử nào! Đâu là tư liệu hiện vật?",
+     "Detective test! Which one is a material source?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngói úp trang trí đôi chim phượng, vì đó là đồ vật của người xưa còn lưu giữ lại!",
+     "The answer is A: the phoenix ridge tile, because it's an object left behind by people of the past!"
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư liệu hiện vật: di tích, đồ vật của người xưa còn lưu giữ trong lòng đất hay trên mặt đất",
+    "Cho biết khá cụ thể, trung thực về đời sống vật chất, phần nào đời sống tinh thần",
+    "Ví dụ: trống đồng Ngọc Lũ, Hoàng thành Thăng Long, ngói úp đôi chim phượng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tư liệu hiện vật là di tích, đồ vật của người xưa còn lưu giữ trong lòng đất hay trên mặt đất.",
+     "Remember: material sources are sites and objects of the past kept underground or above ground."
+    ],
+    [
+     "Hân Hân",
+     "Chúng cho biết khá cụ thể, trung thực về đời sống vật chất và phần nào đời sống tinh thần.",
+     "They tell us quite concretely and honestly about material life, and partly spiritual life."
+    ],
+    [
+     "Nhật Minh",
+     "Ví dụ: trống đồng Ngọc Lũ, Hoàng thành Thăng Long, ngói úp đôi chim phượng.",
+     "Examples: the Ngọc Lũ drum, the Thăng Long Citadel, the phoenix ridge tile."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân ở cổng bảo tàng, nhìn về phía người xem; Hân Hân giơ tay mời bình luận, Nhật Minh vẫn cầm kính lúp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nhà cậu có đồ vật cũ nào có thể coi là tư liệu hiện vật không? Nó kể gì về cuộc sống ngày xưa? Bình luận cho tụi mình biết nhé!",
+     "Your challenge: is there an old object at home that counts as a material source? What does it tell us about life long ago? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tư liệu hiện vật là",
+   "dap_an": [
+    "Những câu chuyện được kể lại từ đời này sang đời khác",
+    "Những di tích, đồ vật của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất",
+    "Những bản ghi chép tay, sách in",
+    "Những bức ảnh chụp ngày nay"
+   ],
+   "dung": 1,
+   "trang": 11
+  },
+  {
+   "hoi": "Tư liệu hiện vật có thể cho ta biết khá cụ thể và trung thực về",
+   "dap_an": [
+    "Đời sống vật chất và phần nào đời sống tinh thần của người xưa",
+    "Suy nghĩ riêng của từng người xưa",
+    "Toàn bộ lời nói của người xưa",
+    "Tương lai của xã hội"
+   ],
+   "dung": 0,
+   "trang": 11
+  },
+  {
+   "hoi": "Trống đồng Ngọc Lũ được coi là",
+   "dap_an": [
+    "Loại trống đẹp nhất của trống đồng Đông Sơn",
+    "Chiếc trống lớn nhất thế giới",
+    "Tư liệu truyền miệng",
+    "Tư liệu chữ viết"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Di tích Hoàng thành Thăng Long nằm ở địa chỉ nào?",
+   "dap_an": [
+    "Số 18 Hoàng Diệu, thành phố Hà Nội",
+    "Cổ Loa, thành phố Hà Nội",
+    "Đền Hùng, tỉnh Phú Thọ",
+    "Văn Miếu, thành phố Huế"
+   ],
+   "dung": 0,
+   "trang": 11
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 11 (phần mở đầu, mục 1, Hình 1–3), tr. 12 (mục 2 – để phân biệt đáp án nhiễu), tr. 63–64 (Hình 6 hoạ tiết trống đồng Ngọc Lũ: mái nhà cong, hình thuyền, người giã gạo; Hình 8 người múa hát; trang phục, nhà sàn). SGK tr. 11 chỉ đặt câu hỏi về hoa văn trống đồng, phần mô tả hoạ tiết lấy từ Bài 14 tr. 63–64. Câu 'cho thấy bàn tay khéo léo và óc thẩm mĩ' (cảnh 8) là nhận xét của người dẫn chuyện về hiện vật trong ảnh, không thêm dữ kiện. Hiện vật thật dùng ảnh tư liệu để tránh AI vẽ sai hoa văn.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

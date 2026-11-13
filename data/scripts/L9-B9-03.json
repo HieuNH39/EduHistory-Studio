@@ -1,0 +1,490 @@
+{
+ "ma": "L9-B9-03",
+ "ten_tap": "Những 'đấu trường' đối đầu",
+ "ten_tap_en": "The Arenas of Confrontation",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 9. Chiến tranh lạnh (1947 – 1989)",
+  "trang": [
+   41,
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phi-den-cat-xto-ro",
+  "quan-doi-cac-nuoc-nato",
+  "quan-doi-cac-nuoc-vac-sa-va"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, trầm, nhịp đều như ván cờ; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 9, tr. 41–43.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại. Bản đồ có Biển Đông luôn thể hiện quần đảo Hoàng Sa, Trường Sa.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi đối diện nhau qua một bàn cờ vua trong phòng sinh hoạt câu lạc bộ của trường; phía sau là bản đồ thế giới lớn treo tường; ánh đèn ấm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, Liên Xô và Mỹ cùng các nước tư bản Tây Âu chuyển từ quan hệ đồng minh sang đối đầu.",
+     "After World War II, the Soviet Union and the US with the Western European capitalist countries turned from allies into rivals."
+    ],
+    [
+     "Nhật Minh",
+     "Giống như hai bên bàn cờ, họ đối đầu trên nhiều “đấu trường”. Đó là Chiến tranh lạnh. Cùng điểm lại nhé!",
+     "Like two sides of a chessboard, they faced off in many 'arenas'. That was the Cold War. Let's review them!"
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    42
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1947",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI PHE ĐỐI ĐẦU",
+   "y": [
+    "Mỹ: đứng đầu hệ thống tư bản chủ nghĩa",
+    "Liên Xô: đứng đầu hệ thống xã hội chủ nghĩa",
+    "Đối đầu: kinh tế, chính trị – quân sự, mở rộng ảnh hưởng"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1947, Tổng thống Mỹ Tơ-ru-man công khai thực hiện Chiến lược toàn cầu, bắt đầu cuộc Chiến tranh lạnh chống Liên Xô và các nước xã hội chủ nghĩa.",
+     "In March 1947, US President Truman openly launched the Global Strategy, starting the Cold War against the USSR and the socialist countries."
+    ],
+    [
+     "Hân Hân",
+     "Mỹ đứng đầu hệ thống tư bản chủ nghĩa, Liên Xô đứng đầu hệ thống xã hội chủ nghĩa. Hai bên đối đầu về kinh tế, chính trị – quân sự và mở rộng ảnh hưởng ở các khu vực.",
+     "The US led the capitalist system and the USSR the socialist one. They clashed in economics, politics and military affairs, and in spreading influence across regions."
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    42
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẤU TRƯỜNG 1: KINH TẾ",
+   "y": [
+    "Mỹ: Kế hoạch Mác-san (1947) – khoảng 13 tỉ USD cho 16 nước Tây Âu",
+    "Liên Xô: Hội đồng Tương trợ kinh tế – SEV (1949)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đấu trường thứ nhất: kinh tế. Năm 1947, Mỹ đề ra Kế hoạch Mác-san, đầu tư khoảng 13 tỉ USD giúp 16 nước Tây Âu phục hồi kinh tế.",
+     "Arena one: the economy. In 1947, the US launched the Marshall Plan, investing about 13 billion dollars to help 16 Western European countries recover."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1949, Liên Xô và các nước xã hội chủ nghĩa thành lập Hội đồng Tương trợ kinh tế, gọi tắt là SEV, để hợp tác, giúp đỡ lẫn nhau.",
+     "In 1949, the USSR and the socialist countries set up the Council for Mutual Economic Assistance, known as SEV, to cooperate and help one another."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Liên Xô và các nước xã hội chủ nghĩa thành lập tổ chức kinh tế nào (1949)?",
+    "lua_chon": [
+     "NATO",
+     "SEV",
+     "Kế hoạch Mác-san"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1949, Liên Xô và các nước xã hội chủ nghĩa thành lập tổ chức kinh tế nào?",
+     "Pause! In 1949, which economic organisation did the USSR and the socialist countries set up?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Hội đồng Tương trợ kinh tế, SEV!",
+     "The answer is B: the Council for Mutual Economic Assistance, SEV!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Hội nghị thành lập NATO ở Thủ đô Oa-sinh-tơn năm 1949 (như Hình 11.4 SGK, tr. 50)",
+    "tim": "NATO founding signing ceremony Washington April 1949 photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Hội nghị thành lập NATO ở Oa-sinh-tơn (1949)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đấu trường thứ hai: chính trị – quân sự. Năm 1949, Mỹ và các nước tư bản thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương, NATO. Đây là ảnh hội nghị thành lập NATO ở Oa-sinh-tơn.",
+     "Arena two: politics and the military. In 1949, the US and capitalist countries founded the North Atlantic Treaty Organization, NATO. This photo shows its founding conference in Washington."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1955, Liên Xô và các nước xã hội chủ nghĩa thành lập Tổ chức Hiệp ước Vác-sa-va.",
+     "In 1955, the USSR and the socialist countries founded the Warsaw Pact Organization."
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    50
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "BOM NGUYÊN TỬ VÀ VỆ TINH",
+   "y": [
+    "Bom nguyên tử: Mỹ (1945) – Liên Xô (1949)",
+    "Vệ tinh nhân tạo: Liên Xô (1957) – Mỹ (1958)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bảng trong SGK còn ghi: Mỹ chế tạo thành công bom nguyên tử năm 1945, Liên Xô năm 1949.",
+     "The textbook table also notes: the US built an atomic bomb in 1945, the USSR in 1949."
+    ],
+    [
+     "Nhật Minh",
+     "Còn vệ tinh nhân tạo: Liên Xô phóng thành công năm 1957, Mỹ năm 1958.",
+     "And artificial satellites: the USSR launched one successfully in 1957, the US in 1958."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo bảng trong SGK, nước nào phóng thành công vệ tinh nhân tạo trước?",
+    "lua_chon": [
+     "Mỹ",
+     "Liên Xô",
+     "Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Theo bảng trong SGK, nước nào phóng thành công vệ tinh nhân tạo trước?",
+     "Quick test! According to the textbook table, which country launched a satellite first?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Liên Xô, năm 1957!",
+     "The answer is B: the Soviet Union, in 1957!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "chien-tranh-lanh",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Đấu trường thứ ba: mở rộng ảnh hưởng ở các khu vực trên thế giới.",
+     "Arena three: spreading influence across the world's regions."
+    ],
+    [
+     "Nhật Minh",
+     "Bảng trong SGK nêu bốn nơi tiêu biểu: Đức, Triều Tiên, Cu-ba và Việt Nam.",
+     "The textbook table names four key places: Germany, Korea, Cuba and Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "chien-tranh-lanh",
+   "pha": "duc",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đức, Mỹ ủng hộ thành lập Nhà nước Cộng hoà Liên bang Đức ở Tây Đức, tháng 9 năm 1949.",
+     "In Germany, the US backed the founding of the Federal Republic of Germany in West Germany, in September 1949."
+    ],
+    [
+     "Hân Hân",
+     "Liên Xô ủng hộ thành lập Nhà nước Cộng hoà Dân chủ Đức ở Đông Đức, tháng 10 năm 1949.",
+     "The USSR backed the founding of the German Democratic Republic in East Germany, in October 1949."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Bức tường Béc-lin năm 1989 ngăn cách Đông Đức và Tây Đức (như Hình 9.2 SGK, tr. 43)",
+    "tim": "Berlin Wall 1989 photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Bức tường Béc-lin (1989)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bức tường Béc-lin ngăn cách Đông Đức và Tây Đức, một biểu hiện của Chiến tranh lạnh. Đây là ảnh bức tường năm 1989.",
+     "The Berlin Wall separated East and West Germany, a sign of the Cold War. This is the wall in 1989."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "chien-tranh-lanh",
+   "pha": "trieu_tien",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Triều Tiên, Mỹ ủng hộ thành lập Nhà nước Đại Hàn Dân quốc ở phía nam, tháng 8 năm 1948. Liên Xô ủng hộ thành lập Nhà nước Cộng hoà Dân chủ nhân dân Triều Tiên ở phía bắc, tháng 9 năm 1948.",
+     "In Korea, the US backed the Republic of Korea in the south, in August 1948. The USSR backed the Democratic People's Republic of Korea in the north, in September 1948."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1950 đến năm 1953, cả hai bên đều viện trợ và trực tiếp tham gia vào cuộc chiến tranh ở Triều Tiên.",
+     "From 1950 to 1953, both sides gave aid and took direct part in the war in Korea."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở Triều Tiên, Liên Xô ủng hộ thành lập Nhà nước nào?",
+    "lua_chon": [
+     "Đại Hàn Dân quốc ở phía nam",
+     "Cộng hoà Dân chủ nhân dân Triều Tiên ở phía bắc",
+     "Cộng hoà Liên bang Đức"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Ở Triều Tiên, Liên Xô ủng hộ thành lập Nhà nước nào?",
+     "One more! In Korea, which state did the USSR back?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Cộng hoà Dân chủ nhân dân Triều Tiên, ở phía bắc!",
+     "The answer is B: the Democratic People's Republic of Korea, in the north!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "sa_ban",
+   "sa_ban": "chien-tranh-lanh",
+   "pha": "cu_ba",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Cu-ba, năm 1961, Mỹ chống Chính phủ Cu-ba do Phi-đen Cát-xtơ-rô đứng đầu, rồi tháng 10 năm 1962 thực hiện lệnh phong toả hải quân đối với Cu-ba.",
+     "In Cuba, from 1961 the US opposed the Cuban government led by Fidel Castro, and in October 1962 imposed a naval blockade on Cuba."
+    ],
+    [
+     "Hân Hân",
+     "Liên Xô hỗ trợ kinh tế, đưa quân đội thường trực và một số tên lửa hạt nhân vào Cu-ba, cũng vào tháng 10 năm 1962.",
+     "The USSR gave economic support and sent standing troops and some nuclear missiles to Cuba, also in October 1962."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "sa_ban",
+   "sa_ban": "chien-tranh-lanh",
+   "pha": "viet_nam",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Việt Nam, Mỹ giúp thực dân Pháp tiến hành chiến tranh xâm lược, từ năm 1950 đến năm 1954. Từ năm 1954 đến năm 1975, Mỹ thiết lập, hỗ trợ chính quyền ở miền Nam, tiến hành chiến tranh xâm lược ở miền Nam và chống phá miền Bắc.",
+     "In Vietnam, the US helped the French wage their war of aggression from 1950 to 1954. From 1954 to 1975, the US set up and backed a regime in the South, waged a war of aggression there and worked against the North."
+    ],
+    [
+     "Nhật Minh",
+     "Liên Xô ủng hộ cuộc kháng chiến chống Pháp, ủng hộ công cuộc xây dựng chủ nghĩa xã hội ở miền Bắc và cuộc kháng chiến chống Mỹ, cứu nước, thống nhất đất nước.",
+     "The USSR supported the resistance against France, socialist construction in the North, and the resistance against the US to save and reunify the country."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế: Kế hoạch Mác-san (1947) ↔ SEV (1949)",
+    "Quân sự: NATO (1949) ↔ Vác-sa-va (1955)",
+    "Mở rộng ảnh hưởng: Đức, Triều Tiên, Cu-ba, Việt Nam",
+    "12 – 1989: tuyên bố chấm dứt Chiến tranh lạnh ở Man-ta"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: về kinh tế, Kế hoạch Mác-san đối đầu với SEV.",
+     "Remember: in the economy, the Marshall Plan versus SEV."
+    ],
+    [
+     "Hân Hân",
+     "Về quân sự, NATO đối đầu với Tổ chức Hiệp ước Vác-sa-va.",
+     "In the military, NATO versus the Warsaw Pact."
+    ],
+    [
+     "Nhật Minh",
+     "Về mở rộng ảnh hưởng: Đức, Triều Tiên, Cu-ba, Việt Nam.",
+     "In spreading influence: Germany, Korea, Cuba and Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1989, tại cuộc gặp không chính thức ở Man-ta, lãnh đạo Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.",
+     "In December 1989, at an informal meeting in Malta, US and Soviet leaders declared the Cold War over."
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bắt tay nhau qua bàn cờ vua đã xếp lại, mỉm cười nhìn về phía người xem; Hân Hân giơ tay mời bình luận; bản đồ thế giới phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: chọn một “đấu trường” mà cậu thấy ấn tượng nhất, rồi kể lại sự đối đầu ở đó trong hai câu. Bình luận nhé!",
+     "Your challenge: pick the 'arena' you find most striking and describe the rivalry there in two sentences. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kế hoạch Mác-san (1947) là của nước nào?",
+   "dap_an": [
+    "Liên Xô",
+    "Mỹ",
+    "Anh",
+    "Pháp"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Tổ chức Hiệp ước Vác-sa-va được thành lập năm nào?",
+   "dap_an": [
+    "1947",
+    "1949",
+    "1955",
+    "1962"
+   ],
+   "dung": 2,
+   "trang": 42
+  },
+  {
+   "hoi": "Tháng 10 – 1962, Mỹ thực hiện lệnh phong toả hải quân đối với nước nào?",
+   "dap_an": [
+    "Triều Tiên",
+    "Đức",
+    "Cu-ba",
+    "Việt Nam"
+   ],
+   "dung": 2,
+   "trang": 42
+  },
+  {
+   "hoi": "Chiến tranh lạnh được lãnh đạo Mỹ và Liên Xô tuyên bố chấm dứt ở đâu?",
+   "dap_an": [
+    "Man-ta",
+    "Béc-lin",
+    "Oa-sinh-tơn",
+    "Mát-xcơ-va"
+   ],
+   "dung": 0,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 41–43 và ảnh trang 42 (bảng 'Một số biểu hiện về sự đối đầu', đọc lại từ ảnh để xác định đúng hàng/cột: bom nguyên tử Mỹ 1945, Liên Xô 1949; vệ tinh Liên Xô 1957, Mỹ 1958); Hình 9.2 (tr. 43), Hình 11.4 (tr. 50). Kiến thức chốt của danh mục đúng SGK. SGK không có lược đồ cho mục này: sa bàn 'chien-tranh-lanh' là bản đồ định vị vẽ bằng code (nền Natural Earth, không vẽ biên giới), chỉ ghi nội dung của bảng SGK; màu xanh chàm/đỏ theo hai cột của bảng; có Hoàng Sa, Trường Sa. Ẩn dụ bàn cờ chỉ là cách dẫn chuyện. Nhân vật chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

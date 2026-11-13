@@ -1,0 +1,375 @@
+{
+ "ma": "L6-B20-02",
+ "ten_tap": "Phù Nam – Vương quốc thương mại sầm uất",
+ "ten_tap_en": "Funan: A Bustling Trading Kingdom",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 20. Vương quốc Phù Nam",
+  "trang": [
+   92,
+   93,
+   94
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-phu-nam",
+  "thuong-nhan-phu-nam",
+  "thuong-nhan-nuoc-ngoai"
+ ],
+ "nhac": {
+  "tam_trang": "sông nước miền Tây, rộn ràng chợ nổi, tươi sáng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hiện vật thật (đồng tiền Phù Nam, huy chương La Mã) dùng ảnh tư liệu, không vẽ AI; cảnh cảng thị Óc Eo mang tính minh hoạ theo mô tả SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 20, tr. 92–94.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên bờ một con kênh giữa cánh đồng lúa xanh ở vùng Óc Eo (An Giang) ngày nay; phía xa có mái che bảo vệ một khu di tích khảo cổ, xuồng ba lá trên kênh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở vùng Óc Eo, tỉnh An Giang. Nơi đây từng là một trung tâm chính trị, kinh tế quan trọng của Vương quốc Phù Nam.",
+     "We're in Óc Eo, An Giang province, once a key political and economic centre of the Funan kingdom."
+    ],
+    [
+     "Nhật Minh",
+     "Nghe nói thương nhân bốn phương từng tìm đến đây buôn bán. Đi xem nào!",
+     "They say traders came here from all over. Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Vương quốc Phù Nam",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Đồng bằng sông nước Nam Bộ thời Phù Nam: cư dân cấy lúa nước, chăn trâu bò, nuôi gà vịt; trên kênh, người đánh cá kéo lưới đầy cá tôm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân Phù Nam có đời sống kinh tế đa dạng: trồng lúa nước, chăn nuôi gia súc, gia cầm, đánh bắt thuỷ hải sản.",
+     "Funan's people had a varied economy: wet rice, livestock and poultry, fishing and seafood."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Xưởng thủ công thời Phù Nam: thợ nặn gốm, thợ kim hoàn chế tác nhẫn vàng, hạt chuỗi; người thợ rót kim loại nóng chảy vào khuôn đúc bằng đá (vẽ theo Hình 3 SGK)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ phát triển nghề làm gốm, chế tác trang sức, đồ thuỷ tinh,",
+     "They made pottery, jewellery and glassware,"
+    ],
+    [
+     "Nhật Minh",
+     "và luyện kim đồng, sắt để chế tạo công cụ sản xuất và vũ khí.",
+     "and smelted copper and iron for tools and weapons."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-phu-nam",
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi trên một chiếc ghe nhỏ len giữa cảng thị Óc Eo xưa: nhà sàn gỗ lợp lá san sát trên mặt nước, ghe thuyền tấp nập, trên bờ có xe do trâu, ngựa kéo; thương nhân nhiều nơi mặc cả, trao đổi vàng, bạc, lụa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cư dân Phù Nam rất giỏi nghề buôn bán! Họ buôn bán với thương nhân nước ngoài đến từ Trung Quốc, Chăm-pa, Mã Lai, Ấn Độ…",
+     "Funan's people were superb traders! They dealt with merchants from China, Champa, Malaya, India…"
+    ],
+    [
+     "Nhật Minh",
+     "thông qua các cảng thị, tiêu biểu là Óc Eo. Nhìn nhà sàn trên mặt nước, ghe thuyền trên kênh rạch kìa!",
+     "through port towns, above all Óc Eo. Look at the stilt houses on the water and the boats on the canals!"
+    ]
+   ],
+   "nguon_trang": [
+    92,
+    94
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cảng thị tiêu biểu của Vương quốc Phù Nam là",
+    "lua_chon": [
+     "Óc Eo",
+     "Pi-rê",
+     "Pa-lem-bang"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Cảng thị tiêu biểu của Vương quốc Phù Nam là gì?",
+     "Pause! What was Funan's best-known port town?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Óc Eo!",
+     "The answer is A: Óc Eo!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: đồng tiền kim loại của Phù Nam tìm thấy ở di tích văn hoá Óc Eo (như Hình 4 SGK tr. 92)",
+    "tim": "đồng tiền kim loại Phù Nam di tích Óc Eo",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng (bảo tàng hoặc giấy phép mở), ghi nguồn; không dùng ảnh AI"
+   },
+   "hinh": "Ảnh tư liệu: đồng tiền kim loại của Phù Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là đồng tiền kim loại của Phù Nam, tìm thấy ở di tích văn hoá Óc Eo.",
+     "This is a Funan metal coin found at an Óc Eo culture site."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: huy chương La Mã tìm thấy ở di tích Nền Chùa, tỉnh An Giang (như Hình 5 SGK tr. 92)",
+    "tim": "huy chương La Mã di tích Nền Chùa An Giang",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng, ghi nguồn; không dùng ảnh AI"
+   },
+   "hinh": "Ảnh tư liệu: huy chương La Mã ở di tích Nền Chùa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là huy chương La Mã, tìm thấy ở di tích Nền Chùa, tỉnh An Giang. Hàng hoá từ tận La Mã cũng đã đến được Phù Nam!",
+     "And this is a Roman medallion found at the Nền Chùa site in An Giang. Goods from as far as Rome reached Funan!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-phu-nam",
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Trên bến cảng Óc Eo, một sứ giả Trung Quốc thời cổ cầm bút ghi chép, nhìn thương nhân Phù Nam niềm nở bày vàng, bạc, cuộn lụa ra trao đổi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử kí Trung Quốc chép: dân Phù Nam mưu lược, nhưng tốt bụng và thật thà, chuyên nghề buôn bán.",
+     "Chinese chronicles wrote: the people of Funan are shrewd yet kind and honest, and devoted to trade."
+    ],
+    [
+     "Nhật Minh",
+     "Hàng hoá bán thường ngày là vàng, bạc, lụa…",
+     "Their everyday goods were gold, silver, silk…"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Toàn cảnh từ trên cao một khu dân cư Phù Nam: hàng trăm ngôi nhà sàn gỗ mái lá dựng san sát trên mặt nước dọc kênh rạch, khói bếp bay lên, ghe thuyền chen chúc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi khai quật di chỉ Óc Eo, các nhà khảo cổ đã tìm thấy dấu tích các cọc nhà sàn san sát nhau trên một phạm vi rộng lớn.",
+     "Excavating Óc Eo, archaeologists found traces of stilt-house posts packed closely over a wide area."
+    ],
+    [
+     "Nhật Minh",
+     "Điều đó chứng tỏ dân cư nơi đây rất đông đúc!",
+     "That shows how densely populated it was!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo sử kí Trung Quốc, hàng hoá dân Phù Nam bán thường ngày là",
+    "lua_chon": [
+     "Vàng, bạc, lụa",
+     "Than đá, sắt thép",
+     "Ngựa, lạc đà"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Theo sử kí Trung Quốc, hàng hoá dân Phù Nam bán thường ngày là gì?",
+     "Quick test! According to Chinese chronicles, what did Funan's people sell every day?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vàng, bạc, lụa!",
+     "The answer is A: gold, silver and silk!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế đa dạng: lúa nước, chăn nuôi, đánh bắt thuỷ hải sản",
+    "Thủ công: gốm, trang sức, thuỷ tinh, luyện kim đồng, sắt",
+    "Rất giỏi buôn bán với Trung Quốc, Chăm-pa, Mã Lai, Ấn Độ… qua cảng thị Óc Eo",
+    "Nhà sàn trên mặt nước, ghe thuyền trên kênh rạch, dân cư đông đúc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cư dân Phù Nam trồng lúa nước, chăn nuôi, đánh bắt thuỷ hải sản.",
+     "Remember: Funan's people grew wet rice, raised animals and fished."
+    ],
+    [
+     "Hân Hân",
+     "Họ làm gốm, trang sức, thuỷ tinh, luyện kim đồng, sắt.",
+     "They made pottery, jewellery and glass, and worked copper and iron."
+    ],
+    [
+     "Nhật Minh",
+     "Họ rất giỏi buôn bán với thương nhân nước ngoài qua các cảng thị, tiêu biểu là Óc Eo.",
+     "They traded skilfully with foreigners through port towns, above all Óc Eo."
+    ],
+    [
+     "Hân Hân",
+     "Họ sống trong nhà sàn trên mặt nước, đi lại bằng ghe thuyền trên kênh rạch.",
+     "They lived in stilt houses over the water and travelled by boat on the canals."
+    ]
+   ],
+   "nguon_trang": [
+    92,
+    94
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ kênh vùng Óc Eo ngày nay lúc hoàng hôn, xuồng ghe vẫn qua lại; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, nét văn hoá nào của cư dân Phù Nam xưa vẫn còn trong đời sống của người Nam Bộ hôm nay? Bình luận nhé!",
+     "Your challenge: which customs of ancient Funan do you think still live on in southern Việt Nam today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cư dân Phù Nam luyện kim những loại kim loại nào để chế tạo công cụ và vũ khí?",
+   "dap_an": [
+    "Đồng, sắt",
+    "Vàng, bạc",
+    "Nhôm, thiếc",
+    "Chì, kẽm"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Cư dân Phù Nam buôn bán với thương nhân nước ngoài đến từ đâu?",
+   "dap_an": [
+    "Trung Quốc, Chăm-pa, Mã Lai, Ấn Độ…",
+    "Chỉ Hy Lạp",
+    "Chỉ La Mã",
+    "Ai Cập và Lưỡng Hà"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Huy chương La Mã được tìm thấy ở di tích nào?",
+   "dap_an": [
+    "Nền Chùa (An Giang)",
+    "Cổ Loa (Hà Nội)",
+    "Mỹ Sơn (Đà Nẵng)",
+    "Đông Sơn (Thanh Hoá)"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Dấu tích cọc nhà sàn san sát nhau ở di chỉ Óc Eo chứng tỏ điều gì?",
+   "dap_an": [
+    "Dân cư nơi đây đông đúc",
+    "Nơi đây không có người ở",
+    "Người Phù Nam sống trong hang đá",
+    "Nơi đây là sa mạc"
+   ],
+   "dung": 0,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 92 (Óc Eo – An Giang là trung tâm chính trị, kinh tế; mục 2a; Hình 2–5), tr. 93 (tư liệu sử kí Trung Quốc theo Lê Hương), tr. 94 (ghe thuyền, xe kéo, nhà sàn trên mặt nước, ô về dấu tích cọc nhà sàn; câu Vận dụng 2). Hiệu đính kiến thức chốt của danh mục: SGK viết các cảng thị 'tiêu biểu là Óc Eo' (không dùng cụm 'quan trọng bậc nhất'). Không dựng sa bàn tuyến hải thương vì SGK không có lược đồ tuyến đường. Hiện vật thật dùng ảnh tư liệu. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

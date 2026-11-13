@@ -1,0 +1,504 @@
+{
+ "ma": "L9-B20-02",
+ "ten_tap": "Giữ vững biên cương",
+ "ten_tap_en": "Holding the Frontiers",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 20. Việt Nam từ năm 1976 đến nay",
+  "trang": [
+   102,
+   103
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-nhan-dan-viet-nam",
+  "quan-pon-pot"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, kiên cường, lắng đọng ở đoạn Vị Xuyên; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 20, tr. 102–103.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trang nghiêm trước bức tường đá khắc lời thề “sống bám đá, chết hoá đá, thành bất tử” tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468 (Tuyên Quang); núi đá xanh phía sau, mây mờ; nét mặt xúc động",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468, tỉnh Tuyên Quang.",
+     "We're at the Temple of Heroic Martyrs on Hill 468, in Tuyên Quang province."
+    ],
+    [
+     "Nhật Minh",
+     "Sau năm 1975, nhân dân ta còn phải chiến đấu bảo vệ biên giới Tây Nam và biên giới phía Bắc. Cùng tìm hiểu nhé!",
+     "After 1975, our people still had to fight to defend the southwestern and northern borders. Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1975",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "BIÊN GIỚI TÂY NAM SAU NĂM 1975",
+   "y": [
+    "Pôn Pốt đánh chiếm đảo Phú Quốc, đảo Thổ Chu; tàn sát dân thường ở An Giang, Tây Ninh",
+    "Việt Nam ra tuyên bố, mong giải quyết biên giới bằng thương lượng hoà bình",
+    "Chính quyền Pôn Pốt từ chối, cắt quan hệ ngoại giao"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngay sau thắng lợi của cuộc kháng chiến chống Mỹ, chính quyền Pôn Pốt ở Cam-pu-chia đã nhiều lần khiêu khích, xâm phạm chủ quyền Việt Nam: đánh chiếm đảo Phú Quốc, đảo Thổ Chu, tàn sát dân thường tại An Giang, Tây Ninh.",
+     "Right after the victory over the US, the Pol Pot regime in Cambodia repeatedly provoked Vietnam and violated its sovereignty: seizing Phú Quốc and Thổ Chu islands and massacring civilians in An Giang and Tây Ninh."
+    ],
+    [
+     "Hân Hân",
+     "Việt Nam ra tuyên bố nêu rõ hành động sai trái đó, thể hiện thiện chí muốn giải quyết vấn đề biên giới bằng thương lượng hoà bình.",
+     "Vietnam issued statements condemning these wrongs and showing its goodwill to settle the border issue through peaceful negotiation."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng chính quyền Pôn Pốt đều từ chối và cắt quan hệ ngoại giao với Việt Nam.",
+     "But the Pol Pot regime refused every time and cut diplomatic ties with Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    102
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "bao-ve-bien-gioi",
+   "pha": "tay_nam",
+   "thoi_luong_toi_thieu": 20,
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên bản đồ là những nơi bị xâm phạm: đảo Phú Quốc, đảo Thổ Chu, An Giang, Tây Ninh.",
+     "On the map are the places that were attacked: Phú Quốc and Thổ Chu islands, An Giang and Tây Ninh."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1978, chính quyền Pôn Pốt huy động 19 sư đoàn bộ binh cùng nhiều đơn vị pháo binh, xe tăng, đơn phương tấn công Tây Ninh, mở đường tiến sâu vào lãnh thổ Việt Nam.",
+     "In December 1978, the Pol Pot regime threw 19 infantry divisions with artillery and tank units into a unilateral attack on Tây Ninh, to push deep into Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Thực hiện quyền tự vệ chính đáng, từ ngày 23 tháng 12 năm 1978, quân đội Việt Nam mở cuộc tổng phản công.",
+     "Exercising its legitimate right of self-defence, from 23 December 1978 the Vietnamese army launched a general counter-offensive."
+    ]
+   ],
+   "nguon_trang": [
+    102
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN THẮNG BIÊN GIỚI TÂY NAM",
+   "y": [
+    "Chỉ trong thời gian ngắn, đánh bại quân xâm lược",
+    "Giữ vững chủ quyền, toàn vẹn lãnh thổ Tổ quốc",
+    "Tạo thời cơ lớn cho cách mạng Cam-pu-chia giành thắng lợi"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chỉ trong thời gian ngắn, quân đội Việt Nam đã đánh bại quân xâm lược, giữ vững chủ quyền, toàn vẹn lãnh thổ Tổ quốc.",
+     "In a short time, the Vietnamese army defeated the invaders and safeguarded the nation's sovereignty and territorial integrity."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng biên giới Tây Nam còn tạo thời cơ lớn cho cách mạng Cam-pu-chia. Năm 1979, với sự giúp đỡ của quân tình nguyện Việt Nam, các lực lượng cách mạng Cam-pu-chia đã lật đổ tập đoàn Pôn Pốt.",
+     "The southwestern victory also gave Cambodia's revolution a great opportunity. In 1979, with help from Vietnamese volunteers, Cambodian revolutionary forces overthrew the Pol Pot clique."
+    ]
+   ],
+   "nguon_trang": [
+    102,
+    59
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân đội Việt Nam mở cuộc tổng phản công ở biên giới Tây Nam từ ngày nào?",
+    "lua_chon": [
+     "23 – 12 – 1978",
+     "17 – 2 – 1979",
+     "5 – 3 – 1979"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Quân đội Việt Nam mở cuộc tổng phản công ở biên giới Tây Nam từ ngày nào?",
+     "Pause! From what date did the Vietnamese army counter-attack on the southwestern border?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: từ ngày 23 tháng 12 năm 1978!",
+     "The answer is A: from 23 December 1978!"
+    ]
+   ],
+   "nguon_trang": [
+    102
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1979",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "bao-ve-bien-gioi",
+   "pha": "phia_bac",
+   "thoi_luong_toi_thieu": 22,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1978, Trung Quốc đơn phương chấm dứt viện trợ kinh tế, kĩ thuật và có nhiều hành động khiêu khích, xâm phạm ở khu vực biên giới phía Bắc của Việt Nam.",
+     "From 1978, China unilaterally ended its economic and technical aid and carried out many provocations and violations along Vietnam's northern border."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 17 tháng 2 năm 1979, khoảng 60 vạn quân Trung Quốc tấn công dọc tuyến biên giới phía Bắc, từ huyện Móng Cái, tỉnh Quảng Ninh, đến huyện Phong Thổ, tỉnh Lai Châu.",
+     "On 17 February 1979, about 600,000 Chinese troops attacked all along the northern border, from Móng Cái district in Quảng Ninh to Phong Thổ district in Lai Châu."
+    ],
+    [
+     "Nhật Minh",
+     "Quân dân các tỉnh biên giới phía Bắc kiên cường chiến đấu. Nhiều trận quyết liệt diễn ra ở Lạng Sơn, Cao Bằng, Lào Cai.",
+     "The people and forces of the northern border provinces fought steadfastly. Fierce battles took place in Lạng Sơn, Cao Bằng and Lào Cai."
+    ],
+    [
+     "Hân Hân",
+     "Trước cuộc chiến đấu của quân dân Việt Nam và sự phản đối mạnh mẽ của dư luận, ngày 5 tháng 3 năm 1979, Trung Quốc phải tuyên bố rút quân.",
+     "Faced with Vietnam's resistance and strong public opposition, on 5 March 1979 China had to announce a withdrawal."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày 17 – 2 – 1979, quân Trung Quốc tấn công dọc tuyến biên giới phía Bắc trong phạm vi nào?",
+    "lua_chon": [
+     "Từ Móng Cái đến Phong Thổ",
+     "Từ Hà Nội đến Lạng Sơn",
+     "Từ Tây Ninh đến An Giang"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Cuộc tấn công ngày 17 tháng 2 năm 1979 trải dài từ đâu đến đâu?",
+     "Quick test! The attack of 17 February 1979 stretched from where to where?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: từ huyện Móng Cái đến huyện Phong Thổ!",
+     "The answer is A: from Móng Cái district to Phong Thổ district!"
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "bao-ve-bien-gioi",
+   "pha": "vi_xuyen",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy vậy, tình hình trên tuyến biên giới phía Bắc tiếp tục căng thẳng kéo dài tới cuối những năm 80 của thế kỉ XX,",
+     "Yet tension on the northern border dragged on until the late 1980s,"
+    ],
+    [
+     "Nhật Minh",
+     "đặc biệt là ở mặt trận Vị Xuyên, nay thuộc tỉnh Tuyên Quang.",
+     "especially on the Vị Xuyên front, now part of Tuyên Quang province."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: lời thề của người lính Vị Xuyên khắc tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468, tỉnh Tuyên Quang (như Hình 20.3 SGK, tr. 103)",
+    "tim": "Điểm cao 468 Vị Xuyên đền thờ lời thề sống bám đá ảnh",
+    "yeu_cau": "ảnh chụp di tích công khai hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Ảnh: lời thề “sống bám đá, chết hoá đá, thành bất tử” (Điểm cao 468)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lời thề của người lính Vị Xuyên, “sống bám đá, chết hoá đá, thành bất tử”, được khắc tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468.",
+     "The Vị Xuyên soldiers' oath, 'live clinging to the rock, die turning to stone, become immortal', is carved at the Temple of Heroic Martyrs on Hill 468."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Cuộc chiến đấu chính nghĩa bảo vệ biên giới phía Bắc thắng lợi",
+    "Khẳng định ý chí, quyết tâm bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuộc chiến đấu chính nghĩa bảo vệ biên giới phía Bắc thắng lợi đã khẳng định ý chí, quyết tâm của nhân dân Việt Nam",
+     "The victory of the just fight to defend the northern border affirmed the will and determination of the Vietnamese people"
+    ],
+    [
+     "Nhật Minh",
+     "trong bảo vệ độc lập, chủ quyền và toàn vẹn lãnh thổ của Tổ quốc.",
+     "to defend the nation's independence, sovereignty and territorial integrity."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mặt trận Vị Xuyên nay thuộc tỉnh nào?",
+    "lua_chon": [
+     "Tuyên Quang",
+     "Lạng Sơn",
+     "Quảng Ninh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Theo SGK, mặt trận Vị Xuyên nay thuộc tỉnh nào?",
+     "One more! According to the textbook, which province is the Vị Xuyên front in today?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tỉnh Tuyên Quang!",
+     "The answer is A: Tuyên Quang province!"
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · BẢO VỆ BIÊN GIỚI",
+   "moc": [
+    [
+     "12 – 1978",
+     "Pôn Pốt tấn công Tây Ninh"
+    ],
+    [
+     "23 – 12 – 1978",
+     "Tổng phản công, thắng lợi"
+    ],
+    [
+     "17 – 2 – 1979",
+     "Trung Quốc tấn công biên giới phía Bắc"
+    ],
+    [
+     "5 – 3 – 1979",
+     "Trung Quốc tuyên bố rút quân"
+    ],
+    [
+     "Đến cuối thập niên 80",
+     "Mặt trận Vị Xuyên"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 12 năm 1978: Pôn Pốt tấn công Tây Ninh. Ngày 23 tháng 12: ta tổng phản công.",
+     "Recap! December 1978: Pol Pot attacks Tây Ninh. 23 December: our counter-offensive."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 17 tháng 2 năm 1979: Trung Quốc tấn công biên giới phía Bắc. Ngày 5 tháng 3: Trung Quốc tuyên bố rút quân.",
+     "17 February 1979: China attacks the northern border. 5 March: China announces withdrawal."
+    ],
+    [
+     "Hân Hân",
+     "Và căng thẳng kéo dài tới cuối những năm 80, nhất là ở mặt trận Vị Xuyên.",
+     "And tension lasts until the late 1980s, especially at Vị Xuyên."
+    ]
+   ],
+   "nguon_trang": [
+    102,
+    103
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Biên giới Tây Nam: 23 – 12 – 1978 tổng phản công, đánh bại quân xâm lược",
+    "Biên giới phía Bắc: 17 – 2 – 1979 chiến đấu kiên cường; 5 – 3 – 1979 Trung Quốc tuyên bố rút quân",
+    "Căng thẳng kéo dài đến cuối những năm 80, nhất là ở Vị Xuyên",
+    "Khẳng định quyết tâm bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ở biên giới Tây Nam, từ ngày 23 tháng 12 năm 1978, ta tổng phản công, đánh bại quân xâm lược.",
+     "Remember: in the southwest, from 23 December 1978, we counter-attacked and defeated the invaders."
+    ],
+    [
+     "Hân Hân",
+     "Ở biên giới phía Bắc, quân dân ta chiến đấu kiên cường; ngày 5 tháng 3 năm 1979, Trung Quốc phải tuyên bố rút quân.",
+     "In the north, our people fought steadfastly; on 5 March 1979, China had to announce its withdrawal."
+    ],
+    [
+     "Nhật Minh",
+     "Căng thẳng kéo dài đến cuối những năm 80, nhất là ở Vị Xuyên.",
+     "Tension lasted until the late 1980s, especially at Vị Xuyên."
+    ],
+    [
+     "Hân Hân",
+     "Tất cả khẳng định quyết tâm bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc.",
+     "All of it affirmed our resolve to defend independence, sovereignty and territorial integrity."
+    ]
+   ],
+   "nguon_trang": [
+    102,
+    103
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trang nghiêm trước bức tường đá khắc lời thề ở Điểm cao 468, rồi quay về phía người xem; Hân Hân khẽ giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cậu hiểu thế nào về lời thề “sống bám đá, chết hoá đá, thành bất tử”? Viết cảm nghĩ trong hai câu ở phần bình luận nhé!",
+     "Your challenge: what does the oath 'live clinging to the rock, die turning to stone, become immortal' mean to you? Share your thoughts in two sentences in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tháng 12 – 1978, chính quyền Pôn Pốt huy động lực lượng đơn phương tấn công tỉnh nào của Việt Nam?",
+   "dap_an": [
+    "An Giang",
+    "Tây Ninh",
+    "Kiên Giang",
+    "Lâm Đồng"
+   ],
+   "dung": 1,
+   "trang": 102
+  },
+  {
+   "hoi": "Chiến thắng biên giới Tây Nam đã tạo thời cơ cho",
+   "dap_an": [
+    "Cách mạng Cam-pu-chia giành thắng lợi",
+    "Lào gia nhập ASEAN",
+    "Việt Nam gia nhập Liên hợp quốc",
+    "Kết thúc Chiến tranh lạnh"
+   ],
+   "dung": 0,
+   "trang": 102
+  },
+  {
+   "hoi": "Ngày 17 – 2 – 1979, khoảng bao nhiêu quân Trung Quốc tấn công dọc tuyến biên giới phía Bắc?",
+   "dap_an": [
+    "19 vạn",
+    "30 vạn",
+    "60 vạn",
+    "100 vạn"
+   ],
+   "dung": 2,
+   "trang": 103
+  },
+  {
+   "hoi": "Trung Quốc tuyên bố rút quân khỏi biên giới phía Bắc Việt Nam vào ngày nào?",
+   "dap_an": [
+    "17 – 2 – 1979",
+    "5 – 3 – 1979",
+    "23 – 12 – 1978",
+    "Cuối năm 1989"
+   ],
+   "dung": 1,
+   "trang": 103
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 102–103 (mục Bảo vệ biên giới Tây Nam, Bảo vệ biên giới phía Bắc, Hình 20.3) và tr. 59 (năm 1979 lực lượng cách mạng Cam-pu-chia, với sự giúp đỡ của quân tình nguyện Việt Nam, lật đổ tập đoàn Pôn Pốt). Lời dẫn bám sát cách diễn đạt SGK cho chủ đề nhạy cảm; địa danh hành chính hiện nay (đảo Thổ Chu tỉnh An Giang, Vị Xuyên nay thuộc tỉnh Tuyên Quang) theo SGK. Kiến thức chốt của danh mục đúng SGK (ghi rõ mốc 23 – 12 – 1978 tổng phản công; 17 – 2 và 5 – 3 – 1979). SGK không có lược đồ: sa bàn 'bao-ve-bien-gioi' là bản đồ định vị vẽ bằng code, chỉ đánh dấu địa danh có trong SGK, toạ độ gần đúng, có Hoàng Sa, Trường Sa; không vẽ mũi tên tấn công ở biên giới phía Bắc (SGK chỉ nêu phạm vi Móng Cái – Phong Thổ). Không có cảnh thương vong, không lời thoại dựng. Chủ quyền biển đảo để dành cho tập L9-B20-03.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

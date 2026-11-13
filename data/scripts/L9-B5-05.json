@@ -1,0 +1,573 @@
+{
+ "ma": "L9-B5-05",
+ "ten_tap": "Cuộc đua của các tổ chức cách mạng",
+ "ten_tap_en": "The Race of the Revolutionary Organisations",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 5. Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+  "trang": [
+   24,
+   25
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "nguyen-thai-hoc",
+  "pho-duc-chinh"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, hồi hộp như một cuộc đua, lắng ở đoạn Yên Bái; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 5, tr. 24–25.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở vạch xuất phát trên đường chạy điền kinh của trường, ba làn chạy kẻ vạch trắng trải dài phía trước; buổi sáng trong xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối những năm 20 của thế kỉ XX, ở Việt Nam lần lượt ra đời các tổ chức yêu nước cách mạng.",
+     "In the late 1920s, revolutionary patriotic organisations were founded one after another in Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Giống như ba làn chạy, mỗi tổ chức chọn một con đường riêng. Con đường nào ngày càng thắng thế? Cùng tìm hiểu nhé!",
+     "Like three running lanes, each chose its own path. Which path gained the upper hand? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1925",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "BỐI CẢNH",
+   "y": [
+    "Phong trào dân tộc dân chủ phát triển",
+    "Thực dân Pháp tăng cường đàn áp",
+    "Người yêu nước đoàn kết, lập các tổ chức cách mạng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước sự phát triển của phong trào dân tộc dân chủ và sự đàn áp ngày càng tăng của thực dân Pháp, những người yêu nước đã đoàn kết, lập nên các tổ chức yêu nước cách mạng.",
+     "As the national democratic movement grew and French repression intensified, patriots united and founded revolutionary organisations."
+    ],
+    [
+     "Hân Hân",
+     "Đó là Hội Việt Nam Cách mạng Thanh niên, Tân Việt Cách mạng đảng và Việt Nam Quốc dân đảng.",
+     "They were the Vietnam Revolutionary Youth League, the Tân Việt Revolutionary Party and the Vietnam Nationalist Party."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HỘI VIỆT NAM CÁCH MẠNG THANH NIÊN",
+   "y": [
+    "Thành lập: 6 – 1925 tại Quảng Châu (Trung Quốc)",
+    "Người thành lập: Nguyễn Ái Quốc",
+    "Thành viên: thanh niên ưu tú ở Trung Quốc (Tâm tâm xã) và từ trong nước sang",
+    "Mục đích: cách mạng dân tộc, rồi cách mạng thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Làn thứ nhất: tháng 6 năm 1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu, Trung Quốc.",
+     "Lane one: in June 1925, Nguyễn Ái Quốc founded the Vietnam Revolutionary Youth League in Guangzhou, China."
+    ],
+    [
+     "Nhật Minh",
+     "Hội chọn những thanh niên ưu tú đang hoạt động ở Trung Quốc, trong tổ chức Tâm tâm xã, và những người từ trong nước sang.",
+     "It picked outstanding young people active in China, in the Tâm tâm xã group, and others who came from home."
+    ],
+    [
+     "Hân Hân",
+     "Mục đích của Hội: làm cách mạng dân tộc để giành độc lập, sau đó làm cách mạng thế giới để đi đến xã hội cộng sản.",
+     "Its aim: a national revolution to win independence, then a world revolution leading to communist society."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: bìa cuốn sách Đường Kách mệnh (1927) (như Hình 5.2 SGK, tr. 24)",
+    "tim": "Đường Kách mệnh 1927 bìa sách ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: bìa cuốn Đường Kách mệnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hội mở nhiều lớp huấn luyện cán bộ. Những bài giảng của Nguyễn Ái Quốc được tập hợp thành sách Đường Kách mệnh, năm 1927, rồi bí mật đưa về nước.",
+     "The League ran many cadre-training classes. Nguyễn Ái Quốc's lectures were collected into the book The Revolutionary Path in 1927 and secretly sent home."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "HỘI THANH NIÊN LỚN MẠNH",
+   "y": [
+    "1928: phong trào “vô sản hoá”",
+    "Trước 5 – 1929: cơ sở ở cả ba kì, Trung Quốc, Xiêm…",
+    "Góp phần truyền bá chủ nghĩa Mác – Lê-nin vào Việt Nam"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1928, Hội phát động phong trào “vô sản hoá”, đưa cán bộ vào các đồn điền, hầm mỏ trong nước để rèn luyện, tuyên truyền cách mạng.",
+     "In 1928, the League launched the 'proletarianisation' movement, sending cadres into plantations and mines at home to train themselves and spread revolution."
+    ],
+    [
+     "Nhật Minh",
+     "Đến trước tháng 5 năm 1929, Hội đã có cơ sở ở cả ba kì trong nước, ở Trung Quốc, Xiêm, góp phần truyền bá chủ nghĩa Mác – Lê-nin vào Việt Nam.",
+     "By May 1929, it had bases in all three regions of the country, in China and Siam, helping to spread Marxism–Leninism in Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội Việt Nam Cách mạng Thanh niên được thành lập ở đâu?",
+    "lua_chon": [
+     "Quảng Châu (Trung Quốc)",
+     "Pa-ri (Pháp)",
+     "Sài Gòn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hội Việt Nam Cách mạng Thanh niên được thành lập ở đâu?",
+     "Pause! Where was the Vietnam Revolutionary Youth League founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Quảng Châu, Trung Quốc, tháng 6 năm 1925!",
+     "The answer is A: Guangzhou, China, in June 1925!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "TÂN VIỆT CÁCH MẠNG ĐẢNG",
+   "y": [
+    "Tiền thân: Hội Phục Việt",
+    "7 – 1928: đổi tên thành Tân Việt Cách mạng đảng",
+    "Hoạt động chủ yếu ở Trung Kì",
+    "Từ dân chủ tư sản chuyển dần sang vô sản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Làn thứ hai: Tân Việt Cách mạng đảng, tiền thân là Hội Phục Việt. Tháng 7 năm 1928, tổ chức đổi tên thành Tân Việt Cách mạng đảng, hoạt động chủ yếu ở Trung Kì.",
+     "Lane two: the Tân Việt Revolutionary Party, formerly the Phục Việt Society. In July 1928 it took the name Tân Việt and worked mainly in Central Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Lực lượng chủ yếu là trí thức trẻ, thanh niên, tư sản yêu nước. Ban đầu theo khuynh hướng dân chủ tư sản, về sau chuyển dần sang khuynh hướng vô sản, dưới ảnh hưởng của Hội Việt Nam Cách mạng Thanh niên.",
+     "Its members were mostly young intellectuals, youth and patriotic bourgeois. At first bourgeois-democratic, it gradually moved to the proletarian path under the Youth League's influence."
+    ],
+    [
+     "Nhật Minh",
+     "Tân Việt giới thiệu sách báo yêu nước tiến bộ, tổ chức đấu tranh của học sinh, tiểu thương, công nhân; nhiều đảng viên được cử đi dự lớp huấn luyện của Hội Thanh niên.",
+     "Tân Việt spread progressive patriotic books, organised struggles of students, small traders and workers, and sent many members to the Youth League's classes."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tân Việt Cách mạng đảng chuyển dần sang khuynh hướng vô sản dưới ảnh hưởng của tổ chức nào?",
+    "lua_chon": [
+     "Việt Nam Quốc dân đảng",
+     "Hội Việt Nam Cách mạng Thanh niên",
+     "Đảng Lập hiến"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Tân Việt chuyển dần sang khuynh hướng vô sản dưới ảnh hưởng của tổ chức nào?",
+     "Quick test! Under whose influence did Tân Việt move towards the proletarian path?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Hội Việt Nam Cách mạng Thanh niên!",
+     "The answer is B: the Vietnam Revolutionary Youth League!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "VIỆT NAM QUỐC DÂN ĐẢNG",
+   "y": [
+    "Thành lập: 12 – 1927",
+    "Hạt nhân: Nam Đồng thư xã (Nguyễn Thái Học, Phó Đức Chính…)",
+    "Khuynh hướng dân chủ tư sản",
+    "Phương pháp: bạo động, ám sát cá nhân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Làn thứ ba: Việt Nam Quốc dân đảng, thành lập tháng 12 năm 1927, hạt nhân là một số thành viên Nam Đồng thư xã như Nguyễn Thái Học, Phó Đức Chính.",
+     "Lane three: the Vietnam Nationalist Party, founded in December 1927 around members of the Nam Đồng publishing house such as Nguyễn Thái Học and Phó Đức Chính."
+    ],
+    [
+     "Nhật Minh",
+     "Thành phần gồm tư sản dân tộc, binh lính người Việt trong quân đội Pháp, viên chức, học sinh, thân hào, thân sĩ ở nông thôn.",
+     "Members included national bourgeois, Vietnamese soldiers in the French army, clerks, students and rural notables."
+    ],
+    [
+     "Hân Hân",
+     "Đảng theo khuynh hướng dân chủ tư sản, muốn đánh đuổi giặc Pháp, thiết lập dân quyền bằng phương pháp bạo động, ám sát cá nhân.",
+     "It followed the bourgeois-democratic path, aiming to drive out the French and establish civil rights through violent uprising and assassinations."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1930",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Lăng mộ Nguyễn Thái Học và các liệt sĩ trong khởi nghĩa Yên Bái (phường Yên Bái, tỉnh Lào Cai) – như Hình 5.3 SGK, tr. 25",
+    "tim": "Lăng mộ Nguyễn Thái Học Yên Bái ảnh",
+    "yeu_cau": "ảnh chụp di tích công khai hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Ảnh: Lăng mộ Nguyễn Thái Học và các liệt sĩ khởi nghĩa Yên Bái",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu tháng 2 năm 1929, sau vụ ám sát tên trùm mộ phu Ba-danh, thực dân Pháp vây ráp lớn, nhiều cơ sở của Việt Nam Quốc dân đảng bị tan vỡ.",
+     "In early February 1929, after the assassination of the labour recruiter Ba-danh, the French launched large raids and many of the party's cells were broken up."
+    ],
+    [
+     "Hân Hân",
+     "Đêm 9 tháng 2 năm 1930, khởi nghĩa nổ ra ở thị xã Yên Bái, nay thuộc tỉnh Lào Cai, ở một số nơi thuộc Phú Thọ, sau đó ở Hải Dương, Thái Bình.",
+     "On the night of 9 February 1930, the uprising broke out in Yên Bái town, now in Lào Cai province, in parts of Phú Thọ, and then in Hải Dương and Thái Bình."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cuộc khởi nghĩa nhanh chóng bị thực dân Pháp đàn áp dã man.",
+     "But it was quickly and savagely crushed by the French colonialists."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc khởi nghĩa nổ ra đêm 9 – 2 – 1930 ở Yên Bái do tổ chức nào phát động?",
+    "lua_chon": [
+     "Tân Việt Cách mạng đảng",
+     "Việt Nam Quốc dân đảng",
+     "Hội Việt Nam Cách mạng Thanh niên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Khởi nghĩa Yên Bái do tổ chức nào phát động?",
+     "One more! Which organisation launched the Yên Bái uprising?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Việt Nam Quốc dân đảng!",
+     "The answer is B: the Vietnam Nationalist Party!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾT QUẢ CUỘC ĐUA",
+   "y": [
+    "Khởi nghĩa Yên Bái thất bại: khuynh hướng dân chủ tư sản bất lực",
+    "Hội Thanh niên phát triển, Tân Việt chuyển biến",
+    "Khuynh hướng vô sản ngày càng thắng thế"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thất bại của khởi nghĩa Yên Bái và sự tan rã nhanh chóng của Việt Nam Quốc dân đảng cho thấy khuynh hướng dân chủ tư sản đã hoàn toàn bất lực trước nhiệm vụ cứu nước.",
+     "The failure at Yên Bái and the party's rapid collapse showed the bourgeois-democratic path was utterly powerless to save the nation."
+    ],
+    [
+     "Nhật Minh",
+     "Còn sự phát triển của Hội Thanh niên và sự chuyển biến của Tân Việt cho thấy: khuynh hướng vô sản ngày càng thắng thế!",
+     "Meanwhile, the Youth League's growth and Tân Việt's shift showed the proletarian path was gaining the upper hand!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁC TỔ CHỨC CÁCH MẠNG",
+   "moc": [
+    [
+     "6 – 1925",
+     "Hội Việt Nam Cách mạng Thanh niên"
+    ],
+    [
+     "1927",
+     "Sách Đường Kách mệnh"
+    ],
+    [
+     "12 – 1927",
+     "Việt Nam Quốc dân đảng"
+    ],
+    [
+     "7 – 1928",
+     "Tân Việt Cách mạng đảng"
+    ],
+    [
+     "9 – 2 – 1930",
+     "Khởi nghĩa Yên Bái"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    3
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 6 năm 1925: Hội Việt Nam Cách mạng Thanh niên.",
+     "Recap! June 1925: the Revolutionary Youth League."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1927: sách Đường Kách mệnh. Tháng 12 năm 1927: Việt Nam Quốc dân đảng.",
+     "1927: The Revolutionary Path. December 1927: the Nationalist Party."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1928: Tân Việt Cách mạng đảng.",
+     "July 1928: the Tân Việt Revolutionary Party."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 9 tháng 2 năm 1930: khởi nghĩa Yên Bái.",
+     "9 February 1930: the Yên Bái uprising."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Hội Việt Nam Cách mạng Thanh niên (6 – 1925): truyền bá chủ nghĩa Mác – Lê-nin",
+    "Tân Việt (7 – 1928): chuyển dần sang khuynh hướng vô sản",
+    "Việt Nam Quốc dân đảng (12 – 1927): khởi nghĩa Yên Bái thất bại",
+    "Khuynh hướng vô sản ngày càng thắng thế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Hội Việt Nam Cách mạng Thanh niên góp phần truyền bá chủ nghĩa Mác – Lê-nin vào Việt Nam.",
+     "Remember: the Youth League helped bring Marxism–Leninism to Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Tân Việt chuyển dần sang khuynh hướng vô sản.",
+     "Tân Việt gradually turned proletarian."
+    ],
+    [
+     "Nhật Minh",
+     "Việt Nam Quốc dân đảng thất bại với khởi nghĩa Yên Bái.",
+     "The Nationalist Party failed with the Yên Bái uprising."
+    ],
+    [
+     "Hân Hân",
+     "Và khuynh hướng vô sản ngày càng thắng thế.",
+     "And the proletarian path increasingly prevailed."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng giữa đường chạy điền kinh của trường, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo em, vì sao hoạt động của Việt Nam Quốc dân đảng không thành công? Bình luận nhé!",
+     "Your challenge: why do you think the Vietnam Nationalist Party did not succeed? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai thành lập Hội Việt Nam Cách mạng Thanh niên (6 – 1925)?",
+   "dap_an": [
+    "Phan Châu Trinh",
+    "Nguyễn Ái Quốc",
+    "Nguyễn Thái Học",
+    "Tôn Đức Thắng"
+   ],
+   "dung": 1,
+   "trang": 24
+  },
+  {
+   "hoi": "Năm 1928, Hội Việt Nam Cách mạng Thanh niên phát động phong trào nào?",
+   "dap_an": [
+    "Đông du",
+    "Vô sản hoá",
+    "Duy tân",
+    "Chấn hưng nội hoá"
+   ],
+   "dung": 1,
+   "trang": 24
+  },
+  {
+   "hoi": "Việt Nam Quốc dân đảng theo khuynh hướng nào?",
+   "dap_an": [
+    "Vô sản",
+    "Dân chủ tư sản",
+    "Quân chủ lập hiến",
+    "Phong kiến"
+   ],
+   "dung": 1,
+   "trang": 25
+  },
+  {
+   "hoi": "Thất bại của khởi nghĩa Yên Bái cho thấy điều gì?",
+   "dap_an": [
+    "Khuynh hướng dân chủ tư sản hoàn toàn bất lực trước nhiệm vụ cứu nước",
+    "Khuynh hướng vô sản thất bại",
+    "Phong trào công nhân chấm dứt",
+    "Pháp từ bỏ Đông Dương"
+   ],
+   "dung": 0,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 24–25 (mục 4 Sự ra đời của các tổ chức yêu nước cách mạng; Hình 5.2, Hình 5.3). Đã chỉnh kiến thức chốt của danh mục cho đúng SGK: Hội Thanh niên 'góp phần truyền bá' chủ nghĩa Mác – Lê-nin; khuynh hướng vô sản 'ngày càng thắng thế'. Địa danh hiện nay (Yên Bái nay thuộc tỉnh Lào Cai) theo SGK tr. 25. Ẩn dụ 'ba làn chạy' chỉ là cách dẫn chuyện. Lãnh tụ, nhân vật chỉ được nhắc tên, không dùng chân dung; ảnh di tích là ảnh chụp hiện nay.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "ma": "L6-B17-01",
+ "ten_tap": "Vì sao văn hoá Việt không bị đồng hoá?",
+ "ten_tap_en": "Why Wasn't Việt Culture Assimilated?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 17. Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+  "trang": [
+   68,
+   78
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-thoi-bac-thuoc"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, tự hào, tiếng ru dân gian nhẹ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện đời sống làng Việt thời Bắc thuộc mang tính minh hoạ; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 15, tr. 68; Bài 17, tr. 78.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Hân Hân (đồng phục FPT) cầm cuốn SGK Lịch sử, quay sang Nhật Minh với vẻ mặt thắc mắc; phía sau là bảng lớp có chữ 'Thời Bắc thuộc'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hơn một nghìn năm Bắc thuộc, vậy mà người Việt vẫn nói tiếng Việt, vẫn giữ phong tục của mình. Vì sao nhỉ?",
+     "Over a thousand years of northern rule, yet the Việt still spoke Vietnamese and kept their customs. Why?"
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    78
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Khung dọc 9:16: ở cổng làng thời Bắc thuộc, quan lại phương Bắc dán cáo thị; phía sau, trong làng, người dân vẫn sinh hoạt bình thường bên mái đình, cây đa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phương Bắc tìm nhiều cách thủ tiêu văn hoá Việt, nhưng sau hàng nghìn năm vẫn thất bại.",
+     "The north tried many ways to destroy Việt culture, but after a thousand years still failed."
+    ],
+    [
+     "Hân Hân",
+     "Vì người Việt luôn có ý thức giữ gìn nền văn hoá bản địa của mình!",
+     "Because the Việt always worked to protect their own culture!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân ngồi lặng ở góc hiên nhà sàn thời Bắc thuộc, nhìn bà ru cháu bằng lời ru tiếng Việt; trên bàn thờ tổ tiên khói hương nghi ngút",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghe kìa! Tiếng Việt vẫn được truyền dạy cho con cháu, người Việt vẫn nói hoàn toàn bằng tiếng mẹ đẻ.",
+     "Listen! Vietnamese was still passed down; people spoke only their mother tongue."
+    ],
+    [
+     "Hân Hân",
+     "Tục thờ cúng tổ tiên, thờ các vị thần tự nhiên cũng vẫn được duy trì.",
+     "Ancestor worship and nature spirits lived on too."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Trong thời Bắc thuộc, người Việt vẫn nghe và nói bằng",
+    "lua_chon": [
+     "Tiếng mẹ đẻ (tiếng Việt)",
+     "Tiếng Hán",
+     "Tiếng Phạn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Thời Bắc thuộc, người Việt vẫn nói bằng thứ tiếng nào?",
+     "Pause! What language did the Việt still speak under northern rule?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tiếng mẹ đẻ, tiếng Việt!",
+     "The answer is A: their mother tongue, Vietnamese!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem, phía sau là mâm cỗ Tết có bánh chưng; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhuộm răng đen, ăn trầu, làm bánh chưng… vẫn được lưu truyền qua bao đời.",
+     "Blackened teeth, betel, bánh chưng… were handed down for generations."
+    ],
+    [
+     "Hân Hân",
+     "Bình luận nhé: cậu đang giữ gìn văn hoá Việt bằng cách nào?",
+     "Comment below: how do you keep Việt culture alive?"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Các triều đại phong kiến phương Bắc có thủ tiêu được văn hoá của người Việt không?",
+   "dap_an": [
+    "Không, sau hàng nghìn năm vẫn không đạt được mục đích",
+    "Có, văn hoá Việt mất hết",
+    "Có, người Việt chỉ nói tiếng Hán",
+    "Không biết"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Tín ngưỡng nào của người Việt được duy trì trong thời Bắc thuộc?",
+   "dap_an": [
+    "Thờ cúng tổ tiên, thờ các vị thần tự nhiên",
+    "Thờ Pha-ra-ông",
+    "Thờ thần A-tê-na",
+    "Thờ Thần – Vua"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Phong tục nào được người Việt lưu truyền trong thời Bắc thuộc?",
+   "dap_an": [
+    "Nhuộm răng đen, ăn trầu, làm bánh chưng",
+    "Ướp xác",
+    "Bỏ phiếu bằng vỏ sò",
+    "Đẳng cấp Vác-na"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Thời kì Bắc thuộc kéo dài",
+   "dap_an": [
+    "Hơn một nghìn năm",
+    "Khoảng mười năm",
+    "Khoảng một trăm năm",
+    "Hai nghìn năm trở lên"
+   ],
+   "dung": 0,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 68 ('trong hơn một nghìn năm Bắc thuộc') và tr. 78 (phần mở đầu, mục 1 – tiếng Việt, tín ngưỡng, phong tục). Kiến thức chốt của danh mục khớp SGK. Phân vai với tập L6-B17-02: tập 60 giây này nêu câu hỏi và ý chính, tập 2 – 3 phút đi sâu từng phong tục.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

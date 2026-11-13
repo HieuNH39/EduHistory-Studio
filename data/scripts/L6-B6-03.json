@@ -1,0 +1,522 @@
+{
+ "ma": "L6-B6-03",
+ "ten_tap": "Dấu ấn văn hoá đồ đồng trên đất Việt",
+ "ten_tap_en": "Traces of the Bronze Age in Việt Nam",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 6. Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+  "trang": [
+   24,
+   26,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-van-hoa-phung-nguyen",
+  "cu-dan-van-hoa-dong-dau",
+  "cu-dan-tien-sa-huynh",
+  "cu-dan-van-hoa-go-mun",
+  "cu-dan-van-hoa-dong-nai"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, khám phá, nhịp đều; ấm và rộng mở ở đoạn định cư ven sông",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện cuộc sống cư dân thời đồ đồng mang tính minh hoạ; hiện vật vẽ theo mô tả và Hình 3, Hình 4 SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 6, tr. 24, 26–27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng trưng bày khảo cổ của một bảo tàng hiện đại, cúi nhìn tủ kính có những chiếc rìu, mũi tên, mũi giáo, lưỡi câu bằng đồng xỉn màu xanh; đèn vàng dịu, nhãn hiện vật để trống",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn những chiếc rìu, mũi tên, lưỡi câu xỉn màu này xem. Tất cả đều làm bằng đồng đấy!",
+     "Look at these dull axes, arrowheads and fishhooks. They're all made of bronze!"
+    ],
+    [
+     "Nhật Minh",
+     "Vậy người xưa trên đất Việt biết dùng đồ đồng từ bao giờ nhỉ? Tụi mình cùng lần theo dấu vết nhé!",
+     "So when did people in ancient Việt Nam start using bronze? Let's follow the trail!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thiên niên kỉ IV TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Người nguyên thuỷ đứng quanh đống tro của một đám cháy vừa tàn, một người cúi nhặt những cục kim loại đỏ sẫm vón lại từ tro nóng, những người khác tò mò nhìn; công cụ đá đặt bên cạnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng thiên niên kỉ IV trước Công nguyên, người nguyên thuỷ đã tìm ra một nguyên liệu mới để làm công cụ và vũ khí thay cho đồ đá: kim loại.",
+     "Around the 4th millennium BCE, early humans found a new material to replace stone for tools and weapons: metal."
+    ],
+    [
+     "Hân Hân",
+     "Đồng được phát hiện một cách ngẫu nhiên từ các đám cháy. Những thỏi đồng nóng chảy rồi vón cục chính là đồng đỏ, tức đồng nguyên chất.",
+     "Copper was discovered by chance in fires. The lumps that melted and set were red copper, pure copper."
+    ],
+    [
+     "Nhật Minh",
+     "Sau đó, người ta biết pha chế để tạo ra đồng thau.",
+     "Later, people learned to mix in other metals to make bronze."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-phung-nguyen"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi cây trên một gò đồi trung du, quan sát một làng nhà sàn mái tranh thời tiền sử; bên bếp lò đất nhỏ, vài người đàn ông đóng khố đang xem những mẩu đồng nhỏ, mảnh vòng; chiều nắng nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn trên đất nước mình, từ khoảng 4 000 năm trước, cư dân ở Bắc Bộ, Trung Bộ và Nam Bộ đã biết tới đồ đồng.",
+     "In our land, from about 4,000 years ago, people in the North, the Centre and the South already knew bronze."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là văn hoá Phùng Nguyên ở Bắc Bộ, khoảng 2000 năm trước Công nguyên. Ở đây đã tìm thấy mẫu xỉ đồng, mẫu đồng thau nhỏ, mảnh vòng và đoạn dây chì.",
+     "This is the Phùng Nguyên culture in the North, around 2000 BCE. Copper slag, small pieces of bronze, bits of bracelets and lead wire have been found here."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-dong-dau"
+   ],
+   "hinh": "Cư dân văn hoá Đồng Đậu bên hiên nhà sàn: một người dùng đục đồng khoét gỗ, một người mài mũi tên đồng, một em nhỏ cầm lưỡi câu đồng; trên chiếu bày dùi, cán dao, mũi tên, lưỡi câu bằng đồng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng 1500 năm trước Công nguyên là văn hoá Đồng Đậu, cũng ở Bắc Bộ.",
+     "Around 1500 BCE came the Đồng Đậu culture, also in the North."
+    ],
+    [
+     "Hân Hân",
+     "Hiện vật bằng đồng ở đây đã khá phổ biến: đục, dùi, cán dao, mũi tên, lưỡi câu…",
+     "Bronze objects were fairly common here: chisels, awls, knife handles, arrowheads, fishhooks…"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-tien-sa-huynh"
+   ],
+   "hinh": "Bờ biển miền Trung thời tiền sử: cư dân tiền Sa Huỳnh đứng trên bãi cát, một người phóng lao đồng xuống vùng nước nông bắt cá, một người buộc lưỡi câu đồng vào dây; thuyền độc mộc kéo lên bờ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng khoảng thời gian đó, ở Trung Bộ có văn hoá tiền Sa Huỳnh.",
+     "Around the same time, the Centre had the pre-Sa Huỳnh culture."
+    ],
+    [
+     "Nhật Minh",
+     "Cư dân nơi đây để lại các hiện vật bằng đồng như đục, lao, mũi tên, lưỡi câu.",
+     "People here left bronze objects such as chisels, spears, arrowheads and fishhooks."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nền văn hoá đồ đồng nào thuộc vùng Trung Bộ?",
+    "lua_chon": [
+     "Văn hoá Đồng Nai",
+     "Văn hoá tiền Sa Huỳnh",
+     "Văn hoá Gò Mun"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nền văn hoá đồ đồng nào thuộc vùng Trung Bộ?",
+     "Pause! Which Bronze Age culture belongs to the Central region?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: văn hoá tiền Sa Huỳnh!",
+     "The answer is B: the pre-Sa Huỳnh culture!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-go-mun"
+   ],
+   "hinh": "Cư dân văn hoá Gò Mun trước nhà sàn, xếp ra một tấm phên tre các hiện vật đồng (vẽ theo Hình 4 SGK): rìu lưỡi xéo, mũi giáo, mũi tên, dao, dùi, đục, lưỡi câu; một người đàn ông giơ chiếc rìu lưỡi xéo lên ngắm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng 1000 năm trước Công nguyên, ở Bắc Bộ là văn hoá Gò Mun.",
+     "Around 1000 BCE, the North had the Gò Mun culture."
+    ],
+    [
+     "Hân Hân",
+     "Lúc này, hiện vật bằng đồng đã chiếm hơn một nửa số hiện vật tìm được!",
+     "By now, bronze made up more than half of all the objects found!"
+    ],
+    [
+     "Nhật Minh",
+     "Có vũ khí như mũi tên, dao, giáo; có lưỡi câu, dùi, đục, và đặc biệt là rìu lưỡi xéo.",
+     "There were weapons like arrows, knives and spears, plus fishhooks, awls, chisels and, notably, slanted-blade axes."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-dong-nai"
+   ],
+   "hinh": "Ven một dòng sông rộng ở Nam Bộ thời tiền sử, cư dân văn hoá Đồng Nai: một người cầm lao có ngạnh đứng trên thuyền, một người cầm rìu đồng chặt cây, bên bờ dựng giáo và bó mũi tên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cũng khoảng 1000 năm trước Công nguyên, ở Nam Bộ có văn hoá Đồng Nai.",
+     "Also around 1000 BCE, the South had the Đồng Nai culture."
+    ],
+    [
+     "Nhật Minh",
+     "Hiện vật bằng đồng gồm rìu, giáo, lao có ngạnh, mũi tên, lưỡi câu…",
+     "Its bronze objects include axes, spears, barbed javelins, arrowheads, fishhooks…"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở văn hoá Gò Mun, hiện vật bằng đồng chiếm bao nhiêu trong số hiện vật tìm được?",
+    "lua_chon": [
+     "Rất ít",
+     "Hơn một nửa",
+     "Toàn bộ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Ở văn hoá Gò Mun, hiện vật bằng đồng chiếm bao nhiêu trong số hiện vật tìm được?",
+     "Quick test! At Gò Mun, how much of the objects found were bronze?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: hơn một nửa! Đồ đồng ngày càng phổ biến.",
+     "The answer is B: more than half! Bronze kept getting more common."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-go-mun"
+   ],
+   "hinh": "Cánh đồng lúa ven sông thời đồ đồng: một người đàn ông điều khiển chiếc cày gỗ có lắp lưỡi đồng do bò kéo; phía xa phụ nữ dùng lưỡi hái gặt lúa chín; đồi trung du mờ phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Công cụ kim loại giúp người nguyên thuỷ mở rộng địa bàn cư trú. Một số người rời vùng trung du, chuyển xuống các vùng đồng bằng ven sông.",
+     "Metal tools let people spread out. Some left the midlands and moved down to the river plains."
+    ],
+    [
+     "Hân Hân",
+     "Họ dùng cày gỗ có lắp lưỡi bằng đồng để cày ruộng, trồng lúa, và dùng lưỡi hái để gặt.",
+     "They ploughed with wooden ploughs fitted with bronze shares, grew rice, and harvested with sickles."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-go-mun"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một gò đất cao, nhìn xuống một khu dân cư đông đúc thời cổ bên bờ sông lớn: nhiều nhà sàn san sát, ruộng lúa, thuyền độc mộc trên sông, khói bếp bay lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kinh tế phát triển dẫn đến sự phân hoá trong đời sống xã hội. Cuộc sống ngày càng ổn định hơn.",
+     "Economic growth led to divisions in society. Life became more and more settled."
+    ],
+    [
+     "Nhật Minh",
+     "Người xưa định cư lâu dài ven các con sông lớn như sông Hồng, sông Mã, sông Thu Bồn, sông Đồng Nai…",
+     "People settled for good along big rivers like the Hồng, the Mã, the Thu Bồn and the Đồng Nai…"
+    ],
+    [
+     "Hân Hân",
+     "Những khu dân cư đông đúc hình thành ở đây chính là cơ sở cho sự ra đời các quốc gia cổ đầu tiên trên đất nước Việt Nam.",
+     "The busy settlements that grew here laid the foundation for the first ancient states in Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người xưa lắp lưỡi bằng đồng vào công cụ nào để cày ruộng?",
+    "lua_chon": [
+     "Cày gỗ",
+     "Gậy tre",
+     "Cuốc đá"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Người xưa lắp lưỡi bằng đồng vào công cụ nào để cày ruộng?",
+     "Pause! What did people fit a bronze blade onto to plough their fields?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cày gỗ!",
+     "The answer is A: a wooden plough!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · VĂN HOÁ ĐỒ ĐỒNG Ở VIỆT NAM",
+   "moc": [
+    [
+     "2000 TCN",
+     "Phùng Nguyên (Bắc Bộ)"
+    ],
+    [
+     "1500 TCN",
+     "Đồng Đậu (Bắc Bộ), tiền Sa Huỳnh (Trung Bộ)"
+    ],
+    [
+     "1000 TCN",
+     "Gò Mun (Bắc Bộ), Đồng Nai (Nam Bộ)"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng xếp lại trên trục thời gian nhé! Khoảng 2000 năm trước Công nguyên: văn hoá Phùng Nguyên ở Bắc Bộ.",
+     "Let's line them up on a timeline! Around 2000 BCE: the Phùng Nguyên culture in the North."
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng 1500 năm trước Công nguyên: văn hoá Đồng Đậu ở Bắc Bộ và văn hoá tiền Sa Huỳnh ở Trung Bộ.",
+     "Around 1500 BCE: Đồng Đậu in the North and pre-Sa Huỳnh in the Centre."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 1000 năm trước Công nguyên: văn hoá Gò Mun ở Bắc Bộ và văn hoá Đồng Nai ở Nam Bộ.",
+     "Around 1000 BCE: Gò Mun in the North and Đồng Nai in the South."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại phòng trưng bày bảo tàng, đứng hai bên tủ kính hiện vật đồng, nét mặt hào hứng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoá ra mỗi chiếc rìu, mũi tên bằng đồng trong tủ kính này đều kể lại một chặng đường của cư dân cổ trên đất Việt.",
+     "So every bronze axe and arrowhead in this case tells part of the story of the early people of Việt Nam."
+    ],
+    [
+     "Hân Hân",
+     "Từ những công cụ ấy, người xưa xuống đồng bằng ven sông, trồng lúa, rồi dựng nên những quốc gia cổ đầu tiên.",
+     "With those tools, they moved down to the river plains, grew rice and went on to build the first ancient states."
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Khoảng 4 000 năm trước: cư dân Bắc Bộ, Trung Bộ, Nam Bộ biết tới đồ đồng",
+    "Bắc Bộ: Phùng Nguyên – Đồng Đậu – Gò Mun",
+    "Trung Bộ: tiền Sa Huỳnh · Nam Bộ: Đồng Nai",
+    "Định cư ven sông lớn → cơ sở cho các quốc gia cổ đầu tiên"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ khoảng 4 000 năm trước, cư dân Bắc Bộ, Trung Bộ và Nam Bộ đã biết tới đồ đồng.",
+     "Remember: from about 4,000 years ago, people in the North, Centre and South knew bronze."
+    ],
+    [
+     "Hân Hân",
+     "Ở Bắc Bộ có ba nền văn hoá nối tiếp: Phùng Nguyên, Đồng Đậu, Gò Mun.",
+     "The North had three cultures in a row: Phùng Nguyên, Đồng Đậu and Gò Mun."
+    ],
+    [
+     "Nhật Minh",
+     "Trung Bộ có văn hoá tiền Sa Huỳnh, Nam Bộ có văn hoá Đồng Nai.",
+     "The Centre had pre-Sa Huỳnh; the South had Đồng Nai."
+    ],
+    [
+     "Hân Hân",
+     "Định cư ven các sông lớn, hình thành khu dân cư đông đúc: cơ sở cho các quốc gia cổ đầu tiên.",
+     "Settling along big rivers created busy communities: the basis for the first ancient states."
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng ở sảnh bảo tàng, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ngày nay đồng còn được dùng để làm những vật dụng gì? Vì sao công cụ và vũ khí bằng đồng ngày càng ít được dùng? Bình luận cho tụi mình biết nhé!",
+     "Your challenge: what is copper still used for today? And why are bronze tools and weapons used less and less? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ khoảng bao nhiêu năm trước, cư dân ở Bắc Bộ, Trung Bộ và Nam Bộ đã biết tới đồ đồng?",
+   "dap_an": [
+    "1 000 năm",
+    "2 000 năm",
+    "4 000 năm",
+    "10 000 năm"
+   ],
+   "dung": 2,
+   "trang": 26
+  },
+  {
+   "hoi": "Ba nền văn hoá đồ đồng nối tiếp nhau ở Bắc Bộ là",
+   "dap_an": [
+    "Phùng Nguyên – Đồng Đậu – Gò Mun",
+    "Sa Huỳnh – Đồng Nai – Óc Eo",
+    "Hoà Bình – Bắc Sơn – Quỳnh Văn",
+    "Đồng Nai – Gò Mun – tiền Sa Huỳnh"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Loại rìu đặc biệt được tìm thấy ở văn hoá Gò Mun là",
+   "dap_an": [
+    "Rìu đá mài",
+    "Rìu lưỡi xéo bằng đồng",
+    "Rìu sắt",
+    "Rìu tay bằng đá ghè"
+   ],
+   "dung": 1,
+   "trang": 26
+  },
+  {
+   "hoi": "Những khu dân cư đông đúc ven các sông lớn như sông Hồng, sông Mã, sông Thu Bồn, sông Đồng Nai là cơ sở cho",
+   "dap_an": [
+    "Sự xuất hiện công cụ đá",
+    "Sự xuất hiện các quốc gia cổ đầu tiên trên đất nước Việt Nam",
+    "Việc phát hiện ra lửa",
+    "Sự ra đời của chữ viết"
+   ],
+   "dung": 1,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 24 (mục 1a, ô Em có biết), tr. 26 (mục 2a, Hình 3 – đọc niên đại từ ảnh trang vì OCR tách rời ô, Hình 4; mục 2b), tr. 27 (đoạn đầu, câu hỏi Vận dụng 3). Hiệu đính kiến thức chốt của danh mục: SGK viết 'cư dân ở Bắc Bộ, Trung Bộ và Nam Bộ đã biết tới đồ đồng' (không phải 'cư dân Việt Nam đã biết dùng'); 'khu vực dân cư đông đúc là cơ sở cho sự xuất hiện các quốc gia cổ đầu tiên' (giữ đúng chữ 'cơ sở'). Niên đại từng nền văn hoá là mốc xấp xỉ theo trục Hình 3 (2000/1500/1000 TCN), nên lời đọc dùng 'khoảng'. Không có lời thoại cho cư dân cổ (nhóm vô danh). Không dựng sa bàn: lược đồ di chỉ (Hình 3, tr. 22) không phải trận đánh/tuyến hành quân, dùng trục thời gian thay thế.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

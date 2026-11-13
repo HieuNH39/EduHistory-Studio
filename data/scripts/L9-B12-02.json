@@ -1,0 +1,542 @@
+{
+ "ma": "L9-B12-02",
+ "ten_tap": "Cu-ba: Hòn đảo tự do",
+ "ten_tap_en": "Cuba: The Island of Freedom",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   52,
+   53,
+   54
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phi-den-cat-xto-ro",
+  "ba-ti-xta",
+  "nghia-quan-cu-ba"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, quyết liệt ở phần cách mạng, tươi sáng ở phần xây dựng đất nước; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 52–54.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường; Hân Hân xoay quả địa cầu lớn, ngón tay dừng ở hòn đảo Cu-ba trong vùng biển Ca-ri-bê; trên bàn có sách Lịch sử và Địa lí 9; ánh nắng chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hòn đảo dài này là Cu-ba, nước đi tiên phong trong cuộc cách mạng dân tộc dân chủ ở Mỹ La-tinh.",
+     "This long island is Cuba, the pioneer of the national democratic revolution in Latin America."
+    ],
+    [
+     "Nhật Minh",
+     "Từ một trận đánh thất bại đến ngày cách mạng toàn thắng, hành trình của Cu-ba diễn ra thế nào? Cùng xem nhé!",
+     "From a failed attack to the day the revolution triumphed, how did Cuba's journey unfold? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1952",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "cu-ba",
+   "pha": "vi_tri",
+   "thoi_luong_toi_thieu": 13,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Chiến tranh thế giới thứ hai, Mỹ tìm cách thiết lập các chế độ độc tài thân Mỹ ở Mỹ La-tinh, nhằm biến khu vực này thành “sân sau” của mình.",
+     "After World War II, the US sought to install pro-American dictatorships in Latin America, to turn the region into its 'backyard'."
+    ],
+    [
+     "Hân Hân",
+     "Ở Cu-ba, tháng 3 năm 1952, chế độ độc tài quân sự của tướng Ba-ti-xta được thiết lập, với sự trợ giúp của Mỹ.",
+     "In Cuba, in March 1952, the military dictatorship of General Batista was set up with US help."
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    53
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "cu-ba",
+   "pha": "mon_ca_da",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1953, luật sư Phi-đen Cát-xtơ-rô lãnh đạo 135 thanh niên yêu nước tấn công pháo đài Môn-ca-đa, nhưng thất bại.",
+     "In July 1953, lawyer Fidel Castro led 135 young patriots in an attack on the Moncada fortress, but it failed."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "cu-ba",
+   "pha": "me_hi_co",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1955, Phi-đen bị trục xuất, phải chuyển sang Mê-hi-cô hoạt động.",
+     "In 1955, Fidel was expelled and had to move his activities to Mexico."
+    ],
+    [
+     "Nhật Minh",
+     "Tại đây, ông thành lập một tổ chức cách mạng lấy tên Phong trào 26 – 7, để xây dựng lực lượng, huấn luyện quân sự.",
+     "There he founded a revolutionary organisation, the 26th of July Movement, to build forces and give military training."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phi-đen Cát-xtơ-rô thành lập Phong trào 26 – 7 ở đâu?",
+    "lua_chon": [
+     "Cu-ba",
+     "Mê-hi-cô",
+     "Mỹ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phong trào 26 – 7 được thành lập ở đâu?",
+     "Pause! Where was the 26th of July Movement founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ở Mê-hi-cô, sau khi Phi-đen bị trục xuất!",
+     "The answer is B: in Mexico, after Fidel was expelled!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "cu-ba",
+   "pha": "gran_ma",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 11 năm 1956, Phi-đen Cát-xtơ-rô cùng 81 chiến sĩ yêu nước trên tàu Gran-ma trở về Cu-ba,",
+     "In November 1956, Fidel Castro and 81 patriotic fighters sailed back to Cuba on the Granma,"
+    ],
+    [
+     "Hân Hân",
+     "lập căn cứ địa và phát triển lực lượng.",
+     "set up a base area and built up their forces."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "cu-ba",
+   "pha": "toan_thang",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối năm 1958, nghĩa quân tổng công kích xuống đồng bằng, giải phóng các đô thị và nhiều vùng ở nông thôn.",
+     "In late 1958, the rebels launched a general offensive into the lowlands, liberating cities and many rural areas."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 1 tháng 1 năm 1959, nghĩa quân tiến về Thủ đô La Ha-ba-na. Chế độ độc tài Ba-ti-xta bị lật đổ!",
+     "On 1 January 1959, the rebels marched on the capital, Havana. The Batista dictatorship was overthrown!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tổng Tư lệnh Phi-đen Cát-xtơ-rô tuyên bố chế độ độc tài đã bị lật đổ ở Cu-ba, tháng 1 – 1959 (như Hình 12.2 SGK, tr. 52)",
+    "tim": "Fidel Castro January 1959 speech photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Phi-đen Cát-xtơ-rô tuyên bố chế độ độc tài bị lật đổ (1 – 1959)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng giành thắng lợi, nước Cộng hoà Cu-ba được thành lập.",
+     "The revolution triumphed and the Republic of Cuba was established."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là ảnh tư liệu: Tổng Tư lệnh Phi-đen Cát-xtơ-rô tuyên bố chế độ độc tài đã bị lật đổ ở Cu-ba, tháng 1 năm 1959.",
+     "This archive photo shows Commander-in-Chief Fidel Castro announcing the dictatorship's overthrow in Cuba, January 1959."
+    ]
+   ],
+   "nguon_trang": [
+    53,
+    52
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cách mạng Cu-ba giành thắng lợi vào ngày nào?",
+    "lua_chon": [
+     "Tháng 7 – 1953",
+     "Tháng 11 – 1956",
+     "Ngày 1 – 1 – 1959"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Cách mạng Cu-ba giành thắng lợi vào ngày nào?",
+     "Quick test! On what date did the Cuban revolution triumph?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: ngày 1 tháng 1 năm 1959!",
+     "The answer is C: 1 January 1959!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1961",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "XÂY DỰNG CHỦ NGHĨA XÃ HỘI (1961 – 1991)",
+   "y": [
+    "Từ 1961: xây dựng chủ nghĩa xã hội",
+    "Hiến pháp 1976: thể chế hoá quyền lợi nhân dân lao động",
+    "Công nghiệp chế tạo máy móc, năng lượng",
+    "Nông nghiệp đa canh, từng bước cơ giới hoá"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1961, Cu-ba tiến hành xây dựng chủ nghĩa xã hội. Hiến pháp năm 1976 đã thể chế hoá quyền lợi của nhân dân lao động và con đường xây dựng chủ nghĩa xã hội.",
+     "From 1961, Cuba set about building socialism. The 1976 Constitution enshrined the rights of working people and the socialist path."
+    ],
+    [
+     "Hân Hân",
+     "Sau 30 năm, từ nền nông nghiệp độc canh trồng mía và công nghiệp đơn nhất khai thác mỏ, kĩ thuật lạc hậu, Cu-ba đã xây dựng được công nghiệp chế tạo máy móc, năng lượng.",
+     "After 30 years, from sugar-cane monoculture and a single mining industry with backward technology, Cuba built machine-making and energy industries."
+    ],
+    [
+     "Nhật Minh",
+     "Nông nghiệp trở nên đa canh: mía, rau quả, thuốc lá, chăn nuôi, và từng bước được cơ giới hoá.",
+     "Farming diversified into sugar cane, vegetables and fruit, tobacco and livestock, and was gradually mechanised."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: máy cắt mía KTP 1 đầu tiên của Cu-ba, sản xuất năm 1977 (như Hình 12.4 SGK, tr. 54)",
+    "tim": "KTP-1 sugar cane harvester Cuba 1977",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: máy cắt mía KTP 1 của Cu-ba (1977)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là chiếc máy cắt mía KTP 1 đầu tiên của Cu-ba, được sản xuất năm 1977.",
+     "This is Cuba's first KTP-1 sugar-cane harvester, built in 1977."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐỜI SỐNG NGƯỜI DÂN",
+   "y": [
+    "Đời sống người dân không ngừng được cải thiện",
+    "Giáo dục đạt mức cao nhất khu vực Mỹ La-tinh",
+    "Y tế, số lượng bác sĩ phát triển vượt bậc",
+    "Tuổi thọ trung bình: 64 (1960) → 74 (1991)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đời sống người dân không ngừng được cải thiện. Giáo dục phát triển, đạt mức cao nhất khu vực Mỹ La-tinh.",
+     "People's lives kept improving. Education reached the highest level in Latin America."
+    ],
+    [
+     "Nhật Minh",
+     "Mạng lưới chăm sóc y tế, số lượng bác sĩ phát triển vượt bậc. Tuổi thọ trung bình tăng từ 64 tuổi năm 1960 lên 74 tuổi năm 1991.",
+     "Healthcare and the number of doctors grew remarkably. Average life expectancy rose from 64 in 1960 to 74 in 1991."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tuổi thọ trung bình của người dân Cu-ba năm 1991 là bao nhiêu?",
+    "lua_chon": [
+     "64 tuổi",
+     "74 tuổi",
+     "84 tuổi"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nữa! Năm 1991, tuổi thọ trung bình của người dân Cu-ba là bao nhiêu?",
+     "One more! What was Cubans' average life expectancy in 1991?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 74 tuổi, tăng 10 tuổi so với năm 1960!",
+     "The answer is B: 74, up 10 years from 1960!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁCH MẠNG CU-BA",
+   "moc": [
+    [
+     "3 – 1952",
+     "Độc tài Ba-ti-xta"
+    ],
+    [
+     "7 – 1953",
+     "Tấn công pháo đài Môn-ca-đa"
+    ],
+    [
+     "11 – 1956",
+     "Tàu Gran-ma trở về"
+    ],
+    [
+     "Cuối 1958",
+     "Tổng công kích"
+    ],
+    [
+     "1 – 1 – 1959",
+     "Cách mạng thắng lợi"
+    ],
+    [
+     "1961",
+     "Xây dựng chủ nghĩa xã hội"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 3 năm 1952: chế độ độc tài Ba-ti-xta. Tháng 7 năm 1953: tấn công pháo đài Môn-ca-đa.",
+     "Recap! March 1952: Batista's dictatorship. July 1953: the Moncada attack."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 11 năm 1956: tàu Gran-ma trở về. Cuối năm 1958: tổng công kích.",
+     "November 1956: the Granma returns. Late 1958: the general offensive."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 1 tháng 1 năm 1959: cách mạng thắng lợi. Từ năm 1961: xây dựng chủ nghĩa xã hội.",
+     "1 January 1959: victory. From 1961: building socialism."
+    ]
+   ],
+   "nguon_trang": [
+    53,
+    54
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Phi-đen Cát-xtơ-rô lãnh đạo cách mạng Cu-ba",
+    "1 – 1 – 1959: lật đổ chế độ độc tài Ba-ti-xta, thành lập nước Cộng hoà Cu-ba",
+    "1961 – 1991: xây dựng chủ nghĩa xã hội, đạt nhiều thành tựu",
+    "Giáo dục cao nhất Mỹ La-tinh; tuổi thọ 64 → 74"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Phi-đen Cát-xtơ-rô lãnh đạo cách mạng Cu-ba.",
+     "Remember: Fidel Castro led the Cuban revolution."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 1 tháng 1 năm 1959, chế độ độc tài Ba-ti-xta bị lật đổ, nước Cộng hoà Cu-ba ra đời.",
+     "1 January 1959: Batista falls and the Republic of Cuba is born."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1961 đến năm 1991, Cu-ba xây dựng chủ nghĩa xã hội và đạt nhiều thành tựu.",
+     "1961–1991: Cuba builds socialism with many achievements."
+    ],
+    [
+     "Hân Hân",
+     "Giáo dục đạt mức cao nhất Mỹ La-tinh, tuổi thọ tăng từ 64 lên 74 tuổi.",
+     "Education the best in Latin America; life expectancy from 64 to 74."
+    ]
+   ],
+   "nguon_trang": [
+    53,
+    54
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên quả địa cầu trong thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: đánh giá kết quả công cuộc xây dựng chủ nghĩa xã hội ở Cu-ba từ năm 1961 đến năm 1991, nêu hai dẫn chứng. Bình luận nhé!",
+     "Your challenge: assess the results of building socialism in Cuba from 1961 to 1991, with two pieces of evidence. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tháng 7 – 1953, Phi-đen Cát-xtơ-rô lãnh đạo 135 thanh niên yêu nước tấn công",
+   "dap_an": [
+    "Pháo đài Môn-ca-đa",
+    "Thủ đô La Ha-ba-na",
+    "Tàu Gran-ma",
+    "Mê-hi-cô"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Tháng 11 – 1956, Phi-đen Cát-xtơ-rô cùng bao nhiêu chiến sĩ trên tàu Gran-ma trở về Cu-ba?",
+   "dap_an": [
+    "35",
+    "81",
+    "135",
+    "26"
+   ],
+   "dung": 1,
+   "trang": 53
+  },
+  {
+   "hoi": "Chế độ độc tài nào bị lật đổ ở Cu-ba ngày 1 – 1 – 1959?",
+   "dap_an": [
+    "Chế độ Ba-ti-xta",
+    "Chế độ thực dân Pháp",
+    "Chế độ quân chủ",
+    "Chế độ phong kiến"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Thành tựu nào của Cu-ba (1961 – 1991) được SGK nêu?",
+   "dap_an": [
+    "Giáo dục đạt mức cao nhất khu vực Mỹ La-tinh",
+    "Trở thành cường quốc dầu mỏ",
+    "Đứng đầu thế giới về công nghiệp",
+    "Chỉ trồng mía"
+   ],
+   "dung": 0,
+   "trang": 54
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 52–54 và ảnh trang 53: bảng 'Diễn biến chính của cách mạng Cu-ba' bị OCR làm hỏng cột mốc, đã đọc lại từ ảnh trang (3 – 1952, 7 – 1953, năm 1955, 11 – 1956, cuối năm 1958, 1 – 1 – 1959); các số 1952, 1953, 1955, 1956, 1958 nếu bộ kiểm tra cảnh báo là vì lấy từ ảnh trang, đã kiểm tra. 'Tăng 10 tuổi' là phép trừ 74 – 64 từ số liệu SGK. Đã chỉnh kiến thức chốt của danh mục: SGK nói giáo dục 'đạt mức cao nhất khu vực Mỹ La-tinh', còn y tế 'phát triển vượt bậc' (không nói 'hàng đầu khu vực'). Sa bàn 'cu-ba' là bản đồ định vị vẽ bằng code (nền Natural Earth, không vẽ biên giới), mũi tên minh hoạ các bước trong bảng SGK; vị trí pháo đài Môn-ca-đa và đường đi tàu Gran-ma chỉ mang tính minh hoạ. Ảnh Hình 12.2 là ảnh tư liệu, không vẽ AI.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

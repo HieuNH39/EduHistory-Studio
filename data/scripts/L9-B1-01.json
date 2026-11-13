@@ -1,0 +1,361 @@
+{
+ "ma": "L9-B1-01",
+ "ten_tap": "Nước Nga Xô viết: Thử thách sinh tử",
+ "ten_tap_en": "Soviet Russia: A Life-or-Death Test",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+  "trang": [
+   7,
+   8
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hong-quan-lien-xo"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng ở phần chiến tranh, dịu lại ở phần NEP; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 1, tr. 7–8.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, cùng xem cuốn atlas lịch sử thế giới mở ở trang bản đồ châu Âu; giá sách phía sau; ánh nắng chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Cách mạng tháng Mười năm 1917, nước Nga Xô viết vừa ra đời đã phải đối mặt với một thử thách sinh tử.",
+     "After the October Revolution of 1917, the newborn Soviet Russia faced a life-or-death test."
+    ],
+    [
+     "Nhật Minh",
+     "Thù trong, giặc ngoài cùng lúc tấn công. Nước Nga đã vượt qua thế nào? Cùng xem nhé!",
+     "Enemies inside and out attacked at once. How did Russia survive? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    7
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1918",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "nga-xo-viet-1918",
+   "pha": "can_thiep",
+   "thoi_luong_toi_thieu": 16,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân đội 14 đế quốc như Anh, Pháp, Mỹ, Nhật Bản đã câu kết với các thế lực phản cách mạng trong nước, mở cuộc tấn công vũ trang vào nước Nga Xô viết.",
+     "The armies of 14 imperialist powers, including Britain, France, the US and Japan, joined with counter-revolutionary forces inside the country to attack Soviet Russia."
+    ],
+    [
+     "Hân Hân",
+     "Suốt ba năm, từ năm 1918 đến năm 1920, nước Nga phải chiến đấu chống thù trong, giặc ngoài trong điều kiện vô cùng khó khăn, gian khổ.",
+     "For three years, from 1918 to 1920, Russia had to fight enemies within and without in extremely hard conditions."
+    ]
+   ],
+   "nguon_trang": [
+    7,
+    8
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH SÁCH CỘNG SẢN THỜI CHIẾN (từ 1919)",
+   "y": [
+    "Quốc hữu hoá toàn bộ các xí nghiệp",
+    "Trưng thu lương thực thừa của nông dân",
+    "Thi hành chế độ lao động bắt buộc",
+    "Kiểm soát ngân hàng, đường sắt, ngoại thương, hầm mỏ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1919, Nhà nước Xô viết thực hiện Chính sách cộng sản thời chiến: quốc hữu hoá toàn bộ các xí nghiệp, trưng thu lương thực thừa của nông dân, thi hành chế độ lao động bắt buộc.",
+     "From 1919, the Soviet state applied War Communism: nationalising all enterprises, requisitioning peasants' surplus grain and imposing compulsory labour."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ đó, Nhà nước kiểm soát được các ngành kinh tế then chốt như ngân hàng, đường sắt, ngoại thương, hầm mỏ.",
+     "This let the state control key sectors such as banking, railways, foreign trade and mining."
+    ]
+   ],
+   "nguon_trang": [
+    7
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "nga-xo-viet-1918",
+   "pha": "phan_cong",
+   "thoi_luong_toi_thieu": 13,
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối năm 1920, Hồng quân đã đánh tan giặc ngoại xâm và nội phản, bảo vệ chính quyền cách mạng.",
+     "By the end of 1920, the Red Army had crushed the foreign invaders and internal reactionaries and saved the revolutionary government."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà nước Xô viết xoá bỏ những bất công trong xã hội, thực hiện quyền tự do dân chủ và quyền tự quyết của các dân tộc.",
+     "The Soviet state abolished social injustices and brought democratic freedoms and the peoples' right to self-determination."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến cuối năm nào, Hồng quân đánh tan thù trong, giặc ngoài?",
+    "lua_chon": [
+     "1918",
+     "1920",
+     "1922"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đến cuối năm nào, Hồng quân đánh tan thù trong, giặc ngoài?",
+     "Pause! By the end of which year had the Red Army beaten its enemies within and without?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: cuối năm 1920!",
+     "The answer is B: the end of 1920!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1921",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH SÁCH KINH TẾ MỚI – NEP (3 – 1921)",
+   "y": [
+    "Thay trưng thu lương thực thừa bằng thu thuế lương thực",
+    "Tự do buôn bán; tư nhân được mở xí nghiệp nhỏ",
+    "Khuyến khích tư bản nước ngoài đầu tư"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1921, Đảng Bôn-sê-vích quyết định thực hiện Chính sách kinh tế mới, gọi tắt là NEP, do Lê-nin đề xướng.",
+     "In March 1921, the Bolshevik Party adopted the New Economic Policy, NEP, proposed by Lenin."
+    ],
+    [
+     "Hân Hân",
+     "Chế độ trưng thu lương thực thừa được thay bằng thu thuế lương thực; nộp đủ thuế xong, nông dân được toàn quyền dùng số lương thực dư thừa.",
+     "Grain requisitioning was replaced by a grain tax; once the tax was paid, peasants could use their surplus freely."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà nước cho tự do buôn bán, cho tư nhân mở các xí nghiệp nhỏ và khuyến khích tư bản nước ngoài đầu tư kinh doanh ở Nga.",
+     "Free trade was allowed, private individuals could open small businesses, and foreign capital was encouraged to invest in Russia."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: thành phố Mát-xcơ-va trong những năm 20 của thế kỉ XX (như Hình 1.3 SGK, tr. 8)",
+    "tim": "Moscow 1920s street photograph",
+    "yeu_cau": "ảnh tư liệu công khai (công bố trước năm 1930), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Mát-xcơ-va những năm 20 của thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhờ NEP, nước Nga Xô viết từng bước vượt qua khủng hoảng, kinh tế phục hồi và đời sống nhân dân được cải thiện.",
+     "Thanks to NEP, Soviet Russia gradually overcame its crisis; the economy recovered and people's lives improved."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là thành phố Mát-xcơ-va trong những năm 20 của thế kỉ XX.",
+     "This is Moscow in the 1920s."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chính sách kinh tế mới (NEP) thay chế độ trưng thu lương thực thừa bằng",
+    "lua_chon": [
+     "Thu thuế lương thực",
+     "Quốc hữu hoá ruộng đất",
+     "Lao động bắt buộc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! NEP thay chế độ trưng thu lương thực thừa bằng gì?",
+     "Quick test! What did NEP replace grain requisitioning with?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thu thuế lương thực!",
+     "The answer is A: a grain tax!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "1918 – 1920: chống 14 đế quốc can thiệp và phản cách mạng",
+    "Từ 1919: Chính sách cộng sản thời chiến",
+    "Cuối 1920: đánh tan thù trong, giặc ngoài",
+    "3 – 1921: Chính sách kinh tế mới (NEP)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ năm 1918 đến năm 1920, nước Nga chống 14 đế quốc can thiệp và phản cách mạng trong nước.",
+     "Remember: 1918–1920, Russia fought 14 intervening powers and internal counter-revolution."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1919, Chính sách cộng sản thời chiến. Cuối năm 1920, thù trong, giặc ngoài bị đánh tan.",
+     "From 1919, War Communism. By late 1920, all enemies were beaten."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1921, Chính sách kinh tế mới ra đời.",
+     "March 1921: the New Economic Policy began."
+    ]
+   ],
+   "nguon_trang": [
+    7,
+    8
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: Chính sách cộng sản thời chiến và NEP khác nhau thế nào trong cách đối xử với lương thực của nông dân? Bình luận nhé!",
+     "Your challenge: how did War Communism and NEP differ in their treatment of peasants' grain? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    7,
+    8
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Cách mạng tháng Mười, quân đội bao nhiêu đế quốc tấn công nước Nga Xô viết?",
+   "dap_an": [
+    "4",
+    "10",
+    "14",
+    "15"
+   ],
+   "dung": 2,
+   "trang": 7
+  },
+  {
+   "hoi": "Biện pháp nào thuộc Chính sách cộng sản thời chiến?",
+   "dap_an": [
+    "Tự do buôn bán",
+    "Trưng thu lương thực thừa của nông dân",
+    "Thu thuế lương thực",
+    "Khuyến khích tư bản nước ngoài"
+   ],
+   "dung": 1,
+   "trang": 7
+  },
+  {
+   "hoi": "Chính sách kinh tế mới (NEP) do ai đề xướng?",
+   "dap_an": [
+    "Xta-lin",
+    "Lê-nin",
+    "Côn-sắc",
+    "Đê-ni-kin"
+   ],
+   "dung": 1,
+   "trang": 8
+  },
+  {
+   "hoi": "Nhờ NEP, nước Nga Xô viết đạt được kết quả gì?",
+   "dap_an": [
+    "Vượt qua khủng hoảng, phục hồi kinh tế",
+    "Trở thành cường quốc công nghiệp số một thế giới",
+    "Gia nhập Đồng minh",
+    "Kết thúc nội chiến năm 1918"
+   ],
+   "dung": 0,
+   "trang": 8
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 7–8 (mục 1, Hình 1.2, Hình 1.3). Sa bàn 'nga-xo-viet-1918' vẽ lại, giản lược theo Hình 1.2 (hướng quân can thiệp, quân nổi loạn, hướng quân Xô viết tấn công; vị trí gần đúng, không vẽ biên giới). Tên các đạo quân lấy theo lược đồ SGK. Không dùng chân dung Lê-nin (Hình 1.4); nhân vật chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

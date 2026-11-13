@@ -1,0 +1,517 @@
+{
+ "ma": "L9-B14-03",
+ "ten_tap": "Giam chân địch ở đô thị và chiến thắng Việt Bắc",
+ "ten_tap_en": "Pinning Down the Enemy in the Cities and the Việt Bắc Victory",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 14. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+  "trang": [
+   67,
+   68,
+   70,
+   71
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cam-tu-quan-ha-noi",
+  "quan-doi-phap"
+ ],
+ "nhac": {
+  "tam_trang": "khẩn trương ở phần đô thị, hào hùng dần ở chiến dịch Việt Bắc; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 14, tr. 67–71.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một con phố cổ Hà Nội ngày nay, nhà ống mái ngói, hàng cây, cờ đỏ sao vàng treo trước nhà; sáng mùa đông se lạnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tối 19 tháng 12 năm 1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến.",
+     "On the evening of 19 December 1946, President Hồ Chí Minh issued the Appeal for National Resistance."
+    ],
+    [
+     "Nhật Minh",
+     "Từ những con phố Hà Nội đến núi rừng Việt Bắc, quân dân ta đã giam chân và đánh bại cuộc tiến công của thực dân Pháp thế nào? Cùng xem nhé!",
+     "From the streets of Hà Nội to the Việt Bắc mountains, how did our army and people pin down and defeat the French offensive? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "12 – 1946",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân Hà Nội nghe lệnh toàn quốc kháng chiến, tháng 12 – 1946 (như Hình 14.1 SGK, tr. 68)",
+    "tim": "Hà Nội toàn quốc kháng chiến 1946 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai (tác phẩm công bố năm 1946), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Hà Nội nghe lệnh toàn quốc kháng chiến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 18 và 19 tháng 12 năm 1946, Hội nghị Ban Thường vụ Trung ương Đảng đã họp và quyết định phát động cuộc kháng chiến trên toàn quốc.",
+     "On 18 and 19 December 1946, the Party Central Committee's Standing Board met and decided to launch nationwide resistance."
+    ],
+    [
+     "Hân Hân",
+     "Hưởng ứng Lời kêu gọi của Chủ tịch Hồ Chí Minh, nhân dân cả nước đứng lên kháng chiến chống thực dân Pháp.",
+     "Answering President Hồ Chí Minh's appeal, people across the country rose up against the French."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN ĐẤU Ở CÁC ĐÔ THỊ PHÍA BẮC VĨ TUYẾN 16",
+   "y": [
+    "Mục tiêu: làm thất bại kế hoạch “đánh nhanh, thắng nhanh”",
+    "Hà Nội: Bắc Bộ Phủ, Bưu điện Bờ Hồ, ga Hàng Cỏ, phố Khâm Thiên…",
+    "Nam Định: Pháp bị vây hãm tới tháng 3 – 1947",
+    "Vinh: quân dân buộc địch phải đầu hàng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để làm thất bại kế hoạch “đánh nhanh, thắng nhanh” của Pháp, quân dân Hà Nội và các đô thị phía Bắc vĩ tuyến 16 đã chủ động tiến công, tiêu hao một bộ phận sinh lực địch.",
+     "To defeat the French 'quick strike, quick victory' plan, the people and forces of Hà Nội and the towns north of the 16th parallel went on the attack, wearing down part of the enemy."
+    ],
+    [
+     "Hân Hân",
+     "Ở Hà Nội, các trận đánh ác liệt diễn ra ở khu vực Bắc Bộ Phủ, Bưu điện Bờ Hồ, ga Hàng Cỏ, phố Khâm Thiên.",
+     "In Hà Nội, fierce battles raged around the Bắc Bộ Phủ palace, the Bờ Hồ post office, Hàng Cỏ station and Khâm Thiên street."
+    ],
+    [
+     "Nhật Minh",
+     "Ở thành phố Nam Định, nay thuộc tỉnh Ninh Bình, quân Pháp bị vây hãm tới tháng 3 năm 1947. Quân dân thành phố Vinh đã buộc địch phải đầu hàng.",
+     "In Nam Định city, now part of Ninh Bình province, the French were besieged until March 1947. The people of Vinh forced the enemy to surrender."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: chiến sĩ cảm tử quân ôm bom ba càng đánh xe tăng Pháp ở Hà Nội (như Hình 14.4 SGK, tr. 70)",
+    "tim": "cảm tử quân Hà Nội bom ba càng 1946 1947 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn; không dùng ảnh thương vong cận cảnh; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: chiến sĩ cảm tử quân ôm bom ba càng đánh xe tăng Pháp ở Hà Nội",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là hình ảnh chiến sĩ cảm tử quân ôm bom ba càng đánh xe tăng Pháp ở Hà Nội.",
+     "This image shows a suicide-squad fighter carrying a three-pronged mine to attack a French tank in Hà Nội."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc chiến đấu đã giam chân quân địch ở các đô thị. Sau gần ba tháng, quân chủ lực của ta rút lui an toàn ra hậu phương, chuẩn bị cho cuộc kháng chiến trường kì.",
+     "The fighting pinned the enemy down in the towns. After nearly three months, our main forces withdrew safely to the rear to prepare for a long resistance."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16 nhằm làm thất bại kế hoạch nào của Pháp?",
+    "lua_chon": [
+     "Kế hoạch Rơ-ve",
+     "Kế hoạch “đánh nhanh, thắng nhanh”",
+     "Kế hoạch Na-va"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cuộc chiến đấu ở các đô thị nhằm làm thất bại kế hoạch nào của Pháp?",
+     "Pause! The urban fighting aimed to defeat which French plan?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: kế hoạch “đánh nhanh, thắng nhanh”!",
+     "The answer is B: the 'quick strike, quick victory' plan!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1947",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "viet-bac-1947",
+   "pha": "am_muu",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu năm 1947, thực dân Pháp âm mưu tiến công Việt Bắc, nhằm tiêu diệt cơ quan đầu não kháng chiến và quân chủ lực của ta, khoá chặt biên giới Việt – Trung, nhanh chóng kết thúc chiến tranh.",
+     "In early 1947, the French plotted to attack Việt Bắc, to destroy the resistance leadership and our main forces, seal the Vietnam–China border and end the war quickly."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1947, Pháp huy động khoảng 12 000 quân và hầu hết máy bay ở Đông Dương tiến công lên Việt Bắc. Trên lược đồ, quân Pháp nhảy dù xuống Bắc Kạn, Chợ Đồn, Chợ Mới và tiến lên theo nhiều hướng.",
+     "In October 1947, the French sent about 12,000 troops and almost all their aircraft in Indochina against Việt Bắc. On the map, they parachuted into Bắc Kạn, Chợ Đồn and Chợ Mới and advanced from several directions."
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    71
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "viet-bac-1947",
+   "pha": "huong_dong",
+   "thoi_luong_toi_thieu": 13,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đảng chỉ thị: “Phải phá tan cuộc tiến công mùa đông của giặc Pháp”.",
+     "The Party ordered: 'The French winter offensive must be smashed.'"
+    ],
+    [
+     "Hân Hân",
+     "Ở hướng đông, quân ta phục kích, chặn đánh địch trên Đường số 4, giành thắng lợi lớn ở Bản Sao, tỉnh Lạng Sơn, và đèo Bông Lau, tỉnh Cao Bằng.",
+     "In the east, our forces ambushed the enemy on Route 4, winning big at Bản Sao in Lạng Sơn and the Bông Lau pass in Cao Bằng."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "viet-bac-1947",
+   "pha": "huong_tay",
+   "thoi_luong_toi_thieu": 13,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở hướng tây, quân ta phục kích chặn đánh nhiều trận trên sông Lô,",
+     "In the west, our forces fought many ambushes on the Lô River,"
+    ],
+    [
+     "Hân Hân",
+     "giành thắng lợi quan trọng ở Đoan Hùng, tỉnh Phú Thọ, và Khe Lau, tỉnh Tuyên Quang.",
+     "winning important victories at Đoan Hùng in Phú Thọ and Khe Lau in Tuyên Quang."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân ta giành thắng lợi ở Đoan Hùng, Khe Lau trên hướng nào?",
+    "lua_chon": [
+     "Hướng đông – Đường số 4",
+     "Hướng tây – sông Lô",
+     "Hướng nam – Hà Nội"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Thắng lợi ở Đoan Hùng, Khe Lau thuộc hướng nào?",
+     "Quick test! On which front were the victories at Đoan Hùng and Khe Lau?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: hướng tây, trên sông Lô!",
+     "The answer is B: the western front, on the Lô River!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "viet-bac-1947",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau hơn hai tháng, đại bộ phận quân Pháp phải rút chạy khỏi Việt Bắc.",
+     "After more than two months, most of the French forces had to flee Việt Bắc."
+    ],
+    [
+     "Nhật Minh",
+     "Cơ quan đầu não của cuộc kháng chiến được bảo vệ an toàn.",
+     "The resistance leadership was kept safe."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA CHIẾN THẮNG VIỆT BẮC",
+   "y": [
+    "Chiến dịch phản công lớn đầu tiên trong kháng chiến chống Pháp",
+    "Bộ đội chủ lực trưởng thành, thu được nhiều vũ khí",
+    "Làm thất bại hoàn toàn chiến lược “đánh nhanh, thắng nhanh”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là chiến dịch phản công lớn đầu tiên trong cuộc kháng chiến chống Pháp, giúp bộ đội chủ lực trưởng thành và thu được nhiều vũ khí.",
+     "It was the first major counter-offensive of the resistance against France, helping the main forces mature and capture many weapons."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng Việt Bắc làm thất bại hoàn toàn chiến lược “đánh nhanh, thắng nhanh” của thực dân Pháp!",
+     "The Việt Bắc victory completely defeated the French 'quick strike, quick victory' strategy!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến dịch Việt Bắc thu – đông 1947 là",
+    "lua_chon": [
+     "Chiến dịch phản công lớn đầu tiên",
+     "Chiến dịch chủ động tiến công lớn đầu tiên",
+     "Chiến dịch cuối cùng của cuộc kháng chiến"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Chiến dịch Việt Bắc thu – đông 1947 là chiến dịch gì?",
+     "One more! What kind of campaign was Việt Bắc in autumn–winter 1947?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chiến dịch phản công lớn đầu tiên trong cuộc kháng chiến chống Pháp!",
+     "The answer is A: the first major counter-offensive of the resistance against France!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · 1946 – 1947",
+   "moc": [
+    [
+     "19 – 12 – 1946",
+     "Toàn quốc kháng chiến"
+    ],
+    [
+     "3 – 1947",
+     "Pháp vẫn bị vây hãm ở Nam Định"
+    ],
+    [
+     "10 – 1947",
+     "Pháp tiến công Việt Bắc"
+    ],
+    [
+     "12 – 1947",
+     "Chiến dịch Việt Bắc kết thúc thắng lợi"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 19 tháng 12 năm 1946: toàn quốc kháng chiến.",
+     "Recap! 19 December 1946: nationwide resistance begins."
+    ],
+    [
+     "Nhật Minh",
+     "Đến tháng 3 năm 1947, quân Pháp vẫn bị vây hãm ở Nam Định.",
+     "Until March 1947, the French are still besieged in Nam Định."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1947: Pháp tiến công Việt Bắc.",
+     "October 1947: the French attack Việt Bắc."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1947: chiến dịch Việt Bắc kết thúc thắng lợi.",
+     "December 1947: the Việt Bắc campaign ends in victory."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    70,
+    71
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Đô thị phía Bắc vĩ tuyến 16: giam chân địch gần ba tháng",
+    "10 – 1947: Pháp huy động khoảng 12 000 quân tiến công Việt Bắc",
+    "Thắng lợi ở Bản Sao – đèo Bông Lau, Đoan Hùng, Khe Lau",
+    "Chiến dịch phản công lớn đầu tiên; đầu não kháng chiến an toàn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16 đã giam chân địch.",
+     "Remember: the fighting in the northern towns pinned the enemy down."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1947, Pháp huy động khoảng 12 000 quân tiến công Việt Bắc.",
+     "October 1947: about 12,000 French troops attack Việt Bắc."
+    ],
+    [
+     "Nhật Minh",
+     "Ta thắng lớn ở Bản Sao – đèo Bông Lau, Đoan Hùng, Khe Lau.",
+     "We won big at Bản Sao – Bông Lau, Đoan Hùng and Khe Lau."
+    ],
+    [
+     "Hân Hân",
+     "Đây là chiến dịch phản công lớn đầu tiên; cơ quan đầu não kháng chiến được bảo vệ an toàn.",
+     "It was the first major counter-offensive, and the resistance leadership stayed safe."
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    71
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên phố cổ Hà Nội lúc chiều, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao chiến thắng Việt Bắc làm thất bại hoàn toàn chiến lược “đánh nhanh, thắng nhanh” của Pháp? Bình luận nhé!",
+     "Your challenge: why did the Việt Bắc victory completely defeat the French 'quick strike, quick victory' strategy? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được ra vào thời gian nào?",
+   "dap_an": [
+    "2 – 9 – 1945",
+    "19 – 12 – 1946",
+    "10 – 1947",
+    "9 – 1950"
+   ],
+   "dung": 1,
+   "trang": 68
+  },
+  {
+   "hoi": "Tháng 10 – 1947, thực dân Pháp huy động khoảng bao nhiêu quân tiến công Việt Bắc?",
+   "dap_an": [
+    "5 000",
+    "12 000",
+    "16 200",
+    "50 000"
+   ],
+   "dung": 1,
+   "trang": 70
+  },
+  {
+   "hoi": "Ở hướng đông của chiến dịch Việt Bắc, quân ta giành thắng lợi lớn ở đâu?",
+   "dap_an": [
+    "Đoan Hùng",
+    "Khe Lau",
+    "Bản Sao – đèo Bông Lau",
+    "Đông Khê"
+   ],
+   "dung": 2,
+   "trang": 70
+  },
+  {
+   "hoi": "Kết quả lớn nhất của chiến dịch Việt Bắc thu – đông 1947 là",
+   "dap_an": [
+    "Giải phóng Hà Nội",
+    "Cơ quan đầu não kháng chiến được bảo vệ an toàn",
+    "Kết thúc chiến tranh",
+    "Mở đường liên lạc quốc tế"
+   ],
+   "dung": 1,
+   "trang": 71
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 67–68 (bùng nổ kháng chiến, Hình 14.1) và tr. 70–71 (cuộc chiến đấu ở các đô thị, Hình 14.4; chiến dịch Việt Bắc, Hình 14.5). Kiến thức chốt của danh mục đúng SGK. Sa bàn 'viet-bac-1947' vẽ lại, giản lược theo Hình 14.5 (nơi Pháp nhảy dù, hướng tiến công, nơi ta thắng lớn, hướng rút chạy); toạ độ địa danh gần đúng; có ô bản đồ nhỏ Việt Nam thể hiện Hoàng Sa, Trường Sa như lược đồ SGK. Câu 'quân Pháp nhảy dù xuống Bắc Kạn, Chợ Đồn, Chợ Mới' đọc từ chú giải và kí hiệu của Hình 14.5. Lãnh tụ chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

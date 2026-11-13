@@ -1,0 +1,330 @@
+{
+ "ma": "L6-B17-02",
+ "ten_tap": "Những phong tục “không thể mất”",
+ "ten_tap_en": "Customs That Could Not Be Erased",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 17. Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+  "trang": [
+   78,
+   79
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-co",
+  "nguoi-viet-thoi-bac-thuoc"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, dân gian (sáo trúc, đàn bầu), tự hào nhẹ nhàng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện đời sống làng xã thời Bắc thuộc mang tính minh hoạ; hoạ tiết xăm mình vẽ đơn giản, không gây sợ hãi. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 17, tr. 78–79.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Gian bếp ấm cúng ngày giáp Tết: Nhật Minh và Hân Hân (áo khoác ngoài đồng phục FPT) ngồi cùng bà gói bánh chưng bằng lá dong; trên bàn có đĩa trầu cau têm cánh phượng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tết đến là gói bánh chưng, đám cưới thì có trầu cau… Những phong tục này có từ bao giờ nhỉ?",
+     "At Tết we wrap bánh chưng, at weddings there's betel and areca… How old are these customs?"
+    ],
+    [
+     "Nhật Minh",
+     "Từ rất lâu rồi! Lạ là chúng vẫn còn sau hơn một nghìn năm Bắc thuộc. Người xưa đã giữ chúng bằng cách nào?",
+     "Very old! Amazingly, they survived more than a thousand years of northern rule. How did people keep them alive?"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Bắc thuộc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Một làng Việt thời Bắc thuộc: ở đầu làng, quan lại phương Bắc dán cáo thị; nhưng trong làng, người dân vẫn sinh hoạt như xưa bên giếng nước, cây đa, mái đình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi chiếm Âu Lạc, các triều đại phong kiến phương Bắc dùng nhiều biện pháp nhằm thủ tiêu văn hoá của người Việt.",
+     "After seizing Âu Lạc, the northern dynasties tried many ways to wipe out Việt culture."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng sau hàng nghìn năm, họ vẫn không đạt được mục đích. Vì người Việt luôn có ý thức giữ gìn nền văn hoá bản địa của mình.",
+     "But after a thousand years, they still hadn't succeeded, because the Việt people always worked to protect their own culture."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi lặng lẽ ở góc hiên một ngôi nhà sàn thời Bắc thuộc lúc chiều tối: người mẹ ru con, ông bà kể chuyện cho cháu nghe; trên bàn thờ tổ tiên khói hương nghi ngút",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghe kìa, bà đang kể chuyện bằng tiếng Việt. Tiếng Việt vẫn được truyền dạy cho con cháu, người Việt vẫn nghe và nói hoàn toàn bằng tiếng mẹ đẻ.",
+     "Listen, grandma is telling stories in Vietnamese. The language was still passed down; people still heard and spoke only their mother tongue."
+    ],
+    [
+     "Nhật Minh",
+     "Các tín ngưỡng truyền thống như thờ cúng tổ tiên, thờ các vị thần tự nhiên vẫn được duy trì.",
+     "Traditional beliefs like ancestor worship and worship of nature spirits lived on."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Sân đình làng ngày hội thời Bắc thuộc: các cô gái búi tóc, cười để lộ hàm răng nhuộm đen, mời nhau miếng trầu; các bà gói bánh chưng, giã bánh giày; trẻ con chạy quanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong các làng xã, những phong tục như búi tóc, xăm mình, nhuộm răng đen, ăn trầu, làm bánh chưng, bánh giày… vẫn được lưu truyền từ đời này qua đời khác.",
+     "In the villages, customs like hair buns, tattoos, teeth blackening, betel chewing and making bánh chưng and bánh giày were handed down through generations."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong tục nào KHÔNG phải là phong tục của người Việt được lưu truyền trong thời Bắc thuộc?",
+    "lua_chon": [
+     "Nhuộm răng đen",
+     "Ướp xác",
+     "Làm bánh chưng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phong tục nào KHÔNG phải của người Việt được lưu truyền thời Bắc thuộc?",
+     "Pause! Which custom was NOT a Việt custom kept alive under northern rule?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ướp xác. Đó là kĩ thuật của người Ai Cập cổ đại!",
+     "The answer is B: mummification. That was an ancient Egyptian technique!"
+    ]
+   ],
+   "nguon_trang": [
+    78,
+    32
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Bến sông làng Việt cổ: những chàng trai mình có hình xăm hoa văn đơn giản đang đẩy thuyền xuống nước chuẩn bị đi đánh cá; sóng nước lấp lánh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tục xăm mình có từ thời dựng nước. Người Việt cổ sống nhiều trong môi trường sông nước,",
+     "Tattooing dates back to the nation's founding. The ancient Việt lived much of their lives on the water,"
+    ],
+    [
+     "Nhật Minh",
+     "nên tin rằng nếu xăm mình sẽ không bị thuỷ quái làm hại. Tục này tồn tại đến đời vua Trần Anh Tông mới bỏ.",
+     "so they believed tattoos would protect them from water monsters. The custom lasted until King Trần Anh Tông ended it."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-thoi-bac-thuoc"
+   ],
+   "hinh": "Hai cảnh nối tiếp: người dân chèo đò, bơi lội giỏi trên sông; rồi trong nhà, chủ nhà ngồi xếp bằng, hai tay mời khách khay trầu cau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử cũ còn chép: dân hay vẽ mình, ưa tắm sông nên chèo đò và lội nước rất giỏi… Tiếp khách thì đãi trầu cau.",
+     "An old record says: the people often painted their bodies, loved river bathing, so rowed and swam very well… and offered betel and areca to guests."
+    ],
+    [
+     "Nhật Minh",
+     "Còn tục ăn trầu được lí giải qua Sự tích trầu cau đấy!",
+     "And betel chewing is explained by the Legend of the Betel and Areca!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Việt cổ tin rằng xăm mình sẽ giúp họ",
+    "lua_chon": [
+     "Không bị thuỷ quái làm hại",
+     "Săn bắn giỏi hơn",
+     "Làm quan to"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Người Việt cổ tin rằng xăm mình sẽ giúp họ điều gì?",
+     "Quick test! What did the ancient Việt believe tattoos would do for them?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: không bị thuỷ quái làm hại!",
+     "The answer is A: protect them from water monsters!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Tiếng Việt vẫn được truyền dạy, nói hoàn toàn bằng tiếng mẹ đẻ",
+    "Duy trì tín ngưỡng thờ cúng tổ tiên, thờ thần tự nhiên",
+    "Giữ phong tục: búi tóc, xăm mình, nhuộm răng đen, ăn trầu, bánh chưng, bánh giày",
+    "Văn hoá Việt không bị thủ tiêu sau hàng nghìn năm Bắc thuộc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tiếng Việt vẫn được truyền dạy, người Việt nói hoàn toàn bằng tiếng mẹ đẻ.",
+     "Remember: Vietnamese was still taught; people spoke only their mother tongue."
+    ],
+    [
+     "Hân Hân",
+     "Tín ngưỡng thờ cúng tổ tiên, thờ thần tự nhiên được duy trì.",
+     "Ancestor worship and nature spirits were kept."
+    ],
+    [
+     "Nhật Minh",
+     "Búi tóc, xăm mình, nhuộm răng đen, ăn trầu, làm bánh chưng, bánh giày vẫn được lưu truyền.",
+     "Hair buns, tattoos, black teeth, betel, bánh chưng and bánh giày lived on."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, sau hàng nghìn năm Bắc thuộc, văn hoá Việt vẫn không bị thủ tiêu.",
+     "So after a thousand years of northern rule, Việt culture was never wiped out."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trở lại gian bếp: nồi bánh chưng đang sôi, Nhật Minh và Hân Hân nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những phong tục nào của người Việt từ thời Bắc thuộc vẫn được duy trì đến ngày nay? Kể tên ở phần bình luận nhé!",
+     "Your challenge: which Việt customs from the era of northern rule are still alive today? Name them in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong thời Bắc thuộc, người Việt vẫn nghe và nói bằng ngôn ngữ nào?",
+   "dap_an": [
+    "Tiếng Hán",
+    "Tiếng Việt (tiếng mẹ đẻ)",
+    "Tiếng Phạn",
+    "Tiếng La-tinh"
+   ],
+   "dung": 1,
+   "trang": 78
+  },
+  {
+   "hoi": "Tục xăm mình của người Việt tồn tại đến đời vua nào mới bỏ?",
+   "dap_an": [
+    "Lý Thái Tổ",
+    "Trần Anh Tông",
+    "Lê Thánh Tông",
+    "Ngô Quyền"
+   ],
+   "dung": 1,
+   "trang": 78
+  },
+  {
+   "hoi": "Theo tư liệu An Nam chí lược trong SGK, người Việt tiếp khách bằng",
+   "dap_an": [
+    "Trà sen",
+    "Trầu cau",
+    "Rượu nho",
+    "Bánh chưng"
+   ],
+   "dung": 1,
+   "trang": 78
+  },
+  {
+   "hoi": "Tín ngưỡng nào tiếp tục được người Việt duy trì trong thời Bắc thuộc?",
+   "dap_an": [
+    "Thờ cúng tổ tiên, thờ các vị thần tự nhiên",
+    "Thờ thần Mặt Trời của người Ai Cập",
+    "Thờ thần A-tê-na",
+    "Thờ Pha-ra-ông"
+   ],
+   "dung": 0,
+   "trang": 78
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 78 (phần mở đầu, mục 1, tư liệu theo Lê Tắc – An Nam chí lược, ô Em có biết về tục xăm mình – đối chiếu ảnh trang, chú thích tranh Sự tích trầu cau), tr. 79 (câu Vận dụng 2); đáp án nhiễu 'ướp xác' lấy từ Bài 7 (tr. 32). Hiệu đính kiến thức chốt của danh mục: SGK chỉ nói Sự tích trầu cau 'lí giải tục ăn trầu', không kể nội dung truyện – kịch bản không kể lại cốt truyện. Không dựng lời thoại; không vẽ Trần Anh Tông (chỉ nhắc tên).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

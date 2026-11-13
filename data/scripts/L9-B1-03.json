@@ -1,0 +1,401 @@
+{
+ "ma": "L9-B1-03",
+ "ten_tap": "Liên Xô xây dựng chủ nghĩa xã hội: những thành tựu",
+ "ten_tap_en": "Building Socialism in the USSR: The Achievements",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+  "trang": [
+   7,
+   8,
+   9
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khẩn trương, tự hào ở phần thành tựu, trầm lại ở phần hạn chế; nhịp vừa phải",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 1, tr. 7–9.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng STEM của trường, trên bàn là mô hình đập thuỷ điện nhỏ có tua-bin quay, bóng đèn sáng; bảng trắng phía sau vẽ sơ đồ dòng điện",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những năm 30 của thế kỉ XX, nhà máy thuỷ điện Đni-ép ở Liên Xô là nhà máy thuỷ điện lớn nhất châu Âu.",
+     "In the 1930s, the Dnieper hydroelectric plant in the Soviet Union was the largest in Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Đó chỉ là một trong nhiều thành tựu của Liên Xô khi xây dựng chủ nghĩa xã hội. Cùng điểm lại nhé!",
+     "That was just one of the USSR's many achievements in building socialism. Let's review them!"
+    ]
+   ],
+   "nguon_trang": [
+    7
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1922",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "LIÊN XÔ RA ĐỜI (12 – 1922)",
+   "y": [
+    "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết (Liên Xô)",
+    "Ban đầu 4 nước: Nga, U-crai-na, Bê-lô-rút-xi-a, Ngoại Cáp-ca-dơ",
+    "Năm 1940: 15 nước cộng hoà"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1922, Liên bang Cộng hoà xã hội chủ nghĩa Xô viết, còn gọi là Liên Xô, được thành lập, gồm 4 nước cộng hoà Xô viết là Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ.",
+     "In December 1922, the Union of Soviet Socialist Republics, the USSR, was founded by four Soviet republics: Russia, Ukraine, Belorussia and Transcaucasia."
+    ],
+    [
+     "Hân Hân",
+     "Đến năm 1940, Liên Xô gồm 15 nước cộng hoà.",
+     "By 1940, the USSR had 15 republics."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhà máy thuỷ điện Đni-ép, khởi công năm 1927 (như Hình 1.1 SGK, tr. 7)",
+    "tim": "Dnieper hydroelectric station DniproHES 1930s photograph",
+    "yeu_cau": "ảnh tư liệu công khai (công bố trước năm 1940), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: nhà máy thuỷ điện Đni-ép (những năm 30)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau khi khôi phục kinh tế, tháng 12 năm 1925, Đại hội Đảng Bôn-sê-vích xác định đường lối công nghiệp hoá xã hội chủ nghĩa, đặt trọng tâm là phát triển công nghiệp nặng.",
+     "After economic recovery, in December 1925 the Bolshevik Party Congress set the course of socialist industrialisation, focused on heavy industry."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà máy thuỷ điện Đni-ép, khởi công năm 1927, là một thành tựu tiêu biểu về kinh tế.",
+     "The Dnieper hydroelectric plant, begun in 1927, was a typical economic achievement."
+    ]
+   ],
+   "nguon_trang": [
+    8,
+    9,
+    7
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI KẾ HOẠCH 5 NĂM",
+   "y": [
+    "Liên Xô trở thành cường quốc công nghiệp",
+    "Công nghiệp: hơn 70% tổng sản phẩm kinh tế quốc dân",
+    "Sản lượng công nghiệp đứng đầu châu Âu, thứ hai thế giới (sau Mỹ)",
+    "Hoàn thành tập thể hoá nông nghiệp, sản xuất quy mô lớn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trải qua hai kế hoạch 5 năm, 1928 – 1932 và 1933 – 1937, Liên Xô đã trở thành một cường quốc công nghiệp.",
+     "Through two Five-Year Plans, 1928–1932 and 1933–1937, the USSR became an industrial power."
+    ],
+    [
+     "Nhật Minh",
+     "Công nghiệp chiếm hơn 70% tổng sản phẩm kinh tế quốc dân. Sản lượng công nghiệp đứng đầu châu Âu và thứ hai thế giới, sau Mỹ.",
+     "Industry made up over 70% of national output. Industrial production ranked first in Europe and second in the world, after the US."
+    ],
+    [
+     "Hân Hân",
+     "Công cuộc tập thể hoá nông nghiệp cũng hoàn thành, với quy mô sản xuất lớn.",
+     "The collectivisation of agriculture was also completed, with large-scale production."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "SẢN LƯỢNG 1928 → 1932 → 1940",
+   "y": [
+    "Thép: 4 → 6 → 18 triệu tấn",
+    "Dầu: 12 → 21 → 26 triệu tấn",
+    "Điện: 5 → 13,5 → 48,3 tỉ KWh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bảng số liệu trong SGK cho thấy: từ năm 1928 đến năm 1940, sản lượng thép tăng từ 4 lên 18 triệu tấn, dầu từ 12 lên 26 triệu tấn,",
+     "The textbook table shows that from 1928 to 1940, steel output rose from 4 to 18 million tonnes and oil from 12 to 26 million tonnes,"
+    ],
+    [
+     "Hân Hân",
+     "còn điện tăng từ 5 lên 48,3 tỉ ki-lô-oát giờ.",
+     "while electricity rose from 5 to 48.3 billion kilowatt-hours."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1940, sản lượng thép của Liên Xô đạt bao nhiêu?",
+    "lua_chon": [
+     "6 triệu tấn",
+     "18 triệu tấn",
+     "26 triệu tấn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1940, sản lượng thép của Liên Xô đạt bao nhiêu?",
+     "Pause! How much steel did the USSR produce in 1940?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 18 triệu tấn, gấp hơn bốn lần năm 1928!",
+     "The answer is B: 18 million tonnes, over four times the 1928 figure!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "XÃ HỘI, VĂN HOÁ, GIÁO DỤC",
+   "y": [
+    "Xoá bỏ giai cấp bóc lột: còn công nhân, nông dân tập thể, trí thức xã hội chủ nghĩa",
+    "Xoá nạn mù chữ; hệ thống giáo dục thống nhất",
+    "Phổ cập Trung học cơ sở ở các thành phố",
+    "Thành tựu lớn về khoa học, văn học – nghệ thuật"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về xã hội, các giai cấp bóc lột bị xoá bỏ, chỉ còn công nhân, nông dân tập thể và tầng lớp trí thức xã hội chủ nghĩa.",
+     "Socially, the exploiting classes were abolished, leaving workers, collective farmers and the socialist intelligentsia."
+    ],
+    [
+     "Hân Hân",
+     "Liên Xô xoá được nạn mù chữ, xây dựng hệ thống giáo dục thống nhất, hoàn thành phổ cập Trung học cơ sở ở các thành phố. Khoa học, văn học – nghệ thuật cũng đạt nhiều thành tựu to lớn.",
+     "The USSR wiped out illiteracy, built a unified school system and made lower-secondary schooling universal in the cities. Science, literature and the arts also achieved a great deal."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "HẠN CHẾ",
+   "y": [
+    "Nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp",
+    "Chưa chú trọng đúng mức nâng cao đời sống nhân dân",
+    "6 – 1941: Đức tấn công, kế hoạch 5 năm lần thứ ba phải tạm dừng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy vậy, công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô cũng bộc lộ hạn chế: nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp, chưa chú trọng đúng mức đến việc nâng cao đời sống nhân dân.",
+     "Yet socialist construction in the USSR also showed shortcomings: haste and a lack of democracy in collectivisation, and too little attention to raising living standards."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 6 năm 1941, phát xít Đức tấn công Liên Xô; kế hoạch 5 năm lần thứ ba phải tạm dừng.",
+     "In June 1941, Nazi Germany attacked the USSR, and the third Five-Year Plan had to be suspended."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là một hạn chế của công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô trước năm 1941?",
+    "lua_chon": [
+     "Nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp",
+     "Không phát triển công nghiệp nặng",
+     "Không xoá được nạn mù chữ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Đâu là một hạn chế của công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô?",
+     "Quick test! Which was a shortcoming of socialist construction in the USSR?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp!",
+     "The answer is A: haste and lack of democracy in collectivising agriculture!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "12 – 1922: Liên Xô thành lập",
+    "Hai kế hoạch 5 năm: thành cường quốc công nghiệp",
+    "Xoá nạn mù chữ, thành tựu văn hoá, giáo dục",
+    "Hạn chế: nóng vội, thiếu dân chủ, đời sống chưa được chú trọng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tháng 12 năm 1922, Liên Xô thành lập.",
+     "Remember: December 1922, the USSR is founded."
+    ],
+    [
+     "Nhật Minh",
+     "Qua hai kế hoạch 5 năm, Liên Xô thành cường quốc công nghiệp, đạt nhiều thành tựu văn hoá, giáo dục.",
+     "Two Five-Year Plans made it an industrial power with big gains in culture and education."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng cũng có hạn chế: nóng vội, thiếu dân chủ, chưa chú trọng đời sống nhân dân.",
+     "But there were flaws: haste, too little democracy and neglect of living standards."
+    ]
+   ],
+   "nguon_trang": [
+    8,
+    9
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình đập thuỷ điện trong phòng STEM, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: chọn một thành tựu của Liên Xô trước năm 1941 mà cậu thấy ấn tượng nhất và giải thích vì sao. Bình luận nhé!",
+     "Your challenge: pick the Soviet achievement before 1941 that impresses you most and explain why. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Khi mới thành lập (12 – 1922), Liên Xô gồm mấy nước cộng hoà Xô viết?",
+   "dap_an": [
+    "2",
+    "4",
+    "15",
+    "16"
+   ],
+   "dung": 1,
+   "trang": 8
+  },
+  {
+   "hoi": "Đường lối công nghiệp hoá xã hội chủ nghĩa ở Liên Xô đặt trọng tâm vào",
+   "dap_an": [
+    "Công nghiệp nhẹ",
+    "Công nghiệp nặng",
+    "Thương mại",
+    "Du lịch"
+   ],
+   "dung": 1,
+   "trang": 9
+  },
+  {
+   "hoi": "Sau hai kế hoạch 5 năm, sản lượng công nghiệp của Liên Xô",
+   "dap_an": [
+    "Đứng đầu thế giới",
+    "Đứng đầu châu Âu, thứ hai thế giới (sau Mỹ)",
+    "Đứng thứ ba châu Âu",
+    "Thấp hơn năm 1928"
+   ],
+   "dung": 1,
+   "trang": 9
+  },
+  {
+   "hoi": "Năm 1940, sản lượng điện của Liên Xô đạt",
+   "dap_an": [
+    "5 tỉ KWh",
+    "13,5 tỉ KWh",
+    "48,3 tỉ KWh",
+    "70 tỉ KWh"
+   ],
+   "dung": 2,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 7–9 và ảnh trang 9 (bảng sản lượng 1928, 1932, 1940 – đọc lại tiêu đề cột từ ảnh). 'Gấp hơn bốn lần' là phép tính 18 : 4 từ số liệu SGK. Hình 1.1 (nhà máy Đni-ép, khởi công 1927). Kiến thức chốt của danh mục đúng SGK; bổ sung phần hạn chế theo yêu cầu cần đạt của bài. Không dùng chân dung nhân vật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,366 @@
+{
+ "ma": "L6-B7-01",
+ "ten_tap": "Quà tặng từ những dòng sông",
+ "ten_tap_en": "Gifts of the Rivers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 7. Ai Cập và Lưỡng Hà cổ đại",
+  "trang": [
+   30,
+   31
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-ai-cap-co-dai",
+  "cu-dan-luong-ha-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "rộng mở, sa mạc huyền bí, dòng chảy êm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; cảnh làm nông vẽ theo Hình 4 SGK tr. 31. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 7, tr. 30–31.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê bên một dòng sông lớn ở đồng bằng Việt Nam ngày nay, hai bên là cánh đồng lúa xanh mướt, xa xa có thuyền chở hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết có một đất nước từng được gọi là “tặng phẩm của dòng sông” không?",
+     "Did you know there's a country once called 'the gift of a river'?"
+    ],
+    [
+     "Nhật Minh",
+     "Tặng phẩm của dòng sông? Ở đâu vậy? Đi xem ngay thôi!",
+     "The gift of a river? Where? Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ai Cập cổ đại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Toàn cảnh nhìn từ trên cao: dòng sông Nin uốn lượn giữa sa mạc vàng, hai bên bờ là dải đất xanh tươi; thuyền buồm nhỏ xuôi ngược trên sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ai Cập nằm ở vùng Đông Bắc của châu Phi, nơi có dòng sông Nin chảy qua.",
+     "Egypt lies in north-east Africa, where the Nile flows."
+    ],
+    [
+     "Hân Hân",
+     "Sông Nin dài khoảng 6 400 ki-lô-mét. Đoạn chảy qua Ai Cập dài 700 ki-lô-mét, là con đường giao thông huyết mạch của đất nước.",
+     "The Nile is about 6,400 kilometres long. Its 700-kilometre stretch through Egypt was the country's main artery of transport."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên bờ sông Nin thời cổ đại sau mùa nước lên: lớp phù sa đen mịn phủ kín cánh đồng, nông dân Ai Cập gieo hạt, cây cối hoa màu tốt tươi ngay sát rìa sa mạc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà sử học Hê-rô-đốt từng viết: Ai Cập là tặng phẩm của sông Nin.",
+     "The historian Herodotus once wrote: Egypt is the gift of the Nile."
+    ],
+    [
+     "Nhật Minh",
+     "Sông Nin tạo nên dải đất phù sa màu mỡ, có chỗ dày tới 10 mét, và hằng năm mang nước tưới cho cây cối, hoa màu.",
+     "The Nile laid down fertile silt, up to 10 metres deep in places, and watered the crops every year."
+    ],
+    [
+     "Hân Hân",
+     "Nó biến Ai Cập từ “một đồng cát bụi” thành “một vườn hoa”!",
+     "It turned Egypt from 'a field of dust' into 'a flower garden'!"
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    48
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã viết: “Ai Cập là tặng phẩm của sông Nin”?",
+    "lua_chon": [
+     "Hê-rô-đốt",
+     "Hô-me",
+     "Pi-ta-go"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai đã viết: “Ai Cập là tặng phẩm của sông Nin”?",
+     "Pause! Who wrote 'Egypt is the gift of the Nile'?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Hê-rô-đốt!",
+     "The answer is A: Herodotus!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luong-ha-co-dai"
+   ],
+   "hinh": "Toàn cảnh nhìn từ trên cao: hai dòng sông lớn chảy song song từ vùng núi phía bắc xuống đồng bằng rồi đổ ra một vịnh biển; giữa hai sông là những cánh đồng và làng mạc bằng gạch bùn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn Lưỡng Hà là tên gọi vùng đất giữa hai con sông Ơ-phơ-rát và Ti-gơ-rơ, ở khu vực Tây Nam Á.",
+     "Mesopotamia is the land between the Euphrates and the Tigris, in south-west Asia."
+    ],
+    [
+     "Hân Hân",
+     "Hai sông bắt nguồn từ vùng núi thuộc Thổ Nhĩ Kỳ, chảy qua I-rắc và đổ ra vịnh Ba Tư.",
+     "Both rivers rise in the mountains of Türkiye, flow through Iraq and empty into the Persian Gulf."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luong-ha-co-dai"
+   ],
+   "hinh": "Mùa xuân ở Lưỡng Hà cổ đại: nước sông dâng cao màu nâu phù sa tràn ra vùng hạ lưu, cư dân đứng trên gò đất nhìn ra; cửa sông bồi thành bãi rộng lấn ra biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về mùa xuân, nước sông Ơ-phơ-rát và Ti-gơ-rơ dâng cao, mang phù sa màu mỡ bồi đắp cho vùng hạ lưu.",
+     "In spring, the Euphrates and Tigris rose, carrying rich silt to the lower plains."
+    ],
+    [
+     "Hân Hân",
+     "Vùng cửa sông thành đồng bằng, bờ biển của vịnh Ba Tư phải lùi xa gần 200 ki-lô-mét!",
+     "The river mouth became a plain, and the Persian Gulf coast was pushed back nearly 200 kilometres!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Cánh đồng ven sông thời cổ đại (vẽ theo Hình 4 SGK): người nông dân Ai Cập điều khiển cặp bò kéo cày gỗ; phía sau có người đắp đê, đào kênh mương dẫn nước vào ruộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng 6 000 năm trước, người Ai Cập và Lưỡng Hà đã biết làm nông nghiệp.",
+     "About 6,000 years ago, Egyptians and Mesopotamians were already farming."
+    ],
+    [
+     "Nhật Minh",
+     "Họ phát minh ra cái cày, dùng sức kéo của động vật để cày ruộng, biết đắp đê, đào hồ và làm hệ thống kênh mương tưới tiêu.",
+     "They invented the plough, used animals to pull it, built dykes, dug reservoirs and made irrigation canals."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lưỡng Hà là vùng đất nằm giữa hai con sông nào?",
+    "lua_chon": [
+     "Sông Nin và sông Hằng",
+     "Sông Ơ-phơ-rát và sông Ti-gơ-rơ",
+     "Hoàng Hà và Trường Giang"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Lưỡng Hà là vùng đất nằm giữa hai con sông nào?",
+     "Quick test! Mesopotamia lies between which two rivers?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: sông Ơ-phơ-rát và sông Ti-gơ-rơ!",
+     "The answer is B: the Euphrates and the Tigris!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai",
+    "cu-dan-luong-ha-co-dai"
+   ],
+   "hinh": "Bến sông nhộn nhịp thời cổ đại: những chiếc thuyền chở lúa mì, vò gốm, vải vóc cập bến; thương nhân trao đổi hàng hoá, người khuân vác lên xuống",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các dòng sông còn trở thành những tuyến đường giao thương chính, thúc đẩy thương mại phát triển.",
+     "The rivers also became the main trade routes, boosting commerce."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ biết khai thác những thuận lợi của tự nhiên, cư dân Ai Cập, Lưỡng Hà đã sớm tạo dựng nền văn minh của mình.",
+     "By making the most of nature, the Egyptians and Mesopotamians built their civilisations early."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Ai Cập: Đông Bắc châu Phi, “tặng phẩm của sông Nin”",
+    "Lưỡng Hà: giữa sông Ơ-phơ-rát và Ti-gơ-rơ (Tây Nam Á)",
+    "Sông mang phù sa, nước tưới; là đường giao thương chính",
+    "Khoảng 6 000 năm trước: cái cày, sức kéo động vật, đê, hồ, kênh mương"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Ai Cập ở Đông Bắc châu Phi, là “tặng phẩm của sông Nin”.",
+     "Remember: Egypt, in north-east Africa, is 'the gift of the Nile'."
+    ],
+    [
+     "Hân Hân",
+     "Lưỡng Hà là vùng đất giữa sông Ơ-phơ-rát và Ti-gơ-rơ, ở Tây Nam Á.",
+     "Mesopotamia is the land between the Euphrates and Tigris, in south-west Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Các dòng sông mang phù sa, nước tưới, và là đường giao thương chính.",
+     "The rivers brought silt and water and were the main trade routes."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 6 000 năm trước, cư dân nơi đây đã có cái cày, đắp đê, đào hồ, làm kênh mương.",
+     "About 6,000 years ago, people there had ploughs, dykes, reservoirs and canals."
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ đê sông quê nhà lúc chiều, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: con sông nào gắn bó với quê hương cậu? Theo cậu, nó mang lại những thuận lợi gì cho cuộc sống? Bình luận nhé!",
+     "Your challenge: which river is part of your hometown? What benefits does it bring? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai Cập cổ đại nằm ở vùng nào?",
+   "dap_an": [
+    "Đông Bắc châu Phi",
+    "Tây Nam Á",
+    "Nam Âu",
+    "Đông Nam Á"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Đoạn sông Nin chảy qua Ai Cập dài khoảng bao nhiêu?",
+   "dap_an": [
+    "70 km",
+    "700 km",
+    "7 000 km",
+    "200 km"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Sông Ơ-phơ-rát và Ti-gơ-rơ đổ ra đâu?",
+   "dap_an": [
+    "Biển Đen",
+    "Vịnh Ba Tư",
+    "Biển Ca-xpi",
+    "Địa Trung Hải"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Khoảng 6 000 năm trước, người Ai Cập và Lưỡng Hà đã",
+   "dap_an": [
+    "Phát minh ra cái cày, biết đắp đê, đào hồ, làm kênh mương",
+    "Dùng máy hơi nước",
+    "Biết đúc tiền giấy",
+    "Xây dựng thành bang A-ten"
+   ],
+   "dung": 0,
+   "trang": 31
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 30 (mục 1, hai đoạn tư liệu theo Lương Ninh, ô Kết nối với địa lí) và tr. 31 (đoạn đầu, Hình 4). Số '6 400 km' (chiều dài sông Nin) OCR bỏ sót, đã đối chiếu ảnh trang tr. 30 – công cụ kiểm tra có thể báo số 6 và 400 ở cảnh 3, số liệu này đúng theo ảnh trang. Kiến thức chốt của danh mục khớp SGK. Không có lời thoại nhân vật lịch sử; Hê-rô-đốt chỉ được trích lời qua người dẫn chuyện.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

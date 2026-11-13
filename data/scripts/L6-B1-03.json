@@ -1,0 +1,312 @@
+{
+ "ma": "L6-B1-03",
+ "ten_tap": "Lời Bác dạy tại Đền Hùng",
+ "ten_tap_en": "Uncle Hồ's Words at the Hùng Temple",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 1. Lịch sử và cuộc sống",
+  "trang": [
+   10
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "chien-si"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, ấm áp, tự hào; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; Minh – Hân chỉ xuất hiện ở hiện tại. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 1, tr. 10.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ Chủ tịch Hồ Chí Minh hay cảnh sự kiện năm 1954; chỉ dùng ảnh tư liệu (ghi nguồn, kiểm tra giấy phép); lãnh tụ chỉ được nhắc tên, lời của Bác do người dẫn chuyện trích đọc đúng nguyên văn SGK, không dựng lời thoại. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên những bậc đá dẫn lên một ngôi đền cổ mái ngói rêu phong giữa rừng cây xanh rì ở Đền Hùng (Phú Thọ) ngày nay; nắng sớm xuyên qua tán lá, cờ đỏ sao vàng ở cổng đền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở Đền Hùng, tỉnh Phú Thọ.",
+     "We're at the Hùng Temple in Phú Thọ province."
+    ],
+    [
+     "Nhật Minh",
+     "Ở nơi này, Bác Hồ đã để lại một lời căn dặn mà mỗi người Việt Nam đều nên ghi nhớ.",
+     "Here, Uncle Hồ left words that every Vietnamese person should remember."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "19 – 9 – 1954",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Chủ tịch Hồ Chí Minh nói chuyện với các chiến sĩ tại Đền Hùng, ngày 19 – 9 – 1954",
+    "tim": "Bác Hồ nói chuyện với chiến sĩ tại Đền Hùng 19-9-1954 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép; không dùng tranh vẽ hay ảnh do AI tạo"
+   },
+   "hinh": "Ảnh tư liệu: Bác Hồ nói chuyện với các chiến sĩ tại Đền Hùng (19 – 9 – 1954)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 19 tháng 9 năm 1954, tại Đền Hùng, Bác Hồ đã căn dặn các chiến sĩ:",
+     "On 19 September 1954, at the Hùng Temple, Uncle Hồ told the soldiers:"
+    ],
+    [
+     "Nhật Minh",
+     "“Hôm nay gặp các chú ở Đền Hùng có ý nghĩa to lớn vì Vua Hùng là vị vua khai quốc…",
+     "'Meeting you today at the Hùng Temple has great meaning, because King Hùng was the founding king…"
+    ],
+    [
+     "Hân Hân",
+     "Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước.”",
+     "The Hùng Kings built the nation; we must stand together to protect it.'"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trên sân đền nhìn ra xa, phía dưới là núi đồi và cánh đồng trải rộng; Nhật Minh đặt tay lên ngực, Hân Hân trầm ngâm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "“Vị vua khai quốc” nghĩa là vị vua mở nước. Các Vua Hùng đã có công dựng nước.",
+     "'Founding king' means the king who opened the nation. The Hùng Kings built our country."
+    ],
+    [
+     "Hân Hân",
+     "Còn thế hệ sau, như các chiến sĩ năm ấy và cả tụi mình hôm nay, phải cùng nhau giữ lấy nước.",
+     "And later generations, like those soldiers then and us today, must protect it together."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bác Hồ căn dặn các chiến sĩ tại Đền Hùng vào ngày nào?",
+    "lua_chon": [
+     "19 – 9 – 1954",
+     "2 – 9 – 1945",
+     "30 – 4 – 1975"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Bác Hồ căn dặn các chiến sĩ tại Đền Hùng vào ngày nào?",
+     "Pause! On what date did Uncle Hồ speak to the soldiers at the Hùng Temple?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngày 19 tháng 9 năm 1954!",
+     "The answer is A: 19 September 1954!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân ngồi trên ghế đá dưới gốc cây cổ thụ trong khu Đền Hùng, Hân Hân mở cuốn SGK Lịch sử và Địa lí 6, chỉ vào hai câu thơ in nghiêng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chủ tịch Hồ Chí Minh còn viết hai câu thơ rất nổi tiếng:",
+     "President Hồ Chí Minh also wrote two famous lines of verse:"
+    ],
+    [
+     "Nhật Minh",
+     "“Dân ta phải biết sử ta, cho tường gốc tích nước nhà Việt Nam.”",
+     "'Our people must know our own history, to understand the roots of our Vietnamese homeland.'"
+    ],
+    [
+     "Hân Hân",
+     "Học lịch sử giúp chúng ta tìm về cội nguồn của chính bản thân, gia đình, dòng họ, rộng hơn là của cả dân tộc, nhân loại.",
+     "Learning history helps us trace the roots of ourselves, our families and clans, and more broadly our nation and humankind."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "“Dân ta phải biết sử ta / Cho tường … nước nhà Việt Nam.” Từ còn thiếu là gì?",
+    "lua_chon": [
+     "gốc tích",
+     "non sông",
+     "đất đai"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! “Dân ta phải biết sử ta, cho tường… nước nhà Việt Nam.” Từ còn thiếu là gì?",
+     "Quick test! 'Our people must know our own history, to understand the … of our homeland.' What's the missing word?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: gốc tích!",
+     "The answer is A: roots!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đi dọc lối đi lát đá trong khu Đền Hùng, vừa đi vừa trò chuyện; đoàn học sinh khác đi tham quan phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Học lịch sử còn giúp đúc kết những bài học về thành công và thất bại của quá khứ.",
+     "Studying history also distils lessons from the successes and failures of the past."
+    ],
+    [
+     "Hân Hân",
+     "Để phục vụ hiện tại và xây dựng cuộc sống mới trong tương lai. Thảo nào Xi-xê-rông, nhà chính trị La Mã cổ đại, nói: “Lịch sử là thầy dạy của cuộc sống”!",
+     "To serve the present and build a new life in the future. No wonder Cicero, the ancient Roman statesman, said: 'History is the teacher of life'!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "19 – 9 – 1954: Bác Hồ căn dặn các chiến sĩ tại Đền Hùng",
+    "“Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”",
+    "“Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam”",
+    "Học lịch sử: tìm về cội nguồn, đúc kết bài học cho hiện tại và tương lai"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ngày 19 tháng 9 năm 1954, Bác Hồ căn dặn các chiến sĩ tại Đền Hùng.",
+     "Remember: on 19 September 1954, Uncle Hồ spoke to the soldiers at the Hùng Temple."
+    ],
+    [
+     "Hân Hân",
+     "Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước.",
+     "The Hùng Kings built the nation; together we must protect it."
+    ],
+    [
+     "Nhật Minh",
+     "Dân ta phải biết sử ta, cho tường gốc tích nước nhà Việt Nam.",
+     "Our people must know our history, to understand the roots of our homeland."
+    ],
+    [
+     "Hân Hân",
+     "Học lịch sử để tìm về cội nguồn và đúc kết bài học cho hiện tại, tương lai.",
+     "We learn history to find our roots and draw lessons for today and tomorrow."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng ở cổng Đền Hùng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: gia đình hay dòng họ cậu có câu chuyện nào về cội nguồn không? Kể cho tụi mình nghe ở phần bình luận nhé!",
+     "Your challenge: does your family or clan have a story about its roots? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo lời Bác Hồ tại Đền Hùng (19 – 9 – 1954), Vua Hùng là",
+   "dap_an": [
+    "Vị vua khai quốc",
+    "Vị vua cuối cùng của nước ta",
+    "Một vị tướng giữ nước",
+    "Người viết sử đầu tiên"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Câu nói “Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước” được Bác Hồ căn dặn ai?",
+   "dap_an": [
+    "Các cháu thiếu nhi",
+    "Các chiến sĩ",
+    "Các nhà sử học",
+    "Các vị bô lão"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Học lịch sử giúp chúng ta",
+   "dap_an": [
+    "Chỉ ghi nhớ thật nhiều năm tháng",
+    "Tìm hiểu quá khứ, tìm về cội nguồn của bản thân, gia đình, dòng họ, dân tộc, nhân loại",
+    "Biết trước tương lai",
+    "Không cần học các môn khác"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Ai đã nói: “Lịch sử là thầy dạy của cuộc sống”?",
+   "dap_an": [
+    "Hô-me",
+    "Xi-xê-rông",
+    "Khổng Tử",
+    "Pi-ta-go"
+   ],
+   "dung": 1,
+   "trang": 10
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 10 và ảnh trang (ô Kết nối với ngày nay – lời Bác Hồ tại Đền Hùng 19 – 9 – 1954; hai câu thơ của Hồ Chí Minh; mục 2; câu nói của Xi-xê-rông ở phần Luyện tập). Hiệu đính kiến thức chốt của danh mục: câu thơ đúng nguyên văn SGK là 'Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam' (danh mục ghi 'để giữ gìn đất nước' là không đúng nguyên văn); ý 'giữ lấy nước' là lời căn dặn tại Đền Hùng, tách riêng. Giải nghĩa 'khai quốc' = mở nước là giải thích từ ngữ. Áp dụng quy tắc lịch sử hiện đại: chỉ ảnh tư liệu, không vẽ lãnh tụ, không lời thoại dựng; không vẽ chân dung Vua Hùng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

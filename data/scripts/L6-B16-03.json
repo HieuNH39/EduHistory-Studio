@@ -1,0 +1,405 @@
+{
+ "ma": "L6-B16-03",
+ "ten_tap": "Lý Bí và nước Vạn Xuân",
+ "ten_tap_en": "Lý Bí and the State of Vạn Xuân",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 16. Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+  "trang": [
+   74,
+   75,
+   77
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-bi",
+  "trieu-quang-phuc",
+  "quan-luong"
+ ],
+ "nhac": {
+  "tam_trang": "bức bối ở đoạn thuế khoá, hào hùng khi khởi nghĩa, trang trọng khi lập nước Vạn Xuân",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; trang phục, cung điện thời Tiền Lý vẽ minh hoạ; trục thời gian theo Hình 4 SGK tr. 74. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 16, tr. 74–75, 77.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước chùa Trấn Quốc (Hà Nội) ngày nay: ngọn bảo tháp nhiều tầng màu đỏ gạch bên mặt hồ rộng, cây bồ đề xanh, nắng sớm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là chùa Trấn Quốc ở Hà Nội. Tiền thân của ngôi chùa là chùa Khai Quốc thời Tiền Lý.",
+     "This is Trấn Quốc Pagoda in Hà Nội. It began as Khai Quốc Pagoda in the Early Lý era."
+    ],
+    [
+     "Nhật Minh",
+     "Khai Quốc, nghĩa là mở nước! Ai đã dựng chùa, và đã mở ra nước nào? Đi tìm hiểu thôi!",
+     "Khai Quốc means 'founding the nation'! Who built it, and which nation did they found? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-luong"
+   ],
+   "hinh": "Cổng chợ thời thuộc Lương: lính đô hộ dán thêm hàng loạt bảng cáo thị thu thuế mới (chữ mờ, không đọc được), viên quan thu thuế lấy thóc, vải của dân; người dân cúi đầu, giận dữ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nửa đầu thế kỉ VI, chính quyền đô hộ nhà Lương thi hành chính sách cai trị khắc nghiệt.",
+     "In the early 6th century, the Liang colonial regime ruled with great harshness."
+    ],
+    [
+     "Hân Hân",
+     "Họ đặt thêm hàng trăm thứ thuế mới, tăng cường vơ vét, bóc lột nhân dân. Nhiều cuộc đấu tranh của người Việt tiếp tục bùng nổ.",
+     "They added hundreds of new taxes and squeezed the people harder. Again and again, the Việt rose up."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-bi"
+   ],
+   "hinh": "Lý Bí, một hào trưởng dáng vẻ cương nghị, mặc áo vải sẫm, đứng trước đông đảo dân chúng và trai tráng cầm giáo; cờ khởi nghĩa (không chữ) tung bay; trời rạng sáng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tiêu biểu nhất là khởi nghĩa của Lý Bí, một hào trưởng địa phương, quê ở phường Vạn Xuân, tỉnh Thái Nguyên ngày nay.",
+     "The most notable was the uprising of Lý Bí, a local chief from what is now Vạn Xuân ward, Thái Nguyên province."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 542, khởi nghĩa bùng nổ, lật đổ chính quyền đô hộ, làm chủ Giao Châu!",
+     "In early 542, the uprising broke out, overthrew the colonial regime and took control of Giao Châu!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khởi nghĩa Lý Bí bùng nổ vào năm nào?",
+    "lua_chon": [
+     "Đầu năm 542",
+     "Năm 40",
+     "Năm 938"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Khởi nghĩa Lý Bí bùng nổ vào năm nào?",
+     "Pause! When did Lý Bí's uprising break out?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: đầu năm 542!",
+     "The answer is A: early 542!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-bi"
+   ],
+   "hinh": "Trong điện gỗ mới dựng bên cửa sông, Lý Bí mặc hoàng bào giản dị, đội mũ, đứng trước triều thần văn võ xếp hàng; ngoài sân dân chúng hân hoan",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 544, Lý Bí tự xưng là Lý Nam Đế, lập nước Vạn Xuân.",
+     "In early 544, Lý Bí proclaimed himself Emperor Lý Nam Đế and founded the state of Vạn Xuân."
+    ],
+    [
+     "Lý Bí",
+     "Từ nay, nước ta có tên là Vạn Xuân, có vua, có triều đình của riêng mình!",
+     "From now on our land is named Vạn Xuân, with its own emperor and its own court!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-bi"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên bờ sông nơi cửa sông Tô Lịch thời Tiền Lý, nhìn thợ dựng một ngôi chùa gỗ mái cong và một toà điện lớn; thuyền bè qua lại",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vạn Xuân đóng đô ở vùng cửa sông Tô Lịch, Hà Nội. Lý Nam Đế lập triều đình, dựng điện Vạn Thọ…",
+     "Vạn Xuân set its capital at the mouth of the Tô Lịch River, Hà Nội. Lý Nam Đế formed a court, built Vạn Thọ Palace…"
+    ],
+    [
+     "Hân Hân",
+     "…và chùa Khai Quốc, tiền thân của chùa Trấn Quốc ngày nay!",
+     "…and Khai Quốc Pagoda, the forerunner of today's Trấn Quốc Pagoda!"
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trieu-quang-phuc",
+    "quan-luong"
+   ],
+   "hinh": "Đầm lầy mênh mông lau sậy (đầm Dạ Trạch): nghĩa quân của Triệu Quang Phục chèo thuyền nhỏ luồn lách trong lau sậy, ẩn mình; xa xa là trại quân Lương trên bờ (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 545, quân Lương xâm lược nước Vạn Xuân. Triệu Quang Phục thay Lý Bí tiếp tục lãnh đạo kháng chiến, xây dựng căn cứ tại đầm Dạ Trạch, Hưng Yên.",
+     "In 545, the Liang invaded Vạn Xuân. Triệu Quang Phục took over from Lý Bí, leading the resistance from a base in Dạ Trạch marsh, Hưng Yên."
+    ],
+    [
+     "Hân Hân",
+     "Kháng chiến thắng lợi, Triệu Quang Phục lên làm vua, gọi là Triệu Việt Vương.",
+     "The resistance won, and Triệu Quang Phục became king, known as Triệu Việt Vương."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Đoàn quân nhà Tuỳ với cờ không chữ kéo đến từ phương Bắc qua núi đèo, trời u ám (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến năm 602, nhà Tuỳ đưa quân xâm lược, nước Vạn Xuân chấm dứt.",
+     "In 602, the Sui dynasty invaded, and Vạn Xuân came to an end."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KHỞI NGHĨA LÝ BÍ",
+   "moc": [
+    [
+     "Đầu năm 542",
+     "Khởi nghĩa bùng nổ, làm chủ Giao Châu"
+    ],
+    [
+     "Đầu năm 544",
+     "Lý Nam Đế lập nước Vạn Xuân"
+    ],
+    [
+     "Năm 545",
+     "Quân Lương xâm lược; Triệu Quang Phục kháng chiến"
+    ],
+    [
+     "Năm 602",
+     "Nhà Tuỳ xâm lược, Vạn Xuân chấm dứt"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Đầu năm 542, khởi nghĩa bùng nổ, làm chủ Giao Châu.",
+     "Recap! Early 542: the uprising breaks out and takes Giao Châu."
+    ],
+    [
+     "Nhật Minh",
+     "Đầu năm 544, Lý Nam Đế lập nước Vạn Xuân.",
+     "Early 544: Lý Nam Đế founds Vạn Xuân."
+    ],
+    [
+     "Hân Hân",
+     "Năm 545, quân Lương xâm lược, Triệu Quang Phục lãnh đạo kháng chiến thắng lợi.",
+     "545: the Liang invade; Triệu Quang Phục leads a victorious resistance."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 602, nhà Tuỳ xâm lược, nước Vạn Xuân chấm dứt.",
+     "602: the Sui invade, and Vạn Xuân ends."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Triệu Quang Phục xây dựng căn cứ kháng chiến ở đâu?",
+    "lua_chon": [
+     "Đầm Dạ Trạch (Hưng Yên)",
+     "Cổ Loa (Hà Nội)",
+     "Mê Linh (Hà Nội)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Triệu Quang Phục xây dựng căn cứ kháng chiến ở đâu?",
+     "Quick test! Where did Triệu Quang Phục set up his resistance base?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đầm Dạ Trạch, Hưng Yên!",
+     "The answer is A: Dạ Trạch marsh, Hưng Yên!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân: nhà Lương cai trị khắc nghiệt, đặt thêm hàng trăm thứ thuế",
+    "Đầu năm 542: Lý Bí khởi nghĩa, làm chủ Giao Châu",
+    "Đầu năm 544: Lý Nam Đế lập nước Vạn Xuân, đóng đô ở cửa sông Tô Lịch",
+    "Ý nghĩa: tự làm chủ nước mình, mở đường cho các triều đại sau"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nhà Lương cai trị khắc nghiệt, đặt thêm hàng trăm thứ thuế mới.",
+     "Remember: the Liang ruled harshly, adding hundreds of new taxes."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 542, Lý Bí khởi nghĩa, làm chủ Giao Châu.",
+     "Early 542: Lý Bí rose up and took Giao Châu."
+    ],
+    [
+     "Nhật Minh",
+     "Đầu năm 544, Lý Nam Đế lập nước Vạn Xuân, đóng đô ở vùng cửa sông Tô Lịch.",
+     "Early 544: Lý Nam Đế founded Vạn Xuân, with its capital at the Tô Lịch river mouth."
+    ],
+    [
+     "Hân Hân",
+     "Sử cũ nhận xét: Nam Đế đã biết nhân thời cơ vùng dậy, tự làm chủ lấy nước mình, mở đường cho các triều đại sau này.",
+     "Old histories say Nam Đế seized his moment, made himself master of his own country, and opened the way for later dynasties."
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sân chùa Trấn Quốc lúc chiều, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: ở nơi cậu sống có con đường, trường học hay di tích nào mang tên Lý Bí, Lý Nam Đế hay thờ các vị anh hùng khởi nghĩa không? Bình luận chia sẻ nhé!",
+     "Your challenge: is there a street, school or historic site near you named after Lý Bí or honouring other uprising heroes? Share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Lý Bí xưng là Lý Nam Đế, lập nước Vạn Xuân vào thời gian nào?",
+   "dap_an": [
+    "Đầu năm 542",
+    "Đầu năm 544",
+    "Năm 545",
+    "Năm 602"
+   ],
+   "dung": 1,
+   "trang": 74
+  },
+  {
+   "hoi": "Kinh đô của nước Vạn Xuân đặt ở đâu?",
+   "dap_an": [
+    "Vùng cửa sông Tô Lịch (Hà Nội)",
+    "Mê Linh",
+    "Cổ Loa",
+    "Luy Lâu"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Chùa Trấn Quốc (Hà Nội) ngày nay có tiền thân là",
+   "dap_an": [
+    "Chùa Khai Quốc thời Tiền Lý",
+    "Điện Vạn Thọ",
+    "Chùa Một Cột",
+    "Đền Hùng"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Sau Lý Bí, ai lãnh đạo cuộc kháng chiến chống quân Lương và lên làm vua?",
+   "dap_an": [
+    "Triệu Quang Phục",
+    "Mai Thúc Loan",
+    "Phùng Hưng",
+    "Khúc Thừa Dụ"
+   ],
+   "dung": 0,
+   "trang": 74
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 74 (mục 3; Hình 4 – tóm tắt diễn biến, đối chiếu ảnh trang: 'điện Vạn Thọ', 'Triệu Việt Vương'), tr. 75 (Hình 5 – chùa Trấn Quốc tiền thân là chùa Khai Quốc; tư liệu 3 theo Khâm định Việt sử thông giám cương mục), tr. 77 (câu Vận dụng 3). Hiệu đính kiến thức chốt của danh mục: SGK ghi 'đầu năm 544'; ý nghĩa theo đúng tư liệu 3 ('tự làm chủ lấy nước mình… mở đường cho nhà Đinh, nhà Lý sau này'). Giải nghĩa 'Khai Quốc = mở nước' là giải thích từ ngữ. Lời Lý Bí (cảnh 6) là lời tái hiện diễn đạt ý 'lập nước Vạn Xuân, thành lập triều đình'. Không dựng sa bàn vì SGK không có lược đồ cho khởi nghĩa Lý Bí (Hình 4 là sơ đồ tóm tắt), dùng trục thời gian.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

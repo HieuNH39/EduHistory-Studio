@@ -1,0 +1,497 @@
+{
+ "ma": "L9-B3-05",
+ "ten_tap": "Đông Nam Á: Cuộc đấu tranh bền bỉ",
+ "ten_tap_en": "Southeast Asia: A Long and Stubborn Struggle",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+  "trang": [
+   15,
+   16,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ong-keo",
+  "com-ma-dam",
+  "a-cha-hem-chieu"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, bền bỉ, dâng dần ở đoạn 1945; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 3, tr. 15–17.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học Lịch sử của trường, đứng trước màn hình tương tác lớn hiển thị bản đồ khu vực Đông Nam Á; trên bàn có quả địa cầu và cuốn SGK Lịch sử và Địa lí 9; nắng sáng qua cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa hai cuộc chiến tranh thế giới, ở các nước Đông Nam Á đã bùng nổ nhiều cuộc đấu tranh giành độc lập dân tộc.",
+     "Between the two world wars, many struggles for national independence broke out across Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1918 đến năm 1945, đó là một cuộc đấu tranh bền bỉ. Cùng nhìn lại trên bản đồ nhé!",
+     "From 1918 to 1945, it was a long and stubborn fight. Let's look back at it on the map!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1918",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi của Cách mạng tháng Mười Nga đã tác động đến nhiều nước châu Á.",
+     "The victory of the Russian October Revolution influenced many Asian countries."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào đấu tranh giành độc lập dân tộc dâng cao, lan rộng khắp Đông Bắc Á, Đông Nam Á, Nam Á và Tây Á.",
+     "The independence movement surged and spread across Northeast, Southeast, South and West Asia."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI KHUYNH HƯỚNG CHÍNH",
+   "y": [
+    "Khuynh hướng dân chủ tư sản – tiêu biểu: Ấn Độ, In-đô-nê-xi-a",
+    "Khuynh hướng vô sản – tiêu biểu: Trung Quốc, Việt Nam"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Phong trào ở châu Á thời kì này đi theo hai khuynh hướng chính. Khuynh hướng dân chủ tư sản, tiêu biểu là Ấn Độ, In-đô-nê-xi-a.",
+     "The movement in Asia then followed two main paths. The bourgeois-democratic path, typified by India and Indonesia."
+    ],
+    [
+     "Nhật Minh",
+     "Và khuynh hướng vô sản, tiêu biểu là Trung Quốc và Việt Nam.",
+     "And the proletarian path, typified by China and Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "dang_cs",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đông Nam Á, từ sau Chiến tranh thế giới thứ nhất, giai cấp vô sản từng bước trưởng thành và tham gia lãnh đạo phong trào cách mạng.",
+     "In Southeast Asia, after World War I, the working class gradually matured and began to lead the revolutionary movement."
+    ],
+    [
+     "Hân Hân",
+     "Một số Đảng Cộng sản ra đời: Đảng Cộng sản In-đô-nê-xi-a tháng 5 năm 1920, Đảng Cộng sản Việt Nam đầu năm 1930,",
+     "Several Communist Parties were founded: Indonesia's in May 1920, Vietnam's in early 1930,"
+    ],
+    [
+     "Nhật Minh",
+     "các Đảng Cộng sản Mã Lai và Xiêm tháng 4 năm 1930, Đảng Cộng sản Phi-líp-pin tháng 11 năm 1930.",
+     "those of Malaya and Siam in April 1930, and the Philippines' in November 1930."
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong các đảng sau, đảng nào được thành lập sớm nhất?",
+    "lua_chon": [
+     "Đảng Cộng sản Việt Nam",
+     "Đảng Cộng sản In-đô-nê-xi-a",
+     "Đảng Cộng sản Phi-líp-pin"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Trong ba đảng này, đảng nào được thành lập sớm nhất?",
+     "Pause! Which of these three parties was founded first?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Đảng Cộng sản In-đô-nê-xi-a, tháng 5 năm 1920!",
+     "The answer is B: the Communist Party of Indonesia, in May 1920!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "khoi_nghia",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Dưới sự lãnh đạo của Đảng Cộng sản, phong trào của công nhân và nhân dân lao động một số nước đã bùng nổ.",
+     "Led by Communist Parties, movements of workers and working people broke out in several countries."
+    ],
+    [
+     "Nhật Minh",
+     "Nổi bật là cuộc khởi nghĩa ở Gia-va và Xu-ma-tơ-ra, In-đô-nê-xi-a, những năm 1926 – 1927,",
+     "Most notable were the uprising in Java and Sumatra, Indonesia, in 1926–1927,"
+    ],
+    [
+     "Hân Hân",
+     "và cao trào Xô viết Nghệ – Tĩnh ở Việt Nam, những năm 1930 – 1931.",
+     "and the Nghệ – Tĩnh Soviet movement in Vietnam, in 1930–1931."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Tượng đài Xô viết Nghệ – Tĩnh (như Hình 7.1 SGK, tr. 30) – ảnh chụp di tích ngày nay",
+    "tim": "Tượng đài Xô viết Nghệ Tĩnh Vinh ảnh",
+    "yeu_cau": "ảnh chụp di tích công khai hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Ảnh: Tượng đài Xô viết Nghệ – Tĩnh, ghi nhớ cao trào 1930 – 1931",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các cuộc nổi dậy ấy đều bị chính quyền thực dân đàn áp hết sức đẫm máu.",
+     "These uprisings were all brutally and bloodily suppressed by the colonial authorities."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "dan_chu_ts",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng lúc đó, phong trào dân chủ tư sản cũng có bước tiến rõ rệt.",
+     "At the same time, the bourgeois-democratic movement also made clear progress."
+    ],
+    [
+     "Nhật Minh",
+     "Trước kia mới chỉ có các nhóm, phái, hội nhỏ. Giờ đã xuất hiện những chính đảng có tổ chức và ảnh hưởng rộng lớn,",
+     "Before, there were only small groups, factions and societies. Now organised parties with wide influence appeared,"
+    ],
+    [
+     "Hân Hân",
+     "như Đảng Dân tộc ở In-đô-nê-xi-a, Phong trào Tha-kin ở Miến Điện, Liên minh Thanh niên Ma-lay-a ở Mã Lai.",
+     "such as the Nationalist Party in Indonesia, the Thakin Movement in Burma and the Malay Youth Union in Malaya."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Tha-kin xuất hiện ở nước nào?",
+    "lua_chon": [
+     "Miến Điện",
+     "Mã Lai",
+     "Xiêm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Phong trào Tha-kin xuất hiện ở nước nào?",
+     "Quick test! In which country did the Thakin Movement appear?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Miến Điện!",
+     "The answer is A: Burma!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "dong_duong",
+   "thoi_luong_toi_thieu": 16,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đông Dương, cuộc đấu tranh chống thực dân Pháp diễn ra dưới nhiều hình thức, với đông đảo các tầng lớp nhân dân tham gia.",
+     "In Indochina, the fight against French colonialism took many forms, joined by people from all walks of life."
+    ],
+    [
+     "Hân Hân",
+     "Ở Lào, cuộc khởi nghĩa do Ong Kẹo và Com-ma-đam lãnh đạo kéo dài hơn 30 năm, từ năm 1901 đến năm 1937.",
+     "In Laos, the uprising led by Ong Keo and Kommadam lasted more than 30 years, from 1901 to 1937."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Cam-pu-chia, nổi bật là phong trào yêu nước theo xu hướng dân chủ tư sản do nhà sư A-cha Hem-chiêu đứng đầu, những năm 1930 – 1935.",
+     "In Cambodia, a highlight was the bourgeois-democratic patriotic movement headed by the monk Achar Hem Chieu, 1930–1935."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở Việt Nam, phong trào phát triển mạnh mẽ, nhất là sau khi Đảng Cộng sản ra đời năm 1930.",
+     "And in Vietnam, the movement grew strongly, especially after the Communist Party was founded in 1930."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a",
+   "pha": "ctgt2",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong Chiến tranh thế giới thứ hai, phong trào đấu tranh ở Đông Nam Á phát triển mạnh mẽ. Năm 1940, quân phiệt Nhật Bản xâm lược các nước Đông Nam Á.",
+     "During World War II, the struggle in Southeast Asia grew strongly. In 1940, Japanese militarists invaded the countries of Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1945, chớp thời cơ Nhật Bản đầu hàng Đồng minh, phong trào giải phóng dân tộc đã giành thắng lợi ở một số nước.",
+     "In 1945, seizing the moment of Japan's surrender to the Allies, the liberation movement triumphed in several countries."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐÔNG NAM Á 1918 – 1945",
+   "moc": [
+    [
+     "5 – 1920",
+     "Đảng Cộng sản In-đô-nê-xi-a"
+    ],
+    [
+     "1926 – 1927",
+     "Khởi nghĩa Gia-va, Xu-ma-tơ-ra"
+    ],
+    [
+     "Đầu 1930",
+     "Đảng Cộng sản Việt Nam"
+    ],
+    [
+     "1930 – 1931",
+     "Xô viết Nghệ – Tĩnh"
+    ],
+    [
+     "1940",
+     "Nhật Bản xâm lược Đông Nam Á"
+    ],
+    [
+     "1945",
+     "Thắng lợi ở một số nước"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2,
+    3,
+    4
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 5 năm 1920: Đảng Cộng sản In-đô-nê-xi-a ra đời.",
+     "Recap! May 1920: the Communist Party of Indonesia is founded."
+    ],
+    [
+     "Nhật Minh",
+     "1926 – 1927: khởi nghĩa ở Gia-va và Xu-ma-tơ-ra.",
+     "1926–1927: the uprising in Java and Sumatra."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1930: Đảng Cộng sản Việt Nam ra đời. 1930 – 1931: Xô viết Nghệ – Tĩnh.",
+     "Early 1930: the Communist Party of Vietnam. 1930–1931: the Nghệ – Tĩnh Soviets."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1940: Nhật Bản xâm lược Đông Nam Á.",
+     "1940: Japan invades Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Và năm 1945: phong trào giải phóng dân tộc thắng lợi ở một số nước.",
+     "And 1945: national liberation wins in several countries."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Giai cấp vô sản trưởng thành; nhiều Đảng Cộng sản ra đời (1920 – 1930)",
+    "Khởi nghĩa Gia-va, Xu-ma-tơ-ra (1926 – 1927); Xô viết Nghệ – Tĩnh (1930 – 1931)",
+    "Dân chủ tư sản: xuất hiện chính đảng có tổ chức, ảnh hưởng rộng",
+    "1945: giành thắng lợi ở một số nước"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: giai cấp vô sản Đông Nam Á trưởng thành, nhiều Đảng Cộng sản ra đời.",
+     "Remember: Southeast Asia's working class matured and many Communist Parties were born."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu là khởi nghĩa Gia-va, Xu-ma-tơ-ra và cao trào Xô viết Nghệ – Tĩnh.",
+     "Highlights: the Java–Sumatra uprising and the Nghệ – Tĩnh Soviets."
+    ],
+    [
+     "Nhật Minh",
+     "Phong trào dân chủ tư sản có các chính đảng có tổ chức, ảnh hưởng rộng lớn.",
+     "The bourgeois-democratic movement gained organised, influential parties."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1945, phong trào giải phóng dân tộc giành thắng lợi ở một số nước.",
+     "In 1945, national liberation triumphed in several countries."
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong phòng học Lịch sử, bản đồ Đông Nam Á sáng trên màn hình phía sau; Hân Hân giơ tay mời người xem bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: kể tên một phong trào theo khuynh hướng vô sản và một phong trào theo khuynh hướng dân chủ tư sản ở Đông Nam Á thời kì này. Bình luận nhé!",
+     "Your challenge: name one proletarian movement and one bourgeois-democratic movement in Southeast Asia in this period. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ sau Chiến tranh thế giới thứ nhất, giai cấp nào ở Đông Nam Á từng bước trưởng thành và tham gia lãnh đạo phong trào cách mạng?",
+   "dap_an": [
+    "Địa chủ phong kiến",
+    "Giai cấp vô sản",
+    "Tư sản mại bản",
+    "Quan lại thuộc địa"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Cuộc khởi nghĩa ở Gia-va và Xu-ma-tơ-ra (1926 – 1927) diễn ra ở nước nào?",
+   "dap_an": [
+    "Phi-líp-pin",
+    "Mã Lai",
+    "In-đô-nê-xi-a",
+    "Miến Điện"
+   ],
+   "dung": 2,
+   "trang": 17
+  },
+  {
+   "hoi": "Ai lãnh đạo cuộc khởi nghĩa kéo dài hơn 30 năm (1901 – 1937) ở Lào?",
+   "dap_an": [
+    "A-cha Hem-chiêu",
+    "Ong Kẹo và Com-ma-đam",
+    "M. Gan-đi",
+    "Tha-kin"
+   ],
+   "dung": 1,
+   "trang": 17
+  },
+  {
+   "hoi": "Chính đảng nào sau đây thuộc phong trào dân chủ tư sản ở In-đô-nê-xi-a?",
+   "dap_an": [
+    "Đảng Dân tộc",
+    "Phong trào Tha-kin",
+    "Liên minh Thanh niên Ma-lay-a",
+    "Đảng Quốc đại"
+   ],
+   "dung": 0,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 14–17 (mở bài tr. 14; mục 2a khái quát tr. 15–16; mục 2c Đông Nam Á tr. 16–17). Đã chỉnh kiến thức chốt của danh mục: SGK gọi Nghệ – Tĩnh là 'cao trào Xô viết Nghệ – Tĩnh' (không phải 'khởi nghĩa'); các Đảng Cộng sản ghi đúng mốc SGK (In-đô-nê-xi-a 5 – 1920, Việt Nam đầu 1930, Mã Lai và Xiêm 4 – 1930, Phi-líp-pin 11 – 1930). SGK không có lược đồ cho mục này: sa bàn 'dong-nam-a' là bản đồ định vị vẽ bằng code (nền Natural Earth), chỉ ghi tên nước theo cách gọi trong SGK và các mốc có trong SGK, có Hoàng Sa, Trường Sa. Ảnh Tượng đài Xô viết Nghệ – Tĩnh theo Hình 7.1 (tr. 30). Người thật chỉ được nhắc tên, không vẽ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

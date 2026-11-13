@@ -1,0 +1,370 @@
+{
+ "ma": "L6-B4-01",
+ "ten_tap": "Hành trình triệu năm của loài người",
+ "ten_tap_en": "Humanity's Million-Year Journey",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 4. Nguồn gốc loài người",
+  "trang": [
+   16,
+   17,
+   20,
+   23
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vuon-nguoi",
+  "nguoi-toi-co",
+  "nguoi-tinh-khon"
+ ],
+ "nhac": {
+  "tam_trang": "hoang sơ, kì vĩ, nhịp chậm rồi mở rộng dần",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình dạng Vượn người, Người tối cổ, Người tinh khôn vẽ minh hoạ theo Hình 1 SGK tr. 17 và tượng phục dựng; không phải chân dung chính xác. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 4, tr. 16–17; Bài 5, tr. 20, 23.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong sảnh một bảo tàng tự nhiên hiện đại, đứng trước ba bức tượng phục dựng xếp hàng: một Vượn người lom khom, một Người tối cổ đứng thẳng cầm hòn đá, một Người tinh khôn dáng như người ngày nay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Loài người có nguồn gốc từ đâu? Câu hỏi này đã được đặt ra từ rất lâu rồi.",
+     "Where did humankind come from? People have asked this for a very long time."
+    ],
+    [
+     "Nhật Minh",
+     "Muốn trả lời, tụi mình phải quay ngược thời gian… hàng triệu năm! Đi thôi!",
+     "To answer it, we have to go back in time… millions of years! Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "5 – 6 triệu năm trước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vuon-nguoi"
+   ],
+   "hinh": "Đồng cỏ và rừng thưa ở Đông Phi thời tiền sử: vài cá thể Vượn người (vẽ theo Hình 1 SGK) lông phủ thân, đi lom khom, ngồi bên gốc cây hái quả; trời nắng nóng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây hàng triệu năm.",
+     "The evolution from apes to humans happened over millions of years."
+    ],
+    [
+     "Hân Hân",
+     "Ở chặng đầu, cách ngày nay khoảng 5 – 6 triệu năm, đã có một loài Vượn người sinh sống.",
+     "At the start, about 5 to 6 million years ago, a species of hominid ape lived."
+    ],
+    [
+     "Nhật Minh",
+     "Những phát hiện gần đây ở Đông Phi cho thấy nơi đây là một trong những “cái nôi” của loài người.",
+     "Recent finds in East Africa suggest it was one of the 'cradles' of humankind."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Một nhóm Người tối cổ (vẽ theo Hình 1 SGK) đứng thẳng, đi bằng hai chân trên đồng cỏ, tay cầm hòn đá và cành cây; trán thấp, hàm nhô, dáng còn thô",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ loài Vượn người, một nhánh đã phát triển lên thành Người tối cổ, xuất hiện khoảng 4 triệu năm trước.",
+     "From the hominid apes, one branch became Homo erectus, appearing about 4 million years ago."
+    ],
+    [
+     "Nhật Minh",
+     "Người tối cổ thường xuyên đi, đứng bằng hai chân. Hai chi trước thành hai tay, có thể cầm nắm.",
+     "They regularly walked and stood on two legs. Their front limbs became hands that could grasp."
+    ],
+    [
+     "Hân Hân",
+     "Thể tích sọ não lớn hơn, và trong não đã hình thành trung tâm phát tiếng nói.",
+     "Their brains were bigger, and a speech centre had formed in the brain."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người tối cổ xuất hiện cách ngày nay khoảng bao lâu?",
+    "lua_chon": [
+     "Khoảng 4 triệu năm",
+     "Khoảng 15 vạn năm",
+     "Khoảng 4 000 năm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Người tối cổ xuất hiện cách ngày nay khoảng bao lâu?",
+     "Pause! About how long ago did Homo erectus appear?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: khoảng 4 triệu năm!",
+     "The answer is A: about 4 million years!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau tảng đá lớn, quan sát một nhóm Người tối cổ ngồi quanh bãi đá, dùng hòn đá này ghè vào hòn đá khác để tạo cạnh sắc; mảnh đá vụn bắn ra",
+   "loi": [
+    [
+     "Hân Hân",
+     "Suỵt… Họ đang ghè đá làm công cụ đấy.",
+     "Shh… They're chipping stones to make tools."
+    ],
+    [
+     "Nhật Minh",
+     "Trong quá trình lao động, Người tối cổ liên tục cải tiến công cụ. Đôi bàn tay dần khéo léo hơn, cơ thể cũng dần biến đổi để trở thành Người tinh khôn.",
+     "Through work, they kept improving their tools. Their hands grew more skilful and their bodies slowly changed into Homo sapiens."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Một gia đình Người tinh khôn (vẽ theo Hình 1 SGK) đứng trước cửa hang: dáng thẳng, cơ thể gọn, trán cao, mặt phẳng; một người dùng ngón tay khéo léo xâu vỏ ốc thành vòng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng 15 vạn năm trước, Người tối cổ biến đổi thành Người tinh khôn.",
+     "About 150,000 years ago, Homo erectus changed into Homo sapiens."
+    ],
+    [
+     "Nhật Minh",
+     "Người tinh khôn có cấu tạo cơ thể giống người ngày nay: bàn tay nhỏ, khéo léo, ngón tay linh hoạt, sọ não phát triển, trán cao, mặt phẳng, cơ thể gọn và linh hoạt.",
+     "Homo sapiens had bodies like ours: small, skilful hands, nimble fingers, a developed brain, a high forehead, a flat face and a light, agile build."
+    ],
+    [
+     "Hân Hân",
+     "SGK còn lưu ý: có sách viết Người tinh khôn xuất hiện khoảng 4 vạn năm trước.",
+     "The textbook also notes that some books date Homo sapiens to about 40,000 years ago."
+    ]
+   ],
+   "nguon_trang": [
+    17,
+    20
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+   "moc": [
+    [
+     "5 – 6 triệu năm trước",
+     "Vượn người"
+    ],
+    [
+     "Khoảng 4 triệu năm trước",
+     "Người tối cổ"
+    ],
+    [
+     "Khoảng 15 vạn năm trước",
+     "Người tinh khôn"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xếp lên trục thời gian nhé! Khoảng 5 – 6 triệu năm trước: Vượn người.",
+     "Let's put it on a timeline! About 5 to 6 million years ago: hominid apes."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 4 triệu năm trước: Người tối cổ.",
+     "About 4 million years ago: Homo erectus."
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng 15 vạn năm trước: Người tinh khôn.",
+     "About 150,000 years ago: Homo sapiens."
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dạng người nào có cấu tạo cơ thể giống như người ngày nay?",
+    "lua_chon": [
+     "Vượn người",
+     "Người tối cổ",
+     "Người tinh khôn"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Dạng người nào có cấu tạo cơ thể giống như người ngày nay?",
+     "Quick test! Which form had a body like people today?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Người tinh khôn!",
+     "The answer is C: Homo sapiens!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Vượn người: khoảng 5 – 6 triệu năm trước",
+    "Người tối cổ: khoảng 4 triệu năm trước, đi đứng bằng hai chân",
+    "Người tinh khôn: khoảng 15 vạn năm trước, cơ thể giống người ngày nay",
+    "Nhờ lao động, cơ thể con người dần biến đổi, hoàn thiện"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Vượn người sống cách ngày nay khoảng 5 – 6 triệu năm.",
+     "Remember: hominid apes lived about 5 to 6 million years ago."
+    ],
+    [
+     "Hân Hân",
+     "Người tối cổ xuất hiện khoảng 4 triệu năm trước, đi đứng bằng hai chân.",
+     "Homo erectus appeared about 4 million years ago, walking on two legs."
+    ],
+    [
+     "Nhật Minh",
+     "Người tinh khôn xuất hiện khoảng 15 vạn năm trước, cơ thể giống người ngày nay.",
+     "Homo sapiens appeared about 150,000 years ago, with bodies like ours."
+    ],
+    [
+     "Hân Hân",
+     "Chính nhờ có lao động, cơ thể con người đã dần biến đổi, hoàn thiện.",
+     "It was through work that the human body gradually changed and was perfected."
+    ]
+   ],
+   "nguon_trang": [
+    17,
+    23
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sảnh bảo tàng, đứng cạnh ba bức tượng phục dựng, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: quan sát ba bức tượng này, cậu thấy Vượn người, Người tối cổ và Người tinh khôn khác nhau ở những điểm nào? Bình luận nhé!",
+     "Your challenge: look at these three figures. How do the hominid ape, Homo erectus and Homo sapiens differ? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cách ngày nay khoảng 5 – 6 triệu năm, đã có loài nào sinh sống?",
+   "dap_an": [
+    "Người tối cổ",
+    "Vượn người",
+    "Người tinh khôn",
+    "Người hiện đại"
+   ],
+   "dung": 1,
+   "trang": 17
+  },
+  {
+   "hoi": "Đặc điểm nào là của Người tối cổ?",
+   "dap_an": [
+    "Thường xuyên đi, đứng bằng hai chân, hai chi trước thành hai tay",
+    "Đi bằng bốn chân",
+    "Cơ thể giống hệt người ngày nay",
+    "Chưa biết dùng tay cầm nắm"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Theo SGK, Người tinh khôn xuất hiện cách ngày nay khoảng",
+   "dap_an": [
+    "4 triệu năm",
+    "5 – 6 triệu năm",
+    "15 vạn năm",
+    "4 000 năm"
+   ],
+   "dung": 2,
+   "trang": 17
+  },
+  {
+   "hoi": "Theo SGK, một trong những “cái nôi” của loài người là",
+   "dap_an": [
+    "Đông Phi",
+    "Bắc Âu",
+    "Nam Mỹ",
+    "Châu Đại Dương"
+   ],
+   "dung": 0,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 16 (trục thời gian, đối chiếu ảnh trang), tr. 17 (mục 1, ô Em có biết – Đông Phi, đặc điểm Người tối cổ; chú thích (1) về niên đại 4 vạn năm), tr. 20 (ô Em có biết – đặc điểm Người tinh khôn; Người tối cổ cải tiến công cụ), tr. 23 (vai trò của lao động). Hiệu đính kiến thức chốt của danh mục: SGK không viết 'quá trình tiến hoá bắt đầu từ 5 – 6 triệu năm trước' mà viết 'ở chặng đầu của quá trình, cách ngày nay khoảng 5 – 6 triệu năm, đã có một loài Vượn người sinh sống'; bổ sung chú thích SGK: có sách viết Người tinh khôn xuất hiện khoảng 4 vạn năm trước. Không trả lời khẳng định câu hỏi 'các dân tộc có chung nguồn gốc' vì SGK chỉ đặt câu hỏi.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

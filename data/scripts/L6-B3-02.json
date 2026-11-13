@@ -1,0 +1,351 @@
+{
+ "ma": "L6-B3-02",
+ "ten_tap": "Âm lịch hay dương lịch?",
+ "ten_tap_en": "Lunar or Solar Calendar?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 3. Thời gian trong lịch sử",
+  "trang": [
+   14,
+   15
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-ai-cap-co-dai",
+  "nguoi-luong-ha-co-dai",
+  "nguoi-trung-quoc-co-dai",
+  "nguoi-la-ma"
+ ],
+ "nhac": {
+  "tam_trang": "vui, tò mò, lấp lánh như bầu trời sao",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; mô hình Mặt Trăng – Trái Đất – Mặt Trời chiếu trong nhà mô hình vũ trụ là giản lược, không theo tỉ lệ. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 3, tr. 14–15.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi ở bàn học trong phòng khách, trước mặt là tờ lịch treo tường có số ngày lớn và số ngày nhỏ ở góc; Nhật Minh gãi đầu bối rối, Hân Hân cười",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sinh nhật cậu tính theo âm lịch hay dương lịch thế?",
+     "Is your birthday on the lunar or the solar calendar?"
+    ],
+    [
+     "Nhật Minh",
+     "Ơ… mẹ tớ tính âm lịch, còn giấy tờ thì ghi dương lịch. Mà hai loại lịch này khác nhau ở chỗ nào nhỉ?",
+     "Er… Mum uses the lunar one, but my papers use the solar one. So what's the difference between them?"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời cổ đại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Bộ ba dụng cụ đo thời gian của người xưa đặt trên bậc đá dưới nắng (vẽ theo Hình 2 SGK): đồng hồ cát đang chảy, đồng hồ nước nhỏ giọt từ bình gốm, đồng hồ mặt trời với bóng kim dịch chuyển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lịch sử là những gì đã xảy ra trong quá khứ theo trình tự thời gian. Muốn dựng lại lịch sử, phải sắp xếp sự kiện theo đúng trình tự.",
+     "History is what happened in the past, in order of time. To rebuild it, we must put events in the right order."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, từ xa xưa, các dân tộc đã sáng tạo ra nhiều cách đo thời gian, như đồng hồ cát, đồng hồ nước, đồng hồ mặt trời.",
+     "So since ancient times, peoples invented many ways to measure time, like hourglasses, water clocks and sundials."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-ai-cap-co-dai",
+    "nguoi-luong-ha-co-dai",
+    "nguoi-trung-quoc-co-dai"
+   ],
+   "hinh": "Ghép ba khung cảnh đêm trăng thời cổ đại: người Ai Cập bên sông Nin, người Lưỡng Hà trên tháp đất nung, người Trung Quốc trên đài cao; ai nấy ngước nhìn vầng trăng khuyết, ghi chép lại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thời cổ đại, con người đã nghĩ ra cách làm lịch.",
+     "Since ancient times, people have devised calendars."
+    ],
+    [
+     "Nhật Minh",
+     "Người Ai Cập, Lưỡng Hà, Trung Quốc cổ đại và một số dân tộc phương Đông khác tính theo âm lịch.",
+     "The ancient Egyptians, Mesopotamians, Chinese and some other Eastern peoples followed a lunar calendar."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân ngồi trong một nhà mô hình vũ trụ hiện đại, ngước nhìn mái vòm chiếu hình Trái Đất xanh ở giữa và Mặt Trăng xám bạc đang chuyển động vòng quanh theo đường quỹ đạo phát sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Âm lịch là hệ lịch được tính theo chu kì chuyển động của Mặt Trăng quanh Trái Đất.",
+     "A lunar calendar is counted by the cycle of the Moon moving around the Earth."
+    ],
+    [
+     "Nhật Minh",
+     "Nhìn Mặt Trăng đi một vòng quanh Trái Đất là hiểu ngay!",
+     "Watching the Moon go round the Earth makes it clear!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-la-ma"
+   ],
+   "hinh": "Quảng trường La Mã cổ đại ban ngày: người La Mã mặc áo choàng trắng tụ tập quanh một chiếc đồng hồ mặt trời bằng đá, bóng kim in rõ trên mặt đá; đền cột đá phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn người La Mã và nhiều tộc người ở châu Âu thì tính theo dương lịch.",
+     "Meanwhile the Romans and many peoples in Europe followed a solar calendar."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trong nhà mô hình vũ trụ, mái vòm chuyển sang chiếu Mặt Trời rực sáng ở giữa và Trái Đất xanh chuyển động vòng quanh theo quỹ đạo lớn; Nhật Minh và Hân Hân chỉ tay theo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dương lịch là hệ lịch được tính theo chu kì chuyển động của Trái Đất quanh Mặt Trời.",
+     "A solar calendar is counted by the cycle of the Earth moving around the Sun."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy là: âm lịch theo Mặt Trăng, dương lịch theo Trái Đất quay quanh Mặt Trời!",
+     "So: lunar follows the Moon, solar follows the Earth going round the Sun!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người La Mã cổ đại tính thời gian theo loại lịch nào?",
+    "lua_chon": [
+     "Âm lịch",
+     "Dương lịch",
+     "Chưa biết làm lịch"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Người La Mã cổ đại tính thời gian theo loại lịch nào?",
+     "Pause! Which calendar did the ancient Romans use?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: dương lịch!",
+     "The answer is B: the solar calendar!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Trở lại phòng khách: Hân Hân chỉ vào tờ lịch treo tường, số ngày dương lịch to ở giữa, số ngày âm lịch nhỏ ở góc; Nhật Minh gật gù",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về sau, dương lịch được hoàn chỉnh và thống nhất để các dân tộc đều có thể sử dụng, đó là Công lịch.",
+     "Later the solar calendar was refined and standardised for all peoples to use: the Common Era calendar."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Việt Nam hiện nay, Công lịch được dùng chính thức trong các cơ quan và văn bản nhà nước.",
+     "In Việt Nam today, it's used officially in government offices and documents."
+    ],
+    [
+     "Hân Hân",
+     "Còn âm lịch vẫn phổ biến rộng rãi trong nhân dân. Vì vậy, tờ lịch in cả ngày, tháng, năm của hai loại lịch!",
+     "But the lunar calendar is still widely used, so calendars print the dates of both!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Âm lịch được tính theo chu kì chuyển động của",
+    "lua_chon": [
+     "Trái Đất quanh Mặt Trời",
+     "Mặt Trăng quanh Trái Đất",
+     "Mặt Trời quanh Mặt Trăng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Âm lịch được tính theo chu kì chuyển động của gì?",
+     "Quick test! A lunar calendar follows the cycle of what?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Mặt Trăng quanh Trái Đất!",
+     "The answer is B: the Moon around the Earth!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Âm lịch: theo chu kì Mặt Trăng quanh Trái Đất (Ai Cập, Lưỡng Hà, Trung Quốc…)",
+    "Dương lịch: theo chu kì Trái Đất quanh Mặt Trời (La Mã, châu Âu…)",
+    "Công lịch: dương lịch được hoàn chỉnh, thống nhất",
+    "Việt Nam: Công lịch dùng chính thức, âm lịch phổ biến trong nhân dân"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: âm lịch tính theo chu kì Mặt Trăng quanh Trái Đất.",
+     "Remember: the lunar calendar follows the Moon around the Earth."
+    ],
+    [
+     "Hân Hân",
+     "Dương lịch tính theo chu kì Trái Đất quanh Mặt Trời.",
+     "The solar calendar follows the Earth around the Sun."
+    ],
+    [
+     "Nhật Minh",
+     "Công lịch là dương lịch đã được hoàn chỉnh và thống nhất.",
+     "The Common Era calendar is the refined, standardised solar calendar."
+    ],
+    [
+     "Hân Hân",
+     "Ở nước ta, Công lịch dùng chính thức, âm lịch vẫn phổ biến trong nhân dân.",
+     "In our country, the Common Era calendar is official and the lunar one is still popular."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng hai bên tờ lịch treo tường, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy kể những ngày nghỉ lễ ở nước ta tính theo âm lịch và những ngày tính theo dương lịch. Bình luận xem ai kể được nhiều nhất nhé!",
+     "Your challenge: name our public holidays that follow the lunar calendar and those that follow the solar one. Let's see who lists the most in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Dương lịch được tính theo chu kì chuyển động của",
+   "dap_an": [
+    "Mặt Trăng quanh Trái Đất",
+    "Trái Đất quanh Mặt Trời",
+    "Mặt Trời quanh Trái Đất",
+    "Các vì sao"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Những dân tộc nào thời cổ đại tính theo âm lịch?",
+   "dap_an": [
+    "Người La Mã và nhiều tộc người ở châu Âu",
+    "Người Ai Cập, Lưỡng Hà, Trung Quốc cổ đại và một số dân tộc phương Đông",
+    "Chỉ người Hy Lạp",
+    "Không dân tộc nào"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Dụng cụ nào KHÔNG phải là dụng cụ đo thời gian của người xưa được nêu trong SGK?",
+   "dap_an": [
+    "Đồng hồ cát",
+    "Đồng hồ nước",
+    "Đồng hồ mặt trời",
+    "Đồng hồ điện tử"
+   ],
+   "dung": 3,
+   "trang": 14
+  },
+  {
+   "hoi": "Vì sao trên tờ lịch ở Việt Nam in cả ngày âm lịch và dương lịch?",
+   "dap_an": [
+    "Vì Công lịch dùng chính thức, còn âm lịch vẫn phổ biến rộng rãi trong nhân dân",
+    "Vì âm lịch dùng chính thức trong văn bản nhà nước",
+    "Vì để trang trí cho đẹp",
+    "Vì hai loại lịch luôn trùng ngày nhau"
+   ],
+   "dung": 0,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 14 (mục 1, Hình 2 – đồng hồ cát, nước, mặt trời) và tr. 15 (mục 2, đoạn cuối về Việt Nam hiện nay, câu Vận dụng 2). Phân vai với tập L6-B3-03 (Giải mã Công lịch): tập này tập trung so sánh âm lịch – dương lịch, chỉ nhắc Công lịch một câu. Kiến thức chốt của danh mục khớp SGK. Cảnh mô hình vũ trụ là minh hoạ giản lược, không đưa số ngày của chu kì vì SGK không nêu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

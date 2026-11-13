@@ -1,0 +1,360 @@
+{
+ "ma": "L6-B14-02",
+ "ten_tap": "Sự trỗi dậy của nước Âu Lạc",
+ "ten_tap_en": "The Rise of Âu Lạc",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+  "trang": [
+   61,
+   62,
+   65
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "an-duong-vuong",
+  "nguoi-lac-viet-va-au-viet",
+  "quan-tan"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng khi quân Tần kéo đến, hào hùng khi Lạc Việt – Âu Việt đoàn kết, trầm lắng ở đoạn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; cờ hiệu không ghi chữ; không cận cảnh thương vong. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 14, tr. 61–62; Bài 15, tr. 65.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên một đoạn thành đất cổ phủ cỏ xanh ở Cổ Loa (Hà Nội) ngày nay, phía xa là mái đền cổ; Hân Hân cầm cuốn sổ ghi chép",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bài trước tụi mình biết nước Văn Lang. Nhưng rồi có một nhà nước mới ra đời, mạnh hơn, với kinh đô ngay tại Cổ Loa này.",
+     "Last time we met Văn Lang. Then a new, stronger state arose, with its capital right here at Cổ Loa."
+    ],
+    [
+     "Nhật Minh",
+     "Nước Âu Lạc! Nó ra đời trong hoàn cảnh nào nhỉ? Quay ngược thời gian thôi!",
+     "Âu Lạc! How did it come about? Let's go back in time!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ III TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-tan"
+   ],
+   "hinh": "Đoàn quân Tần đông đảo mặc giáp, cầm giáo dài, cờ đen không chữ, hành quân qua những dãy núi rừng phương Nam; bụi mù, trời u ám (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ III trước Công nguyên, nhà Tần đem quân đánh xuống phía nam.",
+     "In the late 3rd century BCE, the Qin sent armies south."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lac-viet-va-au-viet",
+    "an-duong-vuong"
+   ],
+   "hinh": "Bên đống lửa giữa rừng, người Lạc Việt và người Âu Việt (đóng khố, búi tóc, cầm giáo đồng, rìu đồng) tụ họp đông đúc; giữa vòng người, Thục Phán đứng lên, dáng hiên ngang, giơ cao cây giáo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Lạc Việt và người Âu Việt đã đoàn kết với nhau cùng chống quân xâm lược.",
+     "The Lạc Việt and Âu Việt peoples united to fight the invaders."
+    ],
+    [
+     "Nhật Minh",
+     "Họ cử ra “người tuấn kiệt” là Thục Phán lãnh đạo cuộc kháng chiến.",
+     "They chose a 'man of great talent', Thục Phán, to lead the resistance."
+    ],
+    [
+     "Thục Phán",
+     "Lạc Việt, Âu Việt một lòng, quyết giữ lấy đất này!",
+     "Lạc Việt and Âu Việt as one: we will hold this land!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai được người Lạc Việt và Âu Việt cử lãnh đạo cuộc kháng chiến chống quân Tần?",
+    "lua_chon": [
+     "Thục Phán",
+     "Ngô Quyền",
+     "Hùng Vương"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai được cử lãnh đạo cuộc kháng chiến chống quân Tần?",
+     "Pause! Who was chosen to lead the resistance against the Qin?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Thục Phán, “người tuấn kiệt”!",
+     "The answer is A: Thục Phán, the 'man of great talent'!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "an-duong-vuong",
+    "nguoi-lac-viet-va-au-viet"
+   ],
+   "hinh": "Lễ lên ngôi giản dị mà trang trọng: Thục Phán đội mũ, mặc áo thủ lĩnh thời đồ đồng, đứng trên gò cao; dân chúng Lạc Việt, Âu Việt quỳ chúc mừng, trống đồng vang",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thục Phán lên làm vua, xưng là An Dương Vương, lập ra nước Âu Lạc, vào khoảng năm 208 trước Công nguyên.",
+     "Thục Phán became king, taking the title An Dương Vương, and founded Âu Lạc around 208 BCE."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "an-duong-vuong",
+    "nguoi-lac-viet-va-au-viet"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một gò đất ở vùng đồng bằng, nhìn đoàn người dời đô: xe, thuyền chở đồ đạc từ vùng đồi trung du xuôi xuống đồng bằng, nơi những vòng thành đất đang được đắp",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kinh đô của Âu Lạc được chuyển từ miền trung du Phong Châu xuống vùng đồng bằng ở Cổ Loa.",
+     "Âu Lạc's capital moved from the midland area of Phong Châu down to the plain at Cổ Loa."
+    ],
+    [
+     "Hân Hân",
+     "Cổ Loa nay thuộc xã Đông Anh, thành phố Hà Nội.",
+     "Cổ Loa is now in Đông Anh commune, Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "an-duong-vuong"
+   ],
+   "hinh": "Trong sân tập quân của Âu Lạc: binh lính kéo nỏ bằng lẫy đồng, bắn những mũi tên đồng nhiều cạnh vào bia gỗ; An Dương Vương đứng quan sát; phía sau là vòng thành đất cao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "So với Văn Lang, tổ chức Nhà nước Âu Lạc không có nhiều thay đổi, nhưng vua có quyền thế cao hơn trong việc trị nước.",
+     "Compared with Văn Lang, Âu Lạc's state was organised much the same, but the king had more power to rule."
+    ],
+    [
+     "Hân Hân",
+     "Lãnh thổ được mở rộng hơn, có quân đội mạnh, vũ khí tốt, đặc biệt là thành Cổ Loa kiên cố, vững chắc. Ở Cổ Loa còn tìm thấy lẫy nỏ và mũi tên đồng.",
+     "Its territory was larger, with a strong army, good weapons and, above all, the mighty Cổ Loa citadel. Crossbow triggers and bronze arrowheads have been found there."
+    ]
+   ],
+   "nguon_trang": [
+    61,
+    62
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kinh đô của nước Âu Lạc được đặt ở đâu?",
+    "lua_chon": [
+     "Phong Châu",
+     "Cổ Loa",
+     "Luy Lâu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Kinh đô của nước Âu Lạc được đặt ở đâu?",
+     "Quick test! Where was Âu Lạc's capital?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Cổ Loa!",
+     "The answer is B: Cổ Loa!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lac-viet-va-au-viet"
+   ],
+   "hinh": "Chiều tà trên vòng thành Cổ Loa: mây xám kéo đến, lá cờ Âu Lạc (không chữ) phấp phới trong gió mạnh; người dân lo lắng nhìn về phương xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng đến năm 179 trước Công nguyên, Triệu Đà chiếm được Âu Lạc.",
+     "But in 179 BCE, Zhao Tuo seized Âu Lạc."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, nước ta bước vào thời kì bị phong kiến phương Bắc đô hộ. Câu chuyện ấy, hẹn cậu ở tập sau!",
+     "From then on, our land fell under the rule of northern feudal dynasties. That story is for next time!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Cuối thế kỉ III TCN: nhà Tần đánh xuống phía nam",
+    "Lạc Việt, Âu Việt đoàn kết, cử Thục Phán lãnh đạo kháng chiến",
+    "Khoảng năm 208 TCN: An Dương Vương lập nước Âu Lạc, kinh đô Cổ Loa",
+    "Vua quyền thế cao hơn, quân đội mạnh, thành Cổ Loa kiên cố"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cuối thế kỉ III trước Công nguyên, nhà Tần đem quân đánh xuống phía nam.",
+     "Remember: in the late 3rd century BCE, the Qin attacked southward."
+    ],
+    [
+     "Hân Hân",
+     "Lạc Việt và Âu Việt đoàn kết, cử Thục Phán lãnh đạo kháng chiến.",
+     "The Lạc Việt and Âu Việt united behind Thục Phán."
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng năm 208 trước Công nguyên, An Dương Vương lập nước Âu Lạc, đóng đô ở Cổ Loa.",
+     "Around 208 BCE, An Dương Vương founded Âu Lạc, with its capital at Cổ Loa."
+    ],
+    [
+     "Hân Hân",
+     "Vua có quyền thế cao hơn, quân đội mạnh, có thành Cổ Loa kiên cố.",
+     "The king was more powerful, the army strong, and Cổ Loa a mighty citadel."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bên đoạn thành đất cổ ở Cổ Loa ngày nay, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Nhà nước Âu Lạc có điểm gì giống và khác so với Nhà nước Văn Lang? Lập bảng so sánh rồi chia sẻ ở phần bình luận nhé!",
+     "Your challenge: how was Âu Lạc similar to and different from Văn Lang? Make a comparison table and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nước Âu Lạc ra đời vào khoảng năm nào?",
+   "dap_an": [
+    "Khoảng thế kỉ VII TCN",
+    "Khoảng năm 208 TCN",
+    "Năm 179 TCN",
+    "Năm 40"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Thục Phán lên làm vua, xưng là",
+   "dap_an": [
+    "Hùng Vương",
+    "An Dương Vương",
+    "Lý Nam Đế",
+    "Mai Hắc Đế"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Điểm khác của Nhà nước Âu Lạc so với Văn Lang là",
+   "dap_an": [
+    "Vua có quyền thế cao hơn, lãnh thổ mở rộng, có thành Cổ Loa kiên cố",
+    "Không có vua",
+    "Kinh đô vẫn ở Phong Châu",
+    "Chưa có quân đội"
+   ],
+   "dung": 0,
+   "trang": 61
+  },
+  {
+   "hoi": "Hiện vật nào được tìm thấy ở Cổ Loa?",
+   "dap_an": [
+    "Lẫy nỏ và mũi tên đồng",
+    "Đồng tiền vàng La Mã",
+    "Bia đá chữ Phạn",
+    "Chuông đồng thời Chu"
+   ],
+   "dung": 0,
+   "trang": 62
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 61 (mục 2 – sự ra đời nước Âu Lạc, tổ chức nhà nước, kinh đô Cổ Loa thuộc xã Đông Anh, thành phố Hà Nội), tr. 62 (Hình 4 – lẫy nỏ, mũi tên đồng; câu hỏi so sánh), tr. 65 (năm 179 TCN Triệu Đà chiếm Âu Lạc). Kiến thức chốt của danh mục khớp SGK. Phân vai với tập L6-B14-03 (Bí ẩn thành Cổ Loa): tập này tập trung hoàn cảnh ra đời và điểm mới so với Văn Lang, không đi sâu cấu trúc thành. Lời Thục Phán (cảnh 4) là lời tái hiện diễn đạt ý 'Lạc Việt và Âu Việt đoàn kết chống quân xâm lược'. Không đưa truyền thuyết nỏ thần, Mị Châu – Trọng Thuỷ vì SGK bài này không nêu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

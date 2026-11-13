@@ -1,0 +1,354 @@
+{
+ "ma": "L6-B11-03",
+ "ten_tap": "Những thương cảng sầm uất cổ đại",
+ "ten_tap_en": "Bustling Ancient Ports",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 11. Các quốc gia sơ kì ở Đông Nam Á",
+  "trang": [
+   51,
+   52,
+   53
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan-quoc-te",
+  "cu-dan-dong-nam-a-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "nhộn nhịp bến cảng, trinh thám nhẹ khi giải mã hiện vật",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hiện vật thật (đồng tiền vàng La Mã, nhẫn vàng khắc chữ Phạn ở Óc Eo) dùng ảnh tư liệu, không vẽ AI; cảnh bến cảng cổ mang tính minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 11, tr. 51–53.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) cúi sát một tủ kính nhỏ trong bảo tàng, bên trong là một đồng xu vàng cổ được chiếu đèn (hình nhỏ, mờ, không vẽ chi tiết); Nhật Minh tròn mắt ngạc nhiên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một đồng tiền vàng La Mã, được phát hiện ngay trên đất Việt Nam đấy!",
+     "A Roman gold coin, found right here in Việt Nam!"
+    ],
+    [
+     "Nhật Minh",
+     "La Mã ở tận châu Âu cơ mà! Sao nó lại đến được đây? Phải điều tra mới được!",
+     "But Rome is all the way in Europe! How did it get here? We need to investigate!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: đồng tiền vàng La Mã phát hiện tại di chỉ Óc Eo (như Hình 2 SGK tr. 53)",
+    "tim": "đồng tiền vàng La Mã di chỉ Óc Eo",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng (bảo tàng hoặc giấy phép mở), ghi nguồn; không dùng ảnh AI"
+   },
+   "hinh": "Ảnh tư liệu: đồng tiền vàng La Mã tìm thấy ở Óc Eo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là đồng tiền vàng La Mã được phát hiện tại di chỉ Óc Eo.",
+     "This is the Roman gold coin found at the Óc Eo site."
+    ],
+    [
+     "Nhật Minh",
+     "Manh mối đầu tiên: đã từng có những con đường buôn bán nối Đông Nam Á với những vùng đất rất xa!",
+     "Clue number one: trade routes once linked Southeast Asia with far-off lands!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu Công nguyên",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-quoc-te"
+   ],
+   "hinh": "Biển Đông Nam Á thời cổ nhìn từ trên cao: những đoàn thuyền buồm từ phía tây và phía đông cùng đổ về một vùng bờ biển có cửa sông, nơi một thành thị cảng đang mọc lên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đông Nam Á nằm trên con đường hàng hải nối Ấn Độ Dương với Thái Bình Dương.",
+     "Southeast Asia lies on the sea route between the Indian and Pacific Oceans."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ vị trí thuận lợi, việc buôn bán bằng đường biển ở một số quốc gia ngày càng phát đạt.",
+     "Thanks to this location, sea trade in some states grew more and more prosperous."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    53
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-quoc-te",
+    "cu-dan-dong-nam-a-co-dai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một hải cảng cổ đông đúc ở vùng sông nước phương Nam: thuyền lớn nhỏ chen kín bến, thương nhân nhiều nơi với trang phục khác nhau trao đổi vải, gốm, đồ trang sức vàng; nhà sàn san sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một số thành thị cũng đồng thời là những hải cảng sầm uất.",
+     "Some cities were also bustling seaports."
+    ],
+    [
+     "Nhật Minh",
+     "Như Óc Eo ở Việt Nam, và Ta-cô-la ở bán đảo Mã Lai, nay thuộc Thái Lan.",
+     "Like Óc Eo in Việt Nam, and Takola on the Malay Peninsula, now in Thailand."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hải cảng sầm uất Óc Eo nằm ở quốc gia nào ngày nay?",
+    "lua_chon": [
+     "Việt Nam",
+     "Thái Lan",
+     "Ma-lai-xi-a"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hải cảng sầm uất Óc Eo nằm ở quốc gia nào ngày nay?",
+     "Pause! In which country today is the busy port of Óc Eo?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Việt Nam!",
+     "The answer is A: Việt Nam!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhẫn vàng khắc chữ Phạn của Ấn Độ, hiện vật thuộc văn hoá Óc Eo (như Hình 3 SGK tr. 53)",
+    "tim": "nhẫn vàng khắc chữ Phạn văn hoá Óc Eo",
+    "yeu_cau": "ảnh hiện vật có giấy phép sử dụng, ghi nguồn; không dùng ảnh AI"
+   },
+   "hinh": "Ảnh tư liệu: nhẫn vàng khắc chữ Phạn – văn hoá Óc Eo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Manh mối thứ hai: chiếc nhẫn vàng khắc chữ Phạn của Ấn Độ, một hiện vật thuộc văn hoá Óc Eo.",
+     "Clue number two: a gold ring engraved in Indian Sanskrit, an artefact of the Óc Eo culture."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-quoc-te"
+   ],
+   "hinh": "Phía đông đảo Boóc-nê-ô thời cổ: bảy chiếc cột đá dựng thành hàng, trên thân khắc những dòng chữ Phạn; gần đó, người dân đặt những chiếc bình gốm kiểu Trung Quốc vào mộ táng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở phía đông đảo Boóc-nê-ô, Ma-lai-xi-a, người ta phát hiện bảy chiếc cột đá có khắc chữ Phạn.",
+     "In eastern Borneo, Malaysia, seven stone pillars carved with Sanskrit were found."
+    ],
+    [
+     "Hân Hân",
+     "Đồ gốm thời Hán trong các mộ táng ở đây cho thấy quan hệ buôn bán với Trung Quốc từ thời nhà Hán.",
+     "Han pottery in tombs there shows trade with China going back to the Han dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-quoc-te"
+   ],
+   "hinh": "Một khu chợ cổ ở vùng đất Thái Lan thế kỉ III – IV: trên tấm chiếu bày những mảnh gốm, vài pho tượng Phật nhỏ bằng đồng và một chiếc đèn đồng kiểu La Mã có tay cầm cong",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn ở Thái Lan, tại di chỉ Pông-túc, có niên đại thế kỉ III – IV, người ta tìm thấy mảnh gốm, tượng Phật nhỏ bằng đồng và cả một chiếc đèn đồng kiểu La Mã!",
+     "And at the Pong Tuk site in Thailand, from the 3rd–4th century, archaeologists found pottery shards, small bronze Buddhas and even a Roman-style bronze lamp!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đồ gốm thời Hán trong mộ táng ở Boóc-nê-ô cho thấy quan hệ buôn bán với",
+    "lua_chon": [
+     "Trung Quốc",
+     "La Mã",
+     "Ai Cập"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài thám tử! Đồ gốm thời Hán ở Boóc-nê-ô cho thấy quan hệ buôn bán với nước nào?",
+     "Detective test! Han pottery in Borneo shows trade with which country?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Trung Quốc, từ thời nhà Hán!",
+     "The answer is A: China, since the Han dynasty!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Vị trí thuận lợi → buôn bán đường biển phát đạt",
+    "Hải cảng sầm uất: Óc Eo (Việt Nam), Ta-cô-la (nay thuộc Thái Lan)",
+    "Óc Eo: tiền vàng La Mã, nhẫn vàng khắc chữ Phạn",
+    "Boóc-nê-ô: cột đá chữ Phạn, gốm Hán · Pông-túc: đèn đồng kiểu La Mã"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nhờ vị trí thuận lợi, buôn bán đường biển ở Đông Nam Á ngày càng phát đạt.",
+     "Remember: thanks to its location, Southeast Asia's sea trade flourished."
+    ],
+    [
+     "Hân Hân",
+     "Xuất hiện những hải cảng sầm uất như Óc Eo, Ta-cô-la.",
+     "Busy ports arose, like Óc Eo and Takola."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Óc Eo có tiền vàng La Mã và nhẫn vàng khắc chữ Phạn.",
+     "Óc Eo yielded a Roman gold coin and a gold ring engraved in Sanskrit."
+    ],
+    [
+     "Hân Hân",
+     "Boóc-nê-ô có cột đá chữ Phạn, gốm Hán; Pông-túc có đèn đồng kiểu La Mã.",
+     "Borneo had Sanskrit pillars and Han pottery; Pong Tuk had a Roman-style lamp."
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    53
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trước tủ kính đồng tiền vàng trong bảo tàng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: những hiện vật này chứng tỏ điều gì về giao lưu thương mại của các quốc gia sơ kì Đông Nam Á? Viết lời giải của “thám tử” cậu ở phần bình luận nhé!",
+     "Your challenge: what do these artefacts prove about the trade of Southeast Asia's early states? Post your detective's verdict in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hai hải cảng sầm uất của các quốc gia sơ kì Đông Nam Á được SGK nêu là",
+   "dap_an": [
+    "Óc Eo và Ta-cô-la",
+    "Pi-rê và Rô-ma",
+    "Vân Đồn và Hội An",
+    "Pa-lem-bang và Đại Chiêm"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Hiện vật nào được phát hiện tại di chỉ Óc Eo?",
+   "dap_an": [
+    "Đồng tiền vàng La Mã",
+    "Trống đồng Ngọc Lũ",
+    "Cột đá A-sô-ca",
+    "Chuông đồng thời Chu"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Ở phía đông đảo Boóc-nê-ô đã phát hiện bảy chiếc cột đá khắc chữ",
+   "dap_an": [
+    "Hán",
+    "Phạn (San-xkrít)",
+    "La-tinh",
+    "Hình nêm"
+   ],
+   "dung": 1,
+   "trang": 52
+  },
+  {
+   "hoi": "Di chỉ Pông-túc (thế kỉ III – IV) thuộc quốc gia nào ngày nay?",
+   "dap_an": [
+    "Việt Nam",
+    "Thái Lan",
+    "In-đô-nê-xi-a",
+    "Mi-an-ma"
+   ],
+   "dung": 1,
+   "trang": 52
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 51 (vị trí địa lí), tr. 52 (đoạn tư liệu theo Lương Ninh về Boóc-nê-ô, Pông-túc), tr. 53 (đoạn về hải cảng Óc Eo, Ta-cô-la; Hình 2, Hình 3; câu hỏi 2). Hiệu đính kiến thức chốt của danh mục: SGK không nói đồng tiền La Mã/nhẫn chữ Phạn 'chứng minh' mà để học sinh tự rút ra; kịch bản giữ dạng câu hỏi mở ở cảnh cuối. Hiện vật thật dùng ảnh tư liệu. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "ma": "L6-B6-01",
+ "ten_tap": "Cuộc cách mạng từ đá sang kim loại",
+ "ten_tap_en": "From Stone to Metal: A Revolution",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 6. Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+  "trang": [
+   24,
+   25
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-nguyen-thuy",
+  "tho-thu-cong",
+  "gia-dinh-phu-he",
+  "cu-dan-phuong-dong"
+ ],
+ "nhac": {
+  "tam_trang": "mạnh mẽ, tiếng búa rèn nhịp nhàng; trầm xuống ở đoạn phân hoá giàu nghèo",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; sơ đồ thời gian vẽ lại theo Hình 1 SGK tr. 24. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 6, tr. 24–25.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong gian bếp hiện đại: Hân Hân cầm cuộn dây điện lõi đồng, Nhật Minh cầm con dao và chiếc chảo gang; trên tường treo nồi, kéo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dây điện lõi đồng, dao, kéo, nồi chảo… quanh tụi mình có biết bao đồ dùng làm từ đồng và sắt!",
+     "Copper wires, knives, scissors, pots and pans… we're surrounded by things made of copper and iron!"
+    ],
+    [
+     "Nhật Minh",
+     "Con người tìm ra đồng và sắt từ bao giờ, và chúng đã thay đổi cuộc sống ra sao nhỉ?",
+     "When did people discover copper and iron, and how did they change life?"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thiên niên kỉ IV TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy"
+   ],
+   "hinh": "Sáng sớm sau một đám cháy rừng, người nguyên thuỷ bới đống tro còn ấm, một người giơ lên cục kim loại đỏ sẫm vón cục lấp lánh, mọi người xúm lại ngạc nhiên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng thiên niên kỉ IV trước Công nguyên, người nguyên thuỷ đã phát hiện ra kim loại để chế tạo công cụ và vũ khí thay cho đồ đá.",
+     "Around the 4th millennium BCE, early people discovered metal to make tools and weapons instead of stone."
+    ],
+    [
+     "Hân Hân",
+     "Đồng được tìm thấy một cách ngẫu nhiên từ các đám cháy. Những thỏi đồng nóng chảy, vón cục là đồng đỏ.",
+     "Copper was found by chance in fires. Lumps that melted and set were red copper."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "QUÁ TRÌNH XUẤT HIỆN CÔNG CỤ KIM LOẠI",
+   "moc": [
+    [
+     "Khoảng 3500 TCN",
+     "Tây Á, Ai Cập dùng đồng đỏ"
+    ],
+    [
+     "Khoảng 2000 TCN",
+     "Nhiều nơi dùng đồng thau"
+    ],
+    [
+     "Cuối thiên niên kỉ II – đầu thiên niên kỉ I TCN",
+     "Chế tạo công cụ bằng sắt"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng 3500 năm trước Công nguyên, người Tây Á và Ai Cập dùng đồng đỏ.",
+     "Around 3500 BCE, West Asia and Egypt used red copper."
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng 2000 năm trước Công nguyên, nhiều nơi dùng đồng thau.",
+     "Around 2000 BCE, many places used bronze."
+    ],
+    [
+     "Hân Hân",
+     "Cuối thiên niên kỉ II đến đầu thiên niên kỉ I trước Công nguyên, con người chế tạo công cụ bằng sắt.",
+     "From the late 2nd to the early 1st millennium BCE, people made iron tools."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Lò rèn cổ: người thợ dùng búa đập thanh sắt nung đỏ trên đe đá, tia lửa bắn tung; bên cạnh là lưỡi cuốc, lưỡi rìu sắt vừa rèn xong",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sắt được phát hiện muộn hơn. Nhưng vì cứng hơn đồng nên sắt được sử dụng rộng rãi.",
+     "Iron was discovered later. But because it's harder than copper, it came into wide use."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kim loại nào được phát hiện muộn hơn nhưng cứng hơn đồng nên được dùng rộng rãi?",
+    "lua_chon": [
+     "Vàng",
+     "Sắt",
+     "Bạc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Kim loại nào phát hiện muộn hơn nhưng cứng hơn đồng nên được dùng rộng rãi?",
+     "Pause! Which metal came later but, being harder than copper, was widely used?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: sắt!",
+     "The answer is B: iron!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy"
+   ],
+   "hinh": "Người xưa dùng rìu kim loại chặt cây, dùng cuốc khai hoang mở ruộng mới bên bìa rừng; xa xa có người dắt bò kéo cày, đàn gia súc gặm cỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhờ công cụ kim loại như lưỡi cày, cuốc, rìu, con người khai hoang, mở rộng diện tích trồng trọt.",
+     "With metal tools like ploughshares, hoes and axes, people cleared land and expanded their fields."
+    ],
+    [
+     "Nhật Minh",
+     "Nông nghiệp dùng cày và chăn nuôi cũng có bước phát triển.",
+     "Plough farming and livestock raising also moved forward."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Một khu làng thời cổ với các xưởng riêng biệt: thợ đúc đồng bên lò nung, thợ dệt bên khung cửi, thợ gốm bên bàn xoay, thợ mộc đẽo gỗ; kho chứa đầy thóc lúa và sản phẩm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Luyện kim, đúc đồng, dệt vải, làm gốm, đồ mộc… dần trở thành những ngành sản xuất riêng.",
+     "Metalworking, bronze-casting, weaving, pottery, carpentry… gradually became separate trades."
+    ],
+    [
+     "Hân Hân",
+     "Sản phẩm ngày càng nhiều. Con người không chỉ đủ ăn mà còn có của cải dư thừa.",
+     "Output kept growing. People had not just enough to eat, but a surplus."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "gia-dinh-phu-he"
+   ],
+   "hinh": "Một gia đình thời cổ quây quần trước nhà (vẽ theo Hình 2 SGK): người cha đứng giữa giao việc, vợ và các con xung quanh; bên cạnh một nhà khác có kho thóc đầy, nhà bên kia nghèo nàn trống trải",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong thị tộc, đàn ông có vai trò ngày càng lớn và trở thành chủ gia đình, con cái lấy theo họ cha. Đó là các gia đình phụ hệ.",
+     "Within the clan, men played an ever bigger role and became heads of households; children took their father's name. These were patrilineal families."
+    ],
+    [
+     "Nhật Minh",
+     "Của cải dư thừa ngày càng nhiều, xã hội dần phân hoá kẻ giàu, người nghèo. Xã hội nguyên thuỷ dần tan rã.",
+     "As surplus grew, society split into rich and poor. Primitive society gradually broke down."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Gia đình mà đàn ông làm chủ, con cái lấy theo họ cha gọi là",
+    "lua_chon": [
+     "Gia đình phụ hệ",
+     "Bầy người nguyên thuỷ",
+     "Nhà nước thành bang"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Gia đình mà đàn ông làm chủ, con cái lấy theo họ cha gọi là gì?",
+     "Quick test! What do we call a family headed by the man, with children taking the father's name?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: gia đình phụ hệ!",
+     "The answer is A: a patrilineal family!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phuong-dong"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê đất bên một dòng sông lớn phương Đông thời cổ, nhìn cả cộng đồng cùng nhau đắp đê, đào kênh dẫn nước, ai cũng góp sức",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng quá trình này không diễn ra đồng đều. Ở phương Đông như Ai Cập, Lưỡng Hà, Trung Quốc, cư dân sống ven các con sông lớn.",
+     "But this didn't happen evenly. In the East, in Egypt, Mesopotamia and China, people lived along great rivers."
+    ],
+    [
+     "Hân Hân",
+     "Họ phải liên kết với nhau để làm thuỷ lợi và chống ngoại xâm. Vì thế, xã hội ở đây phân hoá sớm hơn nhưng không triệt để.",
+     "They had to join together for irrigation and defence. So society there divided earlier, but not completely."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Thiên niên kỉ IV TCN: phát hiện kim loại (đồng đỏ → đồng thau → sắt)",
+    "Công cụ kim loại: mở rộng trồng trọt, nghề thủ công chuyên môn hoá, của cải dư thừa",
+    "Gia đình phụ hệ, phân hoá giàu nghèo → xã hội nguyên thuỷ tan rã"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: khoảng thiên niên kỉ IV trước Công nguyên, con người phát hiện ra kim loại: đồng đỏ, đồng thau, rồi sắt.",
+     "Remember: around the 4th millennium BCE, people discovered metal: copper, then bronze, then iron."
+    ],
+    [
+     "Hân Hân",
+     "Công cụ kim loại giúp mở rộng trồng trọt, chuyên môn hoá nghề thủ công, tạo ra của cải dư thừa.",
+     "Metal tools expanded farming, specialised crafts and created surplus."
+    ],
+    [
+     "Nhật Minh",
+     "Gia đình phụ hệ xuất hiện, xã hội phân hoá giàu nghèo và dần tan rã.",
+     "Patrilineal families appeared, society split into rich and poor and broke down."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại gian bếp, Nhật Minh giơ con dao sắt lên ngắm rồi nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: sự xuất hiện của kim loại đã tác động như thế nào tới đời sống con người? Tóm tắt trong ba ý ở phần bình luận nhé!",
+     "Your challenge: how did the arrival of metal change people's lives? Sum it up in three points in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Con người phát hiện ra kim loại vào khoảng thời gian nào?",
+   "dap_an": [
+    "Thiên niên kỉ IV TCN",
+    "Thế kỉ I",
+    "Thiên niên kỉ I",
+    "Thế kỉ X"
+   ],
+   "dung": 0,
+   "trang": 24
+  },
+  {
+   "hoi": "Khoảng 3500 năm TCN, người Tây Á và Ai Cập đã biết dùng",
+   "dap_an": [
+    "Đồng đỏ",
+    "Đồng thau",
+    "Sắt",
+    "Thép"
+   ],
+   "dung": 0,
+   "trang": 24
+  },
+  {
+   "hoi": "Vì sao xã hội nguyên thuỷ dần tan rã?",
+   "dap_an": [
+    "Vì của cải dư thừa ngày càng nhiều, xã hội phân hoá giàu nghèo",
+    "Vì con người quay lại dùng đồ đá",
+    "Vì không còn ai làm nông nghiệp",
+    "Vì thiên tai"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Vì sao xã hội nguyên thuỷ ở phương Đông phân hoá không triệt để?",
+   "dap_an": [
+    "Cư dân phải liên kết trong công xã thị tộc để làm thuỷ lợi, chống ngoại xâm nên nhiều tập tục cũ được bảo lưu",
+    "Vì phương Đông không có kim loại",
+    "Vì cư dân không biết làm nông nghiệp",
+    "Vì không có sông lớn"
+   ],
+   "dung": 0,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 24 (mục 1a, ô Em có biết về đồng và sắt) và ảnh trang (Hình 1 – sơ đồ: khoảng 3500 TCN đồng đỏ ở Tây Á, Ai Cập; khoảng 2000 TCN đồng thau; cuối thiên niên kỉ II – đầu thiên niên kỉ I TCN công cụ sắt), tr. 25 (mục 1a tiếp, 1b, đoạn về phương Đông), tr. 27 (câu Luyện tập 1 dùng cho thử thách cuối). Kiến thức chốt của danh mục (nếu có) không mâu thuẫn SGK. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

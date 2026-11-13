@@ -1,0 +1,513 @@
+{
+ "ma": "L9-B19-05",
+ "ten_tap": "ASEAN: Từ 6 thành viên đến ngôi nhà chung",
+ "ten_tap_en": "ASEAN: From Six Members to a Shared Home",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   99,
+   100
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cac-nha-lanh-dao-asean"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, gắn kết, sáng dần; nhịp vừa phải",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 99–100.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, bên tấm bản đồ Đông Nam Á; Hân Hân cầm lá cờ ASEAN nhỏ (bó lúa vàng trong vòng tròn trên nền xanh); nắng chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1999, lần đầu tiên trong lịch sử khu vực, tất cả các nước Đông Nam Á cùng đứng trong một tổ chức.",
+     "In 1999, for the first time in the region's history, every Southeast Asian country stood in one organisation."
+    ],
+    [
+     "Nhật Minh",
+     "Từ “ASEAN 6” thành “ASEAN 10”, rồi cùng xây ngôi nhà chung: Cộng đồng ASEAN. Cùng xem hành trình ấy nhé!",
+     "From 'ASEAN 6' to 'ASEAN 10', and then a shared home: the ASEAN Community. Let's follow that journey!"
+    ]
+   ],
+   "nguon_trang": [
+    99,
+    100
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "asean6",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau năm 1991, Chiến tranh lạnh chấm dứt, vấn đề Cam-pu-chia được giải quyết, tình hình chính trị khu vực được cải thiện rõ rệt.",
+     "After 1991, the Cold War was over, the Cambodian issue was settled and the regional political situation clearly improved."
+    ],
+    [
+     "Hân Hân",
+     "Điều đó tạo điều kiện để mở rộng ASEAN, khi ấy gồm sáu thành viên.",
+     "That opened the way to enlarge ASEAN, which then had six members."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "viet_nam",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1995, Việt Nam chính thức trở thành thành viên thứ 7 của ASEAN.",
+     "In July 1995, Vietnam officially became ASEAN's seventh member."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Việt Nam chính thức trở thành thành viên của ASEAN vào thời gian nào?",
+    "lua_chon": [
+     "Tháng 7 – 1995",
+     "Tháng 7 – 1997",
+     "Tháng 4 – 1999"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Việt Nam chính thức gia nhập ASEAN vào thời gian nào?",
+     "Pause! When did Vietnam officially join ASEAN?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tháng 7 năm 1995, là thành viên thứ 7!",
+     "The answer is A: July 1995, as the seventh member!"
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "lao_mianma",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1997, Lào và Mi-an-ma cũng gia nhập ASEAN.",
+     "In July 1997, Laos and Myanmar also joined ASEAN."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "cam_pu_chia",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 4 năm 1999, Cam-pu-chia được kết nạp và trở thành thành viên thứ 10 của ASEAN.",
+     "In April 1999, Cambodia was admitted as ASEAN's tenth member."
+    ],
+    [
+     "Nhật Minh",
+     "Lần đầu tiên trong lịch sử khu vực, tất cả các nước Đông Nam Á đều cùng đứng trong một tổ chức thống nhất.",
+     "For the first time in the region's history, all Southeast Asian countries stood together in one united organisation."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội, Việt Nam, năm 1999 (như Hình 19.8 SGK, tr. 99)",
+    "tim": "Cambodia admission ASEAN ceremony Hanoi 1999 photo",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội (1999)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Lễ kết nạp Cam-pu-chia gia nhập ASEAN, tổ chức ở Hà Nội năm 1999.",
+     "This is the ceremony admitting Cambodia to ASEAN, held in Hà Nội in 1999."
+    ],
+    [
+     "Nhật Minh",
+     "Từ đây, ASEAN chuyển trọng tâm sang hợp tác kinh tế, xây dựng Đông Nam Á thành khu vực hoà bình, ổn định và phát triển phồn vinh.",
+     "From then on, ASEAN shifted its focus to economic cooperation, building Southeast Asia into a region of peace, stability and prosperity."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NHỮNG BƯỚC TIẾN HỢP TÁC",
+   "moc": [
+    [
+     "1992",
+     "Hiệp định khung hợp tác kinh tế; AFTA"
+    ],
+    [
+     "2007",
+     "Hiến chương ASEAN"
+    ],
+    [
+     "2009",
+     "Lộ trình xây dựng Cộng đồng ASEAN"
+    ],
+    [
+     "2015",
+     "Cộng đồng ASEAN thành lập"
+    ],
+    [
+     "2020",
+     "Kí Hiệp định RCEP"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2,
+    3
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1992, ASEAN kí Hiệp định khung về tăng cường hợp tác kinh tế và thoả thuận về Khu vực mậu dịch tự do ASEAN, AFTA.",
+     "In 1992, ASEAN signed the Framework Agreement on Enhancing Economic Cooperation and agreed on the ASEAN Free Trade Area, AFTA."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2007, Hiến chương ASEAN ra đời, tạo cơ sở pháp lí để tăng cường liên kết và hợp tác.",
+     "In 2007, the ASEAN Charter was born, giving a legal basis for closer integration and cooperation."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2009, Lộ trình xây dựng Cộng đồng ASEAN được thông qua; năm 2015, Cộng đồng ASEAN chính thức được thành lập.",
+     "In 2009, the Roadmap for the ASEAN Community was adopted; in 2015, the ASEAN Community was officially established."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2020, ASEAN và năm đối tác kí Hiệp định Đối tác kinh tế toàn diện khu vực, RCEP, góp phần tạo ra khu vực thương mại tự do lớn nhất thế giới.",
+     "In 2020, ASEAN and five partners signed the Regional Comprehensive Economic Partnership, RCEP, helping create the world's largest free-trade area."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hiến chương ASEAN ra đời năm nào?",
+    "lua_chon": [
+     "1992",
+     "2007",
+     "2015"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hiến chương ASEAN ra đời năm nào?",
+     "Quick test! In what year was the ASEAN Charter born?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 2007!",
+     "The answer is B: 2007!"
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "2015",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "CỘNG ĐỒNG ASEAN (31 – 12 – 2015)",
+   "y": [
+    "Ý tưởng từ năm 1997: Tầm nhìn ASEAN 2020",
+    "Gắn kết về chính trị, liên kết về kinh tế",
+    "Chia sẻ trách nhiệm xã hội, hợp tác rộng mở với bên ngoài",
+    "Hoạt động theo luật lệ, hướng tới người dân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ý tưởng về Cộng đồng ASEAN xuất hiện từ rất sớm, năm 1997, khi các nhà lãnh đạo thông qua Tầm nhìn ASEAN 2020.",
+     "The idea of an ASEAN Community came early, in 1997, when leaders adopted ASEAN Vision 2020."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 31 tháng 12 năm 2015, Cộng đồng ASEAN được thành lập, hướng tới một cộng đồng gắn kết về chính trị, liên kết về kinh tế, chia sẻ trách nhiệm xã hội, hợp tác rộng mở, hoạt động theo luật lệ và hướng tới người dân.",
+     "On 31 December 2015, the ASEAN Community was founded, aiming to be politically cohesive, economically integrated, socially responsible, open to the world, rules-based and people-centred."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "BA TRỤ CỘT (Hình 19.9)",
+   "y": [
+    "Chính trị – An ninh (APSC): hoà bình, an ninh khu vực",
+    "Kinh tế (AEC): thị trường duy nhất, cạnh tranh cao",
+    "Văn hoá – Xã hội (ASCC): chất lượng cuộc sống, bản sắc chung"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cộng đồng ASEAN có ba trụ cột. Cộng đồng Chính trị – An ninh tạo dựng môi trường hoà bình và an ninh ở khu vực.",
+     "The ASEAN Community has three pillars. The Political-Security Community builds a peaceful, secure regional environment."
+    ],
+    [
+     "Hân Hân",
+     "Cộng đồng Kinh tế tạo ra một thị trường duy nhất, có sức cạnh tranh cao, hội nhập đầy đủ vào nền kinh tế toàn cầu.",
+     "The Economic Community creates a single, highly competitive market fully integrated into the global economy."
+    ],
+    [
+     "Nhật Minh",
+     "Cộng đồng Văn hoá – Xã hội nâng cao chất lượng cuộc sống, thúc đẩy bình đẳng, phát triển bền vững và bản sắc chung.",
+     "The Socio-Cultural Community raises quality of life and promotes equality, sustainable development and a shared identity."
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trụ cột nào của Cộng đồng ASEAN hướng tới một thị trường duy nhất?",
+    "lua_chon": [
+     "Cộng đồng Chính trị – An ninh",
+     "Cộng đồng Kinh tế",
+     "Cộng đồng Văn hoá – Xã hội"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nữa! Trụ cột nào hướng tới một thị trường duy nhất?",
+     "One more! Which pillar aims at a single market?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Cộng đồng Kinh tế, AEC!",
+     "The answer is B: the Economic Community, AEC!"
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Kết quả hợp tác ASEAN gần 50 năm",
+    "Mức độ liên kết ngày càng cao, chặt chẽ hơn",
+    "Vẫn là “thống nhất trong đa dạng”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự ra đời của Cộng đồng ASEAN là kết quả hợp tác trong gần 50 năm, phản ánh mức độ liên kết ngày càng cao và chặt chẽ hơn.",
+     "The ASEAN Community is the fruit of nearly 50 years of cooperation, reflecting ever closer integration."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy vậy, Cộng đồng vẫn là sự “thống nhất trong đa dạng”, vì giữa các nước thành viên còn khác biệt khá lớn.",
+     "Still, it remains 'unity in diversity', as members differ quite a lot."
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "7 – 1995: Việt Nam – thành viên thứ 7",
+    "4 – 1999: Cam-pu-chia gia nhập, “ASEAN 10”",
+    "31 – 12 – 2015: Cộng đồng ASEAN thành lập",
+    "Ba trụ cột: Chính trị – An ninh, Kinh tế, Văn hoá – Xã hội"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tháng 7 năm 1995, Việt Nam là thành viên thứ 7.",
+     "Remember: July 1995, Vietnam became the seventh member."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 4 năm 1999, Cam-pu-chia gia nhập, ASEAN có 10 thành viên.",
+     "April 1999: Cambodia joins and ASEAN has ten members."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 31 tháng 12 năm 2015, Cộng đồng ASEAN được thành lập.",
+     "31 December 2015: the ASEAN Community is founded."
+    ],
+    [
+     "Hân Hân",
+     "Với ba trụ cột: Chính trị – An ninh, Kinh tế, Văn hoá – Xã hội.",
+     "With three pillars: political-security, economic and socio-cultural."
+    ]
+   ],
+   "nguon_trang": [
+    99,
+    100
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện, Hân Hân giơ lá cờ ASEAN nhỏ, Nhật Minh giơ tay mời người xem bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nêu một việc học sinh như tụi mình có thể làm để góp phần xây dựng Cộng đồng ASEAN vững mạnh. Bình luận nhé!",
+     "Your challenge: name one thing students like us can do to help build a strong ASEAN Community. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tháng 7 – 1997, những nước nào gia nhập ASEAN?",
+   "dap_an": [
+    "Việt Nam",
+    "Lào và Mi-an-ma",
+    "Cam-pu-chia",
+    "Bru-nây"
+   ],
+   "dung": 1,
+   "trang": 99
+  },
+  {
+   "hoi": "Thành viên thứ 10 của ASEAN (4 – 1999) là",
+   "dap_an": [
+    "Lào",
+    "Mi-an-ma",
+    "Cam-pu-chia",
+    "Việt Nam"
+   ],
+   "dung": 2,
+   "trang": 99
+  },
+  {
+   "hoi": "Cộng đồng ASEAN được thành lập vào ngày nào?",
+   "dap_an": [
+    "8 – 8 – 1967",
+    "31 – 12 – 2015",
+    "1 – 2022",
+    "7 – 1995"
+   ],
+   "dung": 1,
+   "trang": 99
+  },
+  {
+   "hoi": "Vì sao Cộng đồng ASEAN được gọi là “thống nhất trong đa dạng”?",
+   "dap_an": [
+    "Vì chỉ có một thành viên",
+    "Vì giữa các nước thành viên còn khác biệt khá lớn",
+    "Vì đã hoàn toàn giống nhau",
+    "Vì không có mục tiêu chung"
+   ],
+   "dung": 1,
+   "trang": 100
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 99–100 (mục 2a, 2b; Hình 19.8, 19.9, 19.10). Kiến thức chốt của danh mục đúng SGK; bổ sung các mốc 1992 (AFTA), 2007 (Hiến chương), 2009 (Lộ trình), 2020 (RCEP) theo tr. 99. Sa bàn 'asean' vẽ lại, giản lược theo Hình 12.10 (tên nước theo SGK), mốc gia nhập theo tr. 99; có Hoàng Sa, Trường Sa. Không dùng chân dung lãnh đạo.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

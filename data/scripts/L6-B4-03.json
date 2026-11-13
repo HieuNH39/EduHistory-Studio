@@ -1,0 +1,331 @@
+{
+ "ma": "L6-B4-03",
+ "ten_tap": "Người nguyên thuỷ trên đất nước Việt Nam",
+ "ten_tap_en": "The First Humans in Việt Nam",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 4. Nguồn gốc loài người",
+  "trang": [
+   19,
+   21,
+   23
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-nguyen-thuy-tai-an-khe",
+  "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+ ],
+ "nhac": {
+  "tam_trang": "hoang sơ, khám phá, nhịp trống gỗ nhẹ",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện người nguyên thuỷ mang tính minh hoạ; hiện vật vẽ theo Hình 3, 4, 5 SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 4, tr. 19; Bài 5, tr. 21, 23.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một gò đồi đất đỏ ở An Khê, tỉnh Gia Lai ngày nay, phía sau là thung lũng và núi xanh; Hân Hân cầm một hòn đá cuội lên ngắm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở An Khê, tỉnh Gia Lai. Nơi đây có dấu tích cổ xưa nhất của người nguyên thuỷ trên đất nước Việt Nam.",
+     "We're in An Khê, Gia Lai province. It holds the oldest traces of early humans in Việt Nam."
+    ],
+    [
+     "Nhật Minh",
+     "Cổ xưa đến mức nào cơ? Quay ngược thời gian thôi!",
+     "How old exactly? Let's go back in time!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "80 vạn năm trước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy-tai-an-khe"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi cây trên sườn đồi An Khê thời tiền sử, quan sát một nhóm người nguyên thuỷ ngồi bên bãi cuội ven suối, dùng hòn đá ghè vào hòn đá khác để làm rìu tay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tại di chỉ An Khê, người ta đã phát hiện được trên 3 000 hiện vật đá, gồm rìu tay, công cụ ghè đẽo thô sơ…",
+     "At the An Khê site, over 3,000 stone artefacts have been found, including hand axes and roughly chipped tools…"
+    ],
+    [
+     "Hân Hân",
+     "Chúng có niên đại cách ngày nay khoảng 80 vạn năm!",
+     "They date back about 800,000 years!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy-tai-an-khe"
+   ],
+   "hinh": "Cận cảnh đôi tay người nguyên thuỷ đang ghè một hòn đá thành chiếc rìu tay hình giọt nước (vẽ theo Hình 5 SGK), mảnh đá vụn bắn ra; ánh nắng chiếu nghiêng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là dấu tích cổ xưa nhất, chứng tỏ người nguyên thuỷ đã xuất hiện sớm trên đất nước Việt Nam.",
+     "This is the oldest trace, proof that early humans appeared early in Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Các hiện vật đá ở di chỉ An Khê có niên đại cách ngày nay khoảng",
+    "lua_chon": [
+     "80 vạn năm",
+     "4 vạn năm",
+     "4 000 năm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hiện vật đá ở di chỉ An Khê có niên đại cách ngày nay khoảng bao lâu?",
+     "Pause! How old are the stone artefacts from An Khê?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: khoảng 80 vạn năm!",
+     "The answer is A: about 800,000 years!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+   ],
+   "hinh": "Vùng núi đá vôi Lạng Sơn thời tiền sử: cửa hang Thẩm Khuyên rộng giữa vách đá, một nhóm Người tối cổ ngồi trong lòng hang; sương mù quanh núi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Lạng Sơn, người ta đã phát hiện răng của Người tối cổ trong hang Thẩm Khuyên, Thẩm Hai.",
+     "In Lạng Sơn, teeth of Homo erectus were found in the Thẩm Khuyên and Thẩm Hai caves."
+    ],
+    [
+     "Hân Hân",
+     "Những chiếc răng hoá thạch nhỏ bé ấy là bằng chứng quý giá về Người tối cổ trên đất Việt.",
+     "Those tiny fossil teeth are precious evidence of Homo erectus in Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+   ],
+   "hinh": "Chân một ngọn núi đá ở Thanh Hoá thời tiền sử (Núi Đọ): người nguyên thuỷ nhặt đá, ghè thành những công cụ thô (vẽ theo Hình 3 SGK) chất thành đống bên tảng đá lớn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công cụ đá ghè đẽo thô sơ của Người tối cổ còn có ở Núi Đọ, tỉnh Thanh Hoá, và Xuân Lộc, An Lộc, tỉnh Đồng Nai…",
+     "Their rough stone tools have also turned up at Núi Đọ in Thanh Hoá, and Xuân Lộc and An Lộc in Đồng Nai…"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép sau thân cây lớn trong rừng thưa, nhìn những người nguyên thuỷ dùng rìu đá thô đào củ, chặt cành, nạo vỏ cây",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những chiếc rìu đá ghè đẽo thô sơ ấy được dùng để đào củ, chặt cành hay nạo vỏ cây.",
+     "Those rough stone axes were used to dig up roots, chop branches or scrape bark."
+    ],
+    [
+     "Hân Hân",
+     "Thô sơ thật, nhưng đó là những công cụ lao động do chính con người chế tạo ra!",
+     "Crude, yes, but they were tools made by human hands!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Răng hoá thạch của Người tối cổ được tìm thấy ở hang Thẩm Khuyên, Thẩm Hai thuộc tỉnh nào?",
+    "lua_chon": [
+     "Lạng Sơn",
+     "Gia Lai",
+     "Đồng Nai"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hang Thẩm Khuyên, Thẩm Hai, nơi tìm thấy răng Người tối cổ, thuộc tỉnh nào?",
+     "Quick test! Which province are the Thẩm Khuyên and Thẩm Hai caves in?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Lạng Sơn!",
+     "The answer is A: Lạng Sơn!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "An Khê (Gia Lai): trên 3 000 hiện vật đá, khoảng 80 vạn năm – dấu tích cổ xưa nhất",
+    "Thẩm Khuyên, Thẩm Hai (Lạng Sơn): răng Người tối cổ",
+    "Núi Đọ (Thanh Hoá), Xuân Lộc, An Lộc (Đồng Nai): công cụ đá ghè đẽo thô sơ",
+    "Người nguyên thuỷ xuất hiện sớm trên đất nước Việt Nam"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: An Khê, Gia Lai, có trên 3 000 hiện vật đá, khoảng 80 vạn năm, là dấu tích cổ xưa nhất.",
+     "Remember: An Khê in Gia Lai has over 3,000 stone artefacts, about 800,000 years old, the oldest traces."
+    ],
+    [
+     "Hân Hân",
+     "Răng Người tối cổ được tìm thấy ở Thẩm Khuyên, Thẩm Hai, Lạng Sơn.",
+     "Homo erectus teeth were found at Thẩm Khuyên and Thẩm Hai, Lạng Sơn."
+    ],
+    [
+     "Nhật Minh",
+     "Công cụ đá ghè đẽo thô sơ có ở Núi Đọ, Xuân Lộc, An Lộc…",
+     "Rough stone tools come from Núi Đọ, Xuân Lộc, An Lộc…"
+    ],
+    [
+     "Hân Hân",
+     "Tất cả chứng tỏ người nguyên thuỷ đã xuất hiện sớm trên đất nước Việt Nam.",
+     "All this shows early humans appeared early in Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại gò đồi An Khê ngày nay lúc hoàng hôn, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ Lạng Sơn, Thanh Hoá đến Gia Lai, Đồng Nai, đều có dấu tích của Người tối cổ.",
+     "From Lạng Sơn and Thanh Hoá to Gia Lai and Đồng Nai, there are traces of Homo erectus."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tỉnh, thành phố nơi cậu sống có di chỉ thời đồ đá nào không? Tìm hiểu rồi bình luận cho tụi mình biết nhé!",
+     "Your challenge: is there a Stone Age site where you live? Look it up and tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    23
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Dấu tích cổ xưa nhất chứng tỏ sự xuất hiện sớm của người nguyên thuỷ trên đất nước Việt Nam được tìm thấy ở",
+   "dap_an": [
+    "Di chỉ An Khê (Gia Lai)",
+    "Hang Ni-a",
+    "Cổ Loa",
+    "Óc Eo"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Tại di chỉ An Khê, người ta đã phát hiện được",
+   "dap_an": [
+    "Trên 3 000 hiện vật đá",
+    "Một chiếc trống đồng",
+    "Một chiếc sọ Người tinh khôn",
+    "Nhiều đồ sắt"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Địa điểm nào KHÔNG được SGK nêu là nơi có công cụ đá ghè đẽo thô sơ của Người tối cổ?",
+   "dap_an": [
+    "Núi Đọ (Thanh Hoá)",
+    "Xuân Lộc (Đồng Nai)",
+    "An Lộc (Đồng Nai)",
+    "Cổ Loa (Hà Nội)"
+   ],
+   "dung": 3,
+   "trang": 19
+  },
+  {
+   "hoi": "Rìu đá ghè đẽo thô sơ của người nguyên thuỷ được dùng để",
+   "dap_an": [
+    "Đào củ, chặt cành, nạo vỏ cây",
+    "Cày ruộng",
+    "Dệt vải",
+    "Đúc đồng"
+   ],
+   "dung": 0,
+   "trang": 21
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 19 (đoạn đầu, ô Em có biết về An Khê, Hình 3, 4, 5), tr. 21 (công dụng rìu đá ghè đẽo), tr. 23 (câu Vận dụng về di chỉ ở địa phương). Kiến thức chốt của danh mục khớp SGK; lưu ý SGK nói 'răng của Người tối cổ' ở Thẩm Khuyên, Thẩm Hai và niên đại An Khê là 'khoảng 80 vạn năm'. Không nêu niên đại Thẩm Khuyên, Thẩm Hai trong lời đọc vì SGK chỉ thể hiện trên trục thời gian tr. 16 (không có câu chữ). Câu 'những chiếc răng hoá thạch là bằng chứng quý giá' là nhận xét của người dẫn chuyện. Không dựng sa bàn; không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

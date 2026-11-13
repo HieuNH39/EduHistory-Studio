@@ -1,0 +1,182 @@
+{
+ "ma": "L6-B3-01",
+ "ten_tap": "Tại sao lịch sử cần thời gian?",
+ "ten_tap_en": "Why Does History Need Time?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 3. Thời gian trong lịch sử",
+  "trang": [
+   14,
+   15
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-xua"
+ ],
+ "nhac": {
+  "tam_trang": "tích tắc đồng hồ, vui nhộn, nhịp nhanh",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; dụng cụ đo thời gian vẽ theo Hình 2 SGK tr. 14; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 3, tr. 14–15.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Hân Hân (đồng phục FPT) xoè ra năm tấm ảnh lộn xộn của Nhật Minh ở các lứa tuổi (em bé, mẫu giáo, tiểu học...), Nhật Minh gãi đầu rồi bắt đầu xếp lại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đố cậu xếp đúng thứ tự những tấm ảnh này đấy!",
+     "I bet you can't put these photos in the right order!"
+    ],
+    [
+     "Nhật Minh",
+     "Dễ ợt! Từ lúc tớ còn bé xíu đến bây giờ.",
+     "Easy! From baby me to now."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm tấm ảnh đã được xếp thành một hàng dọc trên bàn, có mũi tên vẽ tay nối từ trên xuống; Hân Hân chỉ vào mũi tên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lịch sử cũng vậy! Lịch sử là những gì đã xảy ra trong quá khứ theo trình tự thời gian.",
+     "History is the same! It's what happened in the past, in order of time."
+    ],
+    [
+     "Nhật Minh",
+     "Muốn hiểu và dựng lại lịch sử, phải sắp xếp các sự kiện theo đúng trình tự của nó.",
+     "To understand and rebuild history, we must put events in their right order."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-xua"
+   ],
+   "hinh": "Khung dọc 9:16: ba dụng cụ đo thời gian của người xưa xếp từ trên xuống (vẽ theo Hình 2 SGK): đồng hồ cát đang chảy, đồng hồ nước nhỏ giọt, đồng hồ mặt trời với bóng kim dịch chuyển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để xác định thời gian, phải biết cách tính. Từ xa xưa, các dân tộc đã sáng tạo ra đồng hồ cát, đồng hồ nước, đồng hồ mặt trời…",
+     "To pin down time, you need a way to measure it. Long ago, peoples invented hourglasses, water clocks and sundials…"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Muốn hiểu và dựng lại lịch sử, cần sắp xếp các sự kiện như thế nào?",
+    "lua_chon": [
+     "Theo đúng trình tự thời gian",
+     "Theo bảng chữ cái",
+     "Ngẫu nhiên"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Muốn dựng lại lịch sử, cần sắp xếp sự kiện thế nào?",
+     "Pause! How must events be arranged to rebuild history?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: theo đúng trình tự thời gian!",
+     "The answer is A: in the right order of time!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân cầm hàng ảnh đã xếp, nhìn thẳng về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: xếp những sự kiện quan trọng của cậu trong 5 năm gần đây thành một trục thời gian, rồi khoe ở phần bình luận nhé!",
+     "Your challenge: put the big events of your last 5 years on a timeline, and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Lịch sử là những gì đã xảy ra trong quá khứ theo",
+   "dap_an": [
+    "Trình tự thời gian",
+    "Sở thích của mỗi người",
+    "Bảng chữ cái",
+    "Độ lớn của sự kiện"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Dụng cụ nào là dụng cụ đo thời gian của người xưa được nêu trong SGK?",
+   "dap_an": [
+    "Đồng hồ cát",
+    "Điện thoại thông minh",
+    "Đồng hồ điện tử",
+    "Máy tính"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Vì sao phải xác định thời gian trong lịch sử?",
+   "dap_an": [
+    "Để sắp xếp các sự kiện theo đúng trình tự, hiểu và dựng lại lịch sử",
+    "Để trang trí sách",
+    "Để học thuộc lòng các con số",
+    "Vì không có lí do gì"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Từ xa xưa, các dân tộc trên thế giới đã",
+   "dap_an": [
+    "Sáng tạo ra nhiều cách đo thời gian khác nhau",
+    "Chưa biết đo thời gian",
+    "Chỉ dùng một loại đồng hồ duy nhất",
+    "Dùng đồng hồ điện tử"
+   ],
+   "dung": 0,
+   "trang": 14
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 14 (mục 1, Hình 2 – đồng hồ cát, nước, mặt trời) và tr. 15 (câu Vận dụng về sự kiện của cá nhân trong 5 năm gần đây). Kiến thức chốt của danh mục khớp SGK. Cảnh xếp ảnh ở mở đầu là ví dụ đời thường của người dẫn chuyện, không phải dữ kiện lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

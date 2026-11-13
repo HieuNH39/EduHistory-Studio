@@ -1,0 +1,368 @@
+{
+ "ma": "L6-B10-01",
+ "ten_tap": "Hy Lạp và La Mã: Món quà từ biển cả",
+ "ten_tap_en": "Greece and Rome: Gifts of the Sea",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 10. Hy Lạp và La Mã cổ đại",
+  "trang": [
+   44,
+   45,
+   46
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-hy-lap-co-dai",
+  "cu-dan-la-ma-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "sóng biển, gió khơi, tươi sáng và phóng khoáng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; cảng Pi-rê cổ đại vẽ theo mô tả của đoạn tư liệu SGK tr. 45. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 10, tr. 44–46.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên kè đá của một cảng biển Việt Nam ngày nay, phía sau là tàu thuyền ra vào tấp nập, cần cẩu, mòng biển bay, gió thổi tóc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn tàu thuyền ra vào tấp nập chưa kìa!",
+     "Look at all the ships coming and going!"
+    ],
+    [
+     "Hân Hân",
+     "Thời cổ đại, Hy Lạp cũng từng có những hải cảng sầm uất. Biển cả đã tặng cho Hy Lạp và La Mã những gì nhỉ? Cùng đi xem!",
+     "In ancient times, Greece had busy harbours too. What gifts did the sea give Greece and Rome? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hy Lạp cổ đại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-hy-lap-co-dai"
+   ],
+   "hinh": "Toàn cảnh nhìn từ trên cao vùng phía nam bán đảo Ban-căng thời cổ: những dãy núi thấp chạy dài ra biển xanh, chia cắt thành nhiều đồng bằng nhỏ hẹp, mỗi đồng bằng có một thị trấn nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vùng đất của Hy Lạp cổ đại lớn hơn nước Hy Lạp ngày nay rất nhiều, trung tâm nằm ở phía nam bán đảo Ban-căng.",
+     "Ancient Greece was much larger than today's Greece, centred on the south of the Balkan Peninsula."
+    ],
+    [
+     "Hân Hân",
+     "Địa hình bị các dãy núi thấp chạy dài ra biển chia cắt thành nhiều đồng bằng nhỏ hẹp.",
+     "Low mountain ranges running down to the sea split the land into many small, narrow plains."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-hy-lap-co-dai"
+   ],
+   "hinh": "Sườn đồi đá sỏi khô cằn ở Hy Lạp cổ đại: người nông dân hái nho trong vườn nho bậc thang, người khác rung cây ô liu cho quả rụng vào thúng; đất đá lởm chởm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đất canh tác ít và không màu mỡ, chỉ thích hợp trồng các cây lâu năm như nho, ô liu.",
+     "There was little farmland and it wasn't fertile, suited only to long-lived crops like grapes and olives."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đất đai Hy Lạp cổ đại chỉ thích hợp trồng loại cây nào?",
+    "lua_chon": [
+     "Nho, ô liu",
+     "Lúa nước",
+     "Cây cà phê"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đất đai Hy Lạp cổ đại chỉ thích hợp trồng loại cây nào?",
+     "Pause! What crops suited ancient Greek soil?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: các cây lâu năm như nho, ô liu!",
+     "The answer is A: long-lived crops like grapes and olives!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-hy-lap-co-dai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bến đá của cảng Pi-rê thời cổ đại: thuyền buồm lớn neo kín vịnh, người khuân vác chuyển vò gốm, kiện vải, khối đá cẩm thạch; thương nhân mặc áo choàng mặc cả ồn ào",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bù lại, Hy Lạp có nhiều vũng, vịnh, thuận lợi cho việc lập hải cảng, lại có nhiều khoáng sản như đồng, vàng, bạc.",
+     "To make up for it, Greece had many bays and coves, ideal for harbours, plus minerals like copper, gold and silver."
+    ],
+    [
+     "Hân Hân",
+     "Đây là cảng Pi-rê, trung tâm xuất nhập khẩu và buôn bán nô lệ sầm uất nhất của thế giới cổ đại.",
+     "This is Piraeus, the busiest centre of trade, including the slave trade, in the ancient world."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-hy-lap-co-dai"
+   ],
+   "hinh": "Cận cảnh hàng hoá ở cảng Pi-rê: vò rượu nho, vò dầu ô liu, bình gốm vẽ hoạ tiết đen đỏ, khối đá cẩm thạch trắng được đưa lên thuyền; từ thuyền khác dỡ xuống bao ngũ cốc, giỏ hạt tiêu, chà là",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cảng Pi-rê, A-ten xuất khẩu rượu nho, dầu ô liu, đồ gốm màu, đá cẩm thạch, thiếc, chì, vải…",
+     "From Piraeus, Athens exported wine, olive oil, painted pottery, marble, tin, lead, cloth…"
+    ],
+    [
+     "Hân Hân",
+     "Và nhập về ngũ cốc từ Hắc Hải, Bắc Phi, hạt tiêu từ Ấn Độ, chà là và lúa mì từ Lưỡng Hà.",
+     "And imported grain from the Black Sea and North Africa, pepper from India, and dates and wheat from Mesopotamia."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "La Mã cổ đại",
+   "thoi_luong": 1.8
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-la-ma-co-dai"
+   ],
+   "hinh": "Bán đảo I-ta-li-a thời cổ nhìn từ trên cao, biển bao quanh; ở bờ biển phía nam, những vịnh kín gió có thuyền chiến và thuyền buôn La Mã ra vào, trú đậu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cũng giống Hy Lạp, bán đảo I-ta-li-a, nơi hình thành Nhà nước La Mã cổ đại, nằm ở Nam Âu và được biển bao bọc.",
+     "Like Greece, the Italian peninsula, birthplace of ancient Rome, lies in southern Europe, surrounded by sea."
+    ],
+    [
+     "Nhật Minh",
+     "Bờ biển phía nam có nhiều vịnh, cảng thuận tiện cho tàu bè ra vào trú đậu.",
+     "Its southern coast had many bays and harbours where ships could shelter."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-la-ma-co-dai"
+   ],
+   "hinh": "Đồng bằng và đồng cỏ rộng lớn của đế quốc La Mã: ruộng lúa mì vàng, đàn bò cừu gặm cỏ; xa xa là mỏ quặng trên sườn núi và lò luyện kim toả khói",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thời đế quốc, lãnh thổ La Mã mở rộng ra cả ba châu lục, với nhiều đồng bằng và đồng cỏ rộng lớn, giúp trồng trọt và chăn nuôi phát triển.",
+     "In the imperial era, Roman territory spread over three continents, with broad plains and pastures for farming and herding."
+    ],
+    [
+     "Hân Hân",
+     "Lòng đất chứa nhiều khoáng sản, thuận lợi cho nghề luyện kim.",
+     "The ground was rich in minerals, good for metalworking."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến thời đế quốc, lãnh thổ La Mã mở rộng ra mấy châu lục?",
+    "lua_chon": [
+     "Hai châu lục",
+     "Ba châu lục",
+     "Năm châu lục"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đến thời đế quốc, lãnh thổ La Mã mở rộng ra mấy châu lục?",
+     "Quick test! How many continents did the Roman Empire span?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ba châu lục!",
+     "The answer is B: three continents!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Hy Lạp: nhiều đồng bằng nhỏ hẹp, đất ít màu mỡ (nho, ô liu)",
+    "Nhiều vũng vịnh → hải cảng (cảng Pi-rê); nhiều khoáng sản",
+    "La Mã: bán đảo I-ta-li-a, biển bao bọc, phía nam nhiều vịnh, cảng",
+    "Thời đế quốc: ba châu lục, nhiều đồng cỏ; khoáng sản → luyện kim"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Hy Lạp có nhiều đồng bằng nhỏ hẹp, đất ít màu mỡ, hợp trồng nho, ô liu.",
+     "Remember: Greece had small, narrow plains and poor soil, good for grapes and olives."
+    ],
+    [
+     "Hân Hân",
+     "Bù lại có nhiều vũng vịnh để lập hải cảng như cảng Pi-rê, và nhiều khoáng sản.",
+     "But it had many bays for harbours like Piraeus, and plenty of minerals."
+    ],
+    [
+     "Nhật Minh",
+     "La Mã nằm trên bán đảo I-ta-li-a, biển bao bọc, phía nam có nhiều vịnh, cảng.",
+     "Rome sat on the Italian peninsula, ringed by sea, with many southern bays and ports."
+    ],
+    [
+     "Hân Hân",
+     "Thời đế quốc, lãnh thổ trải ra ba châu lục, nhiều đồng cỏ, khoáng sản thuận lợi cho luyện kim.",
+     "As an empire it spanned three continents, with pastures and minerals for metalworking."
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại kè đá cảng biển lúc hoàng hôn, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ăng-ghen từng nhận xét: không có cơ sở của văn minh Hy Lạp và La Mã thì không có châu Âu hiện đại.",
+     "Engels once said: without the foundation of Greek and Roman civilisation, there would be no modern Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: với điều kiện tự nhiên như vậy, cư dân Hy Lạp cổ đại có ưu thế phát triển những ngành kinh tế nào? Bình luận nhé!",
+     "Your challenge: with such natural conditions, which industries did the ancient Greeks have an edge in? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trung tâm của Hy Lạp cổ đại nằm ở",
+   "dap_an": [
+    "Phía nam bán đảo Ban-căng",
+    "Bán đảo I-ta-li-a",
+    "Bắc Phi",
+    "Tiểu Á"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Hy Lạp cổ đại có nhiều loại khoáng sản nào?",
+   "dap_an": [
+    "Đồng, vàng, bạc",
+    "Than đá, dầu mỏ",
+    "Sắt, thiếc, kẽm",
+    "Muối mỏ"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Cảng nào là trung tâm xuất – nhập khẩu sầm uất nhất của thế giới cổ đại?",
+   "dap_an": [
+    "Cảng Pi-rê",
+    "Cảng Óc Eo",
+    "Cảng Vân Đồn",
+    "Cảng Ba-bi-lon"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Bờ biển nào của bán đảo I-ta-li-a có nhiều vịnh, cảng thuận tiện cho tàu bè?",
+   "dap_an": [
+    "Phía bắc",
+    "Phía nam",
+    "Phía đông",
+    "Không có"
+   ],
+   "dung": 1,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 44 (phần mở đầu – nhận xét của Ăng-ghen), tr. 45 (mục 1a, đoạn tư liệu về cảng Pi-rê), tr. 46 (mục 1b). Kiến thức chốt của danh mục khớp SGK. Chi tiết 'buôn bán nô lệ' giữ đúng lời SGK, trình bày trung tính. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

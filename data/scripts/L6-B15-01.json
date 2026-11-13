@@ -1,0 +1,362 @@
+{
+ "ma": "L6-B15-01",
+ "ten_tap": "Bóng đen đô hộ: Khi bộ máy cai trị ập đến",
+ "ten_tap_en": "Shadow of Domination: The Ruling Machine Arrives",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 15. Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+  "trang": [
+   65,
+   66,
+   67
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "trieu-da",
+  "quan-lai-phuong-bac",
+  "quan-don-tru-phuong-bac"
+ ],
+ "nhac": {
+  "tam_trang": "u ám, nặng nề, nhịp chậm; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; không vẽ cảnh tra tấn, hình phạt hay bạo lực cận cảnh; sơ đồ bộ máy vẽ lại theo Hình 1 SGK tr. 66. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 15, tr. 65–67.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một đoạn tường thành đất cổ phủ cỏ của thành Luy Lâu (Bắc Ninh) ngày nay, xung quanh là ruộng lúa và mái chùa cổ xa xa; trời chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở thành cổ Luy Lâu, nay thuộc phường Trí Quả, tỉnh Bắc Ninh. Thành có lịch sử trên 2 000 năm, được xây dựng từ thời Đông Hán.",
+     "We're at the ancient Luy Lâu citadel, now in Trí Quả ward, Bắc Ninh province. It's over 2,000 years old, built in the Eastern Han era."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tỉnh Bắc Ninh với trường tụi mình đấy! Nghe nói nơi này từng là trị sở của chính quyền đô hộ phương Bắc. Chuyện gì đã xảy ra vậy?",
+     "It's in Bắc Ninh, same as our school! They say it was once the seat of the northern colonial government. What happened?"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "179 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trieu-da",
+    "quan-don-tru-phuong-bac"
+   ],
+   "hinh": "Đoàn quân phương Bắc cờ không chữ tiến qua cổng thành đất Âu Lạc; Triệu Đà cưỡi ngựa đi giữa, nét mặt lạnh lùng; người dân Âu Lạc đứng hai bên đường, nét mặt buồn bã (viễn cảnh, không bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 179 trước Công nguyên, Triệu Đà chiếm được Âu Lạc.",
+     "In 179 BCE, Zhao Tuo seized Âu Lạc."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, các triều đại phong kiến phương Bắc đều sáp nhập nước ta vào lãnh thổ Trung Quốc.",
+     "From then on, the northern feudal dynasties all annexed our land into China."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac"
+   ],
+   "hinh": "Trong công đường, các quan lại phương Bắc mặc áo bào, đội mũ cánh chuồn, cúi trên tấm bản đồ vẽ trên lụa, dùng bút lông khoanh chia đất đai thành từng vùng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các triều đại từ Hán đến Đường chia nước ta thành các đơn vị hành chính như châu – quận, dưới châu – quận là huyện.",
+     "From the Han to the Tang, they divided our land into provinces and prefectures, with districts below."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "BỘ MÁY ĐÔ HỘ CỦA NHÀ HÁN (SAU KHỞI NGHĨA HAI BÀ TRƯNG)",
+   "y": [
+    "Giao Châu: Thứ sử người Hán",
+    "Quận Giao Chỉ, Cửu Chân, Nhật Nam: Thái thú người Hán",
+    "Huyện: Huyện lệnh người Hán",
+    "Làng, xã: Hào trưởng người Việt"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ sau khởi nghĩa Hai Bà Trưng, năm 40 đến năm 43, chính quyền từ cấp huyện trở lên đều do người Hán nắm giữ.",
+     "After the Trưng Sisters' uprising of 40 to 43, every level from district upward was held by the Han."
+    ],
+    [
+     "Nhật Minh",
+     "Đứng đầu Giao Châu là Thứ sử, đứng đầu các quận Giao Chỉ, Cửu Chân, Nhật Nam là Thái thú, đứng đầu huyện là Huyện lệnh, đều là người Hán.",
+     "Giao Châu was run by a governor, the prefectures of Giao Chỉ, Cửu Chân and Nhật Nam by prefects, and districts by magistrates, all Han Chinese."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ có làng, xã là do hào trưởng người Việt đứng đầu.",
+     "Only villages were led by Vietnamese local chiefs."
+    ]
+   ],
+   "nguon_trang": [
+    65,
+    66
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ sau khởi nghĩa Hai Bà Trưng, chính quyền từ cấp nào trở lên do người Hán nắm giữ?",
+    "lua_chon": [
+     "Từ cấp huyện trở lên",
+     "Từ cấp làng, xã trở lên",
+     "Chỉ cấp châu"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Từ sau khởi nghĩa Hai Bà Trưng, chính quyền từ cấp nào trở lên do người Hán nắm giữ?",
+     "Pause! After the Trưng Sisters' uprising, the Han held power from which level up?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: từ cấp huyện trở lên!",
+     "The answer is A: from the district level up!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-don-tru-phuong-bac",
+    "quan-lai-phuong-bac"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép bên lùm tre ngoài hào nước, nhìn thành Luy Lâu thời Bắc thuộc: tường thành cao, cổng có lính đồn trú cầm giáo canh gác, quan lại cưỡi ngựa ra vào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính quyền đô hộ cho xây đắp các thành luỹ lớn ở trị sở các châu – quận, như thành Luy Lâu, thành Tống Bình – Đại La, nay thuộc Hà Nội.",
+     "The rulers built big citadels at their provincial seats, like Luy Lâu and Tống Bình – Đại La, now part of Hà Nội."
+    ],
+    [
+     "Nhật Minh",
+     "Họ còn bố trí quân đồn trú để bảo vệ chính quyền. Nhìn lính gác kìa!",
+     "They stationed garrisons to protect their rule. Look at those guards!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac"
+   ],
+   "hinh": "Bên trong thành Luy Lâu thời Bắc thuộc: phố chợ đông đúc, thuyền buôn trên sông, mái chùa cổ; ở giữa là dinh thự của chính quyền đô hộ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thế kỉ II đến đầu thế kỉ IX, Luy Lâu vừa là trị sở của chính quyền đô hộ, vừa là một trung tâm kinh tế, văn hoá, tôn giáo quan trọng của Giao Chỉ.",
+     "From the 2nd to the early 9th century, Luy Lâu was both the seat of colonial power and a key economic, cultural and religious centre of Giao Chỉ."
+    ],
+    [
+     "Nhật Minh",
+     "Từ thế kỉ IX, trị sở của chính quyền An Nam đô hộ chuyển về Tống Bình – Đại La.",
+     "From the 9th century, the seat of the Annan protectorate moved to Tống Bình – Đại La."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac",
+    "quan-don-tru-phuong-bac"
+   ],
+   "hinh": "Ở cổng chợ, một viên quan phương Bắc đọc bảng cáo thị trước đám đông người Việt cúi đầu im lặng; lính cầm giáo đứng hai bên; không khí ngột ngạt (không cảnh hình phạt)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ nhà Hán, các triều đại đều áp dụng luật pháp hà khắc, thẳng tay đàn áp các cuộc đấu tranh của nhân dân ta.",
+     "From the Han on, every dynasty imposed harsh laws and brutally crushed our people's struggles."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ thế kỉ IX, trị sở của chính quyền An Nam đô hộ chuyển về đâu?",
+    "lua_chon": [
+     "Tống Bình – Đại La",
+     "Cổ Loa",
+     "Phong Châu"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Từ thế kỉ IX, trị sở của chính quyền An Nam đô hộ chuyển về đâu?",
+     "Quick test! From the 9th century, where did the Annan protectorate's seat move?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Tống Bình – Đại La!",
+     "The answer is A: Tống Bình – Đại La!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "179 TCN: Triệu Đà chiếm Âu Lạc; nước ta bị sáp nhập vào Trung Quốc",
+    "Chia thành châu – quận – huyện; từ cấp huyện trở lên do người Hán nắm giữ",
+    "Trị sở: Luy Lâu, Tống Bình – Đại La; có quân đồn trú",
+    "Luật pháp hà khắc, đàn áp các cuộc đấu tranh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 179 trước Công nguyên, Triệu Đà chiếm Âu Lạc.",
+     "Remember: in 179 BCE, Zhao Tuo seized Âu Lạc."
+    ],
+    [
+     "Hân Hân",
+     "Nước ta bị chia thành châu, quận, huyện; từ cấp huyện trở lên do người Hán nắm giữ.",
+     "Our land was split into provinces, prefectures and districts, run by the Han from district level up."
+    ],
+    [
+     "Nhật Minh",
+     "Trị sở đặt ở Luy Lâu, Tống Bình – Đại La, có quân đồn trú bảo vệ.",
+     "Their seats were Luy Lâu and Tống Bình – Đại La, guarded by garrisons."
+    ],
+    [
+     "Hân Hân",
+     "Luật pháp hà khắc, các cuộc đấu tranh bị đàn áp thẳng tay.",
+     "Laws were harsh, and uprisings were crushed."
+    ]
+   ],
+   "nguon_trang": [
+    65,
+    67
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ thành cổ Luy Lâu ngày nay lúc hoàng hôn, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những dấu tích còn lại ở thành cổ Luy Lâu gợi cho cậu suy nghĩ gì về thời kì Bắc thuộc? Bình luận nhé!",
+     "Your challenge: what do the remains at Luy Lâu make you think about the era of northern rule? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Triệu Đà chiếm được Âu Lạc vào năm nào?",
+   "dap_an": [
+    "208 TCN",
+    "179 TCN",
+    "40",
+    "938"
+   ],
+   "dung": 1,
+   "trang": 65
+  },
+  {
+   "hoi": "Đứng đầu cấp làng, xã trong bộ máy đô hộ của nhà Hán (sau khởi nghĩa Hai Bà Trưng) là",
+   "dap_an": [
+    "Thứ sử người Hán",
+    "Thái thú người Hán",
+    "Huyện lệnh người Hán",
+    "Hào trưởng người Việt"
+   ],
+   "dung": 3,
+   "trang": 66
+  },
+  {
+   "hoi": "Thành Luy Lâu được xây dựng từ thời nào?",
+   "dap_an": [
+    "Thời Đông Hán",
+    "Thời Văn Lang",
+    "Thời nhà Tần",
+    "Thời nhà Lý"
+   ],
+   "dung": 0,
+   "trang": 65
+  },
+  {
+   "hoi": "Các triều đại từ Hán đến Đường chia nước ta thành các đơn vị hành chính nào?",
+   "dap_an": [
+    "Bộ, chiềng, chạ",
+    "Châu – quận, dưới là huyện",
+    "Thành bang",
+    "Tỉnh, phủ, xã"
+   ],
+   "dung": 1,
+   "trang": 65
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 65 (phần mở đầu – Luy Lâu nay thuộc phường Trí Quả, tỉnh Bắc Ninh; mục 1a; ô Em có biết về Luy Lâu – đối chiếu ảnh trang), tr. 66 (Hình 1 – sơ đồ bộ máy đô hộ nhà Hán sau khởi nghĩa Hai Bà Trưng), tr. 67 (luật pháp hà khắc). Kiến thức chốt của danh mục khớp SGK (trị sở ghi đầy đủ 'Tống Bình – Đại La'). Câu 'cùng tỉnh Bắc Ninh với trường tụi mình' là bối cảnh hiện tại của đội thi (trường thuộc Sở GDĐT Bắc Ninh), không phải dữ kiện lịch sử. Không vẽ hình phạt (Hình 3 SGK) để phù hợp học sinh lớp 6. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,372 @@
+{
+ "ma": "L6-B5-03",
+ "ten_tap": "Cuộc sống kì thú của người nguyên thuỷ",
+ "ten_tap_en": "The Amazing Life of Prehistoric People",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 5. Xã hội nguyên thuỷ",
+  "trang": [
+   20,
+   21,
+   23
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-toi-co",
+  "nguoi-tinh-khon"
+ ],
+ "nhac": {
+  "tam_trang": "hoang sơ, ấm áp quanh bếp lửa, tươi sáng ở đoạn làm nông",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện đời sống người nguyên thuỷ mang tính minh hoạ; tranh vách hang, rìu mài lưỡi, đồ gốm vẽ theo Hình 1 (tr. 20), Hình 4, 6 (tr. 23) SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 5, tr. 20–21, 23.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng trưng bày bảo tàng, đứng trước một tấm phục chế tranh vách hang vẽ cảnh đi săn bằng màu đỏ nâu: người cầm cung tên đuổi theo thú",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây được cho là tranh người nguyên thuỷ vẽ trên vách hang. Nhưng có người lại nói: người nguyên thuỷ sống như bầy động vật hoang dã, chưa thể biết vẽ tranh!",
+     "This is said to be a cave painting by prehistoric people. But some say they lived like wild animals and couldn't paint!"
+    ],
+    [
+     "Nhật Minh",
+     "Ai đúng, ai sai? Đi xem tận mắt là biết ngay!",
+     "Who's right? Let's go and see for ourselves!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Bầy người nguyên thuỷ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép ở góc một hang đá rộng, nhìn một nhóm Người tối cổ: một người xoay que gỗ cọ xát vào thanh gỗ khô, khói và tia lửa bùng lên; những người khác reo lên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người tối cổ chủ yếu sống trong các hang động, mái đá, dựa vào săn bắt, hái lượm.",
+     "Homo erectus mostly lived in caves and rock shelters, hunting and gathering."
+    ],
+    [
+     "Hân Hân",
+     "Nhìn kìa! Họ đã biết tạo ra lửa bằng cách cọ xát!",
+     "Look! They've learned to make fire by friction!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Bên cửa hang: một người đàn ông nguyên thuỷ giương cung bắn tên về phía con thú xa xa; một người khác ngồi xỏ dây qua những vỏ ốc, răng thú đã đục lỗ để làm vòng cổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ chế tạo những chiếc rìu đá ghè đẽo thô sơ, và còn phát minh ra cung tên để săn bắn.",
+     "They made rough chipped stone axes, and even invented the bow and arrow for hunting."
+    ],
+    [
+     "Nhật Minh",
+     "Họ cũng biết làm trang sức: vòng tay, vòng cổ bằng vỏ ốc, xương hoặc răng thú có đục lỗ để xỏ dây.",
+     "They made jewellery too: bracelets and necklaces of shells, bones or animal teeth with holes for string."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Trong lòng hang, dưới ánh lửa bập bùng: một người dùng ngón tay chấm màu đỏ nâu vẽ cảnh đi săn lên vách đá; người đứng đầu nhóm chỉ việc cho mọi người, đàn ông chuẩn bị đi săn, phụ nữ hái quả và chăm sóc trẻ nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Và đúng là họ biết vẽ tranh trên vách hang đá đấy!",
+     "And yes, they did paint on cave walls!"
+    ],
+    [
+     "Nhật Minh",
+     "Khác với bầy động vật, bầy người nguyên thuỷ đã có tổ chức: có người đứng đầu, có phân công lao động giữa nam và nữ, cùng chăm sóc con cái.",
+     "Unlike animal herds, these groups were organised: they had leaders, divided work between men and women, and raised children together."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người tối cổ tạo ra lửa bằng cách nào?",
+    "lua_chon": [
+     "Bằng cách cọ xát",
+     "Bằng cách đúc kim loại",
+     "Bằng cách nung gốm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Người tối cổ tạo ra lửa bằng cách nào?",
+     "Pause! How did Homo erectus make fire?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: bằng cách cọ xát!",
+     "The answer is A: by friction!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Công xã thị tộc",
+   "thoi_luong": 1.8
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Một khu cư trú của Người tinh khôn bên thung lũng: người trồng rau, gieo lúa trên mảnh ruộng nhỏ, chuồng gia súc bằng cành cây, một phụ nữ nặn và nung đồ gốm, một người dệt vải từ sợi vỏ cây",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến giai đoạn công xã thị tộc, ngoài săn bắt, hái lượm, Người tinh khôn đã biết trồng rau, trồng lúa, chăn nuôi gia súc.",
+     "In the clan-community stage, besides hunting and gathering, Homo sapiens grew vegetables and rice and raised livestock."
+    ],
+    [
+     "Hân Hân",
+     "Họ còn làm đồ gốm, dệt vải từ sợi vỏ cây!",
+     "They also made pottery and wove cloth from bark fibre!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Một thiếu nữ nguyên thuỷ đeo vòng cổ bằng đá mài nhẵn và vòng tay đất nung, đang nặn một bức tượng nhỏ bằng đất; phía sau, cả nhóm đứng trang nghiêm trước một bàn thờ đá đơn sơ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trang sức cũng đẹp và tinh tế hơn: vòng tay, vòng cổ bằng đá hay đất nung. Họ biết nặn tượng đất nung, tạc tượng đá.",
+     "Jewellery became finer: bracelets and necklaces of stone or fired clay. They modelled clay figures and carved stone statues."
+    ],
+    [
+     "Nhật Minh",
+     "Họ cũng đã biết chôn người chết và thờ thần linh. Con người kiếm được nhiều thức ăn hơn, sống tốt hơn, vui hơn.",
+     "They buried their dead and worshipped spirits. People found more food and lived better, happier lives."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sườn núi đá vôi vùng trung du Bắc Bộ thời tiền sử, nhìn xuống một khu cư trú: người mài lưỡi rìu đá trên phiến đá (vẽ theo Hình 4 SGK), bên cạnh là nồi gốm, vườn rau, đàn gia súc nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Việt Nam, trong các di chỉ văn hoá Hoà Bình, Bắc Sơn ở vùng núi và trung du Bắc Bộ, đã tìm thấy nhiều công cụ đá mài, đồ gốm,",
+     "In Việt Nam, sites of the Hoà Bình and Bắc Sơn cultures in the northern mountains and midlands have yielded many polished stone tools and pottery,"
+    ],
+    [
+     "Hân Hân",
+     "cùng xương, răng gia súc và dấu vết hạt cây ăn quả, rau, đậu. Chứng tỏ cư dân ở đây đã bước đầu biết làm nông nghiệp!",
+     "plus livestock bones and teeth and traces of fruit seeds, vegetables and beans. Proof that people here had begun farming!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở giai đoạn công xã thị tộc, Người tinh khôn đã biết",
+    "lua_chon": [
+     "Trồng lúa, chăn nuôi, làm đồ gốm",
+     "Chỉ săn bắt, hái lượm",
+     "Đúc trống đồng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Ở giai đoạn công xã thị tộc, Người tinh khôn đã biết làm gì?",
+     "Quick test! What could Homo sapiens do in the clan-community stage?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: trồng lúa, chăn nuôi, làm đồ gốm!",
+     "The answer is A: grow rice, raise livestock and make pottery!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Người tối cổ: sống trong hang, săn bắt, hái lượm; rìu đá ghè đẽo, lửa, cung tên",
+    "Có tổ chức: người đứng đầu, phân công lao động nam – nữ",
+    "Người tinh khôn: trồng trọt, chăn nuôi, làm gốm, dệt vải",
+    "Trang sức tinh tế hơn, chôn người chết, thờ thần linh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Người tối cổ sống trong hang, săn bắt, hái lượm, làm rìu đá ghè đẽo, tạo ra lửa, phát minh cung tên.",
+     "Remember: Homo erectus lived in caves, hunted and gathered, chipped stone axes, made fire and invented the bow."
+    ],
+    [
+     "Hân Hân",
+     "Bầy người nguyên thuỷ đã có tổ chức, có người đứng đầu và phân công lao động.",
+     "Their groups were organised, with leaders and divided work."
+    ],
+    [
+     "Nhật Minh",
+     "Người tinh khôn biết trồng trọt, chăn nuôi, làm gốm, dệt vải.",
+     "Homo sapiens farmed, kept animals, made pottery and wove cloth."
+    ],
+    [
+     "Hân Hân",
+     "Họ làm trang sức tinh tế hơn, biết chôn người chết và thờ thần linh.",
+     "They made finer jewellery, buried their dead and worshipped spirits."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước tấm tranh vách hang trong bảo tàng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vậy là người nguyên thuỷ không hề sống như bầy động vật hoang dã: họ biết vẽ tranh, làm trang sức và sống có tổ chức!",
+     "So prehistoric people didn't live like wild animals: they painted, made jewellery and lived in organised groups!"
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, lao động có vai trò như thế nào trong sự phát triển của người nguyên thuỷ? Bình luận nhé!",
+     "Your challenge: what role did work play in the development of prehistoric people? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    21,
+    23
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong giai đoạn bầy người nguyên thuỷ, Người tối cổ chủ yếu sống ở đâu?",
+   "dap_an": [
+    "Trong các hang động, mái đá",
+    "Trong nhà sàn",
+    "Trong thành thị",
+    "Trên thuyền"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Phát minh nào của Người tối cổ dùng để săn bắn?",
+   "dap_an": [
+    "Cày gỗ lưỡi đồng",
+    "Cung tên",
+    "Bánh xe",
+    "Lưỡi hái"
+   ],
+   "dung": 1,
+   "trang": 21
+  },
+  {
+   "hoi": "Điểm nào cho thấy bầy người nguyên thuỷ khác với bầy động vật hoang dã?",
+   "dap_an": [
+    "Có người đứng đầu, có phân công lao động giữa nam và nữ",
+    "Sống thành bầy",
+    "Đi kiếm ăn",
+    "Ngủ trong hang"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Những dấu vết nào ở di chỉ văn hoá Hoà Bình, Bắc Sơn chứng tỏ cư dân đã bước đầu biết làm nông nghiệp?",
+   "dap_an": [
+    "Công cụ đá mài, đồ gốm, xương răng gia súc, dấu vết hạt cây ăn quả, rau, đậu",
+    "Trống đồng và thạp đồng",
+    "Lưỡi cày sắt",
+    "Bia đá khắc chữ"
+   ],
+   "dung": 0,
+   "trang": 23
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 20 (phần mở đầu – tranh vách hang và ý kiến hoài nghi), tr. 21 (mục 2: đời sống bầy người nguyên thuỷ và công xã thị tộc), tr. 23 (văn hoá Hoà Bình, Bắc Sơn; Hình 4, 6; vai trò của lao động). Kiến thức chốt của danh mục khớp SGK; diễn đạt 'đời sống tâm linh' thành đúng chữ SGK 'chôn người chết và thờ thần linh'. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

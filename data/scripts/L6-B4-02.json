@@ -1,0 +1,370 @@
+{
+ "ma": "L6-B4-02",
+ "ten_tap": "Dấu chân người xưa ở Đông Nam Á",
+ "ten_tap_en": "Footprints of Early Humans in Southeast Asia",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 4. Nguồn gốc loài người",
+  "trang": [
+   18,
+   19
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vuon-nguoi",
+  "nguoi-toi-co-tai-gia-va",
+  "nguoi-tinh-khon-tai-hang-ni-a",
+  "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+ ],
+ "nhac": {
+  "tam_trang": "hoang sơ, phiêu lưu, rừng nhiệt đới",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện người xưa và cảnh quan mang tính minh hoạ; không vẽ lại hoá thạch thật. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 4, tr. 18–19.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, cúi trên tấm bản đồ khu vực Đông Nam Á trải trên bàn (chỉ đường bờ biển và tên nước, không có đường biên), Nhật Minh cầm kính lúp, Hân Hân đặt những chiếc ghim màu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đố cậu: dấu chân xưa nhất của con người ở Đông Nam Á nằm ở đâu?",
+     "Quiz for you: where are the oldest human footprints in Southeast Asia?"
+    ],
+    [
+     "Nhật Minh",
+     "Tớ chưa biết! Phải đi theo dấu vết của các nhà khảo cổ thôi!",
+     "No idea! Let's follow the archaeologists' trail!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "5 triệu năm trước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vuon-nguoi"
+   ],
+   "hinh": "Rừng nhiệt đới rậm rạp ở Đông Nam Á thời tiền sử, vài cá thể Vượn người lông phủ thân leo trèo, ngồi trên cành cây lớn hái quả; sương mù, tiếng chim",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đông Nam Á, quá trình tiến hoá từ Vượn người thành người đã diễn ra từ rất sớm.",
+     "In Southeast Asia, the evolution from apes to humans began very early."
+    ],
+    [
+     "Hân Hân",
+     "Di cốt của loài Vượn người sống cách ngày nay khoảng 5 triệu năm đã được tìm thấy ở Mi-an-ma và In-đô-nê-xi-a.",
+     "Bones of hominid apes from about 5 million years ago have been found in Myanmar and Indonesia."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-gia-va"
+   ],
+   "hinh": "Đảo Gia-va thời tiền sử: núi lửa xa xa toả khói, bên bờ sông một nhóm Người tối cổ đứng thẳng, tay cầm công cụ đá thô; cỏ cao, cây dừa dại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đặc biệt, hoá thạch phát hiện trên đảo Gia-va, In-đô-nê-xi-a, có niên đại khoảng 2 triệu năm trước.",
+     "Notably, fossils found on Java, Indonesia, date back about 2 million years."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là dấu vết xưa nhất của Người tối cổ ở Đông Nam Á!",
+     "That's the oldest trace of Homo erectus in Southeast Asia!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dấu vết xưa nhất của Người tối cổ ở Đông Nam Á được tìm thấy ở đâu?",
+    "lua_chon": [
+     "Đảo Gia-va (In-đô-nê-xi-a)",
+     "Hang Ni-a (Ma-lai-xi-a)",
+     "Phi-líp-pin"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Dấu vết xưa nhất của Người tối cổ ở Đông Nam Á được tìm thấy ở đâu?",
+     "Pause! Where was the oldest trace of Homo erectus in Southeast Asia found?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: đảo Gia-va, In-đô-nê-xi-a!",
+     "The answer is A: the island of Java, Indonesia!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-gia-va"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi tre rừng, quan sát một nhóm Người tối cổ bên suối đang ghè đá thành những chiếc rìu thô, mảnh đá vụn văng ra",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dấu tích của Người tối cổ có mặt ở khắp Đông Nam Á: đó là những di cốt hoá thạch và công cụ đá do chính họ chế tạo.",
+     "Traces of Homo erectus are all over Southeast Asia: fossil bones and the stone tools they made."
+    ],
+    [
+     "Hân Hân",
+     "Di cốt, mảnh di cốt và công cụ đá của Người tối cổ còn được tìm thấy ở Thái Lan, Phi-líp-pin, Ma-lai-xi-a.",
+     "Their bones, bone fragments and stone tools have also been found in Thailand, the Philippines and Malaysia."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon-tai-hang-ni-a"
+   ],
+   "hinh": "Bên trong một hang đá vôi khổng lồ ở Ma-lai-xi-a thời tiền sử (hang Ni-a): ánh sáng rọi qua cửa hang rộng, một nhóm Người tinh khôn dáng như người ngày nay ngồi quanh đống lửa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn ở hang Ni-a, Ma-lai-xi-a, người ta tìm thấy chiếc sọ của Người tinh khôn.",
+     "And in the Niah Cave in Malaysia, a Homo sapiens skull was found."
+    ],
+    [
+     "Hân Hân",
+     "Chiếc sọ ấy có niên đại cách ngày nay khoảng 4 vạn năm.",
+     "That skull is about 40,000 years old."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co-tai-tham-khuyen-tham-hai"
+   ],
+   "hinh": "Cửa một hang núi đá vôi ở vùng núi phía bắc Việt Nam thời tiền sử, sương mù quanh vách đá; bóng dáng một nhóm Người tối cổ đứng ở cửa hang nhìn ra thung lũng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Và ở Việt Nam, răng của Người tối cổ cũng đã được phát hiện ở Thẩm Khuyên, Thẩm Hai, tỉnh Lạng Sơn.",
+     "And in Việt Nam, Homo erectus teeth have been found at Thẩm Khuyên and Thẩm Hai in Lạng Sơn."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · DẤU TÍCH Ở ĐÔNG NAM Á",
+   "moc": [
+    [
+     "Khoảng 5 triệu năm",
+     "Vượn người: Mi-an-ma, In-đô-nê-xi-a"
+    ],
+    [
+     "Khoảng 2 triệu năm",
+     "Người tối cổ: đảo Gia-va"
+    ],
+    [
+     "Khoảng 4 vạn năm",
+     "Người tinh khôn: hang Ni-a"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng tóm tắt nhé! Khoảng 5 triệu năm trước: di cốt Vượn người ở Mi-an-ma và In-đô-nê-xi-a.",
+     "Recap! About 5 million years ago: hominid ape bones in Myanmar and Indonesia."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 2 triệu năm trước: Người tối cổ trên đảo Gia-va.",
+     "About 2 million years ago: Homo erectus on Java."
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng 4 vạn năm trước: sọ Người tinh khôn ở hang Ni-a.",
+     "About 40,000 years ago: the Homo sapiens skull in the Niah Cave."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiếc sọ Người tinh khôn ở hang Ni-a (Ma-lai-xi-a) có niên đại khoảng",
+    "lua_chon": [
+     "2 triệu năm",
+     "5 triệu năm",
+     "4 vạn năm"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Chiếc sọ Người tinh khôn ở hang Ni-a có niên đại khoảng bao nhiêu năm?",
+     "Quick test! How old is the Homo sapiens skull from the Niah Cave?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: khoảng 4 vạn năm!",
+     "The answer is C: about 40,000 years!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Đông Nam Á: tiến hoá từ Vượn người thành người diễn ra từ rất sớm",
+    "Dấu tích: di cốt hoá thạch và công cụ đá",
+    "Gia-va (khoảng 2 triệu năm): dấu vết xưa nhất của Người tối cổ ở Đông Nam Á",
+    "Hang Ni-a (khoảng 4 vạn năm): sọ Người tinh khôn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ở Đông Nam Á, quá trình tiến hoá từ Vượn người thành người diễn ra từ rất sớm.",
+     "Remember: in Southeast Asia, human evolution began very early."
+    ],
+    [
+     "Hân Hân",
+     "Dấu tích để lại là di cốt hoá thạch và công cụ đá.",
+     "The traces are fossil bones and stone tools."
+    ],
+    [
+     "Nhật Minh",
+     "Hoá thạch trên đảo Gia-va, khoảng 2 triệu năm, là dấu vết xưa nhất của Người tối cổ ở Đông Nam Á.",
+     "Java's fossils, about 2 million years old, are the oldest trace of Homo erectus in the region."
+    ],
+    [
+     "Hân Hân",
+     "Sọ Người tinh khôn ở hang Ni-a có niên đại khoảng 4 vạn năm.",
+     "The Homo sapiens skull from Niah is about 40,000 years old."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên tấm bản đồ Đông Nam Á đã cắm đầy ghim màu, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: những dấu tích tìm được ở Đông Nam Á và Việt Nam chứng tỏ điều gì? Bình luận câu trả lời của cậu nhé!",
+     "Your challenge: what do the traces found in Southeast Asia and Việt Nam prove? Share your answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Di cốt của loài Vượn người sống cách ngày nay khoảng 5 triệu năm được tìm thấy ở",
+   "dap_an": [
+    "Mi-an-ma và In-đô-nê-xi-a",
+    "Việt Nam và Lào",
+    "Thái Lan và Cam-pu-chia",
+    "Phi-líp-pin và Bru-nây"
+   ],
+   "dung": 0,
+   "trang": 18
+  },
+  {
+   "hoi": "Hoá thạch Người tối cổ trên đảo Gia-va có niên đại khoảng",
+   "dap_an": [
+    "4 vạn năm",
+    "15 vạn năm",
+    "2 triệu năm",
+    "5 triệu năm"
+   ],
+   "dung": 2,
+   "trang": 18
+  },
+  {
+   "hoi": "Dấu tích của Người tối cổ tìm được ở Đông Nam Á gồm",
+   "dap_an": [
+    "Di cốt hoá thạch và công cụ đá",
+    "Đồ sắt và đồ gốm men",
+    "Chữ viết trên bia đá",
+    "Tiền đồng"
+   ],
+   "dung": 0,
+   "trang": 18
+  },
+  {
+   "hoi": "Ở Việt Nam, răng của Người tối cổ được phát hiện ở",
+   "dap_an": [
+    "Hang Ni-a",
+    "Thẩm Khuyên, Thẩm Hai (Lạng Sơn)",
+    "Đảo Gia-va",
+    "Óc Eo"
+   ],
+   "dung": 1,
+   "trang": 19
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 18 (mục 2, các đoạn về Mi-an-ma, In-đô-nê-xi-a, Gia-va, Thái Lan, Phi-líp-pin, Ma-lai-xi-a, hang Ni-a) và tr. 19 (Thẩm Khuyên, Thẩm Hai; câu hỏi cuối mục). Hiệu đính kiến thức chốt của danh mục: SGK không gọi Đông Nam Á là 'một trong những cái nôi của loài người' (cụm này SGK dùng cho Đông Phi, tr. 17); SGK viết 'tại khu vực Đông Nam Á đã diễn ra quá trình tiến hoá từ Vượn người thành người từ rất sớm'. Không dựng sa bàn (Hình 2 không phải trận đánh/tuyến đường); bản đồ trên bàn ở cảnh mở đầu là đạo cụ minh hoạ, không vẽ biên giới. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

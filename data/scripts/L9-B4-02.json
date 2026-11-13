@@ -1,0 +1,517 @@
+{
+ "ma": "L9-B4-02",
+ "ten_tap": "Từ Ba Lan đến Mát-xcơ-va: Chiến tranh lan rộng",
+ "ten_tap_en": "From Poland to Moscow: The War Spreads",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 4. Chiến tranh thế giới thứ hai (1939 – 1945)",
+  "trang": [
+   18,
+   19
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-duc",
+  "hong-quan-lien-xo",
+  "quan-doi-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, căng thẳng tăng dần khi chiến tranh lan rộng; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 4, tr. 18–19.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, đứng trước tấm bản đồ châu Âu lớn treo tường; trên bàn có quả địa cầu, chồng sách lịch sử; ánh nắng chiều qua cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1939, một cuộc chiến tranh mới bùng nổ ở châu Âu, rồi nhanh chóng lan rộng khắp thế giới.",
+     "In 1939, a new war broke out in Europe and soon spread across the whole world."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là Chiến tranh thế giới thứ hai. Từ Ba Lan đến tận Mát-xcơ-va, chiến tranh đã lan rộng thế nào? Cùng xem nhé!",
+     "That was World War II. From Poland all the way to Moscow, how did the war spread? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1939",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI KHỐI ĐẾ QUỐC ĐỐI ĐỊCH",
+   "y": [
+    "Khối tư bản dân chủ: Anh, Pháp, Mỹ",
+    "Khối phát xít: Đức, I-ta-li-a, Nhật Bản",
+    "Cả hai khối đều có mâu thuẫn với Liên Xô"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đại suy thoái 1929 – 1933 dẫn tới sự hình thành chủ nghĩa phát xít, quân phiệt ở Đức và Nhật Bản. Cùng với I-ta-li-a, đó là những thủ phạm gây ra chiến tranh.",
+     "The Great Depression of 1929–1933 gave rise to fascism and militarism in Germany and Japan. Together with Italy, they were the culprits of the war."
+    ],
+    [
+     "Hân Hân",
+     "Thế giới hình thành hai khối đế quốc đối địch: khối tư bản dân chủ gồm Anh, Pháp, Mỹ và khối phát xít gồm Đức, I-ta-li-a, Nhật Bản.",
+     "Two rival imperialist blocs formed: the democratic capitalist bloc of Britain, France and the US, and the fascist bloc of Germany, Italy and Japan."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cả hai khối đều có chung mâu thuẫn với Liên Xô. Anh, Pháp, Mỹ đã nhượng bộ phát xít, hòng đẩy Đức chống Liên Xô.",
+     "Yet both blocs shared a conflict with the Soviet Union. Britain, France and the US gave way to the fascists, hoping to push Germany against the USSR."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-giai-doan-1",
+   "pha": "ba_lan",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai đoạn một, từ ngày 1 tháng 9 năm 1939 đến tháng 11 năm 1942: chiến tranh bùng nổ và lan rộng khắp thế giới.",
+     "Stage one, from 1 September 1939 to November 1942: the war broke out and spread around the world."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 1 tháng 9 năm 1939, quân đội Đức tấn công Ba Lan.",
+     "On 1 September 1939, the German army attacked Poland."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quân Đức tấn công Ba Lan, tháng 9 – 1939 (như Hình 4.1 SGK, tr. 18)",
+    "tim": "German invasion of Poland September 1939 photograph archive",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở (ví dụ Bundesarchiv, CC BY-SA), ghi nguồn; không dùng ảnh thương vong cận cảnh"
+   },
+   "hinh": "Ảnh tư liệu: quân Đức tấn công Ba Lan (9 – 1939)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ảnh tư liệu ghi lại cảnh quân Đức tấn công Ba Lan, tháng 9 năm 1939.",
+     "This archive photo shows German troops attacking Poland in September 1939."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 3 tháng 9 năm 1939, Anh và Pháp tuyên chiến với Đức. Chiến tranh thế giới bắt đầu.",
+     "On 3 September 1939, Britain and France declared war on Germany. The world war had begun."
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh thế giới thứ hai bùng nổ khi quân Đức tấn công nước nào?",
+    "lua_chon": [
+     "Pháp",
+     "Ba Lan",
+     "Liên Xô"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chiến tranh thế giới thứ hai bùng nổ khi quân Đức tấn công nước nào?",
+     "Pause! The Second World War broke out when Germany attacked which country?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Ba Lan, ngày 1 tháng 9 năm 1939!",
+     "The answer is B: Poland, on 1 September 1939!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-giai-doan-1",
+   "pha": "phap",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ tháng 4 đến tháng 7 năm 1940, quân Đức đánh chiếm Pháp và tấn công Anh.",
+     "From April to July 1940, German forces conquered France and attacked Britain."
+    ],
+    [
+     "Nhật Minh",
+     "Trên lược đồ, các mũi tấn công của quân Đức tràn qua Hà Lan, Bỉ, tiến vào Pháp, tới tận Boóc-đô.",
+     "On the map, German thrusts sweep through the Netherlands and Belgium into France, as far as Bordeaux."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-giai-doan-1",
+   "pha": "mua_he_1941",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến mùa hè năm 1941, quân Đức đã chiếm hầu hết các nước tư bản châu Âu.",
+     "By the summer of 1941, German forces had occupied most of Europe's capitalist countries."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-giai-doan-1",
+   "pha": "lien_xo",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 22 tháng 6 năm 1941, quân Đức tấn công Liên Xô trên dọc tuyến biên giới phía tây.",
+     "On 22 June 1941, German forces attacked the Soviet Union all along its western border."
+    ],
+    [
+     "Nhật Minh",
+     "Các mũi tiến công nhắm tới Lê-nin-grát, Mát-xcơ-va và Ki-ép. Đến tháng 10, quân Đức đã uy hiếp Thủ đô Mát-xcơ-va.",
+     "Their thrusts aimed at Leningrad, Moscow and Kiev. By October, German troops were threatening the capital, Moscow."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân Đức tấn công Liên Xô vào ngày nào?",
+    "lua_chon": [
+     "1 – 9 – 1939",
+     "22 – 6 – 1941",
+     "Tháng 12 – 1941"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Quân Đức tấn công Liên Xô vào ngày nào?",
+     "Quick test! On what date did Germany attack the Soviet Union?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 22 tháng 6 năm 1941!",
+     "The answer is B: 22 June 1941!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: căn cứ Trân Châu cảng của Mỹ bị quân Nhật Bản tấn công, tháng 12 – 1941",
+    "tim": "Pearl Harbor attack December 1941 US Navy photograph",
+    "yeu_cau": "ảnh tư liệu công khai (ảnh Hải quân Mỹ – phạm vi công cộng), ghi nguồn; không dùng ảnh thương vong cận cảnh"
+   },
+   "hinh": "Ảnh tư liệu: Trân Châu cảng bị tấn công (12 – 1941)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Thái Bình Dương, tháng 12 năm 1941, quân Nhật Bản bất ngờ tấn công căn cứ Trân Châu cảng của Mỹ, ở quần đảo Ha-oai.",
+     "In the Pacific, in December 1941, Japanese forces made a surprise attack on the US base at Pearl Harbor, in Hawaii."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ chính thức tham gia vào chiến tranh. Chiến tranh lan rộng ra toàn thế giới.",
+     "The United States officially entered the war. The war spread across the whole world."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    15
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "MẶT TRẬN ĐỒNG MINH CHỐNG PHÁT XÍT",
+   "y": [
+    "Thành lập: tháng 1 – 1942",
+    "Mục tiêu: chống phát xít",
+    "Ba trụ cột: Liên Xô, Mỹ, Anh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1942, Mặt trận Đồng minh chống phát xít được thành lập.",
+     "In January 1942, the Allied anti-fascist front was formed."
+    ],
+    [
+     "Nhật Minh",
+     "Mặt trận có ba trụ cột là Liên Xô, Mỹ và Anh.",
+     "Its three pillars were the Soviet Union, the United States and Britain."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ba trụ cột của Mặt trận Đồng minh chống phát xít là",
+    "lua_chon": [
+     "Liên Xô, Mỹ, Anh",
+     "Anh, Pháp, Mỹ",
+     "Liên Xô, Pháp, Ba Lan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nữa! Ba trụ cột của Mặt trận Đồng minh chống phát xít là những nước nào?",
+     "One more! Which three countries were the pillars of the Allied anti-fascist front?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Liên Xô, Mỹ và Anh!",
+     "The answer is A: the Soviet Union, the United States and Britain!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · GIAI ĐOẠN I (1939 – 1942)",
+   "moc": [
+    [
+     "1 – 9 – 1939",
+     "Đức tấn công Ba Lan"
+    ],
+    [
+     "3 – 9 – 1939",
+     "Anh, Pháp tuyên chiến với Đức"
+    ],
+    [
+     "4 – 7 – 1940",
+     "Đức đánh chiếm Pháp, tấn công Anh"
+    ],
+    [
+     "22 – 6 – 1941",
+     "Đức tấn công Liên Xô"
+    ],
+    [
+     "12 – 1941",
+     "Trân Châu cảng, Mỹ tham chiến"
+    ],
+    [
+     "1 – 1942",
+     "Mặt trận Đồng minh"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2,
+    3,
+    3
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 1 tháng 9 năm 1939, Đức tấn công Ba Lan. Ngày 3 tháng 9, Anh, Pháp tuyên chiến với Đức.",
+     "Recap! 1 September 1939: Germany attacks Poland. 3 September: Britain and France declare war on Germany."
+    ],
+    [
+     "Nhật Minh",
+     "Từ tháng 4 đến tháng 7 năm 1940, Đức đánh chiếm Pháp, tấn công Anh.",
+     "April to July 1940: Germany conquers France and attacks Britain."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 22 tháng 6 năm 1941, Đức tấn công Liên Xô.",
+     "22 June 1941: Germany attacks the Soviet Union."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1941, Trân Châu cảng, Mỹ tham chiến. Tháng 1 năm 1942, Mặt trận Đồng minh ra đời.",
+     "December 1941: Pearl Harbor, and the US enters the war. January 1942: the Allied front is born."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "1 – 9 – 1939: Đức tấn công Ba Lan, chiến tranh bùng nổ",
+    "Mùa hè 1941: Đức chiếm hầu hết các nước tư bản châu Âu",
+    "22 – 6 – 1941: Đức tấn công Liên Xô; tháng 10 uy hiếp Mát-xcơ-va",
+    "12 – 1941: Mỹ tham chiến; 1 – 1942: Mặt trận Đồng minh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ngày 1 tháng 9 năm 1939, Đức tấn công Ba Lan, chiến tranh bùng nổ.",
+     "Remember: 1 September 1939, Germany attacks Poland and the war begins."
+    ],
+    [
+     "Hân Hân",
+     "Mùa hè năm 1941, Đức chiếm hầu hết các nước tư bản châu Âu.",
+     "Summer 1941: Germany holds most of capitalist Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 22 tháng 6 năm 1941, Đức tấn công Liên Xô, đến tháng 10 thì uy hiếp Mát-xcơ-va.",
+     "22 June 1941: Germany attacks the USSR and threatens Moscow by October."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1941, Mỹ tham chiến. Tháng 1 năm 1942, Mặt trận Đồng minh được thành lập.",
+     "December 1941: the US joins the war. January 1942: the Allied front is formed."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện trường, Nhật Minh xoay quả địa cầu, Hân Hân giơ tay mời người xem bình luận; bản đồ châu Âu phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao sau sự kiện Trân Châu cảng, chiến tranh lan rộng ra toàn thế giới? Trả lời trong một câu ở phần bình luận nhé!",
+     "Your challenge: why did the war spread worldwide after Pearl Harbor? Answer in one sentence in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Giai đoạn I của Chiến tranh thế giới thứ hai diễn ra trong khoảng thời gian nào?",
+   "dap_an": [
+    "1 – 9 – 1939 đến 11 – 1942",
+    "11 – 1942 đến 8 – 1945",
+    "22 – 6 – 1941 đến 5 – 1945",
+    "3 – 9 – 1939 đến 12 – 1941"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Khối phát xít trước Chiến tranh thế giới thứ hai gồm những nước nào?",
+   "dap_an": [
+    "Anh, Pháp, Mỹ",
+    "Đức, I-ta-li-a, Nhật Bản",
+    "Đức, Liên Xô, I-ta-li-a",
+    "Nhật Bản, Anh, Đức"
+   ],
+   "dung": 1,
+   "trang": 18
+  },
+  {
+   "hoi": "Sự kiện nào khiến Mỹ chính thức tham gia Chiến tranh thế giới thứ hai?",
+   "dap_an": [
+    "Đức tấn công Ba Lan",
+    "Đức đánh chiếm Pháp",
+    "Nhật Bản tấn công căn cứ Trân Châu cảng",
+    "Đức tấn công Liên Xô"
+   ],
+   "dung": 2,
+   "trang": 19
+  },
+  {
+   "hoi": "Đến tháng 10 – 1941, quân Đức uy hiếp thành phố nào?",
+   "dap_an": [
+    "Luân Đôn",
+    "Mát-xcơ-va",
+    "Pa-ri",
+    "Vác-sa-va"
+   ],
+   "dung": 1,
+   "trang": 19
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 18–19 (mục 1 Nguyên nhân; Giai đoạn I; Hình 4.1, Hình 4.3) và tr. 15 (Trân Châu cảng ở quần đảo Ha-oai). Kiến thức chốt của danh mục đúng SGK; bổ sung 3 – 9 – 1939 Anh, Pháp tuyên chiến và mốc 4 – 7 – 1940, mùa hè 1941. Sa bàn 'ctgt2-giai-doan-1' vẽ lại, giản lược theo Hình 4.3 (hướng tấn công của Đức tới Ba Lan, Hà Lan, Bỉ, Pháp, Nam Tư, Hy Lạp, Lê-nin-grát, Mát-xcơ-va, Ki-ép), không vẽ biên giới quốc gia. Mũi tên vượt eo biển sang Anh minh hoạ ý 'tấn công Anh' của SGK. Không có lời thoại dựng cho nhân vật lịch sử; chỉ dùng ảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

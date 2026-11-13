@@ -1,0 +1,383 @@
+{
+ "ma": "L6-B18-02",
+ "ten_tap": "Dương Đình Nghệ và cuộc chiến bảo vệ nền tự chủ",
+ "ten_tap_en": "Dương Đình Nghệ Defends Self-Rule",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X",
+  "trang": [
+   81,
+   82,
+   83
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "duong-dinh-nghe",
+  "hao-kiet",
+  "quan-nam-han"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng khi Nam Hán kéo sang, hào hùng (trống trận) khi tụ nghĩa và vây thành, tự hào ở đoạn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; sa bàn vẽ lại, giản lược theo Hình 4 SGK tr. 82 (có ô bản đồ nhỏ thể hiện quần đảo Hoàng Sa, Trường Sa); không cận cảnh thương vong. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 18, tr. 81–83.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ sông Mã ở Hàm Rồng (Thanh Hoá) ngày nay, phía sau là núi đá xanh và dòng sông rộng, nắng chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở Hàm Rồng, tỉnh Thanh Hoá. Hơn một nghìn năm trước, nơi đây có làng Giàng, nơi hào kiệt khắp nơi kéo về tụ nghĩa.",
+     "We're at Hàm Rồng in Thanh Hoá. Over a thousand years ago, this was Giàng village, where heroes gathered from everywhere."
+    ],
+    [
+     "Nhật Minh",
+     "Tụ nghĩa để làm gì? Quay ngược thời gian thôi!",
+     "Gathered for what? Let's go back in time!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 930",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-nam-han"
+   ],
+   "hinh": "Đoàn quân Nam Hán mặc giáp, cờ không chữ, kéo qua cửa ải biên giới vào đồng bằng; dân làng hoảng hốt nhìn theo (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ X, họ Khúc đã nổi dậy, xây dựng chính quyền tự chủ của người Việt.",
+     "In the early 10th century, the Khúc family rose up and built a self-governing Việt regime."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng mùa thu năm 930, quân Nam Hán đánh sang nước ta, lập lại quyền cai trị. Nam Hán là một nước nhỏ ở Trung Quốc, cai trị vùng đất sát biên giới nước ta.",
+     "But in autumn 930, the Southern Han invaded and reimposed their rule. Southern Han was a small Chinese state ruling the lands next to our border."
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "duong-dinh-nghe-931",
+   "pha": "nam_han",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành Đại La lại trở thành trị sở của chính quyền đô hộ.",
+     "Đại La citadel became the seat of foreign rule once more."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "duong-dinh-nghe",
+    "hao-kiet"
+   ],
+   "hinh": "Sân đình làng Giàng (Thanh Hoá) thời xưa: Dương Đình Nghệ, võ tướng trung niên râu quai nón, mặc giáp đứng trên thềm, giơ cao thanh kiếm; hào kiệt bốn phương mang giáo, cung kéo về đông nghịt, cờ (không chữ) tung bay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 931, Dương Đình Nghệ, thuộc tướng cũ của họ Khúc, đứng ra tập hợp lực lượng.",
+     "In 931, Dương Đình Nghệ, a former officer of the Khúc, rallied the people."
+    ],
+    [
+     "Dương Đình Nghệ",
+     "Hỡi hào kiệt bốn phương! Hãy cùng ta đánh đuổi quân Nam Hán, giữ lấy nền tự chủ!",
+     "Heroes from every land! Join me to drive out the Southern Han and keep our self-rule!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "duong-dinh-nghe-931",
+   "pha": "tu_nghia",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dưới sự tập hợp của Dương Đình Nghệ, hào kiệt khắp nơi kéo về làng Giàng, tỉnh Thanh Hoá, tụ nghĩa.",
+     "Answering Dương Đình Nghệ's call, heroes from all over gathered at Giàng village in Thanh Hoá."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "duong-dinh-nghe-931",
+   "pha": "dai_la",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ làng Giàng, Dương Đình Nghệ kéo quân từ Thanh Hoá ra Bắc, vây chiếm thành Đại La!",
+     "From Giàng, Dương Đình Nghệ marched north out of Thanh Hoá and besieged and took Đại La!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hào kiệt khắp nơi kéo về đâu tụ nghĩa dưới sự tập hợp của Dương Đình Nghệ?",
+    "lua_chon": [
+     "Làng Giàng (Thanh Hoá)",
+     "Đường Lâm (Hà Nội)",
+     "Mê Linh (Hà Nội)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hào kiệt khắp nơi kéo về đâu tụ nghĩa?",
+     "Pause! Where did the heroes gather?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: làng Giàng, tỉnh Thanh Hoá!",
+     "The answer is A: Giàng village, Thanh Hoá!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "duong-dinh-nghe",
+    "quan-nam-han"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp trên một ngọn đồi thấp, nhìn xuống con đường ven sông: đoàn quân Nam Hán tiếp viện đang tiến tới thì bị quân của Dương Đình Nghệ từ hai bên lao ra chặn đánh (viễn cảnh, không cận thương vong)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn kìa, quân Nam Hán cử quân tiếp viện sang, định đánh chiếm lại thành Đại La!",
+     "Look, the Southern Han sent reinforcements to retake Đại La!"
+    ],
+    [
+     "Hân Hân",
+     "Nhưng quân của Dương Đình Nghệ đã chặn đánh quân tiếp viện!",
+     "But Dương Đình Nghệ's army intercepted them!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "duong-dinh-nghe-931",
+   "pha": "tiep_vien",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bị chặn đánh, quân Nam Hán phải rút chạy. Cuộc kháng chiến thắng lợi!",
+     "Blocked, the Southern Han had to flee. The resistance was victorious!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "duong-dinh-nghe-931",
+   "pha": "thang_loi",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Hân Hân",
+     "Dương Đình Nghệ tự xưng là Tiết độ sứ, tiếp tục xây dựng nền tự chủ của nước nhà.",
+     "Dương Đình Nghệ named himself military governor and went on building the nation's self-rule."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kháng chiến thắng lợi, Dương Đình Nghệ tự xưng là gì?",
+    "lua_chon": [
+     "Tiết độ sứ",
+     "Hoàng đế",
+     "Thái thú"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Kháng chiến thắng lợi, Dương Đình Nghệ tự xưng là gì?",
+     "Quick test! After the victory, what title did Dương Đình Nghệ take?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Tiết độ sứ!",
+     "The answer is A: military governor, Tiết độ sứ!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Mùa thu năm 930: quân Nam Hán đánh sang, lập lại quyền cai trị",
+    "Năm 931: hào kiệt tụ nghĩa ở làng Giàng (Thanh Hoá)",
+    "Vây chiếm thành Đại La; chặn đánh quân tiếp viện, Nam Hán rút chạy",
+    "Dương Đình Nghệ tự xưng Tiết độ sứ, tiếp tục xây dựng nền tự chủ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: mùa thu năm 930, quân Nam Hán đánh sang, lập lại quyền cai trị.",
+     "Remember: in autumn 930, the Southern Han invaded and reimposed their rule."
+    ],
+    [
+     "Hân Hân",
+     "Năm 931, hào kiệt khắp nơi về làng Giàng tụ nghĩa dưới sự tập hợp của Dương Đình Nghệ.",
+     "In 931, heroes gathered at Giàng under Dương Đình Nghệ."
+    ],
+    [
+     "Nhật Minh",
+     "Quân ta vây chiếm Đại La, chặn đánh quân tiếp viện, buộc quân Nam Hán rút chạy.",
+     "Our army took Đại La, blocked the reinforcements and forced the Southern Han to flee."
+    ],
+    [
+     "Hân Hân",
+     "Dương Đình Nghệ tự xưng Tiết độ sứ, tiếp tục xây dựng nền tự chủ.",
+     "Dương Đình Nghệ became military governor and kept building self-rule."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ sông Mã ở Hàm Rồng lúc hoàng hôn, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bật mí nhé: Ngô Quyền, người lập nên chiến thắng Bạch Đằng sau này, chính là thuộc tướng tài năng và con rể của Dương Đình Nghệ đấy!",
+     "A little secret: Ngô Quyền, who would later win at Bạch Đằng, was Dương Đình Nghệ's talented officer and son-in-law!"
+    ],
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Dương Đình Nghệ đã có công lao gì đối với lịch sử dân tộc? Bình luận nhé!",
+     "Your challenge: what did Dương Đình Nghệ contribute to our nation's history? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    83,
+    85
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Quân Nam Hán đánh sang nước ta, lập lại quyền cai trị vào thời gian nào?",
+   "dap_an": [
+    "Mùa thu năm 930",
+    "Năm 938",
+    "Năm 905",
+    "Năm 544"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Dương Đình Nghệ vốn là",
+   "dap_an": [
+    "Thuộc tướng cũ của họ Khúc",
+    "Con trai Khúc Thừa Dụ",
+    "Tướng nhà Nam Hán",
+    "Thứ sử nhà Đường"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Từ làng Giàng, Dương Đình Nghệ kéo quân vây chiếm thành nào?",
+   "dap_an": [
+    "Thành Đại La",
+    "Thành Cổ Loa",
+    "Thành Luy Lâu",
+    "Thành Vạn An"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Nam Hán là",
+   "dap_an": [
+    "Một nước nhỏ ở Trung Quốc, cai trị vùng đất sát biên giới nước ta",
+    "Một quốc gia ở Đông Nam Á hải đảo",
+    "Một vương quốc ở Ấn Độ",
+    "Một thành bang Hy Lạp"
+   ],
+   "dung": 0,
+   "trang": 82
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 81 (mục 1a – họ Khúc xây dựng chính quyền tự chủ), tr. 82 (mục 1b, ô Kết nối với địa lí về Nam Hán, Hình 4 lược đồ và sơ đồ 5 bước diễn biến – đối chiếu ảnh trang), tr. 83 (Ngô Quyền là thuộc tướng, con rể Dương Đình Nghệ). Kiến thức chốt của danh mục khớp SGK. Sa bàn mới: pipeline/maps/specs/duong-dinh-nghe-931.json (sinh bằng tools/make_spec_duong_dinh_nghe.py; nền Natural Earth, có ô bản đồ nhỏ thể hiện Hoàng Sa, Trường Sa như lược đồ SGK). Địa danh hiện tại 'Hàm Rồng – Thanh Hoá' lấy từ chú thích làng Giàng trên lược đồ SGK. Lời Dương Đình Nghệ (cảnh 5) là lời tái hiện.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

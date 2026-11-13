@@ -1,0 +1,498 @@
+{
+ "ma": "L9-B15-02",
+ "ten_tap": "Kế hoạch Na-va và chiến cuộc Đông - Xuân",
+ "ten_tap_en": "The Navarre Plan and the Winter–Spring Offensive",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 15. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+  "trang": [
+   75,
+   76
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "bo-tong-tu-lenh-quan-doi-nhan-dan-viet-nam",
+  "quan-doi-thuc-dan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, mưu lược như ván cờ, hào hùng dần khi địch phải phân tán; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 15, tr. 75–76.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học, đứng hai bên một tấm bản đồ khu vực Đông Dương lớn trải trên bàn, trên bản đồ cắm vài lá cờ nhỏ bằng giấy; ánh đèn ấm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa năm 1953, thực dân Pháp và can thiệp Mỹ đặt nhiều hi vọng vào một kế hoạch mới: Kế hoạch Na-va.",
+     "In mid-1953, the French colonialists and the intervening Americans pinned great hopes on a new plan: the Navarre Plan."
+    ],
+    [
+     "Nhật Minh",
+     "Kế hoạch ấy bị phá sản bước đầu như thế nào? Cùng xem “ván cờ” chiến lược Đông – Xuân nhé!",
+     "How was that plan first defeated? Let's look at the strategic 'chess game' of Winter–Spring!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1953",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "SAU CHIẾN THẮNG BIÊN GIỚI 1950",
+   "y": [
+    "12 – 1950: Mỹ kí với Pháp Hiệp định phòng thủ chung Đông Dương",
+    "Ta thắng ở Hoà Bình (1951 – 1952), Tây Bắc (10 – 1952), Thượng Lào (4 – 1953)",
+    "Ta giữ vững quyền chủ động trên chiến trường"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1950, Mỹ kí với Pháp Hiệp định phòng thủ chung Đông Dương, viện trợ quân sự, kinh tế để giúp Pháp giành lại quyền chủ động chiến lược.",
+     "In December 1950, the US signed a joint Indochina defence agreement with France, giving military and economic aid to help France regain the strategic initiative."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng quân ta liên tiếp thắng lợi trong các chiến dịch Hoà Bình, Tây Bắc, Thượng Lào, giữ vững quyền chủ động trên chiến trường.",
+     "But our forces kept winning, in the Hoà Bình, Northwest and Upper Laos campaigns, and held on to the initiative."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "na_va",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ giữa năm 1953, Pháp và can thiệp Mỹ triển khai Kế hoạch Na-va, hi vọng giành thắng lợi quân sự quyết định trong vòng 18 tháng để “kết thúc chiến tranh trong danh dự”.",
+     "From mid-1953, France and the intervening US launched the Navarre Plan, hoping for a decisive military victory within 18 months to 'end the war with honour'."
+    ],
+    [
+     "Hân Hân",
+     "Điểm mấu chốt: tập trung lực lượng cơ động chiến lược mạnh ở đồng bằng Bắc Bộ, lúc cao điểm lên đến 44 tiểu đoàn.",
+     "Its key point: concentrating a strong strategic mobile force in the Red River Delta, up to 44 battalions at its peak."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kế hoạch Na-va tập trung lực lượng cơ động chiến lược mạnh ở đâu?",
+    "lua_chon": [
+     "Đồng bằng Bắc Bộ",
+     "Tây Nguyên",
+     "Thượng Lào"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Kế hoạch Na-va tập trung lực lượng cơ động chiến lược mạnh ở đâu?",
+     "Pause! Where did the Navarre Plan concentrate its strong mobile force?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đồng bằng Bắc Bộ, lúc cao điểm 44 tiểu đoàn!",
+     "The answer is A: the Red River Delta, up to 44 battalions!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾ HOẠCH TÁC CHIẾN ĐÔNG – XUÂN 1953 – 1954",
+   "y": [
+    "Tiến công vào nơi quan trọng về chiến lược mà địch tương đối yếu",
+    "Tiêu diệt một bộ phận sinh lực địch, giải phóng đất đai",
+    "Buộc địch phải phân tán lực lượng đối phó"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bộ Chính trị đề ra Kế hoạch tác chiến Đông – Xuân 1953 – 1954: tập trung lực lượng tiến công vào những địa bàn quan trọng về chiến lược mà quân Pháp tương đối yếu,",
+     "The Politburo drew up the 1953–1954 Winter–Spring battle plan: strike at strategically important areas where the French were relatively weak,"
+    ],
+    [
+     "Nhật Minh",
+     "nhằm tiêu diệt một bộ phận sinh lực địch, giải phóng đất đai,",
+     "to destroy part of the enemy's forces and liberate land,"
+    ],
+    [
+     "Hân Hân",
+     "và buộc chúng phải phân tán lực lượng để đối phó.",
+     "and to force them to scatter their forces in response."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "tay_bac",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 20 tháng 11 năm 1953, Pháp cho quân nhảy dù chiếm Điện Biên Phủ, nhằm khống chế Tây Bắc và Thượng Lào.",
+     "On 20 November 1953, the French dropped paratroopers to seize Điện Biên Phủ, aiming to control the Northwest and Upper Laos."
+    ],
+    [
+     "Hân Hân",
+     "Đầu tháng 12 năm 1953, bộ đội chủ lực tiến công Tây Bắc, giải phóng Lai Châu, trừ Điện Biên Phủ, buộc Pháp phải tăng cường binh lực ở đây.",
+     "In early December 1953, our main forces attacked the Northwest and liberated Lai Châu, except Điện Biên Phủ, forcing the French to reinforce it."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "trung_lao",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối năm 1953, ta tiến công Trung Lào, giải phóng tỉnh Thà Khẹt, uy hiếp Xê-nô.",
+     "In late 1953, we attacked Central Laos, liberating Thà Khẹt province and threatening Seno."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuối năm 1953, quân ta tiến công Trung Lào và uy hiếp nơi nào?",
+    "lua_chon": [
+     "Xê-nô",
+     "Luông Pha-bang",
+     "Plây-ku"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Khi tiến công Trung Lào, quân ta uy hiếp nơi nào?",
+     "Quick test! Attacking Central Laos, which place did we threaten?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Xê-nô!",
+     "The answer is A: Seno!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "thuong_lao",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1954, ta mở chiến dịch ở Thượng Lào, giải phóng Phong Xa-lì,",
+     "In January 1954, we opened a campaign in Upper Laos and liberated Phongsaly,"
+    ],
+    [
+     "Nhật Minh",
+     "buộc Pháp phải tăng viện binh cho Luông Pha-bang và Mường Sài.",
+     "forcing the French to send reinforcements to Luang Prabang and Muang Sai."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "tay_nguyen",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu tháng 2 năm 1954, quân ta tiến công địch ở Bắc Tây Nguyên, giải phóng Kon Tum, nay thuộc tỉnh Quảng Ngãi,",
+     "In early February 1954, our forces attacked the enemy in the northern Central Highlands, liberating Kon Tum, now part of Quảng Ngãi province,"
+    ],
+    [
+     "Hân Hân",
+     "uy hiếp Plây-ku, tỉnh Gia Lai.",
+     "and threatening Pleiku in Gia Lai province."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "dong-xuan-1953",
+   "pha": "phan_tan",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước các đòn tiến công liên tiếp, quân Pháp buộc phải phân tán lực lượng thành năm nơi tập trung quân: đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang và Plây-ku.",
+     "Under these repeated blows, the French had to split into five concentrations: the Red River Delta, Điện Biên Phủ, Seno, Luang Prabang and Pleiku."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc Tiến công chiến lược Đông – Xuân 1953 – 1954 đã làm phá sản bước đầu Kế hoạch Na-va của Pháp – Mỹ!",
+     "The 1953–1954 Winter–Spring strategic offensive brought about the initial collapse of the French–American Navarre Plan!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nơi nào KHÔNG thuộc năm nơi tập trung quân của Pháp trong Đông – Xuân 1953 – 1954?",
+    "lua_chon": [
+     "Điện Biên Phủ",
+     "Xê-nô",
+     "Thà Khẹt"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Nơi nào không thuộc năm nơi tập trung quân của Pháp?",
+     "One more! Which place was not one of the five French concentrations?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Thà Khẹt, nơi quân ta đã giải phóng!",
+     "The answer is C: Thà Khẹt, which our forces liberated!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐÔNG – XUÂN 1953 – 1954",
+   "moc": [
+    [
+     "20 – 11 – 1953",
+     "Pháp nhảy dù chiếm Điện Biên Phủ"
+    ],
+    [
+     "Đầu 12 – 1953",
+     "Tây Bắc: giải phóng Lai Châu"
+    ],
+    [
+     "Cuối 1953",
+     "Trung Lào: giải phóng Thà Khẹt"
+    ],
+    [
+     "1 – 1954",
+     "Thượng Lào: giải phóng Phong Xa-lì"
+    ],
+    [
+     "Đầu 2 – 1954",
+     "Bắc Tây Nguyên: giải phóng Kon Tum"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 20 tháng 11 năm 1953, Pháp nhảy dù chiếm Điện Biên Phủ.",
+     "Recap! 20 November 1953: the French parachute into Điện Biên Phủ."
+    ],
+    [
+     "Nhật Minh",
+     "Đầu tháng 12: ta giải phóng Lai Châu. Cuối năm 1953: giải phóng Thà Khẹt.",
+     "Early December: we free Lai Châu. Late 1953: Thà Khẹt."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1954: giải phóng Phong Xa-lì. Đầu tháng 2: giải phóng Kon Tum.",
+     "January 1954: Phongsaly. Early February: Kon Tum."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Kế hoạch Na-va: thắng lợi quyết định trong 18 tháng; mấu chốt ở đồng bằng Bắc Bộ",
+    "Ta tiến công nơi quan trọng mà địch tương đối yếu, buộc địch phân tán",
+    "Pháp phân tán thành 5 nơi: đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang, Plây-ku",
+    "Đông – Xuân 1953 – 1954: Kế hoạch Na-va phá sản bước đầu"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Kế hoạch Na-va mong thắng lợi quyết định trong 18 tháng, với mấu chốt ở đồng bằng Bắc Bộ.",
+     "Remember: the Navarre Plan sought a decisive win within 18 months, centred on the Red River Delta."
+    ],
+    [
+     "Hân Hân",
+     "Ta tiến công vào nơi quan trọng mà địch tương đối yếu, buộc địch phân tán.",
+     "We struck where the enemy was weak but the stakes were high, forcing them to scatter."
+    ],
+    [
+     "Nhật Minh",
+     "Pháp phải phân tán thành năm nơi tập trung quân.",
+     "The French had to split into five concentrations."
+    ],
+    [
+     "Hân Hân",
+     "Và Kế hoạch Na-va bị phá sản bước đầu.",
+     "And the Navarre Plan suffered its first collapse."
+    ]
+   ],
+   "nguon_trang": [
+    75,
+    76
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên tấm bản đồ Đông Dương, Nhật Minh đặt ngón tay lên Điện Biên Phủ, nhìn về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: dựa vào diễn biến tháng 11 và tháng 12 năm 1953, hãy giải thích vì sao Điện Biên Phủ trở thành một nơi Pháp tập trung quân. Bình luận nhé!",
+     "Your challenge: using the events of November and December 1953, explain why Điện Biên Phủ became a French troop concentration. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kế hoạch Na-va hi vọng giành thắng lợi quân sự quyết định trong vòng bao lâu?",
+   "dap_an": [
+    "6 tháng",
+    "12 tháng",
+    "18 tháng",
+    "24 tháng"
+   ],
+   "dung": 2,
+   "trang": 75
+  },
+  {
+   "hoi": "Phương hướng chiến lược của ta trong Đông – Xuân 1953 – 1954 là tiến công vào",
+   "dap_an": [
+    "Đồng bằng Bắc Bộ, nơi địch mạnh nhất",
+    "Những địa bàn quan trọng về chiến lược mà địch tương đối yếu",
+    "Thủ đô Hà Nội",
+    "Sài Gòn"
+   ],
+   "dung": 1,
+   "trang": 75
+  },
+  {
+   "hoi": "Tháng 1 – 1954, quân ta giải phóng Phong Xa-lì, buộc Pháp tăng viện cho",
+   "dap_an": [
+    "Xê-nô",
+    "Luông Pha-bang và Mường Sài",
+    "Plây-ku",
+    "Điện Biên Phủ và Lai Châu"
+   ],
+   "dung": 1,
+   "trang": 76
+  },
+  {
+   "hoi": "Kết quả của cuộc Tiến công chiến lược Đông – Xuân 1953 – 1954 là",
+   "dap_an": [
+    "Kết thúc chiến tranh",
+    "Làm phá sản bước đầu Kế hoạch Na-va",
+    "Giải phóng Hà Nội",
+    "Pháp tập trung toàn bộ quân ở Bắc Bộ"
+   ],
+   "dung": 1,
+   "trang": 76
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 75–76 và ảnh trang 76 (kiểm tra cách viết: Thà Khẹt, Phong Xa-lì, Xê-nô, Luông Pha-bang, Mường Sài; Kon Tum nay thuộc tỉnh Quảng Ngãi, Plây-ku tỉnh Gia Lai theo SGK). Đã chỉnh kiến thức chốt của danh mục: SGK viết Kế hoạch Na-va 'hi vọng giành thắng lợi quân sự quyết định trong vòng 18 tháng để kết thúc chiến tranh trong danh dự' (không phải 'xoay chuyển cục diện trong 18 tháng'). SGK không có lược đồ riêng cho Đông – Xuân: sa bàn 'dong-xuan-1953' là bản đồ định vị vẽ bằng code, chỉ ghi địa danh, mốc, hướng tiến công có trong SGK; toạ độ gần đúng; có Hoàng Sa, Trường Sa. Không dùng Hình 15.3 (ảnh có lãnh tụ); không có lời thoại dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

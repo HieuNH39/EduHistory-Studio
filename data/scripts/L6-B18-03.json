@@ -1,0 +1,380 @@
+{
+ "ma": "L6-B18-03",
+ "ten_tap": "Thiên tài quân sự Ngô Quyền",
+ "ten_tap_en": "Ngô Quyền, Military Genius",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X",
+  "trang": [
+   80,
+   83,
+   85
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ngo-quyen",
+  "duong-dinh-nghe",
+  "quan-ngo-quyen",
+  "hoang-thao"
+ ],
+ "nhac": {
+  "tam_trang": "trầm hùng, suy tính ở đoạn lập kế hoạch, hào hùng ở đoạn kết",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; dáng vẻ Ngô Quyền vẽ theo mô tả sử cũ trong SGK và tượng đài (Hình 5); sa bàn dùng lại pipeline/maps/specs/bach-dang-938.json (vẽ lại theo Hình 7 SGK). Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 18, tr. 80, 83, 85.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa con ngõ cổ ở Đường Lâm (Sơn Tây, Hà Nội) ngày nay: tường đá ong nâu đỏ, cổng làng rêu phong, giếng nước, cây đa",
+   "loi": [
+    [
+     "Hân Hân",
+     "“Một xin rửa sạch nước thù, hai xin đem lại nghiệp xưa họ Hùng.” Đó là lời thề của Hai Bà Trưng mùa xuân năm 40.",
+     "'First, to wash away the enemy's stain; second, to restore the Hùng Kings' legacy.' That was the Trưng Sisters' oath in spring of the year 40."
+    ],
+    [
+     "Nhật Minh",
+     "Gần 900 năm sau, lời thề ấy mới được thực hiện trọn vẹn, bởi một người con của đất Đường Lâm này: Ngô Quyền!",
+     "Nearly 900 years later, the oath was finally fulfilled, by a son of this very land of Đường Lâm: Ngô Quyền!"
+    ]
+   ],
+   "nguon_trang": [
+    80,
+    83
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ X",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen"
+   ],
+   "hinh": "Hai cảnh nối tiếp ở Đường Lâm xưa: cậu bé Ngô Quyền khôi ngô, ánh mắt sáng ngời; rồi chàng trai Ngô Quyền vạm vỡ, bước đi oai vệ, một tay nhấc bổng chiếc vạc đồng lớn trước sự trầm trồ của dân làng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngô Quyền quê ở Đường Lâm, nay thuộc phường Sơn Tây, thành phố Hà Nội, xuất thân trong một gia đình quý tộc.",
+     "Ngô Quyền came from Đường Lâm, now in Sơn Tây ward, Hà Nội, born into a noble family."
+    ],
+    [
+     "Hân Hân",
+     "Sử cũ tả ông thuở nhỏ có “dáng vẻ khôi ngô, mặt sáng như chớp, có trí dũng”. Lớn lên, ông “dáng đi như hổ, sức có thể nâng được vạc”!",
+     "Old records say that as a boy he was 'handsome, his face bright as lightning, wise and brave'. As a man, he 'walked like a tiger and could lift a cauldron'!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "duong-dinh-nghe"
+   ],
+   "hinh": "Trong doanh trại, Dương Đình Nghệ (võ tướng trung niên) đặt tay lên vai Ngô Quyền (võ tướng trẻ mặc giáp), ánh mắt tin cậy; các tướng khác đứng quanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ông là thuộc tướng tài năng, và cũng là con rể của Dương Đình Nghệ.",
+     "He was Dương Đình Nghệ's talented officer, and also his son-in-law."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngô Quyền quê ở đâu?",
+    "lua_chon": [
+     "Đường Lâm (Sơn Tây, Hà Nội)",
+     "Mê Linh (Hà Nội)",
+     "Làng Giàng (Thanh Hoá)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ngô Quyền quê ở đâu?",
+     "Pause! Where was Ngô Quyền from?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Đường Lâm, nay thuộc phường Sơn Tây, Hà Nội!",
+     "The answer is A: Đường Lâm, now Sơn Tây ward, Hà Nội!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "hoang-thao",
+    "ngo-quyen"
+   ],
+   "hinh": "Hai cảnh song song: đoàn chiến thuyền lớn của quân Nam Hán ồ ạt vượt biển, Hoằng Tháo đứng ở mũi thuyền; và Ngô Quyền trong lều chỉ huy dưới ánh đuốc, cúi trên tấm bản đồ vẽ tay vùng cửa sông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 938, quân Nam Hán do Hoằng Tháo làm chủ tướng, từ Quảng Đông theo đường biển ồ ạt tiến sang xâm lược nước ta.",
+     "In 938, the Southern Han under Hoằng Tháo sailed from Guangdong in force to invade our land."
+    ],
+    [
+     "Nhật Minh",
+     "Trước tình hình vận nước lâm nguy, Ngô Quyền gấp rút chuẩn bị kế hoạch. Ông chọn vùng cửa sông Bạch Đằng làm trận địa.",
+     "With the nation in peril, Ngô Quyền rushed to make a plan. He chose the Bạch Đằng estuary as the battlefield."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-ngo-quyen"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một gò đất ven cửa sông Bạch Đằng lúc nước ròng: bãi bùn lộ ra, xa xa nhiều cồn bãi, đầm lầy lau sậy; vạch nước cũ in trên bờ cao hơn hẳn mặt nước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn vạch nước trên bờ kìa! Mực nước vùng cửa sông lúc triều cao nhất và thấp nhất chênh nhau tới 2 đến 3 mét.",
+     "Look at the water mark on the bank! Between highest and lowest tide, the level changes by 2 to 3 metres."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là con đường thuỷ tốt nhất để vào nước ta, xung quanh lại nhiều cồn gò, bãi, đầm lầy để giấu quân thuỷ, bộ.",
+     "It's the best waterway into our land, with mounds, flats and marshes all around to hide troops."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-ngo-quyen"
+   ],
+   "hinh": "Ngô Quyền đứng trên bờ chỉ tay ra lòng sông; binh sĩ khiêng những cây cọc gỗ lớn vạt nhọn, đầu bịt sắt sáng loáng, đóng xuống lòng sông lúc nước ròng (vẽ theo Hình 6 SGK)",
+   "loi": [
+    [
+     "Ngô Quyền",
+     "Đóng cọc lớn vạt nhọn, đầu bịt sắt, ngầm trước cửa biển. Thuyền giặc theo nước triều lên vào trong hàng cọc, ta sẽ dễ bề chế ngự!",
+     "Drive big sharpened stakes, tipped with iron, hidden at the river mouth. When enemy ships ride the rising tide into them, we'll have them at our mercy!"
+    ],
+    [
+     "Hân Hân",
+     "Một kế hoạch dựa vào chính quy luật thuỷ triều của dòng sông!",
+     "A plan built on the river's own tides!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "trien_khai",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bãi cọc ngầm được đóng ở vùng cửa sông. Hai bên bờ, quân mai phục ẩn mình; thuyền chiến của ta nấp sẵn chờ lệnh.",
+     "The hidden stakes were set at the river mouth. Troops lay in ambush on both banks; our warboats waited for the signal."
+    ],
+    [
+     "Hân Hân",
+     "Khi nước triều rút, cọc nhô lên, thuyền giặc sẽ không còn đường thoát.",
+     "When the tide ebbed and the stakes rose, the enemy ships would have no way out."
+    ]
+   ],
+   "nguon_trang": [
+    83,
+    84
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Ngô Quyền chọn sông Bạch Đằng làm trận địa?",
+    "lua_chon": [
+     "Mực nước triều chênh 2 – 3 m, nhiều cồn gò, bãi, đầm lầy",
+     "Sông cạn, không có thuỷ triều",
+     "Gần kinh đô của Nam Hán"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao Ngô Quyền chọn sông Bạch Đằng làm trận địa?",
+     "Quick test! Why did Ngô Quyền choose the Bạch Đằng River?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: mực nước triều chênh 2 đến 3 mét, lại có nhiều cồn gò, bãi, đầm lầy!",
+     "The answer is A: a 2-to-3-metre tidal range, plus many mounds, flats and marshes!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-ngo-quyen"
+   ],
+   "hinh": "Bình minh trên sông Bạch Đằng sau trận đánh: Ngô Quyền đứng trên mũi thuyền chiến, quân sĩ giương cờ (không chữ) reo mừng; mặt sông yên ả, nắng vàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kế hoạch ấy đã làm nên chiến thắng Bạch Đằng năm 938, chấm dứt vĩnh viễn thời kì Bắc thuộc,",
+     "That plan won the Battle of Bạch Đằng in 938, ending northern rule forever,"
+    ],
+    [
+     "Hân Hân",
+     "và mở ra kỉ nguyên độc lập, tự chủ lâu dài cho dân tộc!",
+     "and opening a long era of independence for our nation!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Ngô Quyền: quê Đường Lâm, có trí dũng; thuộc tướng, con rể Dương Đình Nghệ",
+    "Chọn cửa sông Bạch Đằng: thuỷ triều chênh 2 – 3 m, nhiều cồn bãi, đầm lầy",
+    "Bãi cọc lớn vạt nhọn, đầu bịt sắt + mai phục → chiến thắng năm 938"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Ngô Quyền quê Đường Lâm, có trí dũng, là thuộc tướng và con rể Dương Đình Nghệ.",
+     "Remember: Ngô Quyền, from Đường Lâm, wise and brave, was Dương Đình Nghệ's officer and son-in-law."
+    ],
+    [
+     "Hân Hân",
+     "Ông chọn cửa sông Bạch Đằng vì thuỷ triều chênh 2 đến 3 mét, nhiều cồn bãi, đầm lầy.",
+     "He chose the Bạch Đằng estuary for its 2-to-3-metre tides, mounds and marshes."
+    ],
+    [
+     "Nhật Minh",
+     "Bãi cọc ngầm đầu bịt sắt cùng quân mai phục đã làm nên chiến thắng năm 938.",
+     "Iron-tipped hidden stakes and ambushes won the victory of 938."
+    ]
+   ],
+   "nguon_trang": [
+    83,
+    85
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng bên cổng làng cổ Đường Lâm lúc chiều, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, nét độc đáo nhất trong cách tổ chức đánh giặc của Ngô Quyền là gì? Bình luận nhé, rồi xem tập “Chiến thắng Bạch Đằng” để kiểm chứng!",
+     "Your challenge: what was most original about how Ngô Quyền organised the fight? Comment, then watch our Bạch Đằng episode to check!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngô Quyền có quan hệ thế nào với Dương Đình Nghệ?",
+   "dap_an": [
+    "Là thuộc tướng và con rể",
+    "Là con trai",
+    "Là thầy dạy võ",
+    "Là tướng của Nam Hán"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Năm 938, quân Nam Hán do ai làm chủ tướng sang xâm lược nước ta?",
+   "dap_an": [
+    "Tô Định",
+    "Hoằng Tháo",
+    "Mã Viện",
+    "Lưu Cung"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Mực nước vùng cửa sông Bạch Đằng lúc triều cao nhất và thấp nhất chênh nhau khoảng",
+   "dap_an": [
+    "2 – 3 m",
+    "10 – 12 m",
+    "0,5 m",
+    "20 m"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Ý nghĩa của chiến thắng Bạch Đằng năm 938 là",
+   "dap_an": [
+    "Chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ lâu dài",
+    "Lập ra nước Văn Lang",
+    "Mở đầu thời kì Bắc thuộc",
+    "Thống nhất các quốc gia Đông Nam Á"
+   ],
+   "dung": 0,
+   "trang": 85
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 80 (phần mở đầu – lời thề Hai Bà Trưng, 'khoảng gần 900 năm'), tr. 83 (mục 2a, tư liệu 1, ô Em có biết về Ngô Quyền và sông Bạch Đằng, Hình 5, 6), tr. 84 (Hình 7 – sa bàn dùng lại bach-dang-938, pha 'trien_khai'), tr. 85 (ý nghĩa). Kiến thức chốt của danh mục khớp SGK (SGK nói 'có trí dũng' và 'sức khoẻ phi thường'). Phân vai với tập L6-B18-04 (diễn biến trận đánh): tập này tập trung con người Ngô Quyền và kế hoạch, chỉ nêu kết quả một câu. Lời Ngô Quyền (cảnh 8) diễn đạt lại tư liệu 1 (Đại Việt sử ký toàn thư).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

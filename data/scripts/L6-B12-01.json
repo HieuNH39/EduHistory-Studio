@@ -1,0 +1,353 @@
+{
+ "ma": "L6-B12-01",
+ "ten_tap": "Bình minh các vương quốc phong kiến",
+ "ten_tap_en": "The Dawn of the Feudal Kingdoms",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 12. Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+  "trang": [
+   54
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-mon",
+  "nguoi-mien",
+  "nguoi-kho-me",
+  "nguoi-ma-lai",
+  "nguoi-viet"
+ ],
+ "nhac": {
+  "tam_trang": "hành trình sông nước, rộn ràng, âm hưởng Đông Nam Á",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện cư dân các vương quốc mang tính minh hoạ, trang phục giản lược, không ghi chữ giả; không vẽ đường biên quốc gia. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 12, tr. 54.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi bên bàn trong lớp, trước tấm bản đồ tự nhiên Đông Nam Á (sông ngòi, đảo, không có đường biên); Nhật Minh đặt một chiếc thuyền giấy lên dòng sông trên bản đồ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thế kỉ VII đến thế kỉ X, Đông Nam Á bước vào một thời kì mới: các vương quốc phong kiến lần lượt ra đời.",
+     "From the 7th to the 10th century, Southeast Asia entered a new era: feudal kingdoms were born one after another."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy tụi mình xuôi thuyền theo các dòng sông lớn để gặp từng vương quốc nhé!",
+     "Then let's sail down the great rivers to meet each kingdom!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-mon",
+    "nguoi-kho-me"
+   ],
+   "hinh": "Một vùng đồng bằng ven sông ở Đông Nam Á thời cổ: làng mạc đông đúc, ruộng lúa, đền thờ bằng gạch; một tộc người đông đảo tụ hội quanh vị thủ lĩnh đội mũ nhọn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong quá trình phát triển, các quốc gia sơ kì đã dần tạo lập những cơ sở đưa đến sự ra đời các vương quốc phong kiến đầu tiên.",
+     "Over time, the early states laid the foundations for the first feudal kingdoms."
+    ],
+    [
+     "Hân Hân",
+     "Mỗi quốc gia lấy một bộ tộc đông và phát triển nhất làm nòng cốt.",
+     "Each was built around its largest and most developed people."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-mon",
+    "nguoi-mien"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi trên con thuyền gỗ xuôi dòng sông I-ra-oa-đi rộng lớn; hai bên bờ là các làng mạc và những ngôi chùa tháp cổ, người dân vẫy tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là lưu vực sông I-ra-oa-đi. Ở đây có Vương quốc Sri Kse-tra của người Môn,",
+     "This is the Irrawaddy valley. Here was the Sri Ksetra kingdom of the Mon people,"
+    ],
+    [
+     "Nhật Minh",
+     "và Vương quốc Pa-gan của người Miến!",
+     "and the Pagan kingdom of the Burmese!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-mon"
+   ],
+   "hinh": "Đồng bằng sông Chao Phray-a thời cổ: cánh đồng lúa bát ngát, kênh nước, người Môn chèo thuyền chở lúa về một thành nhỏ có tường đất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xuôi về lưu vực sông Chao Phray-a, người Môn lập nên Vương quốc Đva-ra-va-ti.",
+     "Down in the Chao Phraya valley, the Mon founded the Dvaravati kingdom."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Vùng trung lưu sông Mê Công thời cổ: người Khơ-me dựng đền gạch, ruộng lúa trải dọc bờ sông rộng, voi chở gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở vùng trung lưu sông Mê Công là Vương quốc Chân Lạp của người Khơ-me.",
+     "On the middle Mekong was the Chenla kingdom of the Khmer."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương quốc Chân Lạp là của người nào?",
+    "lua_chon": [
+     "Người Khơ-me",
+     "Người Môn",
+     "Người Mã Lai"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Vương quốc Chân Lạp là của người nào?",
+     "Pause! Which people founded the Chenla kingdom?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: người Khơ-me!",
+     "The answer is A: the Khmer!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-ma-lai"
+   ],
+   "hinh": "Bờ biển đảo Xu-ma-tơ-ra thời cổ bên vùng eo biển: thương thuyền tấp nập, người Mã Lai khuân những rương vàng bạc, bao gia vị; nắng vàng rực rỡ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ra biển nào! Trên đảo Xu-ma-tơ-ra là Vương quốc Sri Vi-giay-a của người Mã Lai.",
+     "Out to sea! On Sumatra was the Srivijaya kingdom of the Malays."
+    ],
+    [
+     "Hân Hân",
+     "Nơi đây nổi tiếng có nhiều vàng, bạc và đồ gia vị, nên còn được gọi là “đảo Vàng”. Sau này, Sri Vi-giay-a trở thành một quốc gia hùng mạnh, trung tâm kinh tế, văn hoá quan trọng ở Đông Nam Á.",
+     "Famous for its gold, silver and spices, it was called the 'Golden Island', and later became a powerful state and a key economic and cultural centre."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet"
+   ],
+   "hinh": "Hai khung cảnh nối tiếp: đảo Gia-va với núi lửa và ruộng bậc thang, cư dân bên ngôi đền đá; rồi đồng bằng Bắc Bộ Việt Nam với làng xóm, đình làng, ruộng lúa và những con thuyền trên sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trên đảo Gia-va là Vương quốc Ka-lin-ga của người In-đô-nê-xi-a.",
+     "On Java was the Kalinga kingdom of the Indonesians."
+    ],
+    [
+     "Hân Hân",
+     "Và ở Bắc Việt Nam là quốc gia Đại Cồ Việt của người Việt.",
+     "And in northern Việt Nam was Đại Cồ Việt, the state of the Việt people."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương quốc nào còn được gọi là “đảo Vàng”?",
+    "lua_chon": [
+     "Sri Vi-giay-a",
+     "Pa-gan",
+     "Đva-ra-va-ti"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Vương quốc nào còn được gọi là “đảo Vàng”?",
+     "Quick test! Which kingdom was called the 'Golden Island'?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Sri Vi-giay-a!",
+     "The answer is A: Srivijaya!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "CÁC VƯƠNG QUỐC PHONG KIẾN (THẾ KỈ VII – X)",
+   "y": [
+    "Sông I-ra-oa-đi: Sri Kse-tra (Môn), Pa-gan (Miến)",
+    "Sông Chao Phray-a: Đva-ra-va-ti (Môn) · Trung lưu Mê Công: Chân Lạp (Khơ-me)",
+    "Xu-ma-tơ-ra: Sri Vi-giay-a (Mã Lai) · Gia-va: Ka-lin-ga",
+    "Bắc Việt Nam: Đại Cồ Việt (người Việt)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: lưu vực sông I-ra-oa-đi có Sri Kse-tra và Pa-gan.",
+     "Remember: the Irrawaddy valley had Sri Ksetra and Pagan."
+    ],
+    [
+     "Hân Hân",
+     "Sông Chao Phray-a có Đva-ra-va-ti; trung lưu Mê Công có Chân Lạp.",
+     "The Chao Phraya had Dvaravati; the middle Mekong had Chenla."
+    ],
+    [
+     "Nhật Minh",
+     "Đảo Xu-ma-tơ-ra có Sri Vi-giay-a, đảo Gia-va có Ka-lin-ga.",
+     "Sumatra had Srivijaya; Java had Kalinga."
+    ],
+    [
+     "Hân Hân",
+     "Và Bắc Việt Nam có Đại Cồ Việt của người Việt.",
+     "And northern Việt Nam had Đại Cồ Việt."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại lớp học, chiếc thuyền giấy đã đi hết vòng trên bản đồ Đông Nam Á; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: các vương quốc này thường hình thành ở đâu, ven sông hay ven biển? Theo cậu, vì sao? Bình luận nhé!",
+     "Your challenge: where did these kingdoms usually form, by rivers or by the sea? Why do you think so? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Các vương quốc phong kiến ở Đông Nam Á hình thành trong khoảng thời gian nào?",
+   "dap_an": [
+    "Từ thế kỉ VII đến thế kỉ X",
+    "Từ thế kỉ VII TCN đến thế kỉ VII",
+    "Từ thế kỉ I đến thế kỉ V",
+    "Từ thế kỉ XI đến thế kỉ XV"
+   ],
+   "dung": 0,
+   "trang": 54
+  },
+  {
+   "hoi": "Vương quốc Pa-gan là của người nào?",
+   "dap_an": [
+    "Người Môn",
+    "Người Miến",
+    "Người Khơ-me",
+    "Người Mã Lai"
+   ],
+   "dung": 1,
+   "trang": 54
+  },
+  {
+   "hoi": "Vương quốc Sri Vi-giay-a nằm trên đảo nào?",
+   "dap_an": [
+    "Gia-va",
+    "Xu-ma-tơ-ra",
+    "Boóc-nê-ô",
+    "Ba-li"
+   ],
+   "dung": 1,
+   "trang": 54
+  },
+  {
+   "hoi": "Quốc gia Đại Cồ Việt của người Việt ở đâu?",
+   "dap_an": [
+    "Bắc Việt Nam",
+    "Lưu vực sông Chao Phray-a",
+    "Đảo Gia-va",
+    "Trung lưu sông Mê Công"
+   ],
+   "dung": 0,
+   "trang": 54
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 54 (phần mở đầu, mục 1) và ảnh trang (ô Em có biết về Sri Vi-giay-a – 'đảo Vàng'). Kiến thức chốt của danh mục khớp SGK; bổ sung đúng tên tộc người nòng cốt của từng vương quốc theo SGK. Câu thử thách cuối là câu suy luận mở dựa trên vị trí các vương quốc trong SGK. Không có lời thoại nhân vật lịch sử; bản đồ trên bàn là đạo cụ, không vẽ biên giới.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

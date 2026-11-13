@@ -1,0 +1,308 @@
+{
+ "ma": "L6-B13-02",
+ "ten_tap": "Từ tín ngưỡng bản địa đến Thần – Vua",
+ "ten_tap_en": "From Native Beliefs to the God-King",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 13. Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+  "trang": [
+   56,
+   89
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-dong-nam-a",
+  "nha-vua-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "vui tươi ở đoạn lễ hội té nước, trang nghiêm huyền bí ở đoạn Thần – Vua",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tín ngưỡng, nghi lễ mang tính minh hoạ, vẽ tôn trọng; lin-ga chỉ thể hiện như một linh vật bằng đá trên bệ thờ, không cận cảnh. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 13, tr. 56; Bài 19, tr. 89.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi xem ti vi trong phòng khách: màn hình chiếu cảnh người dân vui vẻ té nước vào nhau trên đường phố trong một lễ hội mùa nóng (hình xa, không rõ mặt); Nhật Minh bật cười",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ha ha, té nước tung toé vui quá! Đây là lễ hội gì vậy?",
+     "Ha, splashing water everywhere! What festival is this?"
+    ],
+    [
+     "Hân Hân",
+     "Tết Té nước Song-kran ở Thái Lan đấy. Nó liên quan đến tục cầu mưa rất xưa của cư dân Đông Nam Á. Đi tìm hiểu nào!",
+     "It's Songkran, the water festival in Thailand. It's linked to an ancient Southeast Asian rain-praying custom. Let's find out more!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu Công nguyên",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở rìa một làng cổ Đông Nam Á giữa mùa khô: dân làng bày lễ vật trên ruộng nứt nẻ, ngước lên trời cầu mưa; trong nhà sàn bên cạnh, một gia đình thắp hương trước bàn thờ tổ tiên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ xa xưa, cư dân Đông Nam Á có nhiều tín ngưỡng dân gian như tín ngưỡng phồn thực, tục thờ cúng tổ tiên, tục cầu mưa…",
+     "Since ancient times, Southeast Asians had many folk beliefs: fertility worship, ancestor worship, praying for rain…"
+    ],
+    [
+     "Nhật Minh",
+     "Như tín ngưỡng phồn thực của người Chăm xưa là để cầu mong vạn vật sinh sôi, nảy nở, sung túc.",
+     "The ancient Cham fertility beliefs, for example, prayed for all things to grow, multiply and prosper."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tết Té nước Song-kran (Thái Lan) liên quan đến tục lệ nào của cư dân Đông Nam Á?",
+    "lua_chon": [
+     "Tục cầu mưa",
+     "Tục ướp xác",
+     "Tục đốt pháo"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tết Té nước Song-kran liên quan đến tục lệ nào của cư dân Đông Nam Á?",
+     "Pause! Songkran is linked to which Southeast Asian custom?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tục cầu mưa!",
+     "The answer is A: praying for rain!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Một bến thuyền cổ: các tu sĩ Ấn Độ giáo và nhà sư Phật giáo từ thuyền buồm bước lên bờ, mang theo kinh sách, tượng thần, tượng Phật nhỏ; cư dân bản địa ra đón, cùng dâng hoa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Rồi các tín ngưỡng bản địa đã dung hợp với Ấn Độ giáo đến từ Ấn Độ, và Phật giáo đến từ Ấn Độ và Trung Quốc.",
+     "Then native beliefs blended with Hinduism from India and Buddhism from India and China."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-vua-dong-nam-a",
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Trong một ngôi đền tháp gạch cổ, nhà vua mặc lễ phục, đội mũ nhọn bằng vàng, đứng trang nghiêm bên bệ thờ có linh vật lin-ga bằng đá (thể hiện từ xa, không cận cảnh); quần thần và tăng lữ quỳ phía dưới; ánh nến, khói hương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi Ấn Độ giáo được tiếp nhận, lin-ga, linh vật tượng trưng cho tín ngưỡng phồn thực, đã trở thành biểu tượng quyền lực của nhà vua.",
+     "When Hinduism arrived, the linga, the sacred symbol of fertility worship, became a symbol of the king's power."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà vua được đồng nhất với một vị thần, gọi là Thần Vua.",
+     "The king was identified with a god, called the God-King."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-vua-dong-nam-a",
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nép sau hàng cột đá trước sân đền Chăm-pa, nhìn đoàn rước nhà vua đi qua giữa dân chúng đang cúi rạp; lọng che, trống kèn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các quốc gia chịu ảnh hưởng văn hoá Ấn Độ đều có tín ngưỡng Thần – Vua, như Chăm-pa, Chân Lạp…",
+     "States influenced by Indian culture all had the God-King belief, like Champa and Chenla…"
+    ],
+    [
+     "Nhật Minh",
+     "Ở Chăm-pa, vua thường được đồng nhất với một vị thần và có quyền lực tối cao. Thảo nào ai cũng cúi rạp!",
+     "In Champa, the king was usually identified with a god and held supreme power. No wonder everyone bows!"
+    ]
+   ],
+   "nguon_trang": [
+    56,
+    89
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà vua được đồng nhất với một vị thần gọi là",
+    "lua_chon": [
+     "Thần Vua",
+     "Pha-ra-ông",
+     "Chấp chính quan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Nhà vua được đồng nhất với một vị thần thì gọi là gì?",
+     "Quick test! What's a king identified with a god called?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Thần Vua!",
+     "The answer is A: the God-King!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Tín ngưỡng bản địa: phồn thực, thờ cúng tổ tiên, cầu mưa",
+    "Dung hợp với Ấn Độ giáo (từ Ấn Độ), Phật giáo (từ Ấn Độ, Trung Quốc)",
+    "Lin-ga trở thành biểu tượng quyền lực của nhà vua",
+    "Thần – Vua: vua được đồng nhất với thần (Chăm-pa, Chân Lạp…)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cư dân Đông Nam Á có tín ngưỡng phồn thực, thờ cúng tổ tiên, cầu mưa.",
+     "Remember: Southeast Asians held fertility, ancestor and rain-praying beliefs."
+    ],
+    [
+     "Hân Hân",
+     "Các tín ngưỡng này dung hợp với Ấn Độ giáo và Phật giáo.",
+     "These blended with Hinduism and Buddhism."
+    ],
+    [
+     "Nhật Minh",
+     "Lin-ga trở thành biểu tượng quyền lực của nhà vua.",
+     "The linga became a symbol of royal power."
+    ],
+    [
+     "Hân Hân",
+     "Vua được đồng nhất với thần: đó là tín ngưỡng Thần – Vua ở Chăm-pa, Chân Lạp…",
+     "The king was identified with a god: the God-King belief of Champa, Chenla…"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại phòng khách, ti vi vẫn chiếu cảnh lễ hội té nước; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, vì sao nhà vua muốn được đồng nhất với một vị thần? Bình luận suy nghĩ của cậu nhé!",
+     "Your challenge: why do you think kings wanted to be identified with a god? Share your thoughts in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tín ngưỡng dân gian nào KHÔNG được SGK nêu là của cư dân Đông Nam Á?",
+   "dap_an": [
+    "Tín ngưỡng phồn thực",
+    "Tục thờ cúng tổ tiên",
+    "Tục cầu mưa",
+    "Tục ướp xác"
+   ],
+   "dung": 3,
+   "trang": 56
+  },
+  {
+   "hoi": "Phật giáo du nhập vào Đông Nam Á từ",
+   "dap_an": [
+    "Ấn Độ và Trung Quốc",
+    "Hy Lạp và La Mã",
+    "Ai Cập",
+    "Lưỡng Hà"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Những quốc gia nào được SGK nêu là có tín ngưỡng Thần – Vua?",
+   "dap_an": [
+    "Chăm-pa, Chân Lạp",
+    "Văn Lang, Âu Lạc",
+    "A-ten, Rô-ma",
+    "Ai Cập, Lưỡng Hà"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Tín ngưỡng phồn thực của người Chăm xưa nhằm",
+   "dap_an": [
+    "Cầu mong vạn vật sinh sôi, nảy nở, sung túc",
+    "Cầu mong chiến thắng quân thù",
+    "Tưởng nhớ các vị vua",
+    "Cầu cho mùa đông ấm áp"
+   ],
+   "dung": 0,
+   "trang": 56
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 56 (mục 1, Hình 1 – Tết Té nước Song-kran, ô Em có biết về tín ngưỡng phồn thực của người Chăm, lin-ga, Thần Vua) và tr. 89 (vua Chăm-pa được đồng nhất với một vị thần, có quyền lực tối cao). Kiến thức chốt của danh mục khớp SGK. Lin-ga trình bày đúng chữ SGK, hình ảnh giữ ở mức linh vật trên bệ thờ, phù hợp học sinh lớp 6. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

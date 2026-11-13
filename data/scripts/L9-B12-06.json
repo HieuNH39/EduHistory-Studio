@@ -1,0 +1,478 @@
+{
+ "ma": "L9-B12-06",
+ "ten_tap": "ASEAN: Từ chia rẽ đến đồng thuận",
+ "ten_tap_en": "ASEAN: From Division to Consensus",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   59,
+   60
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "dai-dien-cac-nuoc-asean"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, hợp tác, sáng dần; nhịp vừa phải",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 59–60.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, trên bàn trải tấm bản đồ khu vực Đông Nam Á; cạnh đó cắm một lá cờ ASEAN nhỏ (bó lúa vàng trong vòng tròn trên nền xanh); ánh nắng sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lá cờ này là cờ của Hiệp hội các quốc gia Đông Nam Á, ASEAN.",
+     "This is the flag of the Association of Southeast Asian Nations, ASEAN."
+    ],
+    [
+     "Nhật Minh",
+     "ASEAN ra đời năm 1967 chỉ với năm nước. Đến năm 1991, tổ chức này đã phát triển ra sao? Cùng tìm hiểu nhé!",
+     "ASEAN was born in 1967 with just five countries. How had it developed by 1991? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    100,
+    59
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1967",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "thanh_lap",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 8 tháng 8 năm 1967, Hiệp hội các quốc gia Đông Nam Á, ASEAN, được thành lập tại Băng Cốc, Thái Lan.",
+     "On 8 August 1967, the Association of Southeast Asian Nations, ASEAN, was founded in Bangkok, Thailand."
+    ],
+    [
+     "Nhật Minh",
+     "Năm nước tham gia là In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po và Thái Lan.",
+     "The five members were Indonesia, Malaysia, the Philippines, Singapore and Thailand."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN, ngày 8 – 8 – 1967 (như Hình 12.11 SGK, tr. 59)",
+    "tim": "ASEAN Declaration signing Bangkok 8 August 1967 photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở (ví dụ ảnh của Ban Thư kí ASEAN), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: kí Tuyên bố thành lập ASEAN (8 – 8 – 1967)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ảnh tư liệu: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN.",
+     "This archive photo shows the foreign ministers of the five countries signing the declaration founding ASEAN."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "MỤC ĐÍCH (TUYÊN BỐ BĂNG CỐC)",
+   "y": [
+    "Thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội, phát triển văn hoá",
+    "Bằng nỗ lực chung, tinh thần bình đẳng và hợp tác",
+    "Hướng tới cộng đồng Đông Nam Á hoà bình, thịnh vượng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo Tuyên bố Băng Cốc, mục đích của Hiệp hội là thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá trong khu vực,",
+     "According to the Bangkok Declaration, the Association aimed to promote economic growth, social progress and cultural development in the region,"
+    ],
+    [
+     "Hân Hân",
+     "thông qua nỗ lực chung, trên tinh thần bình đẳng và hợp tác, hướng tới một cộng đồng các quốc gia Đông Nam Á hoà bình và thịnh vượng.",
+     "through joint efforts in a spirit of equality and partnership, towards a peaceful and prosperous community of Southeast Asian nations."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập ở đâu?",
+    "lua_chon": [
+     "Gia-các-ta",
+     "Băng Cốc",
+     "Ma-ni-la"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! ASEAN được thành lập ở đâu?",
+     "Pause! Where was ASEAN founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Băng Cốc, Thái Lan, ngày 8 tháng 8 năm 1967!",
+     "The answer is B: Bangkok, Thailand, on 8 August 1967!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "NHỮNG NĂM ĐẦU (1967 – 1976)",
+   "y": [
+    "Tổ chức còn non trẻ",
+    "Hợp tác giữa các thành viên còn lỏng lẻo",
+    "Chưa có vị thế trên trường quốc tế"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1967 đến năm 1976, ASEAN còn là một tổ chức non trẻ.",
+     "From 1967 to 1976, ASEAN was still a young organisation."
+    ],
+    [
+     "Hân Hân",
+     "Hợp tác giữa các thành viên còn lỏng lẻo, và ASEAN chưa có vị thế trên trường quốc tế.",
+     "Cooperation among members was loose, and ASEAN had no standing on the world stage yet."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1976",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "TUYÊN BỐ BA-LI (2 – 1976)",
+   "y": [
+    "Tôn trọng chủ quyền và toàn vẹn lãnh thổ",
+    "Không can thiệp vào công việc nội bộ của nhau",
+    "Không sử dụng vũ lực hoặc đe doạ bằng vũ lực",
+    "Giải quyết tranh chấp bằng biện pháp hoà bình"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 2 năm 1976, ASEAN ra Tuyên bố Ba-li về sự hoà hợp ASEAN.",
+     "In February 1976, ASEAN issued the Bali Declaration on ASEAN Concord."
+    ],
+    [
+     "Hân Hân",
+     "Tuyên bố xác định các nguyên tắc cơ bản trong quan hệ giữa các nước: tôn trọng chủ quyền và toàn vẹn lãnh thổ; không can thiệp vào công việc nội bộ của nhau;",
+     "It set out the basic principles for relations between members: respect for sovereignty and territorial integrity; non-interference in each other's internal affairs;"
+    ],
+    [
+     "Nhật Minh",
+     "không sử dụng vũ lực hoặc đe doạ bằng vũ lực; giải quyết các tranh chấp bằng biện pháp hoà bình; và hợp tác có hiệu quả về kinh tế, văn hoá, xã hội.",
+     "no use or threat of force; peaceful settlement of disputes; and effective cooperation in the economy, culture and society."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nguyên tắc nào có trong Tuyên bố Ba-li (1976)?",
+    "lua_chon": [
+     "Giải quyết tranh chấp bằng biện pháp hoà bình",
+     "Dùng vũ lực để giải quyết tranh chấp",
+     "Can thiệp vào nội bộ nước khác"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nguyên tắc nào có trong Tuyên bố Ba-li?",
+     "Quick test! Which principle is in the Bali Declaration?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: giải quyết các tranh chấp bằng biện pháp hoà bình!",
+     "The answer is A: settling disputes by peaceful means!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "bru_nay",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1984, Bru-nây, nước vừa tuyên bố độc lập, gia nhập ASEAN.",
+     "In 1984, Brunei, which had just declared independence, joined ASEAN."
+    ]
+   ],
+   "nguon_trang": [
+    60,
+    57
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "asean",
+   "pha": "dong_duong",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong những năm sau đó, quan hệ giữa các nước Đông Dương và ASEAN dần được cải thiện, tạo điều kiện cho việc mở rộng ASEAN ở giai đoạn sau.",
+     "In the following years, relations between the Indochinese countries and ASEAN gradually improved, paving the way for ASEAN's later expansion."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1991, Hội nghị Ngoại trưởng ASEAN ra Tuyên bố về vấn đề Cam-pu-chia.",
+     "In July 1991, the ASEAN Foreign Ministers' Meeting issued a declaration on the Cambodian issue."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ASEAN 1967 – 1991",
+   "moc": [
+    [
+     "8 – 1967",
+     "Thành lập ASEAN"
+    ],
+    [
+     "2 – 1976",
+     "Tuyên bố Ba-li"
+    ],
+    [
+     "1984",
+     "Bru-nây gia nhập"
+    ],
+    [
+     "7 – 1991",
+     "Tuyên bố về vấn đề Cam-pu-chia"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 8 năm 1967: thành lập ASEAN.",
+     "Recap! August 1967: ASEAN is founded."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 2 năm 1976: Tuyên bố Ba-li về sự hoà hợp ASEAN.",
+     "February 1976: the Bali Declaration on ASEAN Concord."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1984: Bru-nây gia nhập ASEAN.",
+     "1984: Brunei joins ASEAN."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1991: Tuyên bố của Hội nghị Ngoại trưởng ASEAN về vấn đề Cam-pu-chia.",
+     "July 1991: the foreign ministers' declaration on Cambodia."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên tấm bản đồ Đông Nam Á trong thư viện, Nhật Minh đặt ngón tay lên Việt Nam trên bản đồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau năm 1991, ASEAN tiếp tục mở rộng. Tháng 7 năm 1995, Việt Nam chính thức trở thành thành viên thứ 7 của ASEAN.",
+     "After 1991, ASEAN kept growing. In July 1995, Vietnam officially became ASEAN's seventh member."
+    ],
+    [
+     "Hân Hân",
+     "Câu chuyện ấy sẽ có trong một tập sau nhé!",
+     "That story is coming in a later episode!"
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "8 – 8 – 1967: thành lập tại Băng Cốc, gồm 5 nước",
+    "1967 – 1976: tổ chức non trẻ, hợp tác lỏng lẻo",
+    "2 – 1976: Tuyên bố Ba-li – các nguyên tắc cơ bản",
+    "1984: Bru-nây gia nhập; quan hệ với Đông Dương dần cải thiện"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: ngày 8 tháng 8 năm 1967, ASEAN thành lập tại Băng Cốc với năm nước.",
+     "Remember: 8 August 1967, ASEAN founded in Bangkok by five countries."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1967 đến năm 1976, ASEAN còn non trẻ, hợp tác lỏng lẻo.",
+     "1967–1976: young and loosely knit."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 2 năm 1976, Tuyên bố Ba-li xác định các nguyên tắc cơ bản.",
+     "February 1976: the Bali Declaration sets the basic principles."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1984, Bru-nây gia nhập; quan hệ giữa Đông Dương và ASEAN dần được cải thiện.",
+     "1984: Brunei joins; Indochina–ASEAN relations improve."
+    ]
+   ],
+   "nguon_trang": [
+    59,
+    60
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem, phía sau là bản đồ Đông Nam Á và lá cờ ASEAN nhỏ; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trong các nguyên tắc của Tuyên bố Ba-li, cậu thấy nguyên tắc nào quan trọng nhất để giữ hoà bình trong khu vực? Vì sao? Bình luận nhé!",
+     "Your challenge: of the Bali Declaration's principles, which do you think matters most for keeping peace in the region, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "ASEAN được thành lập ngày nào?",
+   "dap_an": [
+    "8 – 8 – 1967",
+    "2 – 1976",
+    "7 – 1991",
+    "7 – 1995"
+   ],
+   "dung": 0,
+   "trang": 59
+  },
+  {
+   "hoi": "Nước nào KHÔNG thuộc năm nước sáng lập ASEAN?",
+   "dap_an": [
+    "In-đô-nê-xi-a",
+    "Thái Lan",
+    "Bru-nây",
+    "Xin-ga-po"
+   ],
+   "dung": 2,
+   "trang": 59
+  },
+  {
+   "hoi": "Văn kiện nào (2 – 1976) xác định các nguyên tắc cơ bản trong quan hệ giữa các nước ASEAN?",
+   "dap_an": [
+    "Tuyên bố Băng Cốc",
+    "Tuyên bố Ba-li",
+    "Hiến chương ASEAN",
+    "Hiệp định RCEP"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Giai đoạn 1967 – 1976, ASEAN có đặc điểm nào?",
+   "dap_an": [
+    "Hợp tác chặt chẽ, vị thế cao",
+    "Tổ chức còn non trẻ, hợp tác lỏng lẻo",
+    "Đã có 10 thành viên",
+    "Đã thành lập Cộng đồng ASEAN"
+   ],
+   "dung": 1,
+   "trang": 60
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 59–60 và ảnh trang 60 (Hình 12.12: mốc 8 – 1967, 2 – 1976, 1984, 7 – 1991; hộp 'Em có biết' về Tuyên bố Ba-li); Hình 12.11; Bru-nây tuyên bố độc lập năm 1984 (tr. 57); cờ ASEAN (Hình 19.10, tr. 100); Việt Nam là thành viên thứ 7 (7 – 1995, tr. 99). Tư liệu 2 (Tuyên bố Băng Cốc) được diễn đạt lại. Đã chỉnh kiến thức chốt của danh mục: các nguyên tắc 'tôn trọng chủ quyền, không can thiệp nội bộ, giải quyết tranh chấp hoà bình' thuộc Tuyên bố Ba-li (2 – 1976), không phải văn kiện thành lập 1967; giai đoạn 1967 – 1991 SGK chỉ nêu Bru-nây gia nhập (1984) và quan hệ Đông Dương – ASEAN dần cải thiện, không nói 'nâng cao vị thế'. 'Chia rẽ' trong tên tập không được đưa vào lời dẫn. Sa bàn 'asean' vẽ lại, giản lược theo Hình 12.10, có Hoàng Sa, Trường Sa.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

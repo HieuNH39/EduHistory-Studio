@@ -1,0 +1,520 @@
+{
+ "ma": "L9-B11-03",
+ "ten_tap": "Tây Âu: Từ đống đổ nát đến liên minh hùng mạnh",
+ "ten_tap_en": "Western Europe: From Ruins to a Powerful Union",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   51
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cac-nha-lanh-dao-tay-au"
+ ],
+ "nhac": {
+  "tam_trang": "trầm ở đầu, sáng dần và tự tin khi nói đến liên kết châu Âu; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 11, tr. 51.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học, đứng trước tấm bản đồ châu Âu treo tường; trên bàn có mấy đồng xu ơ-rô và một lá cờ nhỏ màu xanh có vòng sao vàng; nắng sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, các nước Tây Âu phải bắt tay khôi phục nền kinh tế.",
+     "After World War II, the Western European countries had to set about rebuilding their economies."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy mà đến năm 1991, họ đã thoả thuận thành lập Liên minh châu Âu. Hành trình ấy diễn ra thế nào? Cùng xem nhé!",
+     "Yet by 1991, they had agreed to form the European Union. How did that journey unfold? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Hội nghị thành lập NATO ở Thủ đô Oa-sinh-tơn năm 1949 (như Hình 11.4 SGK, tr. 50)",
+    "tim": "NATO founding signing ceremony Washington April 1949 photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Hội nghị thành lập NATO (1949)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1945 – 1950, về chính trị, các nước Tây Âu củng cố chính quyền của giai cấp tư sản, liên minh chặt chẽ với Mỹ và tham gia khối NATO, thành lập năm 1949.",
+     "In 1945–1950, politically, Western European countries strengthened bourgeois rule, allied closely with the US and joined NATO, founded in 1949."
+    ],
+    [
+     "Hân Hân",
+     "Họ còn tìm cách khôi phục sự thống trị tại các thuộc địa cũ.",
+     "They also tried to restore their rule over their former colonies."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    42
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: áp phích của Kế hoạch Mác-san (cuối những năm 1940)",
+    "tim": "Marshall Plan poster ECA 1950 public domain",
+    "yeu_cau": "ảnh tư liệu công khai (áp phích của cơ quan Chính phủ Mỹ – phạm vi công cộng), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: áp phích Kế hoạch Mác-san",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, Tây Âu nhận viện trợ của Mỹ theo Kế hoạch Mác-san, khoảng 13 tỉ USD, để khôi phục kinh tế.",
+     "Economically, Western Europe received US aid under the Marshall Plan, about 13 billion dollars, to rebuild."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1950, kinh tế phục hồi, đạt mức trước chiến tranh. Nhưng các nước Tây Âu lệ thuộc chặt chẽ vào Mỹ.",
+     "By 1950, their economies had recovered to pre-war levels. But Western Europe was now closely dependent on the US."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Kế hoạch Mác-san, các nước Tây Âu nhận viện trợ của Mỹ khoảng bao nhiêu?",
+    "lua_chon": [
+     "Khoảng 3 tỉ USD",
+     "Khoảng 13 tỉ USD",
+     "Khoảng 31 tỉ USD"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Theo Kế hoạch Mác-san, Tây Âu nhận viện trợ của Mỹ khoảng bao nhiêu?",
+     "Pause! Under the Marshall Plan, about how much US aid did Western Europe receive?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: khoảng 13 tỉ USD!",
+     "The answer is B: about 13 billion dollars!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1950",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "GIAI ĐOẠN 1950 – 1973",
+   "y": [
+    "Chính trị: Anh tiếp tục liên minh chặt chẽ với Mỹ",
+    "Pháp tìm cách giảm bớt sự lệ thuộc vào Mỹ",
+    "Kinh tế tăng trưởng cao: một trong ba trung tâm kinh tế – tài chính thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1950 – 1973, về chính trị, có nước tiếp tục liên minh chặt chẽ với Mỹ, tiêu biểu là Anh; có nước tìm cách giảm bớt sự lệ thuộc vào Mỹ, tiêu biểu là Pháp.",
+     "In 1950–1973, politically, some stayed close allies of the US, notably Britain; others tried to reduce dependence on the US, notably France."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế Tây Âu tăng trưởng cao, vươn lên trở thành một trong ba trung tâm kinh tế – tài chính của thế giới.",
+     "Western Europe's economy grew fast, becoming one of the world's three economic and financial centres."
+    ],
+    [
+     "Nhật Minh",
+     "Sự vươn lên của Tây Âu và Nhật Bản khiến kinh tế Mỹ không còn chiếm ưu thế tuyệt đối nữa.",
+     "The rise of Western Europe and Japan meant the US economy no longer held absolute dominance."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    50
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giai đoạn 1950 – 1973, nước Tây Âu nào tiêu biểu cho xu hướng giảm bớt sự lệ thuộc vào Mỹ?",
+    "lua_chon": [
+     "Anh",
+     "Pháp",
+     "I-ta-li-a"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nước nào tiêu biểu cho xu hướng giảm bớt sự lệ thuộc vào Mỹ?",
+     "Quick test! Which country typified the effort to depend less on the US?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Pháp! Còn Anh tiêu biểu cho xu hướng tiếp tục liên minh chặt chẽ với Mỹ.",
+     "The answer is B: France! Britain, by contrast, typified staying a close US ally."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "XU HƯỚNG LIÊN KẾT CỦA TÂY ÂU",
+   "moc": [
+    [
+     "1951",
+     "Cộng đồng Than – Thép châu Âu"
+    ],
+    [
+     "1957",
+     "Cộng đồng Kinh tế châu Âu"
+    ],
+    [
+     "1991",
+     "Thoả thuận thành lập Liên minh châu Âu – EU"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cũng trong giai đoạn này xuất hiện xu hướng liên kết. Năm 1951, Cộng đồng Than – Thép châu Âu được thành lập.",
+     "This period also saw a trend towards integration. In 1951, the European Coal and Steel Community was founded."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1957, Cộng đồng Kinh tế châu Âu ra đời.",
+     "In 1957, the European Economic Community was born."
+    ],
+    [
+     "Hân Hân",
+     "Con đường liên kết ấy dẫn tới thoả thuận thành lập Liên minh châu Âu, EU, năm 1991.",
+     "That path of integration led to the agreement to found the European Union, the EU, in 1991."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1973",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "GIAI ĐOẠN 1973 – 1991",
+   "y": [
+    "Kinh tế tăng trưởng thấp",
+    "Vẫn là một trong những trung tâm kinh tế – tài chính thế giới",
+    "Thúc đẩy liên kết chính trị, đặt nền móng nhất thể hoá Tây Âu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1973 – 1991, kinh tế Tây Âu tăng trưởng thấp, nhưng vẫn là một trong những trung tâm kinh tế – tài chính của thế giới.",
+     "In 1973–1991, Western Europe's growth was slow, but it remained one of the world's economic and financial centres."
+    ],
+    [
+     "Hân Hân",
+     "Về chính trị, các nước thúc đẩy liên kết, đặt nền móng cho quá trình nhất thể hoá Tây Âu.",
+     "Politically, they pushed integration forward, laying the foundations for a unified Western Europe."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: đồng tiền chung ơ-rô (tiền xu, tiền giấy) – ảnh minh hoạ hiện nay",
+    "tim": "euro coins banknotes photo",
+    "yeu_cau": "ảnh có giấy phép mở hoặc tự chụp, ghi nguồn"
+   },
+   "hinh": "Ảnh: đồng tiền chung ơ-rô",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1991, các nước thoả thuận về việc thành lập Liên minh châu Âu, EU.",
+     "In 1991, the countries agreed to establish the European Union, the EU."
+    ],
+    [
+     "Nhật Minh",
+     "Họ cũng thông qua quyết định xây dựng thị trường tiền tệ với đồng tiền chung duy nhất: đồng ơ-rô.",
+     "They also decided to build a monetary market with a single common currency: the euro."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1991, các nước Tây Âu quyết định xây dựng thị trường tiền tệ với đồng tiền chung nào?",
+    "lua_chon": [
+     "Đô la",
+     "Ơ-rô",
+     "Bảng Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nữa! Đồng tiền chung duy nhất mà các nước Tây Âu quyết định xây dựng năm 1991 là gì?",
+     "One more! What single common currency did Western Europe decide on in 1991?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: đồng ơ-rô!",
+     "The answer is B: the euro!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TÂY ÂU 1945 – 1991",
+   "moc": [
+    [
+     "1945 – 1950",
+     "Khôi phục kinh tế, Kế hoạch Mác-san"
+    ],
+    [
+     "1950",
+     "Đạt mức trước chiến tranh"
+    ],
+    [
+     "1951",
+     "Cộng đồng Than – Thép"
+    ],
+    [
+     "1957",
+     "Cộng đồng Kinh tế châu Âu"
+    ],
+    [
+     "1991",
+     "Thoả thuận lập EU, đồng ơ-rô"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! 1945 – 1950: khôi phục kinh tế nhờ Kế hoạch Mác-san; năm 1950, đạt mức trước chiến tranh.",
+     "Recap! 1945–1950: recovery with the Marshall Plan; by 1950, back to pre-war levels."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1951: Cộng đồng Than – Thép. Năm 1957: Cộng đồng Kinh tế châu Âu.",
+     "1951: the Coal and Steel Community. 1957: the European Economic Community."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1991: thoả thuận thành lập EU và quyết định xây dựng đồng tiền chung ơ-rô.",
+     "1991: the agreement to found the EU and the decision on the euro."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên bản đồ châu Âu trong phòng học, Hân Hân cầm một đồng xu ơ-rô giơ lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ đầu thế kỉ XXI, EU ngày càng lớn mạnh với quá trình liên kết sâu rộng,",
+     "Since the early 21st century, the EU has grown ever stronger through deep integration,"
+    ],
+    [
+     "Nhật Minh",
+     "và là một trong những trung tâm trong trật tự thế giới đa cực đang dần hình thành.",
+     "and is one of the centres in the multipolar world order now taking shape."
+    ]
+   ],
+   "nguon_trang": [
+    94,
+    93
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "1945 – 1950: nhận viện trợ Mác-san, liên minh chặt chẽ với Mỹ, tham gia NATO",
+    "1950 – 1973: tăng trưởng cao, một trong ba trung tâm kinh tế – tài chính",
+    "Liên kết: Than – Thép (1951), Kinh tế châu Âu (1957)",
+    "1991: thoả thuận thành lập EU, đồng tiền chung ơ-rô"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: giai đoạn 1945 – 1950, Tây Âu nhận viện trợ Mác-san, liên minh chặt chẽ với Mỹ, tham gia NATO.",
+     "Remember: 1945–1950, Marshall aid, close US alliance, NATO."
+    ],
+    [
+     "Hân Hân",
+     "Giai đoạn 1950 – 1973, kinh tế tăng trưởng cao, thành một trong ba trung tâm kinh tế – tài chính.",
+     "1950–1973: rapid growth, one of three world economic and financial centres."
+    ],
+    [
+     "Nhật Minh",
+     "Xu hướng liên kết: Cộng đồng Than – Thép năm 1951, Cộng đồng Kinh tế châu Âu năm 1957.",
+     "Integration: Coal and Steel in 1951, the Economic Community in 1957."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1991: thoả thuận thành lập EU, quyết định xây dựng đồng tiền chung ơ-rô.",
+     "1991: the EU agreement and the euro decision."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng cạnh bản đồ châu Âu, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tóm tắt hành trình “từ đống đổ nát đến liên minh” của Tây Âu bằng ba mốc thời gian. Bình luận nhé!",
+     "Your challenge: sum up Western Europe's journey 'from ruins to union' in three dates. Post it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1950, kinh tế các nước Tây Âu đạt được kết quả gì?",
+   "dap_an": [
+    "Phục hồi, đạt mức trước chiến tranh",
+    "Đứng đầu thế giới",
+    "Rơi vào khủng hoảng",
+    "Vượt qua Mỹ"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Cộng đồng Than – Thép châu Âu được thành lập năm nào?",
+   "dap_an": [
+    "1947",
+    "1951",
+    "1957",
+    "1991"
+   ],
+   "dung": 1,
+   "trang": 51
+  },
+  {
+   "hoi": "Giai đoạn 1950 – 1973, Tây Âu vươn lên trở thành",
+   "dap_an": [
+    "Trung tâm kinh tế – tài chính duy nhất thế giới",
+    "Một trong ba trung tâm kinh tế – tài chính của thế giới",
+    "Khu vực lệ thuộc hoàn toàn vào Liên Xô",
+    "Thành viên SEV"
+   ],
+   "dung": 1,
+   "trang": 51
+  },
+  {
+   "hoi": "Thoả thuận về việc thành lập Liên minh châu Âu – EU diễn ra năm nào?",
+   "dap_an": [
+    "1957",
+    "1973",
+    "1989",
+    "1991"
+   ],
+   "dung": 3,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 51 ('Bảng tóm tắt tình hình chính trị, kinh tế các nước Tây Âu 1945 – 1991'); bổ sung tr. 42 (NATO 1949), tr. 50 (Hình 11.4; sự vươn lên của Tây Âu và Nhật Bản), tr. 93–94 (EU ngày càng lớn mạnh, trật tự đa cực). Đã chỉnh kiến thức chốt của danh mục: SGK viết năm 1991 là 'thoả thuận về việc thành lập Liên minh châu Âu' và quyết định xây dựng đồng tiền chung ơ-rô (không nói 'đặt nền móng thành lập EU' theo nghĩa khác); 'đống đổ nát' trong tên tập chỉ là cách nói, lời dẫn chỉ nói 'khôi phục kinh tế' như SGK. Không dùng chân dung nhân vật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

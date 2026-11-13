@@ -1,0 +1,564 @@
+{
+ "ma": "L9-B6-04",
+ "ten_tap": "Hội nghị hợp nhất: Bước ngoặt lịch sử",
+ "ten_tap_en": "The Unification Conference: A Historic Turning Point",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+  "trang": [
+   28,
+   29
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "dai-bieu-cac-to-chuc-cong-san"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, ấm áp, dâng dần ở đoạn ý nghĩa; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 6, tr. 28–29.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học của trường, đứng cạnh tờ lịch treo tường lớn mở ở tháng 2, ngày 3 được khoanh đỏ; bảng tin lớp trang trí cờ đỏ sao vàng và hoa mai, hoa đào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên tờ lịch, ngày 3 tháng 2 được khoanh đỏ: đó là ngày kỉ niệm thành lập Đảng Cộng sản Việt Nam.",
+     "On the calendar, 3 February is circled in red: it is the anniversary of the founding of the Communist Party of Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Đảng ra đời từ một hội nghị đặc biệt đầu năm 1930: Hội nghị hợp nhất. Vì sao lại cần “hợp nhất”? Cùng tìm hiểu nhé!",
+     "The Party was born at a special conference in early 1930: the unification conference. Why was 'unification' needed? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1929",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "NHU CẦU THÀNH LẬP ĐẢNG",
+   "y": [
+    "1928 – 1929: phong trào “vô sản hoá” của Hội Việt Nam Cách mạng Thanh niên",
+    "Chủ nghĩa Mác – Lê-nin được truyền bá sâu rộng",
+    "Phong trào công nhân, phong trào yêu nước phát triển mạnh",
+    "Cần thành lập Đảng Cộng sản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1928 – 1929, qua phong trào “vô sản hoá” của Hội Việt Nam Cách mạng Thanh niên, chủ nghĩa Mác – Lê-nin được truyền bá sâu rộng vào Việt Nam.",
+     "In 1928–1929, through the Youth League's 'proletarianisation' movement, Marxism–Leninism spread widely in Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào công nhân và phong trào yêu nước phát triển mạnh mẽ. Một nhu cầu được đặt ra: phải thành lập Đảng Cộng sản để đưa cách mạng tiến lên.",
+     "The workers' and patriotic movements grew strongly. A need arose: a Communist Party had to be founded to carry the revolution forward."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "BA TỔ CHỨC CỘNG SẢN RA ĐỜI (1929)",
+   "moc": [
+    [
+     "6 – 1929",
+     "Đông Dương Cộng sản đảng"
+    ],
+    [
+     "8 – 1929",
+     "An Nam Cộng sản đảng"
+    ],
+    [
+     "9 – 1929",
+     "Đông Dương Cộng sản liên đoàn"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1929, các đại biểu của Hội Thanh niên ở Bắc Kì họp tại Hà Nội, tuyên bố thành lập Đông Dương Cộng sản đảng.",
+     "In June 1929, Youth League delegates in Tonkin met in Hà Nội and founded the Indochinese Communist Party."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 8 năm 1929, các cán bộ tiên tiến của Hội tại Tổng bộ và Kì bộ Nam Kì quyết định thành lập An Nam Cộng sản đảng.",
+     "In August 1929, leading League cadres at headquarters and in Cochinchina decided to found the Annam Communist Party."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1929, những đảng viên cấp tiến trong Tân Việt họp ở Sài Gòn, thành lập Đông Dương Cộng sản liên đoàn.",
+     "In September 1929, radical Tân Việt members met in Sài Gòn and founded the Indochinese Communist League."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tổ chức cộng sản nào do những đảng viên cấp tiến trong Tân Việt thành lập?",
+    "lua_chon": [
+     "Đông Dương Cộng sản đảng",
+     "An Nam Cộng sản đảng",
+     "Đông Dương Cộng sản liên đoàn"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tổ chức cộng sản nào do những đảng viên cấp tiến trong Tân Việt thành lập?",
+     "Pause! Which communist organisation was founded by radical Tân Việt members?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: Đông Dương Cộng sản liên đoàn, tháng 9 năm 1929!",
+     "The answer is C: the Indochinese Communist League, September 1929!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "NGUY CƠ CHIA RẼ",
+   "y": [
+    "Ba tổ chức: bước chuẩn bị trực tiếp cho sự thành lập Đảng",
+    "Nhưng hoạt động riêng rẽ, tranh giành ảnh hưởng",
+    "Phong trào có nguy cơ chia rẽ lớn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ba tổ chức cộng sản ra đời chứng tỏ khuynh hướng vô sản đã phát triển, là bước chuẩn bị trực tiếp cho sự thành lập Đảng.",
+     "The birth of three communist organisations showed the proletarian path had grown, a direct step towards founding the Party."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng ba tổ chức hoạt động riêng rẽ, tranh giành ảnh hưởng với nhau. Phong trào cách mạng trong nước đứng trước nguy cơ chia rẽ lớn.",
+     "But the three worked separately and competed for influence. The revolutionary movement at home faced a serious risk of division."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1930",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "HỘI NGHỊ HỢP NHẤT",
+   "y": [
+    "Triệu tập, chủ trì: Nguyễn Ái Quốc – phái viên của Quốc tế Cộng sản",
+    "Địa điểm: Hương Cảng (Trung Quốc)",
+    "Bắt đầu: 6 – 1 – 1930",
+    "Đại biểu: Đông Dương Cộng sản đảng, An Nam Cộng sản đảng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong bối cảnh đó, Nguyễn Ái Quốc, với tư cách phái viên của Quốc tế Cộng sản, đã triệu tập và chủ trì Hội nghị hợp nhất các tổ chức cộng sản tại Hương Cảng, Trung Quốc.",
+     "In that situation, Nguyễn Ái Quốc, as an envoy of the Communist International, convened and chaired the conference to unify the communist organisations in Hong Kong, China."
+    ],
+    [
+     "Nhật Minh",
+     "Hội nghị bắt đầu từ ngày 6 tháng 1 năm 1930, với các đại biểu của Đông Dương Cộng sản đảng và An Nam Cộng sản đảng.",
+     "The conference opened on 6 January 1930, attended by delegates of the Indochinese Communist Party and the Annam Communist Party."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam diễn ra ở đâu?",
+    "lua_chon": [
+     "Quảng Châu",
+     "Hương Cảng",
+     "Sài Gòn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hội nghị hợp nhất diễn ra ở đâu?",
+     "Quick test! Where did the unification conference take place?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Hương Cảng, Trung Quốc, đầu năm 1930!",
+     "The answer is B: Hong Kong, China, in early 1930!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "QUYẾT ĐỊNH CỦA HỘI NGHỊ",
+   "y": [
+    "Thống nhất thành một đảng duy nhất: Đảng Cộng sản Việt Nam",
+    "Thông qua Chính cương, Sách lược, Điều lệ vắn tắt, Chương trình tóm tắt",
+    "Văn kiện do Nguyễn Ái Quốc soạn thảo",
+    "24 – 2 – 1930: Đông Dương Cộng sản liên đoàn gia nhập"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội nghị nhất trí thống nhất các tổ chức cộng sản thành một đảng duy nhất: Đảng Cộng sản Việt Nam.",
+     "The conference unanimously agreed to merge the communist organisations into a single party: the Communist Party of Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Hội nghị thông qua Chính cương vắn tắt, Sách lược vắn tắt, Điều lệ vắn tắt và Chương trình tóm tắt của Đảng, do Nguyễn Ái Quốc soạn thảo.",
+     "It adopted the Party's Brief Political Platform, Brief Strategy, Brief Statutes and Summary Programme, drafted by Nguyễn Ái Quốc."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 8 tháng 2 năm 1930, các đại biểu lên đường về nước. Ngày 24 tháng 2, Đông Dương Cộng sản liên đoàn cũng gia nhập Đảng Cộng sản Việt Nam.",
+     "On 8 February 1930, the delegates set off for home. On 24 February, the Indochinese Communist League also joined the Party."
+    ]
+   ],
+   "nguon_trang": [
+    28,
+    29
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "CƯƠNG LĨNH CHÍNH TRỊ ĐẦU TIÊN",
+   "y": [
+    "Chiến lược: tư sản dân quyền cách mạng và thổ địa cách mạng → xã hội cộng sản",
+    "Nhiệm vụ: đánh đổ đế quốc Pháp, phong kiến; Việt Nam hoàn toàn độc lập",
+    "Lập Chính phủ công – nông – binh; chia ruộng đất cho dân cày nghèo",
+    "Đảng: “đội tiên phong” của giai cấp vô sản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các văn kiện ấy trở thành Cương lĩnh chính trị đầu tiên của Đảng. Đường lối chiến lược: làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+     "These documents became the Party's first Political Platform. Its strategy: a bourgeois democratic revolution and a land revolution, leading to communist society."
+    ],
+    [
+     "Hân Hân",
+     "Nhiệm vụ là đánh đổ đế quốc Pháp và phong kiến, làm cho Việt Nam hoàn toàn độc lập, lập Chính phủ công – nông – binh, tịch thu ruộng đất của đế quốc chia cho dân cày nghèo.",
+     "Its tasks: overthrow French imperialism and the feudalists, win full independence, set up a workers'–peasants'–soldiers' government and give imperialist-held land to poor peasants."
+    ],
+    [
+     "Nhật Minh",
+     "Đảng là “đội tiên phong” của giai cấp vô sản, đồng thời phải đoàn kết với dân cày, tiểu tư sản, trí thức, trung nông.",
+     "The Party was the 'vanguard' of the working class, while uniting with peasants, the petty bourgeoisie, intellectuals and middle peasants."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội nghị hợp nhất các tổ chức cộng sản có ý nghĩa như",
+    "lua_chon": [
+     "Đại hội thành lập Đảng",
+     "Đại hội Đảng lần thứ II",
+     "Đại hội Quốc dân"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nữa! Hội nghị hợp nhất các tổ chức cộng sản có ý nghĩa như sự kiện nào?",
+     "One more! The unification conference had the significance of which event?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: như Đại hội thành lập Đảng!",
+     "The answer is A: the Party's founding congress!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "BƯỚC NGOẶT LỊCH SỬ",
+   "y": [
+    "Kết hợp chủ nghĩa Mác – Lê-nin với phong trào công nhân và phong trào yêu nước",
+    "Chấm dứt khủng hoảng về đường lối cứu nước và giai cấp lãnh đạo",
+    "Cách mạng Việt Nam thành bộ phận khăng khít của cách mạng thế giới",
+    "Bước chuẩn bị tất yếu đầu tiên cho những bước nhảy vọt về sau"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự thành lập Đảng là một bước ngoặt lịch sử, kết quả của sự kết hợp giữa chủ nghĩa Mác – Lê-nin với phong trào công nhân và phong trào yêu nước Việt Nam.",
+     "The Party's founding was a historic turning point, the result of combining Marxism–Leninism with Vietnam's workers' and patriotic movements."
+    ],
+    [
+     "Nhật Minh",
+     "Đảng ra đời đã chấm dứt sự khủng hoảng về đường lối cứu nước và giai cấp lãnh đạo của cách mạng Việt Nam.",
+     "It ended the crisis over the path to national salvation and over which class should lead the Vietnamese revolution."
+    ],
+    [
+     "Hân Hân",
+     "Từ đây, cách mạng Việt Nam trở thành một bộ phận khăng khít của cách mạng thế giới, và có bước chuẩn bị tất yếu đầu tiên cho những bước phát triển nhảy vọt về sau.",
+     "From then on, Vietnam's revolution became a close part of the world revolution, with the first essential groundwork for its later leaps forward."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · THÀNH LẬP ĐẢNG",
+   "moc": [
+    [
+     "6 – 1929",
+     "Đông Dương Cộng sản đảng"
+    ],
+    [
+     "8 – 1929",
+     "An Nam Cộng sản đảng"
+    ],
+    [
+     "9 – 1929",
+     "Đông Dương Cộng sản liên đoàn"
+    ],
+    [
+     "6 – 1 – 1930",
+     "Hội nghị hợp nhất bắt đầu"
+    ],
+    [
+     "24 – 2 – 1930",
+     "Đông Dương Cộng sản liên đoàn gia nhập"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1929, ba tổ chức cộng sản lần lượt ra đời: tháng 6, tháng 8 và tháng 9.",
+     "Recap! In 1929, three communist organisations were founded: in June, August and September."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 6 tháng 1 năm 1930, Hội nghị hợp nhất bắt đầu tại Hương Cảng.",
+     "6 January 1930: the unification conference opens in Hong Kong."
+    ],
+    [
+     "Nhật Minh",
+     "Và ngày 24 tháng 2 năm 1930, Đông Dương Cộng sản liên đoàn gia nhập Đảng Cộng sản Việt Nam.",
+     "And 24 February 1930: the Indochinese Communist League joins the Party."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Đầu 1930: Hội nghị hợp nhất tại Hương Cảng, do Nguyễn Ái Quốc chủ trì",
+    "Hợp nhất thành Đảng Cộng sản Việt Nam",
+    "Thông qua Cương lĩnh chính trị đầu tiên",
+    "Bước ngoặt: chấm dứt khủng hoảng đường lối và giai cấp lãnh đạo"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: đầu năm 1930, Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất tại Hương Cảng.",
+     "Remember: in early 1930, Nguyễn Ái Quốc chaired the unification conference in Hong Kong."
+    ],
+    [
+     "Hân Hân",
+     "Các tổ chức cộng sản hợp nhất thành Đảng Cộng sản Việt Nam.",
+     "The communist organisations merged into the Communist Party of Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Hội nghị thông qua Cương lĩnh chính trị đầu tiên của Đảng.",
+     "The conference adopted the Party's first Political Platform."
+    ],
+    [
+     "Hân Hân",
+     "Đảng ra đời chấm dứt sự khủng hoảng về đường lối cứu nước và giai cấp lãnh đạo.",
+     "The Party's birth ended the crisis of path and leadership."
+    ]
+   ],
+   "nguon_trang": [
+    28,
+    29
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng cạnh tờ lịch có ngày 3 tháng 2 khoanh đỏ, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Em có biết? Năm 1960, Đại hội đại biểu toàn quốc của Đảng Lao động Việt Nam đã quyết định lấy ngày 3 tháng 2 hằng năm là ngày kỉ niệm thành lập Đảng.",
+     "Did you know? In 1960, the National Congress of the Vietnam Workers' Party chose 3 February each year as the Party's founding anniversary."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao nói Đảng Cộng sản Việt Nam ra đời là một bước ngoặt lịch sử? Nêu hai lí do ở phần bình luận nhé!",
+     "Your challenge: why is the founding of the Communist Party of Vietnam a historic turning point? Give two reasons in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    28,
+    29
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ba tổ chức cộng sản ở Việt Nam ra đời trong năm nào?",
+   "dap_an": [
+    "1925",
+    "1927",
+    "1929",
+    "1930"
+   ],
+   "dung": 2,
+   "trang": 28
+  },
+  {
+   "hoi": "Ai triệu tập và chủ trì Hội nghị hợp nhất các tổ chức cộng sản?",
+   "dap_an": [
+    "Trần Phú",
+    "Nguyễn Ái Quốc",
+    "Lê Hồng Phong",
+    "Tôn Đức Thắng"
+   ],
+   "dung": 1,
+   "trang": 28
+  },
+  {
+   "hoi": "Văn kiện nào KHÔNG được thông qua tại Hội nghị hợp nhất?",
+   "dap_an": [
+    "Chính cương vắn tắt",
+    "Sách lược vắn tắt",
+    "Điều lệ vắn tắt",
+    "Tuyên ngôn Độc lập"
+   ],
+   "dung": 3,
+   "trang": 29
+  },
+  {
+   "hoi": "Đảng Cộng sản Việt Nam ra đời là kết quả của sự kết hợp giữa",
+   "dap_an": [
+    "Chủ nghĩa Mác – Lê-nin với phong trào công nhân và phong trào yêu nước",
+    "Phong trào nông dân với phong trào tư sản",
+    "Tân Việt với Việt Nam Quốc dân đảng",
+    "Quốc tế Cộng sản với Đảng Lập hiến"
+   ],
+   "dung": 0,
+   "trang": 29
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 28–29 và ảnh trang 28 (mốc 6 – 1929, 8 – 1929, 9 – 1929 lấy từ Hình 6.3 do OCR không đọc được; hộp 'Em có biết' về ngày 3 – 2 đọc từ ảnh trang). Tư liệu tr. 29 được diễn đạt lại. Kiến thức chốt của danh mục đúng SGK. Không dùng tranh vẽ Hình 6.4 (có chân dung lãnh tụ): toàn bộ cảnh hội nghị trình bày bằng thẻ chữ dựng bằng code; lãnh tụ chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

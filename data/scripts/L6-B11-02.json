@@ -1,0 +1,370 @@
+{
+ "ma": "L6-B11-02",
+ "ten_tap": "Sự ra đời của các quốc gia sơ kì",
+ "ten_tap_en": "The Birth of the Early States",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 11. Các quốc gia sơ kì ở Đông Nam Á",
+  "trang": [
+   50,
+   51,
+   52
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-dong-nam-a-co-dai",
+  "tho-thu-cong-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, đồng quê, nhịp trống đồng nhẹ; mở rộng khi nói về giao lưu",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; trục thời gian vẽ lại theo SGK tr. 50. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 11, tr. 50–52.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Sân trường FPT trang trí ngày hội ASEAN: dãy cờ nhiều màu (không ghi chữ), các gian trưng bày bông lúa, gia vị; Nhật Minh và Hân Hân (đồng phục FPT) đứng trước gian trưng bày bó lúa vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu biết không, Cộng đồng ASEAN hôm nay mang hành trang từ những giá trị mà cư dân Đông Nam Á cổ xưa để lại.",
+     "Did you know? Today's ASEAN Community carries values left by the ancient peoples of Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy những quốc gia đầu tiên ở Đông Nam Á đã ra đời như thế nào? Cùng đi tìm hiểu nhé!",
+     "So how were the first states of Southeast Asia born? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VII TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Toàn cảnh biển và đất liền Đông Nam Á nhìn từ trên cao (không đường biên): những con thuyền buồm cổ đi từ đại dương phía tây sang đại dương phía đông, đi qua giữa các bán đảo và quần đảo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đông Nam Á nằm án ngữ trên con đường hàng hải nối liền Ấn Độ Dương với Thái Bình Dương.",
+     "Southeast Asia sits astride the sea route linking the Indian and Pacific Oceans."
+    ],
+    [
+     "Hân Hân",
+     "Từ lâu, nơi đây được coi là cầu nối giữa Trung Quốc, Nhật Bản với Ấn Độ, Tây Á và Địa Trung Hải, như một “ngã tư đường” của thế giới.",
+     "For ages it was the bridge between China and Japan on one side and India, West Asia and the Mediterranean on the other, a 'crossroads' of the world."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a-co-dai"
+   ],
+   "hinh": "Mùa mưa nhiệt đới: cánh đồng lúa nước xanh mướt trải dài trên đất liền, xa xa là những hòn đảo phủ rừng; bên bờ ruộng có những cây quế, cây hồi toả hương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Nam Á gồm hai khu vực: Đông Nam Á lục địa và Đông Nam Á hải đảo, nằm trong vùng nhiệt đới gió mùa, mưa nhiều.",
+     "Southeast Asia has two parts, mainland and islands, both in the tropical monsoon zone with heavy rain."
+    ],
+    [
+     "Nhật Minh",
+     "Vì vậy, nơi đây được biết đến là “cái nôi” của nền văn minh lúa nước, và là quê hương của nhiều cây gia vị, hương liệu nổi tiếng.",
+     "So it's known as the 'cradle' of wet-rice civilisation, and home to many famous spices and aromatics."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đông Nam Á được biết đến là “cái nôi” của nền văn minh nào?",
+    "lua_chon": [
+     "Văn minh lúa nước",
+     "Văn minh du mục",
+     "Văn minh sa mạc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đông Nam Á được biết đến là “cái nôi” của nền văn minh nào?",
+     "Pause! Southeast Asia is known as the cradle of which civilisation?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: văn minh lúa nước!",
+     "The answer is A: wet-rice civilisation!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a-co-dai",
+    "tho-thu-cong-co-dai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi dọc bờ ruộng trong một làng cổ Đông Nam Á: người cấy lúa dưới ruộng nước, bên hiên nhà sàn có thợ đúc đồng, thợ rèn sắt, người dệt vải, người nặn gốm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ những thế kỉ trước Công nguyên đến đầu Công nguyên, cư dân Đông Nam Á đã phát triển nông nghiệp trồng lúa nước,",
+     "From the centuries BCE to the start of the Common Era, Southeast Asians developed wet-rice farming,"
+    ],
+    [
+     "Nhật Minh",
+     "cùng các nghề thủ công truyền thống như đúc đồng, rèn sắt, dệt, làm gốm. Đó chính là cơ sở cho sự ra đời các quốc gia sơ kì!",
+     "plus traditional crafts like bronze-casting, ironworking, weaving and pottery. That was the basis for the first states!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a-co-dai"
+   ],
+   "hinh": "Một bến sông cổ ở Đông Nam Á: thuyền buôn từ phương xa cập bến, thương nhân trao đổi đồ gốm, vải vóc với cư dân bản địa; một người mang theo tượng Phật nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự ra đời của các quốc gia này còn gắn liền với hoạt động giao lưu kinh tế, văn hoá với Trung Quốc, Ấn Độ.",
+     "Their rise was also tied to economic and cultural exchange with China and India."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a-co-dai"
+   ],
+   "hinh": "Ba khung cảnh xếp cạnh nhau: một làng nhà sàn bên sông Hồng với trống đồng; một vùng ven biển miền Trung có thuyền buồm; một vùng sông nước phương Nam có kênh rạch và chợ thuyền",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng thế kỉ VII trước Công nguyên đến thế kỉ VII, Đông Nam Á lần lượt xuất hiện một số quốc gia sơ kì.",
+     "From around the 7th century BCE to the 7th century CE, early states appeared one after another in Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Như Văn Lang – Âu Lạc, Chăm-pa, Phù Nam trên đất Việt Nam, các quốc gia ở hạ lưu sông Chao Phray-a thuộc Thái Lan và trên các đảo thuộc In-đô-nê-xi-a ngày nay.",
+     "Such as Văn Lang – Âu Lạc, Champa and Funan in Việt Nam, states on the lower Chao Phraya in Thailand, and on the islands of today's Indonesia."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Các quốc gia sơ kì ở Đông Nam Á lần lượt xuất hiện trong khoảng thời gian nào?",
+    "lua_chon": [
+     "Thế kỉ VII TCN – thế kỉ VII",
+     "Thế kỉ VII – thế kỉ X",
+     "Thế kỉ X – thế kỉ XV"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Các quốc gia sơ kì ở Đông Nam Á xuất hiện trong khoảng thời gian nào?",
+     "Quick test! When did Southeast Asia's early states appear?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: khoảng thế kỉ VII trước Công nguyên đến thế kỉ VII!",
+     "The answer is A: from about the 7th century BCE to the 7th century CE!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐÔNG NAM Á CỔ",
+   "moc": [
+    [
+     "Thời tiền sử",
+     "Cư dân nguyên thuỷ"
+    ],
+    [
+     "Từ thế kỉ VII TCN",
+     "Hình thành các quốc gia sơ kì"
+    ],
+    [
+     "Từ thế kỉ VII",
+     "Hình thành các vương quốc phong kiến"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng nhìn trên trục thời gian nhé! Sau thời tiền sử,",
+     "Let's see it on a timeline! After prehistory,"
+    ],
+    [
+     "Hân Hân",
+     "từ thế kỉ VII trước Công nguyên hình thành các quốc gia sơ kì,",
+     "from the 7th century BCE the early states formed,"
+    ],
+    [
+     "Nhật Minh",
+     "và từ thế kỉ VII hình thành các vương quốc phong kiến.",
+     "and from the 7th century CE came the feudal kingdoms."
+    ]
+   ],
+   "nguon_trang": [
+    50,
+    52
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Vị trí: “ngã tư đường”, cầu nối Ấn Độ Dương – Thái Bình Dương",
+    "“Cái nôi” của văn minh lúa nước, quê hương gia vị, hương liệu",
+    "Cơ sở: lúa nước, thủ công (đúc đồng, rèn sắt, dệt, gốm) + giao lưu với Trung Quốc, Ấn Độ",
+    "Văn Lang – Âu Lạc, Chăm-pa, Phù Nam… (thế kỉ VII TCN – thế kỉ VII)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Đông Nam Á là “ngã tư đường” nối Ấn Độ Dương với Thái Bình Dương.",
+     "Remember: Southeast Asia is the crossroads linking the Indian and Pacific Oceans."
+    ],
+    [
+     "Hân Hân",
+     "Đây là “cái nôi” của văn minh lúa nước, quê hương của gia vị, hương liệu.",
+     "It's the cradle of wet-rice civilisation and home of spices and aromatics."
+    ],
+    [
+     "Nhật Minh",
+     "Lúa nước, nghề thủ công và giao lưu với Trung Quốc, Ấn Độ là cơ sở ra đời các quốc gia sơ kì.",
+     "Wet rice, crafts and exchange with China and India laid the groundwork for the early states."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu là Văn Lang – Âu Lạc, Chăm-pa, Phù Nam.",
+     "Such as Văn Lang – Âu Lạc, Champa and Funan."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    52
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại gian trưng bày bó lúa vàng trong ngày hội ASEAN, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy sưu tầm những câu thành ngữ, tục ngữ của người Việt liên quan đến lúa, gạo. Ai tìm được nhiều nhất? Bình luận nhé!",
+     "Your challenge: collect Vietnamese idioms and proverbs about rice. Who can find the most? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đông Nam Á nằm án ngữ trên con đường hàng hải nối liền",
+   "dap_an": [
+    "Ấn Độ Dương với Thái Bình Dương",
+    "Đại Tây Dương với Thái Bình Dương",
+    "Địa Trung Hải với Biển Đen",
+    "Bắc Băng Dương với Ấn Độ Dương"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Cơ sở cho sự ra đời của các quốc gia sơ kì ở Đông Nam Á là",
+   "dap_an": [
+    "Nông nghiệp trồng lúa nước và các nghề thủ công truyền thống",
+    "Chăn nuôi du mục",
+    "Khai thác dầu mỏ",
+    "Buôn bán nô lệ"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Quốc gia sơ kì nào sau đây thuộc lãnh thổ Việt Nam ngày nay?",
+   "dap_an": [
+    "Phù Nam",
+    "Sri Vi-giay-a",
+    "Ka-lin-ga",
+    "Pa-gan"
+   ],
+   "dung": 0,
+   "trang": 52
+  },
+  {
+   "hoi": "Sự ra đời của các quốc gia sơ kì Đông Nam Á còn gắn liền với giao lưu kinh tế, văn hoá với",
+   "dap_an": [
+    "Hy Lạp, La Mã",
+    "Trung Quốc, Ấn Độ",
+    "Ai Cập, Lưỡng Hà",
+    "Nhật Bản, Triều Tiên"
+   ],
+   "dung": 1,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 50 (phần mở đầu chương, trục thời gian), tr. 51 (phần mở đầu bài – 'ngã tư đường', mục 1, mục 2), tr. 52 (đoạn về các quốc gia sơ kì), tr. 53 (câu Vận dụng 3). Kiến thức chốt của danh mục khớp SGK (bổ sung nghề dệt, làm gốm theo SGK). Không có lời thoại nhân vật lịch sử; không vẽ đường biên quốc gia.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

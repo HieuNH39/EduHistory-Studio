@@ -1,0 +1,510 @@
+{
+ "ma": "L6-B9-02",
+ "ten_tap": "Dòng chảy lịch sử: Từ nhà Hạ đến Chiến Quốc",
+ "ten_tap_en": "The Flow of History: From the Xia to the Warring States",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 9. Trung Quốc cổ đại",
+  "trang": [
+   39,
+   40,
+   41,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vua-nha-ha-thuong-chu",
+  "chu-hau-thoi-chien-quoc",
+  "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, trang trọng (chuông đồng, đàn dây); dồn dập ở đoạn Chiến Quốc; lắng lại khi tổng kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; cờ hiệu không ghi chữ; trục thời gian vẽ lại theo sơ đồ SGK tr. 39. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 9, tr. 39–41, 43.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học sau giờ tan trường, đứng trước bảng trắng có vẽ sẵn một mũi tên dài còn trống; Hân Hân cầm bút lông, Nhật Minh ôm cuốn SGK Lịch sử và Địa lí 6",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiệm vụ hôm nay: vẽ trục thời gian các giai đoạn phát triển của Trung Quốc thời cổ đại.",
+     "Today's task: draw a timeline of the stages of ancient China."
+    ],
+    [
+     "Nhật Minh",
+     "Hạ, Thương, Chu, rồi Xuân Thu – Chiến Quốc… Muốn vẽ đúng thì phải đi xem tận nơi đã!",
+     "Xia, Shang, Zhou, then the Spring and Autumn and Warring States… To draw it right, we need to see it first!"
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XXI TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luu-vuc-hoang-ha-va-truong-giang"
+   ],
+   "hinh": "Đồng bằng phù sa rộng lớn bên dòng Hoàng Hà nước đục vàng; cư dân cổ đại cuốc đất, gieo hạt; xa xa đê đất đắp dọc bờ sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Trung Quốc xây dựng nền văn minh đầu tiên ở lưu vực Hoàng Hà, sau đó mở rộng đến lưu vực Trường Giang.",
+     "The Chinese built their first civilisation in the Yellow River valley, then spread to the Yangtze valley."
+    ],
+    [
+     "Hân Hân",
+     "Phù sa của hai con sông tạo nên những đồng bằng rộng lớn, phì nhiêu. Nhưng lũ lụt cũng gây ra nhiều khó khăn cho người dân.",
+     "The silt of both rivers formed vast, fertile plains, though floods also caused people many hardships."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-nha-ha-thuong-chu"
+   ],
+   "hinh": "Một khu định cư cổ có tường đất thấp bao quanh; người đứng đầu nhà Hạ khoác áo vải thô, đứng trên nền đất cao nói với đám đông cư dân; cờ hiệu không chữ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng thế kỉ XXI trước Công nguyên, xã hội nguyên thuỷ ở Trung Quốc dần tan rã.",
+     "Around the 21st century BCE, primitive society in China gradually broke down."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà nước sơ khai đầu tiên ra đời: đó là nhà Hạ, tồn tại từ khoảng thế kỉ XXI đến thế kỉ XVI trước Công nguyên.",
+     "The first early state was born: the Xia, lasting from about the 21st to the 16th century BCE."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-nha-ha-thuong-chu"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép bên cột gỗ của một xưởng thủ công thời nhà Thương, nhìn thợ đổ đồng nóng chảy vào khuôn đất, tia lửa bắn; góc bên kia một người cầm dao khắc chữ lên mai rùa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tiếp đó là nhà Thương, từ thế kỉ XVI đến thế kỉ XI trước Công nguyên, đánh dấu bước phát triển quan trọng của Trung Quốc cổ đại.",
+     "Next came the Shang, from the 16th to the 11th century BCE, an important step forward for ancient China."
+    ],
+    [
+     "Hân Hân",
+     "Nhìn kìa! Họ đã biết luyện kim, làm đồ đồng và có chữ viết.",
+     "Look! They could work metal, make bronze and write."
+    ],
+    [
+     "Nhật Minh",
+     "Chữ khắc trên mai rùa, xương thú gọi là chữ giáp cốt, nguồn gốc của chữ Hán ngày nay.",
+     "Writing carved on turtle shells and animal bones is called oracle bone script, the origin of today's Chinese characters."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-nha-ha-thuong-chu"
+   ],
+   "hinh": "Công trường xây cung điện thời cổ: người dân dùng chày gỗ nện chặt từng lớp đất trong khuôn ván để đắp tường thành; phía sau là nền cung điện cao với mái gỗ đang dựng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dưới thời nhà Thương và nhà Chu đã xuất hiện cung điện, thành quách và khu mộ táng của tầng lớp thống trị.",
+     "Under the Shang and Zhou, palaces, walled cities and tombs of the ruling class appeared."
+    ],
+    [
+     "Nhật Minh",
+     "Người xưa đã có kĩ thuật xây tường đất nện, bố cục không gian khá quy củ.",
+     "People knew how to build rammed-earth walls, with quite orderly layouts."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Trung Quốc biết luyện kim, làm đồ đồng và có chữ viết từ thời nhà nào?",
+    "lua_chon": [
+     "Nhà Hạ",
+     "Nhà Thương",
+     "Nhà Tần"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Người Trung Quốc biết luyện kim, làm đồ đồng và có chữ viết từ thời nhà nào?",
+     "Pause! Under which dynasty did the Chinese learn metalwork, bronze-making and writing?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: nhà Thương!",
+     "The answer is B: the Shang!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-nha-ha-thuong-chu"
+   ],
+   "hinh": "Sân cung điện nhà Chu trong một buổi lễ: nhạc công gõ dàn chuông đồng treo trên giá gỗ, vua và quý tộc đứng trang nghiêm, quan lại xếp hàng; chuông có hoa văn chạm khắc (vẽ theo Hình 3 SGK)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Chu là triều đại tồn tại lâu dài nhất trong lịch sử Trung Quốc thời cổ đại, từ thế kỉ XI đến thế kỉ III trước Công nguyên.",
+     "The Zhou was the longest-lasting dynasty of ancient China, from the 11th to the 3rd century BCE."
+    ],
+    [
+     "Hân Hân",
+     "Thời này, kinh tế phát triển, xã hội ngày càng phân hoá rõ rệt.",
+     "In this era, the economy grew and society became more and more divided."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Cận cảnh một chiếc chuông đồng thời Chu (theo Hình 3 SGK): thân chuông phủ hoa văn và những hàng chữ khắc cổ; vồ gỗ của nhạc công vừa gõ vào, sóng âm lan toả",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chuông đồng thời Chu thường dùng trong nghi lễ và âm nhạc cung đình, đồng thời thể hiện quyền lực của tầng lớp thống trị.",
+     "Zhou bronze bells were used in rituals and court music, and also showed the power of the ruling class."
+    ],
+    [
+     "Nhật Minh",
+     "Hoa văn và chữ khắc trên thân chuông giúp các nhà sử học hiểu thêm về xã hội Trung Quốc cổ đại.",
+     "The patterns and writing on the bells help historians understand ancient Chinese society."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xuân Thu – Chiến Quốc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "chu-hau-thoi-chien-quoc"
+   ],
+   "hinh": "Đồng bằng rộng, quân đội của nhiều nước chư hầu với cờ hiệu nhiều màu (không chữ) dàn trận đối đầu nhau, chiến xa và bộ binh; viễn cảnh từ trên cao, không cận cảnh thương vong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ khoảng cuối thế kỉ VIII trước Công nguyên, nhà Chu bước vào giai đoạn Xuân Thu – Chiến Quốc.",
+     "From about the late 8th century BCE, the Zhou entered the Spring and Autumn and Warring States period."
+    ],
+    [
+     "Nhật Minh",
+     "Quyền lực của chính quyền trung ương suy yếu, các nước chư hầu tranh chấp lẫn nhau.",
+     "Central power weakened, and the vassal states fought one another."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "chu-hau-thoi-chien-quoc"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sườn đồi, nhìn xuống đoàn quân nước Tần đông đảo, hàng ngũ chỉnh tề, giáo dài và chiến xa tiến qua thung lũng; bụi mù, nắng chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong số các nước chư hầu, nước Tần có tiềm lực kinh tế, quân sự mạnh nhất.",
+     "Among the vassal states, Qin had the strongest economy and army."
+    ],
+    [
+     "Hân Hân",
+     "Nước Tần lần lượt tiêu diệt các đối thủ. Năm 221 trước Công nguyên, nhà Tần thống nhất Trung Quốc.",
+     "Qin destroyed its rivals one by one. In 221 BCE, the Qin unified China."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Triều đại nào tồn tại lâu dài nhất trong lịch sử Trung Quốc thời cổ đại?",
+    "lua_chon": [
+     "Nhà Hạ",
+     "Nhà Thương",
+     "Nhà Chu"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Triều đại nào tồn tại lâu dài nhất trong lịch sử Trung Quốc thời cổ đại?",
+     "Quick test! Which dynasty lasted longest in ancient China?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: nhà Chu, từ thế kỉ XI đến thế kỉ III trước Công nguyên!",
+     "The answer is C: the Zhou, from the 11th to the 3rd century BCE!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TRUNG QUỐC CỔ ĐẠI",
+   "moc": [
+    [
+     "Thế kỉ XXI – XVI TCN",
+     "Nhà Hạ: nhà nước sơ khai đầu tiên"
+    ],
+    [
+     "Thế kỉ XVI – XI TCN",
+     "Nhà Thương: đồ đồng, chữ viết"
+    ],
+    [
+     "Thế kỉ XI – III TCN",
+     "Nhà Chu: lâu dài nhất"
+    ],
+    [
+     "771 – 221 TCN",
+     "Xuân Thu – Chiến Quốc"
+    ],
+    [
+     "221 TCN",
+     "Nhà Tần thống nhất Trung Quốc"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Giờ thì vẽ được rồi! Thế kỉ XXI đến XVI trước Công nguyên: nhà Hạ, nhà nước sơ khai đầu tiên.",
+     "Now we can draw it! 21st to 16th century BCE: the Xia, the first early state."
+    ],
+    [
+     "Nhật Minh",
+     "Thế kỉ XVI đến XI trước Công nguyên: nhà Thương, với đồ đồng và chữ viết.",
+     "16th to 11th century BCE: the Shang, with bronze and writing."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ XI đến III trước Công nguyên: nhà Chu, triều đại lâu dài nhất.",
+     "11th to 3rd century BCE: the Zhou, the longest dynasty."
+    ],
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ VIII trước Công nguyên là giai đoạn Xuân Thu – Chiến Quốc,",
+     "From the late 8th century BCE: the Spring and Autumn and Warring States period,"
+    ],
+    [
+     "Hân Hân",
+     "và năm 221 trước Công nguyên, nhà Tần thống nhất Trung Quốc.",
+     "and in 221 BCE, the Qin unified China."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại lớp học; trên bảng trắng giờ là trục thời gian vẽ tay đầy đủ năm mốc màu sắc; hai bạn đập tay ăn mừng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xong rồi! Một trục thời gian kéo dài từ nhà Hạ đến khi nhà Tần thống nhất Trung Quốc.",
+     "Done! A timeline from the Xia all the way to the Qin unifying China."
+    ],
+    [
+     "Hân Hân",
+     "Chữ giáp cốt thời ấy còn trở thành nguồn gốc của chữ Hán ngày nay nữa đấy!",
+     "And the oracle bone script of that time became the origin of today's Chinese characters!"
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Nhà Hạ (thế kỉ XXI – XVI TCN): nhà nước sơ khai đầu tiên",
+    "Nhà Thương (thế kỉ XVI – XI TCN): luyện kim, đồ đồng, chữ viết",
+    "Nhà Chu (thế kỉ XI – III TCN): tồn tại lâu dài nhất",
+    "Xuân Thu – Chiến Quốc: chư hầu tranh chấp; Tần thống nhất (221 TCN)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nhà Hạ là nhà nước sơ khai đầu tiên của Trung Quốc.",
+     "Remember: the Xia was China's first early state."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Thương: người Trung Quốc biết luyện kim, làm đồ đồng và có chữ viết.",
+     "The Shang: the Chinese learned metalwork, bronze-making and writing."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà Chu là triều đại tồn tại lâu dài nhất thời cổ đại.",
+     "The Zhou was the longest dynasty of ancient times."
+    ],
+    [
+     "Hân Hân",
+     "Thời Xuân Thu – Chiến Quốc, các nước chư hầu tranh chấp, cuối cùng nước Tần thống nhất Trung Quốc năm 221 trước Công nguyên.",
+     "In the Spring and Autumn and Warring States period the vassals fought, until Qin unified China in 221 BCE."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng hai bên bảng trắng có trục thời gian, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: tự vẽ trục thời gian Trung Quốc cổ đại vào vở, rồi bình luận xem triều đại nào cậu thấy ấn tượng nhất, vì sao nhé!",
+     "Your challenge: draw the ancient China timeline in your notebook, then comment which dynasty impressed you most, and why!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà nước sơ khai đầu tiên ở Trung Quốc là",
+   "dap_an": [
+    "Nhà Chu",
+    "Nhà Thương",
+    "Nhà Hạ",
+    "Nhà Tần"
+   ],
+   "dung": 2,
+   "trang": 41
+  },
+  {
+   "hoi": "Nhà Thương tồn tại trong khoảng thời gian nào?",
+   "dap_an": [
+    "Thế kỉ XXI – XVI TCN",
+    "Thế kỉ XVI – XI TCN",
+    "Thế kỉ XI – III TCN",
+    "Thế kỉ III – I TCN"
+   ],
+   "dung": 1,
+   "trang": 41
+  },
+  {
+   "hoi": "Đặc điểm của giai đoạn Xuân Thu – Chiến Quốc là",
+   "dap_an": [
+    "Chính quyền trung ương ngày càng mạnh",
+    "Quyền lực trung ương suy yếu, các nước chư hầu tranh chấp lẫn nhau",
+    "Xã hội nguyên thuỷ bắt đầu tan rã",
+    "Nhà Hạ ra đời"
+   ],
+   "dung": 1,
+   "trang": 41
+  },
+  {
+   "hoi": "Nước nào có tiềm lực kinh tế, quân sự mạnh nhất, lần lượt tiêu diệt các đối thủ thời Chiến Quốc?",
+   "dap_an": [
+    "Nước Tần",
+    "Nước Sở",
+    "Nước Hạ",
+    "Nước Thương"
+   ],
+   "dung": 0,
+   "trang": 41
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 40 (mục 1), tr. 41 (mục 2, Hình 3, mục 3 – chữ giáp cốt), tr. 43 (cung điện, tường đất nện) và ảnh trang tr. 39 (trục thời gian: Hạ XXI – XVI TCN, Thương XVI – XI TCN, Chu XI – III TCN, Xuân Thu – Chiến Quốc 771 – 221 TCN, 221 TCN nhà Tần thống nhất; OCR tr. 39 đọc hỏng số 771 nên mốc 771 chỉ ghi trên nhãn trục, lời đọc dùng 'cuối thế kỉ VIII TCN' theo tr. 41). Hiệu đính kiến thức chốt của danh mục: SGK không nói nhà Chu 'sau đó suy yếu dẫn đến thời Chiến Quốc' mà nói 'từ khoảng cuối thế kỉ VIII TCN, nhà Chu bước vào giai đoạn Xuân Thu – Chiến Quốc', tức Xuân Thu – Chiến Quốc thuộc thời Chu; nhà Thương 'biết luyện kim, làm đồ đồng và có chữ viết'. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

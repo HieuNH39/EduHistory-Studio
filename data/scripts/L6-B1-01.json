@@ -1,0 +1,185 @@
+{
+ "ma": "L6-B1-01",
+ "ten_tap": "Chiếc máy tính thời gian",
+ "ten_tap_en": "The Time-Travelling Computer",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 1. Lịch sử và cuộc sống",
+  "trang": [
+   9
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, vui, tò mò, nhịp điện tử nhẹ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Ảnh máy tính ENIAC và máy tính thế hệ thứ 4 là ảnh tư liệu (như Hình 1 SGK tr. 9). Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 1, tr. 9.",
+ "chinh_sach_hinh": "Hình máy tính đời cũ dùng ảnh tư liệu công khai (ghi nguồn, kiểm tra giấy phép), không dùng AI vẽ lại; Minh – Hân chỉ xuất hiện ở hiện tại; khung dọc 9:16.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh (đồng phục FPT) ngồi gõ chiếc máy tính xách tay mỏng nhẹ trong lớp học, Hân Hân ghé sát vai, mỉm cười bí ẩn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc máy tính xách tay mỏng nhẹ này có “cụ tổ” to bằng cả căn phòng đấy!",
+     "This slim laptop has a great-great-grandparent the size of a whole room!"
+    ],
+    [
+     "Nhật Minh",
+     "Thật á? Cho tớ xem với!",
+     "Really? Show me!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: máy tính điện tử đầu tiên trên thế giới ENIAC (1946), chiếm kín một căn phòng (như Hình 1a SGK tr. 9)",
+    "tim": "ENIAC 1946 photograph",
+    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn; cắt khung dọc"
+   },
+   "hinh": "Ảnh tư liệu: máy tính ENIAC năm 1946",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ENIAC, máy tính điện tử đầu tiên trên thế giới, năm 1946.",
+     "This is ENIAC, the world's first electronic computer, from 1946."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: máy tính thế hệ thứ 4 (1971 – 1980), loại để bàn có màn hình và bàn phím (như Hình 1b SGK tr. 9)",
+    "tim": "1970s personal computer photograph",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; cắt khung dọc"
+   },
+   "hinh": "Ảnh tư liệu: máy tính thế hệ thứ 4 (1971 – 1980)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Rồi đến máy tính thế hệ thứ 4, những năm 1971 đến 1980. Và hôm nay là máy tính xách tay!",
+     "Then came fourth-generation computers, from 1971 to 1980. And today, laptops!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Sự thay đổi theo thời gian của mọi sự vật, con người và xã hội chính là gì?",
+    "lua_chon": [
+     "Lịch sử",
+     "Địa lí",
+     "Toán học"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Sự thay đổi theo thời gian ấy chính là gì?",
+     "Pause! What do we call change over time?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: lịch sử!",
+     "The answer is A: history!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng cạnh chiếc máy tính xách tay, nhìn thẳng về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Máy tính, con người và cả xã hội loài người đều biến đổi theo thời gian. Sự thay đổi đó chính là lịch sử!",
+     "Computers, people and all of human society change over time. That change is history!"
+    ],
+    [
+     "Hân Hân",
+     "Bình luận nhé: đồ vật nào trong nhà cậu đã thay đổi nhiều nhất theo thời gian?",
+     "Comment below: which thing in your home has changed the most over time?"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Máy tính điện tử đầu tiên trên thế giới là",
+   "dap_an": [
+    "ENIAC (1946)",
+    "Máy tính xách tay",
+    "Máy tính thế hệ thứ 4",
+    "Điện thoại thông minh"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Lịch sử là",
+   "dap_an": [
+    "Tất cả những gì đã xảy ra trong quá khứ",
+    "Những gì sẽ xảy ra trong tương lai",
+    "Chỉ chuyện của các vị vua",
+    "Chỉ chuyện trong sách"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Lịch sử còn được hiểu là",
+   "dap_an": [
+    "Một khoa học nghiên cứu và phục dựng lại quá khứ",
+    "Một môn thể thao",
+    "Một loại máy tính",
+    "Một cuốn lịch treo tường"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Môn Lịch sử tìm hiểu",
+   "dap_an": [
+    "Quá trình hình thành và phát triển của xã hội loài người",
+    "Cấu tạo của máy tính",
+    "Các hành tinh trong vũ trụ",
+    "Các loài động vật"
+   ],
+   "dung": 0,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 9 (Hình 1 a – c: ENIAC 1946, máy tính thế hệ thứ 4 1971 – 1980, máy tính xách tay hiện nay; mục 1 – khái niệm lịch sử, môn Lịch sử). Kiến thức chốt của danh mục khớp SGK. Câu 'to bằng cả căn phòng' (cảnh 1) mô tả hình ảnh ENIAC trong Hình 1a, không đưa số đo. Ảnh máy tính dùng ảnh tư liệu, không vẽ AI.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

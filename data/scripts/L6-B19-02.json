@@ -1,0 +1,388 @@
+{
+ "ma": "L6-B19-02",
+ "ten_tap": "Hành trình của những kinh đô Chăm-pa",
+ "ten_tap_en": "The Journey of Champa's Capitals",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 19. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+  "trang": [
+   87,
+   88
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-cham-pa",
+  "khu-lien",
+  "nguoi-dan-tuong-lam",
+  "cu-dan-van-hoa-sa-huynh"
+ ],
+ "nhac": {
+  "tam_trang": "hành trình, rộng mở, âm hưởng trống Ghi-năng và kèn Sa-ra-nai",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện mang tính minh hoạ; địa danh hành chính ngày nay dùng đúng như SGK ghi. Không dựng sa bàn (sự dời đô không phải trận đánh/tuyến hành quân), dùng trục thời gian. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 19, tr. 87–88.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong sảnh Bảo tàng Điêu khắc Chăm Đà Nẵng ngày nay, giữa những pho tượng đá sa thạch cổ; Hân Hân cầm cuốn sổ có vẽ ba chấm tròn nối bằng mũi tên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu biết không, trong hơn tám thế kỉ đầu, Vương quốc Chăm-pa đã có ba kinh đô ở ba nơi khác nhau!",
+     "Did you know? In its first eight-plus centuries, Champa had three capitals in three different places!"
+    ],
+    [
+     "Nhật Minh",
+     "Ba kinh đô cơ à? Vậy mình cùng lần theo hành trình ấy nhé!",
+     "Three capitals? Let's follow that journey!"
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 192",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "khu-lien",
+    "nguoi-dan-tuong-lam"
+   ],
+   "hinh": "Vùng ven biển miền Trung thời Bắc thuộc: Khu Liên, thủ lĩnh người Tượng Lâm, giơ cao giáo dẫn đầu đoàn người dân nổi dậy tiến về phía đồn luỹ của quân đô hộ (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Bắc thuộc, nhà Hán đặt ách cai trị ở vùng đất phía nam dãy Hoành Sơn, gọi là quận Nhật Nam.",
+     "Under northern rule, the Han governed the land south of the Hoành Sơn range, calling it Nhật Nam prefecture."
+    ],
+    [
+     "Hân Hân",
+     "Năm 192, dưới sự lãnh đạo của Khu Liên, người dân Tượng Lâm nổi dậy, lập ra nước Lâm Ấp, tên gọi ban đầu của Vương quốc Chăm-pa.",
+     "In 192, led by Khu Liên, the people of Tượng Lâm rose up and founded Lâm Ấp, the first name of the Champa kingdom."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-van-hoa-sa-huynh"
+   ],
+   "hinh": "Làng ven biển miền Trung thời đồ sắt: cư dân Sa Huỳnh rèn công cụ sắt, nặn những chiếc chum gốm lớn; thuyền đánh cá trên bãi cát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ hơn 2 000 năm trước, chủ nhân văn hoá Sa Huỳnh thuộc thời đại đồ sắt đã sống trên dải đất miền Trung.",
+     "Over 2,000 years ago, the Iron Age people of the Sa Huỳnh culture lived along central Việt Nam."
+    ],
+    [
+     "Nhật Minh",
+     "Về sau, người Sa Huỳnh trở thành một bộ phận của cư dân Chăm-pa.",
+     "Later, the Sa Huỳnh people became part of the Champa population."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ sông Thu Bồn thời Chăm-pa, nhìn sang bờ bên kia: kinh thành Sin-ha-pu-ra với tường gạch, đền tháp đỏ, thuyền buôn tấp nập",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trạm thứ nhất: trước thế kỉ VIII, cư dân Chăm-pa xây dựng một vương quốc khá hùng mạnh ven sông Thu Bồn.",
+     "Stop one: before the 8th century, the Champa people built a fairly powerful kingdom on the Thu Bồn River."
+    ],
+    [
+     "Hân Hân",
+     "Kinh đô là Sin-ha-pu-ra, nay thuộc xã Duy Xuyên, thành phố Đà Nẵng.",
+     "Its capital was Simhapura, now in Duy Xuyên commune, Đà Nẵng."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trước thế kỉ VIII, kinh đô của Chăm-pa là",
+    "lua_chon": [
+     "Sin-ha-pu-ra",
+     "Vi-ra-pu-ra",
+     "In-đra-pu-ra"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Trước thế kỉ VIII, kinh đô của Chăm-pa là ở đâu?",
+     "Pause! Before the 8th century, what was Champa's capital?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Sin-ha-pu-ra!",
+     "The answer is A: Simhapura!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Đoàn người Chăm-pa với voi, xe và thuyền dọc bờ biển di chuyển về phương nam; phía trước là vùng đất mới có núi và vịnh biển xanh, nơi một kinh thành đang được dựng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trạm thứ hai: thế kỉ VIII, kinh đô dịch chuyển về phía nam, với tên gọi Vi-ra-pu-ra,",
+     "Stop two: in the 8th century, the capital moved south, named Virapura,"
+    ],
+    [
+     "Hân Hân",
+     "nay thuộc xã Ninh Phước, tỉnh Khánh Hoà.",
+     "now in Ninh Phước commune, Khánh Hoà province."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Kinh thành In-đra-pu-ra thời Chăm-pa ở vùng Đồng Dương: tường thành gạch, cổng lớn, những công trình đền tháp và tu viện mái cao; người dân qua lại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trạm thứ ba: thế kỉ IX, cư dân Chăm-pa lại chuyển kinh đô về Đồng Dương, nay là xã Đồng Dương, thành phố Đà Nẵng.",
+     "Stop three: in the 9th century, the capital moved to Đồng Dương, now Đồng Dương commune, Đà Nẵng."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh đô mới có tên là In-đra-pu-ra.",
+     "The new capital was called Indrapura."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KINH ĐÔ CHĂM-PA",
+   "moc": [
+    [
+     "Năm 192",
+     "Lập nước Lâm Ấp"
+    ],
+    [
+     "Trước thế kỉ VIII",
+     "Sin-ha-pu-ra (Duy Xuyên)"
+    ],
+    [
+     "Thế kỉ VIII",
+     "Vi-ra-pu-ra (Ninh Phước)"
+    ],
+    [
+     "Thế kỉ IX",
+     "In-đra-pu-ra (Đồng Dương)"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng tóm tắt nhé! Năm 192, nước Lâm Ấp ra đời.",
+     "Recap! In 192, Lâm Ấp was founded."
+    ],
+    [
+     "Hân Hân",
+     "Trước thế kỉ VIII, kinh đô là Sin-ha-pu-ra.",
+     "Before the 8th century, the capital was Simhapura."
+    ],
+    [
+     "Nhật Minh",
+     "Thế kỉ VIII, kinh đô chuyển về Vi-ra-pu-ra.",
+     "In the 8th century, it moved to Virapura."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ IX, kinh đô là In-đra-pu-ra ở Đồng Dương.",
+     "In the 9th century, the capital was Indrapura at Đồng Dương."
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kinh đô In-đra-pu-ra (thế kỉ IX) ở đâu?",
+    "lua_chon": [
+     "Đồng Dương (Đà Nẵng)",
+     "Ninh Phước (Khánh Hoà)",
+     "Mê Linh (Hà Nội)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Kinh đô In-đra-pu-ra ở đâu?",
+     "Quick test! Where was Indrapura?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Đồng Dương, thành phố Đà Nẵng!",
+     "The answer is A: Đồng Dương, Đà Nẵng!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Năm 192: Khu Liên lập nước Lâm Ấp – tên ban đầu của Chăm-pa",
+    "Trước thế kỉ VIII: kinh đô Sin-ha-pu-ra, ven sông Thu Bồn",
+    "Thế kỉ VIII: kinh đô Vi-ra-pu-ra (Khánh Hoà)",
+    "Thế kỉ IX: kinh đô In-đra-pu-ra (Đồng Dương, Đà Nẵng)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 192, Khu Liên lập nước Lâm Ấp, tên ban đầu của Chăm-pa.",
+     "Remember: in 192, Khu Liên founded Lâm Ấp, Champa's first name."
+    ],
+    [
+     "Hân Hân",
+     "Trước thế kỉ VIII, kinh đô Sin-ha-pu-ra ven sông Thu Bồn.",
+     "Before the 8th century: Simhapura on the Thu Bồn."
+    ],
+    [
+     "Nhật Minh",
+     "Thế kỉ VIII, kinh đô Vi-ra-pu-ra ở Khánh Hoà.",
+     "8th century: Virapura in Khánh Hoà."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ IX, kinh đô In-đra-pu-ra ở Đồng Dương, Đà Nẵng.",
+     "9th century: Indrapura at Đồng Dương, Đà Nẵng."
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sảnh Bảo tàng Điêu khắc Chăm, Hân Hân giơ cuốn sổ có ba chấm kinh đô đã nối đủ; hai bạn nhìn về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy giới thiệu khái quát các giai đoạn phát triển của Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X chỉ trong ba câu. Bình luận nhé!",
+     "Your challenge: sum up Champa's stages of development from the 2nd to the 10th century in just three sentences. Post them in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 192, ai lãnh đạo người dân Tượng Lâm nổi dậy, lập ra nước Lâm Ấp?",
+   "dap_an": [
+    "Khu Liên",
+    "Lý Bí",
+    "Mai Thúc Loan",
+    "Phùng Hưng"
+   ],
+   "dung": 0,
+   "trang": 87
+  },
+  {
+   "hoi": "Lâm Ấp là",
+   "dap_an": [
+    "Tên gọi ban đầu của Vương quốc Chăm-pa",
+    "Tên gọi ban đầu của Phù Nam",
+    "Kinh đô của Văn Lang",
+    "Tên một quận của nhà Hán"
+   ],
+   "dung": 0,
+   "trang": 87
+  },
+  {
+   "hoi": "Thế kỉ VIII, kinh đô Chăm-pa dịch chuyển về phía nam với tên gọi",
+   "dap_an": [
+    "Sin-ha-pu-ra",
+    "Vi-ra-pu-ra",
+    "In-đra-pu-ra",
+    "Óc Eo"
+   ],
+   "dung": 1,
+   "trang": 88
+  },
+  {
+   "hoi": "Trước thế kỉ VIII, vương quốc Chăm-pa khá hùng mạnh nằm ven sông nào?",
+   "dap_an": [
+    "Sông Thu Bồn",
+    "Sông Hồng",
+    "Sông Mã",
+    "Sông Đồng Nai"
+   ],
+   "dung": 0,
+   "trang": 88
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 87 (mục 1a, ô về Sa Huỳnh và Tượng Lâm) và tr. 88 (ba giai đoạn kinh đô; câu hỏi 2). Kiến thức chốt của danh mục khớp SGK; ghi rõ địa danh ngày nay đúng như SGK (xã Duy Xuyên, thành phố Đà Nẵng; xã Ninh Phước, tỉnh Khánh Hoà; xã Đồng Dương, thành phố Đà Nẵng). Không dựng sa bàn: lược đồ Hình 2 (tr. 87) thể hiện lãnh thổ và kinh đô, không phải trận đánh/tuyến hành quân; dùng trục thời gian. Không có lời thoại nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

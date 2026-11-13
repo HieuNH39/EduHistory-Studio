@@ -1,0 +1,415 @@
+{
+ "ma": "L6-B7-02",
+ "ten_tap": "Pha-ra-ông và En-xi: Những người đứng đầu",
+ "ten_tap_en": "Pharaohs and Ensis: The Rulers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 7. Ai Cập và Lưỡng Hà cổ đại",
+  "trang": [
+   29,
+   31
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "me-net",
+  "pha-ra-ong",
+  "en-xi",
+  "ha-mu-ra-bi",
+  "cu-dan-ai-cap-co-dai",
+  "cu-dan-luong-ha-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "uy nghi, trang trọng (kèn, trống trầm), huyền bí sa mạc",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; Mê-nét là ông vua huyền thoại theo SGK; trang phục, cung điện vẽ minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 7, tr. 29, 31.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi chơi cờ vua ở thư viện trường; Hân Hân cầm quân vua giơ lên, Nhật Minh chống cằm suy nghĩ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên bàn cờ, quân vua là quan trọng nhất. Còn ở Ai Cập và Lưỡng Hà cổ đại, nhà vua có quyền lực đến mức nào nhỉ?",
+     "On the board, the king is the most important piece. But how powerful were the kings of ancient Egypt and Mesopotamia?"
+    ],
+    [
+     "Nhật Minh",
+     "Muốn biết thì phải đến tận cung điện của họ. Đi thôi!",
+     "To find out, we'll have to visit their palaces. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "3200 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "me-net",
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Bên bờ sông Nin thời cổ đại, vua Mê-nét đội vương miện cao, cầm vương trượng, đứng trên bậc đá; thủ lĩnh của nhiều công xã (nôm) mang cờ hiệu riêng (không chữ) cúi chào, dân chúng đông đúc phía dưới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng năm 3200 trước Công nguyên, ông vua huyền thoại Mê-nét đã thống nhất các công xã, còn gọi là các nôm, thành Nhà nước Ai Cập.",
+     "Around 3200 BCE, the legendary king Menes united the communities, called nomes, into the state of Egypt."
+    ],
+    [
+     "Mê-nét",
+     "Từ nay, các nôm hợp lại thành một nước Ai Cập!",
+     "From this day, the nomes are joined as one Egypt!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Chuỗi hình nối tiếp như những trang sách lật: kim tự tháp mới xây, đền đá cột lớn, đoàn thuyền trên sông Nin qua nhiều thời kì; cảnh cuối là đoàn quân La Mã đội mũ giáp tiến vào một thành phố Ai Cập",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ đó, Ai Cập trải qua các giai đoạn: Tảo kì vương quốc, Cổ vương quốc, Trung vương quốc, Tân vương quốc và Hậu kì vương quốc.",
+     "Egypt then passed through the Early Dynastic Period and the Old, Middle, New and Late Kingdoms."
+    ],
+    [
+     "Nhật Minh",
+     "Đến giữa thế kỉ I trước Công nguyên, Ai Cập bị La Mã xâm lược và thống trị.",
+     "By the mid-1st century BCE, Egypt was invaded and ruled by Rome."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    31
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "pha-ra-ong"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép sau cột đá khổng lồ trong cung điện Ai Cập cổ đại, nhìn pha-ra-ông ngồi trên ngai vàng, quan lại và binh lính quỳ rạp hai bên; ánh đuốc lung linh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Ai Cập, vua được gọi là pha-ra-ông, nghĩa là “kẻ ngự trong cung điện”.",
+     "In Egypt, the king was called pharaoh, meaning 'the one who dwells in the palace'."
+    ],
+    [
+     "Nhật Minh",
+     "Nhìn cách mọi người quỳ rạp kìa. Quyền lực của pha-ra-ông thật lớn!",
+     "Look how everyone bows down. The pharaoh's power is huge!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã thống nhất các nôm thành Nhà nước Ai Cập vào khoảng năm 3200 TCN?",
+    "lua_chon": [
+     "Mê-nét",
+     "Ha-mu-ra-bi",
+     "Pê-ri-clét"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai đã thống nhất các nôm thành Nhà nước Ai Cập vào khoảng năm 3200 trước Công nguyên?",
+     "Pause! Who united the nomes into the state of Egypt around 3200 BCE?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ông vua huyền thoại Mê-nét!",
+     "The answer is A: the legendary king Menes!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-luong-ha-co-dai"
+   ],
+   "hinh": "Vùng hạ lưu hai con sông ở Lưỡng Hà cổ đại: người Xu-me dựng những thành bang bằng gạch bùn có tường bao, đền tháp nhiều tầng ở giữa, kênh dẫn nước quanh thành",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Lưỡng Hà, khoảng thiên niên kỉ IV trước Công nguyên, người Xu-me đến định cư và xây dựng các nhà nước thành bang ở vùng hạ lưu hai dòng sông.",
+     "In Mesopotamia, around the 4th millennium BCE, the Sumerians settled and built city-states in the lower river valleys."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "en-xi",
+    "cu-dan-luong-ha-co-dai"
+   ],
+   "hinh": "Trong sân đền tháp của một thành bang Xu-me, en-xi mặc áo choàng lông cừu, ngồi trên ghế cao nhận cống phẩm (lúa mạch, gia súc) do dân chúng dâng lên; quan lại ghi chép trên tấm đất sét",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Lưỡng Hà, vua được gọi là en-xi, nghĩa là “người đứng đầu”.",
+     "In Mesopotamia, the king was called ensi, meaning 'the one at the head'."
+    ],
+    [
+     "Nhật Minh",
+     "Sau người Xu-me, người Ác-cát, Át-xi-ri, Ba-bi-lon… lần lượt lập vương triều, thay nhau làm chủ vùng đất này.",
+     "After the Sumerians, the Akkadians, Assyrians, Babylonians… founded dynasties and ruled the land in turn."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ha-mu-ra-bi"
+   ],
+   "hinh": "Kinh thành Ba-bi-lon cổ đại: vua Ha-mu-ra-bi râu dài, đội mũ tròn, đứng trên bậc thềm cung điện nhìn ra thành phố tường gạch; quan lại xếp hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1792 trước Công nguyên, vua Ha-mu-ra-bi bắt đầu thời kì trị vì của mình.",
+     "In 1792 BCE, King Hammurabi began his reign."
+    ],
+    [
+     "Nhật Minh",
+     "Các vương triều cứ thế nối tiếp nhau, cho đến khi Lưỡng Hà bị Ba Tư xâm lược vào năm 539 trước Công nguyên.",
+     "Dynasties followed one another until Mesopotamia was invaded by Persia in 539 BCE."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    31
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · AI CẬP VÀ LƯỠNG HÀ",
+   "moc": [
+    [
+     "Khoảng 3200 TCN",
+     "Mê-nét thống nhất Ai Cập"
+    ],
+    [
+     "3000 TCN",
+     "Thành bang Xu-me hình thành"
+    ],
+    [
+     "1792 TCN",
+     "Ha-mu-ra-bi bắt đầu trị vì"
+    ],
+    [
+     "539 TCN",
+     "Ba Tư xâm lược Lưỡng Hà"
+    ],
+    [
+     "Giữa thế kỉ I TCN",
+     "La Mã xâm lược Ai Cập"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xếp lên trục thời gian nhé! Khoảng năm 3200 trước Công nguyên, Mê-nét thống nhất Ai Cập. Ở Lưỡng Hà, các thành bang của người Xu-me cũng hình thành từ rất sớm.",
+     "Let's map it out! Around 3200 BCE, Menes unites Egypt. In Mesopotamia, the Sumerian city-states also form very early."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1792 trước Công nguyên, Ha-mu-ra-bi bắt đầu trị vì.",
+     "1792 BCE: Hammurabi begins his reign."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 539 trước Công nguyên, Ba Tư xâm lược Lưỡng Hà.",
+     "539 BCE: Persia invades Mesopotamia."
+    ],
+    [
+     "Hân Hân",
+     "Và giữa thế kỉ I trước Công nguyên, La Mã xâm lược Ai Cập.",
+     "And in the mid-1st century BCE, Rome invades Egypt."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    31
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà nước do vua đứng đầu và có toàn quyền gọi là",
+    "lua_chon": [
+     "Nhà nước quân chủ chuyên chế",
+     "Nhà nước dân chủ chủ nô",
+     "Bầy người nguyên thuỷ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Nhà nước do vua đứng đầu và có toàn quyền gọi là gì?",
+     "Quick test! What do we call a state headed by a king with total power?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: nhà nước quân chủ chuyên chế!",
+     "The answer is A: an absolute monarchy!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Khoảng 3200 TCN: Mê-nét thống nhất các nôm thành Nhà nước Ai Cập",
+    "Lưỡng Hà: người Xu-me lập các thành bang ở hạ lưu hai sông",
+    "Vua Ai Cập: pha-ra-ông (kẻ ngự trong cung điện); vua Lưỡng Hà: en-xi (người đứng đầu)",
+    "Vua đứng đầu, có toàn quyền: nhà nước quân chủ chuyên chế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: khoảng năm 3200 trước Công nguyên, Mê-nét thống nhất các nôm thành Nhà nước Ai Cập.",
+     "Remember: around 3200 BCE, Menes united the nomes into the state of Egypt."
+    ],
+    [
+     "Hân Hân",
+     "Ở Lưỡng Hà, người Xu-me xây dựng các nhà nước thành bang ở hạ lưu hai dòng sông.",
+     "In Mesopotamia, the Sumerians built city-states in the lower valleys."
+    ],
+    [
+     "Nhật Minh",
+     "Vua Ai Cập là pha-ra-ông, vua Lưỡng Hà là en-xi.",
+     "Egypt's king was the pharaoh; Mesopotamia's was the ensi."
+    ],
+    [
+     "Hân Hân",
+     "Vua đứng đầu và có toàn quyền: đó là nhà nước quân chủ chuyên chế.",
+     "A king at the top with total power: that's an absolute monarchy."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bàn cờ trong thư viện, Nhật Minh đặt quân vua vào giữa bàn cờ rồi nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: cái tên pha-ra-ông, “kẻ ngự trong cung điện”, nói lên điều gì về vị trí của nhà vua Ai Cập? Bình luận nhé!",
+     "Your challenge: what does the name pharaoh, 'the one who dwells in the palace', tell us about the Egyptian king's position? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vua Ai Cập cổ đại được gọi là",
+   "dap_an": [
+    "En-xi",
+    "Pha-ra-ông",
+    "Hoàng đế",
+    "Chấp chính quan"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Ở Lưỡng Hà, người Xu-me đến định cư và xây dựng các nhà nước thành bang vào khoảng",
+   "dap_an": [
+    "Thiên niên kỉ IV TCN",
+    "Thế kỉ I TCN",
+    "Năm 539 TCN",
+    "Thế kỉ X"
+   ],
+   "dung": 0,
+   "trang": 31
+  },
+  {
+   "hoi": "Lưỡng Hà bị Ba Tư xâm lược vào năm nào?",
+   "dap_an": [
+    "1792 TCN",
+    "3200 TCN",
+    "539 TCN",
+    "Giữa thế kỉ I TCN"
+   ],
+   "dung": 2,
+   "trang": 31
+  },
+  {
+   "hoi": "“En-xi” có nghĩa là",
+   "dap_an": [
+    "Kẻ ngự trong cung điện",
+    "Người đứng đầu",
+    "Con trời",
+    "Người cùng khổ"
+   ],
+   "dung": 1,
+   "trang": 31
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 31 (mục 2) và ảnh trang tr. 29 (trục thời gian: các giai đoạn Ai Cập; Lưỡng Hà 3000 TCN thành bang Xu-me, 1792 TCN Ha-mu-ra-bi bắt đầu trị vì, 539 TCN Ba Tư xâm lược; giữa thế kỉ I TCN La Mã xâm lược Ai Cập). Hiệu đính kiến thức chốt của danh mục: SGK ghi 'khoảng năm 3200 TCN' và Mê-nét là 'ông vua huyền thoại' (danh mục ghi 'Năm 3200 TCN'). Lời đọc không nói số 3000 (OCR tr. 29 không đọc được), chỉ ghi trên nhãn trục thời gian. Lời Mê-nét (cảnh 3) là lời tái hiện diễn đạt lại ý 'thống nhất các nôm thành Nhà nước Ai Cập'.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

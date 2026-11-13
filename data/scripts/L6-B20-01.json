@@ -1,0 +1,204 @@
+{
+ "ma": "L6-B20-01",
+ "ten_tap": "Bí ẩn vương quốc cổ trên đất Nam Bộ",
+ "ten_tap_en": "The Ancient Kingdom of the South",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 20. Vương quốc Phù Nam",
+  "trang": [
+   91,
+   92
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-phu-nam"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, sông nước, nhịp nhanh",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hiện vật văn hoá Óc Eo trong cảnh mở đầu vẽ mờ, không chi tiết hoá (theo Hình 1 SGK); cảnh Óc Eo xưa mang tính minh hoạ; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 20, tr. 91–92.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) cúi sát tủ kính bảo tàng có một chiếc bình gốm cổ và chuỗi hạt đá (hình mờ, không chi tiết), ánh đèn vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bình gốm, chuỗi hạt này thuộc văn hoá Óc Eo, khai quật ở vùng đất Nam Bộ.",
+     "This pot and these beads belong to the Óc Eo culture, dug up in southern Việt Nam."
+    ],
+    [
+     "Nhật Minh",
+     "Chủ nhân của chúng là cư dân một vương quốc cổ: Phù Nam!",
+     "They belonged to the people of an ancient kingdom: Funan!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "VƯƠNG QUỐC PHÙ NAM",
+   "moc": [
+    [
+     "Khoảng thế kỉ I",
+     "Phù Nam ra đời ở Nam Bộ"
+    ],
+    [
+     "Thế kỉ III – V",
+     "Phát triển thành đế chế hùng mạnh"
+    ],
+    [
+     "Đầu thế kỉ VI",
+     "Dần suy yếu"
+    ],
+    [
+     "Đầu thế kỉ VII",
+     "Bị người Chân Lạp xâm chiếm"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng thế kỉ I, Phù Nam ra đời ở vùng Nam Bộ nước ta hiện nay.",
+     "Around the 1st century, Funan arose in what is now southern Việt Nam."
+    ],
+    [
+     "Nhật Minh",
+     "Thế kỉ III đến V, Phù Nam thành đế chế hùng mạnh ở Đông Nam Á.",
+     "In the 3rd to 5th centuries, it became a powerful Southeast Asian empire."
+    ],
+    [
+     "Hân Hân",
+     "Đầu thế kỉ VI suy yếu, đầu thế kỉ VII bị người Chân Lạp xâm chiếm.",
+     "It weakened in the early 6th century and fell to Chenla in the early 7th."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân ngồi trên chiếc ghe nhỏ giữa kênh rạch Óc Eo thời Phù Nam, hai bên là nhà sàn mái lá san sát, thuyền buôn tấp nập",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Óc Eo, thuộc tỉnh An Giang, và Ăng-co Bo-rây, thuộc Cam-pu-chia, là những trung tâm chính trị, kinh tế quan trọng của Phù Nam.",
+     "Óc Eo in An Giang and Angkor Borei in Cambodia were Funan's key political and economic centres."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Phù Nam phát triển thành đế chế hùng mạnh trong khoảng thời gian nào?",
+    "lua_chon": [
+     "Thế kỉ III – V",
+     "Thế kỉ X",
+     "Thế kỉ I TCN"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phù Nam trở thành đế chế hùng mạnh vào khoảng thế kỉ nào?",
+     "Pause! When did Funan become a powerful empire?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: thế kỉ III đến V!",
+     "The answer is A: the 3rd to 5th centuries!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trước tủ kính bảo tàng, nhìn thẳng về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tự vẽ trục thời gian Phù Nam từ khi ra đời đến khi suy vong, rồi khoe ở phần bình luận nhé!",
+     "Your challenge: draw Funan's timeline from rise to fall, and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương quốc Phù Nam ra đời vào khoảng thời gian nào?",
+   "dap_an": [
+    "Khoảng thế kỉ I",
+    "Khoảng thế kỉ VII TCN",
+    "Năm 192",
+    "Thế kỉ X"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Địa bàn chủ yếu của Vương quốc Phù Nam là",
+   "dap_an": [
+    "Khu vực Nam Bộ nước ta hiện nay",
+    "Khu vực Bắc Bộ",
+    "Khu vực Trung Bộ",
+    "Đảo Xu-ma-tơ-ra"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Những trung tâm chính trị, kinh tế quan trọng của Phù Nam là",
+   "dap_an": [
+    "Óc Eo và Ăng-co Bo-rây",
+    "Cổ Loa và Mê Linh",
+    "Sin-ha-pu-ra và Vi-ra-pu-ra",
+    "A-ten và Rô-ma"
+   ],
+   "dung": 0,
+   "trang": 92
+  },
+  {
+   "hoi": "Đầu thế kỉ VII, Phù Nam bị ai xâm chiếm?",
+   "dap_an": [
+    "Người Chân Lạp",
+    "Người Chăm",
+    "Nhà Hán",
+    "Người Mã Lai"
+   ],
+   "dung": 0,
+   "trang": 92
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 91 (phần mở đầu, Hình 1 – hiện vật văn hoá Óc Eo) và tr. 92 (mục 1; câu hỏi lập trục thời gian). Hiệu đính nhỏ kiến thức chốt của danh mục: SGK viết 'đầu thế kỉ VI dần suy yếu… bị người Chân Lạp xâm chiếm vào đầu thế kỉ VII' (danh mục ghi gộp 'suy vong vào thế kỉ VII').",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}
