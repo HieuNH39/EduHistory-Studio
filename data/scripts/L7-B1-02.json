@@ -1,0 +1,493 @@
+{
+ "ma": "L7-B1-02",
+ "ten_tap": "Bên trong một lãnh địa phong kiến",
+ "ten_tap_en": "Inside a Feudal Manor",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 1. Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+  "trang": [
+   10,
+   11
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "lanh-chua-phong-kien",
+  "quy-toc-giec-man",
+  "nong-no",
+  "thuong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, tò mò (đàn dây, sáo); trầm lắng ở cảnh nông nô nộp thuế",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 1, tr. 10–11.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học hiện đại, đứng bên bàn có mô hình lâu đài bằng bìa các-tông tự làm: tường cao, hào nước giấy bóng xanh, nhà thờ nhỏ, những mái nhà tranh xung quanh; nắng chiều qua cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mô hình lâu đài này tụi mình làm theo một bức tranh trong sách Lịch sử 7 đấy. Có lâu đài, có hào nước, có cả nhà ở của nông nô.",
+     "We built this castle model from a picture in our Grade 7 history book. There's a castle, a moat, even the serfs' houses."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng sống trong đó thật sự thế nào nhỉ? Về Tây Âu thời trung đại xem tận mắt đi!",
+     "But what was life inside really like? Let's go back to medieval Western Europe and see!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ IX",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Một quý tộc Tây Âu thời trung đại cưỡi ngựa trên ngọn đồi, tay chỉ xuống vùng đất rộng lớn có rừng, ruộng, làng mạc; phía sau là đoàn tuỳ tùng và cờ hiệu (không vẽ huy hiệu có thật)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thế kỉ IX, các quý tộc nhanh chóng biến những vùng đất rộng lớn thành khu đất riêng, gọi là lãnh địa phong kiến.",
+     "By the 9th century, nobles were rapidly turning vast lands into private estates, called feudal manors."
+    ],
+    [
+     "Hân Hân",
+     "Còn họ trở thành lãnh chúa. Mỗi lãnh chúa giống như một “ông vua” cai quản lãnh địa của mình.",
+     "And they became lords. Each lord was like a 'king' ruling his own manor."
+    ],
+    [
+     "Lãnh chúa",
+     "Từ nay, cả vùng đất này là lãnh địa của ta!",
+     "From now on, all this land is my manor!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-giec-man",
+    "nong-no"
+   ],
+   "hinh": "Hai nhóm người song song: bên trái các quý tộc người Giéc-man và quý tộc La Mã trong áo choàng sang trọng nhận đất, nhận tước vị; bên phải những người nô lệ được tháo xiềng và những nông dân tự do mất ruộng cùng bước về phía cánh đồng của lãnh chúa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lãnh chúa và nông nô từ đâu mà có? Quý tộc người Giéc-man chiếm nhiều ruộng đất của chủ nô La Mã, được phong tước vị. Quý tộc La Mã quy thuận chính quyền mới thì được giữ lại ruộng đất. Họ trở thành lãnh chúa.",
+     "Where did lords and serfs come from? Germanic nobles seized much land from Roman slave owners and received titles. Roman nobles who submitted to the new rulers kept their land. They became lords."
+    ],
+    [
+     "Nhật Minh",
+     "Còn nô lệ được giải phóng và nông dân tự do bị mất ruộng đất thì trở thành nông nô.",
+     "Freed slaves and free peasants who lost their land became serfs."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua-phong-kien",
+    "nong-no"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sườn đồi nhìn xuống một lãnh địa: lâu đài của lãnh chúa giữa vòng tường cao, hào nước chảy bao quanh, nhà thờ, dinh thự, nhà kho, những túp nhà ở của nông nô; vẽ theo bố cục tranh minh hoạ Hình 3 SGK",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn kìa! Lâu đài của lãnh chúa nằm giữa, có tường cao bao quanh và hệ thống hào nước chảy xung quanh.",
+     "Look! The lord's castle sits in the middle, ringed by high walls and a moat."
+    ],
+    [
+     "Hân Hân",
+     "Bên cạnh còn có nhà thờ, dinh thự, nhà kho. Xa hơn là nhà ở của nông nô.",
+     "There's also a church, a mansion and a storehouse. Further out are the serfs' houses."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lãnh địa phong kiến ở Tây Âu thời kì này là gì?",
+    "lua_chon": [
+     "Đơn vị chính trị và kinh tế cơ bản",
+     "Một thành phố buôn bán lớn",
+     "Một trường đại học"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lãnh địa phong kiến ở Tây Âu thời kì này là gì?",
+     "Pause! What was the feudal manor in Western Europe at this time?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: lãnh địa là đơn vị chính trị và kinh tế cơ bản ở Tây Âu thời kì này!",
+     "The answer is A: the manor was the basic political and economic unit of Western Europe then!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no",
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Những nông nô áo vải thô cày ruộng bằng bò trên các mảnh đất quanh lâu đài; viên quản lí của lãnh chúa cầm sổ đứng ở bờ ruộng; lâu đài sừng sững phía xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lãnh địa là một khu đất rộng lớn, gồm đất của lãnh chúa và đất khẩu phần.",
+     "A manor was a large estate, made up of the lord's own land and the peasant plots."
+    ],
+    [
+     "Hân Hân",
+     "Đất khẩu phần ở xung quanh lâu đài được lãnh chúa giao cho nông nô cày cấy, rồi thu tô, thuế.",
+     "The plots around the castle were handed to serfs to farm, and the lord collected rent and taxes."
+    ],
+    [
+     "Nông nô",
+     "Cày xong mảnh ruộng này, lại phải nộp tô cho lãnh chúa…",
+     "When this field is ploughed, we'll owe rent to the lord again…"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Trong đại sảnh lâu đài, lãnh chúa ngồi trên ghế cao xử án; hai bên là binh lính của lãnh chúa; trên bàn có túi tiền, quả cân, thước đo; một người đưa tin mang thư của nhà vua đứng chờ ở cửa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lãnh chúa còn lập ra quân đội, luật pháp, toà án, chế độ thuế khoá, tiền tệ và cả hệ thống đo lường riêng.",
+     "The lord also set up his own army, laws, courts, taxes, money and even his own weights and measures."
+    ],
+    [
+     "Lãnh chúa",
+     "Trong lãnh địa này, luật của ta là luật!",
+     "In this manor, my word is law!"
+    ],
+    [
+     "Hân Hân",
+     "Thậm chí nhà vua cũng không được can thiệp vào lãnh địa của lãnh chúa. Người ta gọi đó là quyền “miễn trừ”.",
+     "Not even the king could interfere in a lord's manor. This was called 'immunity'."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quyền “miễn trừ” của lãnh chúa có nghĩa là gì?",
+    "lua_chon": [
+     "Nông nô không phải nộp thuế",
+     "Nhà vua không được can thiệp vào lãnh địa",
+     "Lãnh chúa không phải nuôi quân"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Quyền “miễn trừ” của lãnh chúa có nghĩa là gì?",
+     "Quick test! What did a lord's 'immunity' mean?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngay cả nhà vua cũng không được can thiệp vào lãnh địa!",
+     "The answer is B: not even the king could interfere in the manor!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa làng nông nô: người xay bột, nướng bánh, dệt vải, rèn nông cụ, chăn gia súc; mọi thứ đều làm tại chỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở đây ai cũng làm việc! Nông nô tự sản xuất ra lương thực, thực phẩm và mọi thứ đồ dùng cho cả lãnh địa.",
+     "Everyone's working! The serfs produce the food and everything the manor needs."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế lãnh địa mang tính chất tự cấp tự túc, trong đó nông nghiệp đóng vai trò chủ đạo.",
+     "The manor economy was self-sufficient, with farming playing the leading role."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Một thương nhân dắt la chở hàng đến cổng lãnh địa, mở các bao muối, thỏi sắt, cuộn lụa và hộp hương liệu cho người quản lí lâu đài xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chỉ những thứ không sản xuất được mới phải mua từ bên ngoài.",
+     "Only things they couldn't make had to be bought from outside."
+    ],
+    [
+     "Thương nhân",
+     "Muối đây! Sắt đây! Còn có lụa và hương liệu từ các nước phương Đông!",
+     "Salt here! Iron here! And silk and spices from the lands of the East!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no",
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Một gia đình nông nô đứng xếp hàng trước sân lâu đài, mang bao thóc, gà, vải nộp cho người thu thuế của lãnh chúa; một đôi vợ chồng trẻ mặc áo cưới giản dị cũng đứng trong hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lãnh chúa sống bằng việc bóc lột sức lao động của nông nô. Nông nô nhận ruộng để cày cấy, phải nộp tô và nhiều loại thuế khác.",
+     "Lords lived by exploiting the serfs' labour. Serfs received land to farm, and had to pay rent and many other taxes."
+    ],
+    [
+     "Nông nô",
+     "Cưới xin cũng phải nộp thuế, ma chay cũng phải nộp thuế…",
+     "There's a tax for weddings, a tax for funerals…"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no",
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở góc sân lâu đài nhìn hàng người nông nô nộp thuế, nét mặt suy tư",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nông nô là lực lượng sản xuất chính, vậy mà phải nộp đủ thứ thuế.",
+     "The serfs were the main workforce, yet they had to pay all kinds of taxes."
+    ],
+    [
+     "Hân Hân",
+     "Còn lãnh chúa thì chi phối mọi mặt đời sống của nông nô. Đó là quan hệ bóc lột.",
+     "And the lord controlled every part of their lives. That was a relationship of exploitation."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại lớp học, bên mô hình lâu đài bìa các-tông; Hân Hân đặt thêm vài hình nông nô nhỏ vào cánh đồng quanh lâu đài",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giờ nhìn lại mô hình mới thấy: lâu đài đẹp là thế, nhưng cả lãnh địa sống nhờ mồ hôi của nông nô.",
+     "Looking at our model now, the castle is beautiful, but the whole manor lived on the serfs' sweat."
+    ],
+    [
+     "Nhật Minh",
+     "Và mỗi lãnh địa gần như là một “vương quốc” nhỏ khép kín, tự lo lấy mọi thứ.",
+     "And each manor was almost a small, closed 'kingdom', providing for itself."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Lãnh địa: đơn vị chính trị và kinh tế cơ bản ở Tây Âu (từ thế kỉ IX)",
+    "Gồm đất của lãnh chúa và đất khẩu phần giao cho nông nô",
+    "Lãnh chúa có quân đội, toà án, thuế khoá, tiền tệ riêng – quyền “miễn trừ”",
+    "Kinh tế tự cấp tự túc, nông nghiệp chủ đạo",
+    "Lãnh chúa bóc lột nông nô qua tô và nhiều loại thuế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ thế kỉ IX, lãnh địa là đơn vị chính trị và kinh tế cơ bản ở Tây Âu.",
+     "Remember: from the 9th century, the manor was the basic political and economic unit of Western Europe."
+    ],
+    [
+     "Hân Hân",
+     "Lãnh địa gồm đất của lãnh chúa và đất khẩu phần giao cho nông nô.",
+     "It included the lord's land and the plots given to serfs."
+    ],
+    [
+     "Nhật Minh",
+     "Lãnh chúa có quân đội, toà án, thuế khoá, tiền tệ riêng, được hưởng quyền “miễn trừ”.",
+     "The lord had his own army, courts, taxes and money, and enjoyed 'immunity'."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế tự cấp tự túc, nông nghiệp giữ vai trò chủ đạo.",
+     "The economy was self-sufficient, led by farming."
+    ],
+    [
+     "Nhật Minh",
+     "Và lãnh chúa bóc lột nông nô qua tô và nhiều loại thuế.",
+     "And lords exploited serfs through rent and many taxes."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem, phía sau là mô hình lâu đài; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: lãnh chúa và nông nô được hình thành từ những tầng lớp nào? Bình luận câu trả lời nhé!",
+     "Your challenge: which social groups did lords and serfs come from? Answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đến thế kỉ nào, những vùng đất rộng lớn ở Tây Âu bị quý tộc biến thành lãnh địa phong kiến?",
+   "dap_an": [
+    "Thế kỉ V",
+    "Thế kỉ IX",
+    "Thế kỉ XI",
+    "Thế kỉ XV"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Nông nô trong xã hội phong kiến Tây Âu được hình thành từ",
+   "dap_an": [
+    "Quý tộc người Giéc-man",
+    "Quý tộc La Mã",
+    "Nô lệ được giải phóng và nông dân tự do mất ruộng",
+    "Thương nhân và thợ thủ công"
+   ],
+   "dung": 2,
+   "trang": 10
+  },
+  {
+   "hoi": "Đặc điểm nổi bật của kinh tế lãnh địa là",
+   "dap_an": [
+    "Buôn bán với phương Đông là chủ yếu",
+    "Tự cấp tự túc, nông nghiệp chủ đạo",
+    "Thủ công nghiệp giữ vai trò chủ đạo",
+    "Dùng tiền giấy thống nhất"
+   ],
+   "dung": 1,
+   "trang": 11
+  },
+  {
+   "hoi": "Những thứ lãnh địa phải mua từ bên ngoài là",
+   "dap_an": [
+    "Lương thực, thực phẩm",
+    "Quần áo, nông cụ",
+    "Sắt, muối và một số hàng xa xỉ",
+    "Gỗ, đá xây lâu đài"
+   ],
+   "dung": 2,
+   "trang": 11
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 10–11 (mục 2, Hình 2 sơ đồ hình thành giai cấp, Hình 3 tranh lãnh địa – nhãn đọc từ ảnh trang). Kiến thức chốt của danh mục khớp SGK; 'đơn vị kinh tế, chính trị cơ bản' đúng tr. 10. Lời lãnh chúa, nông nô, thương nhân là lời dựng, chỉ diễn đạt lại nội dung SGK; không nêu số liệu ngoài SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "ma": "L7-B7-01",
+ "ten_tap": "Huyền thoại về Triệu Voi",
+ "ten_tap_en": "The Legend of a Million Elephants",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 7. Vương quốc Lào",
+  "trang": [
+   39
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-lao-thong",
+  "nguoi-lao-lum",
+  "pha-ngum",
+  "vua-cam-pu-chia"
+ ],
+ "nhac": {
+  "tam_trang": "huyền thoại, sáo và chiêng nhẹ; hùng tráng ở cảnh lên ngôi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 7, tr. 39.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học, trên bàn là một đàn voi gỗ nhỏ xếp hàng dài; Hân Hân giơ một chú voi gỗ lên trước ống kính",
+   "loi": [
+    [
+     "Hân Hân",
+     "Có một đất nước mang tên nghĩa là “Triệu Voi”. Cậu đoán ra chưa?",
+     "There was a country whose name meant 'A Million Elephants'. Can you guess it?"
+    ],
+    [
+     "Nhật Minh",
+     "Lan Xang, vương quốc của người Lào!",
+     "Lan Xang, the kingdom of the Lao people!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lao-thong",
+    "nguoi-lao-lum"
+   ],
+   "hinh": "Khung dọc. Bờ sông Mê Công rộng lớn giữa núi rừng: người Lào Thơng dựng nhà sàn, làm nương; một đoàn người mang theo hành lí, gia súc đi tới, được người Lào Thơng ra đón; Nhật Minh và Hân Hân (đồng phục FPT) đứng quan sát dưới tán cây",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đất nước Lào gắn liền với dòng Mê Công. Từ xa xưa, nơi đây đã có người Lào Thơng sinh sống.",
+     "Laos is bound up with the Mekong. Since ancient times, the Lao Theung lived here."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ XIII, một nhóm người nói tiếng Thái di cư đến, gọi là người Lào Lùm. Hai nhóm sống hoà hợp, hợp chung là người Lào.",
+     "In the 13th century, a Thai-speaking group migrated here, the Lao Loum. The two lived in harmony and together became the Lao people."
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "pha-ngum",
+    "vua-cam-pu-chia"
+   ],
+   "hinh": "Khung dọc. Pha Ngừm (vẽ theo trang phục quý tộc Đông Nam Á thế kỉ XIV, không theo chân dung cụ thể) cưỡi voi dẫn đầu đoàn quân tiến về các mường Lào; phía sau, các thủ lĩnh mường quỳ chào; lá cờ tung bay bên dòng Mê Công",
+   "loi": [
+    [
+     "Pha Ngừm",
+     "Các mường Lào, từ nay hãy về chung một mối!",
+     "Lao muang, from now on let us be one!"
+    ],
+    [
+     "Nhật Minh",
+     "Theo truyền thuyết, Pha Ngừm lớn lên ở triều đình Cam-pu-chia, rồi đem quân về chinh phục các mường Lào.",
+     "Legend says Pha Ngum grew up at the Cambodian court, then led troops home to win over the Lao muang."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1353, Pha Ngừm thống nhất các mường Lào, lên ngôi vua, đặt tên nước là Lan Xang, nghĩa là Triệu Voi!",
+     "In 1353, Pha Ngum united the Lao muang, became king and named the country Lan Xang, meaning 'A Million Elephants'!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tên nước Lan Xang có nghĩa là gì?",
+    "lua_chon": [
+     "Vạn Thắng",
+     "Triệu Voi",
+     "Ngàn Sông"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lan Xang có nghĩa là gì?",
+     "Pause! What does Lan Xang mean?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Triệu Voi!",
+     "The answer is B: A Million Elephants!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân xếp đàn voi gỗ thành hình trái tim trên bàn, cùng nhìn về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ đó, Vương quốc Lào từng bước phát triển, thịnh vượng trong các thế kỉ XV đến XVII.",
+     "From then on, the Lao kingdom grew step by step and flourished from the 15th to the 17th century."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách: người Lào hợp thành từ hai nhóm cư dân nào? Bình luận nhé!",
+     "Challenge: which two groups came together to form the Lao people? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cư dân sinh sống từ xa xưa trên đất Lào được gọi là",
+   "dap_an": [
+    "Người Lào Lùm",
+    "Người Lào Thơng",
+    "Người Khơ-me",
+    "Người Xu-me"
+   ],
+   "dung": 1,
+   "trang": 39
+  },
+  {
+   "hoi": "Đến thế kỉ XIII, nhóm người nói tiếng Thái di cư đến đất Lào được gọi là",
+   "dap_an": [
+    "Người Lào Lùm",
+    "Người Lào Thơng",
+    "Người Chăm",
+    "Người Miến"
+   ],
+   "dung": 0,
+   "trang": 39
+  },
+  {
+   "hoi": "Năm 1353, ai đã thống nhất các mường Lào, lên ngôi vua?",
+   "dap_an": [
+    "Giay-a-vác-man II",
+    "Pha Ngừm",
+    "Đinh Bộ Lĩnh",
+    "Sác-lơ-ma-nhơ"
+   ],
+   "dung": 1,
+   "trang": 39
+  },
+  {
+   "hoi": "Tổ chức xã hội sơ khai của người Lào là",
+   "dap_an": [
+    "các lãnh địa",
+    "các mường cổ",
+    "các thành bang",
+    "các công xã nông thôn kiểu châu Âu"
+   ],
+   "dung": 1,
+   "trang": 39
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 39 (mục 1: Lào gắn với sông Mê Công, người Lào Thơng; thế kỉ XIII người nói tiếng Thái di cư đến – người Lào Lùm; hợp chung là người Lào; các mường cổ; năm 1353 Pha Ngừm thống nhất các mường, lên ngôi, đặt tên nước Lan Xang (Triệu Voi); thịnh vượng thế kỉ XV – XVII; ô 'Kết nối với văn hoá': truyền thuyết Pha Ngừm lớn lên ở triều đình Cam-pu-chia, được vua gả con gái). Đối chiếu danh mục: danh mục đề xuất 'bản đồ di cư … xuống vùng sông Mê Công' – SGK tr. 39 không có lược đồ và chỉ nói 'di cư đến đất Lào', nên không vẽ bản đồ, không nói 'xuống'. Các phương án nhiễu của câu hỏi lấy từ tên riêng có trong SGK (Giay-a-vác-man II, Đinh Bộ Lĩnh, Sác-lơ-ma-nhơ). Lời Pha Ngừm là lời dựng; trang phục vẽ khái quát.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

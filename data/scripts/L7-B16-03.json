@@ -1,0 +1,401 @@
+{
+ "ma": "L7-B16-03",
+ "ten_tap": "Kế sách 'Tránh chỗ mạnh, đánh chỗ yếu'",
+ "ten_tap_en": "'Avoid the Strong, Strike the Weak'",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+  "trang": [
+   80
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nghia-quan-lam-son",
+  "quan-minh",
+  "nguyen-chich",
+  "le-loi",
+  "nhan-dan-nghe-an"
+ ],
+ "nhac": {
+  "tam_trang": "mưu lược, dồn nhịp dần (trống, sáo); khoáng đạt ở cảnh hành quân về phương Nam",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 16, tr. 80.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác gió, ba lô) đứng ở điểm ngắm cảnh trên đèo Hải Vân ngày nay: đường đèo uốn lượn, biển xanh và mây trắng bên dưới, gió thổi tung tóc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đèo Hải Vân đẹp quá! Cậu có biết nghĩa quân Lam Sơn từng giải phóng một vùng rộng lớn kéo dài tới tận đây không?",
+     "Hải Vân Pass is stunning! Did you know the Lam Sơn rebels once freed a huge region stretching all the way here?"
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ một kế sách rất hay: “tránh chỗ mạnh, đánh chỗ yếu”. Về năm 1424 xem nào!",
+     "Thanks to a brilliant strategy: 'avoid the strong, strike the weak'. Let's go back to 1424!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1424",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "quan-minh"
+   ],
+   "hinh": "Căn cứ Lam Sơn giữa núi rừng Thanh Hoá bị bao vây: cờ quân Minh cắm dày đặc dưới chân núi, nghĩa quân đứng trên vách đá nhìn xuống, nét mặt lo âu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghĩa quân Lam Sơn lúc này vẫn bị bao vây ở vùng rừng núi Thanh Hoá.",
+     "The Lam Sơn rebels were still encircled in the mountains of Thanh Hoá."
+    ],
+    [
+     "Hân Hân",
+     "Làm sao để gỡ thế bị bao vây đây?",
+     "How could they break out of the encirclement?"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-chich",
+    "le-loi"
+   ],
+   "hinh": "Trong lều chỉ huy, tướng Nguyễn Chích (giáp nhẹ, khăn chít đầu) chỉ tay vào vùng Nghệ An trên tấm bản đồ vẽ tay, Lê Lợi và các tướng chăm chú lắng nghe",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để gỡ thế bị bao vây, Nguyễn Chích hiến kế tiến vào đánh chiếm Nghệ An làm căn cứ.",
+     "To break the encirclement, Nguyễn Chích proposed seizing Nghệ An as a base."
+    ],
+    [
+     "Nguyễn Chích",
+     "Nghệ An là nơi hiểm yếu, đất rộng, người đông. Nay trước tiên hãy đánh lấy Trà Long, bình định cho được Nghệ An, rồi dựa vào nhân lực, tài lực đất ấy mà quay ra Đông Quan!",
+     "Nghệ An is strategic, with wide land and many people. First take Trà Long and pacify Nghệ An, then use its people and wealth to turn back on Đông Quan!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-chich"
+   ],
+   "hinh": "Chân dung minh hoạ Nguyễn Chích đứng trên đồi nhìn về phương nam, phía sau là đoàn nghĩa quân giương cờ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nguyễn Chích sinh năm 1382, mất năm 1448, quê ở phường Đông Sơn, tỉnh Thanh Hoá.",
+     "Nguyễn Chích, born in 1382 and died in 1448, came from Đông Sơn ward in Thanh Hoá province."
+    ],
+    [
+     "Nhật Minh",
+     "Kế sách của ông thể hiện phương châm “tránh chỗ mạnh, đánh chỗ yếu”, nét đặc sắc của nghệ thuật quân sự Việt Nam.",
+     "His plan embodied the principle 'avoid the strong, strike the weak', a hallmark of Vietnamese military art."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã hiến kế đánh chiếm Nghệ An làm căn cứ?",
+    "lua_chon": [
+     "Nguyễn Chích",
+     "Lê Lai",
+     "Nguyễn Trãi"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai đã hiến kế đánh chiếm Nghệ An làm căn cứ?",
+     "Pause! Who proposed taking Nghệ An as a base?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Nguyễn Chích!",
+     "The answer is A: Nguyễn Chích!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "nhan-dan-nghe-an"
+   ],
+   "hinh": "Nghĩa quân Lam Sơn tiến vào vùng đồng bằng Nghệ An, nhân dân mang cơm nước ra đón, trẻ em chạy theo đoàn quân; cờ nghĩa quân cắm trên một đồn giặc vừa bị hạ (không cảnh bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối năm 1424, nghĩa quân giải phóng Nghệ An.",
+     "In late 1424, the rebels freed Nghệ An."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, nghĩa quân có căn cứ vững chắc để mở rộng giải phóng Tây Đô và Đông Quan.",
+     "From there, they had a solid base to push on to free Tây Đô and Đông Quan."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sườn đèo nhìn đoàn nghĩa quân Lam Sơn dài dằng dặc men theo đường ven biển tiến về phía nam, cờ bay phấp phới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau đó, nghĩa quân giải phóng một vùng rộng lớn từ Thanh Hoá đến tận đèo Hải Vân!",
+     "Then the rebels freed a vast region from Thanh Hoá all the way to Hải Vân Pass!"
+    ],
+    [
+     "Nhật Minh",
+     "Những thắng lợi này đã làm thay đổi căn bản cục diện cuộc chiến, theo hướng có lợi cho nghĩa quân.",
+     "These victories fundamentally changed the course of the war in the rebels' favour."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · GIAI ĐOẠN 1424 – 1425",
+   "moc": [
+    [
+     "Đầu giai đoạn",
+     "Nguyễn Chích hiến kế đánh Nghệ An"
+    ],
+    [
+     "Cuối 1424",
+     "Giải phóng Nghệ An"
+    ],
+    [
+     "1424 – 1425",
+     "Giải phóng từ Thanh Hoá đến đèo Hải Vân"
+    ],
+    [
+     "Kết quả",
+     "Cục diện thay đổi có lợi cho nghĩa quân"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Để gỡ thế bị bao vây, Nguyễn Chích hiến kế đánh Nghệ An.",
+     "Let's recap! To break the siege, Nguyễn Chích proposed striking Nghệ An."
+    ],
+    [
+     "Hân Hân",
+     "Cuối năm 1424, nghĩa quân giải phóng Nghệ An.",
+     "In late 1424, the rebels freed Nghệ An."
+    ],
+    [
+     "Nhật Minh",
+     "Rồi giải phóng một vùng rộng lớn từ Thanh Hoá đến đèo Hải Vân.",
+     "Then they freed a vast area from Thanh Hoá to Hải Vân Pass."
+    ],
+    [
+     "Hân Hân",
+     "Cục diện cuộc chiến thay đổi theo hướng có lợi cho nghĩa quân.",
+     "The war turned in the rebels' favour."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thắng lợi ở Nghệ An và vùng từ Thanh Hoá đến đèo Hải Vân đem lại kết quả gì?",
+    "lua_chon": [
+     "Thay đổi căn bản cục diện, có lợi cho nghĩa quân",
+     "Nghĩa quân phải rút lên núi Chí Linh",
+     "Quân Minh lập tức rút hết về nước"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Những thắng lợi năm 1424 đến 1425 đem lại kết quả gì?",
+     "Quick test! What did the victories of 1424 to 1425 achieve?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thay đổi căn bản cục diện cuộc chiến, có lợi cho nghĩa quân!",
+     "The answer is A: they fundamentally changed the war in the rebels' favour!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyễn Chích hiến kế đánh chiếm Nghệ An làm căn cứ",
+    "Phương châm “tránh chỗ mạnh, đánh chỗ yếu”",
+    "Cuối 1424: giải phóng Nghệ An; sau đó giải phóng từ Thanh Hoá đến đèo Hải Vân",
+    "Cục diện cuộc chiến thay đổi căn bản, có lợi cho nghĩa quân"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Nguyễn Chích hiến kế đánh chiếm Nghệ An làm căn cứ.",
+     "Remember: Nguyễn Chích proposed seizing Nghệ An as a base."
+    ],
+    [
+     "Hân Hân",
+     "Đó là phương châm tránh chỗ mạnh, đánh chỗ yếu.",
+     "That's the principle: avoid the strong, strike the weak."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối năm 1424, nghĩa quân giải phóng Nghệ An, rồi cả vùng từ Thanh Hoá đến đèo Hải Vân.",
+     "In late 1424, the rebels freed Nghệ An, then the whole area from Thanh Hoá to Hải Vân."
+    ],
+    [
+     "Hân Hân",
+     "Cục diện cuộc chiến thay đổi căn bản, có lợi cho nghĩa quân.",
+     "The war fundamentally turned in the rebels' favour."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại điểm ngắm cảnh đèo Hải Vân, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao Nguyễn Chích lại chọn Nghệ An làm căn cứ? Bình luận nhé!",
+     "Your challenge: why did Nguyễn Chích choose Nghệ An as the base? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo Nguyễn Chích, vì sao nên đánh chiếm Nghệ An?",
+   "dap_an": [
+    "Vì Nghệ An là nơi hiểm yếu, đất rộng, người đông",
+    "Vì Nghệ An gần biên giới phía Bắc",
+    "Vì quân Minh tập trung đông nhất ở Nghệ An",
+    "Vì Nghệ An là kinh đô"
+   ],
+   "dung": 0,
+   "trang": 80
+  },
+  {
+   "hoi": "Nghĩa quân Lam Sơn giải phóng Nghệ An vào thời gian nào?",
+   "dap_an": [
+    "Năm 1416",
+    "Đầu năm 1418",
+    "Cuối năm 1424",
+    "Tháng 11 – 1426"
+   ],
+   "dung": 2,
+   "trang": 80
+  },
+  {
+   "hoi": "Sau khi giải phóng Nghệ An, nghĩa quân giải phóng vùng rộng lớn từ đâu đến đâu?",
+   "dap_an": [
+    "Từ Lạng Sơn đến Thăng Long",
+    "Từ Thanh Hoá đến đèo Hải Vân",
+    "Từ Đông Quan đến Chi Lăng",
+    "Từ Lam Sơn đến Lũng Nhai"
+   ],
+   "dung": 1,
+   "trang": 80
+  },
+  {
+   "hoi": "Phương châm “tránh chỗ mạnh, đánh chỗ yếu” gắn với kế sách của ai?",
+   "dap_an": [
+    "Nguyễn Chích",
+    "Lê Lai",
+    "Liễu Thăng",
+    "Vương Thông"
+   ],
+   "dung": 0,
+   "trang": 80
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 80 (mục c 1424 – 1425: Nguyễn Chích hiến kế đánh chiếm Nghệ An, mở rộng giải phóng Tây Đô và Đông Quan; tư liệu 2 lời Nguyễn Chích; cuối năm 1424 giải phóng Nghệ An, rồi từ Thanh Hoá đến đèo Hải Vân, thay đổi căn bản cục diện; Em có biết về Nguyễn Chích 1382 – 1448). SGK không có lược đồ riêng cho giai đoạn này → dùng trục thời gian và ghi nhớ thay bản đồ. Kiến thức chốt của danh mục khớp SGK. Lời Nguyễn Chích trích tư liệu 2 SGK (lược bớt).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

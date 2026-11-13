@@ -1,0 +1,425 @@
+{
+ "ma": "L7-CD1-02",
+ "ten_tap": "C. Cô-lôm-bô và hành trình tìm ra châu Mỹ",
+ "ten_tap_en": "Columbus and the Voyage to the Americas",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 1. Các cuộc đại phát kiến địa lí",
+  "trang": [
+   166,
+   167,
+   168,
+   169
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan-chau-au",
+  "tho-dong-tau",
+  "c-co-lom-bo",
+  "vua-tay-ban-nha",
+  "thuy-thu-tay-ban-nha",
+  "nguoi-lao-dong"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, sóng biển (dây, kèn); vỡ oà khi thấy đất liền; trầm xuống ở phần tác động",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chủ đề chung 1, tr. 166–169.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học, Hân Hân cầm mô hình con tàu buồm gỗ ba cột kiểu Ca-ra-ven, Nhật Minh chỉ vào quả địa cầu ở vùng biển Ca-ri-bê",
+   "loi": [
+    [
+     "Hân Hân",
+     "Con tàu này là tàu Ca-ra-ven, loại tàu từng chở những nhà thám hiểm vượt đại dương.",
+     "This is a caravel, the kind of ship that carried explorers across oceans."
+    ],
+    [
+     "Nhật Minh",
+     "Trên những con tàu như thế, C. Cô-lôm-bô đã đến châu Mỹ. Vì sao ông lại ra khơi? Cùng tìm hiểu nhé!",
+     "On ships like this, Columbus reached the Americas. Why did he set sail? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    166,
+    167
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Các thương nhân Tây Âu trong một kho hàng trống trơn, cau mày nhìn tấm bản đồ con đường buôn bán qua Địa Trung Hải bị gạch chéo; trên tường là bức tranh tưởng tượng về phương Đông vàng son",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ giữa thế kỉ XV, sản xuất ở các nước Tây Âu phát triển, nhu cầu về nguyên liệu, vàng bạc và thị trường ngày càng tăng.",
+     "From the mid-15th century, as Western European production grew, so did the demand for raw materials, gold, silver and markets."
+    ],
+    [
+     "Hân Hân",
+     "Người Tây Âu tưởng tượng phương Đông là thế giới thần tiên giàu có, “khắp mặt đất đều là vàng”. Nhưng các con đường buôn bán truyền thống qua Địa Trung Hải lại bị người Ả Rập và Thổ Nhĩ Kỳ độc chiếm.",
+     "Western Europeans imagined the East as a rich fairyland where 'the whole earth is gold'. But the old trade routes across the Mediterranean were monopolised by Arabs and Turks."
+    ]
+   ],
+   "nguon_trang": [
+    166
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-dong-tau"
+   ],
+   "hinh": "Xưởng đóng tàu ven biển: thợ lắp bánh lái và căng những cánh buồm lớn cho con tàu Ca-ra-ven; trong phòng bên, nhà hàng hải trải hải đồ, đặt la bàn nam châm lên bàn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lúc đó, người châu Âu đã vẽ được bản đồ, hải đồ; các nhà hàng hải nghiên cứu dòng hải lưu, hướng gió. Cuối thế kỉ XV, la bàn được dùng phổ biến.",
+     "By then, Europeans could draw maps and sea charts; navigators studied currents and winds. By the late 15th century, the compass was in common use."
+    ],
+    [
+     "Hân Hân",
+     "Kĩ thuật đóng tàu có bước tiến mới, đóng được những con tàu dài có bánh lái và hệ thống buồm lớn để vượt đại dương, như tàu Ca-ra-ven.",
+     "Shipbuilding advanced, producing long ships with rudders and large sails to cross oceans, like the caravel."
+    ]
+   ],
+   "nguon_trang": [
+    166
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "c-co-lom-bo",
+    "vua-tay-ban-nha"
+   ],
+   "hinh": "C. Cô-lôm-bô (vẽ theo chân dung tư liệu Hình 3 SGK: tóc dài ngang vai, áo choàng sẫm) trình bày tấm hải đồ trước nhà vua Tây Ban Nha trong cung điện, tay chỉ về phía tây",
+   "loi": [
+    [
+     "Nhật Minh",
+     "C. Cô-lôm-bô, sinh năm 1451, mất năm 1506, là người I-ta-li-a. Ông sang Tây Ban Nha vận động tài trợ,",
+     "C. Columbus, born 1451, died 1506, was Italian. He went to Spain to seek funding,"
+    ],
+    [
+     "C. Cô-lôm-bô",
+     "Thưa bệ hạ, cứ đi về hướng tây, chúng ta sẽ tới được Ấn Độ!",
+     "Your Majesty, if we sail west, we will reach India!"
+    ],
+    [
+     "Hân Hân",
+     "và được nhà vua phê chuẩn kế hoạch thám hiểm theo hướng tây để đến Ấn Độ.",
+     "and the king approved his plan to sail west to India."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "C. Cô-lôm-bô là người nước nào?",
+    "lua_chon": [
+     "I-ta-li-a",
+     "Bồ Đào Nha",
+     "Anh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! C. Cô-lôm-bô là người nước nào?",
+     "Pause! Where was Columbus from?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: I-ta-li-a! Nhưng chuyến đi của ông được Tây Ban Nha tài trợ.",
+     "The answer is A: Italy! But his voyage was funded by Spain."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "co-lom-bo-1492",
+   "pha": "hanh_trinh",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Bản đồ: hành trình của C. Cô-lôm-bô vượt Đại Tây Dương (dùng lại tệp co-lom-bo-1492)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 8 năm 1492, C. Cô-lôm-bô cùng các thuỷ thủ Tây Ban Nha giương buồm trên ba chiếc tàu, hướng về phía tây.",
+     "In August 1492, with three ships, Columbus and his Spanish crew left port, heading west."
+    ],
+    [
+     "Hân Hân",
+     "Hơn hai tháng vượt biển, đoàn tàu chạm tới một số đảo ở vùng biển Ca-ri-bê ngày nay.",
+     "After more than two months at sea, they reached some islands in what is now the Caribbean."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "c-co-lom-bo",
+    "thuy-thu-tay-ban-nha"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép ở đuôi tàu, nhìn đoàn thuỷ thủ reo mừng khi thấy dải đất xanh với hàng dừa hiện ra phía chân trời; Cô-lôm-bô đứng ở mũi tàu, tay cầm ống nhòm cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ông đinh ninh rằng mình đã tới “Đông Ấn Độ”.",
+     "He was convinced he had reached the 'East Indies'."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng thực ra đó là một vùng đất mới: châu Mỹ! C. Cô-lôm-bô được coi là người phát hiện ra châu lục này.",
+     "But it was really a new land: the Americas! Columbus is considered the discoverer of this continent."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁC CHUYẾN ĐI CỦA C. CÔ-LÔM-BÔ",
+   "moc": [
+    [
+     "8 – 1492",
+     "Rời Tây Ban Nha, đến vùng biển Ca-ri-bê"
+    ],
+    [
+     "1493",
+     "Thám hiểm châu Mỹ lần 2"
+    ],
+    [
+     "1498",
+     "Thám hiểm châu Mỹ lần 3"
+    ],
+    [
+     "1502",
+     "Thám hiểm châu Mỹ lần 4"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau chuyến đi năm 1492,",
+     "After the 1492 voyage,"
+    ],
+    [
+     "Nhật Minh",
+     "ông còn tiến hành ba cuộc thám hiểm đến châu Mỹ vào các năm 1493, 1498 và 1502.",
+     "he made three more expeditions to the Americas, in 1493, 1498 and 1502."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tính cả chuyến đi năm 1492, C. Cô-lôm-bô đã thực hiện mấy cuộc thám hiểm đến châu Mỹ?",
+    "lua_chon": [
+     "4 cuộc",
+     "2 cuộc",
+     "6 cuộc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Tính cả chuyến năm 1492, C. Cô-lôm-bô thám hiểm châu Mỹ mấy lần?",
+     "Quick test! Counting 1492, how many voyages did Columbus make to the Americas?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: 4 cuộc, trong những năm 1492, 1493, 1498 và 1502!",
+     "The answer is A: 4, in 1492, 1493, 1498 and 1502!"
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au",
+    "nguoi-lao-dong"
+   ],
+   "hinh": "Bến cảng châu Âu tấp nập tàu thuyền chở hàng từ những vùng đất mới, thương nhân giàu có đếm tiền; góc bến, những người nông dân nghèo khổ lặng lẽ đi qua; xa xa một con tàu buôn nô lệ (vẽ trang nghiêm, không bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các cuộc đại phát kiến địa lí mở rộng phạm vi buôn bán trên thế giới, đem lại hiểu biết về những con đường mới, vùng đất mới. Giao lưu văn hoá giữa các dân tộc được mở rộng.",
+     "The great voyages expanded world trade and brought knowledge of new routes and lands. Cultural exchange between peoples widened."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng người lao động, nhất là nông dân, ngày càng bị bần cùng hoá. Phát kiến địa lí còn dẫn đến nạn buôn bán nô lệ và quá trình cướp bóc thuộc địa.",
+     "But working people, especially farmers, grew ever poorer. The voyages also led to the slave trade and colonial plunder."
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân: cần nguyên liệu, vàng bạc, thị trường; đường cũ qua Địa Trung Hải bị độc chiếm",
+    "Điều kiện: bản đồ, hải đồ, la bàn, tàu Ca-ra-ven, sự bảo trợ của nhà nước",
+    "Tháng 8 – 1492: C. Cô-lôm-bô đi về hướng tây, đến vùng biển Ca-ri-bê – châu Mỹ",
+    "Còn ba chuyến nữa: 1493, 1498, 1502"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: người Tây Âu cần nguyên liệu, vàng bạc, thị trường, mà đường cũ qua Địa Trung Hải bị độc chiếm.",
+     "Remember: Western Europe needed materials, gold and markets, but the old Mediterranean routes were blocked."
+    ],
+    [
+     "Hân Hân",
+     "Họ có bản đồ, hải đồ, la bàn, tàu Ca-ra-ven và sự bảo trợ của nhà nước.",
+     "They had maps, sea charts, compasses, caravels and state backing."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 8 năm 1492, C. Cô-lôm-bô đi về hướng tây và đến châu Mỹ.",
+     "In August 1492, Columbus sailed west and reached the Americas."
+    ],
+    [
+     "Hân Hân",
+     "Ông còn ba chuyến nữa vào các năm 1493, 1498 và 1502.",
+     "He made three more voyages, in 1493, 1498 and 1502."
+    ]
+   ],
+   "nguon_trang": [
+    166,
+    168
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại lớp học, đặt mô hình tàu Ca-ra-ven cạnh quả địa cầu, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao C. Cô-lôm-bô lại tin rằng mình đã tới Ấn Độ? Bình luận nhé!",
+     "Your challenge: why did Columbus believe he had reached India? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao đến thế kỉ XV, người Tây Âu cần tìm đường biển mới sang phương Đông?",
+   "dap_an": [
+    "Đường buôn bán qua Địa Trung Hải bị người Ả Rập và Thổ Nhĩ Kỳ độc chiếm",
+    "Họ muốn tìm ra châu Nam Cực",
+    "Phương Đông mời họ sang",
+    "Đường bộ quá ngắn"
+   ],
+   "dung": 0,
+   "trang": 166
+  },
+  {
+   "hoi": "Loại tàu dài có bánh lái và hệ thống buồm lớn để vượt đại dương thời đó là",
+   "dap_an": [
+    "Tàu Ca-ra-ven",
+    "Thuyền độc mộc",
+    "Tàu hơi nước",
+    "Thuyền rồng"
+   ],
+   "dung": 0,
+   "trang": 166
+  },
+  {
+   "hoi": "Tháng 8 – 1492, đoàn của C. Cô-lôm-bô ra khơi trên bao nhiêu chiếc tàu?",
+   "dap_an": [
+    "Hai chiếc",
+    "Ba chiếc",
+    "Bốn chiếc",
+    "Năm chiếc"
+   ],
+   "dung": 1,
+   "trang": 168
+  },
+  {
+   "hoi": "C. Cô-lôm-bô đinh ninh mình đã tới “Đông Ấn Độ”, nhưng thực ra đó là",
+   "dap_an": [
+    "Châu Phi",
+    "Châu Mỹ",
+    "Châu Đại Dương",
+    "Quần đảo Gia vị"
+   ],
+   "dung": 1,
+   "trang": 168
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 166 (nguyên nhân, tư liệu về phương Đông, đường Địa Trung Hải bị độc chiếm; điều kiện: bản đồ, hải đồ, hải lưu, la bàn, tàu Ca-ra-ven), tr. 167 (Hình 1 tàu Ca-ra-ven; sự bảo trợ của nhà nước), tr. 168 (ô về C. Cô-lôm-bô 1451 – 1506; mục a: tháng 8 – 1492, ba chiếc tàu, hơn hai tháng, vùng biển Ca-ri-bê, 'Đông Ấn Độ', các năm 1493, 1498, 1502), tr. 169 (tác động). Kiến thức chốt của danh mục '4 chuyến thám hiểm (1492 – 1502)' là con số suy ra (chuyến 1492 + ba chuyến 1493, 1498, 1502) – đã kiểm tra, đúng; 'mở ra sự kết nối giữa các châu lục' diễn đạt theo SGK tr. 169 (con đường mới, vùng đất mới, giao lưu văn hoá). Dùng lại bản đồ co-lom-bo-1492 (vẽ theo Hình 1, tr. 14). Lời Cô-lôm-bô là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

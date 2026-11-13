@@ -1,0 +1,512 @@
+{
+ "ma": "L7-B3-02",
+ "ten_tap": "Những thiên tài thời Phục hưng",
+ "ten_tap_en": "Geniuses of the Renaissance",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 3. Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+  "trang": [
+   18,
+   19,
+   20,
+   21
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "giai-cap-tu-san",
+  "dan-te",
+  "m-xec-van-tet",
+  "w-sech-xpia",
+  "le-o-na-do-vanh-xi",
+  "mi-ken-lang-gio",
+  "n-co-pec-nich",
+  "g-ga-li-le"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, cổ điển (đàn dây, clavecin); lắng sâu ở cảnh Ga-li-lê",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 3, tr. 18–21.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng mĩ thuật của trường, trên giá vẽ là bản in khổ lớn bức Nàng La Giô-công-đơ, bên cạnh có giá sách nghệ thuật và hộp màu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bức Nàng La Giô-công-đơ này nổi tiếng khắp thế giới. Cậu có biết ai vẽ không?",
+     "This painting, the Mona Lisa, is famous worldwide. Do you know who painted it?"
+    ],
+    [
+     "Nhật Minh",
+     "Lê-ô-na đơ Vanh-xi, một thiên tài thời Phục hưng! Thời đó được gọi là thời đại sinh ra những con người khổng lồ về tư tưởng và tài năng. Đi gặp họ thôi!",
+     "Leonardo da Vinci, a Renaissance genius! That age was said to produce giants of thought and talent. Let's go meet them!"
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XIV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Trong ngôi nhà sang trọng của một thương nhân giàu có ở Tây Âu, chủ nhà ngồi bên bàn chất đầy sổ sách, tiền vàng; ông nhíu mày đọc một cuốn sách giáo lí dày, ngoài cửa sổ là phố xá tấp nập",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XIII, ở Tây Âu, giai cấp tư sản ra đời. Họ có thế lực về kinh tế nhưng chưa có địa vị xã hội tương xứng.",
+     "From the late 13th century, a bourgeois class arose in Western Europe. They had economic power but not a matching place in society."
+    ],
+    [
+     "Hân Hân",
+     "Họ không chấp nhận những giáo lí lỗi thời, muốn xây dựng một nền văn hoá mới đề cao giá trị con người và quyền tự do cá nhân.",
+     "They rejected outdated dogmas and wanted a new culture that valued human beings and personal freedom."
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dan-te"
+   ],
+   "hinh": "Đan-tê (vẽ theo tượng tư liệu: áo choàng dài, mũ trùm, khuôn mặt nghiêm nghị) ngồi viết bên ánh nến trong một căn phòng ở I-ta-li-a; ngoài cửa sổ là những mái nhà thành phố",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở I-ta-li-a vào thế kỉ XIV, rồi lan nhanh sang các nước Tây Âu.",
+     "The Renaissance began in Italy in the 14th century, then spread quickly across Western Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Người mở đầu phong trào là Đan-tê. Ngày nay ở I-ta-li-a vẫn có tượng ông.",
+     "Its pioneer was Dante. A statue of him still stands in Italy today."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở đâu?",
+    "lua_chon": [
+     "Anh",
+     "I-ta-li-a",
+     "Tây Ban Nha"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở đâu?",
+     "Pause! Where did the Renaissance begin?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: I-ta-li-a, vào thế kỉ XIV!",
+     "The answer is B: Italy, in the 14th century!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "m-xec-van-tet"
+   ],
+   "hinh": "M. Xéc-van-tét (vẽ theo chân dung tư liệu: râu nhọn, cổ áo xếp nếp trắng) ngồi viết bằng bút lông ngỗng; phía sau hiện bóng mờ minh hoạ chàng hiệp sĩ gầy cưỡi ngựa, cầm giáo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "M. Xéc-van-tét, người Tây Ban Nha, là một nhà văn lớn với tác phẩm Đôn Ki-hô-tê.",
+     "M. Cervantes, a Spaniard, was a great writer, author of Don Quixote."
+    ],
+    [
+     "Hân Hân",
+     "Qua chàng hiệp sĩ lỗi thời Đôn Ki-hô-tê, ông châm biếm cả xã hội phong kiến và thể hiện khát vọng công bằng, bác ái.",
+     "Through the outdated knight Don Quixote, he mocked all of feudal society and voiced a longing for justice and kindness."
+    ],
+    [
+     "Xéc-van-tét",
+     "“Dòng dõi thì chẳng qua là lưu truyền, còn việc làm tốt đẹp thì do tự mình mà có.”",
+     "'Lineage is merely handed down, but good deeds come from oneself.'"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "w-sech-xpia"
+   ],
+   "hinh": "Một sân khấu kịch thời Phục hưng: diễn viên trong trang phục cổ diễn cảnh ban công; W. Sếch-xpia (vẽ theo chân dung tư liệu: trán cao, râu ngắn, cổ áo trắng) đứng ở cánh gà theo dõi, tay cầm tập kịch bản",
+   "loi": [
+    [
+     "Nhật Minh",
+     "W. Sếch-xpia, người Anh, là nhà viết kịch vĩ đại thời Phục hưng.",
+     "W. Shakespeare, an Englishman, was the great playwright of the Renaissance."
+    ],
+    [
+     "Hân Hân",
+     "Những vở kịch nổi tiếng của ông là Rô-mê-ô và Giu-li-ét, Hăm-lét, Ô-ten-lô.",
+     "His famous plays include Romeo and Juliet, Hamlet and Othello."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-o-na-do-vanh-xi"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép ở cửa một xưởng vẽ thời Phục hưng, lặng lẽ quan sát Lê-ô-na đơ Vanh-xi (vẽ theo chân dung tư liệu: râu dài bạc, mũ vải) đang vẽ chân dung một người phụ nữ trên giá vẽ; xưởng đầy bản phác thảo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Suỵt… Đó là Lê-ô-na đơ Vanh-xi, hoạ sĩ thiên tài người I-ta-li-a.",
+     "Shh… That's Leonardo da Vinci, the Italian genius painter."
+    ],
+    [
+     "Nhật Minh",
+     "Ông để lại nhiều kiệt tác cho nhân loại như Bữa tiệc cuối cùng và Nàng La Giô-công-đơ.",
+     "He left humanity many masterpieces, like The Last Supper and the Mona Lisa."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "mi-ken-lang-gio"
+   ],
+   "hinh": "Mi-ken-lăng-giơ (vẽ theo chân dung tư liệu: râu ngắn, mũi gãy nhẹ, áo thợ dính sơn) nằm ngửa trên giàn giáo rất cao sát vòm trần nhà thờ, tay cầm cọ vẽ bích hoạ, ánh sáng hắt từ cửa sổ cao",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mi-ken-lăng-giơ là danh hoạ, nhà điêu khắc, kiến trúc sư người I-ta-li-a, tác giả Sáng tạo thế giới, Cuộc phán xét cuối cùng, Tượng Đa-vít.",
+     "Michelangelo was an Italian painter, sculptor and architect, creator of The Creation, The Last Judgement and the statue of David."
+    ],
+    [
+     "Nhật Minh",
+     "Để vẽ bức tranh trên vòm nhà thờ Xích-xtin, ông trèo lên giàn giáo rất cao, ngửa cổ, còng lưng, thậm chí nằm ngửa để vẽ, liên tục trong 4 năm 3 tháng.",
+     "To paint the Sistine Chapel ceiling, he climbed a towering scaffold, craned his neck, bent his back, even lay on it, painting for 4 years and 3 months."
+    ],
+    [
+     "Mi-ken-lăng-giơ",
+     "Chưa xong… còn phải vẽ tiếp!",
+     "Not done yet… I must keep painting!"
+    ],
+    [
+     "Hân Hân",
+     "Bức tranh rộng 540 mét vuông, với 343 nhân vật!",
+     "The painting covers 540 square metres, with 343 figures!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mi-ken-lăng-giơ đã vẽ liên tục bao lâu để hoàn thành bức tranh trên vòm nhà thờ Xích-xtin?",
+    "lua_chon": [
+     "4 năm 3 tháng",
+     "Hơn một năm",
+     "Gần mười năm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Mi-ken-lăng-giơ đã vẽ liên tục bao lâu trên vòm nhà thờ Xích-xtin?",
+     "Quick test! How long did Michelangelo paint the Sistine Chapel ceiling?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: 4 năm 3 tháng!",
+     "The answer is A: 4 years and 3 months!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "n-co-pec-nich"
+   ],
+   "hinh": "N. Cô-péc-ních (vẽ theo chân dung tư liệu: tóc ngắn ngang tai, áo choàng đỏ sẫm) đứng trên tháp cao giữa đêm đầy sao, bên cạnh là mô hình Mặt Trời ở giữa, Trái Đất quay xung quanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Phục hưng còn xuất hiện nhiều nhà khoa học dũng cảm chống lại những quan điểm sai lầm, bảo thủ.",
+     "The Renaissance also saw brave scientists who stood up to false, conservative views."
+    ],
+    [
+     "Hân Hân",
+     "N. Cô-péc-ních, người Ba Lan, là nhà thiên văn học đầu tiên chứng minh rằng Trái Đất quay quanh trục của nó và quay xung quanh Mặt Trời.",
+     "N. Copernicus, a Pole, was the first astronomer to prove that the Earth spins on its axis and goes around the Sun."
+    ],
+    [
+     "Cô-péc-ních",
+     "Không phải Mặt Trời quay quanh Trái Đất, mà Trái Đất quay quanh Mặt Trời!",
+     "The Sun doesn't go around the Earth. The Earth goes around the Sun!"
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng học thuyết của ông bị Giáo hội cấm lưu truyền.",
+     "But the Church banned his theory from being spread."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "g-ga-li-le"
+   ],
+   "hinh": "G. Ga-li-lê (vẽ theo chân dung tư liệu: ông lão râu bạc, áo choàng đen) đứng trước hội đồng xét xử trong một gian phòng tối, nét mặt kiên định; không có cảnh bạo lực",
+   "loi": [
+    [
+     "Hân Hân",
+     "G. Ga-li-lê, người I-ta-li-a, vì công bố học thuyết Trái Đất quay mà bị bỏ tù khi đã 70 tuổi.",
+     "G. Galileo, an Italian, was jailed at the age of 70 for publishing the theory that the Earth moves."
+    ],
+    [
+     "Ga-li-lê",
+     "Dù sao thì Trái Đất vẫn quay.",
+     "And yet, the Earth still moves."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "g-ga-li-le"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở cuối gian phòng xét xử, nhìn theo bóng Ga-li-lê, nét mặt xúc động",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bị bỏ tù mà ông vẫn không chịu nói sai sự thật.",
+     "Even jailed, he refused to deny the truth."
+    ],
+    [
+     "Hân Hân",
+     "Cùng với Cô-péc-ních, Ga-li-lê, còn có G. Bru-nô, cũng là nhà khoa học người I-ta-li-a.",
+     "Alongside Copernicus and Galileo there was also G. Bruno, another Italian scientist."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại phòng mĩ thuật; trên màn chiếu là ảnh bích hoạ trên vòm nhà thờ Xích-xtin, Hân Hân chỉ tay lên màn hình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bằng tác phẩm của mình, các nhà Văn hoá Phục hưng lên án gay gắt Giáo hội Thiên Chúa giáo và đả phá trật tự phong kiến.",
+     "Through their works, Renaissance figures fiercely criticised the Catholic Church and attacked the feudal order."
+    ],
+    [
+     "Nhật Minh",
+     "Văn hoá Phục hưng đề cao giá trị con người, tự do cá nhân, tinh thần dân tộc, và đóng góp lớn cho kho tàng văn hoá nhân loại.",
+     "Renaissance culture celebrated human worth, personal freedom and national spirit, and enriched humanity's cultural treasury."
+    ],
+    [
+     "Hân Hân",
+     "Đó là cuộc đấu tranh công khai đầu tiên trên lĩnh vực văn hoá, tư tưởng của giai cấp tư sản chống chế độ phong kiến lỗi thời.",
+     "It was the bourgeoisie's first open struggle, in culture and ideas, against the outdated feudal system."
+    ]
+   ],
+   "nguon_trang": [
+    20,
+    21
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Phục hưng: bắt đầu ở I-ta-li-a (thế kỉ XIV), lan khắp Tây Âu; mở đầu: Đan-tê",
+    "Văn học: Xéc-van-tét (Đôn Ki-hô-tê), Sếch-xpia (Rô-mê-ô và Giu-li-ét, Hăm-lét)",
+    "Nghệ thuật: Lê-ô-na đơ Vanh-xi, Mi-ken-lăng-giơ",
+    "Khoa học: Cô-péc-ních, Bru-nô, Ga-li-lê – Trái Đất quay quanh Mặt Trời",
+    "Đề cao giá trị con người, tự do cá nhân; đả phá trật tự phong kiến"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Phục hưng bắt đầu ở I-ta-li-a từ thế kỉ XIV, người mở đầu là Đan-tê.",
+     "Remember: the Renaissance began in Italy in the 14th century, pioneered by Dante."
+    ],
+    [
+     "Hân Hân",
+     "Văn học có Xéc-van-tét và Sếch-xpia.",
+     "Literature had Cervantes and Shakespeare."
+    ],
+    [
+     "Nhật Minh",
+     "Nghệ thuật có Lê-ô-na đơ Vanh-xi và Mi-ken-lăng-giơ.",
+     "Art had Leonardo da Vinci and Michelangelo."
+    ],
+    [
+     "Hân Hân",
+     "Khoa học có Cô-péc-ních, Bru-nô, Ga-li-lê, khẳng định Trái Đất quay quanh Mặt Trời.",
+     "Science had Copernicus, Bruno and Galileo, who showed the Earth goes around the Sun."
+    ],
+    [
+     "Nhật Minh",
+     "Phục hưng đề cao giá trị con người, tự do cá nhân, và đả phá trật tự phong kiến.",
+     "The Renaissance valued human worth and freedom, and attacked the feudal order."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem trong phòng mĩ thuật, Hân Hân giơ cây cọ vẽ mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trong các thành tựu thời Phục hưng, cậu ấn tượng với thành tựu nào nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which Renaissance achievement impresses you most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai được coi là người mở đầu phong trào Văn hoá Phục hưng?",
+   "dap_an": [
+    "Sếch-xpia",
+    "Đan-tê",
+    "Xéc-van-tét",
+    "Ga-li-lê"
+   ],
+   "dung": 1,
+   "trang": 19
+  },
+  {
+   "hoi": "Tác phẩm nào là của Lê-ô-na đơ Vanh-xi?",
+   "dap_an": [
+    "Đôn Ki-hô-tê",
+    "Hăm-lét",
+    "Bữa tiệc cuối cùng",
+    "Tượng Đa-vít"
+   ],
+   "dung": 2,
+   "trang": 19
+  },
+  {
+   "hoi": "Nhà thiên văn học đầu tiên chứng minh Trái Đất quay quanh Mặt Trời là",
+   "dap_an": [
+    "N. Cô-péc-ních",
+    "G. Ga-li-lê",
+    "G. Bru-nô",
+    "Mi-ken-lăng-giơ"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Văn hoá Phục hưng đề cao điều gì?",
+   "dap_an": [
+    "Quyền lực của Giáo hội",
+    "Giá trị con người và tự do cá nhân",
+    "Trật tự phong kiến",
+    "Đời sống trong lãnh địa"
+   ],
+   "dung": 1,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 18 (mở đầu, Hình 1), tr. 19 (tư sản, Phục hưng ở I-ta-li-a thế kỉ XIV, Hình 2 Đan-tê, Xéc-van-tét, Sếch-xpia, Lê-ô-na đơ Vanh-xi, ô Kết nối với văn học – đọc từ ảnh trang vì OCR lỗi), tr. 20 (Mi-ken-lăng-giơ: 4 năm 3 tháng, 540 m², 343 nhân vật; Cô-péc-ních, Bru-nô, Ga-li-lê 70 tuổi; ý nghĩa; tư liệu 1 lời Đôn Ki-hô-tê), tr. 21 (ý nghĩa). Kiến thức chốt của danh mục khớp SGK. Câu của Ga-li-lê và câu trong Đôn Ki-hô-tê đúng SGK; câu của Mi-ken-lăng-giơ, Cô-péc-ních là lời dựng diễn đạt lại SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

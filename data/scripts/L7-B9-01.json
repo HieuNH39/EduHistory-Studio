@@ -1,0 +1,374 @@
+{
+ "ma": "L7-B9-01",
+ "ten_tap": "Ngô Quyền - Người mở ra kỉ nguyên độc lập",
+ "ten_tap_en": "Ngô Quyền: Opening the Age of Independence",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 9. Đất nước buổi đầu độc lập (939 – 967)",
+  "trang": [
+   44,
+   45,
+   47
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ngo-quyen",
+  "quan-lai-nha-ngo",
+  "ngo-xuong-ngap",
+  "dinh-cong-tru",
+  "kieu-cong-han",
+  "nhan-dan-co-loa",
+  "ngo-sy-lien"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng ở phần mở đầu, trang trọng ở cảnh lập triều, ấm áp ở cảnh làng quê yên bình",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 9, tr. 44–47.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước cổng khu di tích Cổ Loa (thành phố Hà Nội) ngày nay: cổng gạch mái cong rêu phong, cây cổ thụ toả bóng, lối đi lát gạch",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là khu di tích Cổ Loa ở thành phố Hà Nội.",
+     "This is the Cổ Loa historical site in Hà Nội."
+    ],
+    [
+     "Nhật Minh",
+     "Hơn một nghìn năm trước, sau chiến thắng Bạch Đằng, Ngô Quyền đã chọn nơi này làm kinh đô. Về năm 939 xem ông dựng nền độc lập thế nào nhé!",
+     "Over a thousand years ago, after the Bạch Đằng victory, Ngô Quyền chose this place as his capital. Let's go back to 939 and see how he built independence!"
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "938",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn trận Bạch Đằng năm 938 (pha kết quả), dùng lại tệp bach-dang-938",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến thắng Bạch Đằng năm 938 đã chấm dứt hoàn toàn ách đô hộ hơn một nghìn năm của phong kiến phương Bắc, mở ra kỉ nguyên mới trong lịch sử dân tộc.",
+     "The Bạch Đằng victory of 938 ended more than a thousand years of northern feudal rule for good, opening a new era in our nation's history."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-lai-nha-ngo"
+   ],
+   "hinh": "Ngô Quyền (vẽ theo tượng thờ: mặt vuông, râu ngắn, mũ trụ, áo bào đỏ) đứng giữa sân thành Cổ Loa, trước các tướng lĩnh và quan lại; cờ đỏ bay trên mặt thành đất",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 939, Ngô Quyền bỏ chức Tiết độ sứ, xưng Vương và đóng đô ở Cổ Loa.",
+     "In 939, Ngô Quyền abolished the post of military governor, proclaimed himself king and set his capital at Cổ Loa."
+    ],
+    [
+     "Ngô Quyền",
+     "Từ nay, ta không làm Tiết độ sứ nữa. Ta xưng Vương, đóng đô ở Cổ Loa!",
+     "From now on, I am no longer a governor. I declare myself king, with my capital at Cổ Loa!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 939, Ngô Quyền đóng đô ở đâu?",
+    "lua_chon": [
+     "Hoa Lư",
+     "Cổ Loa",
+     "Thăng Long"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 939, Ngô Quyền đóng đô ở đâu?",
+     "Pause! Where did Ngô Quyền set his capital in 939?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Cổ Loa, nay thuộc thành phố Hà Nội!",
+     "The answer is B: Cổ Loa, in today's Hà Nội!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-lai-nha-ngo"
+   ],
+   "hinh": "Triều đình nhà Ngô trong cung điện gỗ đơn sơ: Ngô Quyền ngồi trên ngai, hàng quan văn đứng bên trái, hàng quan võ đứng bên phải",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính quyền mới do vua đứng đầu, có quyền quyết định mọi việc. Dưới vua có các quan văn, quan võ phụ trách từng công việc.",
+     "The new government was headed by the king, who decided everything. Below him, civil and military officials each handled their tasks."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-quyen",
+    "ngo-xuong-ngap",
+    "dinh-cong-tru",
+    "kieu-cong-han"
+   ],
+   "hinh": "Ngô Quyền trao ấn kiếm cho ba vị tướng quỳ trước mặt; phía sau treo tấm bản đồ vẽ tay đánh dấu các châu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở địa phương, vua giao các tướng lĩnh trấn giữ các châu quan trọng.",
+     "In the provinces, the king assigned generals to hold the key regions."
+    ],
+    [
+     "Ngô Quyền",
+     "Các tướng hãy trấn giữ những vùng đất quan trọng của ta!",
+     "Generals, guard our most important lands!"
+    ],
+    [
+     "Nhật Minh",
+     "Ngô Xương Ngập cai quản vùng Đông Bắc, Đinh Công Trứ cai quản châu Hoan, nay là Nghệ An, Hà Tĩnh, Kiều Công Hãn cai quản châu Phong, nay là Phú Thọ.",
+     "Ngô Xương Ngập governed the northeast, Đinh Công Trứ ruled Hoan, today's Nghệ An and Hà Tĩnh, and Kiều Công Hãn ruled Phong, today's Phú Thọ."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-co-loa"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi qua một làng quê thời Ngô yên bình: ruộng lúa chín, trẻ em thả diều, dân làng đánh trống đồng, múa hát trong ngày hội",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đất nước được yên bình. Văn hoá dân tộc được chú ý khôi phục.",
+     "The country was at peace, and national culture was being restored."
+    ],
+    [
+     "Nhật Minh",
+     "Từ đây, nền độc lập dân tộc được khẳng định, tạo nền tảng căn bản cho công cuộc phát triển đất nước sau này.",
+     "From then on, national independence was affirmed, laying the foundation for the country's later development."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-sy-lien"
+   ],
+   "hinh": "Nhà sử học Ngô Sỹ Liên (áo quan văn, khăn vấn) ngồi viết sử bên án thư dưới ánh nến, chồng sách cổ bên cạnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sử gia Ngô Sỹ Liên đã nhận xét về Ngô Quyền:",
+     "The historian Ngô Sỹ Liên later remarked on Ngô Quyền:"
+    ],
+    [
+     "Ngô Sỹ Liên",
+     "Tiền Ngô Vương nổi lên không chỉ có công chiến thắng mà thôi; việc đặt trăm quan, chế định triều nghi phẩm phục, có thể thấy được quy mô của bậc đế vương.",
+     "The Former Ngô King rose not only through victory; in appointing officials and setting court rites and robes, one sees the scale of an emperor."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Việc Ngô Quyền bỏ chức Tiết độ sứ, xưng Vương có ý nghĩa gì?",
+    "lua_chon": [
+     "Khẳng định nền độc lập dân tộc",
+     "Thần phục phong kiến phương Bắc",
+     "Chia đất nước cho các tướng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Việc Ngô Quyền bỏ chức Tiết độ sứ, xưng Vương có ý nghĩa gì?",
+     "Quick test! What did Ngô Quyền's dropping the governor's title and declaring himself king mean?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: khẳng định nền độc lập của dân tộc!",
+     "The answer is A: it affirmed our national independence!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "938: chiến thắng Bạch Đằng chấm dứt hơn một nghìn năm đô hộ",
+    "939: Ngô Quyền bỏ chức Tiết độ sứ, xưng Vương, đóng đô ở Cổ Loa",
+    "Vua đứng đầu; quan văn, võ; tướng lĩnh trấn giữ các châu",
+    "Đất nước yên bình, văn hoá dân tộc được khôi phục; độc lập được khẳng định"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: chiến thắng Bạch Đằng năm 938 chấm dứt hơn một nghìn năm đô hộ.",
+     "Remember: the Bạch Đằng victory of 938 ended over a thousand years of foreign rule."
+    ],
+    [
+     "Hân Hân",
+     "Năm 939, Ngô Quyền bỏ chức Tiết độ sứ, xưng Vương, đóng đô ở Cổ Loa.",
+     "In 939, Ngô Quyền dropped the governor's title, became king and made Cổ Loa his capital."
+    ],
+    [
+     "Nhật Minh",
+     "Vua đứng đầu, có quan văn, quan võ, các tướng trấn giữ những châu quan trọng.",
+     "The king led, with civil and military officials and generals holding key provinces."
+    ],
+    [
+     "Hân Hân",
+     "Đất nước yên bình, văn hoá dân tộc được khôi phục, nền độc lập được khẳng định.",
+     "The country was peaceful, national culture revived, and independence affirmed."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại cổng khu di tích Cổ Loa, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: có ý kiến cho rằng Ngô Quyền về đóng đô ở Cổ Loa là để tiếp nối truyền thống cha ông. Cậu có đồng ý không? Vì sao? Bình luận nhé!",
+     "Your challenge: some say Ngô Quyền chose Cổ Loa to carry on his ancestors' tradition. Do you agree? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau chiến thắng Bạch Đằng, năm 939 Ngô Quyền đã",
+   "dap_an": [
+    "Lên ngôi Hoàng đế ở Hoa Lư",
+    "Bỏ chức Tiết độ sứ, xưng Vương, đóng đô ở Cổ Loa",
+    "Dời đô ra Thăng Long",
+    "Lập ra nhà Đinh"
+   ],
+   "dung": 1,
+   "trang": 45
+  },
+  {
+   "hoi": "Dưới thời Ngô, ai cai quản châu Hoan (Nghệ An, Hà Tĩnh)?",
+   "dap_an": [
+    "Ngô Xương Ngập",
+    "Đinh Công Trứ",
+    "Kiều Công Hãn",
+    "Đinh Bộ Lĩnh"
+   ],
+   "dung": 1,
+   "trang": 45
+  },
+  {
+   "hoi": "Ở địa phương, vua Ngô giao cho ai trấn giữ các châu quan trọng?",
+   "dap_an": [
+    "Các tướng lĩnh",
+    "Các nhà sư",
+    "Các thương nhân",
+    "Các hào trưởng nước ngoài"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Câu “Chính thống của nước Việt ta, ngõ hầu đã được nối lại” là nhận xét của ai?",
+   "dap_an": [
+    "Ngô Sỹ Liên",
+    "Lê Văn Hưu",
+    "Nguyễn Trãi",
+    "Lê Quý Đôn"
+   ],
+   "dung": 1,
+   "trang": 45
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 44 (ảnh khu di tích Cổ Loa), tr. 45 (mở đầu: Bạch Đằng 938, lời Lê Văn Hưu; mục 1: năm 939, tổ chức chính quyền; Em có biết: Ngô Xương Ngập, Đinh Công Trứ, Kiều Công Hãn – đối chiếu ảnh trang vì OCR lỗi; tư liệu 1 lời Ngô Sỹ Liên), tr. 47 (câu hỏi vận dụng về đóng đô ở Cổ Loa). Dùng lại sa bàn bach-dang-938 (pha ket_qua) chỉ để minh hoạ, lời đọc theo SGK 7 tr. 45. Kiến thức chốt của danh mục: 'thiết lập bộ máy chính quyền từ trung ương đến địa phương' khớp SGK; 'khẳng định chủ quyền' diễn đạt theo SGK là 'nền độc lập dân tộc được khẳng định'. Lời Ngô Quyền là lời dựng; lời Ngô Sỹ Liên trích tư liệu SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

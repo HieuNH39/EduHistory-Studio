@@ -1,0 +1,528 @@
+{
+ "ma": "L7-B8-02",
+ "ten_tap": "Đỉnh cao quyền lực và nông nghiệp thời Ăng-co",
+ "ten_tap_en": "Power and Farming at Their Peak: The Angkor Era",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 8. Vương quốc Cam-pu-chia",
+  "trang": [
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "giay-a-vac-man-ii",
+  "giay-a-vac-man-vii",
+  "nguoi-kho-me",
+  "nong-dan",
+  "tho-thu-cong",
+  "quan-doi-ang-co"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, trang nghiêm (cồng, chiêng, sáo); rộn ràng ở cảnh đào hồ, trầm xuống ở cảnh dời đô",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 8, tr. 42–43.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (áo phông, mũ rộng vành, ba lô du lịch) đứng bên hồ nước trước quần thể đền Ăng-co lúc bình minh ngày nay, những ngọn tháp đá in bóng xuống mặt hồ, du khách giơ máy ảnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ăng-co vốn là tên một kinh đô, sau này được dùng đặt tên cho cả một thời kì của Vương quốc Cam-pu-chia.",
+     "Angkor was the name of a capital, later used to name a whole era of the Kingdom of Cambodia."
+    ],
+    [
+     "Nhật Minh",
+     "Thời kì dài nhất và phát triển rực rỡ nhất! Các vua Ăng-co đã làm gì để có được điều đó? Đi xem nào!",
+     "Its longest and most brilliant era! What did Angkor's kings do to achieve it? Let's go and see!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ IX – XV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giay-a-vac-man-ii",
+    "nguoi-kho-me"
+   ],
+   "hinh": "Vua Giay-a-vác-man II (vẽ theo phù điêu Khơ-me: vương miện nhọn, mình trần, trang sức vàng) đứng trên bậc đá trước các thủ lĩnh quỳ chào, phía sau là cờ lọng và voi chiến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 802, vua Giay-a-vác-man II thống nhất lãnh thổ, đổi tên nước là Cam-pu-chia, mở ra thời kì Ăng-co, kéo dài từ thế kỉ IX đến thế kỉ XV.",
+     "In 802, King Jayavarman II unified the land, renamed it Cambodia and opened the Angkor era, lasting from the 9th to the 15th century."
+    ],
+    [
+     "Hân Hân",
+     "Kinh đô Ăng-co được xây dựng ở vùng Tây Bắc Biển Hồ, nay thuộc tỉnh Xiêm Riệp.",
+     "The capital Angkor was built northwest of the Tonlé Sap lake, in today's Siem Reap province."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giay-a-vac-man-vii",
+    "nguoi-kho-me"
+   ],
+   "hinh": "Vua Giay-a-vác-man VII (vẽ theo tượng tư liệu: khuôn mặt hiền từ, mắt khép hờ, tóc búi) ngồi giữa triều đình, chỉ tay lên tấm bản vẽ đường sá; các quan đứng nghe",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời Ăng-co, đất nước thống nhất, ổn định. Các nhà vua ra sức củng cố quyền lực, đồng thời quan tâm đến đời sống nhân dân.",
+     "In the Angkor era, the country was united and stable. Kings strengthened their power while caring for the people's lives."
+    ],
+    [
+     "Giay-a-vác-man VII",
+     "Hãy mở rộng đường sá, dựng nhà nghỉ cho lữ khách, lập nơi chữa bệnh cho dân khắp lãnh thổ!",
+     "Widen the roads, build rest houses for travellers, and set up places to heal the sick across the land!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên một con đường đất rộng thời Ăng-co, quan sát lữ khách nghỉ chân trong một nhà nghỉ mái lá, gần đó người dân xếp hàng ở một nơi khám, chữa bệnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vua Giay-a-vác-man VII đã mở rộng đường giao thông, lập nhà nghỉ chân cho lữ khách,",
+     "King Jayavarman VII widened the roads and built rest houses for travellers,"
+    ],
+    [
+     "Hân Hân",
+     "và lập các cơ sở khám, chữa bệnh trên khắp lãnh thổ.",
+     "and set up places to treat the sick all over the kingdom."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vua Giay-a-vác-man VII đã làm gì cho đời sống nhân dân?",
+    "lua_chon": [
+     "Mở đường, lập nhà nghỉ, lập nơi khám chữa bệnh",
+     "Xây Vạn Lý Trường Thành",
+     "Phát hành tiền giấy"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vua Giay-a-vác-man VII đã làm gì cho đời sống nhân dân?",
+     "Pause! What did King Jayavarman VII do for his people?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: mở rộng đường giao thông, lập nhà nghỉ chân và các cơ sở khám, chữa bệnh!",
+     "The answer is A: wider roads, rest houses and places to treat the sick!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan",
+    "nguoi-kho-me"
+   ],
+   "hinh": "Hàng nghìn người dân Khơ-me đào đắp một hồ chứa nước hình chữ nhật khổng lồ và những con kênh thẳng tắp dẫn nước ra cánh đồng lúa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kinh tế có bước phát triển, nhất là nông nghiệp.",
+     "The economy grew, above all farming."
+    ],
+    [
+     "Hân Hân",
+     "Người ta đào nhiều hồ, kênh mương để trữ và điều phối nước tưới, như hồ Ba-ray Tây, Ba-ray Đông.",
+     "People dug many reservoirs and canals to store and distribute water, such as the West Baray and the East Baray."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê của một hồ Ba-ray rộng mênh mông, nhìn nước theo kênh chảy vào những ruộng lúa xanh mướt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Rộng như biển ấy! Nước được giữ lại trong hồ rồi dẫn theo kênh ra từng cánh đồng.",
+     "It's as wide as a sea! Water is held in the reservoir, then led by canals to each field."
+    ],
+    [
+     "Nhật Minh",
+     "Có nước tưới chủ động, lúa mới xanh tốt thế này.",
+     "With a steady water supply, the rice grows this green."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me",
+    "tho-thu-cong"
+   ],
+   "hinh": "Hai cảnh nối tiếp: ngư dân quăng lưới trên Biển Hồ mênh mông lúc sáng sớm; người thợ thủ công tỉ mỉ chạm khắc phù điêu vũ nữ lên vách đá sa thạch của một ngôi đền",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân đánh bắt cá ở Biển Hồ, khai thác lâm thổ sản.",
+     "People fished on the Tonlé Sap and gathered forest products."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều thợ thủ công Cam-pu-chia biết làm đồ trang sức, chạm khắc phù điêu bằng đá trên đền, tháp rất khéo léo.",
+     "Many Cambodian craftsmen made jewellery and skilfully carved stone reliefs on temples and towers."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hồ Ba-ray Tây, Ba-ray Đông được đào để làm gì?",
+    "lua_chon": [
+     "Trữ và điều phối nước tưới",
+     "Làm hào bảo vệ kinh thành",
+     "Làm nơi nuôi voi chiến"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Hồ Ba-ray Tây, Ba-ray Đông được đào để làm gì?",
+     "Quick test! What were the West and East Barays dug for?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: để trữ và điều phối nước tưới cho nông nghiệp!",
+     "The answer is A: to store and distribute water for farming!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-ang-co"
+   ],
+   "hinh": "Đoàn quân Ăng-co với voi chiến, lọng che, giáo mác hành quân qua đồng bằng rộng (vẽ theo phong cách phù điêu đền Bay-on, nhìn từ xa, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các vị vua thời Ăng-co không ngừng mở rộng quyền lực ra bên ngoài bằng những cuộc tấn công quân sự, biến vương quốc thành một cường quốc trong khu vực.",
+     "Angkor's kings kept extending their power by military campaigns, making the kingdom a regional power."
+    ],
+    [
+     "Nhật Minh",
+     "Lãnh thổ mở rộng sang vùng hạ lưu sông Chao Phray-a, nay là Thái Lan, và vùng trung lưu sông Mê Công, nay là Lào.",
+     "Its territory reached the lower Chao Phraya, in today's Thailand, and the middle Mekong, in today's Laos."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-ang-co"
+   ],
+   "hinh": "Đoàn thuyền chiến và bộ binh Ăng-co tiến về phương Đông, phía xa là những ngọn tháp gạch đỏ của Chăm-pa (viễn cảnh, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đặc biệt, năm 1190, quân Cam-pu-chia tiến đánh và biến Chăm-pa thành một tỉnh của vương quốc này.",
+     "Notably, in 1190, the Cambodian army attacked Champa and made it a province of the kingdom."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong",
+    "nguoi-kho-me"
+   ],
+   "hinh": "Toàn cảnh quần thể đền Ăng-co thời hưng thịnh: ngọn tháp trung tâm vút cao giữa các tháp xung quanh, thợ đá kéo những khối đá sa thạch lớn xếp chồng lên nhau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đỉnh cao ấy còn in dấu ở quần thể đền Ăng-co. Kiến trúc mô phỏng ngọn núi Mê-ru vĩ đại của Ấn Độ, ngọn tháp trung tâm cao tới 65 mét.",
+     "That golden age is etched in the Angkor temples. Modelled on India's great Mount Meru, the central tower rises 65 metres."
+    ],
+    [
+     "Hân Hân",
+     "Những khối đá sa thạch và đá tổ ong được xếp chồng lên nhau mà không cần chất kết dính!",
+     "Blocks of sandstone and laterite were stacked without any binding material!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Đoàn người Khơ-me cùng voi, xe bò chở đồ đạc rời kinh đô Ăng-co, đi về phía nam Biển Hồ; trời chiều u ám",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thế kỉ XV, sự tranh giành quyền lực giữa các phe phái và sự tấn công của người Thái khiến vương quốc suy yếu.",
+     "By the 15th century, power struggles between factions and attacks by the Thai weakened the kingdom."
+    ],
+    [
+     "Hân Hân",
+     "Người Khơ-me phải chuyển kinh đô từ Ăng-co về phía nam Biển Hồ, nơi nay là Phnôm Pênh.",
+     "The Khmer had to move their capital from Angkor south of the Tonlé Sap, to today's Phnom Penh."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · THỜI KÌ ĂNG-CO",
+   "moc": [
+    [
+     "802",
+     "Giay-a-vác-man II thống nhất, mở ra thời Ăng-co"
+    ],
+    [
+     "Thế kỉ IX – XV",
+     "Thời kì phát triển rực rỡ nhất"
+    ],
+    [
+     "1190",
+     "Chăm-pa bị biến thành một tỉnh"
+    ],
+    [
+     "Thế kỉ XV",
+     "Suy yếu, dời đô về nam Biển Hồ"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng tóm tắt trên trục thời gian! Năm 802, Giay-a-vác-man II thống nhất lãnh thổ, mở ra thời Ăng-co.",
+     "Let's sum up on a timeline! In 802, Jayavarman II unified the land and began the Angkor era."
+    ],
+    [
+     "Nhật Minh",
+     "Từ thế kỉ IX đến thế kỉ XV là thời kì phát triển rực rỡ nhất.",
+     "From the 9th to the 15th century came the most brilliant period."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1190, quân Cam-pu-chia biến Chăm-pa thành một tỉnh.",
+     "In 1190, Cambodia made Champa a province."
+    ],
+    [
+     "Nhật Minh",
+     "Thế kỉ XV, vương quốc suy yếu, kinh đô phải dời về phía nam Biển Hồ.",
+     "In the 15th century the kingdom weakened and the capital moved south of the lake."
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Thời Ăng-co (thế kỉ IX – XV): thống nhất, ổn định, rực rỡ nhất",
+    "Giay-a-vác-man VII: mở đường, nhà nghỉ chân, cơ sở khám chữa bệnh",
+    "Nông nghiệp phát triển nhờ hồ, kênh mương: Ba-ray Tây, Ba-ray Đông",
+    "Mở rộng lãnh thổ: hạ lưu Chao Phray-a, trung lưu Mê Công; năm 1190 đánh Chăm-pa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: thời Ăng-co từ thế kỉ IX đến thế kỉ XV, đất nước thống nhất, ổn định, phát triển rực rỡ nhất.",
+     "Remember: the Angkor era, from the 9th to the 15th century, was united, stable and the most brilliant."
+    ],
+    [
+     "Hân Hân",
+     "Vua Giay-a-vác-man VII mở đường, lập nhà nghỉ chân và cơ sở khám chữa bệnh.",
+     "Jayavarman VII built roads, rest houses and places to treat the sick."
+    ],
+    [
+     "Nhật Minh",
+     "Nông nghiệp phát triển nhờ hồ và kênh mương như Ba-ray Tây, Ba-ray Đông.",
+     "Farming thrived thanks to reservoirs and canals like the West and East Barays."
+    ],
+    [
+     "Hân Hân",
+     "Lãnh thổ mở rộng tới hạ lưu Chao Phray-a, trung lưu Mê Công, và năm 1190 Chăm-pa bị biến thành một tỉnh.",
+     "Its land reached the lower Chao Phraya and middle Mekong, and in 1190 Champa was made a province."
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bên hồ nước trước quần thể đền Ăng-co ngày nay, mặt trời đã lên cao; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn những ngọn tháp này mới thấy thời Ăng-co huy hoàng đến thế nào.",
+     "Looking at these towers, you can see how glorious the Angkor era was."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, việc làm nào của các vua Ăng-co có ích nhất cho nhân dân? Vì sao? Bình luận nhé!",
+     "Your challenge: which deed of Angkor's kings helped the people most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 802, vị vua nào thống nhất lãnh thổ, mở ra thời kì Ăng-co?",
+   "dap_an": [
+    "Giay-a-vác-man II",
+    "Giay-a-vác-man VII",
+    "Pha Ngừm",
+    "San-đra Gúp-ta I"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Kinh đô Ăng-co được xây dựng ở vùng nào?",
+   "dap_an": [
+    "Phía nam Biển Hồ",
+    "Tây Bắc Biển Hồ",
+    "Hạ lưu sông Chao Phray-a",
+    "Trung lưu sông Mê Công"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Hồ Ba-ray Tây, Ba-ray Đông cho thấy thời Ăng-co chú trọng phát triển",
+   "dap_an": [
+    "Hàng hải",
+    "Nông nghiệp",
+    "Thương mại đường bộ",
+    "Khai mỏ"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Năm 1190, quân Cam-pu-chia đã",
+   "dap_an": [
+    "Dời đô về Phnôm Pênh",
+    "Tiến đánh và biến Chăm-pa thành một tỉnh",
+    "Thống nhất lãnh thổ",
+    "Xây dựng hồ Ba-ray Đông"
+   ],
+   "dung": 1,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 42 (mục 1: năm 802, thời kì Ăng-co thế kỉ IX – XV, suy yếu thế kỉ XV và dời đô; mục 2: Giay-a-vác-man VII, hồ Ba-ray, Biển Hồ, thủ công; Em có biết về kinh đô Ăng-co – đọc thêm từ ảnh trang), tr. 43 (mở rộng lãnh thổ, năm 1190; ô về quần thể đền Ăng-co: núi Mê-ru, tháp 65 m, đá sa thạch, đá tổ ong). Đã chỉnh kiến thức chốt của danh mục: SGK viết 'lập các cơ sở khám, chữa bệnh' (không dùng từ 'bệnh viện'). Danh mục đề xuất bản đồ mở rộng lãnh thổ nhưng SGK không có lược đồ cho mục này → dùng trục thời gian và ghi nhớ thay bản đồ. Lời vua Giay-a-vác-man VII là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

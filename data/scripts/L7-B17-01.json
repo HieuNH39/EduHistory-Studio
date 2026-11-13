@@ -1,0 +1,205 @@
+{
+ "ma": "L7-B17-01",
+ "ten_tap": "Bình minh thời Lê sơ",
+ "ten_tap_en": "Dawn of the Early Le Dynasty",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 17. Đại Việt thời Lê sơ (1428 – 1527)",
+  "trang": [
+   83
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-loi",
+  "le-thanh-tong",
+  "quan-lai-trieu-dinh"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, tươi sáng; khải hoàn ở cảnh lên ngôi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 17, tr. 83.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) trong phòng trưng bày bảo tàng, đứng trước tủ kính có chiếc bình gốm hoa lam vẽ thiên nga (theo Hình 1 SGK), ánh đèn vàng ấm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc bình gốm hoa lam vẽ thiên nga này là Bảo vật quốc gia, có niên đại thời Lê sơ!",
+     "This blue-and-white swan vase is a National Treasure from the Early Le period!"
+    ],
+    [
+     "Nhật Minh",
+     "Nó được tìm thấy trong một con tàu đắm ở biển Cù Lao Chàm. Vậy nhà Lê sơ ra đời thế nào?",
+     "It was found in a shipwreck off Cu Lao Cham. So how did the Early Le dynasty begin?"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "quan-lai-trieu-dinh"
+   ],
+   "hinh": "Khung dọc. Điện chính ở Thăng Long năm 1428: Lê Lợi (vẽ khái quát, hoàng bào) ngồi trên ngai vàng; văn võ bá quan xếp hàng hai bên cúi chào; cờ hiệu nghĩa quân Lam Sơn treo trang trọng",
+   "loi": [
+    [
+     "Lê Lợi",
+     "Từ nay, nước ta lại mang quốc hiệu Đại Việt!",
+     "From this day, our country is once again Dai Viet!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1428, Lê Lợi lên ngôi Hoàng đế, lập nhà Lê sơ, niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt, đóng đô ở Thăng Long.",
+     "In 1428, Le Loi became emperor, founding the Early Le dynasty with the era name Thuan Thien, restoring the name Dai Viet and ruling from Thang Long."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Hoàng đế",
+    "Các cơ quan trung ương",
+    "Đạo/Thừa tuyên (Đô ti, Thừa ti, Hiến ti)",
+    "Phủ",
+    "Huyện/châu",
+    "Xã/sách/động"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bộ máy nhà nước mới từng bước hoàn chỉnh dưới thời vua Lê Thánh Tông.",
+     "The new state system was gradually completed under King Le Thanh Tong."
+    ],
+    [
+     "Nhật Minh",
+     "Hoàng đế trực tiếp nắm mọi quyền hành, kể cả chức Tổng chỉ huy quân đội.",
+     "The emperor held all power directly, even as commander-in-chief of the army."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ],
+   "tieu_de": "TỔ CHỨC NHÀ NƯỚC THỜI LÊ SƠ (theo Hình 2 SGK)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Lê sơ đóng đô ở đâu?",
+    "lua_chon": [
+     "Hoa Lư",
+     "Tây Đô",
+     "Thăng Long"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nhà Lê sơ đóng đô ở đâu?",
+     "Pause! Where was the Early Le capital?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Thăng Long!",
+     "The answer is C: Thang Long!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân đứng bên tủ kính, Hân Hân cầm máy tính bảng hiện sơ đồ bộ máy nhà nước, quay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách: nhìn sơ đồ, cậu thấy quyền lực của Hoàng đế thời Lê sơ thế nào? Bình luận nhé!",
+     "Challenge: looking at the chart, how powerful was the Early Le emperor? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1428, Lê Lợi lên ngôi Hoàng đế và đặt niên hiệu là",
+   "dap_an": [
+    "Thái Bình",
+    "Thuận Thiên",
+    "Thiên Phúc",
+    "Bình Định"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Khi lập nhà Lê sơ, Lê Lợi khôi phục quốc hiệu",
+   "dap_an": [
+    "Đại Cồ Việt",
+    "Đại Ngu",
+    "Đại Việt",
+    "Giao Chỉ"
+   ],
+   "dung": 2,
+   "trang": 83
+  },
+  {
+   "hoi": "Bộ máy nhà nước thời Lê sơ từng bước hoàn chỉnh dưới thời vua",
+   "dap_an": [
+    "Lê Thánh Tông",
+    "Lê Thái Tổ",
+    "Lê Hoàn",
+    "Lý Công Uẩn"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Theo sơ đồ SGK, cấp hành chính ngay dưới Đạo/Thừa tuyên thời Lê sơ là",
+   "dap_an": [
+    "Xã",
+    "Huyện",
+    "Phủ",
+    "Lộ"
+   ],
+   "dung": 2,
+   "trang": 83
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 83 (phần mở đầu: bình gốm hoa lam vẽ thiên nga – Bảo vật quốc gia, tàu đắm ở biển Cù Lao Chàm (thành phố Đà Nẵng); mục 1: năm 1428 Lê Lợi lên ngôi Hoàng đế, lập nhà Lê sơ, niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt, đóng đô ở Thăng Long; bộ máy hoàn chỉnh dưới thời Lê Thánh Tông; Hoàng đế trực tiếp nắm mọi quyền hành, kể cả Tổng chỉ huy quân đội; Hình 2 sơ đồ tổ chức nhà nước). Đối chiếu danh mục: 'tập quyền cao độ' không phải chữ của SGK tr. 83 – kịch bản dùng đúng cách nói 'Hoàng đế trực tiếp nắm mọi quyền hành' và để HS tự nhận xét qua thử thách cuối. Phương án nhiễu lấy từ SGK: 'Lê Thái Tổ' (tr. 87), 'Lê Hoàn', 'Lý Công Uẩn'; 'Lộ' là đơn vị hành chính thời Trần (tr. 63). Lời Lê Lợi là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

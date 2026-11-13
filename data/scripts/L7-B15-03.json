@@ -1,0 +1,205 @@
+{
+ "ma": "L7-B15-03",
+ "ten_tap": "Vì sao nhà Hồ thất bại trước quân Minh?",
+ "ten_tap_en": "Why Did the Ho Dynasty Fall to the Ming?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 15. Nước Đại Ngu thời Hồ (1400 – 1407)",
+  "trang": [
+   76
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-minh",
+  "truong-phu",
+  "moc-thanh",
+  "ho-nguyen-trung"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, trống trận dồn; trầm lắng ở cảnh họp bàn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 15, tr. 76.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) đứng dưới cổng vòm của một toà thành xây bằng những khối đá lớn (thành Tây Đô, tỉnh Thanh Hoá), ngước nhìn những phiến đá khổng lồ; Nhật Minh chạm tay lên tường đá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành đá kiên cố, quân đội chính quy đông đảo… vậy mà nhà Hồ thất bại rất nhanh trước quân Minh.",
+     "Solid stone walls, a large regular army... and yet the Ho fell very quickly to the Ming."
+    ],
+    [
+     "Hân Hân",
+     "Vì sao vậy?",
+     "Why?"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-minh",
+    "truong-phu",
+    "moc-thanh"
+   ],
+   "hinh": "Khung dọc. Cuối năm 1406: đoàn quân Minh đông nghịt với cờ hiệu, giáo mác tràn qua cửa ải; tiếp đó, cảnh thành luỹ bốc khói, quân nhà Hồ rút lui về phía một toà thành đá xa xa (không cảnh máu me)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối năm 1406, lấy cớ Hồ Quý Ly cướp ngôi nhà Trần, quân Minh do Trương Phụ, Mộc Thạnh chỉ huy ồ ạt sang xâm lược Đại Ngu.",
+     "In late 1406, using Ho Quy Ly's seizure of the Tran throne as a pretext, a huge Ming army under Zhang Fu and Mu Sheng invaded Dai Ngu."
+    ],
+    [
+     "Hân Hân",
+     "Cuối tháng 1 năm 1407, thành Đa Bang và Đông Đô thất thủ, nhà Hồ rút về Tây Đô. Tháng 6, kháng chiến thất bại.",
+     "By late January 1407, Da Bang and Dong Do had fallen and the Ho retreated to Tay Do. By June, the resistance had failed."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-nguyen-trung"
+   ],
+   "hinh": "Khung dọc. Buổi họp bàn kế sách đánh giặc trong cung nhà Hồ, ánh đèn dầu: Hồ Nguyên Trừng (vẽ khái quát, áo quan võ) đứng giữa triều thần, vẻ mặt trầm tư lo lắng",
+   "loi": [
+    [
+     "Hồ Nguyên Trừng",
+     "Thần không sợ đánh, chỉ sợ lòng dân không theo thôi.",
+     "I do not fear battle; I only fear the people will not follow us."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà Hồ quá chú trọng xây phòng tuyến quân sự và quân đội chính quy, nên tự “giam mình” trong thế trận phòng ngự bị động.",
+     "The Ho relied too much on military defences and the regular army, and so 'locked themselves' into a passive defence."
+    ],
+    [
+     "Hân Hân",
+     "Sau này, Nguyễn Trãi viết rằng thuyền bị lật mới tin dân như nước.",
+     "Later, Nguyen Trai wrote that only when the boat capsizes do we believe the people are like water."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Hồ Nguyên Trừng, điều đáng lo nhất khi chống giặc Minh là gì?",
+    "lua_chon": [
+     "Lòng dân không theo",
+     "Quân Minh quá đông",
+     "Thiếu thuyền chiến"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hồ Nguyên Trừng lo nhất điều gì?",
+     "Pause! What did Ho Nguyen Trung fear most?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: lòng dân không theo!",
+     "The answer is A: that the people would not follow!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân ngồi trên bậc đá dưới chân thành, ánh chiều vàng; Hân Hân quay về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành vững đến mấy cũng cần lòng dân!",
+     "However strong the walls, you need the people's hearts!"
+    ],
+    [
+     "Hân Hân",
+     "Thử thách: cách đánh giặc của nhà Hồ khác nhà Trần ở điểm nào? Bình luận nhé!",
+     "Challenge: how did the Ho's way of fighting differ from the Tran's? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà Minh lấy cớ gì để xâm lược Đại Ngu?",
+   "dap_an": [
+    "Hồ Quý Ly cướp ngôi nhà Trần",
+    "Đại Ngu không nộp cống",
+    "Đại Ngu đánh Chăm-pa",
+    "Nhà Hồ dời đô"
+   ],
+   "dung": 0,
+   "trang": 76
+  },
+  {
+   "hoi": "Quân Minh sang xâm lược Đại Ngu (cuối năm 1406) do ai chỉ huy?",
+   "dap_an": [
+    "Thoát Hoan và Ô Mã Nhi",
+    "Trương Phụ và Mộc Thạnh",
+    "Quách Quỳ và Hoà Mâu",
+    "Liễu Thăng và Vương Thông"
+   ],
+   "dung": 1,
+   "trang": 76
+  },
+  {
+   "hoi": "Sau khi mất thành Đa Bang và Đông Đô, nhà Hồ rút về cố thủ ở",
+   "dap_an": [
+    "thành Cổ Loa",
+    "thành Tây Đô (tỉnh Thanh Hoá)",
+    "Hoa Lư",
+    "Thăng Long"
+   ],
+   "dung": 1,
+   "trang": 76
+  },
+  {
+   "hoi": "Theo SGK, vì sao nhà Hồ tự “giam mình” trong thế trận phòng ngự bị động?",
+   "dap_an": [
+    "Quá chú trọng phòng tuyến quân sự và quân đội chính quy",
+    "Không có quân đội",
+    "Được nhân dân ủng hộ hết lòng",
+    "Nhà Minh xin hoà"
+   ],
+   "dung": 0,
+   "trang": 76
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 76 (mục 3: lấy cớ Hồ Quý Ly cướp ngôi, cuối năm 1406 nhà Minh do Trương Phụ, Mộc Thạnh chỉ huy sang xâm lược; cuối tháng 1 – 1407 mất thành Đa Bang, Đông Đô, rút về Tây Đô; tháng 6 – 1407 thất bại; tư liệu 1: lời Hồ Nguyên Trừng (trích nguyên văn theo SGK); tư liệu 2: thơ Nguyễn Trãi (diễn ý); nhà Hồ quá chú trọng phòng tuyến quân sự và quân đội chính quy, tự 'giam mình' trong thế trận phòng ngự bị động). Đối chiếu danh mục: 'Bài học: không dựa vào dân, lòng dân không theo' là ý rút ra từ tư liệu SGK (SGK đặt thành câu hỏi), kịch bản trình bày như một nhận xét chứ không như câu khẳng định của SGK. Phương án nhiễu câu 2 lấy từ các bài trong SGK (Thoát Hoan, Ô Mã Nhi – Bài 14; Quách Quỳ, Hoà Mâu – Bài 12; Liễu Thăng, Vương Thông – Bài 16). Lời Hồ Nguyên Trừng trích từ tư liệu SGK; không có lời dựng thêm.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

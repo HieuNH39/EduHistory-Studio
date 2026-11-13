@@ -1,0 +1,350 @@
+{
+ "ma": "L7-B3-01",
+ "ten_tap": "Tây Âu chuyển mình: Khi tư bản trỗi dậy",
+ "ten_tap_en": "Western Europe Transformed: The Rise of Capitalism",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 3. Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+  "trang": [
+   18,
+   19
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-thu-cong",
+  "cong-nhan-lam-thue",
+  "thuong-nhan-chau-au",
+  "giai-cap-tu-san",
+  "quy-toc-chau-au"
+ ],
+ "nhac": {
+  "tam_trang": "năng động, tươi sáng; nhịp nhanh ở cảnh công trường, sáng bừng ở cảnh văn hoá mới",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 3, tr. 18–19.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở một gian hàng trong hội chợ khởi nghiệp của học sinh ngày nay: bàn bày đồ thủ công tự làm, bảng giá viết tay, các bạn khác tấp nập mua bán",
+   "loi": [
+    [
+     "Hân Hân",
+     "Gian hàng khởi nghiệp của tụi mình đông khách ghê! Làm ra, bán đi, lại làm tiếp.",
+     "Our startup stall is so busy! Make, sell, make some more."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều thế kỉ trước, ở Tây Âu cũng có những người làm ăn lớn như thế, và họ đã làm cả xã hội thay đổi. Đi xem nào!",
+     "Centuries ago, Western Europe had big business people too, and they changed all of society. Let's go see!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XIII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong",
+    "cong-nhan-lam-thue"
+   ],
+   "hinh": "Một công trường thủ công dệt vải lớn ở Tây Âu: hàng chục người thợ làm việc theo dây chuyền – kéo sợi, dệt, nhuộm; những kiện vải chất cao chờ xuất đi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XIII, tình hình kinh tế – xã hội Tây Âu có nhiều biến đổi.",
+     "From the late 13th century, Western Europe's economy and society changed in many ways."
+    ],
+    [
+     "Hân Hân",
+     "Các công trường thủ công, công ti thương mại, các đồn điền ra đời và ngày càng được mở rộng quy mô.",
+     "Manufactories, trading companies and plantations appeared and kept growing."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au",
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Trong văn phòng một công ti thương mại: các thương nhân áo nhung kí hợp đồng trên bàn gỗ lớn, bản đồ hàng hải treo tường, ngoài cửa sổ là bến cảng tàu buồm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những người chủ công trường, chủ công ti thuê rất nhiều người làm.",
+     "Owners of workshops and companies hired many workers."
+    ],
+    [
+     "Hân Hân",
+     "Quan hệ sản xuất tư bản chủ nghĩa đã xuất hiện.",
+     "Capitalist relations of production had appeared."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ cuối thế kỉ XIII, ở Tây Âu đã ra đời những gì?",
+    "lua_chon": [
+     "Công trường thủ công, công ti thương mại, đồn điền",
+     "Các lãnh địa phong kiến đầu tiên",
+     "Những kim tự tháp đá"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Từ cuối thế kỉ XIII, ở Tây Âu đã ra đời những gì?",
+     "Pause! What appeared in Western Europe from the late 13th century?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: công trường thủ công, công ti thương mại và đồn điền!",
+     "The answer is A: manufactories, trading companies and plantations!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giai-cap-tu-san",
+    "quy-toc-chau-au"
+   ],
+   "hinh": "Một bữa tiệc trong lâu đài: quý tộc và giáo sĩ ngồi ở bàn trên cao; một thương nhân giàu có áo quần lộng lẫy bị xếp ngồi tận cuối phòng, nét mặt bất bình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai cấp tư sản ra đời. Họ có thế lực về kinh tế, song lại chưa có địa vị xã hội tương xứng.",
+     "The bourgeoisie was born. They had economic power, but no matching place in society."
+    ],
+    [
+     "Thương nhân giàu có",
+     "Ta giàu có thế này, vậy mà vẫn phải ngồi cuối bàn!",
+     "I'm this rich, and still I sit at the end of the table!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Trong thư phòng, người tư sản gấp lại cuốn sách giáo lí cũ kĩ, đặt sang một bên, mở những cuốn sách về khoa học, hội hoạ, máy móc; ánh nắng tràn vào cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ không chấp nhận những giáo lí lỗi thời.",
+     "They rejected outdated religious dogmas."
+    ],
+    [
+     "Nhật Minh",
+     "Họ muốn xây dựng một nền văn hoá mới, đề cao giá trị con người và quyền tự do cá nhân, coi trọng khoa học – kĩ thuật, để mở đường cho chủ nghĩa tư bản phát triển.",
+     "They wanted a new culture that valued human beings and personal freedom and prized science and technology, to clear the way for capitalism."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên quảng trường một thành phố I-ta-li-a thời trung đại, xung quanh là hoạ sĩ vẽ tranh, nhà điêu khắc tạc tượng, người đọc sách giữa phố",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nền văn hoá mới ấy chính là phong trào Văn hoá Phục hưng, diễn ra đầu tiên ở I-ta-li-a vào thế kỉ XIV.",
+     "That new culture was the Renaissance, which began in Italy in the 14th century."
+    ],
+    [
+     "Nhật Minh",
+     "Người ta coi đó là “một cuộc cách mạng tiến bộ vĩ đại nhất” mà loài người từng thấy!",
+     "People called it 'the greatest progressive revolution' humanity had ever seen!"
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giai cấp tư sản muốn xây dựng nền văn hoá mới đề cao điều gì?",
+    "lua_chon": [
+     "Giá trị con người và quyền tự do cá nhân",
+     "Quyền lực của Giáo hội",
+     "Đặc quyền của quý tộc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Giai cấp tư sản muốn nền văn hoá mới đề cao điều gì?",
+     "Quick test! What did the bourgeoisie want the new culture to celebrate?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: giá trị con người và quyền tự do cá nhân!",
+     "The answer is A: human worth and personal freedom!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ cuối thế kỉ XIII: công trường thủ công, công ti thương mại, đồn điền ra đời",
+    "Quan hệ sản xuất tư bản chủ nghĩa xuất hiện",
+    "Tư sản: có thế lực kinh tế, chưa có địa vị xã hội tương xứng",
+    "Tư sản muốn văn hoá mới: đề cao con người, tự do cá nhân, khoa học – kĩ thuật"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ cuối thế kỉ XIII, công trường thủ công, công ti thương mại, đồn điền ra đời.",
+     "Remember: from the late 13th century, manufactories, trading companies and plantations appeared."
+    ],
+    [
+     "Hân Hân",
+     "Quan hệ sản xuất tư bản chủ nghĩa xuất hiện.",
+     "Capitalist relations of production emerged."
+    ],
+    [
+     "Nhật Minh",
+     "Giai cấp tư sản có thế lực kinh tế nhưng chưa có địa vị xã hội tương xứng.",
+     "The bourgeoisie had economic power but no matching social status."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, họ muốn một nền văn hoá mới đề cao con người, tự do cá nhân và khoa học – kĩ thuật.",
+     "So they wanted a new culture celebrating people, freedom, science and technology."
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại gian hàng hội chợ khởi nghiệp, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, biến đổi nào về kinh tế – xã hội ở Tây Âu thời kì này là quan trọng nhất? Bình luận nhé!",
+     "Your challenge: which economic or social change in Western Europe at this time mattered most? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu xuất hiện từ khi nào?",
+   "dap_an": [
+    "Thế kỉ V",
+    "Thế kỉ IX",
+    "Cuối thế kỉ XIII",
+    "Thế kỉ XIX"
+   ],
+   "dung": 2,
+   "trang": 18
+  },
+  {
+   "hoi": "Vì sao giai cấp tư sản muốn xây dựng một nền văn hoá mới?",
+   "dap_an": [
+    "Vì họ chưa có địa vị xã hội tương xứng và không chấp nhận giáo lí lỗi thời",
+    "Vì họ muốn trở thành lãnh chúa",
+    "Vì nhà vua ra lệnh",
+    "Vì họ muốn bỏ buôn bán"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Nền văn hoá mới mà giai cấp tư sản muốn xây dựng coi trọng",
+   "dap_an": [
+    "Giáo lí của Giáo hội",
+    "Khoa học – kĩ thuật",
+    "Đặc quyền dòng dõi",
+    "Kinh tế tự cấp tự túc"
+   ],
+   "dung": 1,
+   "trang": 19
+  },
+  {
+   "hoi": "Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở",
+   "dap_an": [
+    "Anh",
+    "Pháp",
+    "I-ta-li-a",
+    "Đức"
+   ],
+   "dung": 2,
+   "trang": 19
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 18 (mở đầu bài: nhận định 'một cuộc cách mạng tiến bộ vĩ đại nhất…'; mục 1: biến đổi từ cuối thế kỉ XIII), tr. 19 (giai cấp tư sản, mong muốn văn hoá mới; Phục hưng bắt đầu ở I-ta-li-a thế kỉ XIV). Kiến thức chốt của danh mục khớp SGK. Lời thương nhân giàu có là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,527 @@
+{
+ "ma": "L7-B15-02",
+ "ten_tap": "Cải cách của Hồ Quý Ly: Bước tiến hay bước lùi?",
+ "ten_tap_en": "Hồ Quý Ly's Reforms: A Step Forward or Back?",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 15. Nước Đại Ngu thời Hồ (1400 – 1407)",
+  "trang": [
+   74,
+   75
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-quy-ly",
+  "ho-nguyen-trung",
+  "quy-toc-tran",
+  "nong-dan-no-ti",
+  "quan-doi-nha-ho",
+  "tho-xay-thanh",
+  "nhan-dan-thoi-ho",
+  "si-tu-thoi-ho",
+  "nguyen-trai",
+  "ly-tu-tan",
+  "vu-mong-nguyen"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, suy tư (đàn nguyệt, trống trầm); mạnh mẽ ở phần cải cách quân sự",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 15, tr. 74–75.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Cửa Nam thành Tây Đô (tỉnh Thanh Hoá) ngày nay: cổng vòm ghép từ những khối đá xanh khổng lồ, cỏ mọc trên đỉnh tường thành, trời xanh, ruộng lúa xung quanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những khối đá này to thật! Thành Tây Đô chỉ xây dựng trong ba tháng đã xong, là toà thành đá lớn nhất ở Việt Nam và Đông Nam Á.",
+     "These stones are huge! Tây Đô citadel was built in just three months, the largest stone citadel in Việt Nam and Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Người cho xây thành là Hồ Quý Ly, một nhà cải cách táo bạo. Cải cách của ông là bước tiến hay bước lùi? Cùng đi xem!",
+     "It was built by Hồ Quý Ly, a bold reformer. Were his reforms a step forward or a step back? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XIV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-tran",
+    "nong-dan-no-ti"
+   ],
+   "hinh": "Hai cảnh đối lập: trong phủ đệ, quý tộc nhà Trần mở tiệc linh đình, ca múa; ngoài đồng, nông dân và nô tì áo rách giơ gậy gộc, cờ khởi nghĩa (viễn cảnh, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nửa sau thế kỉ XIV, nhà Trần ngày càng suy yếu. Tầng lớp quý tộc ăn chơi hưởng lạc, khiến nhân dân bất bình.",
+     "In the late 14th century, the Trần dynasty grew ever weaker. Nobles lived for pleasure, angering the people."
+    ],
+    [
+     "Hân Hân",
+     "Khởi nghĩa của nông dân và nô tì nổ ra ở nhiều nơi, tiêu biểu là khởi nghĩa của Phạm Sư Ôn.",
+     "Peasant and servant uprisings broke out in many places, most notably Phạm Sư Ôn's."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-quy-ly"
+   ],
+   "hinh": "Hồ Quý Ly (vẽ theo tranh minh hoạ lịch sử: ông quan cao tuổi, râu dài, áo bào tía, mũ cánh chuồn) đứng giữa triều đình nhà Trần, các quan cúi đầu; vị vua trẻ ngồi trên ngai, vẻ lo lắng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong bối cảnh đó, Hồ Quý Ly dần thâu tóm quyền lực. Năm 1397, ông ép vua Trần dời đô vào Thanh Hoá.",
+     "In this climate, Hồ Quý Ly gradually seized power. In 1397, he forced the Trần king to move the capital to Thanh Hoá."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1400, Hồ Quý Ly buộc vua Trần nhường ngôi, lập ra Triều Hồ.",
+     "In 1400, Hồ Quý Ly made the Trần king give up the throne and founded the Hồ dynasty."
+    ],
+    [
+     "Hồ Quý Ly",
+     "Từ nay, nước ta mang tên Đại Ngu!",
+     "From now on, our country shall be called Đại Ngu!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    74,
+    75
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Hồ đặt tên nước là gì?",
+    "lua_chon": [
+     "Đại Việt",
+     "Đại Ngu",
+     "Đại Cồ Việt"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nhà Hồ đặt tên nước là gì?",
+     "Pause! What did the Hồ dynasty name the country?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Đại Ngu, nghĩa là “niềm vui lớn”. Triều Hồ chỉ tồn tại 7 năm, với hai đời vua là Hồ Quý Ly và Hồ Hán Thương.",
+     "The answer is B: Đại Ngu, meaning 'great joy'. The Hồ dynasty lasted only 7 years, with two rulers, Hồ Quý Ly and Hồ Hán Thương."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-quy-ly",
+    "quan-doi-nha-ho"
+   ],
+   "hinh": "Hồ Quý Ly duyệt đội quân chính quy giáp trụ chỉnh tề trên bãi tập; bên sông, thợ đang đóng những chiếc thuyền chiến lớn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về chính trị, Hồ Quý Ly củng cố chế độ quân chủ tập quyền: cải tổ quy chế quan lại, lập lại kỉ cương.",
+     "Politically, Hồ Quý Ly strengthened centralised monarchy: he reorganised officials' rules and restored order."
+    ],
+    [
+     "Hân Hân",
+     "Về quân sự, nhà Hồ tăng cường quân đội chính quy, xây nhiều thành luỹ như Tây Đô ở Thanh Hoá, Đa Bang ở Hà Nội, chế tạo súng thần cơ, đóng thuyền chiến.",
+     "Militarily, the Hồ built up a regular army, raised citadels like Tây Đô in Thanh Hoá and Đa Bang in Hà Nội, made thần cơ guns and built warships."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-nguyen-trung",
+    "quan-doi-nha-ho"
+   ],
+   "hinh": "Hồ Nguyên Trừng (áo quan võ, dáng trẻ) đứng cạnh một khẩu súng thần cơ cỡ lớn đặt trên xe ngựa kéo, vài người lính vây quanh; một người lính khác cầm khẩu súng nhỏ trên tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Súng thần cơ do Hồ Nguyên Trừng sáng chế.",
+     "The thần cơ gun was invented by Hồ Nguyên Trừng."
+    ],
+    [
+     "Hồ Nguyên Trừng",
+     "Loại lớn phải kéo bằng xe ngựa, nhiều người cùng bắn. Còn loại nhỏ, một người cũng cầm bắn được!",
+     "The big ones are pulled by horse carts and fired by a team. The small ones, one man can hold and fire!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-xay-thanh"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên gò đất nhìn công trường xây thành Tây Đô: hàng nghìn người thợ dùng con lăn, dây thừng kéo những khối đá lớn, xếp thành vòm cổng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành Tây Đô đang được xây dựng! Chỉ trong ba tháng là xong.",
+     "Tây Đô is being built! It will be finished in just three months."
+    ],
+    [
+     "Hân Hân",
+     "Sau này, năm 2011, toà thành được UNESCO ghi danh là Di sản Văn hoá thế giới.",
+     "Later, in 2011, UNESCO would list it as a World Cultural Heritage site."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-tran",
+    "ho-quy-ly"
+   ],
+   "hinh": "Viên quan nhà Hồ đọc chiếu chỉ trước sân phủ đệ của một quý tộc nhà Trần; quý tộc nhíu mày nhìn sổ ruộng đất và đám gia nô đứng sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, xã hội, để hạn chế quyền lực của quý tộc Trần, Hồ Quý Ly thực hiện chính sách hạn điền, hạn nô.",
+     "In economy and society, to curb the Trần nobles' power, Hồ Quý Ly limited landholdings and household servants."
+    ],
+    [
+     "Hân Hân",
+     "Theo đó, mỗi người chỉ được sở hữu một số lượng ruộng đất và gia nô nhất định.",
+     "Each person could own only a set amount of land and servants."
+    ],
+    [
+     "Quý tộc Trần",
+     "Ruộng đất, gia nô của ta… đều bị hạn chế cả sao?",
+     "My land and my servants… all of it limited?"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-thoi-ho"
+   ],
+   "hinh": "Phiên chợ thời Hồ: người mua kẻ bán trao tay những tờ tiền giấy in hoa văn; cạnh đó một viên quan dùng thước, đấu đo lường thống nhất kiểm tra hàng hoá",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ông còn cho phát hành tiền giấy Thông bảo hội sao, cải cách chế độ thuế khoá, thống nhất đơn vị đo lường trong cả nước.",
+     "He also issued Thông bảo hội sao paper money, reformed taxes and unified weights and measures nationwide."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Hồ đã phát hành loại tiền nào?",
+    "lua_chon": [
+     "Tiền giấy Thông bảo hội sao",
+     "Tiền vàng",
+     "Tiền vỏ sò"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nhà Hồ đã phát hành loại tiền nào?",
+     "Quick test! What kind of money did the Hồ issue?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tiền giấy Thông bảo hội sao!",
+     "The answer is A: Thông bảo hội sao paper money!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "si-tu-thoi-ho",
+    "nguyen-trai"
+   ],
+   "hinh": "Kì thi Thái học sinh năm 1400: các sĩ tử áo the khăn xếp ngồi làm bài trong trường thi; một thầy đồ dạy học trò đọc sách chữ Nôm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về văn hoá, giáo dục, nhà Hồ cải cách chế độ học tập và thi cử để tuyển chọn nhân tài. Kì thi Thái học sinh đầu tiên năm 1400 tuyển được nhiều người giỏi.",
+     "In culture and education, the Hồ reformed schooling and exams to find talent. The first Thái học sinh exam in 1400 selected many able men."
+    ],
+    [
+     "Hân Hân",
+     "Chữ Nôm được khuyến khích dùng để dịch sách chữ Hán, dạy học và sáng tác văn chương.",
+     "Chữ Nôm script was encouraged for translating Chinese books, teaching and writing literature."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-trai",
+    "ly-tu-tan",
+    "vu-mong-nguyen"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng lẫn trong đám đông xem bảng vàng ghi tên người đỗ trước cổng trường thi, ba tân khoa trẻ áo xanh bước ra",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nguyễn Trãi, Lý Tử Tấn, Vũ Mộng Nguyên đều thi đỗ trong kì thi Thái học sinh đầu tiên của nhà Hồ đấy!",
+     "Nguyễn Trãi, Lý Tử Tấn and Vũ Mộng Nguyên all passed the Hồ dynasty's first Thái học sinh exam!"
+    ],
+    [
+     "Nhật Minh",
+     "Những nhân tài này về sau có nhiều đóng góp cho đất nước.",
+     "These talents would go on to serve the country greatly."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Tích cực: củng cố quyền lực của chính quyền Trung ương",
+    "Tích cực: giảm bớt thế lực tầng lớp quý tộc",
+    "Tích cực: tăng cường tiềm lực kinh tế, phát triển văn hoá dân tộc",
+    "Hạn chế: chưa triệt để (như chính sách hạn nô), kết quả thực tế còn hạn chế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vậy cải cách tác động thế nào? Cải cách toàn diện của Hồ Quý Ly có nhiều điểm tiến bộ: củng cố quyền lực chính quyền Trung ương,",
+     "So what was the impact? Hồ Quý Ly's sweeping reforms had many progressive points: they strengthened central government,"
+    ],
+    [
+     "Hân Hân",
+     "giảm bớt thế lực tầng lớp quý tộc,",
+     "reduced the nobles' power,"
+    ],
+    [
+     "Nhật Minh",
+     "tăng cường tiềm lực kinh tế đất nước và phát triển văn hoá dân tộc.",
+     "built up the economy and developed national culture."
+    ],
+    [
+     "Hân Hân",
+     "Tuy nhiên, cải cách còn chưa triệt để, như chính sách hạn nô, và kết quả thực tế còn hạn chế.",
+     "But the reforms were incomplete, for example the limit on servants, and their real results were limited."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "tieu_de": "TÁC ĐỘNG CỦA CẢI CÁCH",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước Cửa Nam thành Tây Đô ngày nay, chiều muộn, ánh nắng vàng trên những khối đá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vậy là bước tiến hay bước lùi? Tớ thấy cải cách có nhiều điểm tiến bộ, nhưng vẫn chưa triệt để.",
+     "So, a step forward or back? I'd say the reforms had many progressive points, but didn't go far enough."
+    ],
+    [
+     "Hân Hân",
+     "Đúng vậy. Toà thành đá này vẫn còn đây, như một dấu ấn của những cải cách táo bạo ấy.",
+     "Exactly. This stone citadel still stands, a mark of those bold reforms."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "1400: Hồ Quý Ly lập Triều Hồ, nước Đại Ngu",
+    "Chính trị – quân sự: tập quyền, quân đội chính quy, thành Tây Đô, súng thần cơ",
+    "Kinh tế – xã hội: hạn điền, hạn nô, tiền giấy Thông bảo hội sao",
+    "Văn hoá – giáo dục: cải cách thi cử, đề cao chữ Nôm"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1400, Hồ Quý Ly lập Triều Hồ, đặt tên nước là Đại Ngu.",
+     "Remember: in 1400, Hồ Quý Ly founded the Hồ dynasty and named the country Đại Ngu."
+    ],
+    [
+     "Hân Hân",
+     "Chính trị, quân sự: củng cố tập quyền, quân đội chính quy, thành Tây Đô, súng thần cơ.",
+     "Politics and military: centralised power, a regular army, Tây Đô citadel, thần cơ guns."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế, xã hội: hạn điền, hạn nô, tiền giấy Thông bảo hội sao.",
+     "Economy and society: land and servant limits, Thông bảo hội sao paper money."
+    ],
+    [
+     "Hân Hân",
+     "Văn hoá, giáo dục: cải cách thi cử, đề cao chữ Nôm.",
+     "Culture and education: exam reform and promotion of chữ Nôm."
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem trước cổng thành Tây Đô, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, cải cách nào của Hồ Quý Ly tiến bộ nhất, và hạn chế lớn nhất là gì? Bình luận nhé!",
+     "Your challenge: which of Hồ Quý Ly's reforms was most progressive, and what was its biggest limitation? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1400, Hồ Quý Ly lập ra Triều Hồ và đặt tên nước là",
+   "dap_an": [
+    "Đại Việt",
+    "Đại Ngu",
+    "Đại Cồ Việt",
+    "Chăm-pa"
+   ],
+   "dung": 1,
+   "trang": 75
+  },
+  {
+   "hoi": "Chính sách hạn điền, hạn nô của Hồ Quý Ly nhằm mục đích chính là",
+   "dap_an": [
+    "Hạn chế quyền lực của quý tộc Trần",
+    "Mở rộng lãnh thổ",
+    "Khuyến khích buôn bán với nước ngoài",
+    "Tuyển chọn nhân tài"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Ai là người sáng chế súng thần cơ thời Hồ?",
+   "dap_an": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Hồ Nguyên Trừng",
+    "Nguyễn Trãi"
+   ],
+   "dung": 2,
+   "trang": 75
+  },
+  {
+   "hoi": "Hạn chế của cải cách Hồ Quý Ly là gì?",
+   "dap_an": [
+    "Không có điểm tiến bộ nào",
+    "Còn chưa triệt để, kết quả thực tế còn hạn chế",
+    "Làm suy yếu chính quyền Trung ương",
+    "Bỏ chữ Nôm"
+   ],
+   "dung": 1,
+   "trang": 75
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 74 (nhà Trần suy yếu, khởi nghĩa Phạm Sư Ôn, năm 1397 dời đô vào Thanh Hoá, ảnh Cửa Nam thành Tây Đô), tr. 75 (năm 1400, Đại Ngu – niềm vui lớn, 7 năm, hai đời vua; nội dung cải cách các lĩnh vực; tác động; hai ô Em có biết: thành Tây Đô ba tháng, UNESCO 2011, súng thần cơ của Hồ Nguyên Trừng; Nguyễn Trãi, Lý Tử Tấn, Vũ Mộng Nguyên – đối chiếu ảnh trang). Kiến thức chốt của danh mục khớp SGK. Lời Hồ Quý Ly, Hồ Nguyên Trừng, quý tộc Trần là lời dựng, chỉ diễn đạt lại SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

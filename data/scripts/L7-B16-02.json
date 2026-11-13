@@ -1,0 +1,411 @@
+{
+ "ma": "L7-B16-02",
+ "ten_tap": "Gian nan những ngày đầu",
+ "ten_tap_en": "The Hard Early Days of Lam Sơn",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+  "trang": [
+   79
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-loi",
+  "hao-kiet-lam-son",
+  "nghia-quan-lam-son",
+  "quan-minh",
+  "le-lai",
+  "nguyen-trai"
+ ],
+ "nhac": {
+  "tam_trang": "trầm lắng, gian khó (sáo, đàn bầu); xúc động ở cảnh Lê Lai; le lói hi vọng ở đoạn kết",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 16, tr. 79.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trong nhà bia ở khu di tích Lam Kinh (tỉnh Thanh Hoá) ngày nay, trước tấm bia đá lớn đặt trên lưng rùa đá – Bia Vĩnh Lăng; cột gỗ, ánh sáng xiên qua cửa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Bia Vĩnh Lăng ở khu di tích Lam Kinh, tỉnh Thanh Hoá. Bài văn bia do Nguyễn Trãi soạn.",
+     "This is the Vĩnh Lăng stele at the Lam Kinh site in Thanh Hoá. Its inscription was written by Nguyễn Trãi."
+    ],
+    [
+     "Nhật Minh",
+     "Văn bia kể Lê Lợi “tuy gặp thời loạn lớn mà chí càng bền”. Những ngày đầu khởi nghĩa Lam Sơn gian nan thế nào? Cùng xem nhé!",
+     "It says Lê Lợi 'met great turmoil, yet his will grew ever firmer'. How hard were the early days of the Lam Sơn uprising? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1418",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "hao-kiet-lam-son"
+   ],
+   "hinh": "Lê Lợi (vẽ theo tượng thờ ở Lam Kinh: mặt vuông, râu ngắn, khăn chít đầu, áo chiến bào) cùng các hào kiệt đứng quanh bàn thờ giữa rừng núi, giơ tay thề; đuốc sáng rực",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1416, Lê Lợi cùng 18 hào kiệt tổ chức Hội thề ở Lũng Nhai, tỉnh Thanh Hoá, quyết tâm đánh đuổi giặc Minh.",
+     "In 1416, Lê Lợi and 18 heroes swore an oath at Lũng Nhai in Thanh Hoá, vowing to drive out the Ming."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1418, Lê Lợi tự xưng là Bình Định Vương, truyền hịch kêu gọi nhân dân đứng lên đánh giặc cứu nước.",
+     "In early 1418, Lê Lợi proclaimed himself Bình Định Vương and issued a call for the people to rise and save the country."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "quan-minh"
+   ],
+   "hinh": "Nghĩa quân Lam Sơn áo vải, mang giáo mác, dìu nhau rút theo đường mòn lên vùng núi rừng hiểm trở, sương mù dày đặc; phía xa dưới thung lũng là cờ xí quân Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời kì đầu khởi nghĩa, căn cứ nhiều lần bị bao vây. Nghĩa quân gặp rất nhiều khó khăn,",
+     "In the early years, the base was surrounded again and again. The rebels faced great hardship,"
+    ],
+    [
+     "Hân Hân",
+     "phải ba lần rút lên vùng núi Chí Linh, miền tây tỉnh Thanh Hoá, có lúc chỉ còn hơn 100 người.",
+     "retreating three times to the Chí Linh mountains in western Thanh Hoá, at times down to just over 100 men."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-lai",
+    "le-loi",
+    "quan-minh"
+   ],
+   "hinh": "Trong rừng, Lê Lai khoác áo bào của chủ tướng, cưỡi ngựa phóng ra phía quân Minh; ở phía ngược lại, Lê Lợi được nghĩa quân hộ tống rút vào lối mòn kín (viễn cảnh, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1418, quân Minh liên tiếp vây đánh căn cứ Chí Linh.",
+     "In 1418, the Ming repeatedly attacked the Chí Linh base."
+    ],
+    [
+     "Lê Lai",
+     "Chủ tướng hãy đi đi! Để tôi mặc áo bào thay ngài, nhử giặc!",
+     "Go, my lord! Let me wear your robe and lure the enemy away!"
+    ],
+    [
+     "Nhật Minh",
+     "Lê Lai đã đóng giả Lê Lợi để nhử địch, cứu chủ tướng khỏi sự truy sát, và ông đã hi sinh.",
+     "Lê Lai disguised himself as Lê Lợi to draw the enemy off, saving his commander, and he gave his life."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã đóng giả Lê Lợi để nhử địch, cứu chủ tướng năm 1418?",
+    "lua_chon": [
+     "Lê Lai",
+     "Nguyễn Trãi",
+     "Nguyễn Chích"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai đã đóng giả Lê Lợi để cứu chủ tướng?",
+     "Pause! Who disguised himself as Lê Lợi to save his commander?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Lê Lai!",
+     "The answer is A: Lê Lai!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "nghia-quan-lam-son"
+   ],
+   "hinh": "Đêm đông giá rét trong rừng núi, nghĩa quân gầy gò ngồi co ro quanh đống lửa nhỏ; Lê Lợi đứng bên con voi chiến và đàn ngựa, nét mặt đau xót nhưng cương quyết",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1421, trong một đợt vây quét của giặc Minh, nghĩa quân lâm vào cảnh thiếu lương thực trầm trọng, đói và rét.",
+     "In 1421, during a Ming sweep, the rebels ran desperately short of food, starving and freezing."
+    ],
+    [
+     "Lê Lợi",
+     "Không thể để anh em chết đói. Hãy giết cả voi, ngựa mà nuôi quân!",
+     "We cannot let our men starve. Slaughter even the elephants and horses to feed the army!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, áo khoác) ngồi nép bên gốc cây trong trại nghĩa quân giữa rừng, nhìn những người lính chia nhau từng nắm cơm, khoác chung tấm chăn mỏng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lê Lợi phải cho giết cả voi, ngựa để nuôi quân. Gian khổ thật!",
+     "Lê Lợi even had elephants and horses killed to feed his men. Such hardship!"
+    ],
+    [
+     "Nhật Minh",
+     "Vậy mà nghĩa quân vẫn không bỏ cuộc. Họ cần một cách để vượt qua lúc khó khăn này.",
+     "Yet they didn't give up. They needed a way to get through this crisis."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-trai"
+   ],
+   "hinh": "Nguyễn Trãi (vẽ theo tranh chân dung thờ: râu dài, khăn vấn, áo dài màu lam) ngồi viết thư bên ngọn đèn trong lều trại, bên cạnh là chồng sách và bản đồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghe tin Lê Lợi chuẩn bị khởi nghĩa, nhiều người yêu nước từ các nơi về hội tụ, trong đó có Nguyễn Trãi.",
+     "Hearing of Lê Lợi's plans, patriots gathered from everywhere, among them Nguyễn Trãi."
+    ],
+    [
+     "Hân Hân",
+     "Nguyễn Trãi, hiệu Ức Trai, quê ở Thường Tín, thành phố Hà Nội, đỗ Thái học sinh và làm quan dưới Triều Hồ. Ông học rộng, tài cao, yêu nước, thương dân, và trở thành quân sư của Lê Lợi.",
+     "Nguyễn Trãi, pen name Ức Trai, from Thường Tín in Hà Nội, passed the Thái học sinh exam and served the Hồ court. Learned, gifted, patriotic and caring, he became Lê Lợi's strategist."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "nguyen-trai"
+   ],
+   "hinh": "Lê Lợi và Nguyễn Trãi ngồi bàn bạc trong lều, tấm bản đồ trải giữa; sau đó Nguyễn Trãi trao bức thư cho sứ giả lên ngựa đi về phía doanh trại quân Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để khắc phục khó khăn, Lê Lợi và Nguyễn Trãi chủ trương tạm hoà với quân Minh, tranh thủ thời gian tìm phương hướng mới, củng cố lực lượng.",
+     "To overcome the crisis, Lê Lợi and Nguyễn Trãi chose a temporary truce with the Ming, buying time to find a new direction and rebuild their strength."
+    ],
+    [
+     "Nguyễn Trãi",
+     "Tạm hoà để giữ sức, chờ thời cơ mà đánh!",
+     "A truce to save our strength, then strike when the time is right!"
+    ],
+    [
+     "Hân Hân",
+     "Việc ngoại giao với quân Minh do Nguyễn Trãi đảm trách.",
+     "Nguyễn Trãi handled the diplomacy with the Ming."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Để khắc phục khó khăn, Lê Lợi và Nguyễn Trãi chủ trương gì?",
+    "lua_chon": [
+     "Tạm hoà với quân Minh để củng cố lực lượng",
+     "Đầu hàng quân Minh",
+     "Đánh ngay vào thành Đông Quan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Để vượt khó, Lê Lợi và Nguyễn Trãi chủ trương gì?",
+     "Quick test! What did Lê Lợi and Nguyễn Trãi decide to do to get through the crisis?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tạm hoà với quân Minh, tranh thủ thời gian củng cố lực lượng!",
+     "The answer is A: a temporary truce with the Ming to rebuild their strength!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "1416: Hội thề Lũng Nhai; đầu 1418: Lê Lợi xưng Bình Định Vương",
+    "Căn cứ nhiều lần bị vây; ba lần rút lên núi Chí Linh, có lúc chỉ còn hơn 100 người",
+    "1418: Lê Lai đóng giả Lê Lợi, hi sinh cứu chủ tướng; 1421: giết voi, ngựa nuôi quân",
+    "Chủ trương tạm hoà với quân Minh; Nguyễn Trãi đảm trách ngoại giao"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1416, Hội thề Lũng Nhai; đầu năm 1418, Lê Lợi xưng Bình Định Vương.",
+     "Remember: 1416, the Lũng Nhai oath; early 1418, Lê Lợi became Bình Định Vương."
+    ],
+    [
+     "Hân Hân",
+     "Nghĩa quân ba lần rút lên núi Chí Linh, có lúc chỉ còn hơn 100 người.",
+     "The rebels retreated to Chí Linh three times, at times down to just over 100 men."
+    ],
+    [
+     "Nhật Minh",
+     "Lê Lai hi sinh cứu chủ tướng; năm 1421, phải giết cả voi, ngựa để nuôi quân.",
+     "Lê Lai died saving his leader; in 1421 they even killed elephants and horses for food."
+    ],
+    [
+     "Hân Hân",
+     "Lê Lợi và Nguyễn Trãi chủ trương tạm hoà với quân Minh để củng cố lực lượng.",
+     "Lê Lợi and Nguyễn Trãi chose a truce with the Ming to rebuild their forces."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại nhà bia Vĩnh Lăng ở Lam Kinh, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cậu nhận xét gì về chủ trương tạm hoà hoãn với quân Minh của nghĩa quân Lam Sơn? Bình luận nhé!",
+     "Your challenge: what do you think of the Lam Sơn rebels' decision to make a temporary truce with the Ming? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hội thề Lũng Nhai (năm 1416) do ai tổ chức?",
+   "dap_an": [
+    "Lê Lợi cùng 18 hào kiệt",
+    "Nguyễn Trãi và Nguyễn Chích",
+    "Trần Quốc Tuấn",
+    "Hồ Quý Ly"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Những năm đầu khởi nghĩa, nghĩa quân Lam Sơn ba lần phải rút lên vùng núi nào?",
+   "dap_an": [
+    "Núi Tam Đảo",
+    "Núi Chí Linh (miền tây Thanh Hoá)",
+    "Núi Hi-ma-lay-a",
+    "Núi Mê-ru"
+   ],
+   "dung": 1,
+   "trang": 79
+  },
+  {
+   "hoi": "Năm 1421, khi thiếu lương thực trầm trọng, Lê Lợi đã làm gì?",
+   "dap_an": [
+    "Đầu hàng quân Minh",
+    "Cho giết cả voi, ngựa để nuôi quân",
+    "Rút sang Lào",
+    "Giải tán nghĩa quân"
+   ],
+   "dung": 1,
+   "trang": 79
+  },
+  {
+   "hoi": "Ai đảm trách việc ngoại giao với quân Minh trong thời gian tạm hoà?",
+   "dap_an": [
+    "Lê Lai",
+    "Nguyễn Chích",
+    "Nguyễn Trãi",
+    "Lê Lợi"
+   ],
+   "dung": 2,
+   "trang": 79
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 79 (tư liệu 1 văn bia Vĩnh Lăng, Hình 2 bia Vĩnh Lăng ở Lam Kinh; năm 1416 Hội thề Lũng Nhai, đầu năm 1418 Bình Định Vương; mục b: ba lần rút lên Chí Linh, hơn 100 người, tạm hoà, ngoại giao do Nguyễn Trãi; ô về Nguyễn Trãi 1380 – 1442; Em có biết: năm 1418 Lê Lai, năm 1421 giết voi ngựa – đối chiếu ảnh trang). Số 1421 đọc từ ảnh trang (OCR in lỗi thành '145!') – trình kiểm tra báo cảnh báo ở cảnh 7, 13; đã kiểm tra, đúng SGK. Kiến thức chốt của danh mục khớp SGK ('Lê Lai hy sinh cứu chủ tướng' đúng ô Em có biết). Lời Lê Lai, Lê Lợi, Nguyễn Trãi là lời dựng, diễn đạt lại SGK; cảnh Lê Lai thể hiện gián tiếp, không bạo lực.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

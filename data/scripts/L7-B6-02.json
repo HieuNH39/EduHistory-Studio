@@ -1,0 +1,355 @@
+{
+ "ma": "L7-B6-02",
+ "ten_tap": "Khi các vương quốc mới hình thành",
+ "ten_tap_en": "When New Kingdoms Took Shape",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 6. Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+  "trang": [
+   36,
+   37
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-mong-nguyen",
+  "nhan-dan-dong-nam-a",
+  "vua-dong-nam-a",
+  "quan-lai-dong-nam-a",
+  "nong-dan-dong-nam-a",
+  "thuong-nhan-dong-nam-a",
+  "thuong-nhan-an-do",
+  "thuong-nhan-trung-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "rộn ràng, giao thương (cồng, trống nhỏ, sáo); nhộn nhịp ở cảnh chợ cảng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; bản đồ vẽ lại, giản lược theo Hình 2; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 6, tr. 36–37.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi ở nhà ăn của trường ngày nay, trước khay cơm trắng nóng hổi; Hân Hân mở cuốn sách Lịch sử 7 ở trang lược đồ Đông Nam Á",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bát cơm trắng này là thành quả của nghề trồng lúa nước, nghề nuôi sống cả Đông Nam Á từ xưa.",
+     "This bowl of rice comes from wet-rice farming, which has fed Southeast Asia since ancient times."
+    ],
+    [
+     "Hân Hân",
+     "Từ thế kỉ XIII, nhiều vương quốc mới ra đời ở Đông Nam Á, và kinh tế phát triển khá thịnh đạt. Cùng tìm hiểu nhé!",
+     "From the 13th century, many new kingdoms arose in Southeast Asia, and their economies thrived. Let's find out more!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XIII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-mong-nguyen",
+    "nhan-dan-dong-nam-a"
+   ],
+   "hinh": "Thủ lĩnh nhiều tộc người Đông Nam Á trong trang phục khác nhau cùng giơ tay thề ước bên ngọn lửa; phía chân trời xa là bóng đoàn quân Mông – Nguyên (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vào thế kỉ XIII, quân Mông – Nguyên mở rộng xâm lược xuống Đông Nam Á.",
+     "In the 13th century, Mongol–Yuan armies extended their invasions into Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Nhu cầu liên kết giữa các quốc gia nhỏ và các tộc người trong kháng chiến chống ngoại xâm đã dẫn đến sự ra đời một số vương quốc mới, và sự thống nhất thành những vương quốc lớn hơn.",
+     "The need for small states and peoples to unite against invaders led to new kingdoms, and to unions forming larger ones."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a-x-xvi",
+   "pha": "xiii_xvi",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: tên các vương quốc thế kỉ XIII – XVI hiện thêm trên lược đồ Đông Nam Á",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Thái lập ra các vương quốc Su-khô-thay và A-út-thay-a. Sau đó A-út-thay-a chinh phục Su-khô-thay, lập nên quốc gia thống nhất, nay là Thái Lan.",
+     "The Thai founded Sukhothai and Ayutthaya. Ayutthaya later conquered Sukhothai and formed a united state, today's Thailand."
+    ],
+    [
+     "Nhật Minh",
+     "Vương quốc Lan Xang, nay là Lào, được thành lập. Nhiều nước nhỏ trên hai đảo Xu-ma-tơ-ra và Gia-va được thống nhất dưới thời Vương triều Mô-giô-pa-hít.",
+     "The Kingdom of Lan Xang, today's Laos, was founded. Many small states on Sumatra and Java were united under the Majapahit dynasty."
+    ],
+    [
+     "Hân Hân",
+     "Còn Vương quốc Ma-lắc-ca được thành lập và ngày càng hưng thịnh.",
+     "And the Kingdom of Malacca was founded and grew ever richer."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-dong-nam-a",
+    "quan-lai-dong-nam-a"
+   ],
+   "hinh": "Một vị vua Đông Nam Á ngồi trên ngai trong cung điện mái nhọn nhiều tầng, quan lại các cấp xếp hàng theo thứ bậc từ cao xuống thấp, dâng sớ tấu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở các vương quốc, bộ máy nhà nước dần được củng cố. Quyền lực của nhà vua được tăng cường, hệ thống quan lại các cấp được hoàn chỉnh.",
+     "In these kingdoms, the state grew stronger. Royal power increased, and the ranks of officials were completed."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-dong-nam-a"
+   ],
+   "hinh": "Hai cảnh ghép: viên quan Gia-va khắc chữ lên những tấm lá buông xếp thành bộ luật; viên quan Đại Việt viết bộ luật trên giấy bằng bút lông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Luật pháp cũng ngày càng được hoàn thiện, với sự xuất hiện của nhiều bộ luật như Si-va-sa-xa-na của In-đô-nê-xi-a, Hình thư của Đại Việt.",
+     "Laws were also refined, with codes such as the Sivasasana of Indonesia and the Hình thư of Đại Việt."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bộ luật Hình thư là của quốc gia nào?",
+    "lua_chon": [
+     "In-đô-nê-xi-a",
+     "Đại Việt",
+     "Lan Xang"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Bộ luật Hình thư là của quốc gia nào?",
+     "Pause! Which country did the Hình thư law code belong to?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Đại Việt!",
+     "The answer is B: Đại Việt!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-dong-nam-a",
+    "thuong-nhan-dong-nam-a"
+   ],
+   "hinh": "Cánh đồng lúa nước bậc thang xanh mướt, nông dân cấy lúa; dưới chân đồi là bến cảng với thuyền buôn căng buồm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhờ nền nông nghiệp lúa nước cùng với hoạt động giao lưu buôn bán bằng đường biển, kinh tế các vương quốc trong những thế kỉ này phát triển khá thịnh đạt.",
+     "Thanks to wet-rice farming and sea trade, the kingdoms' economies thrived in these centuries."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a-x-xvi",
+   "pha": "ma_lac_ca",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Sa bàn: máy quay tiến vào eo biển Ma-lắc-ca, vòng tròn đánh dấu eo biển",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nổi bật nhất là Ma-lắc-ca. Eo biển Ma-lắc-ca nằm giữa In-đô-nê-xi-a, Ma-lai-xi-a và Xin-ga-po, nối Ấn Độ Dương và Thái Bình Dương.",
+     "Malacca stood out most. The Strait of Malacca lies between Indonesia, Malaysia and Singapore, linking the Indian and Pacific Oceans."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-dong-nam-a",
+    "thuong-nhan-an-do",
+    "thuong-nhan-trung-quoc"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa khu chợ cảng Ma-lắc-ca thế kỉ XV: sạp đồ sứ, tơ lụa, gương; sạp ngọc trai, vải bông; bao thóc, gia vị, vàng; kiện hàng len; gỗ trầm, gỗ đàn hương, hồ tiêu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vào thế kỉ XV, Ma-lắc-ca có lẽ là nơi duy nhất trên thế giới mua được rất dễ dàng hàng hoá khắp nơi:",
+     "In the 15th century, Malacca was perhaps the only place in the world where goods from everywhere were easy to buy:"
+    ],
+    [
+     "Hân Hân",
+     "đồ sứ, tơ lụa của Trung Quốc; ngọc trai, vải bông mịn của Ấn Độ; thóc lúa, gia vị, vàng của Gia-va và Xu-ma-tơ-ra; hàng len của Tây Á và châu Âu; gỗ trầm, đá quý, hồ tiêu của Đông Nam Á lục địa!",
+     "Chinese porcelain and silk; Indian pearls and fine cotton; rice, spices and gold from Java and Sumatra; woollens from West Asia and Europe; aloeswood, gems and pepper from mainland Southeast Asia!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Thế kỉ XIII: nhu cầu liên kết chống Mông – Nguyên → vương quốc mới, thống nhất lớn hơn",
+    "A-út-thay-a (Thái Lan), Lan Xang (Lào), Mô-giô-pa-hít, Ma-lắc-ca",
+    "Nhà nước củng cố; luật pháp hoàn thiện: Si-va-sa-xa-na, Hình thư",
+    "Lúa nước + buôn bán đường biển → kinh tế thịnh đạt; Ma-lắc-ca buôn bán sầm uất"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: thế kỉ XIII, nhu cầu liên kết chống Mông – Nguyên khiến nhiều vương quốc mới ra đời và thống nhất.",
+     "Remember: in the 13th century, the need to unite against the Mongol–Yuan created and united new kingdoms."
+    ],
+    [
+     "Hân Hân",
+     "Đó là A-út-thay-a, Lan Xang, Mô-giô-pa-hít, Ma-lắc-ca.",
+     "They included Ayutthaya, Lan Xang, Majapahit and Malacca."
+    ],
+    [
+     "Nhật Minh",
+     "Bộ máy nhà nước được củng cố, luật pháp hoàn thiện với Si-va-sa-xa-na và Hình thư.",
+     "States grew stronger, and laws were refined with the Sivasasana and the Hình thư."
+    ],
+    [
+     "Hân Hân",
+     "Lúa nước và buôn bán đường biển giúp kinh tế thịnh đạt, nổi bật là Ma-lắc-ca.",
+     "Wet rice and sea trade made economies thrive, with Malacca standing out."
+    ]
+   ],
+   "nguon_trang": [
+    36,
+    37
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại nhà ăn của trường, cầm đôi đũa, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: em có nhận xét gì về hoạt động buôn bán của Vương quốc Ma-lắc-ca thế kỉ XV? Bình luận nhé!",
+     "Your challenge: what do you notice about the trade of 15th-century Malacca? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương quốc nào của người Thái chinh phục Su-khô-thay, thành lập quốc gia thống nhất?",
+   "dap_an": [
+    "Lan Xang",
+    "A-út-thay-a",
+    "Pa-gan",
+    "Ha-ri-pun-giay-a"
+   ],
+   "dung": 1,
+   "trang": 36
+  },
+  {
+   "hoi": "Bộ luật Si-va-sa-xa-na thuộc quốc gia nào ngày nay?",
+   "dap_an": [
+    "In-đô-nê-xi-a",
+    "Việt Nam",
+    "Thái Lan",
+    "Lào"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Kinh tế các vương quốc Đông Nam Á thời kì này phát triển nhờ",
+   "dap_an": [
+    "Nông nghiệp lúa nước và buôn bán đường biển",
+    "Khai thác mỏ vàng",
+    "Chăn nuôi cừu lấy lông",
+    "Công trường thủ công"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Eo biển Ma-lắc-ca nối liền hai đại dương nào?",
+   "dap_an": [
+    "Đại Tây Dương và Thái Bình Dương",
+    "Ấn Độ Dương và Thái Bình Dương",
+    "Ấn Độ Dương và Đại Tây Dương",
+    "Bắc Băng Dương và Thái Bình Dương"
+   ],
+   "dung": 1,
+   "trang": 37
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 36 (thế kỉ XIII Mông – Nguyên; các vương quốc mới; bộ máy nhà nước, luật Si-va-sa-xa-na, Hình thư; kinh tế), tr. 37 (tư liệu về chợ Ma-lắc-ca thế kỉ XV; ô Em có biết về eo biển Ma-lắc-ca – đối chiếu ảnh trang vì OCR xen cột). Dùng lại sa bàn dong-nam-a-x-xvi (pha xiii_xvi, ma_lac_ca). Không dùng con số '30% giao dịch thương mại' của ô Em có biết vì thuộc thời hiện đại, ngoài trọng tâm. Kiến thức chốt của danh mục khớp SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

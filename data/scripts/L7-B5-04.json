@@ -1,0 +1,412 @@
+{
+ "ma": "L7-B5-04",
+ "ten_tap": "Vua A-cơ-ba và thời thịnh trị Mô-gôn",
+ "ten_tap_en": "Akbar and the Height of the Mughal Empire",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 5. Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+  "trang": [
+   29,
+   31,
+   32
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-mo-gon",
+  "a-co-ba",
+  "quan-lai-mo-gon",
+  "nong-dan-an-do",
+  "tho-thu-cong-an-do",
+  "thuong-nhan-an-do",
+  "nghe-si-mo-gon"
+ ],
+ "nhac": {
+  "tam_trang": "lộng lẫy, phương Nam Á (sitar, tabla); trầm lại ở cảnh suy thoái",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 5, tr. 29–32.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (áo phông, mũ rộng vành, ba lô du lịch) đứng trên lối đi lát đá trước Lăng Hoàng đế A-cơ-ba ở Ấn Độ ngày nay: cổng lớn bằng đá đỏ khảm hoa văn trắng, vườn cỏ xanh hai bên, nắng chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là lăng của Hoàng đế A-cơ-ba, vị vua kiệt xuất của Ấn Độ.",
+     "This is the tomb of Emperor Akbar, India's outstanding ruler."
+    ],
+    [
+     "Nhật Minh",
+     "Dưới thời ông, Vương triều Mô-gôn bước vào thời thịnh trị. Ông đã làm những gì? Cùng về thế kỉ XVI nhé!",
+     "Under him, the Mughal dynasty reached its height. What did he do? Let's go back to the 16th century!"
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    31
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu thế kỉ XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-mo-gon"
+   ],
+   "hinh": "Đoàn kị binh và voi chiến Mô-gôn với cờ phướn tiến vào cổng thành Đê-li, đám đông dân chúng đứng nhìn hai bên đường (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XVI, người Hồi giáo tự nhận là dòng dõi Mông Cổ ở Ấn Độ đã lật đổ Vương triều Đê-li, lập ra Vương triều Mô-gôn.",
+     "In the early 16th century, Muslims in India who claimed Mongol descent overthrew the Delhi Sultanate and founded the Mughal dynasty."
+    ],
+    [
+     "Hân Hân",
+     "Các vị vua ra sức củng cố vương triều theo hướng không phân biệt nguồn gốc, và xây dựng đất nước.",
+     "Its rulers strengthened the dynasty without discrimination by origin, and built up the country."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "a-co-ba"
+   ],
+   "hinh": "Vua A-cơ-ba (vẽ theo chân dung tư liệu Hình 3 SGK: khăn xếp nạm ngọc, ria mép, chuỗi ngọc trai, áo choàng thêu) ngồi giữa triều đình nguy nga, các quan lại thuộc nhiều tôn giáo, sắc tộc đứng chầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ấn Độ đạt được bước phát triển mới dưới sự trị vì của vua A-cơ-ba, từ năm 1556 đến năm 1605.",
+     "India reached a new stage of growth under Emperor Akbar, who reigned from 1556 to 1605."
+    ],
+    [
+     "A-cơ-ba",
+     "Dưới triều ta, không phân biệt sắc tộc hay tôn giáo. Tất cả cùng xây dựng đất nước!",
+     "Under my rule, no one is set apart by race or religion. Together we build this land!"
+    ],
+    [
+     "Hân Hân",
+     "Ông thi hành nhiều chính sách tích cực, làm cho xã hội ổn định, đất nước thịnh vượng.",
+     "He carried out many positive policies that made society stable and the country prosperous."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vị vua kiệt xuất của Ấn Độ dưới thời Vương triều Mô-gôn là ai?",
+    "lua_chon": [
+     "A-cơ-ba",
+     "San-đra Gúp-ta I",
+     "Giay-a-vác-man VII"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vị vua kiệt xuất của Vương triều Mô-gôn là ai?",
+     "Pause! Who was the outstanding ruler of the Mughal dynasty?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: vua A-cơ-ba!",
+     "The answer is A: Emperor Akbar!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "a-co-ba",
+    "quan-lai-mo-gon"
+   ],
+   "hinh": "A-cơ-ba chỉ tay lên tấm bản đồ đất nước chia thành nhiều vùng trải trên bàn lớn; các viên quan nhận ấn tín được vua trực tiếp trao; một quan toà đọc bộ luật mới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về chính trị, A-cơ-ba cải cách bộ máy hành chính từ Trung ương đến địa phương, chia đất nước thành 15 tỉnh.",
+     "Politically, Akbar reformed government from the centre to the localities, dividing the country into 15 provinces."
+    ],
+    [
+     "Hân Hân",
+     "Ông thực hiện chế độ chuyên chế, trực tiếp bổ nhiệm quan lại các cấp, và tiến hành sửa đổi luật pháp.",
+     "He ruled as an absolute monarch, appointed officials at every level himself, and revised the laws."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-an-do",
+    "quan-lai-mo-gon"
+   ],
+   "hinh": "Các viên chức dùng dây thừng đo đạc lại ruộng đất, ghi sổ; phía sau là những cánh đồng trồng chàm, mía, hồ tiêu xanh tốt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, nhà nước đo đạc lại ruộng đất, định mức thuế hợp lí, thống nhất lại hệ thống đo lường.",
+     "In the economy, the state re-surveyed land, set fair taxes and unified weights and measures."
+    ],
+    [
+     "Hân Hân",
+     "Trong nông nghiệp, ngoài cây lương thực, nhiều loại cây mới như chàm, mía, hồ tiêu được đưa vào trồng trọt.",
+     "In farming, besides food crops, new crops like indigo, sugar cane and pepper were grown."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong-an-do",
+    "thuong-nhan-an-do"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một thành phố hải cảng thời Mô-gôn: thợ dệt vải bông bên khung cửi, những tấm vải nhuộm chàm phơi xanh thẫm, thương nhân bán đường mía, hồ tiêu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nghề thủ công truyền thống như dệt vải bông khá phát triển.",
+     "Traditional crafts like cotton weaving flourished."
+    ],
+    [
+     "Nhật Minh",
+     "Còn ở các thành phố hải cảng, thương mại là hoạt động kinh tế chính.",
+     "And in the port cities, trade was the main economic activity."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "a-co-ba",
+    "nghe-si-mo-gon"
+   ],
+   "hinh": "Trong vườn cung điện Mô-gôn, các hoạ sĩ, nhạc công, nhà thơ thuộc nhiều tôn giáo, sắc tộc cùng trình diễn trước vua A-cơ-ba; người dân thường đứng xem ở cổng vườn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về xã hội, ông xây dựng khối hoà hợp dân tộc trên cơ sở hạn chế sự phân biệt sắc tộc, tôn giáo,",
+     "Socially, he built national harmony by limiting ethnic and religious discrimination,"
+    ],
+    [
+     "Nhật Minh",
+     "có biện pháp ngăn chặn sự bóc lột nặng nề của quý tộc đối với người dân, và khuyến khích các hoạt động sáng tạo văn hoá, nghệ thuật.",
+     "took steps to stop nobles from harshly exploiting the people, and encouraged cultural and artistic creation."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dưới thời A-cơ-ba, đất nước Ấn Độ được chia thành bao nhiêu tỉnh?",
+    "lua_chon": [
+     "12 tỉnh",
+     "15 tỉnh",
+     "20 tỉnh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Dưới thời A-cơ-ba, đất nước được chia thành bao nhiêu tỉnh?",
+     "Quick test! Into how many provinces did Akbar divide the country?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 15 tỉnh!",
+     "The answer is B: 15 provinces!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-mo-gon"
+   ],
+   "hinh": "Cung điện Mô-gôn về chiều, các phe quan lại tranh cãi trong điện; phía xa ngoài biển xuất hiện những con tàu buồm phương Tây (minh hoạ ước lệ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ sau thời A-cơ-ba, tình trạng chia rẽ và khủng hoảng ở Ấn Độ xuất hiện trở lại.",
+     "After Akbar, division and crisis returned to India."
+    ],
+    [
+     "Nhật Minh",
+     "Vương triều Mô-gôn tồn tại đến giữa thế kỉ XIX, khi thực dân Anh xâm lược Ấn Độ.",
+     "The Mughal dynasty lasted until the mid-19th century, when British colonialists invaded India."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Đầu thế kỉ XVI: lập Vương triều Mô-gôn, lật đổ Đê-li",
+    "A-cơ-ba (1556 – 1605): vị vua kiệt xuất",
+    "Chính trị: chia 15 tỉnh, vua bổ nhiệm quan lại, sửa luật",
+    "Kinh tế: đo đạc ruộng đất, thuế hợp lí, cây mới, thương mại hải cảng",
+    "Xã hội: hoà hợp dân tộc, hạn chế phân biệt sắc tộc, tôn giáo"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: đầu thế kỉ XVI, Vương triều Mô-gôn ra đời, lật đổ Đê-li.",
+     "Remember: in the early 16th century, the Mughal dynasty arose, toppling Delhi."
+    ],
+    [
+     "Hân Hân",
+     "Vua A-cơ-ba trị vì từ năm 1556 đến năm 1605 là vị vua kiệt xuất.",
+     "Akbar, who reigned from 1556 to 1605, was its outstanding ruler."
+    ],
+    [
+     "Nhật Minh",
+     "Chính trị: chia đất nước thành 15 tỉnh, vua bổ nhiệm quan lại, sửa đổi luật pháp.",
+     "Politics: 15 provinces, officials appointed by the king, revised laws."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế: đo đạc ruộng đất, thuế hợp lí, trồng cây mới, thương mại ở hải cảng.",
+     "Economy: land surveys, fair taxes, new crops, trade in the ports."
+    ],
+    [
+     "Nhật Minh",
+     "Xã hội: xây dựng khối hoà hợp dân tộc, hạn chế phân biệt sắc tộc, tôn giáo.",
+     "Society: national harmony, with less ethnic and religious discrimination."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước Lăng Hoàng đế A-cơ-ba lúc hoàng hôn, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, chính sách nào của A-cơ-ba giúp xã hội Ấn Độ ổn định nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which of Akbar's policies did most to stabilise Indian society, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương triều Mô-gôn do ai lập ra?",
+   "dap_an": [
+    "Người Hồi giáo gốc Thổ Nhĩ Kỳ",
+    "Người Hồi giáo tự nhận là dòng dõi Mông Cổ",
+    "Người Hin-đu",
+    "Thực dân Anh"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Vua A-cơ-ba trị vì trong khoảng thời gian nào?",
+   "dap_an": [
+    "1206 – 1556",
+    "1556 – 1605",
+    "1605 – 1644",
+    "1644 – 1911"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Chính sách xã hội nổi bật của A-cơ-ba là",
+   "dap_an": [
+    "Đề cao một tôn giáo duy nhất",
+    "Xây dựng khối hoà hợp dân tộc, hạn chế phân biệt sắc tộc, tôn giáo",
+    "Chỉ cho người Hồi giáo làm quan",
+    "Cấm các hoạt động nghệ thuật"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Vương triều Mô-gôn tồn tại đến khi nào?",
+   "dap_an": [
+    "Đầu thế kỉ XVI",
+    "Cuối thế kỉ XVII",
+    "Giữa thế kỉ XIX, khi thực dân Anh xâm lược",
+    "Năm 1206"
+   ],
+   "dung": 2,
+   "trang": 32
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 29 (Hình 1 Lăng Hoàng đế A-cơ-ba), tr. 31 (mục c Vương triều Mô-gôn; Hình 3 A-cơ-ba 1556 – 1605; bảng chính sách Chính trị – Kinh tế – Xã hội), tr. 32 (khủng hoảng sau A-cơ-ba; Mô-gôn tồn tại đến giữa thế kỉ XIX). Số '15 tỉnh' đọc từ ảnh trang tr. 31 (OCR bỏ sót dòng này) – trình kiểm tra báo cảnh báo số 15 ở cảnh 6, 10, 13; đã đối chiếu trực tiếp ảnh trang, đúng SGK. Kiến thức chốt của danh mục khớp SGK. Lời A-cơ-ba là lời dựng, diễn đạt lại chính sách SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

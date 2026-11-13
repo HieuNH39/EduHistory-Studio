@@ -1,0 +1,385 @@
+{
+ "ma": "L7-B7-02",
+ "ten_tap": "Lan Xang - Thời đại hoàng kim",
+ "ten_tap_en": "Lan Xang: A Golden Age",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 7. Vương quốc Lào",
+  "trang": [
+   39,
+   40,
+   41
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "pha-ngum",
+  "nguoi-lao",
+  "vua-lan-xang",
+  "quan-lai-lan-xang",
+  "quan-doi-lan-xang",
+  "nguyen-trai",
+  "nguoi-viet"
+ ],
+ "nhac": {
+  "tam_trang": "êm dịu, tươi vui (khèn, trống nhỏ); trang nghiêm ở cảnh bảo vệ bờ cõi",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 7, tr. 39–41.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (áo phông, ba lô du lịch) đứng trên sân rộng trước Thạt Luổng ở Lào ngày nay: tháp lớn vàng óng hình nậm rượu trên đế hoa sen, xung quanh là hàng tháp nhỏ, trời xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Thạt Luổng, công trình được chọn làm hình ảnh trung tâm trên Quốc huy của nước Lào ngày nay.",
+     "This is That Luang, chosen as the central image on Laos's national emblem today."
+    ],
+    [
+     "Nhật Minh",
+     "Thạt Luổng gắn với thời Lan Xang, thời kì thịnh vượng của Vương quốc Lào. Đi xem thời đại ấy nhé!",
+     "That Luang is linked to the Lan Xang era, the kingdom's golden age. Let's go see it!"
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    41
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1353",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "pha-ngum",
+    "nguoi-lao"
+   ],
+   "hinh": "Pha Ngừm (vẽ theo tượng tư liệu: dáng võ tướng, mũ nhọn, tay cầm gươm) đứng trên bậc cao trước đông đảo thủ lĩnh các mường Lào và đàn voi, cờ lọng tung bay bên sông Mê Công",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1353, một tộc trưởng người Lào là Pha Ngừm đã tập hợp và thống nhất các mường Lào, lên ngôi vua.",
+     "In 1353, a Lao chief named Fa Ngum gathered and united the Lao muang and became king."
+    ],
+    [
+     "Pha Ngừm",
+     "Từ nay, các mường Lào hợp làm một. Nước ta mang tên Lan Xang!",
+     "From now on, the Lao muang are one. Our country shall be called Lan Xang!"
+    ],
+    [
+     "Hân Hân",
+     "Lan Xang có nghĩa là Triệu Voi.",
+     "Lan Xang means 'a million elephants'."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tên nước Lan Xang có nghĩa là gì?",
+    "lua_chon": [
+     "Triệu Voi",
+     "Vạn Thắng",
+     "Niềm vui lớn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Tên nước Lan Xang có nghĩa là gì?",
+     "Pause! What does the name Lan Xang mean?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Triệu Voi!",
+     "The answer is A: a million elephants!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-lan-xang",
+    "quan-lai-lan-xang"
+   ],
+   "hinh": "Triều đình Lan Xang: nhà vua ngồi trên ngai chạm rồng rắn, bên cạnh là Phó vương, phía dưới bảy vị quan đại thần áo lụa đứng hàng; ngoài sân là quân thường trực và voi chiến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong các thế kỉ XV đến XVII, Lan Xang phát triển thịnh vượng. Vương quốc được chia thành 7 mường, tức là tỉnh.",
+     "From the 15th to the 17th century, Lan Xang flourished. The kingdom was divided into 7 muang, or provinces."
+    ],
+    [
+     "Hân Hân",
+     "Đứng đầu nhà nước là vua, dưới vua có một Phó vương và 7 quan đại thần kiêm Tổng đốc tỉnh. Quân đội gồm quân thường trực của nhà vua và quân địa phương.",
+     "The king headed the state, with a viceroy and 7 high officials who also governed the provinces. The army had the king's standing troops and local forces."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lao",
+    "nguyen-trai"
+   ],
+   "hinh": "Nông dân Lào gặt lúa trên nương, người thợ dệt vải bông, đàn trâu gà bên nhà sàn; một đoàn voi chở chiêng đồng, sáp trắng đi về phía chợ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nông nghiệp, thủ công nghiệp và chăn nuôi gia súc khá phát triển. Việc khai thác sản vật quý được chú trọng, buôn bán vượt ra ngoài biên giới.",
+     "Farming, crafts and livestock thrived. Rare products were prized, and trade reached beyond the borders."
+    ],
+    [
+     "Nguyễn Trãi",
+     "Nước này có tê, voi, sáp trắng, vải bông, chiêng đồng.",
+     "This land has rhinoceros, elephants, white wax, cotton cloth and bronze gongs."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lao",
+    "nguoi-viet"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở một phiên chợ vùng biên giới Việt – Lào thời xưa: người Việt bày muối, mắm, cá khô, đồ sắt, nồi đồng, thoi bạc; người Lào mang thóc gạo, gà, trâu, sáp đến đổi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lê Quý Đôn cho biết: người Việt mang muối, mắm, cá khô, đồ sắt, nồi đồng, thoi bạc sang Lào,",
+     "Lê Quý Đôn wrote that the Vietnamese brought salt, fish sauce, dried fish, ironware, copper pots and silver bars to Laos,"
+    ],
+    [
+     "Nhật Minh",
+     "để đổi lấy thóc gạo, gà, trâu, sáp. Buôn bán thật nhộn nhịp! Cuộc sống của cư dân Lan Xang thanh bình, sung túc.",
+     "to trade for rice, chickens, buffalo and wax. Such busy trade! Life in Lan Xang was peaceful and prosperous."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời thịnh vượng, Vương quốc Lan Xang được chia thành mấy mường (tỉnh)?",
+    "lua_chon": [
+     "5 mường",
+     "7 mường",
+     "12 mường"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Lan Xang được chia thành mấy mường?",
+     "Quick test! Into how many muang was Lan Xang divided?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 7 mường, đứng đầu mỗi tỉnh là một quan đại thần kiêm Tổng đốc!",
+     "The answer is B: 7 muang, each led by a high official serving as governor!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-lan-xang",
+    "nguoi-lao"
+   ],
+   "hinh": "Quân dân Lan Xang cùng voi chiến dàn trận trên đèo núi, giương cờ bảo vệ bờ cõi (viễn cảnh, không cảnh giao chiến); hình ảnh sứ giả Lan Xang trao quà hữu nghị với sứ giả láng giềng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lan Xang giữ quan hệ hoà hiếu với các nước láng giềng như Cam-pu-chia và Đại Việt, nhưng luôn kiên quyết chống quân xâm lược Miến Điện để bảo vệ độc lập.",
+     "Lan Xang kept friendly ties with neighbours like Cambodia and Đại Việt, but always firmly resisted Burmese invaders to defend its independence."
+    ],
+    [
+     "Nhật Minh",
+     "Nửa sau thế kỉ XVI, quân Miến Điện ba lần xâm lược Lan Xang. Triều đình và nhân dân đã dũng cảm chiến đấu bảo vệ lãnh thổ.",
+     "In the late 16th century, Burma invaded Lan Xang three times. The court and people bravely fought to defend their land."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-lao"
+   ],
+   "hinh": "Các thiếu nữ Lào áo dài, váy sin múa điệu múa hoa Chăm-pa uyển chuyển trước sân chùa; trong chùa, nhà sư viết chữ Lào nét cong lên lá buông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Lào sáng tạo hệ thống chữ viết riêng, trên cơ sở vận dụng nét chữ cong của Cam-pu-chia và Mi-an-ma.",
+     "The Lao created their own script, adapting the curved letters of Cambodia and Myanmar."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều công trình Phật giáo được xây dựng, tiêu biểu nhất là Thạt Luổng. Họ còn sáng tạo những điệu múa vui tươi, cởi mở như múa hoa Chăm-pa.",
+     "Many Buddhist buildings rose, above all That Luang. They also created joyful, open dances like the Champa flower dance."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "1353: Pha Ngừm thống nhất các mường, lập nước Lan Xang (Triệu Voi)",
+    "Thế kỉ XV – XVII: thịnh vượng; 7 mường, vua – Phó vương – 7 quan đại thần",
+    "Kinh tế phát triển, buôn bán vượt biên giới; đời sống thanh bình, sung túc",
+    "Hoà hiếu với láng giềng, kiên quyết chống quân Miến Điện"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1353, Pha Ngừm thống nhất các mường, lập nước Lan Xang, nghĩa là Triệu Voi.",
+     "Remember: in 1353, Fa Ngum united the muang and founded Lan Xang, the land of a million elephants."
+    ],
+    [
+     "Hân Hân",
+     "Từ thế kỉ XV đến XVII, Lan Xang thịnh vượng, chia thành 7 mường.",
+     "From the 15th to the 17th century, Lan Xang flourished, divided into 7 muang."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế phát triển, buôn bán vượt biên giới, đời sống thanh bình, sung túc.",
+     "The economy grew, trade crossed borders, and life was peaceful and prosperous."
+    ],
+    [
+     "Hân Hân",
+     "Lan Xang hoà hiếu với láng giềng nhưng kiên quyết chống quân Miến Điện.",
+     "Lan Xang was friendly with neighbours but firmly resisted the Burmese."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    40
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sân Thạt Luổng lúc hoàng hôn, tháp vàng rực; Nhật Minh nhìn về phía người xem, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: qua lời Nguyễn Trãi và Lê Quý Đôn, cậu biết gì về kinh tế của Vương quốc Lan Xang? Bình luận nhé!",
+     "Your challenge: from the words of Nguyễn Trãi and Lê Quý Đôn, what can you tell about Lan Xang's economy? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai đã thống nhất các mường Lào, lập ra nước Lan Xang năm 1353?",
+   "dap_an": [
+    "Giay-a-vác-man II",
+    "Pha Ngừm",
+    "A-cơ-ba",
+    "Sác-lơ-ma-nhơ"
+   ],
+   "dung": 1,
+   "trang": 39
+  },
+  {
+   "hoi": "Vương quốc Lan Xang phát triển thịnh vượng trong khoảng thời gian nào?",
+   "dap_an": [
+    "Thế kỉ IX – XV",
+    "Thế kỉ XV – XVII",
+    "Thế kỉ XIII – XIV",
+    "Thế kỉ XVIII – XIX"
+   ],
+   "dung": 1,
+   "trang": 40
+  },
+  {
+   "hoi": "Lan Xang luôn kiên quyết chống quân xâm lược nào để bảo vệ độc lập?",
+   "dap_an": [
+    "Quân Miến Điện",
+    "Quân Đại Việt",
+    "Quân Cam-pu-chia",
+    "Quân Mông Cổ"
+   ],
+   "dung": 0,
+   "trang": 40
+  },
+  {
+   "hoi": "Công trình kiến trúc Phật giáo tiêu biểu nhất của Lào là",
+   "dap_an": [
+    "Ăng-co Vát",
+    "Thạt Luổng",
+    "Đền Bay-on",
+    "Chùa hang A-gian-ta"
+   ],
+   "dung": 1,
+   "trang": 41
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 39 (Hình 1 Thạt Luổng trên Quốc huy Lào; năm 1353 Pha Ngừm, Lan Xang – Triệu Voi), tr. 40 (biểu hiện thịnh vượng thế kỉ XV – XVII: 7 mường, Phó vương, 7 quan đại thần, quân đội, kinh tế, đối ngoại; Em có biết: quân Miến Điện ba lần xâm lược nửa sau thế kỉ XVI; tư liệu Nguyễn Trãi, Lê Quý Đôn – đối chiếu ảnh trang), tr. 41 (chữ viết, Thạt Luổng, múa hoa Chăm-pa). Kiến thức chốt của danh mục khớp SGK. Lời Pha Ngừm là lời dựng; lời Nguyễn Trãi trích đúng tư liệu SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

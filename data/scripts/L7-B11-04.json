@@ -1,0 +1,219 @@
+{
+ "ma": "L7-B11-04",
+ "ten_tap": "Văn Miếu - Quốc Tử Giám: Nền móng giáo dục",
+ "ten_tap_en": "The Temple of Literature: Foundations of Learning",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+  "trang": [
+   56,
+   57
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-van-thinh",
+  "si-tu"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, đàn tranh và sáo trúc; trang trọng ở cảnh xướng danh",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 11, tr. 56–57.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) đứng trước cổng cổ kính mái ngói của Văn Miếu – Quốc Tử Giám (thành phố Hà Nội) trong nắng sớm, hàng cây cổ thụ hai bên; Hân Hân giơ tay giới thiệu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Văn Miếu – Quốc Tử Giám ở Hà Nội. Nơi này ra đời từ thời Lý đấy!",
+     "This is the Temple of Literature and Imperial Academy in Hanoi. It dates back to the Ly dynasty!"
+    ],
+    [
+     "Nhật Minh",
+     "Thời Lý, Phật giáo được các vua tôn sùng. Nhưng nhà Lý cũng rất chú ý đến học tập, thi cử.",
+     "The Ly kings revered Buddhism. But they also cared greatly about learning and exams."
+    ]
+   ],
+   "nguon_trang": [
+    56,
+    57
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NHÀ LÝ VỚI GIÁO DỤC, THI CỬ",
+   "moc": [
+    [
+     "1070",
+     "Dựng Văn Miếu"
+    ],
+    [
+     "1075",
+     "Mở khoa thi đầu tiên tuyển chọn quan lại"
+    ],
+    [
+     "1076",
+     "Thành lập Quốc Tử Giám"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1070, nhà Lý cho dựng Văn Miếu.",
+     "In 1070, the Ly built the Temple of Literature."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1075, mở khoa thi đầu tiên để tuyển chọn quan lại.",
+     "In 1075, they held the first exam to select officials."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1076, Quốc Tử Giám ra đời, nơi học của con em quý tộc, sau mở rộng cho con quan lại và người giỏi trong nước.",
+     "In 1076, the Imperial Academy opened for noble children, later also for officials' children and talented people across the land."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-van-thinh",
+    "si-tu"
+   ],
+   "hinh": "Khung dọc. Sân điện thời Lý năm 1075: các sĩ tử áo the đứng xếp hàng; một sĩ tử trẻ (Lê Văn Thịnh, vẽ khái quát) bước lên nhận tên bảng đỗ đầu, cúi chào trang trọng",
+   "loi": [
+    [
+     "Lê Văn Thịnh",
+     "Thần xin đem hết sở học để giúp nước!",
+     "I pledge all my learning to serve the country!"
+    ],
+    [
+     "Hân Hân",
+     "Người đỗ đầu năm 1075 là Lê Văn Thịnh. Ông được vào cung dạy Thái tử, làm quan đến chức Thái sư.",
+     "The top scorer in 1075 was Le Van Thinh. He went on to tutor the Crown Prince and rose to Grand Preceptor."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khoa thi đầu tiên thời Lý được mở vào năm nào?",
+    "lua_chon": [
+     "1076",
+     "1070",
+     "1075"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Khoa thi đầu tiên thời Lý mở năm nào?",
+     "Pause! When was the Ly dynasty's first exam held?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: năm 1075!",
+     "The answer is C: 1075!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân ngồi trên bậc đá trong khuôn viên cổ kính, mở sổ ghi chép, cùng nhìn về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý đã đặt nền móng cho giáo dục, thi cử!",
+     "The Ly laid the foundations of education and exams!"
+    ],
+    [
+     "Hân Hân",
+     "Thử thách: vì sao nhà Lý mở khoa thi để chọn quan lại? Bình luận nhé!",
+     "Challenge: why did the Ly hold exams to choose officials? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Lý, tôn giáo nào được các vua tôn sùng, truyền bá rộng rãi trong nhân dân?",
+   "dap_an": [
+    "Phật giáo",
+    "Thiên Chúa giáo",
+    "Hồi giáo",
+    "Ấn Độ giáo"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Năm 1070, nhà Lý cho xây dựng",
+   "dap_an": [
+    "Quốc Tử Giám",
+    "Văn Miếu",
+    "tháp Báo Thiên",
+    "thành Tây Đô"
+   ],
+   "dung": 1,
+   "trang": 57
+  },
+  {
+   "hoi": "Quốc Tử Giám được thành lập năm 1076, lúc đầu là nơi học tập của",
+   "dap_an": [
+    "mọi người dân",
+    "con em quý tộc",
+    "các nhà sư",
+    "thương nhân"
+   ],
+   "dung": 1,
+   "trang": 57
+  },
+  {
+   "hoi": "Người đỗ đầu kì thi năm 1075 là",
+   "dap_an": [
+    "Lê Văn Hưu",
+    "Ngô Sỹ Liên",
+    "Lê Văn Thịnh",
+    "Nguyễn Trãi"
+   ],
+   "dung": 2,
+   "trang": 57
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 56 (mục 3a: Phật giáo được các vua Lý tôn sùng, truyền bá rộng rãi), tr. 57 (mục 3c: 1070 dựng Văn Miếu, 1075 khoa thi đầu tiên, 1076 Quốc Tử Giám – con em quý tộc, sau mở rộng; ô 'Em có biết?': Lê Văn Thịnh đỗ đầu năm 1075, quê xã Đông Cứu, tỉnh Bắc Ninh, dạy Thái tử, làm quan đến Thái sư; Hình 7 Văn Miếu – Quốc Tử Giám, thành phố Hà Nội). Đối chiếu danh mục: 'Phật giáo rất thịnh hành' – SGK diễn đạt là 'được các vua Lý tôn sùng, được truyền bá rộng rãi trong nhân dân' (chữ 'khá thịnh hành' SGK dùng cho Đạo giáo); kịch bản theo đúng SGK. Danh mục ghi trang [57]; bổ sung tr. 56 cho ý tôn giáo. Phương án nhiễu câu 2 lấy từ SGK: 'thành Tây Đô' (nhà Hồ, Bài 15), 'tháp Báo Thiên' (Hoa Lư, tr. 48). Lời Lê Văn Thịnh là lời dựng; ông vẽ khái quát.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

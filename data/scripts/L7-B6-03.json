@@ -1,0 +1,207 @@
+{
+ "ma": "L7-B6-03",
+ "ten_tap": "Ma-lắc-ca: 'Trái tim' thương mại Đông Nam Á",
+ "ten_tap_en": "Malacca: The Trading Heart of Southeast Asia",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 6. Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+  "trang": [
+   36,
+   37
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "rộn ràng, tiếng chợ và sóng biển; nhịp nhanh",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 6, tr. 36–37.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) trong một siêu thị hiện đại, trước kệ hàng bày hồ tiêu, hương liệu, khăn lụa và bộ đồ sứ; Hân Hân cầm lọ hồ tiêu lắc lắc trước ống kính",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hồ tiêu, tơ lụa, đồ sứ, ngọc trai… Thế kỉ XV, có một nơi mua được tất cả!",
+     "Pepper, silk, porcelain, pearls... In the 15th century, one place had them all!"
+    ],
+    [
+     "Nhật Minh",
+     "Đó là Ma-lắc-ca. Đi thôi!",
+     "That place was Malacca. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Khung dọc. Bến chợ Ma-lắc-ca thế kỉ XV nhộn nhịp: thuyền buồm nhiều kiểu cập bến, thương nhân bày đồ sứ, cuộn lụa, ngọc trai, bao gia vị, gỗ thơm; một thương nhân đội khăn, tay nâng chiếc bình sứ mời khách; Nhật Minh và Hân Hân (đồng phục FPT) đứng quan sát bên đống bao hàng",
+   "loi": [
+    [
+     "Thương nhân",
+     "Đồ sứ, tơ lụa Trung Quốc đây! Ngọc trai, vải bông mịn Ấn Độ đây!",
+     "Chinese porcelain and silk here! Indian pearls and fine cotton here!"
+    ],
+    [
+     "Hân Hân",
+     "Ma-lắc-ca có lẽ là nơi duy nhất trên thế giới mua được dễ dàng hàng hoá từ khắp nơi như thế.",
+     "In the 15th century, Malacca was perhaps the only place in the world where goods from everywhere could be bought so easily."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Trung Quốc: đồ sứ, tơ lụa, gương",
+    "Ấn Độ: ngọc trai, vải bông mịn",
+    "Gia-va, Xu-ma-tơ-ra: thóc lúa, gia vị, vàng, trâu bò",
+    "Tây Á và châu Âu: hàng len",
+    "Đông Nam Á lục địa: gỗ trầm, gỗ đàn hương, đá quý, hồ tiêu, hương liệu"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hàng hoá đổ về từ Trung Quốc, Ấn Độ, Gia-va, Xu-ma-tơ-ra, Tây Á, châu Âu và cả Đông Nam Á lục địa.",
+     "Goods poured in from China, India, Java, Sumatra, West Asia, Europe and mainland Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ nông nghiệp lúa nước và buôn bán đường biển, kinh tế các vương quốc Đông Nam Á thời này phát triển khá thịnh đạt.",
+     "Thanks to wet-rice farming and sea trade, the Southeast Asian kingdoms of this era were quite prosperous."
+    ]
+   ],
+   "nguon_trang": [
+    36,
+    37
+   ],
+   "tieu_de": "CHỢ MA-LẮC-CA THẾ KỈ XV",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở Ma-lắc-ca thế kỉ XV, hàng len đến từ đâu?",
+    "lua_chon": [
+     "Trung Quốc",
+     "Ấn Độ",
+     "Tây Á và châu Âu"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hàng len ở chợ Ma-lắc-ca đến từ đâu?",
+     "Pause! Where did the woollen goods in Malacca come from?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Tây Á và châu Âu!",
+     "The answer is C: West Asia and Europe!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân ngồi trên ghế đá sân trường, cùng xem trên máy tính bảng đoạn phim những con tàu container nối đuôi nhau đi qua một eo biển hẹp; Nhật Minh quay sang ống kính",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày nay, eo biển Ma-lắc-ca nối Ấn Độ Dương với Thái Bình Dương, chiếm khoảng ba mươi phần trăm giao dịch thương mại thế giới mỗi năm.",
+     "Today, the Strait of Malacca links the Indian and Pacific Oceans and carries about thirty percent of world trade each year."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách: vì sao nhiều nền kinh tế lớn phụ thuộc vào eo biển này? Bình luận nhé!",
+     "Challenge: why do so many big economies depend on this strait? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo tư liệu SGK, vào thế kỉ XV, nơi người ta mua rất dễ dàng hàng hoá từ nhiều nơi trên thế giới là",
+   "dap_an": [
+    "Ma-lắc-ca",
+    "Ăng-co",
+    "Pa-gan",
+    "Hoa Lư"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Kinh tế các vương quốc Đông Nam Á (nửa sau thế kỉ X – nửa đầu thế kỉ XVI) phát triển khá thịnh đạt nhờ",
+   "dap_an": [
+    "khai thác dầu mỏ",
+    "nông nghiệp lúa nước và buôn bán đường biển",
+    "chăn nuôi du mục",
+    "buôn bán qua Địa Trung Hải"
+   ],
+   "dung": 1,
+   "trang": 36
+  },
+  {
+   "hoi": "Hàng hoá nào ở Ma-lắc-ca đến từ Ấn Độ?",
+   "dap_an": [
+    "Đồ sứ, gương",
+    "Hàng len",
+    "Ngọc trai, vải bông mịn",
+    "Gỗ trầm, gỗ đàn hương"
+   ],
+   "dung": 2,
+   "trang": 37
+  },
+  {
+   "hoi": "Eo biển Ma-lắc-ca nối liền",
+   "dap_an": [
+    "Ấn Độ Dương và Thái Bình Dương",
+    "Đại Tây Dương và Thái Bình Dương",
+    "Địa Trung Hải và Biển Đỏ",
+    "Bắc Băng Dương và Đại Tây Dương"
+   ],
+   "dung": 0,
+   "trang": 37
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 36 (Vương quốc Ma-lắc-ca được thành lập và ngày càng hưng thịnh; kinh tế các vương quốc phát triển khá thịnh đạt nhờ nông nghiệp lúa nước và buôn bán đường biển), tr. 37 (tư liệu theo Lương Ninh: hàng hoá Trung Quốc, Ấn Độ, Gia-va và Xu-ma-tơ-ra, Tây Á và châu Âu, Đông Nam Á lục địa; ô 'Kết nối với ngày nay': eo biển nối Ấn Độ Dương và Thái Bình Dương, khoảng 30% giao dịch thương mại thế giới, Nhật Bản, Trung Quốc, Hàn Quốc phụ thuộc lớn). Tư liệu tr. 37 đọc theo ảnh trang (OCR trộn hai cột). Đối chiếu danh mục: 'kết nối Á – Âu' không phải nguyên văn SGK – kịch bản diễn đạt theo SGK: hàng hoá từ châu Á, Tây Á và châu Âu đều có mặt; eo biển nối hai đại dương. Danh mục đề xuất mô phỏng luồng hàng; kịch bản thay bằng thẻ ghi nhớ hàng hoá theo nơi xuất xứ (đúng tư liệu SGK). Không dùng bản đồ nên không có vấn đề thể hiện biển, đảo. Lời thương nhân là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

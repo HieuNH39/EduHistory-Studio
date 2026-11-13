@@ -1,0 +1,393 @@
+{
+ "ma": "L7-B16-04",
+ "ten_tap": "Chiến thắng vang dội: Tốt Động - Chúc Động",
+ "ten_tap_en": "A Resounding Victory: Tốt Động – Chúc Động",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+  "trang": [
+   80,
+   81
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-loi",
+  "tuong-linh-lam-son",
+  "nghia-quan-lam-son",
+  "nhan-dan",
+  "vuong-thong",
+  "quan-minh"
+ ],
+ "nhac": {
+  "tam_trang": "khẩn trương, hào hùng (trống trận); im lặng căng thẳng ở cảnh mai phục; bùng nổ khi chiến thắng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 16, tr. 80–81.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ ruộng vùng ngoại thành Hà Nội ngày nay, xung quanh là ruộng lúa, ao đầm và lau sậy, xa xa là làng mạc và đường cao tốc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vùng ruộng đồng, ao đầm này thuộc thành phố Hà Nội. Gần sáu thế kỉ trước, nơi đây từng là chiến trường Tốt Động – Chúc Động.",
+     "These fields and ponds are in Hà Nội. Nearly six centuries ago, this was the battlefield of Tốt Động – Chúc Động."
+    ],
+    [
+     "Nhật Minh",
+     "Một trận thắng vang dội của nghĩa quân Lam Sơn! Về năm 1426 xem nhé!",
+     "A resounding victory for the Lam Sơn army! Let's go back to 1426!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "9 – 1426",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "tuong-linh-lam-son"
+   ],
+   "hinh": "Trong doanh trại Lam Sơn, Lê Lợi (khăn chít đầu, áo chiến bào) đứng giữa bộ chỉ huy, chỉ tay về phía bắc trên tấm bản đồ, các tướng đồng loạt giơ tay hưởng ứng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 9 năm 1426, Lê Lợi và bộ chỉ huy quyết định tiến quân ra Bắc.",
+     "In September 1426, Lê Lợi and his command decided to march north."
+    ],
+    [
+     "Lê Lợi",
+     "Thời cơ đã đến. Tiến quân ra Bắc!",
+     "The time has come. March north!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "nhan-dan"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ven đường làng nhìn đoàn nghĩa quân Lam Sơn hành quân qua, dân làng mang cơm nắm, nước chè ra tiếp, trẻ em vẫy tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân đi đến đâu cũng được nhân dân ủng hộ, thắng nhiều trận lớn.",
+     "Wherever the army went, the people backed it, and it won many big battles."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Minh phải rút vào thành Đông Quan cố thủ.",
+     "The Ming had to withdraw into the citadel of Đông Quan to hold out."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vuong-thong",
+    "quan-minh"
+   ],
+   "hinh": "Đoàn viện binh quân Minh đông đảo, giáp trụ sáng loáng tiến vào cổng thành Đông Quan; Vương Thông (áo giáp, mũ trụ có tua đỏ) cưỡi ngựa đi đầu, rút gươm chỉ về phía trước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1426, Vương Thông dẫn viện binh đến thành Đông Quan, mở cuộc tấn công vào quân chủ lực của nghĩa quân ở quanh thành.",
+     "In October 1426, Wang Tong brought reinforcements to Đông Quan and attacked the rebels' main force around the citadel."
+    ],
+    [
+     "Vương Thông",
+     "Xuất quân! Đánh tan chủ lực nghĩa quân!",
+     "Move out! Crush the rebels' main army!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "tot-dong-chuc-dong",
+   "pha": "minh_tien",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn: các mũi tiến công của quân Minh (vẽ lại theo Hình 3 SGK tr. 80)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Minh chia nhiều mũi tiến công.",
+     "The Ming advanced in several columns."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tháng 10 – 1426, ai dẫn viện binh đến thành Đông Quan?",
+    "lua_chon": [
+     "Vương Thông",
+     "Liễu Thăng",
+     "Quách Quỳ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Tháng 10 năm 1426, ai dẫn viện binh đến thành Đông Quan?",
+     "Pause! Who brought reinforcements to Đông Quan in October 1426?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Vương Thông!",
+     "The answer is A: Wang Tong!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "tuong-linh-lam-son"
+   ],
+   "hinh": "Sương sớm trên vùng đầm lầy, lau sậy: nghĩa quân Lam Sơn nấp kín sau bờ ruộng và bụi lau, tay nắm chặt giáo mác; một vị tướng giơ tay ra hiệu im lặng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 7 tháng 11 năm 1426, quân ta mai phục sẵn ở Tốt Động – Chúc Động.",
+     "On 7 November 1426, our army lay in ambush at Tốt Động – Chúc Động."
+    ],
+    [
+     "Tướng Lam Sơn",
+     "Giữ yên! Chờ giặc lọt hẳn vào trận địa mới đánh!",
+     "Hold still! Wait until the enemy is fully inside before we strike!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "tot-dong-chuc-dong",
+   "pha": "mai_phuc",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: quân ta mai phục, tiến công; sao chiến thắng ở Chúc Động, Tốt Động",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân ta mai phục và chặn đánh địch ở Tốt Động – Chúc Động.",
+     "Our forces ambushed and blocked the enemy at Tốt Động – Chúc Động."
+    ],
+    [
+     "Nhật Minh",
+     "Các mũi tiến công của nghĩa quân cùng đánh vào, quân ta giành thắng lợi.",
+     "The rebels' attacking columns struck together, and our army won."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "tot-dong-chuc-dong",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn: quân Minh rút chạy (nét đứt); băng chữ 'Siết chặt vây hãm thành Đông Quan'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân Minh thất bại nặng nề.",
+     "The Ming suffered a heavy defeat."
+    ],
+    [
+     "Nhật Minh",
+     "Nghĩa quân giải phóng nhiều đất đai và siết chặt vây hãm thành Đông Quan.",
+     "The rebels freed much territory and tightened the siege of Đông Quan."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trận Tốt Động – Chúc Động diễn ra vào thời gian nào?",
+    "lua_chon": [
+     "Ngày 7 – 11 – 1426",
+     "Tháng 9 – 1426",
+     "Tháng 10 – 1427"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Trận Tốt Động – Chúc Động diễn ra khi nào?",
+     "Quick test! When was the Battle of Tốt Động – Chúc Động?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngày 7 tháng 11 năm 1426!",
+     "The answer is A: 7 November 1426!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Tháng 9 – 1426: Lê Lợi quyết định tiến quân ra Bắc, được nhân dân ủng hộ",
+    "Quân Minh rút vào thành Đông Quan cố thủ",
+    "Tháng 10 – 1426: Vương Thông dẫn viện binh đến Đông Quan, mở cuộc tấn công",
+    "7 – 11 – 1426: thắng lớn ở Tốt Động – Chúc Động, siết chặt vây hãm Đông Quan"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tháng 9 năm 1426, Lê Lợi quyết định tiến quân ra Bắc, được nhân dân ủng hộ.",
+     "Remember: in September 1426, Lê Lợi marched north with the people's support."
+    ],
+    [
+     "Hân Hân",
+     "Quân Minh phải rút vào thành Đông Quan cố thủ.",
+     "The Ming had to hole up in Đông Quan."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1426, Vương Thông dẫn viện binh đến và mở cuộc tấn công.",
+     "In October 1426, Wang Tong arrived with reinforcements and attacked."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 7 tháng 11 năm 1426, nghĩa quân thắng lớn ở Tốt Động – Chúc Động, siết chặt vây hãm Đông Quan.",
+     "On 7 November 1426, the rebels won big at Tốt Động – Chúc Động and tightened the siege of Đông Quan."
+    ]
+   ],
+   "nguon_trang": [
+    80,
+    81
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ ruộng ngoại thành Hà Nội lúc hoàng hôn, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nghĩa quân Lam Sơn lại chọn cách mai phục để đánh quân Minh ở Tốt Động – Chúc Động? Bình luận nhé!",
+     "Your challenge: why did the Lam Sơn army choose an ambush against the Ming at Tốt Động – Chúc Động? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tháng 9 – 1426, Lê Lợi và bộ chỉ huy nghĩa quân quyết định",
+   "dap_an": [
+    "Rút lên núi Chí Linh",
+    "Tiến quân ra Bắc",
+    "Tạm hoà với quân Minh",
+    "Đánh chiếm Nghệ An"
+   ],
+   "dung": 1,
+   "trang": 80
+  },
+  {
+   "hoi": "Khi nghĩa quân tiến ra Bắc, quân Minh phải rút vào thành nào cố thủ?",
+   "dap_an": [
+    "Tây Đô",
+    "Đông Quan",
+    "Xương Giang",
+    "Chi Lăng"
+   ],
+   "dung": 1,
+   "trang": 80
+  },
+  {
+   "hoi": "Trận Tốt Động – Chúc Động diễn ra ở địa phương nào ngày nay?",
+   "dap_an": [
+    "Tỉnh Thanh Hoá",
+    "Thành phố Hà Nội",
+    "Tỉnh Lạng Sơn",
+    "Tỉnh Nghệ An"
+   ],
+   "dung": 1,
+   "trang": 81
+  },
+  {
+   "hoi": "Kết quả của trận Tốt Động – Chúc Động là",
+   "dap_an": [
+    "Quân Minh thất bại nặng nề, nghĩa quân siết chặt vây hãm Đông Quan",
+    "Liễu Thăng bị giết tại trận",
+    "Quân Minh chiếm lại Nghệ An",
+    "Hai bên giảng hoà"
+   ],
+   "dung": 0,
+   "trang": 81
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 80 (tháng 9 – 1426 tiến quân ra Bắc, quân Minh rút vào Đông Quan; Hình 3 lược đồ), tr. 81 (tháng 10 – 1426 Vương Thông; ngày 7 – 11 – 1426 mai phục, chặn đánh ở Tốt Động – Chúc Động (thành phố Hà Nội); kết quả). Sa bàn mới tot-dong-chuc-dong vẽ lại, giản lược theo Hình 3 tr. 80; ảnh SGK đen trắng nên không phân biệt được màu doanh trại hai bên – sa bàn chỉ ghi tên Cao Bộ, Ninh Kiều, không gán doanh trại; hướng tiến công/rút chạy theo hình dạng lược đồ và chú giải (nét đứt = quân Minh rút chạy), lời đọc chỉ dùng nội dung chữ của SGK. Lược đồ không có biển. Kiến thức chốt của danh mục khớp SGK. Lời Lê Lợi, Vương Thông, tướng Lam Sơn là lời dựng. 'Gần sáu thế kỉ' ở cảnh mở đầu là phép tính từ năm 1426 đến nay.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

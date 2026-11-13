@@ -1,0 +1,417 @@
+{
+ "ma": "L7-B14-03",
+ "ten_tap": "Hào khí Đông A và Hội nghị Diên Hồng",
+ "ten_tap_en": "The Spirit of Đông A and the Diên Hồng Conference",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+  "trang": [
+   69,
+   73,
+   74
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-mong-nguyen",
+  "vua-tran",
+  "vuong-hau-nha-tran",
+  "tran-quoc-toan",
+  "gia-no-tran-quoc-toan",
+  "bo-lao",
+  "tran-hung-dao",
+  "quan-doi-nha-tran"
+ ],
+ "nhac": {
+  "tam_trang": "sục sôi, hào hùng (trống trận, kèn); trang nghiêm, xúc động ở cảnh Diên Hồng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 14, tr. 69–74.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong một phòng trưng bày nghệ thuật ngày nay, đứng trước bức tranh sơn mài lớn mang tên 'Hào khí Đông A' với sắc đỏ, vàng, đen rực rỡ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bức tranh sơn mài này tên là “Hào khí Đông A”, của hoạ sĩ Nguyễn Trường Linh.",
+     "This lacquer painting is called 'The Spirit of Đông A', by the artist Nguyễn Trường Linh."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà Trần với “Hào khí Đông A” đã ba lần đánh tan quân xâm lược Mông – Nguyên. Hôm nay xem hào khí ấy được thắp lên thế nào trước năm 1285 nhé!",
+     "With the 'Spirit of Đông A', the Trần defeated the Mongol–Yuan invaders three times. Today, let's see how that spirit was lit before 1285!"
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    73,
+    74
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1279",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-mong-nguyen"
+   ],
+   "hinh": "Kinh đô nhà Nguyên: hoàng đế Hốt Tất Liệt ngồi trên ngai giữa các tướng lĩnh, trước mặt là tấm bản đồ phương Nam; ngoài sân, quân lính và chiến thuyền chuẩn bị (không vẽ cờ có chữ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi chiếm được phần lớn lãnh thổ Trung Quốc, vua Mông Cổ là Hốt Tất Liệt lập ra nhà Nguyên năm 1271.",
+     "After conquering most of China, the Mongol ruler Kublai Khan founded the Yuan dynasty in 1271."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1279, nhà Nguyên ráo riết chuẩn bị xâm lược Chăm-pa và Đại Việt.",
+     "In 1279, the Yuan hurried to prepare invasions of Champa and Đại Việt."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-tran",
+    "vuong-hau-nha-tran",
+    "tran-quoc-toan"
+   ],
+   "hinh": "Hội nghị Bình Than trên bến sông: vua Trần và các vương hầu ngồi bàn việc trên thuyền rồng; bên bờ, cậu thiếu niên Trần Quốc Toản đứng ngoài, tay bóp nát quả cam lúc nào không biết, mắt rưng rưng căm giận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước tình hình đó, vua Trần triệu tập Hội nghị Bình Than, ở tỉnh Bắc Ninh, bàn kế sách đánh giặc.",
+     "Facing this, the Trần king called the Bình Than Conference, in Bắc Ninh province, to plan the defence."
+    ],
+    [
+     "Hân Hân",
+     "Ở Hội nghị Bình Than, Trần Quốc Toản còn nhỏ tuổi nên không được dự bàn. Căm thù giặc, ông bóp nát quả cam trong tay lúc nào không biết.",
+     "At Bình Than, young Trần Quốc Toản was too young to join the talks. Burning with hatred for the enemy, he crushed an orange in his hand without noticing."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tran-quoc-toan",
+    "gia-no-tran-quoc-toan"
+   ],
+   "hinh": "Trần Quốc Toản (thiếu niên, áo giáp nhẹ) đứng trên mũi chiến thuyền, giương lá cờ đỏ thêu sáu chữ, phía sau hơn nghìn gia nô và người nhà mang vũ khí, đóng thuyền",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau đó, Trần Quốc Toản huy động hơn nghìn gia nô và người nhà, sắm vũ khí, đóng chiến thuyền, viết lên cờ sáu chữ:",
+     "Then Trần Quốc Toản raised over a thousand servants and kinsmen, armed them, built warships, and wrote six words on his banner:"
+    ],
+    [
+     "Trần Quốc Toản",
+     "Phá cường địch, báo hoàng ân!",
+     "Crush the mighty foe, repay the king's grace!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trần Quốc Toản viết lên lá cờ của mình sáu chữ gì?",
+    "lua_chon": [
+     "Phá cường địch, báo hoàng ân",
+     "Sát Thát",
+     "Vạn Thắng Vương"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Trần Quốc Toản viết lên lá cờ sáu chữ gì?",
+     "Pause! What six words did Trần Quốc Toản write on his banner?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: “Phá cường địch, báo hoàng ân”, nghĩa là phá giặc mạnh, báo ơn vua!",
+     "The answer is A: 'Phá cường địch, báo hoàng ân', crush the mighty foe, repay the king's grace!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-tran",
+    "bo-lao"
+   ],
+   "hinh": "Điện Diên Hồng (thành phố Hà Nội) chật kín các bô lão râu tóc bạc phơ, áo the khăn xếp; nhà vua đứng trên thềm điện hỏi ý kiến",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà Trần còn mở Hội nghị Diên Hồng, ở thành phố Hà Nội, khẳng định quyết tâm chống giặc.",
+     "The Trần also held the Diên Hồng Conference, in today's Hà Nội, to affirm the will to resist."
+    ],
+    [
+     "Vua Trần",
+     "Giặc mạnh sắp kéo đến. Các bô lão nghĩ nên làm thế nào?",
+     "A mighty enemy is coming. Elders, what should we do?"
+    ],
+    [
+     "Các bô lão",
+     "Đánh!",
+     "Fight!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "bo-lao"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng lẫn trong dân chúng ngoài sân điện Diên Hồng, xúc động nhìn các bô lão đồng loạt giơ tay hô vang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tất cả các bô lão đều đồng thanh hô lớn: “Đánh!”. Nghe mà nổi da gà!",
+     "All the elders shouted as one: 'Fight!'. It gives me goosebumps!"
+    ],
+    [
+     "Hân Hân",
+     "Cả nước một lòng. Đó chính là hào khí Đông A!",
+     "The whole nation of one mind. That is the Spirit of Đông A!"
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    74
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tran-hung-dao",
+    "vua-tran"
+   ],
+   "hinh": "Vua Trần trao ấn kiếm cho Trần Quốc Tuấn (vẽ theo tượng: râu dài, mũ trụ, áo bào đỏ, áo giáp) quỳ nhận giữa điện; bên cạnh là án thư với tờ hịch viết dở",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vua Trần cử Trần Quốc Tuấn làm Quốc công tiết chế, tổng chỉ huy các lực lượng kháng chiến.",
+     "The Trần king appointed Trần Quốc Tuấn Supreme Commander of all the resistance forces."
+    ],
+    [
+     "Trần Quốc Tuấn",
+     "Thần xin dốc lòng, cùng quân dân giữ yên bờ cõi!",
+     "I pledge my whole heart to defend our land with the army and the people!"
+    ],
+    [
+     "Hân Hân",
+     "Trần Quốc Tuấn đã soạn Hịch tướng sĩ để khích lệ tinh thần chiến đấu của quân dân Đại Việt.",
+     "Trần Quốc Tuấn wrote the Proclamation to the Officers to rouse the fighting spirit of Đại Việt."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Các chiến binh nhà Trần xắn tay áo, thích lên cánh tay hai chữ Hán màu đen; xa xa trên bãi Đông Bộ Đầu, đoàn quân tập trận, duyệt binh rầm rộ, cờ đỏ rợp trời",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khắp nơi, quân ta tự động thích vào cánh tay mình hai chữ “Sát Thát”, nghĩa là giết giặc Mông Thát.",
+     "Everywhere, our soldiers tattooed 'Sát Thát', death to the Mongol invaders, on their arms."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Trần tổ chức tập trận lớn và duyệt binh ở Đông Bộ Đầu, chia quân đóng giữ những nơi trọng yếu. Cả nước sẵn sàng chiến đấu.",
+     "The Trần held great manoeuvres and a review at Đông Bộ Đầu, and posted troops at key points. The whole country stood ready to fight."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân sĩ nhà Trần tự thích vào cánh tay hai chữ gì?",
+    "lua_chon": [
+     "Sát Thát",
+     "Đại Việt",
+     "Thăng Long"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Quân sĩ nhà Trần tự thích vào cánh tay hai chữ gì?",
+     "Quick test! What two words did Trần soldiers tattoo on their arms?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: “Sát Thát”!",
+     "The answer is A: 'Sát Thát'!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Năm 1279: nhà Nguyên ráo riết chuẩn bị xâm lược Đại Việt",
+    "Hội nghị Bình Than (Bắc Ninh), Hội nghị Diên Hồng (Hà Nội): quyết tâm đánh giặc",
+    "Trần Quốc Tuấn làm Quốc công tiết chế; soạn Hịch tướng sĩ",
+    "Tinh thần “Sát Thát”, cờ “Phá cường địch, báo hoàng ân” – hào khí Đông A"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1279, nhà Nguyên ráo riết chuẩn bị xâm lược Đại Việt.",
+     "Remember: in 1279, the Yuan hurried to prepare to invade Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Trần mở Hội nghị Bình Than và Hội nghị Diên Hồng, khẳng định quyết tâm đánh giặc.",
+     "The Trần held the Bình Than and Diên Hồng conferences, affirming the resolve to fight."
+    ],
+    [
+     "Nhật Minh",
+     "Trần Quốc Tuấn được cử làm Quốc công tiết chế và soạn Hịch tướng sĩ.",
+     "Trần Quốc Tuấn became Supreme Commander and wrote the Proclamation to the Officers."
+    ],
+    [
+     "Hân Hân",
+     "Từ chữ “Sát Thát” trên cánh tay đến lá cờ của Trần Quốc Toản, đó là hào khí Đông A!",
+     "From 'Sát Thát' on their arms to Trần Quốc Toản's banner: that is the Spirit of Đông A!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước bức tranh sơn mài 'Hào khí Đông A', nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tiếng hô “Đánh!” ở điện Diên Hồng cho thấy điều gì về tinh thần của nhân dân thời Trần? Bình luận nhé!",
+     "Your challenge: what does the shout of 'Fight!' at Diên Hồng tell us about the spirit of the Trần people? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vua Mông Cổ lập ra nhà Nguyên năm 1271 là ai?",
+   "dap_an": [
+    "Thoát Hoan",
+    "Hốt Tất Liệt",
+    "Ô Mã Nhi",
+    "Ngột Lương Hợp Thai"
+   ],
+   "dung": 1,
+   "trang": 69
+  },
+  {
+   "hoi": "Hội nghị nào được tổ chức để hỏi ý kiến các bô lão về kế đánh giặc?",
+   "dap_an": [
+    "Hội nghị Bình Than",
+    "Hội nghị Diên Hồng",
+    "Duyệt binh Đông Bộ Đầu",
+    "Hội thề Lũng Nhai"
+   ],
+   "dung": 1,
+   "trang": 69
+  },
+  {
+   "hoi": "Trước cuộc kháng chiến năm 1285, ai được cử làm Quốc công tiết chế?",
+   "dap_an": [
+    "Trần Thủ Độ",
+    "Trần Quốc Toản",
+    "Trần Quốc Tuấn",
+    "Trần Khánh Dư"
+   ],
+   "dung": 2,
+   "trang": 69
+  },
+  {
+   "hoi": "Nhà Trần tổ chức tập trận lớn và duyệt binh ở đâu?",
+   "dap_an": [
+    "Đông Bộ Đầu",
+    "Vạn Kiếp",
+    "Thiên Trường",
+    "Bình Than"
+   ],
+   "dung": 0,
+   "trang": 69
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 69 (mục 2: Hốt Tất Liệt lập nhà Nguyên 1271, năm 1279; Hội nghị Bình Than (tỉnh Bắc Ninh), Diên Hồng (thành phố Hà Nội); Trần Quốc Tuấn Quốc công tiết chế, Hịch tướng sĩ; tư liệu 2: 'Sát Thát', bô lão hô 'Đánh!'; Em có biết về Trần Quốc Toản – đối chiếu ảnh trang), tr. 73 (Hình 5 tranh sơn mài 'Hào khí Đông A' của Nguyễn Trường Linh), tr. 74 (mở đầu Bài 15: nhà Trần với 'Hào khí Đông A' ba lần đánh tan Mông – Nguyên). Kiến thức chốt của danh mục khớp SGK. SGK chỉ ghi 'vua Trần' nên lời nhà vua không gắn tên cụ thể; câu hỏi của vua là lời dựng, tiếng 'Đánh!' đúng tư liệu SGK. Lời Trần Quốc Tuấn là lời dựng; câu trên cờ của Trần Quốc Toản đúng SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

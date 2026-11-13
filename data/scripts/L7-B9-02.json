@@ -1,0 +1,194 @@
+{
+ "ma": "L7-B9-02",
+ "ten_tap": "Loạn 12 sứ quân: Khi đất nước chia cắt",
+ "ten_tap_en": "The 12 Warlords: A Country Divided",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 9. Đất nước buổi đầu độc lập (939 – 967)",
+  "trang": [
+   46
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "12-su-quan"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, trống trầm; dồn dập khi các lá cờ hiện lên",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 9, tr. 46.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) ngồi ở bàn học; Hân Hân đổ ra bàn một bộ tranh ghép hình bản đồ cổ bị tách rời thành 12 mảnh, Nhật Minh tròn mắt nhặt lên một mảnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một đất nước bị xẻ thành 12 mảnh? Chuyện này từng xảy ra thật đấy!",
+     "A country split into 12 pieces? It really happened!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 944, Ngô Quyền mất. Chính quyền nhà Ngô suy yếu nhanh chóng.",
+     "In 944, Ngo Quyen died. The Ngo government quickly grew weak."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "12-su-quan"
+   ],
+   "hinh": "Khung dọc. Một hào trưởng địa phương thế kỉ X đứng trên bờ luỹ đất, giáp trụ giản dị, cắm lá cờ riêng xuống đất; sau lưng là đám quân sĩ cầm giáo; xa xa một hào trưởng khác cũng dựng cờ trên ngọn đồi đối diện",
+   "loi": [
+    [
+     "Hào trưởng",
+     "Vùng đất này, từ nay do ta cai quản!",
+     "From now on, this land is mine to rule!"
+    ],
+    [
+     "Hân Hân",
+     "Nhân cơ hội đó, các thế lực hào trưởng địa phương nổi lên, mỗi người chiếm cứ một vùng.",
+     "Seizing the chance, local strongmen rose up, each taking over a region of his own."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "12-su-quan-doc",
+   "pha": "cat_cu",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Lược đồ dọc: thủ phủ 12 sứ quân lần lượt hiện lên (tệp 12-su-quan-doc, vẽ lại, giản lược theo Hình 1, tr. 46)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến năm 965, chính quyền nhà Ngô tan rã. Đất nước lâm vào tình trạng cát cứ của 12 sứ quân.",
+     "By 965, the Ngo government had collapsed. The country fell into the hands of 12 rival warlords."
+    ],
+    [
+     "Hân Hân",
+     "Mỗi lá cờ là thủ phủ của một sứ quân: Hồi Hồ, Phong Châu, Đỗ Động Giang, Bố Hải Khẩu…",
+     "Each flag marks a warlord's base: Hoi Ho, Phong Chau, Do Dong Giang, Bo Hai Khau and more."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đất nước lâm vào tình trạng cát cứ của 12 sứ quân vào năm nào?",
+    "lua_chon": [
+     "Năm 944",
+     "Năm 965",
+     "Năm 968"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đất nước rơi vào cảnh cát cứ của 12 sứ quân năm nào?",
+     "Pause! In what year did the country fall to the 12 warlords?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 965!",
+     "The answer is B: 965!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh đặt mảnh ghép cuối cùng, bộ tranh bản đồ liền lại; Hân Hân chỉ tay về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ai sẽ ghép đất nước lại thành một? Đó là Đinh Bộ Lĩnh ở đất Hoa Lư. Hẹn cậu ở tập sau!",
+     "Who would put the country back together? Dinh Bo Linh of Hoa Lu. See you next episode!"
+    ],
+    [
+     "Hân Hân",
+     "Thử thách: kể tên ba sứ quân trên lược đồ trong bình luận nhé!",
+     "Challenge: name three of the warlords on the map in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 944 diễn ra sự kiện nào?",
+   "dap_an": [
+    "Ngô Quyền xưng Vương",
+    "Ngô Quyền mất, chính quyền nhà Ngô suy yếu",
+    "Đinh Bộ Lĩnh lên ngôi",
+    "Chiến thắng Bạch Đằng"
+   ],
+   "dung": 1,
+   "trang": 46
+  },
+  {
+   "hoi": "Sau khi Ngô Quyền mất, các thế lực nào nổi lên chiếm cứ từng vùng?",
+   "dap_an": [
+    "Quân Tống",
+    "Các thế lực hào trưởng địa phương",
+    "Quân Nam Hán",
+    "Các thương nhân nước ngoài"
+   ],
+   "dung": 1,
+   "trang": 46
+  },
+  {
+   "hoi": "Đến năm 965, đất nước lâm vào tình trạng",
+   "dap_an": [
+    "cát cứ của 12 sứ quân",
+    "bị nhà Minh đô hộ",
+    "thống nhất dưới thời Đinh",
+    "chia đôi Đàng Trong – Đàng Ngoài"
+   ],
+   "dung": 0,
+   "trang": 46
+  },
+  {
+   "hoi": "Sứ quân Trần Lãm chiếm cứ vùng nào trên lược đồ?",
+   "dap_an": [
+    "Hồi Hồ",
+    "Đường Lâm",
+    "Bố Hải Khẩu",
+    "Bình Kiều"
+   ],
+   "dung": 2,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 46 (mục 2: năm 944 Ngô Quyền mất, chính quyền suy yếu nhanh chóng; hào trưởng địa phương nổi lên, mỗi người chiếm cứ một vùng; năm 965 chính quyền tan rã, cát cứ của 12 sứ quân; Hình 1 'Lược đồ cát cứ của 12 sứ quân'). Bản đồ dọc mới 12-su-quan-doc (cùng bộ sinh tools/make_spec_12_su_quan.py), vẽ lại, giản lược theo Hình 1; có ô nhỏ thể hiện QĐ. Hoàng Sa, QĐ. Trường Sa. Đối chiếu danh mục: kiến thức chốt 'nhân dân lầm than' KHÔNG có trong SGK tr. 46 nên không đưa vào; SGK dùng cụm 'tình trạng cát cứ của 12 sứ quân' – lời bình dùng đúng cụm này (tên tập giữ theo danh mục). Lời hào trưởng là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

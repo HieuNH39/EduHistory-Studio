@@ -1,0 +1,196 @@
+{
+ "ma": "L7-CD2-04",
+ "ten_tap": "Thương nhân - Những người thay đổi châu Âu",
+ "ten_tap_en": "Merchants: The People Who Changed Europe",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Đô thị: Lịch sử và hiện tại",
+  "trang": [
+   173,
+   174
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "vui tươi, nhộn nhịp như phiên chợ; sáng bừng ở cảnh Phục hưng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chủ đề chung 2, tr. 173–174.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) ngồi trên một chiếc ghế gỗ dài ở sân trường; Hân Hân gõ nhẹ tay lên mặt ghế, Nhật Minh ngơ ngác",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết từ “bank”, tức ngân hàng, bắt nguồn từ chiếc ghế dài không?",
+     "Did you know the word 'bank' comes from a long bench?"
+    ],
+    [
+     "Nhật Minh",
+     "Ghế dài á? Kể tớ nghe với!",
+     "A bench? Tell me more!"
+    ]
+   ],
+   "nguon_trang": [
+    173
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Khung dọc. Hội chợ ở một đô thị châu Âu trung đại: dãy quầy hàng sặc sỡ, xe chở hàng, người mua bán đông đúc; một thương nhân ngồi sau chiếc ghế gỗ dài bày những chồng tiền xu và chiếc cân nhỏ, đang đổi tiền cho khách; Nhật Minh và Hân Hân (đồng phục FPT) đứng quan sát",
+   "loi": [
+    [
+     "Thương nhân",
+     "Đổi tiền đây! Tiền nước nào cũng đổi được!",
+     "Money changed here! Any country's coins!"
+    ],
+    [
+     "Hân Hân",
+     "Ở các đô thị châu Âu trung đại, thương nhân lập ra thương hội để bảo vệ lợi ích buôn bán, và mở hội chợ hằng năm.",
+     "In medieval European towns, merchants formed guilds to protect their trade and held fairs every year."
+    ],
+    [
+     "Nhật Minh",
+     "Tại hội chợ, những chiếc ghế dài, tiếng I-ta-li-a cổ gọi là banca, được dùng làm quầy đổi tiền, tiền thân của ngân hàng sau này.",
+     "At the fairs, long benches, banca in old Italian, served as money-changing counters, the forerunners of banks."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    173
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Khung dọc. Đoàn xe hàng của thương nhân rời đô thị, đi qua cổng một lãnh địa phong kiến; nông dân trong lãnh địa mang sản phẩm ra trao đổi với thương nhân; xa xa là bến cảng với thuyền buôn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hoạt động của thương nhân thúc đẩy kinh tế hàng hoá, làm tan rã dần nền kinh tế tự nhiên, đóng kín trong các lãnh địa.",
+     "Merchants' activity boosted the market economy and slowly broke down the closed, self-sufficient economy of the manors."
+    ]
+   ],
+   "nguon_trang": [
+    173
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ banca trong tiếng I-ta-li-a cổ có nghĩa là gì?",
+    "lua_chon": [
+     "Đồng tiền",
+     "Ghế dài",
+     "Cái cân"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Banca nghĩa là gì?",
+     "Pause! What does banca mean?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ghế dài!",
+     "The answer is B: a long bench!"
+    ]
+   ],
+   "nguon_trang": [
+    173
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân đứng dậy khỏi chiếc ghế dài, cùng nhìn về phía người xem; Nhật Minh giơ ngón cái",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thương nhân ham hiểu biết, phản đối văn hoá phong kiến lạc hậu, đòi hỏi một nền văn hoá mới. Từ đó, Văn hoá Phục hưng nảy nở!",
+     "Curious merchants rejected outdated feudal culture and demanded a new one. And so the Renaissance blossomed!"
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách: ngày nay, thương nhân góp phần gì cho thành phố của cậu? Bình luận nhé!",
+     "Challenge: how do traders help your city today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    174
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Các thương nhân ở đô thị châu Âu trung đại lập ra hội buôn (thương hội) để",
+   "dap_an": [
+    "bảo vệ lợi ích buôn bán",
+    "xây dựng lâu đài",
+    "lập ra quân đội riêng",
+    "truyền đạo"
+   ],
+   "dung": 0,
+   "trang": 173
+  },
+  {
+   "hoi": "Tiền thân của các ngân hàng sau này là",
+   "dap_an": [
+    "các nhà thờ",
+    "các quầy đổi tiền ở hội chợ",
+    "các lãnh địa",
+    "các xưởng thủ công"
+   ],
+   "dung": 1,
+   "trang": 173
+  },
+  {
+   "hoi": "Hoạt động của thương nhân và thương hội đã làm tan rã dần",
+   "dap_an": [
+    "kinh tế hàng hoá",
+    "kinh tế tự nhiên, đóng kín trong các lãnh địa",
+    "các đô thị",
+    "buôn bán quanh Địa Trung Hải"
+   ],
+   "dung": 1,
+   "trang": 173
+  },
+  {
+   "hoi": "Vì sao thương nhân góp phần mở đường cho Văn hoá Phục hưng?",
+   "dap_an": [
+    "Họ ủng hộ văn hoá phong kiến",
+    "Họ phản đối văn hoá phong kiến lỗi thời, đòi hỏi nền văn hoá mới",
+    "Họ cấm học tập",
+    "Họ chỉ sống trong lãnh địa"
+   ],
+   "dung": 1,
+   "trang": 174
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 173 (mục 2b: thương nhân đông hơn, vai trò to lớn; ô chữ nhỏ: thương hội, hội chợ hằng năm, quầy đổi tiền – tiền thân của ngân hàng; thúc đẩy kinh tế hàng hoá, làm tan rã dần kinh tế tự nhiên đóng kín trong lãnh địa; ô 'Em có biết?': bank ← banca (tiếng I-ta-li-a cổ) = 'ghế dài', dùng làm quầy đổi tiền ở hội chợ; Hình 4), tr. 174 (thương nhân ham hiểu biết, phản đối văn hoá phong kiến lỗi thời, đòi hỏi văn hoá mới → Văn hoá Phục hưng nảy nở). Đối chiếu danh mục: kiến thức chốt 'Thương nhân lập ra thương hội, hội chợ, ngân hàng' chưa sát – SGK nói tại hội chợ xuất hiện quầy đổi tiền, là TIỀN THÂN của ngân hàng sau này, không nói thương nhân lập ngân hàng; kịch bản dùng đúng ý SGK. Lời thương nhân là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

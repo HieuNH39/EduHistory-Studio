@@ -1,0 +1,349 @@
+{
+ "ma": "L7-B6-01",
+ "ten_tap": "Bản đồ Đông Nam Á: Những vương quốc trỗi dậy",
+ "ten_tap_en": "Mapping Southeast Asia: The Rising Kingdoms",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 6. Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+  "trang": [
+   35,
+   36,
+   37
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-pa-gan",
+  "quan-mong-nguyen",
+  "nhan-dan-dong-nam-a",
+  "nguoi-thai"
+ ],
+ "nhac": {
+  "tam_trang": "khám phá, rộng mở (cồng chiêng, sáo); dồn nhịp ở cảnh quân Mông – Nguyên",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; bản đồ vẽ lại, giản lược theo Hình 2; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 6, tr. 35–37.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, đứng trước tấm bản đồ Đông Nam Á khổ lớn treo trên bảng, Hân Hân cầm thước chỉ vào bán đảo Đông Dương, Nhật Minh cầm hộp ghim màu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI, Đông Nam Á có rất nhiều vương quốc phong kiến.",
+     "From the late 10th to the early 16th century, Southeast Asia had many feudal kingdoms."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng đặt chúng lên bản đồ nhé! Vương quốc nào trỗi dậy trước, vương quốc nào ra đời sau?",
+     "Let's put them on the map! Which rose first, and which came later?"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ X",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-pa-gan"
+   ],
+   "hinh": "Toàn cảnh đô thị cổ Pa-gan lúc bình minh: hàng trăm ngôi chùa, tháp gạch đỏ rải rác trên đồng bằng ven sông I-ra-oa-đi, sương sớm (vẽ theo Hình 1 SGK)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ khoảng nửa sau thế kỉ X đến thế kỉ XIII, các vương quốc phong kiến hình thành từ trước tiếp tục phát triển.",
+     "From about the late 10th to the 13th century, the feudal kingdoms formed earlier kept developing."
+    ],
+    [
+     "Hân Hân",
+     "Trên lưu vực sông I-ra-oa-đi, Vương quốc Pa-gan mạnh lên và thống nhất lãnh thổ, mở đầu cho quá trình hình thành, phát triển của Vương quốc Mi-an-ma.",
+     "In the Irrawaddy basin, the Kingdom of Pagan grew strong and unified the land, beginning the rise of Myanmar."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a-x-xvi",
+   "pha": "x_xiii",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn: tên các vương quốc thế kỉ X – XIII lần lượt hiện lên trên lược đồ Đông Nam Á (vẽ lại theo Hình 2 SGK)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở lưu vực sông Chao Phray-a có Vương quốc Ha-ri-pun-giay-a.",
+     "In the Chao Phraya basin stood the Kingdom of Haripunjaya."
+    ],
+    [
+     "Hân Hân",
+     "Trên bán đảo Đông Dương, ngoài Đại Việt và Chăm-pa, Vương quốc Cam-pu-chia của người Khơ-me trở nên cường thịnh.",
+     "On the Indochinese peninsula, besides Đại Việt and Champa, the Khmer Kingdom of Cambodia grew mighty."
+    ],
+    [
+     "Nhật Minh",
+     "Còn Sri Vi-giay-a trở thành một quốc gia hùng mạnh trên đảo Xu-ma-tơ-ra.",
+     "And Srivijaya became a powerful state on the island of Sumatra."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương quốc nào trở thành quốc gia hùng mạnh trên đảo Xu-ma-tơ-ra?",
+    "lua_chon": [
+     "Pa-gan",
+     "Sri Vi-giay-a",
+     "Ha-ri-pun-giay-a"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vương quốc nào hùng mạnh trên đảo Xu-ma-tơ-ra?",
+     "Pause! Which kingdom was powerful on Sumatra?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Sri Vi-giay-a!",
+     "The answer is B: Srivijaya!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-mong-nguyen",
+    "nhan-dan-dong-nam-a"
+   ],
+   "hinh": "Đoàn chiến thuyền và kị binh Mông – Nguyên tiến xuống phương Nam (viễn cảnh); cùng lúc, thủ lĩnh nhiều tộc người Đông Nam Á tụ họp quanh đống lửa bàn việc liên kết chống giặc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vào thế kỉ XIII, quân Mông – Nguyên mở rộng xâm lược xuống Đông Nam Á.",
+     "In the 13th century, the Mongol–Yuan armies pushed their invasions into Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Nhu cầu liên kết để kháng chiến chống ngoại xâm đã dẫn đến sự ra đời một số vương quốc mới, và sự thống nhất thành những vương quốc lớn hơn.",
+     "The need to unite against invaders led to new kingdoms, and to unions forming larger ones."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "dong-nam-a-x-xvi",
+   "pha": "xiii_xvi",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: tên các vương quốc thế kỉ XIII – XVI (A-út-thay-a, Lan Xang, Mô-giô-pa-hít, Ma-lắc-ca) hiện thêm trên lược đồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Thái lập ra các vương quốc Su-khô-thay và A-út-thay-a. Sau đó A-út-thay-a chinh phục Su-khô-thay, lập quốc gia thống nhất, nay là Thái Lan.",
+     "The Thai founded the kingdoms of Sukhothai and Ayutthaya. Ayutthaya later conquered Sukhothai, forming a united state, today's Thailand."
+    ],
+    [
+     "Hân Hân",
+     "Vương quốc Lan Xang được thành lập, nay là Lào. Nhiều nước nhỏ trên đảo Xu-ma-tơ-ra và Gia-va được thống nhất dưới thời Vương triều Mô-giô-pa-hít.",
+     "The Kingdom of Lan Xang was founded, today's Laos. Many small states on Sumatra and Java were united under the Majapahit dynasty."
+    ],
+    [
+     "Nhật Minh",
+     "Vương quốc Ma-lắc-ca được thành lập và ngày càng hưng thịnh.",
+     "The Kingdom of Malacca was founded and grew ever more prosperous."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-thai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa Su-khô-thay thế kỉ XIV: những ngôi chùa, tháp và tượng Phật lớn bằng gạch, đá bên hồ nước, các nhà sư áo vàng đi khất thực",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Su-khô-thay, trung tâm Phật giáo lớn nhất Thái Lan ở thế kỉ XIV.",
+     "This is Sukhothai, Thailand's greatest Buddhist centre in the 14th century."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày nay, nơi này là Công viên lịch sử Su-khô-thay.",
+     "Today, it's the Sukhothai Historical Park."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương quốc Lan Xang là tiền thân của quốc gia nào ngày nay?",
+    "lua_chon": [
+     "Thái Lan",
+     "Lào",
+     "Cam-pu-chia"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vương quốc Lan Xang là tiền thân của quốc gia nào ngày nay?",
+     "Quick test! Lan Xang was the forerunner of which country today?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Lào!",
+     "The answer is B: Laos!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Nửa sau thế kỉ X – XIII: Pa-gan, Ha-ri-pun-giay-a, Cam-pu-chia, Sri Vi-giay-a, Đại Việt, Chăm-pa",
+    "Thế kỉ XIII: quân Mông – Nguyên xâm lược → nhu cầu liên kết",
+    "Ra đời và thống nhất: A-út-thay-a (Thái Lan), Lan Xang (Lào), Mô-giô-pa-hít, Ma-lắc-ca"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ nửa sau thế kỉ X đến thế kỉ XIII có Pa-gan, Ha-ri-pun-giay-a, Cam-pu-chia, Sri Vi-giay-a, cùng Đại Việt và Chăm-pa.",
+     "Remember: from the late 10th to the 13th century there were Pagan, Haripunjaya, Cambodia and Srivijaya, along with Đại Việt and Champa."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ XIII, quân Mông – Nguyên xâm lược, các tộc người cần liên kết.",
+     "In the 13th century, the Mongol–Yuan invaded, and peoples needed to unite."
+    ],
+    [
+     "Nhật Minh",
+     "Từ đó ra đời hoặc thống nhất A-út-thay-a, Lan Xang, Mô-giô-pa-hít và Ma-lắc-ca.",
+     "So arose or united Ayutthaya, Lan Xang, Majapahit and Malacca."
+    ]
+   ],
+   "nguon_trang": [
+    35,
+    36
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước tấm bản đồ Đông Nam Á trong lớp, bản đồ đã cắm đầy ghim màu; Nhật Minh nhìn về phía người xem, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vương quốc phong kiến nào trên bản đồ là tiền thân của Mi-an-ma và Thái Lan ngày nay? Bình luận nhé!",
+     "Your challenge: which kingdoms on the map were the forerunners of today's Myanmar and Thailand? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    35,
+    36
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương quốc nào mạnh lên trên lưu vực sông I-ra-oa-đi, mở đầu quá trình hình thành Mi-an-ma?",
+   "dap_an": [
+    "Pa-gan",
+    "Ha-ri-pun-giay-a",
+    "Lan Xang",
+    "Ma-lắc-ca"
+   ],
+   "dung": 0,
+   "trang": 35
+  },
+  {
+   "hoi": "Vương quốc Ha-ri-pun-giay-a nằm ở lưu vực sông nào?",
+   "dap_an": [
+    "I-ra-oa-đi",
+    "Chao Phray-a",
+    "Mê Công",
+    "Hằng"
+   ],
+   "dung": 1,
+   "trang": 35
+  },
+  {
+   "hoi": "Sự kiện nào thúc đẩy các quốc gia nhỏ, các tộc người Đông Nam Á liên kết ở thế kỉ XIII?",
+   "dap_an": [
+    "Phát kiến địa lí",
+    "Quân Mông – Nguyên mở rộng xâm lược",
+    "Thực dân Anh xâm lược",
+    "Nhà Đường mở rộng lãnh thổ"
+   ],
+   "dung": 1,
+   "trang": 36
+  },
+  {
+   "hoi": "Nhiều nước nhỏ trên đảo Xu-ma-tơ-ra và Gia-va được thống nhất dưới thời vương triều nào?",
+   "dap_an": [
+    "Mô-giô-pa-hít",
+    "A-út-thay-a",
+    "Pa-gan",
+    "Su-khô-thay"
+   ],
+   "dung": 0,
+   "trang": 36
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 35 (mục 1: các vương quốc nửa sau thế kỉ X – XIII; Hình 1 Pa-gan), tr. 36 (thế kỉ XIII Mông – Nguyên; Thái, Lan Xang, Mô-giô-pa-hít, Ma-lắc-ca; Hình 2 lược đồ – đối chiếu ảnh trang), tr. 37 (Hình 3 Công viên lịch sử Su-khô-thay – trung tâm Phật giáo lớn nhất Thái Lan thế kỉ XIV). Sa bàn mới dong-nam-a-x-xvi vẽ lại, giản lược theo Hình 2 tr. 36 (nhãn vương quốc theo lược đồ, có QĐ. Hoàng Sa, Trường Sa; Su-khô-thay không có trên lược đồ nên chỉ nêu trong lời). Kiến thức chốt của danh mục khớp SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

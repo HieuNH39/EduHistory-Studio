@@ -1,0 +1,373 @@
+{
+ "ma": "L7-B18-02",
+ "ten_tap": "Bí ẩn những ngôi tháp Chăm nghìn năm",
+ "ten_tap_en": "The Mystery of the Thousand-Year Cham Towers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 18. Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+  "trang": [
+   92,
+   93
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-xay-thap-cham",
+  "nguoi-cham",
+  "nghe-nhan-cham",
+  "vu-nu-cham",
+  "thuong-nhan-nuoc-ngoai"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, uyển chuyển (kèn Sa-ra-na, trống)",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 18, tr. 92–93.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng dưới chân tháp Pô Klong Ga-rai (phường Đô Vinh, tỉnh Khánh Hoà) ngày nay: ba ngôi tháp gạch đỏ trên đồi, trời xanh, nắng gắt, cây xương rồng ven lối lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là tháp Pô Klong Ga-rai, được xây dựng vào khoảng cuối thế kỉ XIII, đầu thế kỉ XIV.",
+     "This is the Po Klong Garai tower, built around the late 13th to early 14th century."
+    ],
+    [
+     "Nhật Minh",
+     "Trải qua hàng trăm năm mà tháp vẫn vững chắc. Bí mật nằm ở những viên gạch! Cùng khám phá nhé!",
+     "Centuries on, it still stands firm. The secret lies in the bricks! Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    92,
+    93
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ X – XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-xay-thap-cham"
+   ],
+   "hinh": "Những người thợ Chăm cổ đúc gạch, nung trong lò, rồi xếp từng viên gạch đỏ khít nhau lên thân tháp đang cao dần, không thấy lớp vữa nào giữa các viên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Chăm đã sáng tạo ra cách làm gạch và gắn kết chúng khi xây đền tháp mà không dùng vữa.",
+     "The Cham invented a way of making bricks and joining them to build temples without mortar."
+    ],
+    [
+     "Hân Hân",
+     "Trải qua hàng nghìn năm, những đền tháp đó vẫn tồn tại vững chắc.",
+     "After a thousand years, those temples still stand strong."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-xay-thap-cham"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng sát chân tháp đang xây, Nhật Minh đưa tay sờ mạch gạch khít, Hân Hân nhìn lên đỉnh tháp đầy tò mò",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Gạch khít đến mức không thấy khe hở! Họ dùng chất gì để kết dính nhỉ?",
+     "The bricks fit so tightly there's no gap! What did they use to bind them?"
+    ],
+    [
+     "Hân Hân",
+     "Người Chăm đã dùng chất liệu gì để kết dính các viên gạch đến nay vẫn còn là một bí ẩn.",
+     "What the Cham used to bind the bricks is still a mystery today."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Điều gì đặc biệt trong kĩ thuật xây đền tháp của người Chăm?",
+    "lua_chon": [
+     "Gắn kết gạch mà không dùng vữa",
+     "Xây hoàn toàn bằng gỗ",
+     "Xếp đá sa thạch thành núi Mê-ru"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Điều gì đặc biệt trong kĩ thuật xây tháp của người Chăm?",
+     "Pause! What was special about how the Cham built their towers?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: gắn kết gạch mà không dùng vữa!",
+     "The answer is A: joining bricks without mortar!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-cham"
+   ],
+   "hinh": "Bên trong đền tháp Chăm, ánh đèn dầu chiếu lên tượng thần và bệ thờ đá; tín đồ dâng hoa; ở đền khác, nhà sư Phật giáo tụng kinh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời kì này, Hin-đu giáo là tôn giáo có vị trí quan trọng nhất ở Chăm-pa, chủ yếu thờ thần Si-va.",
+     "In this era, Hinduism was the most important religion in Champa, chiefly worshipping Shiva."
+    ],
+    [
+     "Hân Hân",
+     "Phật giáo tiếp tục phát triển. Tín ngưỡng phồn thực cũng phổ biến rộng rãi trong đời sống văn hoá của cư dân.",
+     "Buddhism kept developing, and fertility beliefs were widespread in daily culture."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghe-nhan-cham"
+   ],
+   "hinh": "Nghệ nhân Chăm tỉ mỉ chạm phù điêu nữ thần đang chơi đàn lên tường gạch; bên cạnh, người thư lại viết chữ Chăm lên lá; xa xa là những cụm tháp gạch đỏ trên đồi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chữ Chăm không ngừng được cải tiến và hoàn thiện.",
+     "The Cham script was constantly improved and refined."
+    ],
+    [
+     "Hân Hân",
+     "Nổi tiếng nhất là các đền tháp xây bằng gạch nung, trang trí phù điêu, như cụm đền tháp Dương Long ở tỉnh Gia Lai, tháp Bà Pô-na-ga và tháp Pô Klong Ga-rai ở tỉnh Khánh Hoà.",
+     "Most famous are the fired-brick temples with carved reliefs, such as the Dương Long towers in Gia Lai, and the Po Nagar and Po Klong Garai towers in Khánh Hoà."
+    ]
+   ],
+   "nguon_trang": [
+    92,
+    93
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vu-nu-cham"
+   ],
+   "hinh": "Sân tháp Chăm về đêm: các vũ nữ Chăm múa vũ điệu Áp-sa-ra uyển chuyển, đôi tay mềm mại; nhạc công đánh trống, thổi kèn Sa-ra-na; một nhóm khác múa lụa, múa quạt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong ca múa nhạc, người Chăm dùng các nhạc cụ như trống, kèn Sa-ra-na.",
+     "In music and dance, the Cham used instruments like drums and the saranai horn."
+    ],
+    [
+     "Hân Hân",
+     "Những điệu múa nổi tiếng của vũ nữ Chăm-pa có múa lụa, múa quạt, đặc biệt là vũ điệu Áp-sa-ra.",
+     "Famous Champa dances include the silk dance, the fan dance, and above all the Apsara dance."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vũ điệu nổi tiếng đặc biệt của các vũ nữ Chăm-pa là",
+    "lua_chon": [
+     "Vũ điệu Áp-sa-ra",
+     "Múa hoa Chăm-pa",
+     "Múa sư tử"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vũ điệu nổi tiếng đặc biệt của vũ nữ Chăm-pa là gì?",
+     "Quick test! What is the most famous dance of Champa's dancers?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vũ điệu Áp-sa-ra! Còn múa hoa Chăm-pa là điệu múa của người Lào đấy.",
+     "The answer is A: the Apsara dance! The Champa flower dance belongs to the Lao."
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    41
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai",
+    "nguoi-cham"
+   ],
+   "hinh": "Hải cảng Chăm-pa nhộn nhịp: thuyền buôn nước ngoài cập bến, người Chăm bày bán trầm hương, ngà voi, hồ tiêu, đồ gốm men nâu; một nhà du hành phương Tây ghi chép",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ X đến thế kỉ XVI, Chăm-pa là điểm dừng chân của thương nhân và các nhà hàng hải, thám hiểm nổi tiếng thế giới như Mác-cô Pô-lô.",
+     "From the 10th to the 16th century, Champa was a stop for merchants and famous navigators and explorers such as Marco Polo."
+    ],
+    [
+     "Hân Hân",
+     "Trong các tập du kí của người nước ngoài, Chăm-pa được mô tả là một vương quốc xinh đẹp và giàu có.",
+     "Foreign travel accounts described Champa as a beautiful and wealthy kingdom."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Đền tháp xây bằng gạch nung, gắn kết không dùng vữa – vẫn là bí ẩn",
+    "Hin-đu giáo quan trọng nhất (chủ yếu thờ thần Si-va); Phật giáo phát triển",
+    "Tháp tiêu biểu: Dương Long (Gia Lai), Bà Pô-na-ga, Pô Klong Ga-rai (Khánh Hoà)",
+    "Ca múa: trống, kèn Sa-ra-na; múa lụa, múa quạt, vũ điệu Áp-sa-ra"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tháp Chăm xây bằng gạch nung, gắn kết không dùng vữa, đến nay vẫn là bí ẩn.",
+     "Remember: Cham towers are fired brick joined without mortar, still a mystery today."
+    ],
+    [
+     "Hân Hân",
+     "Hin-đu giáo quan trọng nhất, chủ yếu thờ thần Si-va, Phật giáo cũng phát triển.",
+     "Hinduism, mainly Shiva worship, was most important, and Buddhism also grew."
+    ],
+    [
+     "Nhật Minh",
+     "Tháp tiêu biểu có Dương Long, Bà Pô-na-ga, Pô Klong Ga-rai.",
+     "Notable towers include Dương Long, Po Nagar and Po Klong Garai."
+    ],
+    [
+     "Hân Hân",
+     "Và vũ điệu Áp-sa-ra nổi tiếng cùng tiếng kèn Sa-ra-na.",
+     "And the famous Apsara dance, with the saranai horn."
+    ]
+   ],
+   "nguon_trang": [
+    92,
+    93
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại chân tháp Pô Klong Ga-rai lúc hoàng hôn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, người Chăm đã dùng chất gì để gắn gạch? Hãy tìm hiểu và bình luận giả thuyết của cậu nhé!",
+     "Your challenge: what do you think the Cham used to bind their bricks? Research it and share your theory in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tôn giáo có vị trí quan trọng nhất ở Chăm-pa thời kì này là",
+   "dap_an": [
+    "Phật giáo",
+    "Hin-đu giáo",
+    "Hồi giáo",
+    "Thiên Chúa giáo"
+   ],
+   "dung": 1,
+   "trang": 92
+  },
+  {
+   "hoi": "Tháp Pô Klong Ga-rai được xây dựng vào khoảng thời gian nào?",
+   "dap_an": [
+    "Thế kỉ VI",
+    "Cuối thế kỉ XIII – đầu thế kỉ XIV",
+    "Thế kỉ XVI",
+    "Thế kỉ XIX"
+   ],
+   "dung": 1,
+   "trang": 93
+  },
+  {
+   "hoi": "Nhạc cụ nào được người Chăm sử dụng trong biểu diễn ca múa nhạc?",
+   "dap_an": [
+    "Kèn Sa-ra-na",
+    "Đàn tranh",
+    "Khèn",
+    "Đàn bầu"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Nhà du hành nổi tiếng thế giới nào từng dừng chân ở Chăm-pa?",
+   "dap_an": [
+    "Mác-cô Pô-lô",
+    "C. Cô-lôm-bô",
+    "V. Ga-ma",
+    "Pháp Hiên"
+   ],
+   "dung": 0,
+   "trang": 92
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 92 (Em có biết: gạch không dùng vữa, bí ẩn chất kết dính; Mác-cô Pô-lô, vương quốc xinh đẹp giàu có; văn hoá: Hin-đu giáo thờ Si-va, Phật giáo, tín ngưỡng phồn thực, chữ Chăm, tháp Dương Long – Bà Pô-na-ga – Pô Klong Ga-rai), tr. 93 (Hình 4 tháp Pô Klong Ga-rai cuối thế kỉ XIII – đầu thế kỉ XIV; trống, kèn Sa-ra-na; múa lụa, múa quạt, vũ điệu Áp-sa-ra), tr. 41 (múa hoa Chăm-pa của Lào – dùng trong giải thích câu hỏi). Kiến thức chốt của danh mục khớp SGK; 'Hin-đu giáo và Phật giáo là tôn giáo chính' được nêu đúng thứ bậc SGK (Hin-đu giáo quan trọng nhất).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "ma": "L7-B5-02",
+ "ten_tap": "Thời hoàng kim của Vương triều Gúp-ta",
+ "ten_tap_en": "The Golden Age of the Gupta Dynasty",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 5. Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+  "trang": [
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "san-dra-gup-ta-i",
+  "quan-doi-gup-ta",
+  "nong-dan-an-do",
+  "thuong-nhan-an-do",
+  "tho-thu-cong-an-do",
+  "phap-hien",
+  "nguoi-dan-an-do"
+ ],
+ "nhac": {
+  "tam_trang": "rực rỡ, phương Nam Á (sitar, tabla) nhẹ nhàng; ấm áp ở cảnh đời sống sung túc",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 5, tr. 30.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng thí nghiệm của trường ngày nay; trên bàn là chiếc đĩa có mấy cây đinh sắt gỉ đỏ, bên cạnh máy tính bảng hiển thị ảnh một cột sắt cao đứng giữa sân đền cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đinh sắt để ngoài trời mấy tuần đã gỉ đỏ thế này rồi.",
+     "Leave iron nails outside a few weeks and they rust like this."
+    ],
+    [
+     "Hân Hân",
+     "Vậy mà ở Ấn Độ có một cột sắt không gỉ, đúc từ thế kỉ V! Nó ra đời trong thời hoàng kim của Vương triều Gúp-ta. Đi xem nào!",
+     "Yet India has a rust-free iron pillar cast in the 5th century! It comes from the golden age of the Gupta dynasty. Let's go see!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ IV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, áo khoác) đứng trên sườn núi tuyết Hi-ma-lay-a nhìn xuống đồng bằng xanh mênh mông phía nam, những dòng sông lớn uốn khúc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ấn Độ là một bán đảo lớn ở Nam Á. Phía bắc ngăn cách với bên ngoài bởi dãy Hi-ma-lay-a hùng vĩ, ba mặt còn lại giáp biển.",
+     "India is a large peninsula in South Asia. The mighty Himalayas wall it off in the north, and sea surrounds the other three sides."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thế Ấn Độ được ví như một “tiểu lục địa”, với đồng bằng Ấn – Hằng ở miền Bắc và cao nguyên Đê-can ở miền Tây Nam.",
+     "That's why it's called a 'subcontinent', with the Indus–Ganges plain in the north and the Deccan plateau in the southwest."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "san-dra-gup-ta-i"
+   ],
+   "hinh": "San-đra Gúp-ta I (vẽ theo tượng, phù điêu cổ Ấn Độ: vương miện vàng, khuyên tai lớn, áo choàng lụa) đăng quang trong cung điện cột đá chạm khắc, quần thần cúi chào",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ IV, San-đra Gúp-ta I lên ngôi, thống nhất được đất nước, lập ra Vương triều Gúp-ta.",
+     "In the early 4th century, Chandragupta I took the throne, unified the land and founded the Gupta dynasty."
+    ],
+    [
+     "San-đra Gúp-ta I",
+     "Từ nay, các vùng đất này sẽ thuộc về một mối!",
+     "From now on, these lands shall be one!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-gup-ta"
+   ],
+   "hinh": "Đoàn quân Gúp-ta với voi chiến, cờ lọng hành quân dọc bờ sông Hằng rộng lớn lúc bình minh (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lãnh thổ Ấn Độ được mở rộng hầu khắp lưu vực sông Hằng.",
+     "India's territory spread across almost the whole Ganges basin."
+    ],
+    [
+     "Nhật Minh",
+     "Đến đầu thế kỉ V, vương triều đã thống nhất được phần lớn bán đảo Ấn Độ.",
+     "By the early 5th century, the dynasty had unified most of the Indian peninsula."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã lập ra Vương triều Gúp-ta?",
+    "lua_chon": [
+     "A-cơ-ba",
+     "San-đra Gúp-ta I",
+     "Giay-a-vác-man II"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai đã lập ra Vương triều Gúp-ta?",
+     "Pause! Who founded the Gupta dynasty?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: San-đra Gúp-ta I, vào đầu thế kỉ IV!",
+     "The answer is B: Chandragupta I, in the early 4th century!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-an-do",
+    "thuong-nhan-an-do"
+   ],
+   "hinh": "Hai cảnh nối tiếp: nông dân Ấn Độ dùng lưỡi cày sắt, nước theo kênh mương tưới vào ruộng; bến cảng tấp nập, thương nhân Ấn Độ trao đổi vải, gia vị với thương nhân từ phương xa đến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời kì này, kinh tế Ấn Độ có những tiến bộ vượt bậc. Công cụ bằng sắt được dùng rộng rãi, nhiều công trình thuỷ lợi lớn được xây dựng.",
+     "In this era, India's economy leapt ahead. Iron tools were widely used, and many large irrigation works were built."
+    ],
+    [
+     "Hân Hân",
+     "Buôn bán trong nước được đẩy mạnh. Ấn Độ có quan hệ thương mại với nhiều nước Ả Rập và Đông Nam Á.",
+     "Domestic trade was promoted, and India traded with many Arab and Southeast Asian countries."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong-an-do"
+   ],
+   "hinh": "Những người thợ đúc Ấn Độ cổ đại bên lò nung đỏ rực, cùng dựng một cột sắt cao lớn giữa sân đền; tia lửa bắn lên trong ánh chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc cột sắt không gỉ mà tụi mình nhắc đến được đúc vào thế kỉ V, đúng thời kì này!",
+     "The rust-free iron pillar we mentioned was cast in the 5th century, right in this era!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "phap-hien"
+   ],
+   "hinh": "Nhà sư Pháp Hiên (Trung Quốc; áo cà sa nâu, quẩy hành lí, chống gậy) ngồi ghi chép bên đường trong một thành phố Ấn Độ nguy nga, lâu đài mái vòm, người dân đi lại thong thả",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà sư Pháp Hiên của Trung Quốc đã ghi chép về Ấn Độ thế kỉ V trong cuốn “Phật quốc kí”.",
+     "The Chinese monk Faxian wrote about 5th-century India in his book 'A Record of Buddhist Kingdoms'."
+    ],
+    [
+     "Pháp Hiên",
+     "Pháp luật khoan hoà, dân chúng sung túc và tự do. Thành phố, lâu đài thật nguy nga, tráng lệ!",
+     "The laws are gentle, the people prosperous and free. The cities and palaces are truly magnificent!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dan-an-do"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi trên đường phố Ấn Độ thời Gúp-ta, dừng trước một nhà an dưỡng và bệnh xá mái vòm, người dân được chăm sóc, trẻ em vui chơi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà vua còn quan tâm đến dân chúng qua việc lập các nhà an dưỡng, bệnh xá.",
+     "The king also cared for his people by building rest homes and clinics."
+    ],
+    [
+     "Nhật Minh",
+     "Đời sống người dân ổn định, sung túc hơn tất cả các thời trước. Vì vậy, thời kì này được gọi là thời hoàng kim.",
+     "People's lives were more stable and prosperous than ever before. That's why this era is called the golden age."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao thời Vương triều Gúp-ta được gọi là thời hoàng kim?",
+    "lua_chon": [
+     "Đời sống người dân ổn định, sung túc hơn các thời trước",
+     "Vì vua cho đúc nhiều tiền vàng",
+     "Vì Ấn Độ chinh phục được Trung Quốc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao thời Gúp-ta được gọi là thời hoàng kim?",
+     "Quick test! Why is the Gupta era called the golden age?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: đời sống người dân ổn định, sung túc hơn tất cả các thời trước đó!",
+     "The answer is A: people lived more stably and prosperously than in any earlier time!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Đầu thế kỉ IV: San-đra Gúp-ta I thống nhất đất nước, lập Vương triều Gúp-ta",
+    "Đầu thế kỉ V: thống nhất phần lớn bán đảo Ấn Độ",
+    "Công cụ sắt, thuỷ lợi lớn, buôn bán với Ả Rập và Đông Nam Á",
+    "Đời sống sung túc nhất từ trước đến đó – thời hoàng kim"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: đầu thế kỉ IV, San-đra Gúp-ta I thống nhất đất nước, lập Vương triều Gúp-ta.",
+     "Remember: in the early 4th century, Chandragupta I unified the land and founded the Gupta dynasty."
+    ],
+    [
+     "Hân Hân",
+     "Đến đầu thế kỉ V, vương triều thống nhất phần lớn bán đảo Ấn Độ.",
+     "By the early 5th century, it unified most of the peninsula."
+    ],
+    [
+     "Nhật Minh",
+     "Công cụ sắt, thuỷ lợi lớn, buôn bán với Ả Rập và Đông Nam Á phát triển.",
+     "Iron tools, big irrigation works and trade with Arabia and Southeast Asia flourished."
+    ],
+    [
+     "Hân Hân",
+     "Đời sống sung túc, nên đó là thời hoàng kim của Ấn Độ.",
+     "Life was prosperous, so it was India's golden age."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại phòng thí nghiệm, Nhật Minh cầm cây đinh gỉ, Hân Hân chỉ ảnh cột sắt trên máy tính bảng, cả hai nhìn về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, chiếc cột sắt không gỉ nói lên điều gì về trình độ của người Ấn Độ thời Gúp-ta? Bình luận nhé!",
+     "Your challenge: what does the rust-free iron pillar tell us about the skills of Gupta-era Indians? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ấn Độ được ví như một “tiểu lục địa” vì",
+   "dap_an": [
+    "Phía bắc có dãy Hi-ma-lay-a ngăn cách, ba mặt còn lại giáp biển",
+    "Có diện tích lớn nhất châu Á",
+    "Nằm giữa hai đại dương lớn nhất",
+    "Có nhiều sa mạc"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Đến đầu thế kỉ V, Vương triều Gúp-ta đã",
+   "dap_an": [
+    "Thống nhất phần lớn bán đảo Ấn Độ",
+    "Bị người Hồi giáo lật đổ",
+    "Chinh phục Đông Nam Á",
+    "Chia thành 15 tỉnh"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Nhà sư nào của Trung Quốc ghi chép về Ấn Độ thế kỉ V trong cuốn “Phật quốc kí”?",
+   "dap_an": [
+    "Lý Bạch",
+    "Pháp Hiên",
+    "Đỗ Phủ",
+    "Nguyễn An"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Thành tựu kĩ thuật nổi bật được đúc vào thế kỉ V ở Ấn Độ là",
+   "dap_an": [
+    "Cột sắt không gỉ",
+    "Súng thần cơ",
+    "La bàn",
+    "Máy hơi nước"
+   ],
+   "dung": 0,
+   "trang": 30
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 30 (điều kiện tự nhiên; mục a Vương triều Gúp-ta; Hình 2 cột sắt không gỉ thế kỉ V; tư liệu 1 'Phật quốc kí' của Pháp Hiên). Đã chỉnh kiến thức chốt của danh mục: SGK viết San-đra Gúp-ta I lập vương triều đầu thế kỉ IV, còn 'thống nhất phần lớn bán đảo' là đến đầu thế kỉ V (không phải 'hầu hết bán đảo' ngay khi thành lập). Danh mục đề xuất bản đồ mở rộng lãnh thổ nhưng SGK không có lược đồ cho mục này → dùng thẻ ghi nhớ. Lời San-đra Gúp-ta I là lời dựng; lời Pháp Hiên diễn đạt lại tư liệu 1 SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

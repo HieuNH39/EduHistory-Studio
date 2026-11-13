@@ -1,0 +1,397 @@
+{
+ "ma": "L7-B10-02",
+ "ten_tap": "Lê Hoàn và chiến thắng Bạch Đằng vang dội",
+ "ten_tap_en": "Lê Hoàn and the Resounding Victory over the Song",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 10. Đại Cồ Việt thời Đinh và Tiền Lê (968 – 1009)",
+  "trang": [
+   48,
+   49
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "dinh-toan",
+  "le-hoan",
+  "trieu-than-nha-dinh",
+  "quan-doi-dai-co-viet",
+  "quan-tong"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng ở phần mở đầu, hào hùng với trống trận ở cảnh giao chiến, tự hào ở đoạn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 10, tr. 48–49.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê nhìn ra cửa sông Bạch Đằng rộng lớn ngày nay, thuyền máy xuôi ngược, núi đá xa xa, trời chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dòng sông Bạch Đằng từng chứng kiến nhiều trận đánh lớn của cha ông ta.",
+     "The Bạch Đằng River has witnessed many great battles of our ancestors."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 981, Lê Hoàn lãnh đạo quân dân Đại Cồ Việt đánh tan quân Tống, ở cả Bạch Đằng và nhiều nơi khác. Về năm ấy xem nào!",
+     "In 981, Lê Hoàn led Đại Cồ Việt to crush the Song army, at Bạch Đằng and many other places. Let's go back!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "979",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-toan",
+    "le-hoan",
+    "trieu-than-nha-dinh"
+   ],
+   "hinh": "Cung điện Hoa Lư phủ khăn tang trắng: cậu bé vua Đinh Toàn ngồi trên ngai rộng, bên cạnh là Lê Hoàn đứng phò tá; các quan lo lắng thì thầm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối năm 979, Đinh Tiên Hoàng và con trai trưởng là Đinh Liễn bị ám sát. Con thứ là Đinh Toàn mới 6 tuổi lên nối ngôi.",
+     "In late 979, Đinh Tiên Hoàng and his eldest son Đinh Liễn were assassinated. The younger son Đinh Toàn, only 6, took the throne."
+    ],
+    [
+     "Hân Hân",
+     "Lê Hoàn được cử làm Phụ chính. Nhân cơ hội đó, nhà Tống âm mưu xâm lược Đại Cồ Việt.",
+     "Lê Hoàn was made regent. Seizing the moment, the Song plotted to invade Đại Cồ Việt."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-hoan"
+   ],
+   "hinh": "Lê Hoàn (vẽ theo tượng thờ: mặt chữ điền, râu quai nón, mũ trụ, áo giáp vàng) đứng trên đài cao duyệt binh, cờ đỏ phần phật",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lê Hoàn quê ở Ái Châu, tỉnh Thanh Hoá. Bố mẹ mất sớm, ông được một viên quan họ Lê nhận làm con nuôi.",
+     "Lê Hoàn came from Ái Châu, in Thanh Hoá. Orphaned young, he was adopted by an official named Lê."
+    ],
+    [
+     "Hân Hân",
+     "Lớn lên, ông giúp Đinh Bộ Lĩnh đánh dẹp 12 sứ quân. Tài giỏi, mưu lược, ông được phong làm Thập đạo tướng quân.",
+     "Grown up, he helped Đinh Bộ Lĩnh subdue the 12 warlords. Able and shrewd, he was named General of the Ten Circuits."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-hoan",
+    "trieu-than-nha-dinh"
+   ],
+   "hinh": "Trong điện, các triều thần quỳ trước Lê Hoàn, dâng áo long bào; Lê Hoàn đứng thẳng, nét mặt quyết đoán",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Triều thần đồng lòng suy tôn Lê Hoàn lên làm vua để lãnh đạo cuộc kháng chiến.",
+     "The court united in raising Lê Hoàn to the throne to lead the resistance."
+    ],
+    [
+     "Triều thần",
+     "Giặc sắp đến, xin tướng quân lên ngôi, cầm quân đánh giặc!",
+     "The enemy is coming. General, take the throne and lead us against them!"
+    ],
+    [
+     "Lê Hoàn",
+     "Ta nhận trọng trách này. Quyết giữ vững bờ cõi Đại Cồ Việt!",
+     "I accept this duty. We will hold the borders of Đại Cồ Việt!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "chong-tong-981",
+   "pha": "tong_tien",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Sa bàn: hai mũi tiến công thuỷ, bộ của quân Tống (vẽ lại theo Hình 1 SGK tr. 49)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 981, quân Tống do Hầu Nhân Bảo làm tổng chỉ huy, theo hai đường thuỷ, bộ tiến đánh Đại Cồ Việt.",
+     "In early 981, the Song army under commander-in-chief Hou Renbao attacked Đại Cồ Việt by river and by land."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai là tổng chỉ huy quân Tống xâm lược Đại Cồ Việt năm 981?",
+    "lua_chon": [
+     "Hầu Nhân Bảo",
+     "Hoằng Tháo",
+     "Thoát Hoan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai là tổng chỉ huy quân Tống năm 981?",
+     "Pause! Who commanded the Song army in 981?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Hầu Nhân Bảo!",
+     "The answer is A: Hou Renbao!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "chong-tong-981",
+   "pha": "chan_danh",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: quân ta chặn đánh, các trận lớn ở Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lê Hoàn trực tiếp tổ chức, lãnh đạo kháng chiến.",
+     "Lê Hoàn personally organised and led the resistance."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều trận chiến ác liệt đã diễn ra ở Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết… khiến quân giặc bị tổn thất nặng nề.",
+     "Fierce battles were fought at Đại La, Lục Đầu Giang, Bạch Đằng and Tây Kết… inflicting heavy losses on the enemy."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-hoan",
+    "quan-doi-dai-co-viet",
+    "quan-tong"
+   ],
+   "hinh": "Trên sông Bạch Đằng, Lê Hoàn đứng ở mũi thuyền chiến chỉ huy; thuyền quân ta từ hai bên lao ra, chiến thuyền quân Tống chao đảo giữa dòng (viễn cảnh, không cận cảnh thương vong)",
+   "loi": [
+    [
+     "Lê Hoàn",
+     "Quyết không để giặc tiến thêm một bước. Đánh!",
+     "Not one more step for the enemy. Attack!"
+    ],
+    [
+     "Nhật Minh",
+     "Quân dân Đại Cồ Việt chiến đấu quyết liệt trên sông nước và trên bộ.",
+     "The soldiers and people of Đại Cồ Việt fought fiercely on the rivers and on land."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "chong-tong-981",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn: quân Tống rút chạy; băng chữ 'Hầu Nhân Bảo tử trận'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tướng Hầu Nhân Bảo tử trận. Quân Tống đại bại, buộc phải rút về nước.",
+     "General Hou Renbao was killed. The Song army was routed and forced to withdraw home."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc kháng chiến thắng lợi vẻ vang đã bảo vệ vững chắc nền độc lập dân tộc, chứng tỏ bước phát triển mới của quốc gia Đại Cồ Việt.",
+     "The glorious victory firmly protected our independence and showed the new strength of Đại Cồ Việt."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ý nghĩa của cuộc kháng chiến chống Tống năm 981 là gì?",
+    "lua_chon": [
+     "Bảo vệ vững chắc nền độc lập dân tộc",
+     "Mở rộng lãnh thổ sang phương Bắc",
+     "Chấm dứt loạn 12 sứ quân"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Cuộc kháng chiến chống Tống năm 981 có ý nghĩa gì?",
+     "Quick test! What did the 981 resistance against the Song achieve?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: bảo vệ vững chắc nền độc lập dân tộc!",
+     "The answer is A: it firmly protected our national independence!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Cuối 979: Đinh Tiên Hoàng bị ám sát; Lê Hoàn được suy tôn làm vua",
+    "Đầu 981: quân Tống (Hầu Nhân Bảo) tiến đánh theo hai đường thuỷ, bộ",
+    "Lê Hoàn trực tiếp lãnh đạo; các trận Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết",
+    "Hầu Nhân Bảo tử trận, quân Tống đại bại; độc lập được bảo vệ vững chắc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cuối năm 979, Đinh Tiên Hoàng bị ám sát, triều thần suy tôn Lê Hoàn làm vua.",
+     "Remember: in late 979, Đinh Tiên Hoàng was assassinated and the court made Lê Hoàn king."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 981, quân Tống do Hầu Nhân Bảo chỉ huy tiến đánh theo hai đường thuỷ, bộ.",
+     "In early 981, the Song under Hou Renbao attacked by river and by land."
+    ],
+    [
+     "Nhật Minh",
+     "Lê Hoàn trực tiếp lãnh đạo, quân ta thắng lớn ở Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết.",
+     "Lê Hoàn led in person, winning big at Đại La, Lục Đầu Giang, Bạch Đằng and Tây Kết."
+    ],
+    [
+     "Hân Hân",
+     "Hầu Nhân Bảo tử trận, quân Tống đại bại, nền độc lập được bảo vệ vững chắc.",
+     "Hou Renbao was killed, the Song were routed, and independence was secured."
+    ]
+   ],
+   "nguon_trang": [
+    48,
+    49
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ đê sông Bạch Đằng lúc hoàng hôn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao triều thần lại đồng lòng suy tôn Lê Hoàn lên làm vua? Bình luận nhé!",
+     "Your challenge: why did the court unite to make Lê Hoàn king? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai được triều thần suy tôn lên làm vua để lãnh đạo kháng chiến chống Tống?",
+   "dap_an": [
+    "Đinh Toàn",
+    "Đinh Liễn",
+    "Lê Hoàn",
+    "Ngô Quyền"
+   ],
+   "dung": 2,
+   "trang": 48
+  },
+  {
+   "hoi": "Đầu năm 981, quân Tống tiến đánh Đại Cồ Việt theo những đường nào?",
+   "dap_an": [
+    "Chỉ đường bộ",
+    "Chỉ đường thuỷ",
+    "Hai đường thuỷ, bộ",
+    "Đường biển phía nam"
+   ],
+   "dung": 2,
+   "trang": 49
+  },
+  {
+   "hoi": "Địa điểm nào KHÔNG được SGK nêu là nơi diễn ra trận chiến năm 981?",
+   "dap_an": [
+    "Đại La",
+    "Lục Đầu Giang",
+    "Tây Kết",
+    "Chi Lăng"
+   ],
+   "dung": 3,
+   "trang": 49
+  },
+  {
+   "hoi": "Sau khi lên ngôi, Lê Hoàn đổi niên hiệu là",
+   "dap_an": [
+    "Thái Bình",
+    "Thiên Phúc",
+    "Thuận Thiên",
+    "Vạn Thắng"
+   ],
+   "dung": 1,
+   "trang": 49
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 48 (cuối năm 979, Đinh Toàn 6 tuổi, Lê Hoàn Phụ chính, triều thần suy tôn; ô Em có biết về Lê Hoàn), tr. 49 (đầu năm 981, Hầu Nhân Bảo, hai đường thuỷ bộ, các trận Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết, kết quả, ý nghĩa; niên hiệu Thiên Phúc; Hình 1 lược đồ). Sa bàn mới chong-tong-981 vẽ lại, giản lược theo Hình 1 tr. 49 (có ô nhỏ Việt Nam với QĐ. Hoàng Sa, Trường Sa như lược đồ). Lưu ý tên tập của danh mục nhấn 'chiến thắng Bạch Đằng', nhưng SGK nêu Bạch Đằng là một trong nhiều trận (Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết) – kịch bản trình bày đúng như SGK. Kiến thức chốt của danh mục khớp SGK. Phương án nhiễu lấy từ SGK (Thái Bình tr. 48, Thuận Thiên tr. 55, Chi Lăng tr. 81). Lời Lê Hoàn, triều thần là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "ma": "L7-B11-02",
+ "ten_tap": "Bộ máy nhà nước và 'Ngụ binh ư nông'",
+ "ten_tap_en": "The Lý State and 'Soldiers Among Farmers'",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+  "trang": [
+   54
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vua-ly",
+  "trieu-than-nha-ly",
+  "quan-lai-nha-ly",
+  "cam-quan-nha-ly",
+  "quan-si-nha-ly",
+  "nong-dan-thoi-ly",
+  "tu-truong-mien-nui"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng nhưng gần gũi (đàn bầu, sáo trúc), vui tươi ở cảnh đồng ruộng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 11, tr. 54.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ ruộng lúa xanh mướt ở vùng quê ngày nay, một bác nông dân đang cày bằng máy phía xa, đê điều chạy dài",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cậu có biết chính sách “ngụ binh ư nông” không? Nghe như vừa làm lính, vừa làm ruộng ấy!",
+     "Have you heard of 'ngụ binh ư nông'? It sounds like being a soldier and a farmer at once!"
+    ],
+    [
+     "Hân Hân",
+     "Đó là chính sách của nhà Lý. Cùng xem nhà Lý tổ chức bộ máy nhà nước và quân đội ra sao nhé!",
+     "That was a Lý dynasty policy. Let's see how the Lý organised their state and army!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Lý",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-ly",
+    "trieu-than-nha-ly"
+   ],
+   "hinh": "Triều đình nhà Lý ở điện Thăng Long: nhà vua ngồi trên ngai rồng, hàng quan văn và hàng quan võ đứng hai bên; một hoàng tử nhỏ đứng cạnh ngai",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý xây dựng hệ thống chính quyền từ Trung ương đến địa phương. Đứng đầu là vua, dưới có các quan đại thần, gồm quan văn và quan võ, giúp việc.",
+     "The Lý built a government from the centre down to the localities. The king was at the top, helped by high officials, civil and military."
+    ],
+    [
+     "Hân Hân",
+     "Vua ở ngôi theo chế độ cha truyền con nối. Những người thân tín được cất nhắc lên nắm các chức vụ cao trong Triều đình.",
+     "The throne passed from father to son, and trusted men were promoted to high posts at court."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-nha-ly"
+   ],
+   "hinh": "Viên quan nhà Lý chỉ vào tấm bản đồ vẽ tay chia thành nhiều vùng lộ, phủ, châu; các viên quan địa phương nhận lệnh, phía sau là cảnh làng xã",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý chia cả nước thành 24 lộ, phủ; ở miền núi gọi là châu.",
+     "The Lý divided the country into 24 circuits and prefectures; in the mountains they were called châu."
+    ],
+    [
+     "Hân Hân",
+     "Dưới lộ, phủ, châu là hương, huyện. Đơn vị cấp cơ sở là xã.",
+     "Below them came districts, and the basic unit was the commune."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Lý chia cả nước thành bao nhiêu lộ, phủ?",
+    "lua_chon": [
+     "10 lộ, phủ",
+     "12 lộ, phủ",
+     "24 lộ, phủ"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nhà Lý chia cả nước thành bao nhiêu lộ, phủ?",
+     "Pause! Into how many circuits and prefectures did the Lý divide the country?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: 24 lộ, phủ!",
+     "The answer is C: 24!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-nha-ly"
+   ],
+   "hinh": "Trong điện, các viên quan cẩn thận chép bộ luật lên những cuộn giấy dài; nhà vua cầm một cuộn đọc lại; ngoài cửa, dân chúng tụ tập nghe công bố luật",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1042, bộ Hình thư được ban hành. Đây là bộ luật thành văn đầu tiên của nước ta.",
+     "In 1042, the Hình thư was issued. It was our country's first written law code."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cam-quan-nha-ly",
+    "quan-si-nha-ly"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở rìa bãi tập: cấm quân giáp trụ luyện tập trước cổng kinh thành; phía xa, những người lính khác cởi giáp, vác cày, dắt trâu về làng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân đội nhà Lý được huấn luyện chu đáo, gồm hai bộ phận. Cấm quân được tuyển chọn chặt chẽ, bảo vệ nhà vua và kinh thành.",
+     "The Lý army was well trained and had two parts. The palace guard, carefully selected, protected the king and the capital."
+    ],
+    [
+     "Hân Hân",
+     "Quân địa phương được tuyển từ các làng xã, bảo vệ các lộ, phủ và được huy động khi đất nước có chiến tranh.",
+     "Local troops, drawn from the villages, guarded the provinces and were called up in wartime."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-si-nha-ly",
+    "nong-dan-thoi-ly"
+   ],
+   "hinh": "Người lính trẻ dựng giáo bên gốc tre, xắn quần lội ruộng cày cùng gia đình; cuốn sổ ghi tên quân sĩ đặt trên bàn ở đình làng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý thi hành chính sách “ngụ binh ư nông”, tức là “gửi lính ở nhà nông”.",
+     "The Lý followed the policy of 'ngụ binh ư nông': 'keeping soldiers among the farmers'."
+    ],
+    [
+     "Hân Hân",
+     "Quân sĩ luân phiên về làm ruộng. Thanh niên đăng kí tên vào sổ nhưng vẫn ở nhà sản xuất, khi cần Triều đình sẽ huy động tham gia quân đội.",
+     "Soldiers took turns going home to farm. Young men registered their names but stayed home working, and the court called them up when needed."
+    ],
+    [
+     "Quân sĩ",
+     "Hết phiên, ta về cày ruộng. Triều đình gọi, ta lại cầm giáo!",
+     "When my turn ends, I go home to plough. When the court calls, I take up my spear again!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "“Ngụ binh ư nông” có nghĩa là gì?",
+    "lua_chon": [
+     "Gửi lính ở nhà nông",
+     "Chỉ tuyển lính ở kinh thành",
+     "Bỏ hẳn quân đội"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! “Ngụ binh ư nông” có nghĩa là gì?",
+     "Quick test! What does 'ngụ binh ư nông' mean?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: gửi lính ở nhà nông!",
+     "The answer is A: keeping soldiers among the farmers!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-ly",
+    "tu-truong-mien-nui"
+   ],
+   "hinh": "Lễ cưới trên vùng núi: công chúa nhà Lý ngồi kiệu hoa đến bản làng của một tù trưởng, dân bản múa hát chào đón; xa xa là đoàn sứ giả mang lễ vật đi về phương Bắc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để củng cố khối đoàn kết, nhà Lý thực hiện chính sách mềm dẻo, khôn khéo. Vua Lý Công Uẩn đã gả con gái cho tù trưởng Giáp Thừa Quý ở Lạng Châu.",
+     "To strengthen unity, the Lý used flexible, skilful policies. King Lý Công Uẩn married his daughter to chieftain Giáp Thừa Quý of Lạng Châu."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng nhà Lý cũng kiên quyết trấn áp những thế lực mưu đồ tách khỏi Đại Việt. Nhà Lý giữ quan hệ hoà hiếu với nhà Tống, dẹp tan cuộc tấn công của Chăm-pa.",
+     "But they firmly crushed any forces trying to break away from Đại Việt. The Lý kept peaceful ties with the Song and defeated Champa's attack."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-ly",
+    "nong-dan-thoi-ly"
+   ],
+   "hinh": "Nhà vua nhà Lý cầm cày trên thửa ruộng tịch điền đầu xuân, quan lại và dân làng đứng xem; xa xa dân phu đắp đê, đào kênh, trâu bò gặm cỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý còn thúc đẩy nông nghiệp bằng nhiều biện pháp: cày ruộng tịch điền, bảo vệ trâu bò, khai khẩn đất hoang, đào kênh mương, đắp đê phòng lụt.",
+     "The Lý also boosted farming in many ways: ceremonial ploughing, protecting cattle, clearing new land, digging canals and building dykes against floods."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ vậy, nhiều năm mùa màng bội thu.",
+     "As a result, there were many bumper harvests."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Vua đứng đầu, cha truyền con nối; quan văn, quan võ giúp việc",
+    "Cả nước chia thành 24 lộ, phủ (miền núi gọi là châu); cơ sở là xã",
+    "Năm 1042: bộ Hình thư – bộ luật thành văn đầu tiên",
+    "Quân đội: cấm quân và quân địa phương; chính sách “ngụ binh ư nông”"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: vua đứng đầu, ở ngôi cha truyền con nối, có quan văn, quan võ giúp việc.",
+     "Remember: the king ruled, succeeded father to son, assisted by civil and military officials."
+    ],
+    [
+     "Hân Hân",
+     "Cả nước chia thành 24 lộ, phủ, miền núi gọi là châu, đơn vị cơ sở là xã.",
+     "The country had 24 circuits and prefectures, called châu in the mountains, with communes at the base."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1042, bộ Hình thư ra đời, là bộ luật thành văn đầu tiên.",
+     "In 1042 came the Hình thư, the first written law code."
+    ],
+    [
+     "Hân Hân",
+     "Quân đội có cấm quân và quân địa phương, theo chính sách ngụ binh ư nông.",
+     "The army had palace guards and local troops, under the 'soldiers among farmers' policy."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ ruộng ngày nay, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, chính sách “ngụ binh ư nông” có lợi gì cho đất nước? Bình luận nhé!",
+     "Your challenge: how do you think 'soldiers among farmers' helped the country? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Bộ luật thành văn đầu tiên của nước ta, ban hành năm 1042, là",
+   "dap_an": [
+    "Quốc triều hình luật",
+    "Hình thư",
+    "Si-va-sa-xa-na",
+    "Hồng Đức"
+   ],
+   "dung": 1,
+   "trang": 54
+  },
+  {
+   "hoi": "Cấm quân thời Lý có nhiệm vụ gì?",
+   "dap_an": [
+    "Bảo vệ nhà vua và kinh thành",
+    "Bảo vệ các lộ, phủ",
+    "Làm ruộng tịch điền",
+    "Đi sứ nhà Tống"
+   ],
+   "dung": 0,
+   "trang": 54
+  },
+  {
+   "hoi": "Ở miền núi, đơn vị hành chính tương đương lộ, phủ thời Lý gọi là",
+   "dap_an": [
+    "Đạo",
+    "Giáp",
+    "Châu",
+    "Xã"
+   ],
+   "dung": 2,
+   "trang": 54
+  },
+  {
+   "hoi": "Vua Lý Công Uẩn gả con gái cho tù trưởng Giáp Thừa Quý ở Lạng Châu thể hiện chính sách gì?",
+   "dap_an": [
+    "Mềm dẻo, khôn khéo để củng cố khối đoàn kết",
+    "Xâm lược miền núi",
+    "Hoà hiếu với nhà Tống",
+    "Ngụ binh ư nông"
+   ],
+   "dung": 0,
+   "trang": 54
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 54 (mục 2a tổ chức chính quyền, 24 lộ phủ, châu, hương huyện, xã; 2b Hình thư 1042, quân đội, ô giải thích 'ngụ binh ư nông'; 2c đối nội, tư liệu 2 về Giáp Thừa Quý; đối ngoại; mục 3a nông nghiệp). Đã chỉnh kiến thức chốt của danh mục: SGK không dùng cụm 'trung ương tập quyền' ở mục này mà viết 'xây dựng hệ thống chính quyền từ Trung ương đến địa phương'; tác dụng của 'ngụ binh ư nông' được diễn đạt đúng theo định nghĩa SGK (luân phiên làm ruộng, khi cần mới huy động), không thêm nhận định 'quân đội mạnh'. Lời quân sĩ là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

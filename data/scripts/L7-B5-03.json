@@ -1,0 +1,400 @@
+{
+ "ma": "L7-B5-03",
+ "ten_tap": "Vương triều Đê-li: Sự giao thoa và mâu thuẫn",
+ "ten_tap_en": "The Delhi Sultanate: Blending and Conflict",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 5. Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+  "trang": [
+   30,
+   31,
+   32
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tuong-linh-hoi-giao",
+  "vua-de-li",
+  "ba-ran",
+  "nong-dan-an-do",
+  "thuong-nhan-an-do",
+  "nhan-dan-an-do"
+ ],
+ "nhac": {
+  "tam_trang": "phương Nam Á (sitar, trống tabla), có lúc căng thẳng ở cảnh mâu thuẫn, lắng lại ở đoạn kết",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 5, tr. 30–32.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở gian Ấn Độ trong ngày hội văn hoá các nước của trường ngày nay: bảng ghép ảnh một ngôi đền Hin-đu nhiều tầng chạm khắc và một công trình mái vòm của đạo Hồi, đèn lồng, khăn sari treo xung quanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ảnh bên này là đền Hin-đu, bên kia là công trình của đạo Hồi. Ở Ấn Độ có cả hai tôn giáo này cùng phát triển.",
+     "This photo is a Hindu temple, that one an Islamic building. In India, both religions have flourished."
+    ],
+    [
+     "Nhật Minh",
+     "Đạo Hồi phát triển thành một tôn giáo lớn ở Ấn Độ từ thời Vương triều Đê-li. Một thời giao thoa nhưng cũng đầy mâu thuẫn. Đi xem nào!",
+     "Islam grew into a major religion in India from the Delhi Sultanate onward. An age of blending, but also of conflict. Let's go see!"
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tuong-linh-hoi-giao"
+   ],
+   "hinh": "Đoàn kị binh Hồi giáo gốc Thổ Nhĩ Kỳ khăn xếp, áo giáp xích, cờ phướn xanh, phi ngựa qua vùng đồng bằng khô miền Bắc Ấn Độ (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XII, người Hồi giáo gốc Thổ Nhĩ Kỳ đã xâm nhập, chiếm miền Bắc Ấn Độ.",
+     "From the late 12th century, Muslim Turks pushed in and seized northern India."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1206, họ lập nên Vương triều Hồi giáo Đê-li.",
+     "In 1206, they founded the Delhi Sultanate."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-de-li",
+    "tuong-linh-hoi-giao"
+   ],
+   "hinh": "Trong cung điện Đê-li mái vòm, vị vua Hồi giáo ngồi trên ngai cao, các tướng lĩnh khăn xếp đứng gần; vài viên chức người Hin-đu đứng xa ở cuối điện",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà vua có quyền lực cao nhất. Ấn Độ được chia thành nhiều khu vực hành chính do các tướng lĩnh Hồi giáo cai quản.",
+     "The sultan held supreme power. India was divided into many administrative regions run by Muslim generals."
+    ],
+    [
+     "Vua Đê-li",
+     "Các tướng lĩnh của ta sẽ cai quản các vùng đất này!",
+     "My generals shall govern these lands!"
+    ],
+    [
+     "Hân Hân",
+     "Còn các tín đồ Hin-đu giáo chỉ được giữ những chức vụ không quan trọng.",
+     "Hindus were allowed only minor posts."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương triều Hồi giáo Đê-li được thành lập năm nào?",
+    "lua_chon": [
+     "Năm 1206",
+     "Năm 1556",
+     "Năm 1605"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vương triều Hồi giáo Đê-li được thành lập năm nào?",
+     "Pause! When was the Delhi Sultanate founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 1206!",
+     "The answer is A: 1206!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tuong-linh-hoi-giao"
+   ],
+   "hinh": "Đạo quân của vua Đê-li với voi chiến tiến về phía nam qua những ngọn đồi đá của cao nguyên, xa xa là thành quách của các tiểu quốc (viễn cảnh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà vua Hồi giáo còn tiến hành xâm chiếm các tiểu quốc ở Nam Ấn, với hi vọng thành lập một đế quốc Hồi giáo.",
+     "The sultan also attacked the small kingdoms of the south, hoping to found a Muslim empire."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ba-ran",
+    "nong-dan-an-do"
+   ],
+   "hinh": "Ba-ran (người Ấn Độ thời đó; áo dài trắng, khăn quấn đầu) đứng trên bờ ruộng nhìn những cánh đồng lúa xanh nối liền nhau, vườn cây và làng mạc san sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong nông nghiệp, nghề trồng lúa vẫn giữ vai trò quan trọng và được nhà nước khuyến khích phát triển.",
+     "In farming, rice growing stayed important and was encouraged by the state."
+    ],
+    [
+     "Ba-ran",
+     "Các vùng trở nên phồn thịnh. Ruộng đồng nối với ruộng đồng, vườn tược nối với vườn tược, làng ấp nối liền với làng ấp!",
+     "The regions grew prosperous. Field joined field, garden joined garden, village joined village!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-an-do"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một hải cảng Ấn Độ thời Đê-li: tàu buồm nhiều kiểu cập bến, thương nhân mặc trang phục khác nhau trao đổi vải bông, gia vị, đồ gốm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thủ công nghiệp và thương nghiệp tiếp tục phát triển, nhiều thành thị mới xuất hiện.",
+     "Crafts and trade kept growing, and many new towns appeared."
+    ],
+    [
+     "Nhật Minh",
+     "Một số hải cảng được xây dựng để buôn bán với Trung Quốc, các nước Đông Nam Á, phương Tây và Ả Rập.",
+     "Some seaports were built to trade with China, Southeast Asia, the West and Arabia."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-an-do"
+   ],
+   "hinh": "Quảng trường làng Ấn Độ: đám đông dân chúng tụ tập, giơ tay phản đối trước toà nhà của viên quan triều đình; không khí căng thẳng (không cảnh bạo lực)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các ông vua đã cố gắng thực thi nhiều chính sách mềm mỏng để giữ yên đất nước.",
+     "The sultans tried many gentle policies to keep the country calm."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng sự phân biệt sắc tộc và tôn giáo không thể làm tan đi nỗi bất bình trong nhân dân. Mâu thuẫn dân tộc gay gắt làm bùng nổ các cuộc đấu tranh chống lại triều đình.",
+     "But ethnic and religious discrimination couldn't dissolve the people's resentment. Sharp ethnic conflict sparked uprisings against the court."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao dưới thời Đê-li bùng nổ các cuộc đấu tranh của nhân dân?",
+    "lua_chon": [
+     "Phân biệt sắc tộc, tôn giáo gây mâu thuẫn dân tộc gay gắt",
+     "Thực dân Anh sang xâm lược",
+     "Nông nghiệp bị bỏ bê hoàn toàn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao dưới thời Đê-li bùng nổ các cuộc đấu tranh của nhân dân?",
+     "Quick test! Why did uprisings break out under the Delhi Sultanate?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: sự phân biệt sắc tộc, tôn giáo khiến mâu thuẫn dân tộc trở nên gay gắt!",
+     "The answer is A: ethnic and religious discrimination made ethnic conflict very sharp!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-an-do"
+   ],
+   "hinh": "Toàn cảnh một thành phố Ấn Độ: mái vòm và tháp của đạo Hồi đứng cạnh những ngôi đền Hin-đu chạm khắc, người dân hai tôn giáo cùng đi qua khu chợ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đạo Hồi được du nhập và phát triển thành một tôn giáo lớn ở Ấn Độ từ thời Vương triều Đê-li.",
+     "Islam arrived and grew into a major religion in India from the Delhi Sultanate on."
+    ],
+    [
+     "Hân Hân",
+     "Kiến trúc Ấn Độ chịu ảnh hưởng sâu sắc của ba tôn giáo lớn: Phật giáo, Hin-đu giáo và Hồi giáo. Đến đầu thế kỉ XVI, Vương triều Đê-li bị lật đổ.",
+     "Indian architecture was deeply shaped by three great religions: Buddhism, Hinduism and Islam. In the early 16th century, the Delhi Sultanate was overthrown."
+    ]
+   ],
+   "nguon_trang": [
+    31,
+    32
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "1206: người Hồi giáo gốc Thổ Nhĩ Kỳ lập Vương triều Hồi giáo Đê-li",
+    "Tướng lĩnh Hồi giáo cai quản các vùng; người Hin-đu chỉ giữ chức không quan trọng",
+    "Nông nghiệp trồng lúa được khuyến khích; thủ công, thương nghiệp, hải cảng phát triển",
+    "Phân biệt sắc tộc, tôn giáo → mâu thuẫn dân tộc, đấu tranh chống triều đình"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1206, người Hồi giáo gốc Thổ Nhĩ Kỳ lập Vương triều Hồi giáo Đê-li.",
+     "Remember: in 1206, Muslim Turks founded the Delhi Sultanate."
+    ],
+    [
+     "Hân Hân",
+     "Tướng lĩnh Hồi giáo cai quản các vùng, người Hin-đu chỉ giữ chức không quan trọng.",
+     "Muslim generals ran the regions; Hindus held only minor posts."
+    ],
+    [
+     "Nhật Minh",
+     "Nông nghiệp, thủ công, thương nghiệp phát triển, có cả hải cảng buôn bán xa.",
+     "Farming, crafts and trade grew, with seaports trading far and wide."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng sự phân biệt sắc tộc, tôn giáo dẫn đến mâu thuẫn dân tộc và các cuộc đấu tranh.",
+     "But ethnic and religious discrimination led to conflict and uprisings."
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại gian Ấn Độ trong ngày hội văn hoá, đứng giữa hai tấm ảnh đền Hin-đu và công trình Hồi giáo, nhìn về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thời Đê-li có những điểm “giao thoa” và những điểm “mâu thuẫn” nào? Bình luận nhé!",
+     "Your challenge: what 'blending' and what 'conflict' marked the Delhi era? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương triều Hồi giáo Đê-li do ai lập nên?",
+   "dap_an": [
+    "Người Hồi giáo gốc Thổ Nhĩ Kỳ",
+    "Người Hồi giáo tự nhận dòng dõi Mông Cổ",
+    "Người Hin-đu ở Nam Ấn",
+    "Người Anh"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Dưới thời Đê-li, các tín đồ Hin-đu giáo",
+   "dap_an": [
+    "Giữ các chức vụ cao nhất",
+    "Chỉ được giữ các chức vụ không quan trọng",
+    "Cai quản các khu vực hành chính",
+    "Không được làm ruộng"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Câu “Ruộng đồng nối với ruộng đồng, vườn tược nối với vườn tược” là nhận xét của ai?",
+   "dap_an": [
+    "Pháp Hiên",
+    "Ba-ran",
+    "A-cơ-ba",
+    "Ka-li-đa-sa"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Tôn giáo nào phát triển thành một tôn giáo lớn ở Ấn Độ từ thời Vương triều Đê-li?",
+   "dap_an": [
+    "Phật giáo",
+    "Hin-đu giáo",
+    "Hồi giáo",
+    "Thiên Chúa giáo"
+   ],
+   "dung": 2,
+   "trang": 32
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 30 (mục b: Vương triều Hồi giáo Đê-li 1206, chính trị, nông nghiệp; tư liệu 2 lời Ba-ran), tr. 31 (thủ công, thương nghiệp, hải cảng, mâu thuẫn dân tộc; Mô-gôn lật đổ Đê-li đầu thế kỉ XVI), tr. 32 (đạo Hồi phát triển thành tôn giáo lớn từ thời Đê-li; kiến trúc chịu ảnh hưởng ba tôn giáo). Kiến thức chốt của danh mục khớp SGK ('thương nghiệp biển' hiểu theo câu 'một số hải cảng được xây dựng'). Lời vua Đê-li là lời dựng; lời Ba-ran đúng tư liệu SGK. Phương án 'Ka-li-đa-sa' lấy từ tr. 32.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "ma": "L7-B12-01",
+ "ten_tap": "Tiên phát chế nhân: Đánh trước để tự vệ",
+ "ten_tap_en": "Strike First to Defend",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+  "trang": [
+   58,
+   59
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "vua-ly",
+  "ly-thuong-kiet",
+  "trieu-than-nha-ly",
+  "tuong-linh-nha-ly",
+  "quan-doi-nha-ly"
+ ],
+ "nhac": {
+  "tam_trang": "hùng tráng, quyết đoán (trống trận, kèn); dồn dập ở cảnh tiến quân",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 12, tr. 58–59.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước tượng đài Thái uý Lý Thường Kiệt ở tỉnh Bắc Ninh ngày nay: tượng võ tướng mặc giáp, tay cầm kiếm, đứng trên bệ cao giữa quảng trường, trời xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là tượng đài Thái uý Lý Thường Kiệt ở tỉnh Bắc Ninh.",
+     "This is the statue of Grand Commandant Lý Thường Kiệt in Bắc Ninh province."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1075, ông đã làm một việc rất táo bạo: đem quân đánh sang đất Tống trước khi giặc kịp kéo sang. Cùng xem nhé!",
+     "In 1075, he did something very bold: he struck into Song territory before the enemy could invade. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-ly",
+    "ly-thuong-kiet",
+    "trieu-than-nha-ly"
+   ],
+   "hinh": "Triều đình nhà Lý: nhà vua trao ấn kiếm cho Lý Thường Kiệt quỳ nhận giữa điện, các quan đứng hai bên; trên bàn là tấm bản đồ biên giới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ XI, nhà Tống thực hiện âm mưu xâm lược Đại Việt.",
+     "In the late 11th century, the Song plotted to invade Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Triều đình nhà Lý cử Lý Thường Kiệt làm Tổng chỉ huy lãnh đạo kháng chiến. Ông chủ động làm thất bại ý đồ phối hợp tiến công của nhà Tống với Chăm-pa.",
+     "The Lý court made Lý Thường Kiệt commander-in-chief of the resistance. He moved first to foil the Song plan to attack together with Champa."
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet"
+   ],
+   "hinh": "Hai cảnh nối tiếp: chàng trai Ngô Tuấn chong đèn đọc binh thư, rồi luyện võ múa kiếm ngoài sân; sau đó Lý Thường Kiệt (vẽ theo tượng đài: râu dài, mũ trụ, áo giáp) được nhà vua phong chức giữa triều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lý Thường Kiệt, sinh năm 1019, mất năm 1105, tên thật là Ngô Tuấn, quê ở phường Thái Hoà, kinh thành Thăng Long.",
+     "Lý Thường Kiệt, born in 1019 and died in 1105, was born Ngô Tuấn, from Thái Hoà ward in the capital Thăng Long."
+    ],
+    [
+     "Hân Hân",
+     "Ông sớm có chí hướng, ham đọc binh thư, luyện tập võ nghệ. Vua Lý Thánh Tông phong ông làm Phụ quốc Thái uý và cho đổi sang họ vua.",
+     "He was ambitious from youth, loved military books and trained in martial arts. King Lý Thánh Tông made him Grand Commandant and gave him the royal surname."
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet",
+    "tuong-linh-nha-ly"
+   ],
+   "hinh": "Trong lều chỉ huy dưới ánh đuốc, Lý Thường Kiệt đập tay lên tấm bản đồ, các tướng lĩnh quây quanh lắng nghe, nét mặt quyết tâm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi ổn định được biên giới phía Nam, Lý Thường Kiệt nhận định:",
+     "After securing the southern border, Lý Thường Kiệt declared:"
+    ],
+    [
+     "Lý Thường Kiệt",
+     "Ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc!",
+     "Sitting and waiting for the enemy is worse than striking first to break their strength!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chủ trương của Lý Thường Kiệt năm 1075 là gì?",
+    "lua_chon": [
+     "Tiến công trước để tự vệ",
+     "Ngồi yên đợi giặc",
+     "Cầu hoà với nhà Tống"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chủ trương của Lý Thường Kiệt năm 1075 là gì?",
+     "Pause! What was Lý Thường Kiệt's strategy in 1075?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tiến công trước để tự vệ!",
+     "The answer is A: attack first in order to defend!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "tien-cong-1075",
+   "pha": "tien_cong",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn: các mũi tiến công của quân Lý năm 1075 vào đất Tống (vẽ lại theo Hình 2 SGK)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1075, Lý Thường Kiệt đích thân chỉ huy hơn 10 vạn quân thuỷ, bộ, chia làm hai đạo tiến vào đất Tống.",
+     "In October 1075, Lý Thường Kiệt personally led more than 100,000 troops by river and land, in two columns, into Song territory."
+    ],
+    [
+     "Nhật Minh",
+     "Ông chủ động thực hiện chủ trương “tiến công trước để tự vệ”.",
+     "He took the initiative with his strategy of 'attacking first to defend'."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-nha-ly"
+   ],
+   "hinh": "Đêm tối, Nhật Minh và Hân Hân (đồng phục FPT) đứng trên gò cao nhìn đoàn quân nhà Lý: một cánh bộ binh đuốc sáng nối dài qua đèo núi, một cánh thuyền chiến căng buồm ra biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một cánh đi đường bộ qua núi, một cánh đi đường thuỷ theo biển. Khí thế quá!",
+     "One column marches over the mountains, another sails by sea. What spirit!"
+    ],
+    [
+     "Hân Hân",
+     "Nhà Tống chắc không ngờ quân Đại Việt lại tiến sang trước như thế này.",
+     "The Song surely never expected Đại Việt's army to strike first like this."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "tien-cong-1075",
+   "pha": "ung_chau",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn: sao chiến thắng ở Khâm Châu, Liêm Châu, Ung Châu; thành Ung Châu bị hạ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau 42 ngày chiến đấu, quân Lý đã hạ được thành Ung Châu, căn cứ mạnh nhất của quân Tống.",
+     "After 42 days of fighting, the Lý army took the citadel of Yongzhou, the Song's strongest base."
+    ],
+    [
+     "Hân Hân",
+     "Trên lược đồ, quân ta còn giành thắng lợi ở Khâm Châu, Liêm Châu. Quân Lý tiêu huỷ hết kho lương dự trữ của giặc.",
+     "The map also shows our victories at Qinzhou and Lianzhou. The Lý army destroyed all the enemy's stored grain."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "tien-cong-1075",
+   "pha": "rut_ve",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Sa bàn: quân ta rút về nước (nét đứt)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Rồi quân Lý nhanh chóng rút về nước, chuẩn bị phòng tuyến chặn giặc.",
+     "Then the Lý army swiftly returned home to prepare a defensive line against the enemy."
+    ],
+    [
+     "Hân Hân",
+     "Bằng cuộc tiến công táo bạo đó, Lý Thường Kiệt đã đẩy kẻ thù vào thế bị động, tạo ra nhiều điều kiện có lợi để đánh bại chúng.",
+     "With that daring attack, Lý Thường Kiệt forced the enemy onto the back foot and created many advantages for defeating them."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau bao nhiêu ngày chiến đấu, quân Lý hạ được thành Ung Châu?",
+    "lua_chon": [
+     "42 ngày",
+     "Mười ngày",
+     "Một trăm ngày"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Sau bao nhiêu ngày chiến đấu, quân Lý hạ được thành Ung Châu?",
+     "Quick test! After how many days of fighting did the Lý take Yongzhou?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: 42 ngày!",
+     "The answer is A: 42 days!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Cuối thế kỉ XI: nhà Tống âm mưu xâm lược; Lý Thường Kiệt làm Tổng chỉ huy",
+    "“Ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc”",
+    "Tháng 10 – 1075: hơn 10 vạn quân thuỷ, bộ tiến vào đất Tống",
+    "Sau 42 ngày: hạ thành Ung Châu, tiêu huỷ kho lương, rút về chuẩn bị phòng tuyến"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cuối thế kỉ XI, nhà Tống âm mưu xâm lược, Lý Thường Kiệt được cử làm Tổng chỉ huy.",
+     "Remember: in the late 11th century, the Song plotted invasion and Lý Thường Kiệt was made commander-in-chief."
+    ],
+    [
+     "Hân Hân",
+     "Ông chủ trương: ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc.",
+     "His strategy: better to strike first than to sit and wait for the enemy."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1075, hơn 10 vạn quân thuỷ, bộ tiến vào đất Tống.",
+     "In October 1075, over 100,000 troops advanced into Song territory by river and land."
+    ],
+    [
+     "Hân Hân",
+     "Sau 42 ngày, quân ta hạ thành Ung Châu, tiêu huỷ kho lương rồi rút về chuẩn bị phòng tuyến.",
+     "After 42 days, they took Yongzhou, destroyed the grain stores and returned to prepare the defences."
+    ]
+   ],
+   "nguon_trang": [
+    58,
+    59
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước tượng đài Lý Thường Kiệt, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nét độc đáo của cuộc tiến công năm 1075 là gì? Bình luận nhé! Tập sau: phòng tuyến thép trên sông Như Nguyệt.",
+     "Your challenge: what was unique about the 1075 offensive? Tell us in the comments! Next time: the steel line on the Như Nguyệt River."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Triều đình nhà Lý cử ai làm Tổng chỉ huy lãnh đạo kháng chiến chống Tống?",
+   "dap_an": [
+    "Lý Công Uẩn",
+    "Lý Thường Kiệt",
+    "Lê Hoàn",
+    "Trần Quốc Tuấn"
+   ],
+   "dung": 1,
+   "trang": 58
+  },
+  {
+   "hoi": "Tên thật của Lý Thường Kiệt là gì?",
+   "dap_an": [
+    "Ngô Tuấn",
+    "Ngô Xương Ngập",
+    "Lê Long Đĩnh",
+    "Kiều Công Hãn"
+   ],
+   "dung": 0,
+   "trang": 58
+  },
+  {
+   "hoi": "Tháng 10 – 1075, Lý Thường Kiệt chỉ huy bao nhiêu quân tiến vào đất Tống?",
+   "dap_an": [
+    "Hơn 1 vạn",
+    "Hơn 5 vạn",
+    "Hơn 10 vạn",
+    "Hơn 50 vạn"
+   ],
+   "dung": 2,
+   "trang": 59
+  },
+  {
+   "hoi": "Căn cứ mạnh nhất của quân Tống bị quân Lý hạ năm 1075 là thành",
+   "dap_an": [
+    "Khâm Châu",
+    "Liêm Châu",
+    "Ung Châu",
+    "Tư Minh"
+   ],
+   "dung": 2,
+   "trang": 59
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 58 (cuối thế kỉ XI, cử Lý Thường Kiệt làm Tổng chỉ huy, làm thất bại phối hợp Tống – Chăm-pa; Em có biết: 1019 – 1105, Ngô Tuấn, Thái Hoà, Phụ quốc Thái uý; Hình 1 tượng đài ở tỉnh Bắc Ninh), tr. 59 (lời nhận định của Lý Thường Kiệt, tháng 10 – 1075, hơn 10 vạn quân, hai đạo, 42 ngày, Ung Châu, kho lương, rút về; tư liệu 1; Hình 2 lược đồ – đối chiếu ảnh: các sao chiến thắng ở Khâm Châu, Liêm Châu, Ung Châu; chú giải 'Quân ta rút về nước năm 1076' – OCR đọc nhầm 1078). Sa bàn mới tien-cong-1075 vẽ lại, giản lược theo Hình 2 tr. 59 (có ô nhỏ Việt Nam với QĐ. Hoàng Sa, Trường Sa như lược đồ). Kiến thức chốt của danh mục khớp SGK; câu 'tiêu huỷ kho lương rồi rút về' đúng SGK. Lời Lý Thường Kiệt trích đúng SGK. Tập này nối với tập có sẵn L7-B12-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

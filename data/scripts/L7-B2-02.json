@@ -1,0 +1,544 @@
+{
+ "ma": "L7-B2-02",
+ "ten_tap": "Những chuyến hải trình làm thay đổi thế giới",
+ "ten_tap_en": "The Voyages That Changed the World",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 2. Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+  "trang": [
+   14,
+   15,
+   16
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "b-di-a-xo",
+  "c-co-lom-bo",
+  "v-ga-ma",
+  "ph-ma-gien-lang",
+  "thuy-thu-bo-dao-nha",
+  "thuy-thu-tay-ban-nha",
+  "thuong-nhan-chau-au",
+  "nguoi-chau-phi-bi-bat-lam-no-le"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, sóng biển, khám phá; trầm xuống ở phần hệ quả",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; bản đồ vẽ lại, giản lược theo Hình 1; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 2, tr. 14–16.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, Hân Hân cầm một chiếc la bàn cổ bằng đồng, Nhật Minh xoay quả địa cầu lớn; trên bảng là tấm bản đồ thế giới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc la bàn nhỏ xíu này từng giúp con người vượt qua cả đại dương đấy.",
+     "This tiny compass once helped people cross whole oceans."
+    ],
+    [
+     "Nhật Minh",
+     "Người Trung Quốc phát minh ra kim chỉ nam, rồi người châu Âu kế thừa để chế tạo la bàn. Cùng theo những đoàn thuyền ra khơi nhé!",
+     "The Chinese invented the magnetic needle, and Europeans built on it to make the compass. Let's sail with the explorers!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1487",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuy-thu-bo-dao-nha"
+   ],
+   "hinh": "Bến cảng châu Âu cuối thế kỉ XV: những con tàu buồm ba cột neo sát nhau, thuỷ thủ khuân thùng gỗ, dây thừng, cờ hiệu bay trong gió biển (không vẽ quốc kì hiện đại)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bồ Đào Nha và Tây Ban Nha là những nước tiên phong trong các cuộc thám hiểm bằng đường biển.",
+     "Portugal and Spain led the way in exploring by sea."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "b-di-a-xo",
+    "thuy-thu-bo-dao-nha"
+   ],
+   "hinh": "B. Đi-a-xơ (vẽ theo tư liệu tranh: râu, mũ vải, áo choàng thuỷ thủ thế kỉ XV) đứng bám cột buồm giữa cơn bão lớn, sóng dữ trùm lên boong tàu, thuỷ thủ kéo dây buồm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1487, B. Đi-a-xơ, một hiệp sĩ hoàng gia Bồ Đào Nha, dẫn đầu một đoàn thám hiểm đi về phương Nam.",
+     "In 1487, B. Dias, a Portuguese royal knight, led an expedition south."
+    ],
+    [
+     "B. Đi-a-xơ",
+     "Bão lớn quá! Giữ chặt dây buồm!",
+     "What a storm! Hold the sails fast!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "di-a-xo-1487",
+   "pha": "hanh_trinh",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Bản đồ: đường đi của B. Đi-a-xơ men theo bờ tây châu Phi đến mũi Hảo Vọng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên đường đi, đoàn của B. Đi-a-xơ gặp bão. Cơn bão thổi bạt họ xuống phía nam, và họ bất ngờ đến được mũi cực Nam châu Phi.",
+     "On the way, Dias's crew ran into a storm. It blew them south, and they unexpectedly reached the southern tip of Africa."
+    ],
+    [
+     "Nhật Minh",
+     "Lúc đầu, ông đặt tên cho vùng đất này là mũi Bão Táp. Sau này, nó được đổi thành mũi Hảo Vọng.",
+     "At first he named it the Cape of Storms. Later it was renamed the Cape of Good Hope."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1492",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "c-co-lom-bo",
+    "thuy-thu-tay-ban-nha"
+   ],
+   "hinh": "C. Cô-lôm-bô (vẽ theo chân dung tư liệu: tóc dài ngang vai, áo choàng sẫm) đứng trên boong tàu buồm, tay chỉ về phía chân trời phía tây, mặt trời lặn, đoàn thuỷ thủ nhìn theo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1492, C. Cô-lôm-bô cùng đoàn thuỷ thủ rời Tây Ban Nha.",
+     "In 1492, C. Columbus and his crew set out from Spain."
+    ],
+    [
+     "C. Cô-lôm-bô",
+     "Hướng tây! Cứ đi thẳng về phía tây!",
+     "West! Keep sailing west!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "co-lom-bo-1492",
+   "pha": "hanh_trinh",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Bản đồ: đường đi của C. Cô-lôm-bô từ Tây Ban Nha vượt Đại Tây Dương đến châu Mỹ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đoàn đi về phía tây, vượt qua Đại Tây Dương và tìm ra một vùng đất mới: châu Mỹ.",
+     "They sailed west, crossed the Atlantic and found a new land: the Americas."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1492, đoàn thám hiểm của C. Cô-lôm-bô đã tìm ra vùng đất nào?",
+    "lua_chon": [
+     "Mũi Hảo Vọng",
+     "Châu Mỹ",
+     "Ấn Độ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1492, đoàn của C. Cô-lôm-bô đã tìm ra vùng đất nào?",
+     "Pause! What land did Columbus's crew find in 1492?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: châu Mỹ!",
+     "The answer is B: the Americas!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "v-ga-ma",
+    "thuy-thu-bo-dao-nha"
+   ],
+   "hinh": "Bốn chiếc tàu buồm rời bến cảng Li-xbon lúc bình minh; V. Ga-ma (vẽ theo chân dung tư liệu: râu dài, mũ nhung, áo choàng đỏ sẫm) đứng ở mũi tàu dẫn đầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1497, đoàn thám hiểm của V. Ga-ma gồm 4 chiếc tàu với 160 thuỷ thủ rời cảng Li-xbon của Bồ Đào Nha.",
+     "In 1497, V. da Gama's expedition of 4 ships and 160 sailors left the port of Lisbon in Portugal."
+    ],
+    [
+     "V. Ga-ma",
+     "Nhổ neo! Mục tiêu của chúng ta là Ấn Độ!",
+     "Weigh anchor! Our goal is India!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "ga-ma-1497",
+   "pha": "vong_chau_phi",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Bản đồ: đường đi của V. Ga-ma từ Li-xbon vòng qua mũi Hảo Vọng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đoàn tàu cũng vòng qua điểm cực Nam châu Phi,",
+     "The fleet also rounded the southern tip of Africa,"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "ga-ma-1497",
+   "pha": "an_do",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Bản đồ: đường đi của V. Ga-ma từ mũi Hảo Vọng men bờ đông châu Phi sang Ca-li-cút",
+   "loi": [
+    [
+     "Nhật Minh",
+     "rồi cập bến Ca-li-cút ở phía tây nam Ấn Độ vào năm 1498. Ước mơ tìm ra tuyến đường biển sang Ấn Độ đã thành hiện thực!",
+     "then landed at Calicut in southwest India in 1498. The dream of a sea route to India had come true!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "sa_ban",
+   "sa_ban": "ma-gien-lang",
+   "pha": "toan_canh",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Bản đồ toàn cảnh hành trình vòng quanh thế giới của đoàn Ma-gien-lăng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1519, Ph. Ma-gien-lăng và đoàn thám hiểm rời Tây Ban Nha, cũng đi về phía tây.",
+     "In 1519, F. Magellan and his expedition left Spain, also heading west."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1522, đoàn hoàn thành chuyến đi vòng quanh thế giới!",
+     "In 1522, the expedition completed a voyage around the world!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · MỘT SỐ CUỘC PHÁT KIẾN ĐỊA LÍ LỚN",
+   "moc": [
+    [
+     "1487",
+     "B. Đi-a-xơ đến mũi Hảo Vọng"
+    ],
+    [
+     "1492",
+     "C. Cô-lôm-bô tìm ra châu Mỹ"
+    ],
+    [
+     "1497 – 1498",
+     "V. Ga-ma đến Ca-li-cút (Ấn Độ)"
+    ],
+    [
+     "1519 – 1522",
+     "Ph. Ma-gien-lăng đi vòng quanh thế giới"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xếp lại trên trục thời gian nhé! Năm 1487, B. Đi-a-xơ đến mũi Hảo Vọng.",
+     "Let's line them up! In 1487, Dias reached the Cape of Good Hope."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1492, C. Cô-lôm-bô tìm ra châu Mỹ.",
+     "In 1492, Columbus found the Americas."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1497 đến 1498, V. Ga-ma tìm ra đường biển sang Ấn Độ.",
+     "From 1497 to 1498, da Gama found the sea route to India."
+    ],
+    [
+     "Hân Hân",
+     "Và từ năm 1519 đến 1522, đoàn của Ph. Ma-gien-lăng đi vòng quanh thế giới.",
+     "And from 1519 to 1522, Magellan's expedition sailed around the world."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đoàn thám hiểm nào tìm ra tuyến đường biển sang Ấn Độ?",
+    "lua_chon": [
+     "Đoàn của V. Ga-ma",
+     "Đoàn của C. Cô-lôm-bô",
+     "Đoàn của B. Đi-a-xơ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đoàn thám hiểm nào tìm ra tuyến đường biển sang Ấn Độ?",
+     "Quick test! Which expedition found the sea route to India?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đoàn của V. Ga-ma, cập bến Ca-li-cút năm 1498!",
+     "The answer is A: da Gama's, which landed at Calicut in 1498!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au",
+    "nguoi-chau-phi-bi-bat-lam-no-le"
+   ],
+   "hinh": "Ba khung cảnh nối tiếp: tàu buồm cập cảng châu Âu dỡ những rương vàng bạc và kiện nguyên liệu; thương nhân ghi chép sổ sách; phía xa một con tàu buôn nô lệ thời trung đại (vẽ theo Hình 3 SGK, nhìn từ xa, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các cuộc phát kiến địa lí mở ra con đường mới, vùng đất mới, thị trường mới, thúc đẩy hàng hải quốc tế phát triển.",
+     "The voyages opened new routes, new lands and new markets, and boosted international shipping."
+    ],
+    [
+     "Hân Hân",
+     "Chúng đem về cho châu Âu khối lượng lớn vàng bạc, nguyên liệu, thúc đẩy sản xuất và thương nghiệp.",
+     "They brought Europe huge amounts of gold, silver and raw materials, spurring production and trade."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cũng làm nảy sinh nạn buôn bán nô lệ da đen và quá trình xâm chiếm, cướp bóc thuộc địa.",
+     "But they also gave rise to the African slave trade and to the seizure and plunder of colonies."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại lớp học; trên màn chiếu là ảnh Đài tưởng niệm những nhà phát kiến địa lí Bồ Đào Nha ở Li-xbon (khối tượng đá hình mũi tàu)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày nay ở Li-xbon có Đài tưởng niệm những nhà phát kiến địa lí Bồ Đào Nha.",
+     "Today Lisbon has a monument to the Portuguese explorers."
+    ],
+    [
+     "Nhật Minh",
+     "Còn ở Mỹ có ngày lễ Columbus Day, vào thứ Hai của tuần thứ 2 tháng 10, để tưởng nhớ C. Cô-lôm-bô.",
+     "And the US has Columbus Day, on the second Monday of October, in memory of Columbus."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "ghi_nho",
+   "y": [
+    "1487: B. Đi-a-xơ đến mũi Hảo Vọng",
+    "1492: C. Cô-lôm-bô tìm ra châu Mỹ",
+    "1497 – 1498: V. Ga-ma đến Ca-li-cút, mở đường biển sang Ấn Độ",
+    "1519 – 1522: đoàn Ph. Ma-gien-lăng đi vòng quanh thế giới",
+    "Hệ quả: đường mới, đất mới, thị trường mới; nhưng cũng sinh ra buôn bán nô lệ, cướp bóc thuộc địa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1487, B. Đi-a-xơ đến mũi Hảo Vọng.",
+     "Remember: in 1487, Dias reached the Cape of Good Hope."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1492, C. Cô-lôm-bô tìm ra châu Mỹ.",
+     "In 1492, Columbus found the Americas."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1497 đến 1498, V. Ga-ma đến Ca-li-cút, mở đường biển sang Ấn Độ.",
+     "From 1497 to 1498, da Gama reached Calicut, opening the sea route to India."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1519 đến 1522, đoàn Ph. Ma-gien-lăng đi vòng quanh thế giới.",
+     "From 1519 to 1522, Magellan's expedition circled the globe."
+    ],
+    [
+     "Nhật Minh",
+     "Phát kiến địa lí mở ra đường mới, đất mới, thị trường mới, nhưng cũng sinh ra nạn buôn bán nô lệ và cướp bóc thuộc địa.",
+     "The discoveries opened new routes, lands and markets, but also brought the slave trade and colonial plunder."
+    ]
+   ],
+   "nguon_trang": [
+    15,
+    16
+   ]
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ chiếc la bàn, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, cuộc phát kiến địa lí nào quan trọng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which voyage of discovery do you think mattered most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1487, ai đã dẫn đầu đoàn thám hiểm đến được mũi cực Nam châu Phi?",
+   "dap_an": [
+    "C. Cô-lôm-bô",
+    "B. Đi-a-xơ",
+    "V. Ga-ma",
+    "Ph. Ma-gien-lăng"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Mũi cực Nam châu Phi lúc đầu được B. Đi-a-xơ đặt tên là gì?",
+   "dap_an": [
+    "Mũi Hảo Vọng",
+    "Mũi Bão Táp",
+    "Mũi Ca-li-cút",
+    "Mũi Li-xbon"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Đoàn thám hiểm của V. Ga-ma (1497) gồm bao nhiêu tàu và thuỷ thủ?",
+   "dap_an": [
+    "3 tàu, 90 thuỷ thủ",
+    "4 tàu, 160 thuỷ thủ",
+    "5 tàu, 265 thuỷ thủ",
+    "2 tàu, 60 thuỷ thủ"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Ý nào KHÔNG phải là hệ quả của các cuộc phát kiến địa lí?",
+   "dap_an": [
+    "Mở ra con đường mới, thị trường mới",
+    "Đem về châu Âu nhiều vàng bạc, nguyên liệu",
+    "Làm nảy sinh nạn buôn bán nô lệ da đen",
+    "Làm cho thành thị trung đại suy tàn"
+   ],
+   "dung": 3,
+   "trang": 16
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 14 (mở đầu: kim chỉ nam – la bàn; Hình 1 lược đồ), tr. 15 (bốn hành trình, Em có biết về mũi Bão Táp, Kết nối với văn hoá: Columbus Day), tr. 16 (hệ quả). Bản đồ: 3 tệp mới di-a-xo-1487, co-lom-bo-1492, ga-ma-1497 vẽ lại giản lược theo Hình 1 tr. 14 (đường đi gần đúng, không biên giới, có Hoàng Sa – Trường Sa khi khung hình tới Biển Đông); hành trình Ma-gien-lăng dùng lại tệp ma-gien-lang (nhãn mốc trên bản đồ lấy từ tr. 166–169, lời đọc chỉ dùng mốc 1519, 1522 của tr. 15). Kiến thức chốt của danh mục khớp SGK. Lời Đi-a-xơ, Cô-lôm-bô, Ga-ma là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

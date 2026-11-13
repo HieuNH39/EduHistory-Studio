@@ -1,0 +1,418 @@
+{
+ "ma": "L7-B18-01",
+ "ten_tap": "Chăm-pa: Vương triều Vi-giay-a thịnh vượng",
+ "ten_tap_en": "Champa: The Flourishing Vijaya Dynasty",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 18. Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+  "trang": [
+   90,
+   91
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quy-toc-cham",
+  "nguoi-cham",
+  "quan-doi-cham-pa",
+  "quan-chan-lap",
+  "vua-cham-pa",
+  "che-man",
+  "huyen-tran"
+ ],
+ "nhac": {
+  "tam_trang": "dịu dàng, huyền bí (kèn Sa-ra-na, trống); rộn ràng ở cảnh lễ cưới; trầm xuống ở đoạn suy tàn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 18, tr. 90–91.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước một ngôi tháp gạch cổ đỏ sẫm trên gò đất giữa đồng lúa, nơi xưa là kinh đô Đồ Bàn (xã An Nhơn, tỉnh Gia Lai), nắng chiều vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Di tích này được xây dựng trên nền kinh đô Đồ Bàn xưa, nay thuộc xã An Nhơn, tỉnh Gia Lai.",
+     "This monument stands on the site of the old capital Đồ Bàn, now in An Nhơn commune, Gia Lai province."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh đô của Vương triều Vi-giay-a, Vương quốc Chăm-pa! Cùng về năm 988 nhé!",
+     "Capital of the Vijaya dynasty of the Kingdom of Champa! Let's go back to 988!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "988",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-cham",
+    "nguoi-cham"
+   ],
+   "hinh": "Một quý tộc người Chăm (vẽ theo phù điêu Chăm: mũ nhọn nhiều tầng, trang sức vàng, áo choàng) đứng trên bậc tháp gạch đỏ, trước dân chúng và voi chiến; kinh thành mới đang xây phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 988, một quý tộc người Chăm đã lập ra Vương triều Vi-giay-a, mở ra một thời kì phát triển mới của Vương quốc Chăm-pa.",
+     "In 988, a Cham noble founded the Vijaya dynasty, opening a new era for the Kingdom of Champa."
+    ],
+    [
+     "Hân Hân",
+     "Kinh đô được chuyển về Vi-giay-a, còn gọi là Đồ Bàn hay Chà Bàn.",
+     "The capital moved to Vijaya, also called Đồ Bàn or Chà Bàn."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương triều Vi-giay-a của Chăm-pa được lập năm nào?",
+    "lua_chon": [
+     "Năm 988",
+     "Năm 1069",
+     "Năm 1306"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vương triều Vi-giay-a được lập năm nào?",
+     "Pause! When was the Vijaya dynasty founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 988!",
+     "The answer is A: 988!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-cham",
+    "quan-doi-cham-pa"
+   ],
+   "hinh": "Triều đình Chăm-pa lo lắng bàn việc; một sứ giả Chăm trao tấm bản đồ ghi ba châu cho sứ giả Đại Việt; xa xa là đoàn quân Chân Lạp với voi chiến (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 988 đến năm 1220, Chăm-pa gặp nhiều khó khăn, phải tiến hành các cuộc chiến tranh với Chân Lạp và giải quyết xung đột với Đại Việt.",
+     "From 988 to 1220, Champa faced many troubles, fighting wars with Chenla and resolving conflicts with Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1069, vua Chăm-pa cắt ba châu Bố Chính, Địa Lý và Ma Linh, đều thuộc tỉnh Quảng Trị hiện nay, cho Đại Việt.",
+     "In 1069, the Champa king ceded three districts, Bố Chính, Địa Lý and Ma Linh, all in today's Quảng Trị, to Đại Việt."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-cham-pa",
+    "quan-chan-lap"
+   ],
+   "hinh": "Kinh thành Chăm-pa bị quân Chân Lạp chiếm đóng, cờ lạ cắm trên tháp; người Chăm lặng lẽ chuẩn bị giáo mác (viễn cảnh, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "“Cuộc chiến tranh một trăm năm”, khoảng từ năm 1113 đến năm 1220, khiến Chăm-pa hai lần bị Chân Lạp chiếm đóng.",
+     "The 'Hundred Years' War', from about 1113 to 1220, saw Champa occupied by Chenla twice."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-cham-pa",
+    "nguoi-cham"
+   ],
+   "hinh": "Kinh đô Vi-giay-a rực rỡ: những ngôi tháp gạch đỏ chạm khắc tinh xảo, quân đội Chăm-pa duyệt binh, dân chúng tưng bừng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1220 đến năm 1353 là thời kì thịnh đạt nhất của Vương triều Vi-giay-a, cũng như trong lịch sử Vương quốc Chăm-pa.",
+     "From 1220 to 1353 came the most prosperous period of the Vijaya dynasty, and of all Champa's history."
+    ],
+    [
+     "Nhật Minh",
+     "Chăm-pa thoát khỏi ách đô hộ của Chân Lạp, củng cố chính quyền, mở rộng và thống nhất lãnh thổ.",
+     "Champa threw off Chenla's rule, strengthened its government, and expanded and unified its territory."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "che-man",
+    "huyen-tran",
+    "nguoi-cham"
+   ],
+   "hinh": "Bến thuyền Chăm-pa rợp cờ hoa: vua Chế Mân mặc bộ quần áo trắng, đi giày đen thêu hình chim thần Ga-ru-đa, bước ra đón Công chúa Huyền Trân (áo dài Đại Việt, khăn vấn) vừa bước xuống từ thuyền rồng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1305, vua Chăm-pa là Chế Mân sai người mang lễ vật xin cưới Công chúa Huyền Trân, con gái vua Trần Nhân Tông. Năm 1306, Huyền Trân lên thuyền vào Chăm-pa.",
+     "In 1305, Champa's King Chế Mân sent gifts to ask for the hand of Princess Huyền Trân, daughter of King Trần Nhân Tông. In 1306, she sailed to Champa."
+    ],
+    [
+     "Chế Mân",
+     "Chào mừng Công chúa đến với Chăm-pa!",
+     "Welcome to Champa, Princess!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "che-man",
+    "huyen-tran",
+    "nguoi-cham"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng lẫn trong dân chúng Chăm xem lễ cưới: vũ nữ múa, trống kèn rộn rã, đèn đuốc sáng rực quanh tháp gạch",
+   "loi": [
+    [
+     "Hân Hân",
+     "Truyền thuyết của người Chăm kể: hôn lễ được cử hành suốt ba ngày ba đêm,",
+     "Cham legend says the wedding lasted three days and three nights,"
+    ],
+    [
+     "Nhật Minh",
+     "và Huyền Trân được phong làm Vương hậu.",
+     "and Huyền Trân was made queen."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1306, công chúa nào của Đại Việt lên thuyền vào Chăm-pa?",
+    "lua_chon": [
+     "Huyền Trân",
+     "Lý Chiêu Hoàng",
+     "Kim Thành"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Năm 1306, công chúa nào của Đại Việt lên thuyền vào Chăm-pa?",
+     "Quick test! Which Đại Việt princess sailed to Champa in 1306?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Công chúa Huyền Trân, con gái vua Trần Nhân Tông!",
+     "The answer is A: Princess Huyền Trân, daughter of King Trần Nhân Tông!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-cham"
+   ],
+   "hinh": "Những ngôi tháp Chăm phủ rêu trong chiều tà, kinh thành vắng vẻ; trên tấm bản đồ cổ, lãnh thổ Chăm-pa bị chia thành nhiều mảnh nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau đó, Vương triều Vi-giay-a lâm vào khủng hoảng, suy yếu rồi sụp đổ.",
+     "After that, the Vijaya dynasty fell into crisis, weakened and collapsed."
+    ],
+    [
+     "Nhật Minh",
+     "Lãnh thổ Chăm-pa bị thu hẹp nhiều phần và chia thành nhiều tiểu quốc khác nhau.",
+     "Champa's territory shrank greatly and split into many small states."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · VƯƠNG TRIỀU VI-GIAY-A",
+   "moc": [
+    [
+     "988",
+     "Lập Vương triều Vi-giay-a, kinh đô Đồ Bàn"
+    ],
+    [
+     "1069",
+     "Cắt ba châu cho Đại Việt"
+    ],
+    [
+     "1220 – 1353",
+     "Thời kì thịnh đạt nhất"
+    ],
+    [
+     "1306",
+     "Huyền Trân vào Chăm-pa"
+    ],
+    [
+     "Sau 1353",
+     "Khủng hoảng, suy yếu rồi sụp đổ"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng tóm tắt nhé! Năm 988, lập Vương triều Vi-giay-a. Năm 1069, cắt ba châu cho Đại Việt.",
+     "Let's recap! 988: the Vijaya dynasty. 1069: three districts ceded to Đại Việt."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1220 đến năm 1353 là thời kì thịnh đạt nhất; năm 1306, Huyền Trân vào Chăm-pa.",
+     "1220 to 1353: the golden age; in 1306, Huyền Trân came to Champa."
+    ],
+    [
+     "Hân Hân",
+     "Sau năm 1353, vương triều khủng hoảng, suy yếu rồi sụp đổ.",
+     "After 1353, the dynasty fell into crisis and collapsed."
+    ]
+   ],
+   "nguon_trang": [
+    90,
+    91
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước ngôi tháp cổ trên nền kinh đô Đồ Bàn xưa lúc hoàng hôn, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao giai đoạn từ năm 1220 đến năm 1353 được coi là thời kì thịnh đạt nhất của Chăm-pa? Bình luận nhé!",
+     "Your challenge: why is 1220 to 1353 seen as Champa's most prosperous period? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kinh đô Vi-giay-a (Đồ Bàn, Chà Bàn) nay thuộc địa phương nào?",
+   "dap_an": [
+    "Xã An Nhơn, tỉnh Gia Lai",
+    "Thành phố Đà Nẵng",
+    "Tỉnh Quảng Trị",
+    "Tỉnh Khánh Hoà"
+   ],
+   "dung": 0,
+   "trang": 90
+  },
+  {
+   "hoi": "Năm 1069, vua Chăm-pa cắt cho Đại Việt ba châu nào?",
+   "dap_an": [
+    "Bố Chính, Địa Lý, Ma Linh",
+    "Hoan, Ái, Phong",
+    "Ung, Khâm, Liêm",
+    "Tân Châu, Đại Chiêm, Đồ Bàn"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Thời kì thịnh đạt nhất của Vương triều Vi-giay-a là",
+   "dap_an": [
+    "988 – 1220",
+    "1220 – 1353",
+    "1113 – 1220",
+    "Sau năm 1353"
+   ],
+   "dung": 1,
+   "trang": 91
+  },
+  {
+   "hoi": "Vua Chăm-pa xin cưới Công chúa Huyền Trân là ai?",
+   "dap_an": [
+    "Chế Mân",
+    "Giay-a-vác-man VII",
+    "Pha Ngừm",
+    "Lê Hoàn"
+   ],
+   "dung": 0,
+   "trang": 90
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 90 (năm 988, Vương triều Vi-giay-a, kinh đô Vi-giay-a – Đồ Bàn – Chà Bàn thuộc xã An Nhơn, tỉnh Gia Lai hiện nay; Em có biết: 1305, 1306 Huyền Trân – Chế Mân; Hình 1), tr. 91 (Bảng khái quát tình hình chính trị: 988 – 1220, năm 1069 ba châu, 'cuộc chiến tranh một trăm năm' khoảng 1113 – 1220, 1220 – 1353 thịnh đạt nhất, sau đó suy yếu, sụp đổ – đối chiếu ảnh trang). Đã sửa kiến thức chốt của danh mục: SGK ghi kinh đô Đồ Bàn thuộc xã An Nhơn, tỉnh Gia Lai hiện nay (danh mục ghi 'An Nhơn, Bình Định'). Lời Chế Mân là lời dựng. Phương án nhiễu lấy từ SGK (Lý Chiêu Hoàng tr. 62, Kim Thành tr. 54, Ung – Khâm – Liêm tr. 59).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

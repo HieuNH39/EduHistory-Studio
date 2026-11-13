@@ -1,0 +1,540 @@
+{
+ "ma": "L7-B9-03",
+ "ten_tap": "Đinh Bộ Lĩnh và hành trình thống nhất",
+ "ten_tap_en": "Đinh Bộ Lĩnh and the Reunification",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 9. Đất nước buổi đầu độc lập (939 – 967)",
+  "trang": [
+   44,
+   45,
+   46,
+   47
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "dinh-bo-linh",
+  "tre-chan-trau-hoa-lu",
+  "nhan-dan-hoa-lu",
+  "hao-truong-dia-phuong",
+  "su-quan",
+  "le-van-huu"
+ ],
+ "nhac": {
+  "tam_trang": "dân gian, trong trẻo ở cảnh tuổi thơ (sáo trúc), hùng tráng dần bằng trống ở cảnh dẹp loạn, tự hào ở đoạn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 9, tr. 44–47.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên cây cầu đá vòm dẫn vào cổng khu di tích Hoa Lư (tỉnh Ninh Bình) ngày nay: cổng gác mái cong, hồ sen phía dưới, núi đá vôi xanh thẫm phía sau, trời trong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là cổng vào khu di tích Hoa Lư ở tỉnh Ninh Bình.",
+     "This is the gateway to the Hoa Lư historical site in Ninh Bình province."
+    ],
+    [
+     "Nhật Minh",
+     "Quê hương của một cậu bé chăn trâu, người sau này chấm dứt cảnh đất nước bị chia cắt: Đinh Bộ Lĩnh! Về thế kỉ X thôi!",
+     "Home of a buffalo boy who would later end the country's division: Đinh Bộ Lĩnh! Off to the 10th century!"
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    46
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "944",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "hao-truong-dia-phuong"
+   ],
+   "hinh": "Nhiều toà thành đất nhỏ rải rác giữa đồng bằng sông nước, mỗi nơi cắm một lá cờ riêng; những thủ lĩnh địa phương mặc giáp đứng trên mặt thành nhìn nhau đầy cảnh giác",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 939, sau chiến thắng Bạch Đằng, Ngô Quyền xưng Vương, đóng đô ở Cổ Loa. Nhưng năm 944, Ngô Quyền mất.",
+     "In 939, after the Bạch Đằng victory, Ngô Quyền proclaimed himself king, with his capital at Cổ Loa. But in 944, he died."
+    ],
+    [
+     "Hân Hân",
+     "Chính quyền nhà Ngô suy yếu nhanh chóng. Nhân cơ hội đó, các thế lực hào trưởng địa phương nổi lên, mỗi người chiếm cứ một vùng.",
+     "The Ngô government quickly weakened. Seizing the chance, local strongmen rose up, each holding a region of his own."
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "12-su-quan",
+   "pha": "cat_cu",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: thủ phủ của 12 sứ quân lần lượt hiện lên trên lược đồ đồng bằng (vẽ lại theo Hình 1 SGK)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến năm 965, chính quyền nhà Ngô tan rã. Đất nước lâm vào tình trạng cát cứ của 12 sứ quân.",
+     "By 965, the Ngô government had collapsed. The country fell into the hands of 12 rival warlords."
+    ],
+    [
+     "Hân Hân",
+     "Nhìn lược đồ này: Phong Châu, Đường Lâm, Đỗ Động Giang, Tiên Du, Bố Hải Khẩu… mỗi nơi là thủ phủ của một sứ quân.",
+     "Look at this map: Phong Châu, Đường Lâm, Đỗ Động Giang, Tiên Du, Bố Hải Khẩu… each was the stronghold of one warlord."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-bo-linh",
+    "tre-chan-trau-hoa-lu"
+   ],
+   "hinh": "Bãi cỏ ven sông dưới chân núi đá vôi Hoa Lư: cậu bé Đinh Bộ Lĩnh (khoảng 10 tuổi, áo nâu, đầu chít khăn) giơ cao bông lau làm cờ, dẫn đầu đám trẻ chăn trâu; bọn trẻ khiêng một cậu bạn ngồi trên chiếc kiệu tết bằng tre",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong hoàn cảnh đó, tại đất Hoa Lư, tỉnh Ninh Bình, xuất hiện nhân vật Đinh Bộ Lĩnh.",
+     "Amid this chaos, in the land of Hoa Lư, Ninh Bình province, Đinh Bộ Lĩnh appeared."
+    ],
+    [
+     "Nhật Minh",
+     "Ông là người động Hoa Lư, con trai của Đinh Công Trứ, Thứ sử Hoan Châu. Hồi nhỏ, ông thường cùng trẻ con trong vùng chăn trâu, chơi trò tập trận.",
+     "He came from Hoa Lư, son of Đinh Công Trứ, governor of Hoan Châu. As a boy, he herded buffalo with local kids and played war games."
+    ],
+    [
+     "Đinh Bộ Lĩnh",
+     "Anh em ơi, theo cờ lau của ta, tiến lên!",
+     "Come on, everyone, follow my reed flag, charge!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-bo-linh",
+    "tre-chan-trau-hoa-lu"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau bụi lau ven bãi cỏ, mỉm cười nhìn đám trẻ chăn trâu chơi trò tập trận, những bông lau trắng phất phơ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khiêng kiệu, lấy bông lau làm cờ… trông giống một đội quân thật ấy!",
+     "Carrying a palanquin, using reed flowers as flags… it looks like a real army!"
+    ],
+    [
+     "Hân Hân",
+     "Ai ngờ cậu bé chơi trò đánh trận hôm nay sau này lại dẹp yên cả 12 sứ quân.",
+     "Who'd have thought the boy playing at war would one day subdue all 12 warlords."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hồi nhỏ, khi chơi trò tập trận, Đinh Bộ Lĩnh lấy gì làm cờ?",
+    "lua_chon": [
+     "Lá chuối",
+     "Bông lau",
+     "Mảnh vải đỏ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hồi nhỏ, khi chơi trò tập trận, Đinh Bộ Lĩnh lấy gì làm cờ?",
+     "Pause! When he played war games as a boy, what did Đinh Bộ Lĩnh use as a flag?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: bông lau!",
+     "The answer is B: reed flowers!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-bo-linh",
+    "nhan-dan-hoa-lu"
+   ],
+   "hinh": "Đinh Bộ Lĩnh trưởng thành (vẽ theo tượng thờ ở đền Đinh Tiên Hoàng: mặt vuông, râu ngắn, mũ trụ, áo giáp) cưỡi ngựa trước đoàn quân; dân làng hai bên đường mang gạo, nước ra tiếp sức, giơ tay hô vang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Với tài năng của mình, lại được nhân dân ủng hộ, Đinh Bộ Lĩnh đánh đâu thắng đó.",
+     "With his talent and the people's support, Đinh Bộ Lĩnh won wherever he fought."
+    ],
+    [
+     "Nghĩa quân",
+     "Vạn Thắng Vương! Vạn Thắng Vương!",
+     "Vạn Thắng Vương! King of Ten Thousand Victories!"
+    ],
+    [
+     "Hân Hân",
+     "Ông được tôn là Vạn Thắng Vương.",
+     "He was hailed as Vạn Thắng Vương, the King of Ten Thousand Victories."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "12-su-quan",
+   "pha": "chia_cat",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Sa bàn: 12 thủ phủ sứ quân trên lược đồ, băng chữ 'Đinh Bộ Lĩnh – Vạn Thắng Vương'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đất nước đang bị chia cắt thành nhiều vùng. Từ Hoa Lư, Đinh Bộ Lĩnh bắt tay vào việc thống nhất.",
+     "The country was split into many regions. From Hoa Lư, Đinh Bộ Lĩnh set out to reunite it."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-bo-linh",
+    "su-quan"
+   ],
+   "hinh": "Trong doanh trại, Đinh Bộ Lĩnh đỡ dậy một sứ quân vừa đến xin quy phục, mời ngồi; phía xa ngoài cửa trại, đoàn quân Đinh dàn trận trước một toà thành đất đóng chặt cổng (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đinh Bộ Lĩnh dùng các biện pháp vừa mềm dẻo, vừa cứng rắn.",
+     "Đinh Bộ Lĩnh used methods that were both flexible and firm."
+    ],
+    [
+     "Đinh Bộ Lĩnh",
+     "Ai quy thuận, ta đối đãi tử tế. Ai chống lại, ta quyết dẹp yên!",
+     "Whoever submits, I will treat well. Whoever resists, I will put down!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "12-su-quan",
+   "pha": "thong_nhat",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn: thủ phủ các sứ quân lần lượt bị gạch chéo; băng chữ 'Thống nhất đất nước, lập ra nhà Đinh'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong 2 năm, từ năm 966 đến năm 967, ông lần lượt dẹp yên các sứ quân, chấm dứt tình trạng cát cứ.",
+     "In 2 years, from 966 to 967, he subdued the warlords one by one and ended the division."
+    ],
+    [
+     "Nhật Minh",
+     "Đất nước được thống nhất. Sau đó, Đinh Bộ Lĩnh lập ra nhà Đinh.",
+     "The country was reunited. Afterwards, Đinh Bộ Lĩnh founded the Đinh dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đinh Bộ Lĩnh dẹp yên các sứ quân, thống nhất đất nước trong khoảng thời gian nào?",
+    "lua_chon": [
+     "939 – 944",
+     "966 – 967",
+     "980 – 981"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Đinh Bộ Lĩnh dẹp yên các sứ quân trong khoảng thời gian nào?",
+     "Quick test! When did Đinh Bộ Lĩnh subdue the warlords?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: trong 2 năm, từ năm 966 đến năm 967!",
+     "The answer is B: in 2 years, from 966 to 967!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-van-huu"
+   ],
+   "hinh": "Nhà sử học Lê Văn Hưu (thời Trần; vẽ theo tranh minh hoạ: áo quan văn, khăn vấn) ngồi viết bên án thư dưới ánh đèn dầu, cuộn sử sách mở rộng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau này, nhà sử học Lê Văn Hưu thời Trần nhận xét:",
+     "Later, the Trần-era historian Lê Văn Hưu wrote:"
+    ],
+    [
+     "Lê Văn Hưu",
+     "Tiên Hoàng nhờ có tài năng sáng suốt hơn người, dũng cảm mưu lược nhất đời… một phen cất quân mà mười hai sứ quân phục hết.",
+     "The Founding Emperor, with unmatched brilliance, courage and strategy… raised his army once, and all twelve warlords submitted."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    45,
+    47
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TỪ NHÀ NGÔ ĐẾN NHÀ ĐINH",
+   "moc": [
+    [
+     "939",
+     "Ngô Quyền xưng Vương"
+    ],
+    [
+     "944",
+     "Ngô Quyền mất, nhà Ngô suy yếu"
+    ],
+    [
+     "965",
+     "Nhà Ngô tan rã, 12 sứ quân cát cứ"
+    ],
+    [
+     "966 – 967",
+     "Đinh Bộ Lĩnh dẹp yên các sứ quân"
+    ],
+    [
+     "968",
+     "Đinh Bộ Lĩnh lên ngôi Hoàng đế"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng xếp lại các mốc nhé! Năm 939, Ngô Quyền xưng Vương. Năm 944, Ngô Quyền mất.",
+     "Let's line up the dates! 939: Ngô Quyền became king. 944: he died."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 965, nhà Ngô tan rã, 12 sứ quân cát cứ.",
+     "965: the Ngô collapsed and 12 warlords split the land."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 966 đến năm 967, Đinh Bộ Lĩnh dẹp yên các sứ quân.",
+     "966 to 967: Đinh Bộ Lĩnh subdued the warlords."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 968, Đinh Bộ Lĩnh lên ngôi Hoàng đế, Triều Đinh được thành lập.",
+     "And in 968, Đinh Bộ Lĩnh took the throne as emperor and the Đinh dynasty began."
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45,
+    46
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng trước đền thờ Đinh Tiên Hoàng ở Hoa Lư ngày nay: sân lát gạch, hai cột trụ đá, mái ngói rêu phong, núi đá vôi phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là đền thờ Đinh Tiên Hoàng, thuộc Quần thể di tích danh thắng Tràng An.",
+     "This is the temple of Emperor Đinh Tiên Hoàng, part of the Tràng An Landscape Complex."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2014, Tràng An được UNESCO ghi danh là Di sản văn hoá và thiên nhiên thế giới.",
+     "In 2014, UNESCO listed Tràng An as a World Cultural and Natural Heritage site."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Năm 944 Ngô Quyền mất; năm 965 nhà Ngô tan rã, 12 sứ quân cát cứ",
+    "Đinh Bộ Lĩnh: người Hoa Lư (Ninh Bình), tài năng, được nhân dân ủng hộ – Vạn Thắng Vương",
+    "966 – 967: vừa mềm dẻo vừa cứng rắn, dẹp yên các sứ quân",
+    "Thống nhất đất nước, lập ra nhà Đinh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 944, Ngô Quyền mất; năm 965, nhà Ngô tan rã, đất nước rơi vào cảnh 12 sứ quân cát cứ.",
+     "Remember: in 944 Ngô Quyền died; in 965 the Ngô fell and 12 warlords carved up the land."
+    ],
+    [
+     "Hân Hân",
+     "Đinh Bộ Lĩnh, người Hoa Lư, tài năng, được nhân dân ủng hộ, được tôn là Vạn Thắng Vương.",
+     "Đinh Bộ Lĩnh of Hoa Lư, talented and backed by the people, was hailed Vạn Thắng Vương."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 966 đến năm 967, ông dùng biện pháp vừa mềm dẻo vừa cứng rắn, dẹp yên các sứ quân,",
+     "From 966 to 967, with both flexible and firm methods, he subdued the warlords,"
+    ],
+    [
+     "Hân Hân",
+     "thống nhất đất nước và lập ra nhà Đinh.",
+     "reunited the country and founded the Đinh dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem trước đền thờ Đinh Tiên Hoàng, Hân Hân cầm một bông lau, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những việc làm của Đinh Bộ Lĩnh có ý nghĩa như thế nào đối với dân tộc? Bình luận nhé!",
+     "Your challenge: what did Đinh Bộ Lĩnh's deeds mean for our nation? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 965, đất nước ta lâm vào tình trạng gì?",
+   "dap_an": [
+    "Bị quân Tống xâm lược",
+    "Cát cứ của 12 sứ quân",
+    "Ngô Quyền xưng Vương",
+    "Nhà Đinh thành lập"
+   ],
+   "dung": 1,
+   "trang": 46
+  },
+  {
+   "hoi": "Đinh Bộ Lĩnh là người ở đâu?",
+   "dap_an": [
+    "Cổ Loa (Hà Nội)",
+    "Đường Lâm (Hà Nội)",
+    "Hoa Lư (Ninh Bình)",
+    "Phong Châu (Phú Thọ)"
+   ],
+   "dung": 2,
+   "trang": 47
+  },
+  {
+   "hoi": "Đinh Bộ Lĩnh được nhân dân tôn là",
+   "dap_an": [
+    "Vạn Thắng Vương",
+    "Tiết độ sứ",
+    "Thứ sử Hoan Châu",
+    "Ngô Vương"
+   ],
+   "dung": 0,
+   "trang": 46
+  },
+  {
+   "hoi": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân bằng biện pháp nào?",
+   "dap_an": [
+    "Chỉ dùng vũ lực",
+    "Chỉ dùng thương lượng",
+    "Vừa mềm dẻo vừa cứng rắn",
+    "Nhờ quân nước ngoài giúp"
+   ],
+   "dung": 2,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 45 (939, Ngô Quyền xưng Vương, đóng đô Cổ Loa), tr. 46 (944, 965, 12 sứ quân, Hoa Lư, Vạn Thắng Vương, 966 – 967, biện pháp mềm dẻo và cứng rắn, lập nhà Đinh; Hình 1 lược đồ), tr. 47 (Em có biết: động Hoa Lư, con Đinh Công Trứ, chơi tập trận, bông lau làm cờ; tư liệu 2 lời Lê Văn Hưu; Hình 2 đền thờ Đinh Tiên Hoàng, UNESCO 2014). Mốc 968 'Đinh Bộ Lĩnh lên ngôi Hoàng đế, Triều Đinh thành lập' lấy từ trục thời gian trang mở đầu chương tr. 44 (đối chiếu trực tiếp trên ảnh trang; tiêu đề chương cũng ghi 968 – 1009). Tên vùng 'TẾ GIANG' trên sa bàn theo lược đồ (ảnh in mờ dấu mũ). Sa bàn mới 12-su-quan vẽ lại, giản lược theo Hình 1 tr. 46 (có ô nhỏ Việt Nam với QĐ. Hoàng Sa, Trường Sa như lược đồ SGK; không chấm vị trí Hoa Lư vì lược đồ không ghi). Lời Đinh Bộ Lĩnh, nghĩa quân là lời dựng; lời Lê Văn Hưu trích đúng tư liệu SGK (lược bớt). Kiến thức chốt của danh mục khớp SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "ma": "L7-B12-03",
+ "ten_tap": "Nam quốc sơn hà và đòn quyết định",
+ "ten_tap_en": "'Nam quốc sơn hà' and the Decisive Blow",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+  "trang": [
+   60,
+   61
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-nha-ly",
+  "quan-tong",
+  "ly-thuong-kiet",
+  "quach-quy"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, tĩnh lặng ở cảnh đêm ngâm thơ; bùng nổ trống trận ở cảnh vượt sông; trang trọng ở kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 12, tr. 60–61.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê sông Cầu ngày nay lúc chạng vạng, mái một ngôi đền cổ thấp thoáng sau hàng cây ven sông, mặt nước phản chiếu ánh hoàng hôn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lần trước, quân Tống bị chặn đứng ở bờ bắc sông Như Nguyệt, một đoạn của sông Cầu.",
+     "Last time, the Song army was stopped dead on the north bank of the Như Nguyệt, a stretch of the Cầu River."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay, tụi mình xem đòn quyết định của Lý Thường Kiệt, và một bài thơ đã đi vào lịch sử!",
+     "Today we'll see Lý Thường Kiệt's decisive blow, and a poem that made history!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1077",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "nhu-nguyet-1077",
+   "pha": "vuot_song",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Sa bàn sông Như Nguyệt (pha vượt sông), dùng lại tệp nhu-nguyet-1077",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quách Quỳ nhiều lần cho quân tìm cách vượt sông Như Nguyệt nhưng đều bị đẩy lùi về phía bờ bắc.",
+     "Guo Kui sent his troops to cross the Như Nguyệt again and again, but each time they were driven back to the north bank."
+    ],
+    [
+     "Hân Hân",
+     "Quân giặc ngày càng chán nản, mệt mỏi.",
+     "The enemy grew ever more weary and discouraged."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-nha-ly"
+   ],
+   "hinh": "Đêm trăng, Nhật Minh và Hân Hân (đồng phục FPT) nấp sau gốc cây ven bờ nam sông Như Nguyệt, nhìn ánh đèn trong một ngôi đền cổ bên sông; một người áo dài đứng trong đền ngâm thơ vang vọng ra mặt nước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Suỵt… nghe kìa! Tương truyền, đêm đêm Lý Thường Kiệt cho người vào ngôi đền bên bờ sông, ngâm vang bài thơ Nam quốc sơn hà.",
+     "Shh… listen! Legend says that night after night, Lý Thường Kiệt had someone recite the poem 'Nam quốc sơn hà' in a temple by the river."
+    ],
+    [
+     "Nhật Minh",
+     "Tiếng ngâm vang cả sang bờ bên kia, nơi quân Tống đóng trại.",
+     "The voice carries all the way to the far bank, where the Song are camped."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-tong",
+    "quan-doi-nha-ly"
+   ],
+   "hinh": "Hai bờ sông về đêm: bờ bắc, lính Tống ngồi quanh đống lửa ngơ ngác ngẩng đầu nghe, vẻ hoang mang; bờ nam, binh sĩ nhà Lý đứng thẳng, nắm chặt giáo, mắt sáng ngời",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bài thơ làm nhụt ý chí xâm lược của quân Tống,",
+     "The poem sapped the Song invaders' will to fight,"
+    ],
+    [
+     "Lính Tống",
+     "Lại là tiếng ngâm thơ ấy… Quân Nam quyết không lùi bước!",
+     "That chanting again… The southern army will never give up!"
+    ],
+    [
+     "Nhật Minh",
+     "và khích lệ tinh thần chiến đấu của binh sĩ Đại Việt.",
+     "and fired up the fighting spirit of Đại Việt's soldiers."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo tương truyền, bài thơ Nam quốc sơn hà được ngâm vang bên bờ sông nhằm mục đích gì?",
+    "lua_chon": [
+     "Làm nhụt ý chí giặc, khích lệ quân ta",
+     "Mừng ngày được mùa",
+     "Đón sứ giả nhà Tống"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Bài thơ Nam quốc sơn hà được ngâm vang nhằm mục đích gì?",
+     "Pause! Why was 'Nam quốc sơn hà' recited by the river?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: làm nhụt ý chí xâm lược của giặc và khích lệ tinh thần quân ta!",
+     "The answer is A: to break the invaders' will and lift our soldiers' spirits!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet",
+    "quan-doi-nha-ly"
+   ],
+   "hinh": "Trong lều chỉ huy, Lý Thường Kiệt (vẽ theo tượng đài: râu dài, mũ trụ, áo giáp, áo choàng đỏ) chỉ tay lên sa bàn đất nặn dòng sông, các tướng quây quanh dưới ánh đuốc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối mùa xuân năm 1077, Lý Thường Kiệt quyết định mở cuộc tấn công lớn.",
+     "In late spring 1077, Lý Thường Kiệt decided to launch a major attack."
+    ],
+    [
+     "Lý Thường Kiệt",
+     "Đang đêm, lặng lẽ vượt sông, đánh thẳng vào doanh trại giặc!",
+     "In the dead of night, cross the river silently and strike straight at the enemy camp!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "nhu-nguyet-1077",
+   "pha": "phan_cong",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn sông Như Nguyệt (pha phản công), dùng lại tệp nhu-nguyet-1077",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đang đêm, quân ta lặng lẽ vượt sông Như Nguyệt, đánh thẳng vào doanh trại quân Tống.",
+     "At night, our troops silently crossed the Như Nguyệt and struck straight at the Song camp."
+    ],
+    [
+     "Nhật Minh",
+     "Quân giặc thua to, “mười phần chết đến năm, sáu”, lâm vào tình thế hết sức khó khăn, tuyệt vọng.",
+     "The enemy suffered a crushing defeat, 'five or six of every ten dead', and fell into a desperate plight."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet",
+    "quach-quy"
+   ],
+   "hinh": "Hai cảnh: sứ giả nhà Lý mang thư giảng hoà đến doanh trại quân Tống; Quách Quỳ (giáp trụ xộc xệch, mặt mệt mỏi) đọc thư rồi vội vàng ra lệnh nhổ trại, quân Tống kéo nhau rút về phương bắc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa lúc ấy, Lý Thường Kiệt chủ động đề nghị “giảng hoà”, thực chất là cho quân Tống một lối thoát.",
+     "At that moment, Lý Thường Kiệt offered 'peace talks', in truth giving the Song a way out."
+    ],
+    [
+     "Quách Quỳ",
+     "Chấp nhận ngay! Rút quân về nước, mau!",
+     "Accept at once! Withdraw home, quickly!"
+    ],
+    [
+     "Nhật Minh",
+     "Quách Quỳ chấp nhận ngay rồi vội vã rút quân về nước.",
+     "Guo Kui accepted at once and hurriedly pulled his army home."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet"
+   ],
+   "hinh": "Lý Thường Kiệt đứng trên bờ đê nhìn đoàn quân Tống rút xa dần phía chân trời, binh sĩ nhà Lý reo mừng, cờ đỏ tung bay trong nắng sớm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sử sách nhận xét về cách kết thúc ấy: “Làm như thế không nhọc tướng tá, khỏi tốn máu mủ, mà bảo toàn được tông miếu”.",
+     "Historians said of this ending: 'It spared the officers, saved bloodshed, and kept the ancestral temples safe'."
+    ],
+    [
+     "Hân Hân",
+     "Trận quyết chiến trên phòng tuyến Như Nguyệt đã đánh tan cuộc xâm lược của nhà Tống, bảo vệ vững chắc nền độc lập dân tộc.",
+     "The decisive battle on the Như Nguyệt line crushed the Song invasion and firmly protected our independence."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Lý Thường Kiệt chủ động đề nghị “giảng hoà”?",
+    "lua_chon": [
+     "Để kết thúc chiến tranh, cho giặc lối thoát, khỏi tốn xương máu",
+     "Vì quân ta đã thua trận",
+     "Vì vua Tống ra lệnh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao Lý Thường Kiệt chủ động đề nghị giảng hoà?",
+     "Quick test! Why did Lý Thường Kiệt offer peace?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: để kết thúc chiến tranh, cho quân Tống một lối thoát, không tốn thêm xương máu!",
+     "The answer is A: to end the war and give the Song a way out, without more bloodshed!"
+    ]
+   ],
+   "nguon_trang": [
+    60,
+    61
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Tương truyền: bài thơ Nam quốc sơn hà làm nhụt ý chí giặc, khích lệ quân ta",
+    "Cuối xuân 1077: quân ta vượt sông Như Nguyệt, đánh thẳng vào doanh trại giặc",
+    "Lý Thường Kiệt chủ động “giảng hoà” – cho quân Tống lối thoát",
+    "Ý nghĩa: đánh tan cuộc xâm lược, bảo vệ vững chắc độc lập; đoàn kết; lãnh đạo tài ba"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tương truyền, bài thơ Nam quốc sơn hà làm nhụt ý chí giặc, khích lệ quân ta.",
+     "Remember: legend says 'Nam quốc sơn hà' broke the enemy's will and inspired our troops."
+    ],
+    [
+     "Hân Hân",
+     "Cuối mùa xuân năm 1077, quân ta vượt sông, đánh thẳng vào doanh trại giặc.",
+     "In late spring 1077, our army crossed the river and hit the enemy camp."
+    ],
+    [
+     "Nhật Minh",
+     "Lý Thường Kiệt chủ động giảng hoà, cho quân Tống một lối thoát.",
+     "Lý Thường Kiệt offered peace, giving the Song a way out."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng thể hiện tinh thần đoàn kết, quyết tâm của nhân dân Đại Việt và tài lãnh đạo của Lý Thường Kiệt.",
+     "The victory showed the unity and resolve of Đại Việt's people and Lý Thường Kiệt's brilliant leadership."
+    ]
+   ],
+   "nguon_trang": [
+    60,
+    61
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại bờ đê sông Cầu khi trời đã tối, đèn đền cổ hắt bóng xuống mặt nước; Hân Hân nhìn về phía người xem, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cậu nhận xét gì về cách Lý Thường Kiệt kết thúc cuộc kháng chiến? Bình luận nhé!",
+     "Your challenge: what do you think of the way Lý Thường Kiệt ended the war? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai chỉ huy quân bộ nhà Tống bị chặn đứng trước phòng tuyến sông Như Nguyệt?",
+   "dap_an": [
+    "Hoà Mâu",
+    "Quách Quỳ",
+    "Hầu Nhân Bảo",
+    "Thoát Hoan"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Cuộc tấn công lớn của quân Lý trên sông Như Nguyệt diễn ra khi nào?",
+   "dap_an": [
+    "Tháng 10 – 1075",
+    "Cuối mùa xuân năm 1077",
+    "Đầu năm 981",
+    "Năm 1042"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Kết quả trận tấn công của quân Lý cuối mùa xuân năm 1077 là",
+   "dap_an": [
+    "Quân Tống chiếm được Thăng Long",
+    "Quân Tống thua to, “mười phần chết đến năm, sáu”",
+    "Hai bên bất phân thắng bại",
+    "Quân Lý phải rút về Thăng Long"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Chiến thắng trên phòng tuyến Như Nguyệt có ý nghĩa gì?",
+   "dap_an": [
+    "Đánh tan cuộc xâm lược của nhà Tống, bảo vệ vững chắc nền độc lập",
+    "Mở rộng lãnh thổ sang đất Tống",
+    "Chấm dứt loạn 12 sứ quân",
+    "Dời đô về Thăng Long"
+   ],
+   "dung": 0,
+   "trang": 61
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 60 (Kết nối với văn học: tương truyền ngâm Nam quốc sơn hà; mục b: Quách Quỳ vượt sông bị đẩy lùi, cuối mùa xuân 1077 tấn công lớn, 'mười phần chết đến năm, sáu', đề nghị giảng hoà, Quách Quỳ rút quân), tr. 61 (tư liệu 3; ý nghĩa – đối chiếu ảnh trang). SGK không in nguyên văn bài thơ nên kịch bản chỉ nêu tên bài thơ, không đọc lời thơ. Dùng lại sa bàn nhu-nguyet-1077 (pha vuot_song, phan_cong). Kiến thức chốt của danh mục: 'Lý Thường Kiệt chủ động đề nghị giảng hoà để bảo toàn lực lượng' – SGK diễn đạt là 'thực chất là cho quân Tống một lối thoát' và tư liệu 3 'không nhọc tướng tá, khỏi tốn máu mủ' → kịch bản theo đúng lời SGK. Lời Lý Thường Kiệt, Quách Quỳ, lính Tống là lời dựng. Tiếp nối tập L7-B12-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

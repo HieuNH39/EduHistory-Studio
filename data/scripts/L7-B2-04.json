@@ -1,0 +1,390 @@
+{
+ "ma": "L7-B2-04",
+ "ten_tap": "Cừu ăn thịt người và sự ra đời của chủ nghĩa tư bản",
+ "ten_tap_en": "When Sheep Ate Men: The Birth of Capitalism",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 2. Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+  "trang": [
+   16,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quy-toc-chau-au",
+  "thuong-nhan-chau-au",
+  "quy-toc-anh",
+  "nong-no-mat-dat",
+  "nguoi-chau-phi-bi-bat-lam-no-le",
+  "giai-cap-tu-san",
+  "cong-nhan-lam-thue"
+ ],
+ "nhac": {
+  "tam_trang": "trầm buồn, day dứt (đàn dây trầm); nhịp máy dệt đều đặn ở cảnh công trường",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 2, tr. 16–17.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác mùa đông) trong một cửa hàng quần áo ngày nay, Hân Hân quàng chiếc khăn len đỏ, Nhật Minh cầm cuộn len trắng; kệ áo len xếp đầy phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khăn len ấm ghê! Len này làm từ lông cừu đấy.",
+     "This wool scarf is so warm! The wool comes from sheep."
+    ],
+    [
+     "Nhật Minh",
+     "Cậu có biết từng có thời người ta nói “cừu ăn thịt người” không? Về nước Anh thời ấy xem nào!",
+     "Did you know there was a time people said 'sheep eat men'? Let's go back to England and see!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Sau phát kiến địa lí",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-chau-au",
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Bến cảng châu Âu: những con tàu buồm dỡ hàng – rương vàng bạc, bao hương liệu, gỗ quý; quý tộc và thương nhân áo nhung đứng kiểm đếm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau các cuộc phát kiến địa lí, quý tộc và thương nhân châu Âu đẩy mạnh cướp bóc của cải, tài nguyên từ các nước thuộc địa ở châu Á, châu Phi, châu Mỹ đem về châu Âu.",
+     "After the voyages of discovery, European nobles and merchants stepped up the plunder of wealth and resources from colonies in Asia, Africa and the Americas."
+    ],
+    [
+     "Hân Hân",
+     "Ở trong nước, họ dùng bạo lực và nhiều thủ đoạn để tước đoạt ruộng đất của nông nô, tư liệu sản xuất của thợ thủ công.",
+     "At home, they used force and many tricks to take land from serfs and tools from craftsmen."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-anh",
+    "nong-no-mat-dat"
+   ],
+   "hinh": "Vùng quê nước Anh: quý tộc cưỡi ngựa chỉ huy người làm dựng hàng rào gỗ quanh những thửa ruộng; một gia đình nông nô ôm tay nải bị đuổi khỏi căn nhà tranh, đàn cừu đã được lùa vào đồng cỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giới quý tộc, điển hình nhất ở Anh, đã cướp đoạt ruộng đất của nông nô, rào lại thành đồng cỏ nuôi cừu để lấy lông cung cấp cho ngành sản xuất len dạ.",
+     "Nobles, most typically in England, seized serfs' land and fenced it into pastures for sheep, supplying wool to the cloth industry."
+    ],
+    [
+     "Quý tộc Anh",
+     "Rào hết lại! Nuôi cừu lấy lông còn lời hơn trồng lúa mì!",
+     "Fence it all in! Raising sheep for wool pays better than wheat!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no-mat-dat"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên con đường đất, nhìn những gia đình nông nô mất ruộng lầm lũi đi qua hàng rào gỗ; bên trong rào là đàn cừu trắng thong thả gặm cỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hàng vạn gia đình nông nô mất đất, phải đi lang thang.",
+     "Tens of thousands of serf families lost their land and had to wander the roads."
+    ],
+    [
+     "Hân Hân",
+     "Nhà xã hội học người Anh Tô-mát Mo-rơ gọi đây là hiện tượng “cừu ăn thịt người”.",
+     "The English social thinker Thomas More called this 'sheep eating men'."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã gọi phong trào rào đất nuôi cừu ở Anh là hiện tượng “cừu ăn thịt người”?",
+    "lua_chon": [
+     "C. Mác",
+     "Tô-mát Mo-rơ",
+     "W. Sếch-xpia"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai gọi đây là hiện tượng “cừu ăn thịt người”?",
+     "Pause! Who called this 'sheep eating men'?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Tô-mát Mo-rơ, nhà xã hội học người Anh!",
+     "The answer is B: Thomas More, the English social thinker!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-chau-phi-bi-bat-lam-no-le"
+   ],
+   "hinh": "Bờ biển châu Phi lúc hoàng hôn, một con tàu buồm lớn neo ngoài khơi; trên bãi cát là hàng người châu Phi bị xích tay đứng lặng (vẽ trang nghiêm, nhìn từ xa, không cảnh bạo lực – theo tinh thần Hình 3 SGK)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hàng triệu người da đen ở châu Phi bị bắt để bán cho các chủ đồn điền, hầm mỏ ở châu Âu, châu Mỹ làm nhân công.",
+     "Millions of Black Africans were captured and sold as labour to plantation and mine owners in Europe and the Americas."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-no-mat-dat",
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Những người nông nô mất đất, quần áo cũ, xếp hàng trước cổng một công trường thủ công dệt len; người quản lí ghi tên nhận vào làm thuê",
+   "loi": [
+    [
+     "Hân Hân",
+     "Không có ruộng cày cấy, họ cuối cùng buộc phải vào làm thuê trong các công xưởng của tư sản.",
+     "With no land to farm, they were finally forced to work for wages in bourgeois workshops."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ thế, tư sản tích luỹ được nguồn vốn ban đầu và tập hợp được đội ngũ đông đảo những người làm thuê. Họ lập công trường thủ công, đồn điền lớn, công ti thương mại.",
+     "This let the bourgeoisie build up initial capital and gather a large hired workforce. They set up manufactories, big plantations and trading companies."
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "giai-cap-tu-san",
+    "cong-nhan-lam-thue"
+   ],
+   "hinh": "Bên trong công trường thủ công dệt len: hàng chục công nhân cặm cụi bên khung cửi, guồng sợi; ông chủ áo nhung đứng trên bậc cao, tay cầm túi tiền và sổ sách",
+   "loi": [
+    [
+     "Chủ xưởng",
+     "Nhà xưởng, khung cửi, len sợi đều là của ta. Các người làm, ta trả lương!",
+     "The workshop, the looms, the wool, all of it is mine. You work, I pay your wages!"
+    ],
+    [
+     "Hân Hân",
+     "Đó là quan hệ chủ – thợ: mọi thứ đều là của chủ, còn công nhân phải bán sức lao động và nhận đồng lương ít ỏi.",
+     "That's the owner–worker relationship: the owner holds everything, while workers sell their labour for meagre pay."
+    ],
+    [
+     "Nhật Minh",
+     "Quan hệ sản xuất tư bản chủ nghĩa đã hình thành ngay trong lòng xã hội phong kiến Tây Âu.",
+     "Capitalist relations of production had taken shape within Western European feudal society."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quan hệ sản xuất tư bản chủ nghĩa là quan hệ giữa",
+    "lua_chon": [
+     "Lãnh chúa và nông nô",
+     "Chủ và thợ",
+     "Vua và quan"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Quan hệ sản xuất tư bản chủ nghĩa là quan hệ giữa ai với ai?",
+     "Quick test! Capitalist relations of production are between whom?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: quan hệ chủ – thợ!",
+     "The answer is B: owners and workers!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư sản: từ thợ cả, thương nhân, thị dân giàu có → chủ công trường, chủ đồn điền, nhà buôn lớn",
+    "Tư sản: nhiều của cải, có thế lực kinh tế nhưng chưa có địa vị chính trị",
+    "Vô sản: người lao động làm thuê cho chủ tư bản",
+    "Thời gian đầu, vô sản đi theo tư sản chống chế độ phong kiến"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xã hội Tây Âu biến đổi với hai giai cấp mới. Tư sản vốn là thợ cả, thương nhân, thị dân giàu có, trở thành chủ công trường, chủ đồn điền, nhà buôn lớn.",
+     "Western European society changed, with two new classes. The bourgeoisie, once master craftsmen, merchants and rich townspeople, became owners of workshops, plantations and big trading houses."
+    ],
+    [
+     "Hân Hân",
+     "Họ nắm nhiều của cải, có thế lực kinh tế, nhưng chưa có địa vị chính trị.",
+     "They held great wealth and economic power, but no political standing."
+    ],
+    [
+     "Nhật Minh",
+     "Vô sản là những người lao động làm thuê cho chủ tư bản.",
+     "The proletariat were those who worked for wages for capitalists."
+    ],
+    [
+     "Hân Hân",
+     "Thời gian đầu, họ đi theo giai cấp tư sản để làm cách mạng chống chế độ phong kiến lỗi thời.",
+     "At first, they followed the bourgeoisie in revolution against outdated feudalism."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "tieu_de": "XÃ HỘI TÂY ÂU BIẾN ĐỔI",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại cửa hàng quần áo ngày nay, Hân Hân tháo khăn len cầm trên tay, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một chiếc khăn len hôm nay mà gợi lại cả một trang sử buồn của nông nô nước Anh.",
+     "One wool scarf today recalls a whole sad chapter for England's serfs."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tư sản ở Tây Âu đã tích luỹ vốn và tập trung nhân công bằng những cách nào? Bình luận nhé!",
+     "Your challenge: how did the Western European bourgeoisie build up capital and gather workers? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Giới quý tộc Anh rào ruộng đất của nông nô lại để làm gì?",
+   "dap_an": [
+    "Trồng lúa mì",
+    "Làm đồng cỏ nuôi cừu lấy lông",
+    "Xây lâu đài",
+    "Lập thành thị"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Những nông nô mất ruộng đất cuối cùng buộc phải",
+   "dap_an": [
+    "Trở thành lãnh chúa",
+    "Vào làm thuê trong các công xưởng của tư sản",
+    "Đi thám hiểm châu Mỹ",
+    "Lập phường hội"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Hình thức kinh doanh tư bản chủ nghĩa ở Tây Âu thể hiện qua việc lập",
+   "dap_an": [
+    "Lãnh địa phong kiến",
+    "Công trường thủ công, đồn điền lớn, công ti thương mại",
+    "Nhà thờ, tu viện",
+    "Trường đại học"
+   ],
+   "dung": 1,
+   "trang": 17
+  },
+  {
+   "hoi": "Giai cấp tư sản thời kì này có đặc điểm gì?",
+   "dap_an": [
+    "Có địa vị chính trị cao nhất",
+    "Nắm nhiều của cải nhưng chưa có địa vị chính trị",
+    "Làm thuê cho lãnh chúa",
+    "Sống trong lãnh địa"
+   ],
+   "dung": 1,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 16 (mục 2a: cướp bóc thuộc địa, tước đoạt ruộng đất; ô 'cừu ăn thịt người' của Tô-mát Mo-rơ; buôn bán nô lệ da đen; rào đất cướp ruộng), tr. 17 (tích luỹ vốn, công trường thủ công, quan hệ chủ – thợ; Hình 4 tư sản – vô sản, đọc thêm từ ảnh trang vì OCR thiếu dòng). Kiến thức chốt của danh mục khớp SGK. Cảnh nô lệ châu Phi vẽ trang nghiêm, không bạo lực. Lời quý tộc Anh, chủ xưởng là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

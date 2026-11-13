@@ -1,0 +1,403 @@
+{
+ "ma": "L7-B17-02",
+ "ten_tap": "Kinh tế thịnh vượng và Luật Hồng Đức",
+ "ten_tap_en": "A Thriving Economy and the Hồng Đức Code",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 17. Đại Việt thời Lê sơ (1428 – 1527)",
+  "trang": [
+   83,
+   84,
+   85,
+   86,
+   88
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-lai-le-so",
+  "nong-dan-le-so",
+  "tho-gom-le-so",
+  "thuong-nhan-nuoc-ngoai",
+  "nhan-dan-le-so"
+ ],
+ "nhac": {
+  "tam_trang": "tươi vui, no đủ (đàn tranh, sáo, trống cơm); trang trọng ở cảnh luật pháp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 17, tr. 83–88.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong một xưởng gốm ở làng gốm Bát Tràng (thành phố Hà Nội) ngày nay: bàn xoay, những chiếc bình men lam xếp hàng chờ nung, lò gốm đỏ lửa phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Làng gốm Bát Tràng này đã nổi tiếng từ thời Lê sơ đấy. Khi ấy, gốm còn được làm theo đơn đặt hàng của thương nhân nước ngoài!",
+     "Bát Tràng was already famous in the Lê sơ era. Back then, pottery was even made to order for foreign merchants!"
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế thời Lê sơ thịnh vượng thế nào, và vì sao bộ luật thời ấy được khen là “mẫu mực”? Cùng tìm hiểu nhé!",
+     "How prosperous was the Lê sơ economy, and why was its law code called a 'model'? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1428",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-le-so",
+    "nong-dan-le-so"
+   ],
+   "hinh": "Viên quan Khuyến nông sứ đứng trên bờ ruộng hướng dẫn nông dân khai khẩn đất hoang; xa xa đoàn người lập đồn điền trên vùng đất mới, trâu bò kéo cày",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lê sơ đặc biệt coi trọng và khuyến khích phát triển nông nghiệp. Triều đình đặt các quan chuyên trách như Khuyến nông sứ, Hà đê sứ, Đồn điền sứ.",
+     "The Lê sơ greatly valued farming. The court appointed officials to promote agriculture, manage dykes and set up new farms."
+    ],
+    [
+     "Hân Hân",
+     "Nhà nước cấm để ruộng hoang, đẩy mạnh khẩn hoang và lập đồn điền.",
+     "Leaving fields fallow was banned; land clearing and new estates were pushed forward."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-le-so",
+    "quan-lai-le-so"
+   ],
+   "hinh": "Sân đình làng: viên quan cùng chức sắc làng đọc sổ, chia đều từng thửa ruộng công cho các hộ; ngoài đồng, dân làng khơi kênh, đắp đê ngăn mặn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lê sơ đặt phép quân điền, định kì chia đều ruộng công làng xã.",
+     "The Lê sơ set up the equal-field system, sharing out the village's public fields at regular intervals."
+    ],
+    [
+     "Hân Hân",
+     "Nhân dân khơi kênh, đào sông, đắp đê ngăn mặn, bảo vệ các công trình thuỷ lợi.",
+     "People dug canals and rivers, built dykes against salt water, and protected irrigation works."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-le-so"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên ruộng lúa chín vàng thời Lê sơ, nông dân vừa gặt vừa hát, trâu thong thả nằm nghỉ bên đống rơm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sản xuất nông nghiệp nhanh chóng được phục hồi và phát triển. Đời sống nhân dân dần ổn định.",
+     "Farming quickly recovered and grew. People's lives became more settled."
+    ],
+    [
+     "Nhật Minh",
+     "Dân gian còn ca tụng: “Đời vua Thái Tổ, Thái Tông, thóc lúa đầy đồng, trâu chẳng buồn ăn”!",
+     "Folk verse sang: 'Under kings Thái Tổ and Thái Tông, rice filled the fields, and the buffalo couldn't eat it all'!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phép quân điền thời Lê sơ quy định điều gì?",
+    "lua_chon": [
+     "Định kì chia đều ruộng công làng xã",
+     "Cấm mọi hoạt động buôn bán",
+     "Chia hết ruộng đất cho quý tộc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phép quân điền thời Lê sơ quy định điều gì?",
+     "Pause! What did the Lê sơ equal-field system do?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: định kì chia đều ruộng công làng xã!",
+     "The answer is A: regularly share out the village's public fields equally!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-gom-le-so",
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Làng gốm thời Lê sơ: thợ gốm vẽ hoa văn men lam lên bình, lò nung khói nghi ngút; một thương nhân nước ngoài áo dài, mũ rộng đang xem mẫu, cầm tờ đơn đặt hàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều nghề thủ công truyền thống như dệt lụa, làm gốm phát triển nhanh chóng, hình thành những làng nghề chuyên nghiệp.",
+     "Traditional crafts like silk weaving and pottery grew fast, forming specialised craft villages."
+    ],
+    [
+     "Hân Hân",
+     "Đặc biệt, nghề gốm sứ xuất khẩu theo đơn đặt hàng của thương nhân nước ngoài phát triển mạnh ở Chu Đậu, thành phố Hải Phòng, và Bát Tràng, thành phố Hà Nội.",
+     "Above all, export ceramics made to foreign merchants' orders flourished at Chu Đậu in Hải Phòng and Bát Tràng in Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Một chiếc thuyền buôn lớn thế kỉ XV căng buồm ra khơi, khoang chất đầy bình bát gốm men lam được chèn rơm cẩn thận; trời chuyển dông phía xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một bình gốm sản xuất ở Chu Đậu năm 1450 nay được trưng bày tại Bảo tàng Top-ka-pi ở Thổ Nhĩ Kỳ.",
+     "A vase made at Chu Đậu in 1450 is now displayed at the Topkapı Museum in Turkey."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc khai quật tàu đắm ở Cù Lao Chàm, từ năm 1997 đến năm 1999, đã trục vớt khoảng 240 000 đồ gốm sứ thế kỉ XV, chủ yếu sản xuất ở Chu Đậu, đang trên đường đến các thị trường quốc tế.",
+     "The 1997–1999 excavation of a shipwreck off Cù Lao Chàm recovered about 240,000 pieces of 15th-century ceramics, mostly from Chu Đậu, bound for international markets."
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai",
+    "nhan-dan-le-so"
+   ],
+   "hinh": "Thương cảng Vân Đồn thời Lê sơ: thuyền buôn nhiều nước neo đậu, người khuân những kiện tơ lụa, đồ gốm, lâm thổ sản; trên bờ là phiên chợ đông vui",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Triều đình khuyến khích lập chợ, thúc đẩy buôn bán giữa các địa phương, giữa làng nghề với các đô thị.",
+     "The court encouraged markets and trade between regions, and between craft villages and towns."
+    ],
+    [
+     "Hân Hân",
+     "Thuyền buôn nhiều nước đến buôn bán ở các thương cảng như Vân Đồn ở tỉnh Quảng Ninh, Hội Thống ở tỉnh Hà Tĩnh. Tơ lụa, gốm sứ, lâm thổ sản rất được ưa chuộng.",
+     "Ships from many lands traded at ports like Vân Đồn in Quảng Ninh and Hội Thống in Hà Tĩnh. Silk, ceramics and forest goods were in great demand."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nghề gốm sứ xuất khẩu thời Lê sơ phát triển mạnh ở những làng nghề nào?",
+    "lua_chon": [
+     "Chu Đậu, Bát Tràng",
+     "Vân Đồn, Hội Thống",
+     "Lam Kinh, Lũng Nhai"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Gốm sứ xuất khẩu thời Lê sơ phát triển mạnh ở đâu?",
+     "Quick test! Where did export ceramics flourish under the Lê sơ?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Chu Đậu và Bát Tràng!",
+     "The answer is A: Chu Đậu and Bát Tràng!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-le-so"
+   ],
+   "hinh": "Trong công đường thời Lê sơ, viên quan mở bộ luật dày đọc to; người phụ nữ và con gái đứng nghe phân xử việc chia tài sản, nét mặt nhẹ nhõm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lê sơ ban hành bộ Quốc triều hình luật, còn gọi là Luật Hồng Đức, gồm 722 điều, có nhiều điểm tiến bộ. Nhà sử học Phan Huy Chú đánh giá: “Thật là cái mẫu mực để trị nước”.",
+     "The Lê sơ issued the Quốc triều hình luật, or Hồng Đức Code, with 722 articles and many progressive points. Historian Phan Huy Chú called it 'truly a model for governing'."
+    ],
+    [
+     "Hân Hân",
+     "Theo luật, con gái được quyền thừa kế tài sản như con trai; tài sản do hai vợ chồng làm ra được chia đôi; người chồng ruồng bỏ vợ năm tháng thì người vợ có quyền bỏ chồng.",
+     "Under it, daughters could inherit like sons; property a couple earned together was split in half; and a wife abandoned for five months could leave her husband."
+    ]
+   ],
+   "nguon_trang": [
+    84,
+    88
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Nông nghiệp: quan Khuyến nông sứ, Hà đê sứ, Đồn điền sứ; khẩn hoang, phép quân điền, thuỷ lợi",
+    "Thủ công: làng nghề; gốm sứ xuất khẩu ở Chu Đậu, Bát Tràng",
+    "Thương nghiệp: lập chợ; thương cảng Vân Đồn, Hội Thống",
+    "Quốc triều hình luật (Luật Hồng Đức) – 722 điều, nhiều điểm tiến bộ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nông nghiệp được coi trọng với các quan chuyên trách, khẩn hoang, phép quân điền và thuỷ lợi.",
+     "Remember: farming was prized, with special officials, land clearing, equal fields and irrigation."
+    ],
+    [
+     "Hân Hân",
+     "Thủ công phát triển, gốm sứ xuất khẩu nổi tiếng ở Chu Đậu, Bát Tràng.",
+     "Crafts grew, with famous export ceramics from Chu Đậu and Bát Tràng."
+    ],
+    [
+     "Nhật Minh",
+     "Buôn bán sôi động ở chợ và các thương cảng Vân Đồn, Hội Thống.",
+     "Trade bustled in markets and at the ports of Vân Đồn and Hội Thống."
+    ],
+    [
+     "Hân Hân",
+     "Và Luật Hồng Đức gồm 722 điều, có nhiều điểm tiến bộ.",
+     "And the Hồng Đức Code had 722 articles with many progressive points."
+    ]
+   ],
+   "nguon_trang": [
+    84,
+    85,
+    86
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại xưởng gốm Bát Tràng, cầm chiếc bình men lam vừa ra lò, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Luật Hồng Đức có những điểm tiến bộ nào, nhất là đối với phụ nữ? Bình luận nhé!",
+     "Your challenge: what progressive points did the Hồng Đức Code have, especially for women? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà Lê sơ được thành lập năm nào?",
+   "dap_an": [
+    "1407",
+    "1418",
+    "1428",
+    "1471"
+   ],
+   "dung": 2,
+   "trang": 83
+  },
+  {
+   "hoi": "Bộ Quốc triều hình luật (Luật Hồng Đức) gồm bao nhiêu điều?",
+   "dap_an": [
+    "388 điều",
+    "500 điều",
+    "722 điều",
+    "1 000 điều"
+   ],
+   "dung": 2,
+   "trang": 84
+  },
+  {
+   "hoi": "Những thương cảng nào được nhắc đến thời Lê sơ?",
+   "dap_an": [
+    "Vân Đồn, Hội Thống",
+    "Chu Đậu, Bát Tràng",
+    "Li-xbon, Ca-li-cút",
+    "Ma-lắc-ca, Pa-gan"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Theo Luật Hồng Đức, trong gia đình con gái có quyền gì?",
+   "dap_an": [
+    "Không được hưởng tài sản",
+    "Được quyền thừa kế tài sản như con trai",
+    "Chỉ được hưởng một nửa phần của con trai",
+    "Phải nhường hết cho con trai trưởng"
+   ],
+   "dung": 1,
+   "trang": 88
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 83 (năm 1428 lập nhà Lê sơ), tr. 84 (Quốc triều hình luật – Luật Hồng Đức, 722 điều, lời Phan Huy Chú), tr. 85 (nông nghiệp: sơ đồ 4 biện pháp – đối chiếu ảnh trang; câu ca 'Đời vua Thái Tổ, Thái Tông…'; thủ công: Chu Đậu, Bát Tràng; Hình 4 bình gốm Chu Đậu 1450, Bảo tàng Top-ka-pi), tr. 86 (Em có biết: tàu đắm Cù Lao Chàm 1997 – 1999, khoảng 240 000 đồ gốm; thương nghiệp: chợ, Vân Đồn, Hội Thống), tr. 88 (tư liệu 3 Luyện tập: Điều 388, 374 – 375, 308 Luật Hồng Đức – đối chiếu ảnh trang). Kiến thức chốt của danh mục khớp SGK; lưu ý danh mục ghi 'phép quân điền và đồn điền' – SGK nêu 'lập đồn điền' và 'phép quân điền' là hai biện pháp riêng. Lời đọc không nêu số hiệu điều luật để tránh rối, chỉ diễn đạt nội dung.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

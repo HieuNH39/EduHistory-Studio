@@ -1,0 +1,379 @@
+{
+ "ma": "L7-B1-01",
+ "ten_tap": "Đế quốc La Mã sụp đổ và sự trỗi dậy của người Giéc-man",
+ "ten_tap_en": "The Fall of Rome and the Rise of the Germanic Peoples",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 1. Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+  "trang": [
+   9,
+   10
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "no-le-la-ma",
+  "nguoi-giec-man",
+  "hoang-de-sac-lo-ma-nho",
+  "quan-doi-pho-rang",
+  "lanh-chua-phong-kien",
+  "nong-no"
+ ],
+ "nhac": {
+  "tam_trang": "u hoài ở cảnh La Mã suy tàn, mạnh mẽ (kèn đồng, trống) khi người Giéc-man tiến xuống",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 1, tr. 9–10.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi ở góc thư viện trường, Nhật Minh cầm máy tính bảng hiển thị ảnh bức tượng đồng một vị hoàng đế đội vương miện, cầm quả cầu, đứng giữa công viên xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên lãnh thổ nhiều nước châu Âu ngày nay có tượng đài tưởng niệm Hoàng đế Sác-lơ-ma-nhơ, như bức tượng này ở thành phố Hăm-buốc, nước Đức.",
+     "Across Europe today there are monuments to Emperor Charlemagne, like this statue in Hamburg, Germany."
+    ],
+    [
+     "Nhật Minh",
+     "Ông có công lao gì mà được tôn vinh như thế? Phải quay về thời đế quốc La Mã sụp đổ mới hiểu được!",
+     "What did he do to deserve that? We'll have to go back to the fall of the Roman Empire to understand!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ III",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "no-le-la-ma"
+   ],
+   "hinh": "Một điền trang La Mã cổ đại tiêu điều: ruộng bỏ hoang, cột đá đổ nghiêng; phía xa những người nô lệ giơ nông cụ nổi dậy, khói bốc lên (viễn cảnh, không cảnh bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ III, đế quốc La Mã lâm vào tình trạng khủng hoảng.",
+     "From the 3rd century, the Roman Empire fell into crisis."
+    ],
+    [
+     "Hân Hân",
+     "Các cuộc đấu tranh của nô lệ khiến sản xuất sút kém, xã hội ngày càng rối ren.",
+     "Slave revolts caused production to fall and society grew ever more chaotic."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-giec-man"
+   ],
+   "hinh": "Đoàn người Giéc-man tóc dài, áo da thú, cầm khiên gỗ và rìu, vượt một con sông lớn giữa rừng thông phương Bắc tiến về phía những đồn luỹ đá của La Mã",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các tộc người Giéc-man có nguồn gốc từ Bắc Âu, sinh sống ở ngoài cương giới của đế quốc La Mã, thường liên minh với nhau để xâm chiếm đất đai của người La Mã.",
+     "The Germanic peoples came from Northern Europe and lived beyond the empire's borders, often joining forces to seize Roman land."
+    ],
+    [
+     "Hân Hân",
+     "Trước thế kỉ V, họ còn sống trong thời kì xã hội nguyên thuỷ, nên người La Mã gọi họ là “man tộc”.",
+     "Before the 5th century they still lived in primitive societies, so the Romans called them 'barbarians'."
+    ],
+    [
+     "Thủ lĩnh Giéc-man",
+     "Vượt sông! Đất đai của La Mã ở ngay phía trước!",
+     "Cross the river! Roman lands lie just ahead!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-giec-man"
+   ],
+   "hinh": "Quảng trường một thành phố La Mã đổ nát, tượng đá đổ vỡ, những chiến binh Giéc-man cắm cờ của bộ tộc; bầu trời xám chiều tà",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến nửa cuối thế kỉ V, các bộ tộc người Giéc-man từ phương Bắc tràn xuống xâm chiếm lãnh thổ, đưa đến sự diệt vong của đế quốc La Mã năm 476.",
+     "In the late 5th century, Germanic tribes swept down from the north and seized its lands, bringing the Roman Empire to an end in 476."
+    ],
+    [
+     "Hân Hân",
+     "Từ đây, chế độ phong kiến từng bước được hình thành ở Tây Âu.",
+     "From then on, feudalism gradually took shape in Western Europe."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đế quốc La Mã bị diệt vong vào năm nào?",
+    "lua_chon": [
+     "Năm 476",
+     "Năm 742",
+     "Năm 814"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đế quốc La Mã bị diệt vong vào năm nào?",
+     "Pause! In which year did the Roman Empire fall?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 476!",
+     "The answer is A: 476!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-giec-man"
+   ],
+   "hinh": "Bốn vị vua Giéc-man đội vương miện thô sơ, mỗi người đứng dưới một lá cờ bộ tộc khác nhau trên tấm bản đồ giản lược Tây Âu, những cột đá La Mã đổ nát phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khi tràn vào lãnh thổ La Mã, người Giéc-man đã thủ tiêu bộ máy nhà nước của chủ nô La Mã,",
+     "Entering Roman lands, the Germanic peoples abolished the Roman slave-owners' state,"
+    ],
+    [
+     "Hân Hân",
+     "và thành lập nhiều vương quốc mới như: vương quốc của người Ăng-glô Xắc-xông, Phơ-răng, Tây Gốt, Đông Gốt.",
+     "and founded many new kingdoms, such as those of the Anglo-Saxons, the Franks, the Visigoths and the Ostrogoths."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "hoang-de-sac-lo-ma-nho",
+    "quan-doi-pho-rang"
+   ],
+   "hinh": "Hoàng đế Sác-lơ-ma-nhơ (vẽ theo tượng tư liệu: râu dài, vương miện, áo choàng dài, tay cầm kiếm) cưỡi ngựa trắng dẫn đầu đoàn kị sĩ Phơ-răng qua đồng cỏ rộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong đó, Vương quốc Phơ-răng, qua các cuộc chiến tranh chinh phục của Hoàng đế Sác-lơ-ma-nhơ, đã trở thành một đế quốc rộng lớn, tồn tại lâu dài.",
+     "Among them, the Frankish kingdom, through Emperor Charlemagne's wars of conquest, became a vast and long-lasting empire."
+    ],
+    [
+     "Sác-lơ-ma-nhơ",
+     "Tiến lên! Hãy mở rộng bờ cõi của Phơ-răng!",
+     "Forward! Let us widen the borders of the Franks!"
+    ],
+    [
+     "Nhật Minh",
+     "Đế quốc ấy giữ vai trò quan trọng trong lịch sử Tây Âu thời kì này.",
+     "That empire played an important role in Western European history at the time."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua-phong-kien",
+    "nong-no"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên bờ ruộng ở Vương quốc Phơ-răng: một bên quý tộc Giéc-man và quý tộc La Mã nhận đất đai, bên kia nô lệ được giải phóng và nông dân mất ruộng đang cày thuê",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quá trình phong kiến hoá diễn ra mạnh mẽ ở Vương quốc Phơ-răng, với sự hình thành của các giai cấp mới.",
+     "Feudalisation advanced strongly in the Frankish kingdom, as new classes formed."
+    ],
+    [
+     "Hân Hân",
+     "Đó là lãnh chúa phong kiến và nông nô.",
+     "They were the feudal lords and the serfs."
+    ]
+   ],
+   "nguon_trang": [
+    9,
+    10
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-giec-man"
+   ],
+   "hinh": "Tấm bản đồ da cổ trải trên bàn đá bị một vệt mực chia làm ba phần; ba hoàng thân đứng ba phía nhìn nhau (minh hoạ ước lệ, không ghi tên người)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi Sác-lơ-ma-nhơ mất, Vương quốc Phơ-răng bị chia thành ba vương quốc, về sau trở thành các nước Pháp, Đức và I-ta-li-a.",
+     "After Charlemagne died, the Frankish realm split into three kingdoms, which later became France, Germany and Italy."
+    ],
+    [
+     "Hân Hân",
+     "Ở đó, chế độ phong kiến hoàn toàn ngự trị.",
+     "There, feudalism reigned completely."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ thế kỉ III: đế quốc La Mã khủng hoảng",
+    "Năm 476: người Giéc-man xâm chiếm, đế quốc La Mã diệt vong",
+    "Người Giéc-man lập nhiều vương quốc mới; Phơ-răng thành đế quốc dưới thời Sác-lơ-ma-nhơ",
+    "Hình thành giai cấp lãnh chúa phong kiến và nông nô"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ thế kỉ III, đế quốc La Mã khủng hoảng.",
+     "Remember: from the 3rd century, the Roman Empire was in crisis."
+    ],
+    [
+     "Hân Hân",
+     "Năm 476, người Giéc-man tràn xuống, đế quốc La Mã diệt vong.",
+     "In 476, the Germanic peoples swept in and the Roman Empire fell."
+    ],
+    [
+     "Nhật Minh",
+     "Người Giéc-man lập nhiều vương quốc mới; Phơ-răng thành đế quốc rộng lớn dưới thời Sác-lơ-ma-nhơ.",
+     "They founded new kingdoms; the Franks became a vast empire under Charlemagne."
+    ],
+    [
+     "Hân Hân",
+     "Và hai giai cấp mới ra đời: lãnh chúa phong kiến và nông nô.",
+     "And two new classes emerged: feudal lords and serfs."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại thư viện, Hân Hân chỉ vào ảnh bức tượng trên máy tính bảng rồi nhìn về phía người xem, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, vì sao nhiều nước châu Âu ngày nay lại dựng tượng tưởng niệm Sác-lơ-ma-nhơ? Bình luận nhé!",
+     "Your challenge: why do you think many European countries today have statues of Charlemagne? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những người tràn xuống xâm chiếm, đưa đến sự diệt vong của đế quốc La Mã là",
+   "dap_an": [
+    "Người Ả Rập",
+    "Người Giéc-man",
+    "Người Mông Cổ",
+    "Người Thổ Nhĩ Kỳ"
+   ],
+   "dung": 1,
+   "trang": 9
+  },
+  {
+   "hoi": "Người La Mã gọi người Giéc-man là “man tộc” vì",
+   "dap_an": [
+    "Họ sống trong thời kì xã hội nguyên thuỷ",
+    "Họ đến từ châu Á",
+    "Họ không biết đi biển",
+    "Họ theo Thiên Chúa giáo"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Vương quốc nào của người Giéc-man trở thành một đế quốc rộng lớn nhờ các cuộc chinh phục của Sác-lơ-ma-nhơ?",
+   "dap_an": [
+    "Tây Gốt",
+    "Đông Gốt",
+    "Phơ-răng",
+    "Ăng-glô Xắc-xông"
+   ],
+   "dung": 2,
+   "trang": 9
+  },
+  {
+   "hoi": "Sau khi Sác-lơ-ma-nhơ mất, Vương quốc Phơ-răng bị chia thành ba vương quốc, về sau trở thành",
+   "dap_an": [
+    "Anh, Pháp, Đức",
+    "Pháp, Đức, I-ta-li-a",
+    "Tây Ban Nha, Bồ Đào Nha, Pháp",
+    "Đức, Áo, I-ta-li-a"
+   ],
+   "dung": 1,
+   "trang": 10
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 9 (mở đầu, Hình 1 tượng Sác-lơ-ma-nhơ ở Hăm-buốc; mục 1; ô Em có biết về người Giéc-man – đọc từ ảnh trang vì OCR lỗi), tr. 10 (Hình 2 sơ đồ giai cấp; Phơ-răng chia ba). Danh mục đề xuất 'bản đồ động các bộ tộc Giéc-man' nhưng SGK không có lược đồ cho mục này → dùng thẻ ghi nhớ thay bản đồ. Kiến thức chốt của danh mục khớp SGK. Lời thủ lĩnh Giéc-man và Sác-lơ-ma-nhơ là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

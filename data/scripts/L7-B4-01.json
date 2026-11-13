@@ -1,0 +1,438 @@
+{
+ "ma": "L7-B4-01",
+ "ten_tap": "Dòng chảy lịch sử Trung Quốc",
+ "ten_tap_en": "The Flow of Chinese History",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 4. Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+  "trang": [
+   24,
+   25
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-nha-tan",
+  "tan-thuy-hoang",
+  "luu-bang",
+  "quan-doi-trung-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, phương Đông (đàn tranh, trống lớn); nhịp đều như dòng sông ở các trục thời gian",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 4, tr. 24–25.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước tấm ảnh khổ lớn chụp toàn cảnh Tử Cấm Thành ở Bắc Kinh treo trong phòng học Lịch sử: những dãy mái ngói vàng nối tiếp, quảng trường lát đá rộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Tử Cấm Thành ở Thủ đô Bắc Kinh, một quần thể cung điện lớn, biểu tượng của Trung Quốc thời phong kiến.",
+     "This is the Forbidden City in Beijing, a vast palace complex and a symbol of feudal China."
+    ],
+    [
+     "Nhật Minh",
+     "Từ thế kỉ III trước Công nguyên đến giữa thế kỉ XIX, Trung Quốc đã trải qua những triều đại nào? Cùng xuôi dòng lịch sử nhé!",
+     "From the 3rd century BCE to the mid-19th century, which dynasties ruled China? Let's follow the flow of history!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "221 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-nha-tan"
+   ],
+   "hinh": "Nhiều đạo quân mang cờ hiệu khác nhau dàn trận trên đồng bằng hoàng thổ; đội quân nước Tần đông đảo, giáp trụ chỉnh tề tiến lên phía trước (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thời nhà Chu, tình trạng phân tán, chia rẽ giữa các nước chư hầu ngày càng nghiêm trọng.",
+     "At the end of the Zhou dynasty, division among the vassal states grew ever worse."
+    ],
+    [
+     "Hân Hân",
+     "Trong số đó, nước Tần mạnh dần lên nhờ cải cách, lần lượt tiêu diệt các đối thủ.",
+     "Among them, the state of Qin grew strong through reform and defeated its rivals one by one."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tan-thuy-hoang"
+   ],
+   "hinh": "Tần Thuỷ Hoàng (vẽ theo tranh cổ: mũ miện có tua ngọc rủ trước mặt, áo bào đen viền đỏ) đứng trên bậc cao cung điện, bá quan quỳ lạy phía dưới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 221 trước Công nguyên, vua nước Tần là Tần Thuỷ Hoàng thống nhất lãnh thổ, tự xưng Hoàng đế,",
+     "In 221 BCE, the Qin king, Qin Shi Huang, unified the land and proclaimed himself Emperor,"
+    ],
+    [
+     "Tần Thuỷ Hoàng",
+     "Từ nay, thiên hạ quy về một mối. Ta là Hoàng đế!",
+     "From today, all under heaven is one. I am the Emperor!"
+    ],
+    [
+     "Hân Hân",
+     "và lập ra triều đại phong kiến đầu tiên ở Trung Quốc.",
+     "and founded the first feudal dynasty in China."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "luu-bang"
+   ],
+   "hinh": "Lưu Bang (vẽ theo tranh cổ: râu dài, áo giáp, áo choàng đỏ) cưỡi ngựa tiến vào cổng một kinh thành, quân lính giương cờ chữ Hán",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 206 trước Công nguyên, Lưu Bang lật đổ Triều Tần,",
+     "In 206 BCE, Liu Bang overthrew the Qin,"
+    ],
+    [
+     "Hân Hân",
+     "đặt cơ sở cho sự ra đời của Triều Hán, một trong những triều đại thịnh vượng của chế độ phong kiến Trung Quốc.",
+     "laying the foundation for the Han, one of feudal China's most prosperous dynasties."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 221 TCN, ai đã thống nhất lãnh thổ Trung Quốc, lập ra triều đại phong kiến đầu tiên?",
+    "lua_chon": [
+     "Lưu Bang",
+     "Tần Thuỷ Hoàng",
+     "Đường Thái Tông"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 221 trước Công nguyên, ai đã thống nhất Trung Quốc?",
+     "Pause! Who unified China in 221 BCE?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Tần Thuỷ Hoàng!",
+     "The answer is B: Qin Shi Huang!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-trung-quoc"
+   ],
+   "hinh": "Bức tranh cuộn chuyển cảnh: các thành trì cắm những lá cờ khác nhau, đất nước chia thành nhiều mảnh; rồi một đoàn quân lớn giương cờ thống nhất tiến qua",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 220, lịch sử Trung Quốc lại trải qua thời kì đầy biến động, đất nước bị phân chia.",
+     "From the year 220, China again went through turbulent times and was divided."
+    ],
+    [
+     "Hân Hân",
+     "Đến năm 589, nhà Tuỳ mới thống nhất được Trung Quốc.",
+     "Only in 589 did the Sui dynasty reunify China."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TỪ TẦN ĐẾN TUỲ",
+   "moc": [
+    [
+     "221 TCN",
+     "Tần Thuỷ Hoàng thống nhất, lập Triều Tần"
+    ],
+    [
+     "206 TCN",
+     "Lưu Bang lật đổ Tần – cơ sở cho Triều Hán"
+    ],
+    [
+     "Từ 220",
+     "Thời kì biến động, đất nước chia cắt"
+    ],
+    [
+     "589",
+     "Nhà Tuỳ thống nhất Trung Quốc"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi lên trục thời gian nào! Năm 221 trước Công nguyên, Triều Tần.",
+     "Let's put it on a timeline! 221 BCE: the Qin."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 206 trước Công nguyên, Lưu Bang lật đổ Tần, mở đường cho Triều Hán.",
+     "206 BCE: Liu Bang topples the Qin, opening the way for the Han."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 220, đất nước bị chia cắt.",
+     "From 220, the country is divided."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 589, nhà Tuỳ thống nhất Trung Quốc.",
+     "589: the Sui reunify China."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TỪ ĐƯỜNG ĐẾN THANH",
+   "moc": [
+    [
+     "618 – 907",
+     "Đường"
+    ],
+    [
+     "907 – 960",
+     "Ngũ đại"
+    ],
+    [
+     "960 – 1279",
+     "Tống"
+    ],
+    [
+     "1271 – 1368",
+     "Nguyên"
+    ],
+    [
+     "1368 – 1644",
+     "Minh"
+    ],
+    [
+     "1644 – 1911",
+     "Thanh"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ đó, Trung Quốc tiếp tục trải qua các triều đại: Đường, từ năm 618 đến năm 907; thời kì Ngũ đại, từ năm 907 đến năm 960;",
+     "After that, China passed through more dynasties: the Tang, from 618 to 907; the Five Dynasties, from 907 to 960;"
+    ],
+    [
+     "Hân Hân",
+     "Tống, từ năm 960 đến năm 1279; Nguyên, từ năm 1271 đến năm 1368;",
+     "the Song, from 960 to 1279; the Yuan, from 1271 to 1368;"
+    ],
+    [
+     "Nhật Minh",
+     "Minh, từ năm 1368 đến năm 1644; và nhà Thanh, từ năm 1644 đến năm 1911, triều đại phong kiến cuối cùng của Trung Quốc.",
+     "the Ming, from 1368 to 1644; and the Qing, from 1644 to 1911, the last feudal dynasty of China."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Triều đại phong kiến cuối cùng của Trung Quốc là",
+    "lua_chon": [
+     "Nhà Minh",
+     "Nhà Nguyên",
+     "Nhà Thanh"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Triều đại phong kiến cuối cùng của Trung Quốc là triều đại nào?",
+     "Quick test! Which was China's last feudal dynasty?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: nhà Thanh, tồn tại đến năm 1911!",
+     "The answer is C: the Qing, which lasted until 1911!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "221 TCN: Tần Thuỷ Hoàng thống nhất, lập triều đại phong kiến đầu tiên",
+    "206 TCN: Lưu Bang lật đổ Tần, mở ra Triều Hán",
+    "589: nhà Tuỳ thống nhất sau thời kì chia cắt",
+    "Đường → Ngũ đại → Tống → Nguyên → Minh → Thanh (cuối cùng, đến 1911)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 221 trước Công nguyên, Tần Thuỷ Hoàng lập ra triều đại phong kiến đầu tiên.",
+     "Remember: in 221 BCE, Qin Shi Huang founded the first feudal dynasty."
+    ],
+    [
+     "Hân Hân",
+     "Năm 206 trước Công nguyên, Lưu Bang lật đổ Tần, mở ra Triều Hán.",
+     "In 206 BCE, Liu Bang toppled the Qin and opened the Han."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 589, nhà Tuỳ thống nhất lại đất nước.",
+     "In 589, the Sui reunified the country."
+    ],
+    [
+     "Hân Hân",
+     "Tiếp theo là Đường, Ngũ đại, Tống, Nguyên, Minh, và cuối cùng là Thanh.",
+     "Then came the Tang, Five Dynasties, Song, Yuan, Ming and finally the Qing."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại trước tấm ảnh Tử Cấm Thành, Nhật Minh vẽ một mũi tên dài trên bảng trắng, nhìn về phía người xem, giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy tự vẽ một trục thời gian các triều đại Trung Quốc theo ý tưởng của cậu, rồi khoe trong phần bình luận nhé!",
+     "Your challenge: draw your own timeline of China's dynasties, then share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nước nào mạnh dần lên nhờ cải cách và thống nhất Trung Quốc năm 221 TCN?",
+   "dap_an": [
+    "Nước Tần",
+    "Nước Hán",
+    "Nước Tuỳ",
+    "Nước Chu"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Năm 206 TCN, Lưu Bang lật đổ Triều Tần, đặt cơ sở cho sự ra đời của",
+   "dap_an": [
+    "Triều Đường",
+    "Triều Hán",
+    "Triều Tống",
+    "Triều Minh"
+   ],
+   "dung": 1,
+   "trang": 25
+  },
+  {
+   "hoi": "Năm 589, triều đại nào thống nhất được Trung Quốc?",
+   "dap_an": [
+    "Nhà Tuỳ",
+    "Nhà Đường",
+    "Nhà Nguyên",
+    "Nhà Thanh"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Nhà Thanh tồn tại trong khoảng thời gian nào?",
+   "dap_an": [
+    "618 – 907",
+    "960 – 1279",
+    "1368 – 1644",
+    "1644 – 1911"
+   ],
+   "dung": 3,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 24 (Hình 1 Tử Cấm Thành), tr. 25 (mục 1: nhà Chu, nước Tần, 221 TCN, 206 TCN, từ năm 220, 589, các triều đại và năm tồn tại – đối chiếu ảnh trang). Kiến thức chốt của danh mục khớp SGK. Lời Tần Thuỷ Hoàng là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

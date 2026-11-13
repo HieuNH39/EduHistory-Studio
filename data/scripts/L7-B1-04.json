@@ -1,0 +1,492 @@
+{
+ "ma": "L7-B1-04",
+ "ten_tap": "Thành thị trung đại - Những bông hoa rực rỡ",
+ "ten_tap_en": "Medieval Towns: The Brightest Flowers",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 1. Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+  "trang": [
+   12,
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-thu-cong",
+  "thuong-nhan",
+  "lanh-chua-phong-kien",
+  "thi-dan",
+  "sinh-vien-trung-dai"
+ ],
+ "nhac": {
+  "tam_trang": "vui tươi, nhộn nhịp như phiên chợ; ấm áp ở đoạn kết",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 1, tr. 12–13.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi dạo trên một con phố nhộn nhịp ngày nay, hai bên là các cửa hàng đồ thủ công, quầy hoa tươi rực rỡ; Hân Hân cầm một bó hoa nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Minh ơi, có người từng ví thành phố giống như những bông hoa rực rỡ đấy. Thành phố mà lại là hoa?",
+     "Minh, someone once compared cities to brilliant flowers. A city, a flower?"
+    ],
+    [
+     "Nhật Minh",
+     "Đó là nhận xét của C. Mác về thành thị châu Âu thời trung đại. Đi xem những “bông hoa” ấy nở ra thế nào nhé!",
+     "That was C. Marx, talking about medieval European towns. Let's see how those 'flowers' bloomed!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Trong một xưởng nhỏ bên trong lãnh địa phong kiến, thợ thủ công rèn sắt, dệt vải, làm đồ gốm; hàng hoá chất đầy các kệ gỗ, chật cả góc xưởng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XI, thủ công nghiệp ở Tây Âu phát triển. Hàng hoá làm ra ngày càng nhiều.",
+     "From the late 11th century, crafts in Western Europe grew. More and more goods were being made."
+    ],
+    [
+     "Hân Hân",
+     "Làm ra nhiều thì phải đem đi trao đổi. Nhu cầu trao đổi hàng hoá cứ thế tăng lên.",
+     "With so much being made, it had to be traded. The need for exchange kept growing."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong",
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Hai cảnh ghép: bên trái một người thợ thủ công khoác tay nải lặng lẽ rời cổng lãnh địa lúc rạng sáng; bên phải một người thợ khác trao túi tiền cho viên quản lí của lãnh chúa, nhận lại tờ giấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một số thợ thủ công tìm cách bỏ trốn khỏi lãnh địa, hoặc dùng tiền chuộc lại thân phận tự do.",
+     "Some craftsmen fled the manors, or paid money to buy back their freedom."
+    ],
+    [
+     "Thợ thủ công",
+     "Từ nay ta là người tự do! Ta sẽ đến nơi đông người mà mở xưởng.",
+     "From now on I'm a free man! I'll open a workshop where the crowds are."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong",
+    "thuong-nhan"
+   ],
+   "hinh": "Một ngã tư đường bên bến sông, người qua lại tấp nập; những thợ thủ công dựng xưởng và quầy hàng bằng gỗ; qua thời gian, nhà cửa mọc lên san sát, có tường bao và cổng thành (chuyển cảnh thời gian trôi nhanh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Họ đến những nơi có đông người qua lại để lập xưởng sản xuất và bán hàng.",
+     "They went to busy places to set up workshops and sell their goods."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, các thị trấn xuất hiện, sau trở thành thành phố, gọi là thành thị trung đại.",
+     "From there, market towns appeared and later grew into cities: the medieval towns."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong",
+    "thuong-nhan"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một phố thành thị trung đại: xưởng rèn, xưởng dệt, quầy bánh, các thương nhân mặc cả, xe hàng lăn trên đường đá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ồn ào ghê! Bên này là xưởng rèn, bên kia là xưởng dệt, chỗ nào cũng có người mua bán.",
+     "So noisy! A smithy here, a weaver's shop there, and people buying and selling everywhere."
+    ],
+    [
+     "Hân Hân",
+     "Cư dân sống trong các thành thị chủ yếu là thương nhân và thợ thủ công đấy.",
+     "Most town dwellers were merchants and craftsmen."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cư dân chủ yếu trong các thành thị trung đại là ai?",
+    "lua_chon": [
+     "Lãnh chúa và nông nô",
+     "Thương nhân và thợ thủ công",
+     "Giáo sĩ và hiệp sĩ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cư dân chủ yếu trong các thành thị trung đại là ai?",
+     "Pause! Who were most of the people living in medieval towns?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thương nhân và thợ thủ công!",
+     "The answer is B: merchants and craftsmen!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua-phong-kien"
+   ],
+   "hinh": "Một lãnh chúa đứng trên công trường xây tường thành mới; bên cạnh là cảnh thợ xây dựng lại nhà cửa trên nền móng đá của một thành phố cổ đổ nát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Không chỉ vậy. Có những thành thị do các lãnh chúa lập ra, có những thành thị được phục hồi từ các thành thị cổ đại.",
+     "There's more. Some towns were founded by lords, and some were revived from ancient cities."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên đồi nhìn xuống một thành phố trung đại ở I-ta-li-a với mái ngói đỏ san sát, tường thành, tháp chuông, dòng sông chảy qua (vẽ theo Hình 6 SGK, không thêm công trình cụ thể)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Phi-ren-xê ở I-ta-li-a, một thành phố hình thành từ thời trung đại.",
+     "This is Florence in Italy, a city that took shape in medieval times."
+    ],
+    [
+     "Nhật Minh",
+     "Mái ngói đỏ trải dài tới tận chân đồi. Đúng là một “bông hoa” giữa vùng đồi!",
+     "Red roofs stretching to the hills. A real 'flower' among the hills!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan",
+    "tho-thu-cong"
+   ],
+   "hinh": "Phiên chợ lớn ở quảng trường thành thị: thương nhân bày vải, dao, nồi đồng; nông dân từ các vùng quê mang lúa mì, len đến bán; tiền xu trao tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thành thị ra đời đã phá vỡ nền kinh tế tự nhiên của các lãnh địa,",
+     "Towns broke apart the self-sufficient economy of the manors,"
+    ],
+    [
+     "Nhật Minh",
+     "và tạo điều kiện cho kinh tế hàng hoá hình thành, phát triển. Làm ra để bán, chứ không chỉ để tự dùng.",
+     "and helped a commodity economy take shape and grow: making things to sell, not just to use."
+    ],
+    [
+     "Thương nhân",
+     "Vải tốt, dao sắc đây! Ai mua nào!",
+     "Fine cloth, sharp knives! Who's buying?"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thi-dan"
+   ],
+   "hinh": "Những người thị dân áo quần tươm tất trò chuyện rôm rả bên đài phun nước ở quảng trường, trẻ em chạy chơi, không khí tươi vui, cởi mở",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành thị đưa đến sự xuất hiện của một tầng lớp mới, gọi là thị dân.",
+     "Towns gave rise to a new class: the townspeople."
+    ],
+    [
+     "Hân Hân",
+     "Thành thị còn mang lại không khí tự do, cởi mở, rất khác với cuộc sống khép kín trong lãnh địa.",
+     "They also brought a free and open atmosphere, very different from closed manor life."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thi-dan"
+   ],
+   "hinh": "Toà nhà hội đồng thành phố trung đại với tháp đồng hồ; các thị dân, thương nhân đứng bàn bạc; phía xa trên đồi là cung điện nhà vua (minh hoạ, không gắn với sự kiện cụ thể)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về chính trị, thành thị góp phần xoá bỏ chế độ phong kiến phân quyền, xây dựng chế độ phong kiến tập quyền.",
+     "Politically, towns helped end divided feudal rule and build a centralised monarchy."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "sinh-vien-trung-dai"
+   ],
+   "hinh": "Một lớp học thời trung đại ở Bô-lô-na: thầy giáo áo choàng đứng giảng trên bục, sinh viên ngồi hàng ghế gỗ, sách da dày mở trên bàn, ánh nắng qua cửa sổ vòm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thành thị còn tạo cơ sở để xây dựng nền văn hoá mới. Nhiều trường đại học được thành lập.",
+     "Towns also laid the ground for a new culture. Many universities were founded."
+    ],
+    [
+     "Nhật Minh",
+     "Ra đời năm 1088, Trường Đại học Bô-lô-na ở I-ta-li-a là trường đại học lâu đời nhất thế giới. Ban đầu, trường dạy Kinh thánh và luật pháp.",
+     "Founded in 1088, the University of Bologna in Italy is the oldest university in the world. At first, it taught the Bible and law."
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ban đầu, Trường Đại học Bô-lô-na dạy những gì?",
+    "lua_chon": [
+     "Kinh thánh và luật pháp",
+     "Thiên văn và hàng hải",
+     "Hội hoạ và điêu khắc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Ban đầu, Trường Đại học Bô-lô-na dạy những gì?",
+     "Quick test! What did the University of Bologna teach at first?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Kinh thánh và luật pháp!",
+     "The answer is A: the Bible and law!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại con phố nhộn nhịp ngày nay, Hân Hân giơ bó hoa lên, nắng chiều vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giờ thì tớ hiểu rồi! C. Mác nhận xét: thành thị giống như những bông hoa rực rỡ nhất của châu Âu thời trung đại.",
+     "Now I get it! C. Marx said towns were like the most brilliant flowers of medieval Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thành thị mang đến buôn bán, tự do, trường đại học và cả một nền văn hoá mới. Ngày nay, Bô-lô-na vẫn thu hút hàng trăm nghìn sinh viên từ khắp thế giới.",
+     "Because towns brought trade, freedom, universities and a new culture. Today, Bologna still draws hundreds of thousands of students from around the world."
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ cuối thế kỉ XI: thủ công nghiệp phát triển → thị trấn → thành thị trung đại",
+    "Cư dân chủ yếu: thương nhân và thợ thủ công",
+    "Phá vỡ kinh tế tự nhiên của lãnh địa, thúc đẩy kinh tế hàng hoá",
+    "Xuất hiện tầng lớp thị dân; không khí tự do, cởi mở",
+    "Góp phần xây dựng chế độ phong kiến tập quyền; nhiều trường đại học ra đời"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: từ cuối thế kỉ XI, thủ công nghiệp phát triển, thị trấn rồi thành thị trung đại ra đời.",
+     "Remember: from the late 11th century, crafts grew and market towns, then medieval towns, appeared."
+    ],
+    [
+     "Hân Hân",
+     "Cư dân chủ yếu là thương nhân và thợ thủ công.",
+     "Most townspeople were merchants and craftsmen."
+    ],
+    [
+     "Nhật Minh",
+     "Thành thị phá vỡ kinh tế tự nhiên của lãnh địa, thúc đẩy kinh tế hàng hoá.",
+     "Towns broke the manors' self-sufficient economy and boosted trade in goods."
+    ],
+    [
+     "Hân Hân",
+     "Tầng lớp thị dân xuất hiện, không khí tự do, cởi mở hơn.",
+     "A townspeople class emerged, in a freer, more open atmosphere."
+    ],
+    [
+     "Nhật Minh",
+     "Thành thị góp phần xây dựng chế độ phong kiến tập quyền, và nhiều trường đại học được thành lập.",
+     "Towns helped build centralised monarchy, and many universities were founded."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem trên con phố ngày nay, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy tìm thêm một dẫn chứng cho thấy thành thị là “bông hoa rực rỡ” của châu Âu thời trung đại. Bình luận nhé!",
+     "Your challenge: find one more piece of evidence that towns were the 'brilliant flowers' of medieval Europe. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thành thị trung đại ở Tây Âu bắt đầu xuất hiện từ khi nào?",
+   "dap_an": [
+    "Thế kỉ V",
+    "Thế kỉ IX",
+    "Cuối thế kỉ XI",
+    "Thế kỉ XVI"
+   ],
+   "dung": 2,
+   "trang": 12
+  },
+  {
+   "hoi": "Nguyên nhân chính dẫn đến sự ra đời của thành thị trung đại là",
+   "dap_an": [
+    "Thủ công nghiệp phát triển, nhu cầu trao đổi hàng hoá tăng",
+    "Nhà vua ra lệnh xây thành phố",
+    "Người Giéc-man tràn vào La Mã",
+    "Phát kiến ra châu Mỹ"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "“Thành thị giống như những bông hoa rực rỡ nhất của châu Âu thời trung đại” là nhận xét của ai?",
+   "dap_an": [
+    "Sác-lơ-ma-nhơ",
+    "C. Mác",
+    "Đan-tê",
+    "Tô-mát Mo-rơ"
+   ],
+   "dung": 1,
+   "trang": 12
+  },
+  {
+   "hoi": "Ý nào KHÔNG phải vai trò của thành thị trung đại?",
+   "dap_an": [
+    "Phá vỡ nền kinh tế tự nhiên của lãnh địa",
+    "Đưa đến sự xuất hiện tầng lớp thị dân",
+    "Củng cố chế độ phong kiến phân quyền",
+    "Tạo cơ sở xây dựng nền văn hoá mới"
+   ],
+   "dung": 2,
+   "trang": 12
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 12 (mục 4, Hình 6, sơ đồ 'Vai trò của thành thị trung đại' – đọc từ ảnh trang) và tr. 13 (Em có biết về Đại học Bô-lô-na). Kiến thức chốt của danh mục khớp SGK. Phi-ren-xê chỉ nêu đúng chú thích Hình 6, không thêm công trình. Lời thợ thủ công, thương nhân là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,381 @@
+{
+ "ma": "L7-CD2-02",
+ "ten_tap": "A-ten: Cái nôi văn minh phương Tây",
+ "ten_tap_en": "Athens: Cradle of Western Civilisation",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Đô thị: Lịch sử và hiện tại",
+  "trang": [
+   170,
+   171,
+   172
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "lai-buon-hy-lap",
+  "no-le"
+ ],
+ "nhac": {
+  "tam_trang": "trong sáng, sóng biển Địa Trung Hải; trầm xuống ở cảnh chợ nô lệ; rộn ràng ở quảng trường",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chủ đề chung 2, tr. 170–172.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi ở bàn học, cùng xem trên máy tính bảng bức ảnh toàn cảnh một thành phố trắng trải dài bên đồi (theo Hình 1 SGK: toàn cảnh A-ten hiện nay); Hân Hân phóng to ảnh bằng hai ngón tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là A-ten, Hy Lạp, một trong những thành phố lớn và lâu đời nhất của châu Âu và thế giới.",
+     "This is Athens, Greece, one of the largest and oldest cities in Europe and the world."
+    ],
+    [
+     "Nhật Minh",
+     "Thời cổ đại, A-ten được coi là cái nôi của văn minh phương Tây, cũng là nơi sinh ra nền dân chủ. Vậy đô thị này đã hình thành thế nào?",
+     "In ancient times, Athens was seen as the cradle of Western civilisation and the birthplace of democracy. So how did this city come to be?"
+    ]
+   ],
+   "nguon_trang": [
+    170
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hy Lạp cổ đại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lai-buon-hy-lap"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sườn đồi khô cằn lởm chởm đá, chỉ có những hàng cây lâu năm thưa thớt; phía dưới là bờ biển khúc khuỷu với nhiều vũng, vịnh xanh biếc, thuyền buồm neo đậu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Hy Lạp, La Mã cổ đại, đất đai khô cằn, chỉ hợp trồng những cây lâu năm.",
+     "In ancient Greece and Rome, the land was dry and only suited to perennial crops."
+    ],
+    [
+     "Hân Hân",
+     "Bù lại, bờ biển có nhiều vũng, vịnh, rất thuận lợi để lập hải cảng. Và chính các hải cảng đã trở thành trung tâm của đô thị.",
+     "In return, the coast had many coves and bays, ideal for harbours. And the harbours themselves became the centres of the cities."
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lai-buon-hy-lap"
+   ],
+   "hinh": "Một xưởng thủ công gần cảng: thợ rèn đúc kim loại, thợ làm đồ dùng bày sản phẩm ra cửa; ngoài bến, người ta khiêng hàng lên thuyền buồm; Nhật Minh và Hân Hân (đồng phục FPT) đứng nép bên cột đá quan sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sống gần biển, lại có nhiều mỏ khoáng sản, cư dân nơi đây sớm đẩy mạnh buôn bán hàng hải và sản xuất thủ công nghiệp.",
+     "Living by the sea, with many mineral mines, the people here soon threw themselves into maritime trade and crafts."
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở Hy Lạp, La Mã cổ đại, trung tâm của các đô thị là",
+    "lua_chon": [
+     "những hải cảng",
+     "những đồng bằng ven sông",
+     "những lãnh địa phong kiến"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ở Hy Lạp, La Mã cổ đại, trung tâm của các đô thị là gì?",
+     "Pause! What were the centres of the cities in ancient Greece and Rome?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: những hải cảng!",
+     "The answer is A: the harbours!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lai-buon-hy-lap"
+   ],
+   "hinh": "Cảng Pi-rê ở A-ten tấp nập: rất nhiều thuyền buồm cập bến, lái buôn từ khắp nơi bốc dỡ hàng hoá đủ loại; một lái buôn Hy Lạp mặc áo choàng vải trắng giơ tay chào bạn hàng vừa cập bến",
+   "loi": [
+    [
+     "Lái buôn Hy Lạp",
+     "Đến Pi-rê thì không lo thiếu bạn hàng! Thuyền bè khắp nơi đều ghé bến này.",
+     "At Piraeus you'll never lack trading partners! Ships from everywhere call at this port."
+    ],
+    [
+     "Hân Hân",
+     "A-ten có nhiều mỏ sắt, mỏ bạc, có những cảng rộng và sâu, rất thuận lợi cho công thương nghiệp và giao thương hàng hải.",
+     "Athens had many iron and silver mines and broad, deep harbours, perfect for crafts, commerce and sea trade."
+    ],
+    [
+     "Nhật Minh",
+     "Cảng Pi-rê của A-ten là trung tâm thương mại lớn nhất của thế giới cổ đại.",
+     "Athens' port of Piraeus was the biggest trading centre of the ancient world."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "no-le"
+   ],
+   "hinh": "Một góc bến Pi-rê, ánh sáng trầm: những người nô lệ cúi đầu đứng xếp hàng chờ được đưa đi (vẽ trang nghiêm, không bạo lực, không xích sắt cận cảnh); Nhật Minh và Hân Hân đứng lặng phía xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hàng hoá trao đổi ở đây rất phong phú. Nhưng thứ hàng quan trọng nhất lại là nô lệ.",
+     "The goods traded here were plentiful. But the most important of all were slaves."
+    ],
+    [
+     "Nhật Minh",
+     "Một sự thật đáng để chúng ta suy nghĩ.",
+     "A fact well worth thinking about."
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cảng Pi-rê ở A-ten từng là",
+    "lua_chon": [
+     "kinh đô của La Mã",
+     "một làng chài nhỏ",
+     "trung tâm thương mại lớn nhất thế giới cổ đại"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nào! Cảng Pi-rê ở A-ten từng là gì?",
+     "Test time! What was the port of Piraeus in Athens?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: trung tâm thương mại lớn nhất thế giới cổ đại!",
+     "The answer is C: the biggest trading centre of the ancient world!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lai-buon-hy-lap"
+   ],
+   "hinh": "Quảng trường lát đá giữa đô thị A-ten cổ: một nhóm người tranh luận sôi nổi, một nhà thơ đọc thơ cho đám đông, nhà điêu khắc tạc tượng đá cẩm thạch, một người vẽ hình học trên bảng sáp; Nhật Minh và Hân Hân (đồng phục FPT) đứng giữa đám đông lắng nghe",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các đô thị ở Hy Lạp, La Mã cổ đại là trung tâm kinh tế, chính trị của nhà nước, đồng thời đặt nền tảng cho các nền văn minh.",
+     "The cities of ancient Greece and Rome were the economic and political centres of the state, and laid the foundations of their civilisations."
+    ],
+    [
+     "Hân Hân",
+     "Văn minh Hy Lạp, La Mã dựa trên kinh tế công thương nghiệp. Không khí dân chủ ở đô thị giúp văn học, nghệ thuật, triết học, khoa học, kĩ thuật nảy nở.",
+     "Greek and Roman civilisation rested on crafts and commerce. The democratic atmosphere of the cities let literature, art, philosophy, science and technology flourish."
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Phương Đông: bên lưu vực sông lớn, đồng bằng màu mỡ – cư dân làm nông nghiệp",
+    "Hy Lạp, La Mã: đất khô cằn, nhiều vũng, vịnh – hải cảng là trung tâm đô thị",
+    "Hy Lạp, La Mã: buôn bán hàng hải, thủ công nghiệp phát triển sớm"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "So sánh một chút nhé: đô thị cổ phương Đông mọc lên bên các dòng sông lớn, trên đồng bằng màu mỡ, nơi cư dân làm nông nghiệp.",
+     "Let's compare: ancient Eastern cities rose beside great rivers on fertile plains, where people farmed."
+    ],
+    [
+     "Nhật Minh",
+     "Còn ở Hy Lạp, La Mã, đất khô cằn nhưng nhiều vũng, vịnh, nên hải cảng là trung tâm đô thị,",
+     "In Greece and Rome, the land was dry but full of bays, so harbours were the hearts of the cities,"
+    ],
+    [
+     "Hân Hân",
+     "và buôn bán hàng hải, thủ công nghiệp phát triển rất sớm.",
+     "and sea trade and crafts developed very early."
+    ]
+   ],
+   "nguon_trang": [
+    171,
+    172
+   ],
+   "tieu_de": "ĐÔ THỊ CỔ: PHƯƠNG ĐÔNG VÀ HY LẠP, LA MÃ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "A-ten: “cái nôi” của văn minh phương Tây, nơi sinh ra nền dân chủ",
+    "Điều kiện: nhiều vũng, vịnh, hải cảng; nhiều mỏ khoáng sản",
+    "Cảng Pi-rê: trung tâm thương mại lớn nhất thế giới cổ đại",
+    "Đô thị: trung tâm kinh tế, chính trị; không khí dân chủ giúp văn hoá nảy nở"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: A-ten là cái nôi của văn minh phương Tây, nơi sinh ra nền dân chủ.",
+     "Remember: Athens is the cradle of Western civilisation and the birthplace of democracy."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều vũng, vịnh, hải cảng, nhiều mỏ khoáng sản giúp công thương nghiệp phát triển.",
+     "Bays, harbours and mines helped crafts and commerce grow."
+    ],
+    [
+     "Nhật Minh",
+     "Cảng Pi-rê là trung tâm thương mại lớn nhất thế giới cổ đại.",
+     "Piraeus was the biggest trading centre of the ancient world."
+    ],
+    [
+     "Hân Hân",
+     "Và nhiều thành tựu văn hoá rực rỡ của Hy Lạp, La Mã vẫn được bảo tồn, phát huy giá trị đến tận ngày nay.",
+     "And many brilliant cultural achievements of Greece and Rome are still preserved and valued today."
+    ]
+   ],
+   "nguon_trang": [
+    170,
+    172
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên máy tính bảng đang mở lại ảnh toàn cảnh A-ten hiện nay, quay về phía người xem, Hân Hân giơ hai ngón tay ra hiệu 'chọn 1 trong 2'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nếu được sống ở một đô thị cổ, cậu chọn Mem-phít bên sông Nin hay A-ten bên bờ biển? Vì sao? Bình luận nhé!",
+     "Your challenge: if you could live in an ancient city, would you pick Memphis on the Nile or Athens by the sea? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    171,
+    172
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời cổ đại, A-ten được coi là",
+   "dap_an": [
+    "“cái nôi” của văn minh phương Tây, nơi sản sinh ra nền dân chủ",
+    "kinh đô của Ai Cập cổ đại",
+    "đô thị lớn nhất của người Xu-me",
+    "thủ đô của Vương quốc Phơ-răng"
+   ],
+   "dung": 0,
+   "trang": 170
+  },
+  {
+   "hoi": "Điều kiện tự nhiên nào giúp hình thành các hải cảng ở Hy Lạp, La Mã cổ đại?",
+   "dap_an": [
+    "Đồng bằng phù sa màu mỡ",
+    "Nhiều vũng, vịnh",
+    "Nhiều sông lớn chảy qua",
+    "Rừng rậm nhiệt đới"
+   ],
+   "dung": 1,
+   "trang": 172
+  },
+  {
+   "hoi": "Theo tư liệu trong SGK, A-ten có nhiều loại mỏ nào?",
+   "dap_an": [
+    "Mỏ than và mỏ dầu",
+    "Mỏ vàng và mỏ đồng",
+    "Mỏ sắt và mỏ bạc",
+    "Mỏ muối và mỏ đá quý"
+   ],
+   "dung": 2,
+   "trang": 172
+  },
+  {
+   "hoi": "Văn minh Hy Lạp, La Mã dựa trên sự phát triển của",
+   "dap_an": [
+    "nền kinh tế nông nghiệp lúa nước",
+    "nền kinh tế công thương nghiệp",
+    "nền kinh tế du mục",
+    "nền kinh tế lãnh địa"
+   ],
+   "dung": 1,
+   "trang": 172
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 170 (A-ten là một trong những thành phố lớn, lâu đời nhất; 'cái nôi' văn minh phương Tây, nơi sản sinh nền dân chủ; Hình 1), tr. 171 (đô thị cổ phương Đông – dùng cho cảnh so sánh), tr. 172 (mục 1b: đất khô cằn, cây lâu năm, vũng vịnh, hải cảng là trung tâm đô thị, mỏ khoáng sản, buôn bán hàng hải và thủ công nghiệp; tư liệu 1: mỏ sắt, mỏ bạc, cảng Pi-rê, hàng quan trọng nhất là nô lệ; mối quan hệ đô thị – văn minh, kinh tế công thương nghiệp, không khí dân chủ). Đối chiếu danh mục: kiến thức chốt 'đô thị là trung tâm văn hoá, chính trị, thúc đẩy dân chủ' chưa sát SGK – SGK ghi đô thị là 'trung tâm kinh tế, chính trị' và 'không khí dân chủ tại các đô thị' tạo điều kiện cho sáng tạo văn hoá; kịch bản dùng đúng cách diễn đạt của SGK. Không có lược đồ trong mục này nên không dùng sa bàn. Cảnh quảng trường chỉ minh hoạ các lĩnh vực SGK nêu (văn học, nghệ thuật, triết học, khoa học – kĩ thuật), không nêu tên nhân vật cụ thể. Lời lái buôn là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

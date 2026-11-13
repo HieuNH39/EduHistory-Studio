@@ -1,0 +1,406 @@
+{
+ "ma": "L7-CD2-01",
+ "ten_tap": "Vì sao đô thị cổ đại xuất hiện bên dòng sông?",
+ "ten_tap_en": "Why Did Ancient Cities Rise by the Rivers?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Đô thị: Lịch sử và hiện tại",
+  "trang": [
+   171
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-ai-cap-co-dai",
+  "nguoi-xu-me",
+  "cu-dan-an-do-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, huyền bí, nhịp chậm; lắng xuống ở cảnh đô thị suy tàn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chủ đề chung 2, tr. 171.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước tấm bản đồ thế giới khổ lớn trong thư viện trường; Hân Hân dùng bút dạ xanh tô đậm ba dòng sông ở châu Phi và châu Á, Nhật Minh cầm kính lúp chăm chú nhìn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hân ơi, sao cậu lại tô đậm mấy con sông này?",
+     "Han, why are you highlighting these rivers?"
+    ],
+    [
+     "Hân Hân",
+     "Vì bên những dòng sông như thế, các đô thị đầu tiên của loài người đã ra đời. Đi xem vì sao nhé!",
+     "Because the first cities of humankind were born beside rivers like these. Let's see why!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thiên niên kỉ IV TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ đê đất nhìn xuống đồng bằng ven sông rộng, nước lấp lánh; cư dân cổ đại cày ruộng, chăn đàn gia súc, phụ nữ dệt vải dưới mái lều, một người nặn gốm bên bờ sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ khoảng thiên niên kỉ IV đến thiên niên kỉ III trước Công nguyên, cư dân đã tập trung sinh sống trên lưu vực các dòng sông lớn ở châu Phi và châu Á.",
+     "From around the 4th to the 3rd millennium BC, people settled together in the basins of great rivers in Africa and Asia."
+    ],
+    [
+     "Hân Hân",
+     "Đó là sông Nin ở Ai Cập, sông Ti-gơ-rơ và Ơ-phơ-rát ở Lưỡng Hà, sông Ấn, sông Hằng ở Ấn Độ.",
+     "They were the Nile in Egypt, the Tigris and Euphrates in Mesopotamia, and the Indus and Ganges in India."
+    ],
+    [
+     "Nhật Minh",
+     "Trên những đồng bằng màu mỡ, họ trồng trọt, chăn nuôi gia súc, dệt vải và làm đồ gốm.",
+     "On the fertile plains, they farmed, raised livestock, wove cloth and made pottery."
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đô thị cổ Mem-phít nằm ở đâu?",
+    "lua_chon": [
+     "Lưỡng Hà",
+     "Ấn Độ",
+     "Ai Cập"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đô thị cổ Mem-phít nằm ở đâu?",
+     "Pause! Where was the ancient city of Memphis?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Ai Cập, bên dòng sông Nin!",
+     "The answer is C: Egypt, by the Nile!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-ai-cap-co-dai"
+   ],
+   "hinh": "Cảnh tua nhanh theo thời gian trên cùng khúc sông: vài túp lều nhỏ dần nhân lên thành khu nhà gạch san sát; người cày ruộng, người làm gốm, người dệt vải, người chở hàng trên thuyền – mỗi nhóm một việc; Nhật Minh và Hân Hân đứng quan sát ở góc khung hình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sản xuất dần phát triển, dân số tăng lên. Những khu định cư nhỏ ban đầu mở rộng thành khu dân cư đông đúc.",
+     "Production grew and the population rose. The first small settlements expanded into crowded neighbourhoods."
+    ],
+    [
+     "Nhật Minh",
+     "Mỗi người một việc: đã có sự phân công lao động. Từ đó, các đô thị cổ đại hình thành.",
+     "Everyone had their own job: there was a division of labour. From this, the ancient cities took shape."
+    ],
+    [
+     "Hân Hân",
+     "Như Ba-bi-lon ở vùng Lưỡng Hà, Mem-phít ở Ai Cập, Mô-hen-giô Đa-rô ở Ấn Độ.",
+     "Such as Babylon in Mesopotamia, Memphis in Egypt and Mohenjo-daro in India."
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-xu-me"
+   ],
+   "hinh": "Phía nam vùng Lưỡng Hà: một làng của người Xu-me đã lớn thành thành phố với tường gạch bùn, đường phố đông người qua lại; một người Xu-me mặc váy quấn, tay ôm bình gốm, hào hứng chỉ về phía những dãy nhà mới",
+   "loi": [
+    [
+     "Người Xu-me",
+     "Làng của ông bà ta ngày trước, giờ đã thành phố lớn rồi!",
+     "The village of our grandparents has become a great city!"
+    ],
+    [
+     "Nhật Minh",
+     "Khoảng năm nghìn đến sáu nghìn năm trước, các ngôi làng của người Xu-me ở phía nam Lưỡng Hà đã phát triển thành thành phố.",
+     "Some five to six thousand years ago, the Sumerian villages of southern Mesopotamia grew into cities."
+    ],
+    [
+     "Hân Hân",
+     "Nổi bật nhất là U-rúc, có tới bốn mươi nghìn đến năm mươi nghìn cư dân. Sau đó là E-ri-đu, Ba-bi-lon…",
+     "The most outstanding was Uruk, with forty to fifty thousand inhabitants. Then came Eridu, Babylon and others."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "Lưu vực sông lớn, đồng bằng màu mỡ",
+    "Cư dân tập trung: trồng trọt, chăn nuôi, dệt vải, làm gốm",
+    "Sản xuất phát triển, dân số tăng",
+    "Khu dân cư đông đúc, phân công lao động",
+    "Đô thị cổ đại ra đời"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm lại thành một chuỗi nhé: dòng sông lớn bồi nên đồng bằng màu mỡ,",
+     "Let's chain it together: great rivers, fertile plains,"
+    ],
+    [
+     "Hân Hân",
+     "cư dân tập trung sinh sống và sản xuất,",
+     "people gathering to live and produce,"
+    ],
+    [
+     "Nhật Minh",
+     "sản xuất phát triển, dân số tăng,",
+     "production growing, population rising,"
+    ],
+    [
+     "Hân Hân",
+     "khu dân cư đông đúc, có phân công lao động,",
+     "crowded settlements with a division of labour,"
+    ],
+    [
+     "Nhật Minh",
+     "và thế là đô thị ra đời!",
+     "and so the city was born!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ],
+   "tieu_de": "TỪ LÀNG VEN SÔNG ĐẾN ĐÔ THỊ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-an-do-co-dai"
+   ],
+   "hinh": "Đô thị cổ ven sông Ấn đang thời thịnh vượng (dựng lại theo dáng các dãy tường gạch trong Hình 2 SGK): nhà gạch xếp thành ô vuông vức, đường phố thẳng; Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một mái nhà bằng quan sát dòng người",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đô thị cổ là trung tâm hành chính, quân sự, đầu mối kinh tế và giao thông của các quốc gia cổ đại.",
+     "Ancient cities were the administrative and military centres, and the economic and transport hubs, of ancient states."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, chúng gắn liền với sự hưng thịnh và suy tàn của những nền văn minh đầu tiên ở phương Đông.",
+     "That is why they were bound up with the rise and fall of the first civilisations of the East."
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-an-do-co-dai"
+   ],
+   "hinh": "Cùng đô thị ấy nhiều thế kỉ sau: đường phố vắng dần, tường gạch phủ bụi, vài cư dân cuối cùng dắt gia súc rời đi theo bờ sông Ấn; ánh chiều tà nhuốm màu hoài niệm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn minh sông Ấn, khoảng từ hai nghìn tám trăm đến một nghìn tám trăm năm trước Công nguyên, còn được gọi là văn minh Ha-ráp-pa và Mô-hen-giô Đa-rô,",
+     "The Indus civilisation, from about 2800 to 1800 BC, is also called the Harappa and Mohenjo-daro civilisation,"
+    ],
+    [
+     "Nhật Minh",
+     "theo tên hai thành thị cổ ven bờ sông Ấn. Khi hai thành thị này suy tàn, thời kì văn minh sông Ấn rực rỡ cũng khép lại.",
+     "after two ancient cities on the banks of the Indus. When these cities declined, the brilliant era of the Indus civilisation came to a close."
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Văn minh sông Ấn còn được gọi theo tên hai thành thị cổ nào?",
+    "lua_chon": [
+     "Ba-bi-lon và U-rúc",
+     "Ha-ráp-pa và Mô-hen-giô Đa-rô",
+     "Mem-phít và E-ri-đu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Văn minh sông Ấn còn được gọi theo tên hai thành thị cổ nào?",
+     "Quick question! The Indus civilisation is also named after which two ancient cities?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Ha-ráp-pa và Mô-hen-giô Đa-rô!",
+     "The answer is B: Harappa and Mohenjo-daro!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Thiên niên kỉ IV – III TCN: cư dân tập trung bên sông Nin, Ti-gơ-rơ, Ơ-phơ-rát, sông Ấn, sông Hằng",
+    "Sản xuất phát triển, dân số tăng, phân công lao động → đô thị cổ đại",
+    "Ba-bi-lon (Lưỡng Hà), Mem-phít (Ai Cập), Mô-hen-giô Đa-rô (Ấn Độ)",
+    "Đô thị cổ gắn với sự hưng thịnh và suy tàn của văn minh phương Đông"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: từ thiên niên kỉ IV đến thiên niên kỉ III trước Công nguyên, cư dân tập trung bên các dòng sông lớn.",
+     "Remember: from the 4th to the 3rd millennium BC, people gathered beside the great rivers."
+    ],
+    [
+     "Nhật Minh",
+     "Sản xuất phát triển, dân số tăng, có phân công lao động, đô thị cổ đại ra đời.",
+     "Production grew, population rose, labour was divided, and ancient cities were born."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu là Ba-bi-lon, Mem-phít, Mô-hen-giô Đa-rô.",
+     "Examples include Babylon, Memphis and Mohenjo-daro."
+    ],
+    [
+     "Nhật Minh",
+     "Và đô thị cổ gắn liền với sự hưng thịnh, suy tàn của các nền văn minh phương Đông.",
+     "And ancient cities rose and fell together with the civilisations of the East."
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại thư viện, đứng hai bên tấm bản đồ có ba dòng sông đã được tô đậm, cùng quay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy nêu hai lí do khiến đô thị cổ đại phương Đông mọc lên bên các dòng sông lớn. Viết vào bình luận nhé!",
+     "Your challenge: give two reasons why the ancient cities of the East grew up beside great rivers. Write them in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ khoảng thiên niên kỉ IV đến thiên niên kỉ III TCN, cư dân phương Đông tập trung sinh sống ở đâu?",
+   "dap_an": [
+    "Trên lưu vực các dòng sông lớn",
+    "Trên các đỉnh núi cao",
+    "Trên các hòn đảo xa bờ",
+    "Trong sa mạc"
+   ],
+   "dung": 0,
+   "trang": 171
+  },
+  {
+   "hoi": "Sông Ti-gơ-rơ và Ơ-phơ-rát chảy qua vùng nào?",
+   "dap_an": [
+    "Ai Cập",
+    "Lưỡng Hà",
+    "Ấn Độ",
+    "Hy Lạp"
+   ],
+   "dung": 1,
+   "trang": 171
+  },
+  {
+   "hoi": "Đô thị nổi bật nhất của người Xu-me, có tới 40 000 – 50 000 cư dân, là",
+   "dap_an": [
+    "Mem-phít",
+    "Mô-hen-giô Đa-rô",
+    "U-rúc",
+    "A-ten"
+   ],
+   "dung": 2,
+   "trang": 171
+  },
+  {
+   "hoi": "Đô thị cổ ở phương Đông KHÔNG đóng vai trò nào sau đây?",
+   "dap_an": [
+    "Trung tâm hành chính",
+    "Trung tâm quân sự",
+    "Đầu mối kinh tế và giao thông",
+    "Nơi khởi phát các cuộc đại phát kiến địa lí"
+   ],
+   "dung": 3,
+   "trang": 171
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 171 (mục 1a: điều kiện địa lí và lịch sử; ô chữ nhỏ về người Xu-me, U-rúc 40 000 – 50 000 cư dân, E-ri-đu, Ba-bi-lon; mối quan hệ đô thị – văn minh; ô văn minh sông Ấn khoảng 2 800 – 1 800 TCN, Ha-ráp-pa và Mô-hen-giô Đa-rô; Hình 2). Chính tả theo ảnh trang: Mem-phít, Ti-gơ-rơ, Ơ-phơ-rát (OCR đọc sai thành 'Mem-phit', 'Ti-go-rơ', 'O-phơ-rát'). Đối chiếu danh mục: kiến thức chốt 'hình thành từ thiên niên kỉ IV TCN' – SGK nói cư dân tập trung sinh sống từ khoảng thiên niên kỉ IV đến III TCN, rồi đô thị mới dần hình thành; kịch bản giữ đúng trình tự này. Danh mục đề xuất bản đồ tương tác, nhưng mục này của SGK không có lược đồ (chỉ có ảnh Hình 2) nên dùng cảnh ghi nhớ dạng chuỗi 'từ làng ven sông đến đô thị' thay cho sa bàn. Lời người Xu-me là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "ma": "L7-B10-01",
+ "ten_tap": "Hoa Lư - Kinh đô giữa lòng núi",
+ "ten_tap_en": "Hoa Lu: A Capital Among the Mountains",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 10. Đại Cồ Việt thời Đinh và Tiền Lê (968 – 1009)",
+  "trang": [
+   48
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "dinh-bo-linh",
+  "nhan-dan-dai-co-viet"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, trống đồng và sáo; hùng tráng ở cảnh lên ngôi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 10, tr. 48.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) trong phòng bộ môn Lịch sử, trước một mô hình giấy bồi những dãy núi đá vôi dựng đứng vây quanh khoảng đất hẹp; Hân Hân dùng que chỉ vào khoảng đất ở giữa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một kinh đô có núi bao bọc tứ phía! Cậu biết đó là đâu không?",
+     "A capital ringed by mountains on every side! Do you know where it is?"
+    ],
+    [
+     "Nhật Minh",
+     "Hoa Lư, kinh đô của nước Đại Cồ Việt!",
+     "Hoa Lu, capital of Dai Co Viet!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dinh-bo-linh",
+    "nhan-dan-dai-co-viet"
+   ],
+   "hinh": "Khung dọc. Sân điện ở Hoa Lư năm 968: Đinh Bộ Lĩnh (vẽ khái quát, áo bào vàng, mũ miện) đứng trên bậc cao giữa các dãy núi đá vôi; văn võ và dân chúng đứng chật sân chắp tay; cờ phướn bay",
+   "loi": [
+    [
+     "Đinh Bộ Lĩnh",
+     "Từ nay, nước ta mang tên Đại Cồ Việt!",
+     "From this day, our land shall be called Dai Co Viet!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 968, sau khi thống nhất đất nước, Đinh Bộ Lĩnh lên ngôi hoàng đế, tức Đinh Tiên Hoàng.",
+     "In 968, having united the country, Dinh Bo Linh took the throne as Emperor Dinh Tien Hoang."
+    ],
+    [
+     "Hân Hân",
+     "Ông đặt tên nước là Đại Cồ Việt, niên hiệu Thái Bình, đóng đô ở Hoa Lư, tỉnh Ninh Bình.",
+     "He named the country Dai Co Viet, chose the era name Thai Binh, and set his capital at Hoa Lu, in Ninh Binh province."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-dai-co-viet"
+   ],
+   "hinh": "Khung dọc, máy quay bay từ trên cao: khoảng đất hẹp giữa các dãy núi đá vôi; những bức tường thành nối liền các dãy núi, chia thành hai khu; bên trong là cung điện, một ngôi chùa một cột và một ngọn tháp; bên ngoài là làng xóm của dân; Nhật Minh và Hân Hân (đồng phục FPT) đứng trên đỉnh núi nhìn xuống",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hoa Lư là vùng đất hẹp, xung quanh có nhiều núi. Nhà Đinh xây tường thành nối các dãy núi, chia làm thành Nội và thành Ngoại.",
+     "Hoa Lu was a narrow strip of land surrounded by mountains. The Dinh built walls linking the ranges, forming an Inner and an Outer citadel."
+    ],
+    [
+     "Nhật Minh",
+     "Trong thành có cung điện, chùa Nhất Trụ, tháp Báo Thiên. Bên ngoài là nơi nhân dân sinh sống.",
+     "Inside stood the palace, Nhat Tru Pagoda and Bao Thien Tower. Outside lived the people."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 968, Đinh Bộ Lĩnh đặt tên nước là gì?",
+    "lua_chon": [
+     "Lan Xang",
+     "Đại Việt",
+     "Đại Cồ Việt"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 968, Đinh Bộ Lĩnh đặt tên nước là gì?",
+     "Pause! What name did Dinh Bo Linh give the country in 968?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Đại Cồ Việt!",
+     "The answer is C: Dai Co Viet!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân đứng hai bên mô hình núi đá vôi, nhìn về phía người xem; Nhật Minh khoanh tay suy nghĩ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách: theo cậu, vì sao nhà Đinh chọn vùng đất nhiều núi như Hoa Lư làm kinh đô? Bình luận nhé!",
+     "Challenge: why do you think the Dinh chose a mountainous place like Hoa Lu as their capital? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 968, sau khi thống nhất đất nước, Đinh Bộ Lĩnh",
+   "dap_an": [
+    "xưng là Vạn Thắng Vương",
+    "lên ngôi hoàng đế (Đinh Tiên Hoàng)",
+    "dời đô về Thăng Long",
+    "nhường ngôi cho Lê Hoàn"
+   ],
+   "dung": 1,
+   "trang": 48
+  },
+  {
+   "hoi": "Niên hiệu của nhà Đinh khi Đinh Bộ Lĩnh lên ngôi là",
+   "dap_an": [
+    "Thuận Thiên",
+    "Thái Bình",
+    "Thiên Phúc",
+    "Vạn Thắng"
+   ],
+   "dung": 1,
+   "trang": 48
+  },
+  {
+   "hoi": "Nhà Đinh đóng đô ở",
+   "dap_an": [
+    "Cổ Loa",
+    "Thăng Long",
+    "Hoa Lư (tỉnh Ninh Bình)",
+    "Tây Đô (tỉnh Thanh Hoá)"
+   ],
+   "dung": 2,
+   "trang": 48
+  },
+  {
+   "hoi": "Theo SGK, bên trong thành Hoa Lư có",
+   "dap_an": [
+    "Văn Miếu, Quốc Tử Giám",
+    "cung điện, chùa Nhất Trụ, tháp Báo Thiên",
+    "Đền Hùng",
+    "lăng mộ các vua Trần"
+   ],
+   "dung": 1,
+   "trang": 48
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 48 (mục 1a: năm 968 Đinh Bộ Lĩnh lên ngôi hoàng đế – Đinh Tiên Hoàng, quốc hiệu Đại Cồ Việt, niên hiệu Thái Bình, đóng đô ở Hoa Lư (tỉnh Ninh Bình); ô 'Kết nối với địa lí': Hoa Lư vùng đất hẹp nhiều núi, tường nối các dãy núi, thành Nội – thành Ngoại, cung điện, chùa Nhất Trụ, tháp Báo Thiên, dân ở ngoài thành). Đối chiếu danh mục: kiến thức chốt 'Năm 968, Đinh Bộ Lĩnh thống nhất đất nước' chưa chính xác – SGK tr. 46 ghi ông dẹp các sứ quân trong hai năm 966 – 967; năm 968 là năm ông lên ngôi hoàng đế 'sau khi thống nhất đất nước' – kịch bản dùng đúng trình tự này. Phương án nhiễu lấy từ SGK: 'Thuận Thiên' (niên hiệu Lê Lợi, tr. 83), 'Thiên Phúc' (Lê Hoàn, tr. 49), 'Vạn Thắng' (danh hiệu Vạn Thắng Vương, tr. 46). Lời Đinh Bộ Lĩnh là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "ma": "L7-B13-01",
+ "ten_tap": "Nhà Trần ra đời như thế nào?",
+ "ten_tap_en": "How Did the Tran Dynasty Begin?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 13. Đại Việt thời Trần (1226 – 1400)",
+  "trang": [
+   62
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tran-ly",
+  "tran-thua",
+  "tran-thu-do",
+  "ly-chieu-hoang",
+  "tran-thai-tong"
+ ],
+ "nhac": {
+  "tam_trang": "trầm lắng, đàn nguyệt; trang trọng ở cảnh nhường ngôi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 13, tr. 62.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân (đồng phục FPT) đứng trước cổng một ngôi đền cổ mái cong, sân lát gạch, hương khói nhẹ (vẽ theo dáng Hình 1 SGK: Đền Trần, phường Nam Định, tỉnh Ninh Bình); Hân Hân cầm sổ ghi chép",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Đền Trần ở phường Nam Định, tỉnh Ninh Bình.",
+     "This is the Tran Temple in Nam Dinh ward, Ninh Binh province."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà Trần ra đời thế nào? Cùng ngược thời gian nhé!",
+     "How did the Tran dynasty begin? Let's go back in time!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tran-ly",
+    "tran-thua",
+    "tran-thu-do"
+   ],
+   "hinh": "Khung dọc. Cuối thời Lý: cung điện vắng vẻ, mái ngói rêu phong; ngoài cổng thành, đoàn quân họ Trần giương cờ hiệu, dàn trận dẹp các toán quân chống đối; vài chiếc thuyền đánh cá neo bên sông phía xa gợi gốc gác của dòng họ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XII, nhà Lý ngày càng suy yếu, phải dựa vào họ Trần để đánh dẹp các thế lực chống đối.",
+     "From the late 12th century, the weakening Ly had to rely on the Tran clan to crush their opponents."
+    ],
+    [
+     "Hân Hân",
+     "Họ Trần vốn làm nghề đánh cá ở hạ lưu sông Hồng, sau thành thế lực mạnh và từng bước thâu tóm quyền hành.",
+     "The Tran had been fishermen on the lower Red River, grew rich and powerful, and step by step took control."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-chieu-hoang",
+    "tran-thai-tong",
+    "tran-thu-do"
+   ],
+   "hinh": "Khung dọc. Chính điện tháng 1 năm 1226: Lý Chiêu Hoàng trong hoàng bào chậm rãi tháo chiếc áo bào trao cho chồng là Trần Cảnh; Trần Thủ Độ đứng nghiêm phía sau; quần thần cúi đầu (vẽ khái quát, trang phục cung đình thời Lý – Trần)",
+   "loi": [
+    [
+     "Lý Chiêu Hoàng",
+     "Ngôi báu này, nay đành trao lại cho chàng.",
+     "This throne, I must now hand to you."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 1 năm 1226, Lý Chiêu Hoàng, vị vua cuối cùng của nhà Lý, buộc phải nhường ngôi cho chồng là Trần Cảnh. Nhà Trần được thành lập!",
+     "In January 1226, Ly Chieu Hoang, the last Ly ruler, was forced to hand the throne to her husband Tran Canh. The Tran dynasty was born!"
+    ],
+    [
+     "Hân Hân",
+     "Người có công lớn lập triều Trần: Trần Lý, Trần Thừa, Trần Tự Khánh, Trần Thủ Độ…",
+     "Key founders of the Tran dynasty included Tran Ly, Tran Thua, Tran Tu Khanh and Tran Thu Do."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lý Chiêu Hoàng buộc phải nhường ngôi cho ai?",
+    "lua_chon": [
+     "Trần Thủ Độ",
+     "Trần Lý",
+     "Trần Cảnh"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lý Chiêu Hoàng nhường ngôi cho ai?",
+     "Pause! Who did Ly Chieu Hoang hand the throne to?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Trần Cảnh, chồng của bà!",
+     "The answer is C: Tran Canh, her husband!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc. Nhật Minh và Hân Hân ngồi trên bậc đá trước sân đền, cùng quay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách: vì sao họ Trần có thể từng bước thâu tóm quyền hành? Bình luận nhé!",
+     "Challenge: how were the Tran able to take power step by step? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ cuối thế kỉ XII, nhà Lý suy yếu, phải dựa vào thế lực nào để đánh dẹp các thế lực chống đối?",
+   "dap_an": [
+    "Họ Hồ",
+    "Họ Trần",
+    "Quân Tống",
+    "Họ Lê"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Nhà Trần được thành lập vào thời gian nào?",
+   "dap_an": [
+    "Tháng 1 – 1226",
+    "Năm 1009",
+    "Năm 1400",
+    "Năm 1428"
+   ],
+   "dung": 0,
+   "trang": 62
+  },
+  {
+   "hoi": "Dòng họ Trần vốn xuất thân làm nghề gì?",
+   "dap_an": [
+    "Buôn bán đường biển",
+    "Đánh cá",
+    "Làm gốm",
+    "Dệt vải"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Ai KHÔNG được SGK nêu tên trong số những người có công lớn thành lập Triều Trần?",
+   "dap_an": [
+    "Trần Thủ Độ",
+    "Trần Thừa",
+    "Trần Lý",
+    "Lý Công Uẩn"
+   ],
+   "dung": 3,
+   "trang": 62
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 7 tr. 62 (mục 1: cuối thế kỉ XII nhà Lý suy yếu, dựa vào họ Trần dẹp các thế lực chống đối, họ Trần từng bước thâu tóm quyền hành; tháng 1 – 1226 Lý Chiêu Hoàng buộc phải nhường ngôi cho chồng là Trần Cảnh; ô 'Em có biết?': họ Trần làm nghề đánh cá ở hạ lưu sông Hồng (Hưng Yên, Ninh Bình hiện nay), người có công: Trần Lý, Trần Thừa, Trần Tự Khánh, Trần Thủ Độ; Hình 1 Đền Trần, phường Nam Định, tỉnh Ninh Bình). Đã kiểm tra trên ảnh trang: mốc là 'Tháng 1 – 1226' (OCR đọc nhầm thành 1228). Đối chiếu danh mục: SGK nhấn mạnh Lý Chiêu Hoàng 'buộc phải' nhường ngôi – kịch bản giữ ý này; bổ sung Trần Tự Khánh vào danh sách người có công theo SGK. Lời Lý Chiêu Hoàng là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

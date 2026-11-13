@@ -1,0 +1,515 @@
+{
+ "ma": "L7-B4-02",
+ "ten_tap": "Thời Đường - Đỉnh cao phong kiến",
+ "ten_tap_en": "The Tang Dynasty: A Feudal Golden Age",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 4. Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+  "trang": [
+   25,
+   26,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "duong-thai-tong",
+  "quan-lai-thoi-duong",
+  "si-tu-thoi-duong",
+  "nong-dan-thoi-duong",
+  "tho-thu-cong-thoi-duong",
+  "thuong-nhan-tren-con-duong-to-lua",
+  "quan-doi-nha-duong",
+  "nha-tho-thoi-duong"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, phương Đông (đàn tranh, sáo trúc, trống nhỏ); thong thả ở cảnh hồ nước",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 4, tr. 25–27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, áo phao) ngồi trên một chiếc thuyền nhỏ chèo tay giữa mặt hồ phẳng lặng trong công viên ngày nay, hàng liễu rủ ven bờ, nắng sớm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thuyền nổi được là nhờ nước. Nhưng nước mà nổi sóng thì cũng lật được thuyền nhỉ?",
+     "A boat floats thanks to the water. But rough water can also overturn it, right?"
+    ],
+    [
+     "Nhật Minh",
+     "Có một vị vua Trung Quốc từng dùng đúng hình ảnh này để nói về vua và dân đấy. Về thời Đường xem nào!",
+     "A Chinese emperor once used this very image to talk about rulers and people. Let's visit the Tang dynasty!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "618 – 907",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "duong-thai-tong",
+    "quan-lai-thoi-duong"
+   ],
+   "hinh": "Đường Thái Tông (vẽ theo tranh chân dung cổ: râu quai nón, mũ ô sa, long bào vàng) ngồi trên ngai trong cung điện đồ sộ, các quan văn võ xếp hàng hai bên, cột đỏ, mái cong",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Đường tồn tại từ năm 618 đến năm 907. Thời Đường, đặc biệt dưới thời trị vì của Đường Thái Tông, bộ máy nhà nước được hoàn chỉnh.",
+     "The Tang dynasty lasted from 618 to 907. Under the Tang, especially Emperor Taizong, the state apparatus was perfected."
+    ],
+    [
+     "Hân Hân",
+     "Các hoàng đế cử người thân tín đi cai quản các địa phương.",
+     "Emperors sent trusted men to govern the provinces."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "si-tu-thoi-duong"
+   ],
+   "hinh": "Một trường thi thời Đường: hàng dài sĩ tử áo dài ngồi viết bài trong các ô thi nhỏ, quan giám khảo đi tuần, cờ hiệu bay trên cổng trường thi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà Đường tổ chức nhiều khoa thi để tuyển chọn người đỗ đạt ra làm quan.",
+     "The Tang held many examinations to select successful candidates as officials."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời Đường tuyển chọn người ra làm quan chủ yếu bằng cách nào?",
+    "lua_chon": [
+     "Mua bán chức tước",
+     "Tổ chức các khoa thi",
+     "Chọn người giàu nhất vùng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Thời Đường tuyển chọn người ra làm quan bằng cách nào?",
+     "Pause! How did the Tang choose its officials?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: tổ chức nhiều khoa thi để chọn người đỗ đạt!",
+     "The answer is B: by holding examinations to pick successful candidates!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "duong-thai-tong"
+   ],
+   "hinh": "Đường Thái Tông đứng bên lan can cung điện nhìn ra dòng sông có thuyền xuôi ngược, nói với các quan đứng sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đường Thái Tông là vị vua có tư tưởng tiến bộ. Ông từng nói:",
+     "Emperor Taizong held progressive ideas. He once said:"
+    ],
+    [
+     "Đường Thái Tông",
+     "Thuyền ví như vua, nước ví như dân. Nước có thể chở thuyền, cũng có thể lật thuyền.",
+     "The ruler is like a boat, the people like water. Water can carry the boat, and it can also overturn it."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-thoi-duong",
+    "quan-lai-thoi-duong"
+   ],
+   "hinh": "Một viên quan nhà Đường đứng bên bờ ruộng, chỉ tay phân chia những thửa ruộng bỏ hoang cho các gia đình nông dân; nông dân vui mừng cầm cuốc, dắt trâu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, nhà nước giảm thuế, lấy ruộng công và ruộng bỏ hoang chia cho nông dân theo chế độ quân điền.",
+     "In the economy, the state cut taxes and shared out public and abandoned fields to farmers under the equal-field system."
+    ],
+    [
+     "Nông dân",
+     "Nhà mình có ruộng cày rồi!",
+     "Our family has land to farm now!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-thoi-duong"
+   ],
+   "hinh": "Nông dân thời Đường chọn những bông lúa chắc hạt làm giống, phía sau là cánh đồng lúa chín vàng trải dài, người gặt hái tấp nập",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều kĩ thuật canh tác mới như chọn giống, xác định thời vụ được áp dụng. Nhờ vậy, nông nghiệp có bước phát triển.",
+     "New farming methods like seed selection and planting by season were used, so agriculture moved forward."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-thoi-duong"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi trên con đường làng thời Đường: cổng nhà mở toang, bò ngựa thả đầy đồng, khách bộ hành thong thả đi đường xa không mang theo túi lương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sách sử chép: dưới thời Đường Thái Tông, cổng ngoài mấy tháng không đóng, ngựa bò đầy đồng.",
+     "The histories say that under Taizong, outer gates stayed open for months and fields were full of horses and cattle."
+    ],
+    [
+     "Nhật Minh",
+     "Khách đi đường mấy nghìn dặm cũng không cần mang theo lương thực!",
+     "Travellers could go thousands of miles without carrying food!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong-thoi-duong"
+   ],
+   "hinh": "Hai xưởng thủ công lớn thời Đường: xưởng luyện sắt lò lửa đỏ rực, xưởng đóng thuyền bên sông với hàng chục người thợ cưa gỗ, ghép ván",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều xưởng thủ công luyện sắt, đóng thuyền với hàng chục người làm việc đã xuất hiện.",
+     "Many iron-smelting and shipbuilding workshops appeared, each with dozens of workers."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-tren-con-duong-to-lua"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa khu chợ phồn thịnh của kinh thành Trường An: phố xá rộng, cửa hàng lụa, đồ gốm, thương nhân nhiều xứ trong trang phục khác nhau mặc cả",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều thành thị ngày càng phồn thịnh như Trường An, Lạc Dương.",
+     "Cities such as Chang'an and Luoyang grew ever more prosperous."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Đường có quan hệ buôn bán với hầu hết các nước châu Á.",
+     "The Tang traded with almost every country in Asia."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-tren-con-duong-to-lua"
+   ],
+   "hinh": "Đoàn lạc đà chở những kiện tơ lụa nối nhau đi qua sa mạc lúc hoàng hôn, thương nhân trùm khăn dẫn đầu, phía xa là cổng thành",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ những tuyến đường giao thông nối các châu lục có từ các thế kỉ trước, đến thời Đường đã trở thành “con đường tơ lụa” nổi tiếng.",
+     "Old trade routes linking the continents became, under the Tang, the famous 'Silk Road'."
+    ],
+    [
+     "Thương nhân",
+     "Tơ lụa Trung Quốc đây! Mang sang phương Tây nào!",
+     "Chinese silk! Off to the West we go!"
+    ],
+    [
+     "Hân Hân",
+     "Con đường tơ lụa kết nối phương Đông và phương Tây trong nhiều thế kỉ, còn là hành trình văn hoá, tôn giáo, kết nối Á – Âu.",
+     "The Silk Road linked East and West for centuries, and was also a journey of culture and religion between Asia and Europe."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    25,
+    26
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ban đầu, mặt hàng buôn bán chủ yếu trên “con đường tơ lụa” là gì?",
+    "lua_chon": [
+     "Tơ lụa Trung Quốc",
+     "Vàng bạc châu Mỹ",
+     "Muối và sắt"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Ban đầu, mặt hàng buôn bán chủ yếu trên con đường tơ lụa là gì?",
+     "Quick test! What was the main trade good on the Silk Road at first?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tơ lụa Trung Quốc, đúng như tên gọi!",
+     "The answer is A: Chinese silk, just as the name says!"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-doi-nha-duong"
+   ],
+   "hinh": "Đoàn quân nhà Đường giáp trụ hành quân qua thảo nguyên rộng, cờ xí không chữ, nhìn từ xa (không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng các hoàng đế thời Đường cũng tiếp tục chính sách xâm lược, mở rộng lãnh thổ:",
+     "But Tang emperors also kept up a policy of conquest and expansion:"
+    ],
+    [
+     "Hân Hân",
+     "lấn chiếm vùng Nội Mông, chinh phục Tây Vực, xâm lược Triều Tiên, củng cố chế độ cai trị ở An Nam đô hộ phủ, có một phần thuộc lãnh thổ Việt Nam hiện nay.",
+     "seizing Inner Mongolia, conquering the Western Regions, invading Korea and tightening rule over the Annan Protectorate, part of which is in today's Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-tho-thoi-duong"
+   ],
+   "hinh": "Một nhà thơ thời Đường áo dài, cầm bút lông viết thơ dưới trăng bên hiên chùa; trong chùa, các nhà sư in kinh Phật bằng bản khắc gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn hoá thời Đường cũng rực rỡ. Phật giáo thịnh hành nhất dưới thời Đường; nhiều vị vua cho xây chùa, đúc tượng, dịch và in kinh Phật.",
+     "Tang culture shone too. Buddhism flourished most under the Tang; many emperors built temples, cast statues, and translated and printed scriptures."
+    ],
+    [
+     "Nhật Minh",
+     "Còn thơ Đường trở thành đỉnh cao của thơ ca Trung Quốc, với Lý Bạch, Đỗ Phủ, Bạch Cư Dị.",
+     "And Tang poetry became the peak of Chinese verse, with Li Bai, Du Fu and Bai Juyi."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên chiếc thuyền nhỏ giữa hồ, Nhật Minh dừng mái chèo, mặt nước lăn tăn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giờ thì hiểu câu “nước chở thuyền, nước lật thuyền” rồi: vua phải biết dựa vào dân.",
+     "Now I get 'water carries the boat, water overturns it': a ruler must rely on the people."
+    ],
+    [
+     "Hân Hân",
+     "Bộ máy nhà nước hoàn chỉnh, nông nghiệp phát triển, buôn bán thịnh vượng. Đó là những biểu hiện của Trung Quốc thịnh vượng dưới thời Đường.",
+     "A complete state, thriving farms and booming trade: these were the signs of China's prosperity under the Tang."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Nhà Đường (618 – 907): bộ máy nhà nước hoàn chỉnh, tuyển quan qua khoa thi",
+    "Đường Thái Tông: “Thuyền ví như vua, nước ví như dân”",
+    "Giảm thuế, chế độ quân điền, kĩ thuật canh tác mới → nông nghiệp phát triển",
+    "Trường An, Lạc Dương phồn thịnh; “con đường tơ lụa” nổi tiếng",
+    "Tiếp tục chính sách xâm lược, mở rộng lãnh thổ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nhà Đường tồn tại từ năm 618 đến năm 907, bộ máy nhà nước hoàn chỉnh, tuyển quan qua khoa thi.",
+     "Remember: the Tang lasted from 618 to 907, with a complete state and officials chosen by exam."
+    ],
+    [
+     "Hân Hân",
+     "Đường Thái Tông ví vua như thuyền, dân như nước.",
+     "Taizong compared the ruler to a boat and the people to water."
+    ],
+    [
+     "Nhật Minh",
+     "Giảm thuế, chế độ quân điền, kĩ thuật canh tác mới giúp nông nghiệp phát triển.",
+     "Lower taxes, the equal-field system and new methods helped farming grow."
+    ],
+    [
+     "Hân Hân",
+     "Trường An, Lạc Dương phồn thịnh, con đường tơ lụa nổi tiếng.",
+     "Chang'an and Luoyang flourished, and the Silk Road became famous."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng nhà Đường cũng tiếp tục chính sách xâm lược, mở rộng lãnh thổ.",
+     "But the Tang also kept invading and expanding."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem từ chiếc thuyền nhỏ, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, biểu hiện nào cho thấy rõ nhất sự thịnh vượng của Trung Quốc thời Đường? Bình luận nhé!",
+     "Your challenge: which sign best shows China's prosperity under the Tang? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà Đường tồn tại trong khoảng thời gian nào?",
+   "dap_an": [
+    "221 – 206 TCN",
+    "618 – 907",
+    "960 – 1279",
+    "1368 – 1644"
+   ],
+   "dung": 1,
+   "trang": 25
+  },
+  {
+   "hoi": "Câu “Thuyền ví như vua, nước ví như dân” là của ai?",
+   "dap_an": [
+    "Tần Thuỷ Hoàng",
+    "Lưu Bang",
+    "Đường Thái Tông",
+    "Lý Bạch"
+   ],
+   "dung": 2,
+   "trang": 25
+  },
+  {
+   "hoi": "Chế độ chia ruộng công và ruộng bỏ hoang cho nông dân thời Đường gọi là",
+   "dap_an": [
+    "Chế độ quân điền",
+    "Chế độ lãnh địa",
+    "Chế độ hạn điền",
+    "Chế độ đồn điền"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Thành thị nào phồn thịnh dưới thời Đường?",
+   "dap_an": [
+    "Trường An, Lạc Dương",
+    "Phi-ren-xê, Bô-lô-na",
+    "Li-xbon, Hăm-buốc",
+    "Đê-li, Ca-li-cút"
+   ],
+   "dung": 0,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 25 (mục 1: Đường 618 – 907; mục 2: chính trị, kinh tế, Em có biết – lời Đường Thái Tông, tư liệu 'cổng ngoài mấy tháng không đóng', ô Kết nối với ngày nay về con đường tơ lụa – đọc từ ảnh trang), tr. 26 (con đường tơ lụa thời Đường), tr. 27 (Phật giáo thịnh hành nhất thời Đường, thơ Đường). Kiến thức chốt của danh mục khớp SGK ('con đường tơ lụa kết nối Á – Âu' đúng ô Kết nối tr. 25). Câu của Đường Thái Tông đúng SGK; lời nông dân, thương nhân là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}
