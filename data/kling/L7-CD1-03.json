@@ -1,0 +1,48 @@
+{
+ "ma": "L7-CD1-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand at a wooden desk, their expressions bright and engaged. Hân Hân gently spins the large globe while Nhật Minh gestures toward a continent, his lips moving as if explaining a historical event. Soft, golden sunlight streams through the window, causing dust motes to dance in the air. Outside, green leaves sway rhythmically in the breeze. The camera performs a slow, smooth push-in toward the spinning globe, maintaining the warm, inviting 2D animated aesthetic throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ferdinand Magellan stands confidently, gesturing with his hand toward a large, detailed nautical map spread across a wooden table. He turns his head slightly to speak, his lips moving naturally as he explains the route. The King and his advisors lean forward, nodding in agreement. Sunlight filters through high arched windows, casting soft, drifting dust motes in the air. The camera performs a slow, steady push-in toward the map and Magellan’s expressive face to emphasize the historical discovery."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "At dawn, five majestic 16th-century galleons glide slowly across the calm, shimmering sea. On the lead ship’s deck, Magellan stands tall, turning his head to gaze toward the horizon while gesturing forward with his hand. Nearby, crew members rhythmically pull thick ropes to hoist the large sails. Hân Hân stands in the foreground, speaking with natural lip movements and gentle hand gestures. The camera performs a slow, cinematic push-in toward Magellan, capturing the serene morning atmosphere."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Nhật Minh and Hân Hân stand at the bow, turning their heads to look at each other while speaking with natural lip movements and subtle hand gestures. Behind them, the wooden boat glides smoothly across the calm, shimmering ocean. The sails ripple gently in a light breeze, while the crew in the background moves rhythmically, adjusting ropes and navigating, as the vast horizon remains serene under the clear sky."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A gentle sunset glows over the tropical beach as soft, rhythmic waves lap against the sandy shore. In the distance, a wooden sailboat sways slightly on the calm water. Hân Hân stands near the foreground, wearing her orange polo shirt; she turns her head slightly toward the camera, smiles, and speaks with natural lip movement as if narrating. The camera performs a slow, cinematic push-in toward the historic helmet and sword resting peacefully on the golden sand."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow push-in toward the captain. Captain Ê-ca-nô stands firmly at the ship's wheel, his hands gripping it tightly as he steers through turbulent, churning waves. He turns his head slightly to look into the distance, his weary but resolute expression softening as he speaks with natural lip movement. Dark, heavy clouds loom overhead, swirling slowly, while the ship rocks rhythmically with the motion of the rough sea. Nhật Minh stands nearby, nodding attentively while listening."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh stands beside Hân Hân, both wearing orange polo shirts. Nhật Minh turns his head toward the camera, raises his right hand in a welcoming gesture, and speaks with natural, synchronized lip movements. Hân Hân smiles and nods slightly while looking at the globe. In the background, sunlight filters through the classroom window, causing soft dust motes to drift slowly. The camera performs a slow, gentle push-in toward the students, maintaining the 2D animated style throughout the scene."
+  }
+ ]
+}

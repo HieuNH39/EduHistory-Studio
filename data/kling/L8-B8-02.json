@@ -1,0 +1,60 @@
+{
+ "ma": "L8-B8-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the riverbank, gently turning their heads toward each other to converse with natural lip movements and subtle hand gestures. In the background, the water of the Tien River flows steadily while palm fronds sway softly in the evening breeze. A small motorboat moves slowly across the distant horizon, leaving a faint wake. The camera performs a slow, smooth push-in toward the two students, capturing their thoughtful expressions as the warm sunset light shifts."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Nguyễn Ánh slowly bows deeply before the Siamese court, his posture respectful and steady. Hân Hân stands nearby, turning her head slightly to observe the scene with a curious expression, her lips moving as she narrates. In the background, Siamese officials remain motionless. Candle flames flicker softly, casting gentle light across the ornate architecture. The camera performs a slow, smooth push-in toward Nguyễn Ánh, capturing the solemn atmosphere of the royal palace as the scene breathes with subtle life."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the river mouth. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly toward each other while speaking with natural lip movements and subtle hand gestures. Below them, a fleet of Siamese warships glides steadily across the water, leaving gentle wakes. On the riverbanks, lines of infantry march forward. Wisps of morning mist drift slowly across the landscape, and the river water ripples softly."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Nguyễn Huệ stands firmly on the hill, his gaze fixed on the river as he gestures toward the islet with a steady hand. Beside him, Nhật Minh turns his head to listen, his lips moving naturally as he speaks. Red flags flutter vigorously in the wind, while the river water flows steadily below. The camera performs a slow, cinematic push-in toward Nguyễn Huệ, capturing the determined expressions of both figures against the vast, historic landscape."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Nguyen Hue stands at the center, gesturing firmly toward the hand-drawn map with his index finger while his lips move as if speaking. The surrounding Tay Son generals nod slightly, their expressions focused and attentive. Flickering torchlight casts dancing shadows across the tent walls, causing the smoke to drift slowly upward. The camera performs a slow, steady push-in toward the map, capturing the intense atmosphere of the strategic meeting while maintaining the 2D animated style throughout."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the lush water coconut leaves, their heads turning slightly as they scan the river. Hân Hân gestures toward the distance while speaking with natural lip movements, and Nhật Minh nods in agreement. In the background, the river water flows gently, and the hidden Tây Sơn boats sway softly beneath the dense foliage. Morning mist drifts slowly across the scene. The camera performs a slow, steady push-in toward the two students."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Small wooden Tay Son boats gently drift and turn away, their oars splashing rhythmically in the river. On the deck of a large, ornate Siamese warship, the Siamese general stands tall, waving his arm forward with a commanding gesture to signal the pursuit. Hân Hân stands in the foreground, turning her head slightly to look at the scene while speaking with natural lip movements. The camera performs a slow push-in toward the Siamese general, capturing the tense atmosphere."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow push-in toward the center of the river. Nguyễn Huệ stands tall on his command ship, gesturing forward with a steady, authoritative arm movement. Beside him, Hân Hân and Nhật Minh turn their heads to watch the action, their lips moving as if narrating. In the background, fire rafts surge from the riverbanks, flames flicker intensely on the Siamese warships, and thick black smoke drifts slowly across the horizon under a turbulent sky."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward Nhat Minh and Han Han as they stand by the calm Tien River at sunset. The golden light reflects off the gently rippling water. Han Han gestures toward the horizon with a proud smile, her lips moving as she speaks. Nhat Minh nods in agreement, turning his head slightly to look at her, his expression filled with pride. Soft evening breezes cause the nearby reeds to sway rhythmically in the background."
+  }
+ ]
+}

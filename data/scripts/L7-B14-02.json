@@ -2,79 +2,406 @@
  "ma": "L7-B14-02",
  "ten_tap": "Vườn không nhà trống: Chiến thuật huyền thoại",
  "ten_tap_en": "Empty Gardens, Empty Houses: A Legendary Strategy",
- "khung": "2-3p", "huong": "ngang",
- "nguon": {"sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)", "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên", "trang": [68, 69]},
- "nhan_vat_lich_su": ["tran-thai-tong", "tran-thu-do", "ngot-luong-hop-thai", "quan-mong-co", "quan-doi-nha-tran", "dan-binh-dia-phuong"],
- "nhac": {"tam_trang": "căng thẳng ở đầu, hùng tráng ở trận Đông Bộ Đầu", "tep": "assets/music/imperial-grandeur.mp3"},
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+  "trang": [
+   68,
+   69
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tran-thai-tong",
+  "tran-thu-do",
+  "ngot-luong-hop-thai",
+  "quan-mong-co",
+  "quan-doi-nha-tran",
+  "dan-binh-dia-phuong"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng ở đầu, hùng tráng ở trận Đông Bộ Đầu",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
  "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 14, tr. 68–69.",
  "canh": [
-  {"so": 1, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng bên bờ sông Hồng ở Hà Nội ngày nay, buổi sáng, gió nhẹ, nhìn về phía dòng sông",
-   "loi": [["Hân Hân", "Thế kỉ XIII, đế chế Mông Cổ liên tiếp xâm lược và thống trị nhiều nước ở khắp lục địa Á – Âu.", "In the 13th century, the Mongol Empire invaded and ruled many lands across Asia and Europe."],
-           ["Nhật Minh", "Vậy mà năm 1258, quân dân nhà Trần đã đánh bại họ. Bí quyết nằm ở một kế sách rất đặc biệt. Đi thôi!", "Yet in 1258 the Trần army and people defeated them, thanks to a very special strategy. Let's go!"]],
-   "nguon_trang": [68]},
-  {"so": 2, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "1258", "thoi_luong": 2.0},
-  {"so": 3, "lop": "tai_hien", "nhan_vat": ["quan-doi-nha-tran"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XIII, đế chế Mông Cổ liên tiếp xâm lược và thống trị nhiều nước ở khắp lục địa Á – Âu.",
+     "In the 13th century, the Mongol Empire invaded and ruled many lands across Asia and Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy mà năm 1258, quân dân nhà Trần đã đánh bại họ. Bí quyết nằm ở một kế sách rất đặc biệt. Đi thôi!",
+     "Yet in 1258 the Trần army and people defeated them, thanks to a very special strategy. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1258",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-doi-nha-tran"
+   ],
    "hinh": "Tại kinh thành Thăng Long, quân nhà Trần giữ ba sứ giả Mông Cổ (áo choàng da, mũ lông) trước cổng thành; trên tường thành cờ bay, quân lính cầm giáo canh gác",
-   "loi": [["Nhật Minh", "Chiến thuật quen thuộc của quân Mông Cổ là áp sát biên giới để uy hiếp, rồi cử sứ giả đến dụ hàng.", "The Mongols' usual tactic was to mass troops at the border, then send envoys demanding surrender."],
-           ["Hân Hân", "Ba lần sứ giả Mông Cổ đến Thăng Long, cả ba lần đều bị nhà Trần bắt giữ. Nhà Trần chủ động tăng cường phòng thủ biên giới, chuẩn bị lực lượng, vũ khí.", "Three times Mongol envoys came to Thăng Long, and three times the Trần held them. The Trần strengthened the border and prepared troops and weapons."]],
-   "nguon_trang": [68]},
-  {"so": 4, "lop": "sa_ban", "sa_ban": "khang-chien-1258", "pha": "tien_quan", "thoi_luong_toi_thieu": 8,
-   "loi": [["Nhật Minh", "Tháng 1 năm 1258, 3 vạn quân Mông Cổ do tướng Ngột Lương Hợp Thai chỉ huy, từ Vân Nam tiến vào Đại Việt.", "In January 1258, 30,000 Mongol troops under General Uriyangkhadai marched from Yunnan into Đại Việt."]],
-   "nguon_trang": [69]},
-  {"so": 5, "lop": "tai_hien", "nhan_vat": ["tran-thai-tong", "quan-doi-nha-tran", "quan-mong-co"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến thuật quen thuộc của quân Mông Cổ là áp sát biên giới để uy hiếp, rồi cử sứ giả đến dụ hàng.",
+     "The Mongols' usual tactic was to mass troops at the border, then send envoys demanding surrender."
+    ],
+    [
+     "Hân Hân",
+     "Ba lần sứ giả Mông Cổ đến Thăng Long, cả ba lần đều bị nhà Trần bắt giữ. Nhà Trần chủ động tăng cường phòng thủ biên giới, chuẩn bị lực lượng, vũ khí.",
+     "Three times Mongol envoys came to Thăng Long, and three times the Trần held them. The Trần strengthened the border and prepared troops and weapons."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "khang-chien-1258",
+   "pha": "tien_quan",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 1 năm 1258, 3 vạn quân Mông Cổ do tướng Ngột Lương Hợp Thai chỉ huy, từ Vân Nam tiến vào Đại Việt.",
+     "In January 1258, 30,000 Mongol troops under General Uriyangkhadai marched from Yunnan into Đại Việt."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tran-thai-tong",
+    "quan-doi-nha-tran",
+    "quan-mong-co"
+   ],
    "hinh": "Trận Bình Lệ Nguyên: vua Trần Thái Tông trong giáp trụ chỉ huy quân Trần dàn trận bên bờ sông; phía xa kỵ binh Mông Cổ ào tới, bụi mù",
-   "loi": [["Hân Hân", "Vua Trần Thái Tông trực tiếp chỉ huy trận Bình Lệ Nguyên, nay thuộc tỉnh Phú Thọ.", "King Trần Thái Tông personally commanded at Bình Lệ Nguyên, in today's Phú Thọ province."]],
-   "nguon_trang": [69]},
-  {"so": 6, "lop": "sa_ban", "sa_ban": "khang-chien-1258", "pha": "binh_le_nguyen", "thoi_luong_toi_thieu": 9,
-   "loi": [["Nhật Minh", "Trước thế giặc mạnh, quân ta tạm rút lui để bảo toàn lực lượng.", "Facing a strong enemy, our army fell back to preserve its forces."]],
-   "nguon_trang": [69]},
-  {"so": 7, "lop": "tai_hien", "nhan_vat": ["tran-thai-tong", "tran-thu-do"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Vua Trần Thái Tông trực tiếp chỉ huy trận Bình Lệ Nguyên, nay thuộc tỉnh Phú Thọ.",
+     "King Trần Thái Tông personally commanded at Bình Lệ Nguyên, in today's Phú Thọ province."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "khang-chien-1258",
+   "pha": "binh_le_nguyen",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước thế giặc mạnh, quân ta tạm rút lui để bảo toàn lực lượng.",
+     "Facing a strong enemy, our army fell back to preserve its forces."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tran-thai-tong",
+    "tran-thu-do"
+   ],
    "hinh": "Trên thuyền ngự, vua Trần Thái Tông lo lắng hỏi Thái sư Trần Thủ Độ; Trần Thủ Độ đứng thẳng, nét mặt cương nghị, quả quyết",
-   "loi": [["Hân Hân", "Sau trận Bình Lệ Nguyên, vua Trần Thái Tông tỏ ý lo lắng, hỏi ý kiến Thái sư Trần Thủ Độ.", "After Bình Lệ Nguyên, a worried King Trần Thái Tông asked Grand Chancellor Trần Thủ Độ for advice."],
-           ["Trần Thái Tông", "Thế giặc đang mạnh, Thái sư nghĩ thế nào?", "The enemy is strong. What do you think, Chancellor?"],
-           ["Trần Thủ Độ", "Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo.", "As long as my head has not fallen to the ground, Your Majesty need not worry."]],
-   "dung": true, "nguon_trang": [69]},
-  {"so": 8, "lop": "cau_hoi", "thoi_luong_toi_thieu": 7,
-   "cau_hoi": {"hoi": "Câu nói “Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo” là của ai?", "lua_chon": ["Trần Thủ Độ", "Trần Quốc Tuấn", "Trần Thái Tông"], "dung": 0},
-   "loi": [["Nhật Minh", "Dừng hình! Câu nói vừa rồi là của ai?", "Pause! Who said those words?"],
-           ["Hân Hân", "Đáp án là A: Thái sư Trần Thủ Độ!", "The answer is A: Grand Chancellor Trần Thủ Độ!"]],
-   "nguon_trang": [69]},
-  {"so": 9, "lop": "sa_ban", "sa_ban": "khang-chien-1258", "pha": "thanh_trong", "thoi_luong_toi_thieu": 8,
-   "loi": [["Nhật Minh", "Nhà Trần thi hành kế sách “vườn không nhà trống”. Quân Mông Cổ chiếm được Thăng Long, nhưng chỉ là một toà thành trống rỗng.", "The Trần applied the 'empty gardens, empty houses' strategy. The Mongols took Thăng Long, but it was an empty city."]],
-   "nguon_trang": [69]},
-  {"so": 10, "lop": "du_hanh", "nhan_vat": ["quan-mong-co"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau trận Bình Lệ Nguyên, vua Trần Thái Tông tỏ ý lo lắng, hỏi ý kiến Thái sư Trần Thủ Độ.",
+     "After Bình Lệ Nguyên, a worried King Trần Thái Tông asked Grand Chancellor Trần Thủ Độ for advice."
+    ],
+    [
+     "Trần Thái Tông",
+     "Thế giặc đang mạnh, Thái sư nghĩ thế nào?",
+     "The enemy is strong. What do you think, Chancellor?"
+    ],
+    [
+     "Trần Thủ Độ",
+     "Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo.",
+     "As long as my head has not fallen to the ground, Your Majesty need not worry."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Câu nói “Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo” là của ai?",
+    "lua_chon": [
+     "Trần Thủ Độ",
+     "Trần Quốc Tuấn",
+     "Trần Thái Tông"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Câu nói vừa rồi là của ai?",
+     "Pause! Who said those words?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Thái sư Trần Thủ Độ!",
+     "The answer is A: Grand Chancellor Trần Thủ Độ!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "khang-chien-1258",
+   "pha": "thanh_trong",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Trần thi hành kế sách “vườn không nhà trống”. Quân Mông Cổ chiếm được Thăng Long, nhưng chỉ là một toà thành trống rỗng.",
+     "The Trần applied the 'empty gardens, empty houses' strategy. The Mongols took Thăng Long, but it was an empty city."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-mong-co"
+   ],
    "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau góc tường một phố cổ Thăng Long vắng tanh: nhà cửa bỏ trống, kho thóc trống không, vài kỵ binh Mông Cổ lùng sục, ngơ ngác",
-   "loi": [["Nhật Minh", "Cả kinh thành vắng tanh, kho thóc cũng trống không!", "The whole city is deserted, and the granaries are empty!"],
-           ["Hân Hân", "Giặc chiếm được thành mà chẳng có gì để ăn, càng ở lâu càng khốn đốn.", "The enemy has the city but nothing to eat. The longer they stay, the worse it gets."]],
-   "nguon_trang": [69]},
-  {"so": 11, "lop": "sa_ban", "sa_ban": "khang-chien-1258", "pha": "dong_bo_dau", "thoi_luong_toi_thieu": 11,
-   "loi": [["Hân Hân", "Trước tình cảnh khó khăn của giặc, nhà Trần mở cuộc tấn công quyết định vào Đông Bộ Đầu, nay thuộc Hà Nội.", "With the enemy in trouble, the Trần launched a decisive attack at Đông Bộ Đầu, in today's Hà Nội."],
-           ["Nhật Minh", "Quân Mông Cổ thua trận, rút chạy khỏi Thăng Long, đến phủ Quy Hoá lại bị dân binh địa phương chặn đánh.", "Defeated, the Mongols fled Thăng Long, only to be ambushed by local militias at Quy Hoá."]],
-   "nguon_trang": [69]},
-  {"so": 12, "lop": "tai_hien", "nhan_vat": ["dan-binh-dia-phuong", "quan-mong-co"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cả kinh thành vắng tanh, kho thóc cũng trống không!",
+     "The whole city is deserted, and the granaries are empty!"
+    ],
+    [
+     "Hân Hân",
+     "Giặc chiếm được thành mà chẳng có gì để ăn, càng ở lâu càng khốn đốn.",
+     "The enemy has the city but nothing to eat. The longer they stay, the worse it gets."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "khang-chien-1258",
+   "pha": "dong_bo_dau",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước tình cảnh khó khăn của giặc, nhà Trần mở cuộc tấn công quyết định vào Đông Bộ Đầu, nay thuộc Hà Nội.",
+     "With the enemy in trouble, the Trần launched a decisive attack at Đông Bộ Đầu, in today's Hà Nội."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Mông Cổ thua trận, rút chạy khỏi Thăng Long, đến phủ Quy Hoá lại bị dân binh địa phương chặn đánh.",
+     "Defeated, the Mongols fled Thăng Long, only to be ambushed by local militias at Quy Hoá."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "dan-binh-dia-phuong",
+    "quan-mong-co"
+   ],
    "hinh": "Vùng núi rừng Quy Hoá (Lào Cai ngày nay): dân binh địa phương mai phục trên sườn núi, chặn đánh đoàn kỵ binh Mông Cổ đang tháo chạy dọc thung lũng (không cảnh máu me)",
-   "loi": [["Hân Hân", "Cuộc kháng chiến kết thúc thắng lợi sau chưa đầy một tháng!", "The resistance ended in victory in less than a month!"]],
-   "nguon_trang": [69]},
-  {"so": 13, "lop": "truc_thoi_gian", "tieu_de": "TRỤC THỜI GIAN · KHÁNG CHIẾN NĂM 1258",
-   "moc": [["Cuối 1257", "Nhà Trần chủ động chuẩn bị kháng chiến"], ["Tháng 1 – 1258", "3 vạn quân Mông Cổ từ Vân Nam tiến vào"], ["Bình Lệ Nguyên", "Quân ta tạm rút lui, bảo toàn lực lượng"], ["Thăng Long", "Kế sách “vườn không nhà trống”"], ["Đông Bộ Đầu", "Tấn công quyết định, giặc rút chạy"]],
-   "loi": [["Nhật Minh", "Tóm tắt nhé! Cuối năm 1257, nhà Trần chủ động chuẩn bị kháng chiến.", "Recap! In late 1257 the Trần prepared for war."],
-           ["Hân Hân", "Tháng 1 năm 1258, 3 vạn quân Mông Cổ từ Vân Nam tiến vào.", "In January 1258, 30,000 Mongols marched in from Yunnan."],
-           ["Nhật Minh", "Sau trận Bình Lệ Nguyên, quân ta tạm rút lui để bảo toàn lực lượng.", "After Bình Lệ Nguyên, our army fell back to save its strength."],
-           ["Hân Hân", "Giặc vào Thăng Long thì gặp kế sách vườn không nhà trống.", "In Thăng Long the enemy met empty gardens and empty houses."],
-           ["Nhật Minh", "Và trận Đông Bộ Đầu quyết định đã đuổi giặc khỏi bờ cõi.", "And the decisive battle of Đông Bộ Đầu drove the invaders out."]],
-   "nguon_trang": [68, 69]},
-  {"so": 14, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "Hôm nay", "thoi_luong": 1.6},
-  {"so": 15, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuộc kháng chiến kết thúc thắng lợi sau chưa đầy một tháng!",
+     "The resistance ended in victory in less than a month!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KHÁNG CHIẾN NĂM 1258",
+   "moc": [
+    [
+     "Cuối 1257",
+     "Nhà Trần chủ động chuẩn bị kháng chiến"
+    ],
+    [
+     "Tháng 1 – 1258",
+     "3 vạn quân Mông Cổ từ Vân Nam tiến vào"
+    ],
+    [
+     "Bình Lệ Nguyên",
+     "Quân ta tạm rút lui, bảo toàn lực lượng"
+    ],
+    [
+     "Thăng Long",
+     "Kế sách “vườn không nhà trống”"
+    ],
+    [
+     "Đông Bộ Đầu",
+     "Tấn công quyết định, giặc rút chạy"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Cuối năm 1257, nhà Trần chủ động chuẩn bị kháng chiến.",
+     "Recap! In late 1257 the Trần prepared for war."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1258, 3 vạn quân Mông Cổ từ Vân Nam tiến vào.",
+     "In January 1258, 30,000 Mongols marched in from Yunnan."
+    ],
+    [
+     "Nhật Minh",
+     "Sau trận Bình Lệ Nguyên, quân ta tạm rút lui để bảo toàn lực lượng.",
+     "After Bình Lệ Nguyên, our army fell back to save its strength."
+    ],
+    [
+     "Hân Hân",
+     "Giặc vào Thăng Long thì gặp kế sách vườn không nhà trống.",
+     "In Thăng Long the enemy met empty gardens and empty houses."
+    ],
+    [
+     "Nhật Minh",
+     "Và trận Đông Bộ Đầu quyết định đã đuổi giặc khỏi bờ cõi.",
+     "And the decisive battle of Đông Bộ Đầu drove the invaders out."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    69
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân trở lại bờ sông Hồng ở Hà Nội lúc chiều, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
-   "loi": [["Hân Hân", "Thử thách cho cậu: vì sao kế sách “vườn không nhà trống” lại khiến quân Mông Cổ lâm vào thế khó? Bình luận đáp án nhé!", "Your challenge: why did the 'empty gardens, empty houses' strategy put the Mongols in trouble? Answer in the comments!"]],
-   "nguon_trang": [69]}
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao kế sách “vườn không nhà trống” lại khiến quân Mông Cổ lâm vào thế khó? Bình luận đáp án nhé!",
+     "Your challenge: why did the 'empty gardens, empty houses' strategy put the Mongols in trouble? Answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  }
  ],
  "cau_hoi": [
-  {"hoi": "Năm 1258, ai chỉ huy 3 vạn quân Mông Cổ tiến vào Đại Việt?", "dap_an": ["Thoát Hoan", "Ngột Lương Hợp Thai", "Ô Mã Nhi", "Toa Đô"], "dung": 1, "trang": 69},
-  {"hoi": "Vua nào trực tiếp chỉ huy trận Bình Lệ Nguyên?", "dap_an": ["Trần Nhân Tông", "Trần Thánh Tông", "Trần Thái Tông", "Trần Anh Tông"], "dung": 2, "trang": 69},
-  {"hoi": "Khi quân Mông Cổ chiếm được Thăng Long, kinh thành ở trong tình trạng nào?", "dap_an": ["Đông đúc, nhiều lương thực", "Là một toà thành trống rỗng", "Bị phá huỷ hoàn toàn", "Có quân Trần cố thủ"], "dung": 1, "trang": 69},
-  {"hoi": "Trận tấn công quyết định của nhà Trần năm 1258 diễn ra ở đâu?", "dap_an": ["Bạch Đằng", "Chương Dương", "Đông Bộ Đầu", "Vân Đồn"], "dung": 2, "trang": 69}
+  {
+   "hoi": "Năm 1258, ai chỉ huy 3 vạn quân Mông Cổ tiến vào Đại Việt?",
+   "dap_an": [
+    "Thoát Hoan",
+    "Ngột Lương Hợp Thai",
+    "Ô Mã Nhi",
+    "Toa Đô"
+   ],
+   "dung": 1,
+   "trang": 69
+  },
+  {
+   "hoi": "Vua nào trực tiếp chỉ huy trận Bình Lệ Nguyên?",
+   "dap_an": [
+    "Trần Nhân Tông",
+    "Trần Thánh Tông",
+    "Trần Thái Tông",
+    "Trần Anh Tông"
+   ],
+   "dung": 2,
+   "trang": 69
+  },
+  {
+   "hoi": "Khi quân Mông Cổ chiếm được Thăng Long, kinh thành ở trong tình trạng nào?",
+   "dap_an": [
+    "Đông đúc, nhiều lương thực",
+    "Là một toà thành trống rỗng",
+    "Bị phá huỷ hoàn toàn",
+    "Có quân Trần cố thủ"
+   ],
+   "dung": 1,
+   "trang": 69
+  },
+  {
+   "hoi": "Trận tấn công quyết định của nhà Trần năm 1258 diễn ra ở đâu?",
+   "dap_an": [
+    "Bạch Đằng",
+    "Chương Dương",
+    "Đông Bộ Đầu",
+    "Vân Đồn"
+   ],
+   "dung": 2,
+   "trang": 69
+  }
  ],
- "kiem_tra": {"viet": "Claude", "doi_chieu": "OCR SGK LSĐL 7 tr. 68–69 (mục 1, Em có biết, tư liệu 1, Hình 1). Lời Trần Thủ Độ đúng tư liệu 1; câu hỏi của vua Trần Thái Tông là lời dựng theo ý 'tỏ ý lo lắng và hỏi ý kiến'. Sa bàn vẽ lại giản lược theo Hình 1.", "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"}
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 68–69 (mục 1, Em có biết, tư liệu 1, Hình 1). Lời Trần Thủ Độ đúng tư liệu 1; câu hỏi của vua Trần Thái Tông là lời dựng theo ý 'tỏ ý lo lắng và hỏi ý kiến'. Sa bàn vẽ lại giản lược theo Hình 1.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
 }

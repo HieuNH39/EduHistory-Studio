@@ -1,0 +1,78 @@
+{
+ "ma": "L7-B14-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand side-by-side, turning their heads slightly to look at each other while smiling warmly. Hân Hân gestures naturally with her hands as she speaks, her lips moving in sync with her dialogue, while Nhật Minh nods in agreement. In the background, the river water flows gently, and soft clouds drift slowly across the clear sky. The camera performs a slow, smooth push-in toward the two students, maintaining the vibrant 2D animated-film aesthetic throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Thoát Hoan sits tall on his horse, gently pulling the reins as the steed shifts its weight. Behind him, cavalrymen trot forward while infantry march in rhythmic unison. On the river, the massive fleet of warships glides steadily, oars dipping into the water. Blank flags flutter vigorously in the wind, and dust rises from the marching troops. The camera performs a slow, cinematic push-in toward Thoát Hoan, capturing the grand scale of the advancing army."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "King Tran Nhan Tong sits regally, slowly turning his head to look at Tran Quoc Tuan while gesturing with a calm hand movement. Tran Quoc Tuan stands upright, bowing slightly with hands clasped in a respectful, confident posture. Hân Hân stands in the foreground, speaking with natural lip movements and a gentle nod. Sunlight filters through the palace pillars, causing soft dust motes to drift. The camera performs a slow, steady push-in toward the king and general."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, dramatic push-in toward the center of the bay. Trần Khánh Dư stands tall on the lead boat, gesturing forward with his sword as his soldiers rhythmically row through the emerald water. Behind the limestone karsts, additional Trần ships emerge swiftly. In the foreground, Hân Hân and Nhật Minh turn their heads to observe the battle, their lips moving naturally as they narrate, while banners flutter in the sea breeze and waves ripple against the hulls."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Thoát Hoan stands in the center of the desolate Thăng Long citadel, his brow furrowed in deep frustration as he paces slowly, glancing around at the empty, silent buildings. Nearby, Hân Hân and Nhật Minh stand in their orange polo shirts, gesturing naturally toward the ruins while speaking with synchronized lip movements. Gentle dust particles drift through the stagnant air, and the camera performs a slow, steady push-in toward Thoát Hoan’s anxious, expressive face to emphasize the tension."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Trần Quốc Tuấn stands firmly on the riverbank, his gaze fixed on the water as he slowly raises his hand to point toward the riverbed. Below, soldiers in the water rhythmically hammer sharpened wooden stakes into the mud. Hân Hân stands nearby, turning her head slightly to look at the general while her lips move as if narrating. The river current flows steadily around the stakes, and the camera performs a slow, gentle push-in toward the general."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the two students. Hân Hân and Nhật Minh, wearing orange FPT polo shirts, crouch cautiously behind swaying reeds as the river water ripples gently. Nhật Minh points toward the horizon with a tense expression, while Hân Hân turns her head to whisper, her lips moving naturally in synchronized speech. In the background, large wooden warships drift slowly down the river, their sails catching a light breeze amidst the misty, atmospheric riverbank."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân stands in the foreground, turning her head slightly toward the camera while speaking with natural lip movements. In the background, the massive Mongol warships tilt precariously as they strike the sharp wooden stakes during low tide, with hulls splintering and water churning around the wreckage. Smaller Tran dynasty boats glide smoothly toward the trapped enemy vessels. A slow push-in camera move focuses on the chaotic naval scene, while the river water flows steadily around the jagged wooden obstacles."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The flaming boats drift steadily downstream, their fires crackling as thick, dark smoke billows upward into the sky. In the foreground, Nhật Minh stands on the riverbank, gesturing toward the enemy fleet with an intense expression while his lips move naturally as he speaks. The camera performs a slow, cinematic push-in toward the burning boats, capturing the flickering orange light reflecting off the water's surface as the enemy ships remain trapped and motionless in the distance."
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The captured general, Ô Mã Nhi, is led forward by two Trần soldiers, his head bowed in defeat as he walks toward the riverbank. In the background, thin wisps of smoke drift slowly over the calm river under a brightening morning sky. Nhật Minh stands in the foreground, gesturing naturally with his hands as he speaks with fluid lip movements. The camera performs a slow, steady push-in toward the group, maintaining the 2D animated aesthetic throughout the scene."
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "As the golden sunset bathes the Bạch Đằng Giang monument, Nhật Minh and Hân Hân stand side-by-side with proud expressions. Hân Hân turns her head slightly toward the camera, her lips moving naturally as she speaks. Beside her, Nhật Minh gazes toward the horizon with a gentle smile. In the background, the river water ripples softly, and nearby trees sway in a light breeze. The camera performs a slow, steady push-in, focusing on the students' heartfelt connection to history."
+  },
+  {
+   "so": 22,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand by the Bạch Đằng River at sunset. Nhật Minh turns his head slightly toward the camera, smiles, and gestures with his hand in a welcoming invitation motion while his lips move naturally as if speaking. Hân Hân nods gently, looking at the viewer with a friendly expression. In the background, the river water flows steadily, and the reeds sway softly in the breeze. The camera performs a slow, gentle push-in toward the students."
+  }
+ ]
+}

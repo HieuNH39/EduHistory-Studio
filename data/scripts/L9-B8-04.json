@@ -1,0 +1,501 @@
+{
+ "ma": "L9-B8-04",
+ "ten_tap": "Thời cơ ngàn năm có một",
+ "ten_tap_en": "A Once-in-a-Thousand-Years Opportunity",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 8. Cách mạng tháng Tám năm 1945",
+  "trang": [
+   37,
+   38
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "uy-ban-khoi-nghia-toan-quoc",
+  "nhan-dan-ca-nuoc"
+ ],
+ "nhac": {
+  "tam_trang": "khẩn trương ở phần thời cơ, sục sôi và hào hùng dần khi khởi nghĩa lan rộng; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ vẽ lại theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 8, tr. 37–38.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bãi cỏ trước Di tích Đình Tân Trào (Tuyên Quang) ngày nay: ngôi đình mái tranh dày, cột gỗ, nền thấp, xung quanh cây cổ thụ xanh; bên trái có tấm bia đá giới thiệu di tích; nắng sớm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Di tích Đình Tân Trào ở tỉnh Tuyên Quang, nơi từng diễn ra Đại hội Quốc dân tháng 8 năm 1945.",
+     "This is the Tân Trào Communal House relic in Tuyên Quang, where the National Congress met in August 1945."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng Tám năm ấy, cả dân tộc đã chớp lấy một thời cơ “ngàn năm có một”. Thời cơ đó là gì? Cùng tìm hiểu nhé!",
+     "That August, the whole nation seized a 'once-in-a-thousand-years' opportunity. What was it? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "8 – 1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "thoi_co",
+   "thoi_luong_toi_thieu": 11,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 15 tháng 8 năm 1945, quân phiệt Nhật Bản đầu hàng Đồng minh không điều kiện.",
+     "On 15 August 1945, the Japanese militarists surrendered unconditionally to the Allies."
+    ],
+    [
+     "Hân Hân",
+     "Quân Nhật ở Đông Dương rệu rã, Chính phủ thân Nhật Trần Trọng Kim hoang mang cực độ. Thời cơ “ngàn năm có một” của tổng khởi nghĩa đã đến!",
+     "Japanese troops in Indochina fell apart and the pro-Japanese Trần Trọng Kim government was in utter panic. The once-in-a-thousand-years moment for a general uprising had come!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "tan_trao",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 13 tháng 8 năm 1945, Uỷ ban Khởi nghĩa toàn quốc được thành lập, ban bố Quân lệnh số 1, chính thức phát lệnh Tổng khởi nghĩa trong cả nước.",
+     "On 13 August 1945, the National Uprising Committee was set up and issued Military Order No. 1, officially launching the general uprising nationwide."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 14 và 15 tháng 8, Hội nghị toàn quốc của Đảng họp ở Tân Trào, thông qua kế hoạch lãnh đạo toàn dân tổng khởi nghĩa.",
+     "On 14 and 15 August, the Party's National Conference met at Tân Trào and adopted the plan to lead the whole people in the general uprising."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "dai_hoi",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 16 và 17 tháng 8, Đại hội Quốc dân được triệu tập.",
+     "On 16 and 17 August, the National Congress was convened."
+    ],
+    [
+     "Hân Hân",
+     "Đại hội tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách của Việt Minh, cử ra Uỷ ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch.",
+     "The Congress approved the Party's call for a general uprising, adopted the Việt Minh's 10 policies and elected the Vietnam National Liberation Committee chaired by Hồ Chí Minh."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Uỷ ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1 vào ngày nào?",
+    "lua_chon": [
+     "13 – 8 – 1945",
+     "15 – 8 – 1945",
+     "19 – 8 – 1945"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Uỷ ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1 vào ngày nào?",
+     "Pause! On what date did the National Uprising Committee issue Military Order No. 1?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: ngày 13 tháng 8 năm 1945, chính thức phát lệnh Tổng khởi nghĩa!",
+     "The answer is A: 13 August 1945, officially launching the general uprising!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "ngay_14",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 14 tháng 8, ở nhiều xã, huyện thuộc đồng bằng châu thổ sông Hồng, Thanh Hoá, Nghệ An, Hà Tĩnh, Thừa Thiên, Quảng Ngãi, Khánh Hoà, các cấp bộ Đảng và Việt Minh đã phát động nhân dân khởi nghĩa giành chính quyền.",
+     "On 14 August, in many communes and districts of the Red River Delta, Thanh Hoá, Nghệ An, Hà Tĩnh, Thừa Thiên, Quảng Ngãi and Khánh Hoà, Party and Việt Minh units led the people to rise up and take power."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "ngay_16",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 16 tháng 8, Võ Nguyên Giáp chỉ huy một đơn vị Giải phóng quân từ Tân Trào tiến về giải phóng thị xã Thái Nguyên, mở đường tiến về Hà Nội.",
+     "On 16 August, Võ Nguyên Giáp led a Liberation Army unit from Tân Trào to free Thái Nguyên town, opening the way to Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "ngay_18",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 18 tháng 8, nhân dân Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam giành được chính quyền ở tỉnh lị sớm nhất trong cả nước.",
+     "On 18 August, the people of Bắc Giang, Hải Dương, Hà Tĩnh and Quảng Nam were the first in the country to take power in their provincial towns."
+    ],
+    [
+     "Nhật Minh",
+     "Bắc Giang, nơi trường tụi mình đang học, là một trong bốn tỉnh đó đấy!",
+     "Bắc Giang, where our school is, was one of those four!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "ngay_19",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 19 tháng 8, tại Hà Nội, quần chúng cách mạng có sự hỗ trợ của các đội tự vệ chiến đấu lần lượt chiếm Phủ Khâm sai, Sở Cảnh sát Trung ương, Trại Bảo an binh.",
+     "On 19 August in Hà Nội, revolutionary crowds backed by self-defence units seized the Imperial Delegate's Office, the Central Police Department and the Civil Guard barracks."
+    ],
+    [
+     "Nhật Minh",
+     "Đến tối, cuộc khởi nghĩa giành thắng lợi hoàn toàn.",
+     "By evening, the uprising had won complete victory."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn ngày 19 – 8 – 1945 (như Hình 8.4 SGK)",
+    "tim": "mít tinh Nhà hát Lớn Hà Nội 19 8 1945 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu công khai (tác phẩm nhiếp ảnh công bố năm 1945, đã hết thời hạn bảo hộ theo Luật SHTT), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn (19 – 8 – 1945)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn, ngày 19 tháng 8 năm 1945.",
+     "This archive photo shows the people of Hà Nội rallying at the Opera House square on 19 August 1945."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "tong-khoi-nghia-1945",
+   "pha": "ngay_23_28",
+   "thoi_luong_toi_thieu": 16,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 23 tháng 8, tại Huế, hàng vạn nhân dân nội, ngoại thành kéo về biểu tình thị uy, chiếm các công sở, giành chính quyền về tay nhân dân.",
+     "On 23 August in Huế, tens of thousands from the city and its outskirts marched in, seized public offices and took power for the people."
+    ],
+    [
+     "Hân Hân",
+     "Tại Sài Gòn, tối 24 tháng 8, cuộc khởi nghĩa cơ bản giành thắng lợi. Ngày 25 tháng 8, chính quyền cách mạng ra mắt nhân dân trong cuộc mít tinh khổng lồ.",
+     "In Sài Gòn, the uprising was essentially won on the evening of 24 August. On 25 August, the revolutionary government was presented to the people at a huge rally."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 28 tháng 8, Đồng Nai Thượng và Hà Tiên là hai tỉnh cuối cùng giành được chính quyền.",
+     "On 28 August, Đồng Nai Thượng and Hà Tiên were the last two provinces to take power."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bốn tỉnh giành chính quyền ở tỉnh lị sớm nhất cả nước (18 – 8 – 1945) là",
+    "lua_chon": [
+     "Hà Nội, Huế, Sài Gòn, Thái Nguyên",
+     "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam",
+     "Đồng Nai Thượng, Hà Tiên, Huế, Hà Nội"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Bốn tỉnh nào giành chính quyền ở tỉnh lị sớm nhất cả nước?",
+     "Quick test! Which four provinces were first to take power in their provincial towns?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam!",
+     "The answer is B: Bắc Giang, Hải Dương, Hà Tĩnh and Quảng Nam!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · THÁNG 8 – 1945",
+   "moc": [
+    [
+     "13 – 8",
+     "Quân lệnh số 1"
+    ],
+    [
+     "15 – 8",
+     "Nhật Bản đầu hàng Đồng minh"
+    ],
+    [
+     "16, 17 – 8",
+     "Đại hội Quốc dân"
+    ],
+    [
+     "18 – 8",
+     "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam"
+    ],
+    [
+     "19 – 8",
+     "Hà Nội"
+    ],
+    [
+     "23 – 8",
+     "Huế"
+    ],
+    [
+     "25 – 8",
+     "Sài Gòn"
+    ],
+    [
+     "28 – 8",
+     "Đồng Nai Thượng, Hà Tiên"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 13 tháng 8: Quân lệnh số 1.",
+     "Recap! 13 August: Military Order No. 1."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 15 tháng 8: Nhật Bản đầu hàng Đồng minh.",
+     "15 August: Japan surrenders to the Allies."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 16 và 17 tháng 8: Đại hội Quốc dân.",
+     "16 and 17 August: the National Congress."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 18 tháng 8: Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam.",
+     "18 August: Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 19 tháng 8: Hà Nội. Ngày 23: Huế. Ngày 25: Sài Gòn.",
+     "19 August: Hà Nội. 23rd: Huế. 25th: Sài Gòn."
+    ],
+    [
+     "Nhật Minh",
+     "Và ngày 28 tháng 8: Đồng Nai Thượng, Hà Tiên.",
+     "And 28 August: Đồng Nai Thượng and Hà Tiên."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    4,
+    4,
+    5
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "15 – 8 – 1945: Nhật Bản đầu hàng, thời cơ “ngàn năm có một” đến",
+    "13 – 8: Uỷ ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1",
+    "16, 17 – 8: Đại hội Quốc dân tán thành chủ trương Tổng khởi nghĩa",
+    "19 – 8: Hà Nội · 23 – 8: Huế · 25 – 8: Sài Gòn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Nhật Bản đầu hàng Đồng minh, thời cơ “ngàn năm có một” đã đến.",
+     "Remember: Japan surrendered to the Allies, and the once-in-a-thousand-years opportunity arrived."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 13 tháng 8, Uỷ ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1.",
+     "13 August: the National Uprising Committee issued Military Order No. 1."
+    ],
+    [
+     "Nhật Minh",
+     "Đại hội Quốc dân tán thành chủ trương Tổng khởi nghĩa.",
+     "The National Congress approved the general uprising."
+    ],
+    [
+     "Hân Hân",
+     "Khởi nghĩa thắng lợi ở Hà Nội ngày 19, Huế ngày 23 và Sài Gòn ngày 25 tháng 8.",
+     "The uprising triumphed in Hà Nội on the 19th, Huế on the 23rd and Sài Gòn on the 25th of August."
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên bãi cỏ trước Đình Tân Trào lúc chiều, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những sự kiện nào cho thấy Đảng và Việt Minh đã chớp đúng thời cơ? Kể ra hai sự kiện ở phần bình luận nhé!",
+     "Your challenge: which events show that the Party and the Việt Minh seized the right moment? Name two in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    39
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời cơ “ngàn năm có một” của Tổng khởi nghĩa tháng Tám năm 1945 xuất hiện khi",
+   "dap_an": [
+    "Nhật đảo chính Pháp (9 – 3 – 1945)",
+    "Nhật Bản đầu hàng Đồng minh không điều kiện (15 – 8 – 1945)",
+    "Mặt trận Việt Minh thành lập",
+    "Đức đầu hàng Đồng minh"
+   ],
+   "dung": 1,
+   "trang": 37
+  },
+  {
+   "hoi": "Cơ quan nào ban bố Quân lệnh số 1, phát lệnh Tổng khởi nghĩa?",
+   "dap_an": [
+    "Uỷ ban Khởi nghĩa toàn quốc",
+    "Uỷ ban Dân tộc giải phóng Việt Nam",
+    "Chính phủ lâm thời",
+    "Đội Việt Nam Tuyên truyền Giải phóng quân"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Đại hội Quốc dân (16 và 17 – 8 – 1945) đã",
+   "dap_an": [
+    "Thành lập Mặt trận Việt Minh",
+    "Tán thành chủ trương Tổng khởi nghĩa, thông qua 10 chính sách của Việt Minh",
+    "Đọc Tuyên ngôn Độc lập",
+    "Ban bố Quân lệnh số 1"
+   ],
+   "dung": 1,
+   "trang": 38
+  },
+  {
+   "hoi": "Hai tỉnh cuối cùng giành được chính quyền (28 – 8 – 1945) là",
+   "dap_an": [
+    "Huế và Sài Gòn",
+    "Bắc Giang và Hải Dương",
+    "Đồng Nai Thượng và Hà Tiên",
+    "Quảng Nam và Hà Tĩnh"
+   ],
+   "dung": 2,
+   "trang": 38
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 37–38 và ảnh trang (bảng 'Diễn biến chính của Tổng khởi nghĩa tháng Tám năm 1945', Hình 8.3, 8.4). Bổ sung tr. 38 vào nguồn của danh mục (diễn biến 14 – 8 đến 28 – 8 nằm ở tr. 38). Không có lời thoại dựng cho nhân vật lịch sử; lãnh tụ chỉ nhắc tên; bản đồ có Hoàng Sa, Trường Sa, không vẽ ranh giới tỉnh.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

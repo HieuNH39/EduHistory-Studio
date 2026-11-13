@@ -2,94 +2,486 @@
  "ma": "L7-B16-05",
  "ten_tap": "Chi Lăng – Xương Giang và Hội thề Đông Quan",
  "ten_tap_en": "Chi Lăng – Xương Giang and the Đông Quan Oath",
- "khung": "4-5p", "huong": "ngang",
- "nguon": {"sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)", "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)", "trang": [81, 82]},
- "nhan_vat_lich_su": ["le-loi", "nguyen-trai", "lieu-thang", "moc-thanh", "vuong-thong", "nghia-quan-lam-son", "quan-minh"],
- "nhac": {"tam_trang": "hồi hộp ở đoạn mai phục, hùng tráng khi thắng, trang trọng ở Hội thề", "tep": "assets/music/atlas-vietnam.mp3"},
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+  "trang": [
+   81,
+   82
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-loi",
+  "nguyen-trai",
+  "lieu-thang",
+  "moc-thanh",
+  "vuong-thong",
+  "nghia-quan-lam-son",
+  "quan-minh"
+ ],
+ "nhac": {
+  "tam_trang": "hồi hộp ở đoạn mai phục, hùng tráng khi thắng, trang trọng ở Hội thề",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
  "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 16, tr. 81–82.",
  "canh": [
-  {"so": 1, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng trên một sườn đồi nhìn xuống thung lũng ải Chi Lăng (Lạng Sơn) ngày nay, núi đá hai bên, đường quốc lộ và đường sắt nhỏ xa xa",
-   "loi": [["Hân Hân", "Đây là ải Chi Lăng ở tỉnh Lạng Sơn.", "This is the Chi Lăng pass in Lạng Sơn province."],
-           ["Nhật Minh", "Năm 1427, nghĩa quân Lam Sơn đã đánh tan đạo viện binh lớn của quân Minh ngay tại đây. Tụi mình cùng du hành nhé!", "In 1427 the Lam Sơn army crushed a huge Ming relief force right here. Let's travel back!"]],
-   "nguon_trang": [81]},
-  {"so": 2, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "1427", "thoi_luong": 2.0},
-  {"so": 3, "lop": "tai_hien", "nhan_vat": ["lieu-thang", "quan-minh"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ải Chi Lăng ở tỉnh Lạng Sơn.",
+     "This is the Chi Lăng pass in Lạng Sơn province."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1427, nghĩa quân Lam Sơn đã đánh tan đạo viện binh lớn của quân Minh ngay tại đây. Tụi mình cùng du hành nhé!",
+     "In 1427 the Lam Sơn army crushed a huge Ming relief force right here. Let's travel back!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1427",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "lieu-thang",
+    "quan-minh"
+   ],
    "hinh": "Đạo quân Minh rất đông (kỵ binh, bộ binh, cờ xí không chữ) hành quân qua đèo núi biên giới; Liễu Thăng cưỡi ngựa đi đầu, vẻ kiêu ngạo",
-   "loi": [["Nhật Minh", "Tháng 10 năm 1427, Liễu Thăng và Mộc Thạnh chỉ huy 15 vạn viện binh, theo hai đường Quảng Tây và Vân Nam tiến vào nước ta.", "In October 1427, Liu Sheng and Mu Sheng led 150,000 reinforcements into our land along two routes, from Guangxi and Yunnan."]],
-   "nguon_trang": [81]},
-  {"so": 4, "lop": "sa_ban", "sa_ban": "chi-lang-xuong-giang", "pha": "vien_binh", "thoi_luong_toi_thieu": 7,
-   "loi": [["Hân Hân", "Đạo quân của Liễu Thăng từ Quảng Tây tràn qua biên giới, tiến về phía ải Chi Lăng.", "Liu Sheng's army poured across the border from Guangxi, heading for the Chi Lăng pass."]],
-   "nguon_trang": [81]},
-  {"so": 5, "lop": "tai_hien", "nhan_vat": ["le-loi", "nghia-quan-lam-son"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1427, Liễu Thăng và Mộc Thạnh chỉ huy 15 vạn viện binh, theo hai đường Quảng Tây và Vân Nam tiến vào nước ta.",
+     "In October 1427, Liu Sheng and Mu Sheng led 150,000 reinforcements into our land along two routes, from Guangxi and Yunnan."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "chi-lang-xuong-giang",
+   "pha": "vien_binh",
+   "thoi_luong_toi_thieu": 7,
+   "loi": [
+    [
+     "Hân Hân",
+     "Đạo quân của Liễu Thăng từ Quảng Tây tràn qua biên giới, tiến về phía ải Chi Lăng.",
+     "Liu Sheng's army poured across the border from Guangxi, heading for the Chi Lăng pass."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "le-loi",
+    "nghia-quan-lam-son"
+   ],
    "hinh": "Trong lều chỉ huy, Lê Lợi cùng các tướng Lam Sơn bên tấm bản đồ vẽ trên lụa, chỉ vào vị trí ải Chi Lăng giữa hai dãy núi",
-   "loi": [["Lê Lợi", "Bày sẵn trận mai phục ở ải Chi Lăng. Nhử giặc vào sâu rồi hãy đánh!", "Set the ambush at the Chi Lăng pass. Lure them in deep, then strike!"]],
-   "dung": true, "nguon_trang": [81]},
-  {"so": 6, "lop": "sa_ban", "sa_ban": "chi-lang-xuong-giang", "pha": "nhu_dich", "thoi_luong_toi_thieu": 10,
-   "loi": [["Nhật Minh", "Trên đường tiến quân, giặc liên tiếp bị chặn đánh ở các cửa ải, rồi bị nhử dần vào trận địa đã bày sẵn.", "On their march the enemy was hit again and again at the border passes, then lured step by step into the trap."]],
-   "nguon_trang": [81]},
-  {"so": 7, "lop": "du_hanh", "nhan_vat": ["nghia-quan-lam-son", "quan-minh"],
+   "loi": [
+    [
+     "Lê Lợi",
+     "Bày sẵn trận mai phục ở ải Chi Lăng. Nhử giặc vào sâu rồi hãy đánh!",
+     "Set the ambush at the Chi Lăng pass. Lure them in deep, then strike!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "chi-lang-xuong-giang",
+   "pha": "nhu_dich",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trên đường tiến quân, giặc liên tiếp bị chặn đánh ở các cửa ải, rồi bị nhử dần vào trận địa đã bày sẵn.",
+     "On their march the enemy was hit again and again at the border passes, then lured step by step into the trap."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "quan-minh"
+   ],
    "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau tảng đá trên sườn núi; phía dưới, nghĩa quân Lam Sơn mai phục kín trong cây cỏ hai bên ải, đoàn quân Minh đang kéo vào thung lũng",
-   "loi": [["Nhật Minh", "Suỵt! Quân mai phục nấp kín hai bên sườn núi.", "Shh! The ambushers are hidden on both slopes."],
-           ["Hân Hân", "Còn quân Minh đang kéo vào ải mà không hề hay biết…", "And the Ming troops are marching into the pass without a clue..."]],
-   "nguon_trang": [81]},
-  {"so": 8, "lop": "sa_ban", "sa_ban": "chi-lang-xuong-giang", "pha": "chi_lang", "thoi_luong_toi_thieu": 8,
-   "loi": [["Hân Hân", "Nghĩa quân tổ chức phục kích tại ải Chi Lăng. Liễu Thăng bị giết tại trận!", "The rebels sprang their ambush at Chi Lăng. Liu Sheng was killed in battle!"]],
-   "nguon_trang": [81]},
-  {"so": 9, "lop": "cau_hoi", "thoi_luong_toi_thieu": 7,
-   "cau_hoi": {"hoi": "Tướng giặc nào bị giết tại ải Chi Lăng năm 1427?", "lua_chon": ["Vương Thông", "Liễu Thăng", "Mộc Thạnh"], "dung": 1},
-   "loi": [["Nhật Minh", "Dừng hình! Tướng giặc nào bị giết tại ải Chi Lăng?", "Pause! Which enemy general was killed at Chi Lăng?"],
-           ["Hân Hân", "Đáp án là B: Liễu Thăng!", "The answer is B: Liu Sheng!"]],
-   "nguon_trang": [81]},
-  {"so": 10, "lop": "sa_ban", "sa_ban": "chi-lang-xuong-giang", "pha": "xuong_giang", "thoi_luong_toi_thieu": 10,
-   "loi": [["Nhật Minh", "Sau đó, nghĩa quân liên tiếp giành thắng lợi tại Cần Trạm, Phố Cát và Xương Giang, nay thuộc tỉnh Bắc Ninh.", "Then the rebels won one victory after another at Cần Trạm, Phố Cát and Xương Giang, in today's Bắc Ninh province."]],
-   "nguon_trang": [81]},
-  {"so": 11, "lop": "tai_hien", "nhan_vat": ["moc-thanh", "quan-minh"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Suỵt! Quân mai phục nấp kín hai bên sườn núi.",
+     "Shh! The ambushers are hidden on both slopes."
+    ],
+    [
+     "Hân Hân",
+     "Còn quân Minh đang kéo vào ải mà không hề hay biết…",
+     "And the Ming troops are marching into the pass without a clue..."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "chi-lang-xuong-giang",
+   "pha": "chi_lang",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân tổ chức phục kích tại ải Chi Lăng. Liễu Thăng bị giết tại trận!",
+     "The rebels sprang their ambush at Chi Lăng. Liu Sheng was killed in battle!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tướng giặc nào bị giết tại ải Chi Lăng năm 1427?",
+    "lua_chon": [
+     "Vương Thông",
+     "Liễu Thăng",
+     "Mộc Thạnh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tướng giặc nào bị giết tại ải Chi Lăng?",
+     "Pause! Which enemy general was killed at Chi Lăng?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Liễu Thăng!",
+     "The answer is B: Liu Sheng!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "chi-lang-xuong-giang",
+   "pha": "xuong_giang",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau đó, nghĩa quân liên tiếp giành thắng lợi tại Cần Trạm, Phố Cát và Xương Giang, nay thuộc tỉnh Bắc Ninh.",
+     "Then the rebels won one victory after another at Cần Trạm, Phố Cát and Xương Giang, in today's Bắc Ninh province."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "moc-thanh",
+    "quan-minh"
+   ],
    "hinh": "Doanh trại quân Minh ở vùng núi biên giới phía tây bắc: sứ giả của nghĩa quân trao ấn tín và bức thư; Mộc Thạnh cầm ấn tín, nét mặt kinh hoàng",
-   "loi": [["Hân Hân", "Lê Lợi sai người mang ấn tín và thư báo tin Liễu Thăng tử trận cho Mộc Thạnh, khi ấy đang đóng quân ở vùng biên giới tỉnh Lào Cai ngày nay.", "Lê Lợi sent Liu Sheng's seal and a letter announcing his death to Mu Sheng, then camped near today's Lào Cai border."],
-           ["Mộc Thạnh", "Liễu Thăng… đã tử trận ư? Mau, rút quân!", "Liu Sheng... is dead? Quick, retreat!"],
-           ["Nhật Minh", "Quân giặc vô cùng khiếp sợ, vội vàng rút về nước.", "Terrified, the enemy hurried back home."]],
-   "dung": true, "nguon_trang": [81]},
-  {"so": 12, "lop": "tai_hien", "nhan_vat": ["vuong-thong", "quan-minh", "nghia-quan-lam-son"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Lê Lợi sai người mang ấn tín và thư báo tin Liễu Thăng tử trận cho Mộc Thạnh, khi ấy đang đóng quân ở vùng biên giới tỉnh Lào Cai ngày nay.",
+     "Lê Lợi sent Liu Sheng's seal and a letter announcing his death to Mu Sheng, then camped near today's Lào Cai border."
+    ],
+    [
+     "Mộc Thạnh",
+     "Liễu Thăng… đã tử trận ư? Mau, rút quân!",
+     "Liu Sheng... is dead? Quick, retreat!"
+    ],
+    [
+     "Nhật Minh",
+     "Quân giặc vô cùng khiếp sợ, vội vàng rút về nước.",
+     "Terrified, the enemy hurried back home."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "vuong-thong",
+    "quan-minh",
+    "nghia-quan-lam-son"
+   ],
    "hinh": "Thành Đông Quan bị nghĩa quân Lam Sơn vây chặt bốn phía; trên mặt thành, Vương Thông nhìn ra, nét mặt lo âu",
-   "loi": [["Hân Hân", "Nghĩa quân vừa siết chặt vòng vây các thành còn lại như Đông Quan, Tây Đô, vừa khéo léo dụ hàng Vương Thông và các tướng lĩnh quân Minh.", "The rebels tightened the siege of the remaining citadels, such as Đông Quan and Tây Đô, while skilfully persuading Wang Tong and the Ming generals to surrender."]],
-   "nguon_trang": [82]},
-  {"so": 13, "lop": "tai_hien", "nhan_vat": ["le-loi", "vuong-thong", "nghia-quan-lam-son", "quan-minh"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân vừa siết chặt vòng vây các thành còn lại như Đông Quan, Tây Đô, vừa khéo léo dụ hàng Vương Thông và các tướng lĩnh quân Minh.",
+     "The rebels tightened the siege of the remaining citadels, such as Đông Quan and Tây Đô, while skilfully persuading Wang Tong and the Ming generals to surrender."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "le-loi",
+    "vuong-thong",
+    "nghia-quan-lam-son",
+    "quan-minh"
+   ],
    "hinh": "Bên bờ sông Hồng, hai phái đoàn đứng đối diện trong buổi lễ trang nghiêm: Lê Lợi dẫn đầu phái đoàn Lam Sơn, Vương Thông dẫn đầu phái đoàn quân Minh; cờ xí không chữ, sông nước mênh mông",
-   "loi": [["Nhật Minh", "Ngày 10 tháng 12 năm 1427, bên bờ sông Hồng, Lê Lợi và Vương Thông dẫn đầu hai phái đoàn tham gia Hội thề Đông Quan, chấm dứt chiến tranh.", "On 10 December 1427, on the bank of the Red River, Lê Lợi and Wang Tong led their delegations at the Đông Quan Oath, ending the war."],
-           ["Hân Hân", "Đầu tháng 1 năm 1428, quân Minh rút hết về nước. Đất nước hoàn toàn giải phóng!", "In early January 1428, the last Ming troops left. The country was completely free!"]],
-   "nguon_trang": [82]},
-  {"so": 14, "lop": "tai_hien", "nhan_vat": ["le-loi", "nguyen-trai"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 10 tháng 12 năm 1427, bên bờ sông Hồng, Lê Lợi và Vương Thông dẫn đầu hai phái đoàn tham gia Hội thề Đông Quan, chấm dứt chiến tranh.",
+     "On 10 December 1427, on the bank of the Red River, Lê Lợi and Wang Tong led their delegations at the Đông Quan Oath, ending the war."
+    ],
+    [
+     "Hân Hân",
+     "Đầu tháng 1 năm 1428, quân Minh rút hết về nước. Đất nước hoàn toàn giải phóng!",
+     "In early January 1428, the last Ming troops left. The country was completely free!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "le-loi",
+    "nguyen-trai"
+   ],
    "hinh": "Nguyễn Trãi ngồi bên án thư, cầm bút lông viết trên giấy dó dưới ánh đèn; Lê Lợi đứng bên cạnh",
-   "loi": [["Nhật Minh", "Lê Lợi giao Nguyễn Trãi soạn Bình Ngô đại cáo, chính thức tuyên bố chấm dứt chiến tranh, mở nền hoà bình và dựng xây đất nước.", "Lê Lợi asked Nguyễn Trãi to write the Great Proclamation upon the Pacification of the Wu, officially ending the war and opening an era of peace."],
-           ["Hân Hân", "Bình Ngô đại cáo được coi là bản Tuyên ngôn Độc lập của nước Đại Việt đầu thế kỉ XV.", "It is regarded as Đại Việt's Declaration of Independence of the early 15th century."]],
-   "nguon_trang": [82]},
-  {"so": 15, "lop": "truc_thoi_gian", "tieu_de": "TRỤC THỜI GIAN · 1427 – 1428",
-   "moc": [["10 – 1427", "15 vạn viện binh Minh theo hai đường tiến vào"], ["Chi Lăng", "Phục kích, Liễu Thăng bị giết"], ["Xương Giang", "Thắng lợi ở Cần Trạm, Phố Cát, Xương Giang"], ["10 – 12 – 1427", "Hội thề Đông Quan, chấm dứt chiến tranh"], ["Đầu 1 – 1428", "Quân Minh rút hết, đất nước giải phóng"]],
-   "loi": [["Hân Hân", "Tóm tắt nhé! Tháng 10 năm 1427, 15 vạn viện binh Minh theo hai đường tiến vào.", "Recap! In October 1427, 150,000 Ming reinforcements marched in by two routes."],
-           ["Nhật Minh", "Tại ải Chi Lăng, nghĩa quân phục kích, Liễu Thăng bị giết.", "At Chi Lăng the rebels ambushed them and Liu Sheng was killed."],
-           ["Hân Hân", "Rồi thắng tiếp ở Cần Trạm, Phố Cát, Xương Giang.", "Then came victories at Cần Trạm, Phố Cát and Xương Giang."],
-           ["Nhật Minh", "Ngày 10 tháng 12 năm 1427, Hội thề Đông Quan chấm dứt chiến tranh.", "On 10 December 1427, the Đông Quan Oath ended the war."],
-           ["Hân Hân", "Đầu tháng 1 năm 1428, quân Minh rút hết, đất nước giải phóng.", "In early January 1428, the Ming withdrew and the country was free."]],
-   "nguon_trang": [81, 82]},
-  {"so": 16, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "Hôm nay", "thoi_luong": 1.6},
-  {"so": 17, "lop": "ghi_nho",
-   "y": ["Tháng 10 – 1427: chiến thắng Chi Lăng – Xương Giang", "Liễu Thăng bị giết tại ải Chi Lăng", "10 – 12 – 1427: Hội thề Đông Quan", "Đầu năm 1428: quân Minh rút hết, đất nước giải phóng"],
-   "loi": [["Nhật Minh", "Ghi nhớ nhé: tháng 10 năm 1427, chiến thắng Chi Lăng – Xương Giang.", "Remember: October 1427, the victory of Chi Lăng – Xương Giang."],
-           ["Hân Hân", "Liễu Thăng bị giết tại ải Chi Lăng.", "Liu Sheng was killed at the Chi Lăng pass."],
-           ["Nhật Minh", "Ngày 10 tháng 12 năm 1427, Hội thề Đông Quan.", "10 December 1427: the Đông Quan Oath."],
-           ["Hân Hân", "Đầu năm 1428, quân Minh rút hết, đất nước hoàn toàn giải phóng.", "Early 1428: the Ming left and the country was completely free."]],
-   "nguon_trang": [81, 82]},
-  {"so": 18, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lê Lợi giao Nguyễn Trãi soạn Bình Ngô đại cáo, chính thức tuyên bố chấm dứt chiến tranh, mở nền hoà bình và dựng xây đất nước.",
+     "Lê Lợi asked Nguyễn Trãi to write the Great Proclamation upon the Pacification of the Wu, officially ending the war and opening an era of peace."
+    ],
+    [
+     "Hân Hân",
+     "Bình Ngô đại cáo được coi là bản Tuyên ngôn Độc lập của nước Đại Việt đầu thế kỉ XV.",
+     "It is regarded as Đại Việt's Declaration of Independence of the early 15th century."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · 1427 – 1428",
+   "moc": [
+    [
+     "10 – 1427",
+     "15 vạn viện binh Minh theo hai đường tiến vào"
+    ],
+    [
+     "Chi Lăng",
+     "Phục kích, Liễu Thăng bị giết"
+    ],
+    [
+     "Xương Giang",
+     "Thắng lợi ở Cần Trạm, Phố Cát, Xương Giang"
+    ],
+    [
+     "10 – 12 – 1427",
+     "Hội thề Đông Quan, chấm dứt chiến tranh"
+    ],
+    [
+     "Đầu 1 – 1428",
+     "Quân Minh rút hết, đất nước giải phóng"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 10 năm 1427, 15 vạn viện binh Minh theo hai đường tiến vào.",
+     "Recap! In October 1427, 150,000 Ming reinforcements marched in by two routes."
+    ],
+    [
+     "Nhật Minh",
+     "Tại ải Chi Lăng, nghĩa quân phục kích, Liễu Thăng bị giết.",
+     "At Chi Lăng the rebels ambushed them and Liu Sheng was killed."
+    ],
+    [
+     "Hân Hân",
+     "Rồi thắng tiếp ở Cần Trạm, Phố Cát, Xương Giang.",
+     "Then came victories at Cần Trạm, Phố Cát and Xương Giang."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 10 tháng 12 năm 1427, Hội thề Đông Quan chấm dứt chiến tranh.",
+     "On 10 December 1427, the Đông Quan Oath ended the war."
+    ],
+    [
+     "Hân Hân",
+     "Đầu tháng 1 năm 1428, quân Minh rút hết, đất nước giải phóng.",
+     "In early January 1428, the Ming withdrew and the country was free."
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Tháng 10 – 1427: chiến thắng Chi Lăng – Xương Giang",
+    "Liễu Thăng bị giết tại ải Chi Lăng",
+    "10 – 12 – 1427: Hội thề Đông Quan",
+    "Đầu năm 1428: quân Minh rút hết, đất nước giải phóng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tháng 10 năm 1427, chiến thắng Chi Lăng – Xương Giang.",
+     "Remember: October 1427, the victory of Chi Lăng – Xương Giang."
+    ],
+    [
+     "Hân Hân",
+     "Liễu Thăng bị giết tại ải Chi Lăng.",
+     "Liu Sheng was killed at the Chi Lăng pass."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 10 tháng 12 năm 1427, Hội thề Đông Quan.",
+     "10 December 1427: the Đông Quan Oath."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1428, quân Minh rút hết, đất nước hoàn toàn giải phóng.",
+     "Early 1428: the Ming left and the country was completely free."
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân trở lại ải Chi Lăng ngày nay lúc hoàng hôn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
-   "loi": [["Nhật Minh", "Thử thách cho cậu: việc dụ hàng quân Minh và tổ chức Hội thề Đông Quan thể hiện điều gì trong kế sách của Lê Lợi và Nguyễn Trãi? Bình luận nhé!", "Your challenge: what does persuading the Ming to surrender and holding the Đông Quan Oath say about Lê Lợi and Nguyễn Trãi's strategy? Tell us in the comments!"]],
-   "nguon_trang": [82]}
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: việc dụ hàng quân Minh và tổ chức Hội thề Đông Quan thể hiện điều gì trong kế sách của Lê Lợi và Nguyễn Trãi? Bình luận nhé!",
+     "Your challenge: what does persuading the Ming to surrender and holding the Đông Quan Oath say about Lê Lợi and Nguyễn Trãi's strategy? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  }
  ],
  "cau_hoi": [
-  {"hoi": "Năm 1427, viện binh Minh do ai chỉ huy tiến vào nước ta?", "dap_an": ["Vương Thông và Mã Kỳ", "Liễu Thăng và Mộc Thạnh", "Quách Quỳ và Triệu Tiết", "Thoát Hoan và Ô Mã Nhi"], "dung": 1, "trang": 81},
-  {"hoi": "Liễu Thăng bị giết tại đâu?", "dap_an": ["Xương Giang", "Tốt Động", "Ải Chi Lăng", "Đông Quan"], "dung": 2, "trang": 81},
-  {"hoi": "Hội thề Đông Quan diễn ra vào ngày nào?", "dap_an": ["7 – 11 – 1426", "10 – 12 – 1427", "Đầu tháng 1 – 1428", "Tháng 10 – 1427"], "dung": 1, "trang": 82},
-  {"hoi": "Văn kiện nào được coi là bản Tuyên ngôn Độc lập của Đại Việt đầu thế kỉ XV?", "dap_an": ["Nam quốc sơn hà", "Hịch tướng sĩ", "Bình Ngô đại cáo", "Chiếu dời đô"], "dung": 2, "trang": 82}
+  {
+   "hoi": "Năm 1427, viện binh Minh do ai chỉ huy tiến vào nước ta?",
+   "dap_an": [
+    "Vương Thông và Mã Kỳ",
+    "Liễu Thăng và Mộc Thạnh",
+    "Quách Quỳ và Triệu Tiết",
+    "Thoát Hoan và Ô Mã Nhi"
+   ],
+   "dung": 1,
+   "trang": 81
+  },
+  {
+   "hoi": "Liễu Thăng bị giết tại đâu?",
+   "dap_an": [
+    "Xương Giang",
+    "Tốt Động",
+    "Ải Chi Lăng",
+    "Đông Quan"
+   ],
+   "dung": 2,
+   "trang": 81
+  },
+  {
+   "hoi": "Hội thề Đông Quan diễn ra vào ngày nào?",
+   "dap_an": [
+    "7 – 11 – 1426",
+    "10 – 12 – 1427",
+    "Đầu tháng 1 – 1428",
+    "Tháng 10 – 1427"
+   ],
+   "dung": 1,
+   "trang": 82
+  },
+  {
+   "hoi": "Văn kiện nào được coi là bản Tuyên ngôn Độc lập của Đại Việt đầu thế kỉ XV?",
+   "dap_an": [
+    "Nam quốc sơn hà",
+    "Hịch tướng sĩ",
+    "Bình Ngô đại cáo",
+    "Chiếu dời đô"
+   ],
+   "dung": 2,
+   "trang": 82
+  }
  ],
- "kiem_tra": {"viet": "Claude", "doi_chieu": "OCR SGK LSĐL 7 tr. 81–82 (mục Chiến thắng Chi Lăng – Xương Giang, Hình 4, mục Hội thề Đông Quan, Kết nối với văn học). Chi tiết 'chặn đánh ở các cửa ải, nhử địch' lấy theo chú giải Hình 4. Lời Lê Lợi, Mộc Thạnh là lời dựng.", "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"}
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 81–82 (mục Chiến thắng Chi Lăng – Xương Giang, Hình 4, mục Hội thề Đông Quan, Kết nối với văn học). Chi tiết 'chặn đánh ở các cửa ải, nhử địch' lấy theo chú giải Hình 4. Lời Lê Lợi, Mộc Thạnh là lời dựng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
 }

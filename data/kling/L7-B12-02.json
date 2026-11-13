@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B12-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan to the right, capturing the vast green rice fields. Hân Hân stands on the left, turning her head toward Nhật Minh with a bright smile, her lips moving naturally as she speaks. Nhật Minh gestures toward the river with his hand, nodding in agreement. In the background, the river water flows steadily, while the lush grass and distant trees sway softly in a gentle morning breeze under the clear sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Ly Thuong Kiet stands firmly on the prow, his gaze scanning the horizon as his cape ripples gently in the wind. Beside him, student Nhat Minh gestures toward the distance with a respectful expression, his lips moving as he speaks. In the background, the river water flows steadily against the boat’s hull, and thin wisps of smoke drift slowly from the distant, conquered citadel. The camera performs a slow, cinematic push-in toward the General’s resolute face."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the mountain ridge. Hân Hân stands in the foreground, turning her head slightly to look at the soldiers while her lips move naturally as she speaks. Behind her, ethnic chieftains and local warriors remain alert, their hands gripping wooden crossbows with subtle, steady tension. Wisps of thick mountain mist drift slowly across the hillside, while distant leaves on the trees sway gently in the cool breeze, maintaining the tense, historical atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, cinematic push-in toward the fleet. In the foreground, Nhật Minh stands on the shore, gesturing toward the horizon with a natural, engaging expression while his lips move as if narrating. Behind him, the Lý dynasty warships gently bob on the rhythmic, rolling waves of the East Sea. Sails flutter softly in the ocean breeze, and wisps of sea mist drift across the rocky islands in the distance, creating a serene, historical atmosphere."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand at the base of the earthen dike, turning their heads slightly to look up at the Ly dynasty soldiers patrolling the bamboo-lined crest. Hân Hân gestures toward the river, her lips moving naturally as she speaks, while Nhật Minh nods in agreement. In the background, the river water flows steadily, and the bamboo leaves sway gently in the breeze. The camera performs a slow, smooth push-in toward the two students, maintaining their focused expressions."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, dramatic push-in toward the center of the naval battle. In the foreground, Nhật Minh stands in his orange polo shirt, turning his head slightly to gesture toward the sea while his lips move naturally as he speaks. In the background, the large Song dynasty ships sway heavily on the choppy waves, while agile Lý dynasty boats weave between jagged limestone islands. White sea spray splashes against hulls, and banners flutter vigorously in the coastal wind."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Quách Quỳ stands firmly at the military camp, his brow furrowed with deep anxiety as he gazes intensely across the river toward the imposing bamboo fences and earthen walls. He slowly turns his head to scan the horizon, his lips moving as he speaks with a stern expression. In the background, the river water flows steadily, and the bamboo leaves sway gently in the wind. The camera performs a slow, cinematic push-in toward his troubled face."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân turns her head slightly to look at Nhật Minh, her lips moving naturally as if speaking thoughtfully. Nhật Minh gazes toward the river, nodding slowly while his expression remains pensive. In the background, the river water flows steadily, tall grasses along the dike sway rhythmically in the breeze, and soft, golden afternoon light shifts across their faces, enhancing the contemplative atmosphere of the scene."
+  }
+ ]
+}

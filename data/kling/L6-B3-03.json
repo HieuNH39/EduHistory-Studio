@@ -1,0 +1,30 @@
+{
+ "ma": "L6-B3-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand side-by-side in the living room, looking toward the camera. Han Han gestures naturally with her hands while speaking, her lips moving in sync with her dialogue, then Nhat Minh nods and turns his head slightly to smile at her as he speaks. In the background, soft light shifts gently across the room. The camera performs a slow, steady push-in toward the two students, keeping their expressions warm and engaging throughout the scene."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand by the Nile, gently turning their heads to gaze at the horizon as the sky transitions from starlit to soft dawn light. Hân Hân gestures toward the distant pyramids while Nhật Minh carefully writes on a papyrus scroll, his hand moving rhythmically. The river water ripples softly, and a light breeze causes their orange shirts to flutter. The camera performs a slow, cinematic push-in, capturing their focused expressions and the serene morning atmosphere."
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently points her finger at the wall calendar, tracing the dates while turning her head to look at Nhật Minh with a friendly smile. Nhật Minh nods in agreement, his lips moving naturally as if explaining the significance of the dates. In the background, soft sunlight filters through a window, causing dust motes to dance slowly in the air. The camera performs a slow, steady push-in toward the calendar to highlight the two students' interaction."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand side-by-side, smiling warmly at the camera. Nhật Minh gestures naturally with his right hand as if inviting audience participation, his lips moving in sync with speech. Hân Hân nods slightly in agreement, maintaining a friendly expression. Behind them, the wall calendar pages flutter gently as if caught in a soft breeze. The camera performs a slow, steady push-in, focusing on the students to create an engaging, welcoming atmosphere for the history lesson."
+  }
+ ]
+}

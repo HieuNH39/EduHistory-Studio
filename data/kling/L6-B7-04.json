@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B7-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân holds up a paper, smiling as she gestures toward it, her lips moving naturally as she speaks. Nhật Minh turns his head toward her with a curious expression, leaning in slightly to examine the document. On the desk, the pages of the open history book flutter gently. The camera performs a slow, smooth push-in, focusing on the interaction between the two students while maintaining the 2D animated style throughout the ten-second sequence."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The farmer steadily guides the oxen, which pull the wooden plow through the soil with rhythmic, heavy steps. Water flows gently along the irrigation canal, rippling as it moves. In the distance, the wooden-wheeled cart rolls smoothly along the dirt path. Nhật Minh stands in the foreground, gesturing naturally with his hands while speaking with fluid lip movements. The camera performs a slow, steady push-in toward the farmer, capturing the peaceful activity of the ancient landscape."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Egyptian scribe on the left rhythmically moves his reed pen across the papyrus, occasionally dipping it into ink, while his head tilts slightly as he focuses. On the right, the Mesopotamian scribe presses his stylus into the clay tablet with precise, steady motions. Both characters speak with natural lip movements and subtle facial expressions. In the background, soft dust motes drift through shafts of light. The camera performs a slow, gentle push-in to focus on their hands."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The ancient Egyptian observers stand by the Nile, gently turning their heads upward to gaze at the twinkling stars. One observer gestures toward the sky while another carefully writes on a papyrus scroll. Nearby, Hân Hân, wearing an orange polo shirt, turns slightly to the camera, speaking with natural, rhythmic lip movements. The Nile water flows softly in the background, and the night breeze causes their robes to sway. The camera performs a slow, steady push-in toward the group."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand on the sand dunes, gently turning their heads toward each other to exchange smiles. Hân Hân gestures toward the pyramids with her hand as she speaks with natural lip movements, followed by Nhật Minh nodding in agreement. In the background, soft golden sunlight shifts across the desert, while fine sand grains drift slowly in the breeze. The camera performs a slow, cinematic push-in toward the students, keeping the majestic pyramids framed in the distance."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan across the lush, multi-tiered brick terraces of the Hanging Gardens. Cascading vines and vibrant flowers sway rhythmically in a soft breeze as crystal-clear water trickles down from the upper levels into stone basins. In the foreground, Nhật Minh stands still, turning his head slightly toward the camera with a friendly expression. He speaks with natural, synchronized lip movements as the greenery continues to rustle, creating a serene, immersive historical atmosphere."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, smooth push-in toward the central sarcophagus. Hân Hân stands in the foreground, turning her head slightly toward the camera with a curious expression, her lips moving naturally as she speaks. Beside her, two scientists in white lab coats gesture toward the intricate patterns on the sarcophagus. In the background, soft, ambient light shifts across the museum walls, while dust motes drift slowly through the air, maintaining the clean, 2D animated aesthetic."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han sit at their wooden desks, turning their heads to look directly at the viewer with friendly smiles. Han Han gracefully raises her hand in a welcoming gesture, her lips moving naturally as she speaks to the audience. In the background, soft sunlight filters through a window, causing dust motes to drift slowly. The camera performs a gentle, slow push-in toward the students, maintaining the warm, 2D animated aesthetic throughout the scene."
+  }
+ ]
+}

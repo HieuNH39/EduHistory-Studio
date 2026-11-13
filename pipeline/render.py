@@ -233,14 +233,31 @@ def still_frames(img, W, H, nframes, motion="vao", strength=0.12):
         M = np.array([[z, 0, W / 2 - w * z / 2 + dx], [0, z, H / 2 - h * z / 2 + dy]], dtype=np.float32)
         yield cv2.warpAffine(img, M, (W, H), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REFLECT)
 
-def video_frames(path, W, H, nframes):
-    tmp = os.path.join(CACHE, "vclip_" + hashlib.sha1(f"{path}{W}{H}".encode()).hexdigest()[:10] + ".rgb")
-    run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-vf",
-         f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
-    data = np.fromfile(tmp, dtype=np.uint8); os.remove(tmp)
-    frames = data.reshape(-1, H, W, 3)
-    for i in range(nframes):
-        yield frames[min(i, len(frames) - 1)]
+def video_frames(path, W, H, nframes, max_cham=1.3):
+    """Clip chuyển động (Kling…): đọc qua memmap (không giữ cả clip trong RAM). Clip ngắn hơn cảnh thì
+    chiếu chậm lại tối đa max_cham lần (nội suy pha trộn khung), phần còn thiếu chạy lùi nhẹ (ping-pong) – không đứng hình."""
+    tmp = os.path.join(CACHE, "vclip_" + hashlib.sha1(f"{path}{W}{H}{time.time()}".encode()).hexdigest()[:10] + ".rgb")
+    run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-an", "-vf",
+         f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
+    try:
+        frames = np.memmap(tmp, dtype=np.uint8, mode="r").reshape(-1, H, W, 3)
+        L = len(frames)
+        f = 1.0 if L >= nframes else min(nframes / L, max_cham)
+        pos = []
+        n1 = min(nframes, int((L - 1) * f) + 1)
+        pos += [i / f for i in range(n1)]
+        t, step = (L - 1), -1 / f
+        while len(pos) < nframes:          # ping-pong phần còn thiếu
+            t += step
+            if t <= 0 or t >= L - 1: step = -step; t = min(max(t, 0), L - 1)
+            pos.append(t)
+        for x in pos:
+            j = int(x); a = x - j
+            if a < 1e-3 or j >= L - 1: yield np.asarray(frames[min(j, L - 1)])
+            else: yield (frames[j].astype(np.float32) * (1 - a) + frames[j + 1].astype(np.float32) * a).astype(np.uint8)
+        del frames
+    finally:
+        if os.path.exists(tmp): os.remove(tmp)
 
 # ---------------------------------------------------------------- hình hiệu logo (mở đầu / kết)
 def ident_frames(W, H, seconds=2.6, title=None, note=None):
@@ -324,6 +341,12 @@ def scene_source(spec, sc, W, H, n):
         items = sc["moc"] if lop == "truc_thoi_gian" else sc["y"]
         b = sc.get("bounds") or []
         if sc.get("hien_luc"): times = sc["hien_luc"]
+        elif sc.get("hien_luc_theo_cau") and b and len(b) >= len(sc.get("loi", [])):
+            # mỗi mục gắn với một câu thoại; nhiều mục cùng một câu thì chia đều trong câu đó
+            from collections import Counter
+            idx = sc["hien_luc_theo_cau"]; cnt = Counter(idx); seen = Counter(); times = []
+            for j in idx:
+                a0, a1 = b[j]; times.append(a0 + 0.1 + (a1 - a0) * seen[j] / cnt[j]); seen[j] += 1
         elif len(b) == len(items): times = [x[0] + 0.1 for x in b]
         elif b:
             a0, a1 = b[0][0], b[-1][1]; m = len(items)
@@ -335,7 +358,17 @@ def scene_source(spec, sc, W, H, n):
     vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
     img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)
     if vid: return video_frames(rp(vid), W, H, n)
-    if img: return still_frames(load_rgb(rp(img)), W, H, n, sc.get("chuyen_dong") if sc.get("chuyen_dong") in ("vao", "ra", "trai", "phai", "len", "xuong") else "vao")
+    if img:
+        if sc.get("lop") in ("dan_chuyen", "tai_hien", "du_hanh") and sc.get("chuyen_dong") != "tinh":
+            try:   # chuyển động bằng code (độ sâu, khẩu hình, nháy mắt, môi trường) khi chưa có clip Kling
+                import dong2, itertools
+                g = dong2.frames(load_rgb(rp(img)), W, H, n, FPS, sc=sc, seed=int(sc.get("so", 0)))
+                return itertools.chain([next(g)], g)   # chạy bước dò ngay để bắt lỗi ở đây
+            except Exception as ex:
+                print("dong2 lỗi, dùng song_dong:", ex, file=sys.stderr)
+                import song_dong
+                return song_dong.frames(load_rgb(rp(img)), W, H, n, FPS)
+        return still_frames(load_rgb(rp(img)), W, H, n, sc.get("chuyen_dong") if sc.get("chuyen_dong") in ("vao", "ra", "trai", "phai", "len", "xuong") else "vao")
     import effects
     return effects.cho(W, H, n, sc)
 

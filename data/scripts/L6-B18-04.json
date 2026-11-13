@@ -2,97 +2,492 @@
  "ma": "L6-B18-04",
  "ten_tap": "Chiến thắng Bạch Đằng: Bản hùng ca nghìn năm",
  "ten_tap_en": "The Bạch Đằng Victory: A Thousand-Year Epic",
- "khung": "4-5p", "huong": "ngang",
- "nguon": {"sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)", "bai": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X", "trang": [83, 84, 85]},
- "nhan_vat_lich_su": ["ngo-quyen", "hoang-thao", "quan-nam-han", "quan-ngo-quyen"],
- "nhac": {"tam_trang": "hùng tráng, trống trận; lắng ở đoạn ý nghĩa", "tep": "assets/music/atlas-vietnam.mp3"},
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X",
+  "trang": [
+   83,
+   84,
+   85
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ngo-quyen",
+  "hoang-thao",
+  "quan-nam-han",
+  "quan-ngo-quyen"
+ ],
+ "nhac": {
+  "tam_trang": "hùng tráng, trống trận; lắng ở đoạn ý nghĩa",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
  "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 18, tr. 83–85.",
  "canh": [
-  {"so": 1, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng trước tượng đài Ngô Quyền uy nghi ở thành phố Hải Phòng (vẽ theo bảng thiết kế), trời trong xanh, cờ bay",
-   "loi": [["Hân Hân", "Đây là tượng đài Ngô Quyền ở thành phố Hải Phòng.", "This is the Ngô Quyền monument in Hải Phòng."],
-           ["Nhật Minh", "Năm 938, trên dòng sông Bạch Đằng, ông đã lập nên một chiến công vang dội đến nghìn thu. Tụi mình cùng du hành nhé!", "In 938, on the Bạch Đằng River, he won a victory that has echoed for a thousand years. Let's travel back!"]],
-   "nguon_trang": [83]},
-  {"so": 2, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "938", "thoi_luong": 2.0},
-  {"so": 3, "lop": "tai_hien", "nhan_vat": ["hoang-thao", "quan-nam-han"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là tượng đài Ngô Quyền ở thành phố Hải Phòng.",
+     "This is the Ngô Quyền monument in Hải Phòng."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 938, trên dòng sông Bạch Đằng, ông đã lập nên một chiến công vang dội đến nghìn thu. Tụi mình cùng du hành nhé!",
+     "In 938, on the Bạch Đằng River, he won a victory that has echoed for a thousand years. Let's travel back!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "938",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "hoang-thao",
+    "quan-nam-han"
+   ],
    "hinh": "Đoàn chiến thuyền lớn của quân Nam Hán vượt biển; Hoằng Tháo đứng trên mũi thuyền chỉ huy, cờ xí không chữ, sóng lớn",
-   "loi": [["Nhật Minh", "Năm 938, quân Nam Hán do Hoằng Tháo làm chủ tướng, từ Quảng Đông theo đường biển ồ ạt tiến sang xâm lược nước ta.", "In 938, the Southern Han army under Liu Hongcao set out from Guangdong by sea to invade our land."]],
-   "nguon_trang": [83]},
-  {"so": 4, "lop": "tai_hien", "nhan_vat": ["ngo-quyen", "quan-ngo-quyen"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 938, quân Nam Hán do Hoằng Tháo làm chủ tướng, từ Quảng Đông theo đường biển ồ ạt tiến sang xâm lược nước ta.",
+     "In 938, the Southern Han army under Liu Hongcao set out from Guangdong by sea to invade our land."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-ngo-quyen"
+   ],
    "hinh": "Ngô Quyền đứng trên gò cao ven cửa sông Bạch Đằng cùng các tướng, chỉ tay xuống dòng sông rộng; xa xa là các cồn bãi, đầm lầy",
-   "loi": [["Hân Hân", "Trước tình hình vận nước lâm nguy, Ngô Quyền gấp rút chuẩn bị kế hoạch đối phó, chọn vùng cửa sông Bạch Đằng để bố trí trận địa.", "With the nation in peril, Ngô Quyền quickly prepared a plan and chose the mouth of the Bạch Đằng River as the battlefield."],
-           ["Ngô Quyền", "Đem cọc lớn vạt nhọn, đầu bịt sắt, đóng ngầm trước cửa biển. Thuyền giặc theo nước triều lên vào trong hàng cọc, ta sẽ dễ bề chế ngự, không cho chiếc nào ra thoát!", "Drive great iron-tipped stakes into the river mouth. When their ships ride the rising tide in among the stakes, we can trap them all!"]],
-   "dung": true, "nguon_trang": [83]},
-  {"so": 5, "lop": "sa_ban", "sa_ban": "bach-dang-938", "pha": "trien_khai", "thoi_luong_toi_thieu": 9,
-   "loi": [["Nhật Minh", "Sông Bạch Đằng chảy giữa Quảng Ninh và Hải Phòng. Mực nước vùng cửa sông lúc triều cao nhất và thấp nhất chênh nhau tới 2 đến 3 mét.", "The Bạch Đằng flows between Quảng Ninh and Hải Phòng. At its mouth, high and low tide differ by as much as 2 to 3 metres."],
-           ["Hân Hân", "Xung quanh có nhiều cồn gò, bãi, đầm lầy, giúp bố trí quân thuỷ, bộ cùng chiến đấu.", "Mounds, flats and marshes all around let land and river forces fight side by side."]],
-   "nguon_trang": [83]},
-  {"so": 6, "lop": "cau_hoi", "thoi_luong_toi_thieu": 7,
-   "cau_hoi": {"hoi": "Mực nước cửa sông Bạch Đằng lúc triều cao nhất và thấp nhất chênh nhau khoảng bao nhiêu?", "lua_chon": ["2 – 3 mét", "20 – 30 xăng-ti-mét", "Khoảng 10 mét"], "dung": 0},
-   "loi": [["Hân Hân", "Dừng hình! Mực nước cửa sông lúc triều cao nhất và thấp nhất chênh nhau khoảng bao nhiêu?", "Pause! How big is the gap between high and low tide at the river mouth?"],
-           ["Nhật Minh", "Đáp án là A: tới 2 đến 3 mét. Đủ để giấu kín cả bãi cọc!", "The answer is A: 2 to 3 metres. Enough to hide a whole field of stakes!"]],
-   "nguon_trang": [83]},
-  {"so": 7, "lop": "sa_ban", "sa_ban": "bach-dang-938", "pha": "tien_vao", "thoi_luong_toi_thieu": 9,
-   "loi": [["Nhật Minh", "Đoàn thuyền Nam Hán tiến vào vùng biển nước ta.", "The Southern Han fleet sailed into our waters."],
-           ["Hân Hân", "Khi nước triều lên, Ngô Quyền sai người đem thuyền nhẹ ra khiêu chiến, giả thua chạy để dụ địch đuổi theo.", "As the tide rose, Ngô Quyền sent light boats out to provoke the enemy, then fake a retreat to lure them in."]],
-   "nguon_trang": [84]},
-  {"so": 8, "lop": "du_hanh", "nhan_vat": ["quan-ngo-quyen", "quan-nam-han"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước tình hình vận nước lâm nguy, Ngô Quyền gấp rút chuẩn bị kế hoạch đối phó, chọn vùng cửa sông Bạch Đằng để bố trí trận địa.",
+     "With the nation in peril, Ngô Quyền quickly prepared a plan and chose the mouth of the Bạch Đằng River as the battlefield."
+    ],
+    [
+     "Ngô Quyền",
+     "Đem cọc lớn vạt nhọn, đầu bịt sắt, đóng ngầm trước cửa biển. Thuyền giặc theo nước triều lên vào trong hàng cọc, ta sẽ dễ bề chế ngự, không cho chiếc nào ra thoát!",
+     "Drive great iron-tipped stakes into the river mouth. When their ships ride the rising tide in among the stakes, we can trap them all!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "trien_khai",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sông Bạch Đằng chảy giữa Quảng Ninh và Hải Phòng. Mực nước vùng cửa sông lúc triều cao nhất và thấp nhất chênh nhau tới 2 đến 3 mét.",
+     "The Bạch Đằng flows between Quảng Ninh and Hải Phòng. At its mouth, high and low tide differ by as much as 2 to 3 metres."
+    ],
+    [
+     "Hân Hân",
+     "Xung quanh có nhiều cồn gò, bãi, đầm lầy, giúp bố trí quân thuỷ, bộ cùng chiến đấu.",
+     "Mounds, flats and marshes all around let land and river forces fight side by side."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mực nước cửa sông Bạch Đằng lúc triều cao nhất và thấp nhất chênh nhau khoảng bao nhiêu?",
+    "lua_chon": [
+     "2 – 3 mét",
+     "20 – 30 xăng-ti-mét",
+     "Khoảng 10 mét"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mực nước cửa sông lúc triều cao nhất và thấp nhất chênh nhau khoảng bao nhiêu?",
+     "Pause! How big is the gap between high and low tide at the river mouth?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tới 2 đến 3 mét. Đủ để giấu kín cả bãi cọc!",
+     "The answer is A: 2 to 3 metres. Enough to hide a whole field of stakes!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "tien_vao",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đoàn thuyền Nam Hán tiến vào vùng biển nước ta.",
+     "The Southern Han fleet sailed into our waters."
+    ],
+    [
+     "Hân Hân",
+     "Khi nước triều lên, Ngô Quyền sai người đem thuyền nhẹ ra khiêu chiến, giả thua chạy để dụ địch đuổi theo.",
+     "As the tide rose, Ngô Quyền sent light boats out to provoke the enemy, then fake a retreat to lure them in."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-ngo-quyen",
+    "quan-nam-han"
+   ],
    "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau lau sậy ven sông lúc nước lên cao, nhìn những chiếc thuyền nhẹ chạy ngược dòng, phía sau là đoàn chiến thuyền lớn đuổi theo",
-   "loi": [["Nhật Minh", "Nhìn kìa, thuyền nhẹ của ta đang giả thua chạy vào sông!", "Look, our light boats are pretending to flee upriver!"],
-           ["Hân Hân", "Nước triều lên cao, bãi cọc chìm hẳn dưới mặt nước. Quân giặc không hề hay biết.", "The tide is high and the stakes are hidden underwater. The enemy has no idea."]],
-   "nguon_trang": [84]},
-  {"so": 9, "lop": "tai_hien", "nhan_vat": ["hoang-thao", "quan-nam-han"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn kìa, thuyền nhẹ của ta đang giả thua chạy vào sông!",
+     "Look, our light boats are pretending to flee upriver!"
+    ],
+    [
+     "Hân Hân",
+     "Nước triều lên cao, bãi cọc chìm hẳn dưới mặt nước. Quân giặc không hề hay biết.",
+     "The tide is high and the stakes are hidden underwater. The enemy has no idea."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "hoang-thao",
+    "quan-nam-han"
+   ],
    "hinh": "Hoằng Tháo đứng trên chiến thuyền lớn, vung kiếm ra lệnh đuổi theo, nét mặt chủ quan đắc ý; các thuyền lớn nối đuôi nhau vào cửa sông",
-   "loi": [["Hoằng Tháo", "Chúng thua chạy rồi! Đuổi theo, đừng để thoát!", "They're running! After them, don't let them escape!"]],
-   "dung": true, "nguon_trang": [84]},
-  {"so": 10, "lop": "sa_ban", "sa_ban": "bach-dang-938", "pha": "nhu", "thoi_luong_toi_thieu": 9,
-   "loi": [["Nhật Minh", "Hoằng Tháo quả nhiên tiến quân vào. Binh thuyền giặc lọt hết vào trong vùng cắm cọc.", "Sure enough, Hongcao pressed on, and his ships sailed right into the field of stakes."]],
-   "nguon_trang": [84]},
-  {"so": 11, "lop": "sa_ban", "sa_ban": "bach-dang-938", "pha": "trieu_rut", "thoi_luong_toi_thieu": 10,
-   "loi": [["Hân Hân", "Nước triều rút, cọc nhô lên. Ngô Quyền bèn tiến quân ra đánh, ai nấy đều liều chết chiến đấu.", "The tide ebbed and the stakes rose up. Ngô Quyền then attacked, and every soldier fought with all his might."]],
-   "nguon_trang": [84]},
-  {"so": 12, "lop": "tai_hien", "nhan_vat": ["ngo-quyen", "quan-ngo-quyen", "quan-nam-han"],
+   "loi": [
+    [
+     "Hoằng Tháo",
+     "Chúng thua chạy rồi! Đuổi theo, đừng để thoát!",
+     "They're running! After them, don't let them escape!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "nhu",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoằng Tháo quả nhiên tiến quân vào. Binh thuyền giặc lọt hết vào trong vùng cắm cọc.",
+     "Sure enough, Hongcao pressed on, and his ships sailed right into the field of stakes."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "trieu_rut",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Nước triều rút, cọc nhô lên. Ngô Quyền bèn tiến quân ra đánh, ai nấy đều liều chết chiến đấu.",
+     "The tide ebbed and the stakes rose up. Ngô Quyền then attacked, and every soldier fought with all his might."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ngo-quyen",
+    "quan-ngo-quyen",
+    "quan-nam-han"
+   ],
    "hinh": "Ngô Quyền đứng trên thuyền chiến dẫn quân xông ra; thuyền lớn quân Nam Hán va vào hàng cọc nhô lên khỏi mặt nước, nghiêng, lật (không cảnh máu me)",
-   "loi": [["Ngô Quyền", "Nước đã rút! Toàn quân, tiến lên!", "The tide is out! All forces, advance!"],
-           ["Nhật Minh", "Quân Hoằng Tháo không kịp sửa thuyền mà nước triều rút xuống rất gấp. Thuyền đều mắc vào cọc mà lật úp, rối loạn tan vỡ.", "Hongcao's men had no time to steer clear as the tide fell fast. Their ships caught on the stakes and capsized in chaos."]],
-   "dung": true, "nguon_trang": [84]},
-  {"so": 13, "lop": "sa_ban", "sa_ban": "bach-dang-938", "pha": "ket_qua", "thoi_luong_toi_thieu": 8,
-   "loi": [["Hân Hân", "Quân lính Nam Hán chết đuối quá nửa. Ngô Quyền thừa thắng đuổi đánh, bắt được Hoằng Tháo giết đi.", "More than half the Southern Han soldiers drowned. Pressing his advantage, Ngô Quyền captured and killed Hongcao."]],
-   "nguon_trang": [84]},
-  {"so": 14, "lop": "tai_hien", "nhan_vat": ["quan-nam-han"],
+   "loi": [
+    [
+     "Ngô Quyền",
+     "Nước đã rút! Toàn quân, tiến lên!",
+     "The tide is out! All forces, advance!"
+    ],
+    [
+     "Nhật Minh",
+     "Quân Hoằng Tháo không kịp sửa thuyền mà nước triều rút xuống rất gấp. Thuyền đều mắc vào cọc mà lật úp, rối loạn tan vỡ.",
+     "Hongcao's men had no time to steer clear as the tide fell fast. Their ships caught on the stakes and capsized in chaos."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "sa_ban",
+   "sa_ban": "bach-dang-938",
+   "pha": "ket_qua",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân lính Nam Hán chết đuối quá nửa. Ngô Quyền thừa thắng đuổi đánh, bắt được Hoằng Tháo giết đi.",
+     "More than half the Southern Han soldiers drowned. Pressing his advantage, Ngô Quyền captured and killed Hongcao."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-nam-han"
+   ],
    "hinh": "Những chiếc thuyền Nam Hán còn sót lại lặng lẽ rút ra biển, cờ rách, khói mờ trên mặt sông phía sau; trời hửng sáng",
-   "loi": [["Nhật Minh", "Vua Nam Hán là Lưu Cung chỉ còn biết thương khóc, thu nhặt quân lính còn sót rút về.", "The Southern Han king, Liu Gong, could only weep as he gathered his surviving soldiers and withdrew."]],
-   "nguon_trang": [84]},
-  {"so": 15, "lop": "truc_thoi_gian", "tieu_de": "TRẬN BẠCH ĐẰNG NĂM 938",
-   "moc": [["Năm 938", "Quân Nam Hán theo đường biển sang xâm lược"], ["Nước triều lên", "Thuyền nhẹ khiêu chiến, giả thua, dụ địch vào bãi cọc"], ["Nước triều rút", "Cọc nhô lên, quân ta tiến ra đánh"], ["Kết quả", "Thuyền giặc mắc cọc, lật úp; Hoằng Tháo bị giết"]],
-   "loi": [["Hân Hân", "Cùng thuật lại nhanh nhé! Năm 938, quân Nam Hán theo đường biển sang xâm lược.", "A quick recap! In 938 the Southern Han invaded by sea."],
-           ["Nhật Minh", "Lúc nước triều lên, thuyền nhẹ của ta khiêu chiến, giả thua để dụ địch vào bãi cọc.", "At high tide our light boats provoked them and faked a retreat to lure them onto the stakes."],
-           ["Hân Hân", "Nước triều rút, cọc nhô lên, quân ta tiến ra đánh.", "The tide went out, the stakes rose, and our army attacked."],
-           ["Nhật Minh", "Thuyền giặc mắc cọc lật úp, Hoằng Tháo bị giết.", "Enemy ships capsized on the stakes, and Hongcao was killed."]],
-   "nguon_trang": [84]},
-  {"so": 16, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "Hôm nay", "thoi_luong": 1.6},
-  {"so": 17, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vua Nam Hán là Lưu Cung chỉ còn biết thương khóc, thu nhặt quân lính còn sót rút về.",
+     "The Southern Han king, Liu Gong, could only weep as he gathered his surviving soldiers and withdrew."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRẬN BẠCH ĐẰNG NĂM 938",
+   "moc": [
+    [
+     "Năm 938",
+     "Quân Nam Hán theo đường biển sang xâm lược"
+    ],
+    [
+     "Nước triều lên",
+     "Thuyền nhẹ khiêu chiến, giả thua, dụ địch vào bãi cọc"
+    ],
+    [
+     "Nước triều rút",
+     "Cọc nhô lên, quân ta tiến ra đánh"
+    ],
+    [
+     "Kết quả",
+     "Thuyền giặc mắc cọc, lật úp; Hoằng Tháo bị giết"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng thuật lại nhanh nhé! Năm 938, quân Nam Hán theo đường biển sang xâm lược.",
+     "A quick recap! In 938 the Southern Han invaded by sea."
+    ],
+    [
+     "Nhật Minh",
+     "Lúc nước triều lên, thuyền nhẹ của ta khiêu chiến, giả thua để dụ địch vào bãi cọc.",
+     "At high tide our light boats provoked them and faked a retreat to lure them onto the stakes."
+    ],
+    [
+     "Hân Hân",
+     "Nước triều rút, cọc nhô lên, quân ta tiến ra đánh.",
+     "The tide went out, the stakes rose, and our army attacked."
+    ],
+    [
+     "Nhật Minh",
+     "Thuyền giặc mắc cọc lật úp, Hoằng Tháo bị giết.",
+     "Enemy ships capsized on the stakes, and Hongcao was killed."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân trở lại trước tượng đài Ngô Quyền lúc hoàng hôn, nét mặt tự hào",
-   "loi": [["Hân Hân", "Chiến thắng Bạch Đằng năm 938 đã chấm dứt vĩnh viễn thời kì Bắc thuộc và mở ra kỉ nguyên độc lập tự chủ lâu dài cho dân tộc.", "The 938 victory at Bạch Đằng ended the era of Northern domination for good and opened a long age of independence."],
-           ["Nhật Minh", "Sử cũ viết rằng: trận Bạch Đằng này là vũ công cao cả, vang dội đến nghìn thu.", "Old chronicles say this battle was a supreme feat of arms, echoing for a thousand years."]],
-   "nguon_trang": [85]},
-  {"so": 18, "lop": "ghi_nho",
-   "y": ["Năm 938, quân Nam Hán do Hoằng Tháo chỉ huy theo đường biển sang xâm lược", "Ngô Quyền đóng cọc ngầm ở cửa sông Bạch Đằng, dụ địch vào lúc triều lên", "Triều rút, thuyền giặc mắc cọc; Hoằng Tháo bị giết", "Ý nghĩa: chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ"],
-   "loi": [["Nhật Minh", "Ghi nhớ nhé: năm 938, quân Nam Hán do Hoằng Tháo chỉ huy theo đường biển sang xâm lược.", "Remember: in 938 the Southern Han under Hongcao invaded by sea."],
-           ["Hân Hân", "Ngô Quyền cho đóng cọc ngầm ở cửa sông Bạch Đằng, dụ địch vào lúc nước triều lên.", "Ngô Quyền planted hidden stakes at the Bạch Đằng mouth and lured the enemy in at high tide."],
-           ["Nhật Minh", "Triều rút, thuyền giặc mắc cọc, Hoằng Tháo bị giết.", "When the tide ebbed, enemy ships were caught on the stakes, and Hongcao was killed."],
-           ["Hân Hân", "Chiến thắng chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ.", "The victory ended Northern domination forever and opened an age of independence."]],
-   "nguon_trang": [83, 84, 85]},
-  {"so": 19, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến thắng Bạch Đằng năm 938 đã chấm dứt vĩnh viễn thời kì Bắc thuộc và mở ra kỉ nguyên độc lập tự chủ lâu dài cho dân tộc.",
+     "The 938 victory at Bạch Đằng ended the era of Northern domination for good and opened a long age of independence."
+    ],
+    [
+     "Nhật Minh",
+     "Sử cũ viết rằng: trận Bạch Đằng này là vũ công cao cả, vang dội đến nghìn thu.",
+     "Old chronicles say this battle was a supreme feat of arms, echoing for a thousand years."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Năm 938, quân Nam Hán do Hoằng Tháo chỉ huy theo đường biển sang xâm lược",
+    "Ngô Quyền đóng cọc ngầm ở cửa sông Bạch Đằng, dụ địch vào lúc triều lên",
+    "Triều rút, thuyền giặc mắc cọc; Hoằng Tháo bị giết",
+    "Ý nghĩa: chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 938, quân Nam Hán do Hoằng Tháo chỉ huy theo đường biển sang xâm lược.",
+     "Remember: in 938 the Southern Han under Hongcao invaded by sea."
+    ],
+    [
+     "Hân Hân",
+     "Ngô Quyền cho đóng cọc ngầm ở cửa sông Bạch Đằng, dụ địch vào lúc nước triều lên.",
+     "Ngô Quyền planted hidden stakes at the Bạch Đằng mouth and lured the enemy in at high tide."
+    ],
+    [
+     "Nhật Minh",
+     "Triều rút, thuyền giặc mắc cọc, Hoằng Tháo bị giết.",
+     "When the tide ebbed, enemy ships were caught on the stakes, and Hongcao was killed."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ.",
+     "The victory ended Northern domination forever and opened an age of independence."
+    ]
+   ],
+   "nguon_trang": [
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân nhìn về phía người xem, phía sau là tượng đài Ngô Quyền; Hân Hân giơ tay mời bình luận",
-   "loi": [["Hân Hân", "Thử thách cho cậu: theo cậu, nét độc đáo nhất trong cách đánh giặc của Ngô Quyền là gì? Bình luận ngay nhé!", "Your challenge: what was the most original thing about how Ngô Quyền fought? Tell us in the comments!"]],
-   "nguon_trang": [85]}
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, nét độc đáo nhất trong cách đánh giặc của Ngô Quyền là gì? Bình luận ngay nhé!",
+     "Your challenge: what was the most original thing about how Ngô Quyền fought? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  }
  ],
  "cau_hoi": [
-  {"hoi": "Năm 938, ai làm chủ tướng của quân Nam Hán sang xâm lược nước ta?", "dap_an": ["Lưu Cung", "Hoằng Tháo", "Thoát Hoan", "Liễu Thăng"], "dung": 1, "trang": 83},
-  {"hoi": "Quân Nam Hán tiến sang xâm lược nước ta theo đường nào?", "dap_an": ["Đường bộ qua biên giới phía bắc", "Từ Quảng Đông theo đường biển", "Theo sông Hồng từ Vân Nam", "Qua dãy Trường Sơn"], "dung": 1, "trang": 83},
-  {"hoi": "Ngô Quyền dụ quân giặc vào trận địa cọc vào lúc nào?", "dap_an": ["Khi nước triều lên", "Khi nước triều rút", "Lúc nửa đêm", "Khi có bão"], "dung": 0, "trang": 84},
-  {"hoi": "Ý nghĩa của chiến thắng Bạch Đằng năm 938 là gì?", "dap_an": ["Mở đầu thời kì Bắc thuộc", "Chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ lâu dài", "Đánh bại quân Mông Cổ lần thứ nhất", "Thống nhất đất nước sau thời kì chia cắt"], "dung": 1, "trang": 85}
+  {
+   "hoi": "Năm 938, ai làm chủ tướng của quân Nam Hán sang xâm lược nước ta?",
+   "dap_an": [
+    "Lưu Cung",
+    "Hoằng Tháo",
+    "Thoát Hoan",
+    "Liễu Thăng"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Quân Nam Hán tiến sang xâm lược nước ta theo đường nào?",
+   "dap_an": [
+    "Đường bộ qua biên giới phía bắc",
+    "Từ Quảng Đông theo đường biển",
+    "Theo sông Hồng từ Vân Nam",
+    "Qua dãy Trường Sơn"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Ngô Quyền dụ quân giặc vào trận địa cọc vào lúc nào?",
+   "dap_an": [
+    "Khi nước triều lên",
+    "Khi nước triều rút",
+    "Lúc nửa đêm",
+    "Khi có bão"
+   ],
+   "dung": 0,
+   "trang": 84
+  },
+  {
+   "hoi": "Ý nghĩa của chiến thắng Bạch Đằng năm 938 là gì?",
+   "dap_an": [
+    "Mở đầu thời kì Bắc thuộc",
+    "Chấm dứt vĩnh viễn thời kì Bắc thuộc, mở ra kỉ nguyên độc lập tự chủ lâu dài",
+    "Đánh bại quân Mông Cổ lần thứ nhất",
+    "Thống nhất đất nước sau thời kì chia cắt"
+   ],
+   "dung": 1,
+   "trang": 85
+  }
  ],
- "kiem_tra": {"viet": "Claude", "doi_chieu": "OCR SGK LSĐL 6 tr. 83–85 (tư liệu 1, 2, 3; Hình 5, 6, 7). Lời Ngô Quyền ở cảnh 4 diễn đạt lại tư liệu 1; sa bàn vẽ lại giản lược theo Hình 7.", "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"}
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 83–85 (tư liệu 1, 2, 3; Hình 5, 6, 7). Lời Ngô Quyền ở cảnh 4 diễn đạt lại tư liệu 1; sa bàn vẽ lại giản lược theo Hình 7.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
 }

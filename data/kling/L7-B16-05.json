@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B16-05",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy hillside, gently turning their heads to look at each other while speaking with natural lip movements and subtle hand gestures. In the background, wispy white clouds drift slowly across the blue sky, and tall grass sways rhythmically in the breeze. A slow, cinematic push-in camera move gradually brings the students into closer focus, emphasizing the vast, serene landscape of the Chi Lăng valley stretching out behind them."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Ming army marches steadily through the mountain pass, with infantry walking in rhythmic formation and cavalry horses trotting forward. Liễu Thăng sits tall on his horse at the front, his head turning slightly with a proud, arrogant expression. Colorful, blank banners wave gently in the mountain breeze, and dust rises softly from the path. The camera performs a slow, cinematic push-in toward Liễu Thăng, capturing the vast scale of the advancing troops against the rugged terrain."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Lê Lợi stands at the center, gesturing deliberately toward the silk map with his finger while his lips move as if delivering a strategic command. The Lam Son generals around him nod slowly in agreement, their expressions focused and attentive. Outside the tent, soft sunlight filters through, and a gentle breeze causes the fabric walls to sway slightly. The camera performs a slow, steady push-in toward the map, highlighting the detailed terrain of Chi Lăng pass."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously over the rock, their heads turning slightly as they whisper to each other with natural lip movements. Below, the dense grass and bushes sway rhythmically in the wind, concealing the motionless Lam Sơn soldiers. In the valley, the Ming army marches forward in a steady, rhythmic cadence. The camera performs a slow, subtle push-in toward the students, capturing their intense expressions while the surrounding foliage gently rustles in the breeze."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The messenger stands firm, handing a scroll and seal to Mộc Thạnh, who takes them with trembling hands, his face contorting into an expression of pure terror. Beside them, Hân Hân and Nhật Minh watch intently, nodding slightly as they speak with natural lip movements. In the background, banners flutter in the mountain breeze and thin wisps of smoke drift from a nearby fire. The camera performs a slow, steady push-in toward Mộc Thạnh’s shocked face."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, dramatic push-in toward Vương Thông standing atop the stone ramparts. He shifts his weight uneasily, his eyes scanning the horizon with a furrowed, anxious brow. Beside him, Hân Hân stands in her orange polo shirt, gesturing toward the battlefield with a serious expression as her lips move in natural synchronization with her narration. In the background, banners flutter in the wind, and a light haze of smoke drifts slowly across the fortified city walls."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the center of the riverbank. Lê Lợi and Vương Thông stand tall, exchanging a respectful, solemn bow. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the river as they speak with synchronized lip movements. In the background, the Red River flows steadily, while plain, unadorned flags flutter gently in a soft breeze. The atmosphere remains peaceful and dignified, with sunlight shimmering across the water’s surface."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Nguyễn Trãi gracefully moves his hand to write on the parchment with a calligraphy brush, while the flickering candlelight casts soft, shifting shadows across his face. Lê Lợi stands beside him, slowly turning his head to look at the scroll with a thoughtful expression. Meanwhile, Hân Hân and Nhật Minh stand in the foreground, gesturing naturally while their lips move in sync with their narration. The camera performs a slow, gentle push-in toward the writing desk, capturing the serene, historical atmosphere."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand amidst the scenic Chi Lang pass at sunset. Nhat Minh turns his head slightly toward the camera, his lips moving naturally as he speaks, then he raises his right hand in a welcoming gesture toward the viewer. Han Han stands beside him, smiling gently while her hair sways softly in the breeze. The background grass ripples in the wind. The camera performs a slow, steady push-in toward the two students."
+  }
+ ]
+}

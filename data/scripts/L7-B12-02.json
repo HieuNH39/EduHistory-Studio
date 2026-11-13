@@ -2,86 +2,434 @@
  "ma": "L7-B12-02",
  "ten_tap": "Phòng tuyến thép trên sông Như Nguyệt",
  "ten_tap_en": "The Steel Defence Line on the Như Nguyệt River",
- "khung": "4-5p", "huong": "ngang",
- "nguon": {"sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)", "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)", "trang": [59, 60]},
- "nhan_vat_lich_su": ["ly-thuong-kiet", "quach-quy", "hoa-mau", "tu-truong-dan-toc-it-nguoi", "quan-dan-dai-viet", "quan-tong"],
- "nhac": {"tam_trang": "trang nghiêm, quyết tâm; căng thẳng ở đoạn giặc vượt sông", "tep": "assets/music/lost-memories.mp3"},
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+  "trang": [
+   59,
+   60
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-thuong-kiet",
+  "quach-quy",
+  "hoa-mau",
+  "tu-truong-dan-toc-it-nguoi",
+  "quan-dan-dai-viet",
+  "quan-tong"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, quyết tâm; căng thẳng ở đoạn giặc vượt sông",
+  "tep": "assets/music/lost-memories.mp3"
+ },
  "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 12, tr. 59–60.",
  "canh": [
-  {"so": 1, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng trên con đê ven sông Cầu, đồng lúa xanh hai bên, buổi sáng",
-   "loi": [["Hân Hân", "Đây là sông Cầu. Gần một nghìn năm trước, một đoạn của con sông này có tên là sông Như Nguyệt.", "This is the Cầu River. Almost a thousand years ago, one stretch of it was called the Như Nguyệt."],
-           ["Nhật Minh", "Nơi đây từng có một phòng tuyến kiên cố chặn đứng quân xâm lược Tống. Cùng du hành về năm 1077 nhé!", "A mighty defence line here once stopped the Song invaders. Let's travel back to 1077!"]],
-   "nguon_trang": [60]},
-  {"so": 2, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "1077", "thoi_luong": 2.0},
-  {"so": 3, "lop": "tai_hien", "nhan_vat": ["ly-thuong-kiet", "quan-dan-dai-viet"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là sông Cầu. Gần một nghìn năm trước, một đoạn của con sông này có tên là sông Như Nguyệt.",
+     "This is the Cầu River. Almost a thousand years ago, one stretch of it was called the Như Nguyệt."
+    ],
+    [
+     "Nhật Minh",
+     "Nơi đây từng có một phòng tuyến kiên cố chặn đứng quân xâm lược Tống. Cùng du hành về năm 1077 nhé!",
+     "A mighty defence line here once stopped the Song invaders. Let's travel back to 1077!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1077",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ly-thuong-kiet",
+    "quan-dan-dai-viet"
+   ],
    "hinh": "Lý Thường Kiệt trong giáp trụ thời Lý đứng trên mũi thuyền chiến, đoàn quân thuỷ bộ trở về; phía xa khói bốc lên từ một toà thành đã bị hạ",
-   "loi": [["Nhật Minh", "Năm 1075, Lý Thường Kiệt đã chủ động tiến công trước. Sau 42 ngày chiến đấu, quân Lý hạ thành Ung Châu, tiêu huỷ hết kho lương dự trữ của quân Tống.", "In 1075 Lý Thường Kiệt struck first. After 42 days of fighting, the Lý army took Yongzhou and destroyed the Song grain stores."],
-           ["Lý Thường Kiệt", "Giặc tất sẽ kéo sang. Mau rút quân về, dựng phòng tuyến chặn chúng!", "The enemy will surely come. Withdraw quickly and build a line to stop them!"]],
-   "dung": true, "nguon_trang": [59]},
-  {"so": 4, "lop": "tai_hien", "nhan_vat": ["tu-truong-dan-toc-it-nguoi"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1075, Lý Thường Kiệt đã chủ động tiến công trước. Sau 42 ngày chiến đấu, quân Lý hạ thành Ung Châu, tiêu huỷ hết kho lương dự trữ của quân Tống.",
+     "In 1075 Lý Thường Kiệt struck first. After 42 days of fighting, the Lý army took Yongzhou and destroyed the Song grain stores."
+    ],
+    [
+     "Lý Thường Kiệt",
+     "Giặc tất sẽ kéo sang. Mau rút quân về, dựng phòng tuyến chặn chúng!",
+     "The enemy will surely come. Withdraw quickly and build a line to stop them!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tu-truong-dan-toc-it-nguoi"
+   ],
    "hinh": "Vùng núi biên giới: các tù trưởng dân tộc ít người cùng quân sĩ địa phương mai phục trên sườn đồi, cung nỏ sẵn sàng, mây mù",
-   "loi": [["Hân Hân", "Lý Thường Kiệt tích cực chuẩn bị kháng chiến. Ông hạ lệnh cho các tù trưởng dân tộc ít người ở gần biên giới bố trí quân đánh chặn, kiềm chế và tiêu hao sinh lực địch khi chúng vừa tiến sang.", "Lý Thường Kiệt prepared carefully. He ordered chieftains of ethnic minority peoples near the border to set up forces to hold back and wear down the enemy as soon as they crossed."]],
-   "nguon_trang": [60]},
-  {"so": 5, "lop": "tai_hien", "nhan_vat": ["quan-dan-dai-viet"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Lý Thường Kiệt tích cực chuẩn bị kháng chiến. Ông hạ lệnh cho các tù trưởng dân tộc ít người ở gần biên giới bố trí quân đánh chặn, kiềm chế và tiêu hao sinh lực địch khi chúng vừa tiến sang.",
+     "Lý Thường Kiệt prepared carefully. He ordered chieftains of ethnic minority peoples near the border to set up forces to hold back and wear down the enemy as soon as they crossed."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-dan-dai-viet"
+   ],
    "hinh": "Vùng biển Đông Bắc nhiều đảo đá: đội thuyền chiến thời Lý dàn hàng canh giữ cửa biển",
-   "loi": [["Nhật Minh", "Ông bố trí lực lượng thuỷ binh ở vùng Đông Bắc để chặn thuỷ binh địch, phá vỡ kế hoạch phối hợp thuỷ – bộ của chúng.", "He stationed a navy in the Northeast to block the enemy fleet and break up their plan to combine land and sea attacks."]],
-   "nguon_trang": [60]},
-  {"so": 6, "lop": "sa_ban", "sa_ban": "nhu-nguyet-1077", "pha": "chuan_bi", "thoi_luong_toi_thieu": 9,
-   "loi": [["Hân Hân", "Quan trọng nhất là phòng tuyến kiên cố bên bờ nam sông Như Nguyệt, có bộ binh đóng giữ.", "Most important of all was a strong defence line on the south bank of the Như Nguyệt, held by infantry."],
-           ["Nhật Minh", "Sông Như Nguyệt là đoạn sông Cầu từ ngã ba sông Cà Lồ xuống đến Vạn Xuân. Dòng sông chặn ngang con đường bộ quân Tống có thể vượt qua để tiến vào Thăng Long.", "The Như Nguyệt is the stretch of the Cầu from the Cà Lồ fork down to Vạn Xuân. It cut right across the land route the Song would take to Thăng Long."]],
-   "nguon_trang": [60]},
-  {"so": 7, "lop": "du_hanh", "nhan_vat": ["quan-dan-dai-viet"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ông bố trí lực lượng thuỷ binh ở vùng Đông Bắc để chặn thuỷ binh địch, phá vỡ kế hoạch phối hợp thuỷ – bộ của chúng.",
+     "He stationed a navy in the Northeast to block the enemy fleet and break up their plan to combine land and sea attacks."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "nhu-nguyet-1077",
+   "pha": "chuan_bi",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Hân Hân",
+     "Quan trọng nhất là phòng tuyến kiên cố bên bờ nam sông Như Nguyệt, có bộ binh đóng giữ.",
+     "Most important of all was a strong defence line on the south bank of the Như Nguyệt, held by infantry."
+    ],
+    [
+     "Nhật Minh",
+     "Sông Như Nguyệt là đoạn sông Cầu từ ngã ba sông Cà Lồ xuống đến Vạn Xuân. Dòng sông chặn ngang con đường bộ quân Tống có thể vượt qua để tiến vào Thăng Long.",
+     "The Như Nguyệt is the stretch of the Cầu from the Cà Lồ fork down to Vạn Xuân. It cut right across the land route the Song would take to Thăng Long."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-dan-dai-viet"
+   ],
    "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng dưới chân một con đê đất rất cao như bức tường thành, trên mặt đê là nhiều lớp dậu tre dày; lính thời Lý canh gác; dòng sông phía sau",
-   "loi": [["Nhật Minh", "Oa, đê đắp cao như bức tường thành, bên trên còn đóng tre làm dậu dày mấy tầng!", "Wow, the dyke is as high as a city wall, with bamboo fences several layers thick on top!"],
-           ["Hân Hân", "Bức tường kiên cố này chạy dài hàng chục ki-lô-mét, từ chân dãy núi Tam Đảo trở xuống, che chắn cho cả hai vùng đồng bằng rộng lớn.", "This wall runs for dozens of kilometres from the foot of the Tam Đảo range, shielding two wide plains."]],
-   "nguon_trang": [60]},
-  {"so": 8, "lop": "cau_hoi", "thoi_luong_toi_thieu": 7,
-   "cau_hoi": {"hoi": "Phòng tuyến chống quân Tống được xây dựng ở bờ nào của sông Như Nguyệt?", "lua_chon": ["Bờ nam", "Bờ bắc", "Giữa lòng sông"], "dung": 0},
-   "loi": [["Hân Hân", "Dừng hình! Phòng tuyến được xây ở bờ nào của sông Như Nguyệt?", "Pause! Which bank of the Như Nguyệt was the line built on?"],
-           ["Nhật Minh", "Đáp án là A: bờ nam, để chặn giặc từ phía bắc tràn xuống!", "The answer is A: the south bank, to stop the enemy coming from the north!"]],
-   "nguon_trang": [60]},
-  {"so": 9, "lop": "sa_ban", "sa_ban": "nhu-nguyet-1077", "pha": "tong_tien", "thoi_luong_toi_thieu": 10,
-   "loi": [["Nhật Minh", "Năm 1077, quân Tống chia làm hai đạo tiến vào xâm lược Đại Việt.", "In 1077 the Song invaded Đại Việt in two columns."],
-           ["Hân Hân", "Quân bộ do Quách Quỳ chỉ huy vượt qua biên giới vùng Đông Bắc. Trên đường tiến vào Thăng Long, chúng đã bị chặn đứng trước phòng tuyến sông Như Nguyệt.", "The land army under Guo Kui crossed the northeastern border, but on the road to Thăng Long it was stopped dead at the Như Nguyệt line."]],
-   "nguon_trang": [60]},
-  {"so": 10, "lop": "tai_hien", "nhan_vat": ["hoa-mau", "quan-tong", "quan-dan-dai-viet"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Oa, đê đắp cao như bức tường thành, bên trên còn đóng tre làm dậu dày mấy tầng!",
+     "Wow, the dyke is as high as a city wall, with bamboo fences several layers thick on top!"
+    ],
+    [
+     "Hân Hân",
+     "Bức tường kiên cố này chạy dài hàng chục ki-lô-mét, từ chân dãy núi Tam Đảo trở xuống, che chắn cho cả hai vùng đồng bằng rộng lớn.",
+     "This wall runs for dozens of kilometres from the foot of the Tam Đảo range, shielding two wide plains."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phòng tuyến chống quân Tống được xây dựng ở bờ nào của sông Như Nguyệt?",
+    "lua_chon": [
+     "Bờ nam",
+     "Bờ bắc",
+     "Giữa lòng sông"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phòng tuyến được xây ở bờ nào của sông Như Nguyệt?",
+     "Pause! Which bank of the Như Nguyệt was the line built on?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: bờ nam, để chặn giặc từ phía bắc tràn xuống!",
+     "The answer is A: the south bank, to stop the enemy coming from the north!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "nhu-nguyet-1077",
+   "pha": "tong_tien",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1077, quân Tống chia làm hai đạo tiến vào xâm lược Đại Việt.",
+     "In 1077 the Song invaded Đại Việt in two columns."
+    ],
+    [
+     "Hân Hân",
+     "Quân bộ do Quách Quỳ chỉ huy vượt qua biên giới vùng Đông Bắc. Trên đường tiến vào Thăng Long, chúng đã bị chặn đứng trước phòng tuyến sông Như Nguyệt.",
+     "The land army under Guo Kui crossed the northeastern border, but on the road to Thăng Long it was stopped dead at the Như Nguyệt line."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "hoa-mau",
+    "quan-tong",
+    "quan-dan-dai-viet"
+   ],
    "hinh": "Vùng ven biển Đông Bắc: đoàn thuyền lớn của quân Tống (Hoà Mâu đứng trên thuyền chỉ huy) bị các thuyền nhỏ thời Lý liên tiếp áp sát, chặn đánh giữa các đảo đá",
-   "loi": [["Nhật Minh", "Quân thuỷ do Hoà Mâu chỉ huy tiến vào vùng ven biển Đông Bắc, nhưng bị chặn đánh liên tiếp, không thể tiến sâu vào nội địa để hỗ trợ cho quân bộ.", "The Song fleet under Hoà Mâu reached the northeastern coast, but was attacked again and again and could not push inland to support the land army."]],
-   "nguon_trang": [60]},
-  {"so": 11, "lop": "tai_hien", "nhan_vat": ["quach-quy", "quan-tong"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân thuỷ do Hoà Mâu chỉ huy tiến vào vùng ven biển Đông Bắc, nhưng bị chặn đánh liên tiếp, không thể tiến sâu vào nội địa để hỗ trợ cho quân bộ.",
+     "The Song fleet under Hoà Mâu reached the northeastern coast, but was attacked again and again and could not push inland to support the land army."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quach-quy",
+    "quan-tong"
+   ],
    "hinh": "Quách Quỳ đứng ở doanh trại trên bờ bắc, nhìn sang bên kia sông nơi bức tường đê và dậu tre sừng sững; nét mặt bực bội, lo lắng",
-   "loi": [["Quách Quỳ", "Dòng sông chặn trước, tường đê dậu tre chắn sau... Phải tìm mọi cách vượt sông!", "A river in front, a wall of earth and bamboo beyond it... We must find a way across!"]],
-   "dung": true, "nguon_trang": [60]},
-  {"so": 12, "lop": "sa_ban", "sa_ban": "nhu-nguyet-1077", "pha": "vuot_song", "thoi_luong_toi_thieu": 10,
-   "loi": [["Hân Hân", "Quách Quỳ nhiều lần cho quân tìm cách vượt sông Như Nguyệt, nhưng đều bị đẩy lùi về phía bờ bắc.", "Guo Kui sent his troops to cross the Như Nguyệt many times, but each time they were driven back to the north bank."]],
-   "nguon_trang": [60]},
-  {"so": 13, "lop": "truc_thoi_gian", "tieu_de": "TRỤC THỜI GIAN · CHUẨN BỊ VÀ GIỮ PHÒNG TUYẾN",
-   "moc": [["1075", "Tiến công trước, hạ thành Ung Châu"], ["Chuẩn bị", "Chặn giặc ở biên giới, thuỷ binh giữ vùng Đông Bắc"], ["Như Nguyệt", "Phòng tuyến kiên cố bờ nam, bộ binh đóng giữ"], ["1077", "Quân Tống bị chặn đứng, vượt sông đều bị đẩy lùi"]],
-   "loi": [["Hân Hân", "Tóm tắt nhé! Năm 1075, quân Lý tiến công trước, hạ thành Ung Châu.", "Recap! In 1075 the Lý army struck first and took Yongzhou."],
-           ["Nhật Minh", "Rồi chuẩn bị chặn giặc ở biên giới và bố trí thuỷ binh vùng Đông Bắc.", "Then they prepared to block the enemy at the border and placed a navy in the Northeast."],
-           ["Hân Hân", "Phòng tuyến kiên cố được dựng ở bờ nam sông Như Nguyệt.", "A strong line was built on the south bank of the Như Nguyệt."],
-           ["Nhật Minh", "Năm 1077, quân Tống bị chặn đứng, nhiều lần vượt sông đều bị đẩy lùi.", "In 1077 the Song were stopped, and every attempt to cross was beaten back."]],
-   "nguon_trang": [59, 60]},
-  {"so": 14, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "Hôm nay", "thoi_luong": 1.6},
-  {"so": 15, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Quách Quỳ",
+     "Dòng sông chặn trước, tường đê dậu tre chắn sau... Phải tìm mọi cách vượt sông!",
+     "A river in front, a wall of earth and bamboo beyond it... We must find a way across!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "nhu-nguyet-1077",
+   "pha": "vuot_song",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Quách Quỳ nhiều lần cho quân tìm cách vượt sông Như Nguyệt, nhưng đều bị đẩy lùi về phía bờ bắc.",
+     "Guo Kui sent his troops to cross the Như Nguyệt many times, but each time they were driven back to the north bank."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CHUẨN BỊ VÀ GIỮ PHÒNG TUYẾN",
+   "moc": [
+    [
+     "1075",
+     "Tiến công trước, hạ thành Ung Châu"
+    ],
+    [
+     "Chuẩn bị",
+     "Chặn giặc ở biên giới, thuỷ binh giữ vùng Đông Bắc"
+    ],
+    [
+     "Như Nguyệt",
+     "Phòng tuyến kiên cố bờ nam, bộ binh đóng giữ"
+    ],
+    [
+     "1077",
+     "Quân Tống bị chặn đứng, vượt sông đều bị đẩy lùi"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1075, quân Lý tiến công trước, hạ thành Ung Châu.",
+     "Recap! In 1075 the Lý army struck first and took Yongzhou."
+    ],
+    [
+     "Nhật Minh",
+     "Rồi chuẩn bị chặn giặc ở biên giới và bố trí thuỷ binh vùng Đông Bắc.",
+     "Then they prepared to block the enemy at the border and placed a navy in the Northeast."
+    ],
+    [
+     "Hân Hân",
+     "Phòng tuyến kiên cố được dựng ở bờ nam sông Như Nguyệt.",
+     "A strong line was built on the south bank of the Như Nguyệt."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1077, quân Tống bị chặn đứng, nhiều lần vượt sông đều bị đẩy lùi.",
+     "In 1077 the Song were stopped, and every attempt to cross was beaten back."
+    ]
+   ],
+   "nguon_trang": [
+    59,
+    60
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân trở lại con đê ven sông Cầu lúc chiều, gió thổi, nét mặt suy nghĩ",
-   "loi": [["Hân Hân", "Dòng sông chắn ngang đường tiến về Thăng Long, cộng với tường đê dậu tre, đã biến Như Nguyệt thành một lá chắn vững chắc.", "A river across the road to Thăng Long, plus a wall of earth and bamboo, turned the Như Nguyệt into a solid shield."],
-           ["Nhật Minh", "Quân Tống bị kẹt lại bên bờ bắc. Điều gì sẽ xảy ra tiếp theo? Hẹn gặp ở tập sau: Nam quốc sơn hà và đòn quyết định!", "The Song were stuck on the north bank. What happened next? See you in the next episode!"]],
-   "nguon_trang": [60]},
-  {"so": 16, "lop": "ghi_nho",
-   "y": ["Ba biện pháp: chặn giặc ở biên giới, thuỷ binh giữ vùng Đông Bắc, phòng tuyến bờ nam sông Như Nguyệt", "Phòng tuyến: đê cao như tường thành, trên đóng tre làm dậu dày mấy tầng", "Sông Như Nguyệt chặn ngang đường bộ tiến vào Thăng Long", "Năm 1077: quân Tống bị chặn đứng trước phòng tuyến"],
-   "loi": [["Nhật Minh", "Ghi nhớ nhé: ba biện pháp là chặn giặc ở biên giới, bố trí thuỷ binh vùng Đông Bắc và xây phòng tuyến bờ nam sông Như Nguyệt.", "Remember the three measures: blocking the border, a navy in the Northeast, and a defence line on the Như Nguyệt's south bank."],
-           ["Hân Hân", "Phòng tuyến là đê cao như tường thành, bên trên đóng tre làm dậu dày mấy tầng.", "The line was a dyke as high as a wall, topped with layers of bamboo fencing."],
-           ["Nhật Minh", "Dòng sông chặn ngang con đường bộ tiến vào Thăng Long.", "The river cut across the land road to Thăng Long."],
-           ["Hân Hân", "Và năm 1077, quân Tống bị chặn đứng trước phòng tuyến. Thử thách: vì sao Lý Thường Kiệt chọn sông Như Nguyệt? Bình luận nhé!", "And in 1077 the Song were stopped at the line. Challenge: why did Lý Thường Kiệt choose the Như Nguyệt? Tell us in the comments!"]],
-   "nguon_trang": [60]}
+   "loi": [
+    [
+     "Hân Hân",
+     "Dòng sông chắn ngang đường tiến về Thăng Long, cộng với tường đê dậu tre, đã biến Như Nguyệt thành một lá chắn vững chắc.",
+     "A river across the road to Thăng Long, plus a wall of earth and bamboo, turned the Như Nguyệt into a solid shield."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Tống bị kẹt lại bên bờ bắc. Điều gì sẽ xảy ra tiếp theo? Hẹn gặp ở tập sau: Nam quốc sơn hà và đòn quyết định!",
+     "The Song were stuck on the north bank. What happened next? See you in the next episode!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Ba biện pháp: chặn giặc ở biên giới, thuỷ binh giữ vùng Đông Bắc, phòng tuyến bờ nam sông Như Nguyệt",
+    "Phòng tuyến: đê cao như tường thành, trên đóng tre làm dậu dày mấy tầng",
+    "Sông Như Nguyệt chặn ngang đường bộ tiến vào Thăng Long",
+    "Năm 1077: quân Tống bị chặn đứng trước phòng tuyến"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ba biện pháp là chặn giặc ở biên giới, bố trí thuỷ binh vùng Đông Bắc và xây phòng tuyến bờ nam sông Như Nguyệt.",
+     "Remember the three measures: blocking the border, a navy in the Northeast, and a defence line on the Như Nguyệt's south bank."
+    ],
+    [
+     "Hân Hân",
+     "Phòng tuyến là đê cao như tường thành, bên trên đóng tre làm dậu dày mấy tầng.",
+     "The line was a dyke as high as a wall, topped with layers of bamboo fencing."
+    ],
+    [
+     "Nhật Minh",
+     "Dòng sông chặn ngang con đường bộ tiến vào Thăng Long.",
+     "The river cut across the land road to Thăng Long."
+    ],
+    [
+     "Hân Hân",
+     "Và năm 1077, quân Tống bị chặn đứng trước phòng tuyến. Thử thách: vì sao Lý Thường Kiệt chọn sông Như Nguyệt? Bình luận nhé!",
+     "And in 1077 the Song were stopped at the line. Challenge: why did Lý Thường Kiệt choose the Như Nguyệt? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  }
  ],
  "cau_hoi": [
-  {"hoi": "Ai là người tổ chức xây dựng phòng tuyến sông Như Nguyệt?", "dap_an": ["Lý Công Uẩn", "Lý Thường Kiệt", "Trần Quốc Tuấn", "Ngô Quyền"], "dung": 1, "trang": 60},
-  {"hoi": "Sông Như Nguyệt là một đoạn của con sông nào?", "dap_an": ["Sông Hồng", "Sông Đuống", "Sông Cầu", "Sông Bạch Đằng"], "dung": 2, "trang": 60},
-  {"hoi": "Năm 1077, quân bộ Tống do ai chỉ huy?", "dap_an": ["Quách Quỳ", "Hoà Mâu", "Liễu Thăng", "Thoát Hoan"], "dung": 0, "trang": 60},
-  {"hoi": "Vì sao quân thuỷ Tống không hỗ trợ được quân bộ?", "dap_an": ["Bị bão đánh chìm", "Bị chặn đánh liên tiếp ở vùng ven biển Đông Bắc", "Bị lạc đường", "Không được lệnh tiến quân"], "dung": 1, "trang": 60}
+  {
+   "hoi": "Ai là người tổ chức xây dựng phòng tuyến sông Như Nguyệt?",
+   "dap_an": [
+    "Lý Công Uẩn",
+    "Lý Thường Kiệt",
+    "Trần Quốc Tuấn",
+    "Ngô Quyền"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Sông Như Nguyệt là một đoạn của con sông nào?",
+   "dap_an": [
+    "Sông Hồng",
+    "Sông Đuống",
+    "Sông Cầu",
+    "Sông Bạch Đằng"
+   ],
+   "dung": 2,
+   "trang": 60
+  },
+  {
+   "hoi": "Năm 1077, quân bộ Tống do ai chỉ huy?",
+   "dap_an": [
+    "Quách Quỳ",
+    "Hoà Mâu",
+    "Liễu Thăng",
+    "Thoát Hoan"
+   ],
+   "dung": 0,
+   "trang": 60
+  },
+  {
+   "hoi": "Vì sao quân thuỷ Tống không hỗ trợ được quân bộ?",
+   "dap_an": [
+    "Bị bão đánh chìm",
+    "Bị chặn đánh liên tiếp ở vùng ven biển Đông Bắc",
+    "Bị lạc đường",
+    "Không được lệnh tiến quân"
+   ],
+   "dung": 1,
+   "trang": 60
+  }
  ],
- "kiem_tra": {"viet": "Claude", "doi_chieu": "OCR SGK LSĐL 7 tr. 59–60 (sơ đồ chuẩn bị kháng chiến, Kết nối với địa lí, tư liệu 2, mục b; Hình 3 tr. 61). Lời Lý Thường Kiệt, Quách Quỳ là lời dựng. Diễn biến phản công, Nam quốc sơn hà, giảng hoà để dành cho tập L7-B12-03.", "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"}
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 59–60 (sơ đồ chuẩn bị kháng chiến, Kết nối với địa lí, tư liệu 2, mục b; Hình 3 tr. 61). Lời Lý Thường Kiệt, Quách Quỳ là lời dựng. Diễn biến phản công, Nam quốc sơn hà, giảng hoà để dành cho tập L7-B12-03.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
 }

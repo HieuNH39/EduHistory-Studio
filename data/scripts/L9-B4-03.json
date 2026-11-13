@@ -1,0 +1,424 @@
+{
+ "ma": "L9-B4-03",
+ "ten_tap": "Bước ngoặt Xta-lin-grát và ngày tàn của phát xít",
+ "ten_tap_en": "The Stalingrad Turning Point and the Fall of Fascism",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 4. Chiến tranh thế giới thứ hai (1939 – 1945)",
+  "trang": [
+   19,
+   20
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hong-quan-lien-xo",
+  "lien-quan-my-anh-va-dong-minh"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, căng thẳng ở đầu, hào hùng dần khi Đồng minh phản công; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ vẽ lại theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 4, tr. 19–20.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, đứng trước tấm bản đồ thế giới lớn treo tường, trên bàn có quả địa cầu và chồng sách; ánh nắng chiều qua cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1941, quân Đức đã chiếm hầu hết các nước tư bản châu Âu và uy hiếp cả Thủ đô Mát-xcơ-va của Liên Xô.",
+     "In 1941, German troops had occupied most capitalist countries in Europe and even threatened Moscow, the Soviet capital."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy mà đến năm 1945, phe phát xít đã thất bại hoàn toàn. Bước ngoặt nằm ở đâu? Cùng tìm hiểu giai đoạn hai của Chiến tranh thế giới thứ hai nhé!",
+     "Yet by 1945, the fascist bloc had been completely defeated. Where was the turning point? Let's explore the second stage of World War II!"
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1942",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-chau-au",
+   "pha": "xtalingrat",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn hai kéo dài từ tháng 11 năm 1942 đến tháng 8 năm 1945: quân Đồng minh chuyển sang phản công, chiến tranh kết thúc.",
+     "The second stage lasted from November 1942 to August 1945: the Allies went on the offensive and the war ended."
+    ],
+    [
+     "Hân Hân",
+     "Từ tháng 11 năm 1942 đến tháng 2 năm 1943, Hồng quân Liên Xô phản công và giành thắng lợi trước quân phát xít tại thành phố Xta-lin-grát.",
+     "From November 1942 to February 1943, the Soviet Red Army counter-attacked and defeated the fascist forces at the city of Stalingrad."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Hồng quân Liên Xô chiến đấu ở thành phố Xta-lin-grát, 1942 – 1943 (như Hình 4.4 SGK)",
+    "tim": "Battle of Stalingrad Soviet soldiers 1942 photograph public domain",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép; không dùng ảnh thương vong cận cảnh"
+   },
+   "hinh": "Ảnh tư liệu: Hồng quân Liên Xô chiến đấu ở Xta-lin-grát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến thắng Xta-lin-grát tạo nên bước ngoặt của cuộc chiến tranh: từ phòng ngự chuyển sang phản công.",
+     "The victory at Stalingrad was the turning point of the war: from defence to counter-offensive."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến thắng nào tạo nên bước ngoặt của Chiến tranh thế giới thứ hai?",
+    "lua_chon": [
+     "Mát-xcơ-va",
+     "Xta-lin-grát",
+     "Béc-lin"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chiến thắng nào tạo nên bước ngoặt của Chiến tranh thế giới thứ hai?",
+     "Pause! Which victory was the turning point of World War II?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Xta-lin-grát! Từ đây, Đồng minh chuyển từ phòng ngự sang phản công.",
+     "The answer is B: Stalingrad! From then on, the Allies moved from defence to counter-offensive."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-chau-au",
+   "pha": "noocmangdi",
+   "thoi_luong_toi_thieu": 10,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1944, liên quân Mỹ, Anh và Đồng minh đổ bộ vào Noóc-măng-đi, ở Bắc Pháp.",
+     "In June 1944, American, British and other Allied forces landed in Normandy, in northern France."
+    ],
+    [
+     "Nhật Minh",
+     "Mặt trận thứ hai ở Tây Âu được mở ra, nước Pháp được giải phóng.",
+     "A second front was opened in Western Europe, and France was liberated."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quân Đồng minh đổ bộ lên bờ biển Noóc-măng-đi, tháng 6 – 1944 (như Hình 4.5 SGK)",
+    "tim": "Normandy landing June 1944 photograph US National Archives",
+    "yeu_cau": "ảnh tư liệu công khai (ưu tiên ảnh của Chính phủ Mỹ – phạm vi công cộng), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: quân Đồng minh đổ bộ tấn công Noóc-măng-đi (Pháp)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ảnh tư liệu ghi lại cảnh quân Đồng minh đổ bộ tấn công Noóc-măng-đi.",
+     "This archive photo shows Allied troops landing to attack Normandy."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-chau-au",
+   "pha": "beclin",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 16 tháng 4 năm 1945, Hồng quân Liên Xô mở chiến dịch công phá Béc-lin, nước Đức.",
+     "On 16 April 1945, the Red Army launched the campaign to storm Berlin, Germany."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 9 tháng 5 năm 1945, Đức kí văn kiện đầu hàng Đồng minh không điều kiện. Chiến tranh kết thúc ở châu Âu.",
+     "On 9 May 1945, Germany signed its unconditional surrender to the Allies. The war in Europe was over."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đức kí văn kiện đầu hàng Đồng minh không điều kiện vào ngày nào?",
+    "lua_chon": [
+     "16 – 4 – 1945",
+     "9 – 5 – 1945",
+     "15 – 8 – 1945"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Đức kí văn kiện đầu hàng Đồng minh không điều kiện vào ngày nào?",
+     "Quick test! When did Germany sign its unconditional surrender to the Allies?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngày 9 tháng 5 năm 1945!",
+     "The answer is B: 9 May 1945!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "ctgt2-chau-a",
+   "pha": "thang8",
+   "thoi_luong_toi_thieu": 16,
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở châu Á, ngày 6 và ngày 9 tháng 8 năm 1945, Mỹ ném hai quả bom nguyên tử xuống thành phố Hi-rô-si-ma và Na-ga-sa-ki của Nhật Bản.",
+     "In Asia, on 6 and 9 August 1945, the United States dropped two atomic bombs on the Japanese cities of Hiroshima and Nagasaki."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 8 tháng 8 năm 1945, Hồng quân Liên Xô mở cuộc tấn công quân Nhật ở Đông Bắc Trung Quốc.",
+     "On 8 August 1945, the Red Army attacked the Japanese army in Northeast China."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 15 tháng 8 năm 1945, Nhật Bản tuyên bố đầu hàng Đồng minh không điều kiện. Chiến tranh thế giới thứ hai kết thúc.",
+     "On 15 August 1945, Japan announced its unconditional surrender to the Allies. World War II was over."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · 1942 – 1945",
+   "moc": [
+    [
+     "11/1942 – 2/1943",
+     "Thắng lợi ở Xta-lin-grát"
+    ],
+    [
+     "6 – 1944",
+     "Đổ bộ Noóc-măng-đi"
+    ],
+    [
+     "16 – 4 – 1945",
+     "Công phá Béc-lin"
+    ],
+    [
+     "9 – 5 – 1945",
+     "Đức đầu hàng"
+    ],
+    [
+     "6 – 8 và 9 – 8",
+     "Hai quả bom nguyên tử"
+    ],
+    [
+     "15 – 8 – 1945",
+     "Nhật Bản đầu hàng"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Từ tháng 11 năm 1942 đến tháng 2 năm 1943: thắng lợi ở Xta-lin-grát.",
+     "Recap! November 1942 to February 1943: victory at Stalingrad."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 6 năm 1944: đổ bộ Noóc-măng-đi.",
+     "June 1944: the Normandy landings."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 16 tháng 4 năm 1945: công phá Béc-lin.",
+     "16 April 1945: the storming of Berlin."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 9 tháng 5: Đức đầu hàng.",
+     "9 May: Germany surrenders."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 6 và ngày 9 tháng 8: hai quả bom nguyên tử.",
+     "6 and 9 August: two atomic bombs."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 15 tháng 8 năm 1945: Nhật Bản đầu hàng, chiến tranh kết thúc.",
+     "15 August 1945: Japan surrenders and the war ends."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Xta-lin-grát (11/1942 – 2/1943): bước ngoặt, từ phòng ngự chuyển sang phản công",
+    "6 – 1944: mở mặt trận thứ hai ở Tây Âu (Noóc-măng-đi)",
+    "9 – 5 – 1945: Đức đầu hàng, chiến tranh kết thúc ở châu Âu",
+    "15 – 8 – 1945: Nhật Bản đầu hàng, chiến tranh kết thúc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: chiến thắng Xta-lin-grát là bước ngoặt, từ phòng ngự chuyển sang phản công.",
+     "Remember: Stalingrad was the turning point, from defence to counter-offensive."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1944, mặt trận thứ hai ở Tây Âu được mở ra.",
+     "June 1944: a second front opened in Western Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 9 tháng 5 năm 1945, Đức đầu hàng.",
+     "9 May 1945: Germany surrendered."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 15 tháng 8 năm 1945, Nhật Bản đầu hàng. Chiến tranh kết thúc với sự sụp đổ hoàn toàn của chủ nghĩa phát xít.",
+     "15 August 1945: Japan surrendered. The war ended with the total collapse of fascism."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện trường, Hân Hân cầm quả địa cầu, Nhật Minh giơ tay mời người xem bình luận; bản đồ thế giới phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao chiến thắng Xta-lin-grát được coi là bước ngoặt của Chiến tranh thế giới thứ hai? Trả lời trong một câu ở phần bình luận nhé!",
+     "Your challenge: why is Stalingrad considered the turning point of World War II? Answer in one sentence in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Giai đoạn II của Chiến tranh thế giới thứ hai diễn ra trong khoảng thời gian nào?",
+   "dap_an": [
+    "9 – 1939 đến 11 – 1942",
+    "11 – 1942 đến 8 – 1945",
+    "6 – 1941 đến 5 – 1945",
+    "1 – 1942 đến 8 – 1945"
+   ],
+   "dung": 1,
+   "trang": 19
+  },
+  {
+   "hoi": "Chiến thắng Xta-lin-grát tạo nên bước ngoặt nào?",
+   "dap_an": [
+    "Từ phản công chuyển sang phòng ngự",
+    "Từ phòng ngự chuyển sang phản công",
+    "Chiến tranh lan rộng toàn thế giới",
+    "Mỹ tham gia chiến tranh"
+   ],
+   "dung": 1,
+   "trang": 19
+  },
+  {
+   "hoi": "Tháng 6 – 1944, liên quân Mỹ, Anh và Đồng minh đổ bộ vào đâu?",
+   "dap_an": [
+    "Xta-lin-grát",
+    "Béc-lin",
+    "Noóc-măng-đi (Bắc Pháp)",
+    "Trân Châu cảng"
+   ],
+   "dung": 2,
+   "trang": 20
+  },
+  {
+   "hoi": "Chiến tranh thế giới thứ hai kết thúc khi nào?",
+   "dap_an": [
+    "9 – 5 – 1945, khi Đức đầu hàng",
+    "6 – 8 – 1945",
+    "8 – 8 – 1945",
+    "15 – 8 – 1945, khi Nhật Bản đầu hàng"
+   ],
+   "dung": 3,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 19–20 (Giai đoạn II, Hình 4.4, 4.5, đoạn hậu quả). Mọi mốc thời gian, địa danh theo đúng cách viết SGK. Cảnh mở đầu: mùa hè 1941 Đức chiếm hầu hết các nước tư bản châu Âu, tháng 10 – 1941 uy hiếp Mát-xcơ-va (tr. 19). Không có lời thoại dựng cho nhân vật lịch sử; người thật chỉ qua ảnh tư liệu; bản đồ không vẽ biên giới.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -20,7 +20,10 @@ class SaBan2:
         self.oy = H * 0.02 - y0 * self.s
         self.k = max(1.05, min(1.6, self.s / 0.7))   # hệ số cỡ chữ/nét theo tỉ lệ
         rng = np.random.default_rng(3)
-        self.noise = (rng.random((H // 4, W // 4)) * 0.035).astype(np.float32)
+        # nền vẽ siêu mẫu khi có pha phóng to nhiều, để chữ/nét không bị nhoè khi máy quay zoom
+        zmax = max([max(ph.get("zoom", [1, 1.04])) for ph in self.S.get("pha", {}).values()] + [1])
+        self.ss = int(self.S.get("sieu_mau", 1 if zmax <= 1.3 else min(3, math.ceil(zmax))))
+        self.noise = (rng.random((H * self.ss // 4, W * self.ss // 4)) * 0.035).astype(np.float32)
         self.base = self._base()
 
     def P(self, p): return (self.ox + p[0] * self.s, self.oy + p[1] * self.s)
@@ -42,8 +45,8 @@ class SaBan2:
         for p in pts[1:]: cr.line_to(*p)
 
     def _base(self):
-        W, H, S, k = self.W, self.H, self.S, self.k
-        surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(surf)
+        W, H, S, k, ss = self.W, self.H, self.S, self.k, self.ss
+        surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W * ss, H * ss); cr = cairo.Context(surf); cr.scale(ss, ss)
         g = cairo.RadialGradient(W * .5, H * .45, H * .2, W * .5, H * .5, W * .75)
         g.add_color_stop_rgb(0, *C["giay"]); g.add_color_stop_rgb(1, *C["giay2"]); cr.set_source(g); cr.paint()
         cr.set_line_cap(cairo.LINE_CAP_ROUND); cr.set_line_join(cairo.LINE_JOIN_ROUND)
@@ -79,22 +82,23 @@ class SaBan2:
                 a, b = pts[i], pts[j]; v = b - a; n = np.array([-v[1], v[0]]) / (np.linalg.norm(v) + 1e-6) * 5 * k
                 cr.move_to(*a); cr.line_to(*(a + n)); cr.line_to(*(b + n)); cr.line_to(*b); cr.stroke()
         for d in S.get("dia_danh", []):
+            if d.get("man_hinh"): continue   # nhãn vẽ theo khung hình (cỡ chữ cố định khi zoom) – xem nhan_man_hinh()
             x, y = self.P(d["vi_tri"])
             if d.get("kieu") == "thanh": self.citadel(cr, x, y)
             elif d.get("kieu") == "diem": cr.arc(x, y, 4 * k, 0, 6.2832); cr.set_source_rgb(*C["chu"]); cr.fill()
             if d.get("ten"):
                 nx, ny = self.P(d.get("nhan", d["vi_tri"]))
-                self.text(cr, d["ten"], nx, ny, (24 if d.get("lon") else 18) * k, C["chu"], bold=bool(d.get("lon") or d.get("dam")))
+                self.text(cr, d["ten"], nx, ny, d.get("co", 24 if d.get("lon") else 18) * k, C["chu"], bold=bool(d.get("lon") or d.get("dam")))
         for r in S.get("song", []):
             if r.get("ten"):
                 x, y = self.P(r["nhan"]); self.text(cr, r["ten"], x, y, 16 * k, C["chu_nuoc"], italic=True, angle=r.get("goc", 0))
         for h in S.get("ho", []):
             if h.get("ten"):
                 x, y = self.P(h["nhan"]); self.text(cr, h["ten"], x, y, 15 * k, C["chu_nuoc"], italic=True)
-        n = np.kron(self.noise, np.ones((4, 4), np.float32))[:H, :W]
-        a = np.ndarray((H, W, 4), np.uint8, surf.get_data(), 0, (surf.get_stride(), 4, 1)).copy()
+        n = np.kron(self.noise, np.ones((4, 4), np.float32))[:H * ss, :W * ss]
+        a = np.ndarray((H * ss, W * ss, 4), np.uint8, surf.get_data(), 0, (surf.get_stride(), 4, 1)).copy()
         a[..., :3] = np.clip(a[..., :3].astype(np.float32) * (1 - n[..., None]), 0, 255).astype(np.uint8)
-        return cairo.ImageSurface.create_for_data(bytearray(a.tobytes()), cairo.FORMAT_ARGB32, W, H, surf.get_stride())
+        return cairo.ImageSurface.create_for_data(bytearray(a.tobytes()), cairo.FORMAT_ARGB32, W * ss, H * ss, surf.get_stride())
 
     # ----- ký hiệu
     def citadel(self, cr, x, y, glow=0):
@@ -206,7 +210,13 @@ class SaBan2:
             cr.save(); cr.translate(x, y); cr.rotate(math.radians(o.get("goc", 0))); cr.scale(s2, s2); cr.set_source_rgba(*C["ta"], k)
             cr.set_line_width(8); cr.arc(0, 26, 30, math.radians(-150), math.radians(-30)); cr.stroke()
             cr.move_to(0, -16); cr.line_to(-9, -2); cr.line_to(9, -2); cr.close_path(); cr.fill(); cr.rectangle(-3, -4, 6, 12); cr.fill(); cr.restore()
-        elif typ == "sao": x, y = self.P(o["vi_tri"]); self.star(cr, x, y, k)
+        elif typ == "sao":
+            x, y = self.P(o["vi_tri"])
+            if o.get("man_hinh") or self.S.get("sao_man_hinh"):   # cỡ sao cố định trên màn hình, không phóng to theo zoom
+                X, Y = cr.user_to_device(x, y); cr.save(); cr.identity_matrix()
+                cr.translate(X, Y); cr.scale(self.H / 1080 * o.get("co", 1) / self.k * 1.05, self.H / 1080 * o.get("co", 1) / self.k * 1.05)
+                self.star(cr, 0, 0, k); cr.restore()
+            else: self.star(cr, x, y, k)
         elif typ == "don_dich": x, y = self.P(o["vi_tri"]); self.fort(cr, x, y, 1 if k > 0 else 0, C["dich"], gone=o.get("_gone", 0))
         elif typ == "don_ta": x, y = self.P(o["vi_tri"]); self.fort(cr, x, y, k, C["ta"])
         elif typ == "chan_danh": x, y = self.P(o["vi_tri"]); self.block(cr, x, y, k, o.get("goc", 0))
@@ -304,6 +314,22 @@ class SaBan2:
             elif typ == "thanh": cr.save(); cr.translate(cx, cy); cr.scale(.6, .6); self.citadel(cr, 0, 0); cr.restore()
             self.text(cr, lab, cx + 36 * s, cy, 15.5 * s, C["chu"], align="l", halo=False, alpha=alpha)
 
+    def nhan_man_hinh(self, cr, z):
+        """Địa danh có "man_hinh": chấm + chữ cỡ cố định trên màn hình (không phóng to theo máy quay);
+        "zoom_tu"/"zoom_den" để chỉ hiện ở mức zoom phù hợp (tránh chồng chữ khi nhìn toàn cảnh), "lech" = [dx, dy] px (1080p)."""
+        ds = [d for d in self.S.get("dia_danh", []) if d.get("man_hinh") and d.get("zoom_tu", 0) <= z <= d.get("zoom_den", 99)]
+        if not ds: return
+        pts = [cr.user_to_device(*self.P(d["vi_tri"])) for d in ds]
+        cr.save(); cr.identity_matrix(); f = self.H / 1080
+        for d, (X, Y) in zip(ds, pts):
+            a = min(1, (z - d.get("zoom_tu", 0)) / 0.15) if d.get("zoom_tu") else 1
+            if d.get("kieu") == "diem":
+                cr.arc(X, Y, 5 * f, 0, 6.2832); cr.set_source_rgba(*C["chu"], a); cr.fill()
+            dx, dy = d.get("lech", [0, -26]); dx *= f; dy *= f
+            self.text(cr, d["ten"], X + dx, Y + dy, d.get("co", 24 if d.get("lon") else 19) * f, C["chu"], bold=bool(d.get("lon") or d.get("dam")),
+                      align="l" if dx > 4 else "r" if dx < -4 else "c", alpha=a)
+        cr.restore()
+
     def frame(self, phase, u, t):
         W, H, S = self.W, self.H, self.S; ph = S["pha"][phase]
         surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(surf)
@@ -312,10 +338,15 @@ class SaBan2:
         z = z0 + (z1 - z0) * ease(u)
         if ph.get("can_giua"):   # đưa điểm 'tam' về giữa khung (máy quay lia tới vùng cần xem)
             tx, ty = W * ph["can_giua"][0], H * ph["can_giua"][1]
-            cr.translate(tx, ty); cr.scale(z, z); cr.translate(-fx, -fy)
+            ox, oy = tx - z * fx, ty - z * fy
+            if z >= 1:   # giữ máy quay trong phạm vi bản đồ, không để lộ mép giấy
+                ox = min(0, max(W - z * W, ox)); oy = min(0, max(H - z * H, oy))
+            cr.translate(ox, oy); cr.scale(z, z)
         else:
             cr.translate(fx, fy); cr.scale(z, z); cr.translate(-fx, -fy)
-        cr.set_source_surface(self.base); cr.paint()
+        cr.save(); cr.scale(1 / self.ss, 1 / self.ss); cr.set_source_surface(self.base)
+        if self.ss > 1: cr.get_source().set_filter(cairo.FILTER_GOOD)
+        cr.paint(); cr.restore()
         if ph.get("mo_dau"):
             a = seg(u, 0, .08)
             if a < 1: cr.set_source_rgba(*C["giay"], 1 - a); cr.paint()
@@ -330,6 +361,7 @@ class SaBan2:
             o = dict(objs[st["id"]])
             if st.get("hieu_ung") == "mat": o["_gone"] = k; self.draw_obj(cr, o, 1, t)
             else: self.draw_obj(cr, o, k, t)
+        self.nhan_man_hinh(cr, z)
         cr.identity_matrix()
         self.card(cr, seg(u, 0, .08) if ph.get("mo_dau") else 1)
         self.legend(cr, [(x["loai"], x["nhan"]) for x in S.get("chu_giai", []) if x["loai"] in ph.get("chu_giai", [c["loai"] for c in S.get("chu_giai", [])])])
@@ -343,7 +375,7 @@ class SaBan2:
         if ph.get("bang"):
             b = ph["bang"]; k = seg(u, b["tu"], b["tu"] + .1)
             if k > 0:
-                s = self.k; y = H * .40; h = 84 * s; w = W * .66 * (.7 + .3 * k)
+                s = self.k; y = H * b.get("y", .40); h = 84 * s; w = W * .66 * (.7 + .3 * k)
                 cr.set_source_rgba(*C["ta"], .9 * k); cr.rectangle((W - w) / 2, y - h / 2, w, h); cr.fill()
                 cr.set_source_rgba(*C["vang"], k); cr.set_line_width(3); cr.rectangle((W - w) / 2 + 6, y - h / 2 + 6, w - 12, h - 12); cr.stroke()
                 self.text(cr, b["chu"], W / 2, y, 36 * s, (1, .96, .85), bold=True, halo=False, alpha=k)

@@ -9,15 +9,18 @@ BIEN = (.80, .88, .93); DAT = (.93, .88, .76); BO = (.55, .5, .42); CHU = (.18, 
 DO = (.72, .15, .12)
 _LAND = None
 def land():
+    """Trả về (đa giác đất liền, đa giác nước nội địa: lỗ của đa giác như biển Ca-xpi + hồ lớn)."""
     global _LAND
     if _LAND is None:
-        g = json.load(open(os.path.join(ROOT, "assets/geo/ne_110m_land.geojson")))
-        polys = []
-        for f in g["features"]:
-            geo = f["geometry"]; cs = geo["coordinates"]
-            for poly in (cs if geo["type"] == "MultiPolygon" else [cs]):
-                polys.append(np.array(poly[0], float))
-        _LAND = polys
+        polys, nuoc = [], []
+        for ten in ("ne_110m_land", "ne_110m_lakes"):
+            g = json.load(open(os.path.join(ROOT, f"assets/geo/{ten}.geojson")))
+            for f in g["features"]:
+                geo = f["geometry"]; cs = geo["coordinates"]
+                for poly in (cs if geo["type"] == "MultiPolygon" else [cs]):
+                    for i, ring in enumerate(poly):
+                        (nuoc if (i > 0 or ten.endswith("lakes")) else polys).append(np.array(ring, float))
+        _LAND = (polys, nuoc)
     return _LAND
 
 DAO_VN = [("QĐ. Hoàng Sa", 112.0, 16.5), ("QĐ. Trường Sa", 114.0, 9.5)]
@@ -69,12 +72,13 @@ class HanhTrinh:
         # đất liền, lặp theo bội 360°
         for kk in range(int(math.floor((clon - span) / 360)), int(math.ceil((clon + span) / 360)) + 1):
             off = kk * 360
-            for P in land():
-                xs = P[:, 0] + off
-                if xs.max() < clon - span / 2 - 5 or xs.min() > clon + span / 2 + 5: continue
-                cr.move_to(X(xs[0]), Y(P[0, 1]))
-                for x_, y_ in zip(xs[1:], P[1:, 1]): cr.line_to(X(x_), Y(y_))
-                cr.close_path(); cr.set_source_rgb(*DAT); cr.fill_preserve(); cr.set_source_rgba(*BO, .8); cr.set_line_width(1.2); cr.stroke()
+            for nhom, mau in zip(land(), (DAT, BIEN)):
+                for P in nhom:
+                    xs = P[:, 0] + off
+                    if xs.max() < clon - span / 2 - 5 or xs.min() > clon + span / 2 + 5: continue
+                    cr.move_to(X(xs[0]), Y(P[0, 1]))
+                    for x_, y_ in zip(xs[1:], P[1:, 1]): cr.line_to(X(x_), Y(y_))
+                    cr.close_path(); cr.set_source_rgb(*mau); cr.fill_preserve(); cr.set_source_rgba(*BO, .8); cr.set_line_width(1.2); cr.stroke()
             for ten, lon, lat in DAO_VN:
                 x, y = X(lon + off), Y(lat)
                 if -50 < x < W + 50:

@@ -1,0 +1,60 @@
+{
+ "ma": "L8-B2-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân sit at their desks, turning their heads slightly to look at the projector screen. Hân Hân gestures naturally with her hand while speaking, her lips moving in sync with her dialogue, followed by Nhật Minh nodding in agreement. On the screen, the blue, white, and red flag waves rhythmically in the breeze as vibrant fireworks sparkle and drift. The camera performs a slow, gentle push-in toward the students, capturing their engaged expressions in the classroom."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Louis XVI sits regally, slowly dipping a quill to sign documents with a rhythmic hand motion while his head turns slightly. On the right, the line of impoverished peasants shifts forward with weary, slumped postures, their faces showing subtle expressions of anxiety. In the background, soft light flickers across the palace walls. The camera performs a slow, steady push-in toward the center of the frame, capturing the stark contrast between the king’s deliberate actions and the villagers' somber movement."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand still, turning their heads slightly to observe the scene while speaking with natural lip movements and expressive gestures. In the background, a dense crowd of revolutionaries marches forward with determination, their spears and sticks swaying rhythmically. A vibrant tricolor flag waves briskly in the wind above the throng. Smoke drifts slowly from the distant stone fortress. The camera performs a slow, steady push-in toward the students, capturing their curious expressions amidst the historical chaos."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The scene captures the historic storming of the Bastille with dynamic energy. In the foreground, Nhật Minh turns his head slightly to gesture toward the fortress, his lips moving as he speaks. Behind him, the massive wooden drawbridge slowly descends with a heavy creak. A crowd of citizens surges forward, crossing the bridge into the gates. Thick, grey smoke drifts across the scene, while flags wave gently in the wind. The camera performs a slow, dramatic push-in toward the fortress entrance."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this 18th-century French assembly hall, the delegates in tailcoats and powdered wigs shift slightly, raising their hands in unison to cast votes. On the podium, the large parchment document ripples gently as if caught in a soft breeze. Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other to converse with natural lip movements and subtle hand gestures. The camera performs a slow, steady push-in toward the podium, capturing the historic atmosphere."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The crowd in the Parisian square cheers enthusiastically, waving vibrant tricolor flags and tossing red hats into the air. Hân Hân, standing in the foreground, turns her head slightly toward the camera, her lips moving naturally as she speaks with a bright, engaged expression. In the background, the large proclamation poster on the wall flutters gently in the wind. The camera performs a slow, steady push-in, capturing the lively atmosphere and the jubilant spirit of the historical celebration."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh stands on the wooden podium, gesturing expressively with his hands while speaking with natural lip movements. In the background, the crowd of students subtly shifts, nodding and leaning in with engaged expressions. Flickering candlelight casts dancing shadows across the room, and faint wisps of smoke drift near the ceiling. The camera performs a slow, steady push-in toward Nhật Minh, capturing the vibrant and focused atmosphere of the historical club meeting."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, suspenseful push-in toward the dimly lit corridor. Hân Hân stands in the foreground, turning her head slightly to look toward the shadows while her lips move naturally as if whispering a secret. In the background, groups of figures in dark coats shift restlessly, gesturing with subtle hand movements. Flickering gaslight casts dancing shadows against the walls, while a faint, hazy mist drifts slowly across the cold stone floor, heightening the tense atmosphere of the scene."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han sit at their wooden desks in a bright classroom. Han Han smiles warmly, raises her right hand with a gentle gesture, and speaks with natural, synchronized lip movements. Nhat Minh turns his head slightly to look at her, nodding in agreement. Sunlight filters through the window, causing dust motes to drift slowly in the air. The camera performs a slow, steady push-in toward the students, maintaining the clean, 2D animated-film aesthetic throughout."
+  }
+ ]
+}

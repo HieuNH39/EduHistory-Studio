@@ -2,70 +2,337 @@
  "ma": "L6-B14-03",
  "ten_tap": "Bí ẩn thành Cổ Loa",
  "ten_tap_en": "The Secrets of Cổ Loa Citadel",
- "khung": "2-3p", "huong": "ngang",
- "nguon": {"sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)", "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc", "trang": [61, 62]},
- "nhan_vat_lich_su": ["an-duong-vuong", "quan-doi-au-lac", "nguoi-lac-viet-va-au-viet"],
- "nhac": {"tam_trang": "huyền bí, cổ kính, ấm áp", "tep": "assets/music/lost-memories.mp3"},
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+  "trang": [
+   61,
+   62
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "an-duong-vuong",
+  "quan-doi-au-lac",
+  "nguoi-lac-viet-va-au-viet"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, cổ kính, ấm áp",
+  "tep": "assets/music/lost-memories.mp3"
+ },
  "ghi_chu_tai_hien": "Hình ảnh nhân vật mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 14, tr. 61–62.",
  "canh": [
-  {"so": 1, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng trước cổng đền An Dương Vương ở Cổ Loa (Đông Anh, Hà Nội) ngày nay, cây cổ thụ, mái ngói rêu phong",
-   "loi": [["Hân Hân", "Tụi mình đang ở Cổ Loa, xã Đông Anh, thành phố Hà Nội. Hơn hai nghìn năm trước, đây là kinh đô của nước Âu Lạc.", "We're at Cổ Loa, in Đông Anh, Hà Nội. More than two thousand years ago, this was the capital of Âu Lạc."],
-           ["Nhật Minh", "Nơi đây còn dấu tích một toà thành rất đặc biệt. Đi thôi!", "Traces of a very special citadel remain here. Let's go!"]],
-   "nguon_trang": [61]},
-  {"so": 2, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "208 TCN", "thoi_luong": 2.0},
-  {"so": 3, "lop": "tai_hien", "nhan_vat": ["nguoi-lac-viet-va-au-viet"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang ở Cổ Loa, xã Đông Anh, thành phố Hà Nội. Hơn hai nghìn năm trước, đây là kinh đô của nước Âu Lạc.",
+     "We're at Cổ Loa, in Đông Anh, Hà Nội. More than two thousand years ago, this was the capital of Âu Lạc."
+    ],
+    [
+     "Nhật Minh",
+     "Nơi đây còn dấu tích một toà thành rất đặc biệt. Đi thôi!",
+     "Traces of a very special citadel remain here. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "208 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguoi-lac-viet-va-au-viet"
+   ],
    "hinh": "Người Lạc Việt và người Âu Việt (đóng khố, búi tóc, cầm giáo đồng, rìu đồng) tụ họp quanh một người đàn ông trẻ tuấn tú là Thục Phán, giơ vũ khí đồng thuận; khung cảnh trung du đồi núi",
-   "loi": [["Nhật Minh", "Cuối thế kỉ III trước Công nguyên, nhà Tần đem quân đánh xuống phía nam. Người Lạc Việt và người Âu Việt đoàn kết cùng chống quân xâm lược.", "In the late 3rd century BCE, the Qin attacked southwards. The Lạc Việt and Âu Việt peoples united against the invaders."],
-           ["Hân Hân", "Họ cử “người tuấn kiệt” là Thục Phán lãnh đạo cuộc kháng chiến.", "They chose a 'hero', Thục Phán, to lead the resistance."]],
-   "nguon_trang": [61]},
-  {"so": 4, "lop": "tai_hien", "nhan_vat": ["an-duong-vuong", "quan-doi-au-lac"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ III trước Công nguyên, nhà Tần đem quân đánh xuống phía nam. Người Lạc Việt và người Âu Việt đoàn kết cùng chống quân xâm lược.",
+     "In the late 3rd century BCE, the Qin attacked southwards. The Lạc Việt and Âu Việt peoples united against the invaders."
+    ],
+    [
+     "Hân Hân",
+     "Họ cử “người tuấn kiệt” là Thục Phán lãnh đạo cuộc kháng chiến.",
+     "They chose a 'hero', Thục Phán, to lead the resistance."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "an-duong-vuong",
+    "quan-doi-au-lac"
+   ],
    "hinh": "An Dương Vương (Thục Phán) trong trang phục thủ lĩnh thời đồ đồng, đứng trên gò cao nhìn xuống vùng đồng bằng ven sông nơi dân chúng đang đắp những vòng thành đất",
-   "loi": [["Nhật Minh", "Thục Phán lên làm vua, xưng là An Dương Vương, lập ra nước Âu Lạc, khoảng năm 208 trước Công nguyên.", "Thục Phán became king as An Dương Vương and founded Âu Lạc around 208 BCE."],
-           ["Hân Hân", "Kinh đô được chuyển từ miền trung du Phong Châu xuống vùng đồng bằng ở Cổ Loa.", "The capital moved from the Phong Châu midlands down to the plain at Cổ Loa."]],
-   "nguon_trang": [61]},
-  {"so": 5, "lop": "sa_ban", "sa_ban": "co-loa", "pha": "tong_the", "thoi_luong_toi_thieu": 12,
-   "loi": [["Nhật Minh", "Thành Cổ Loa được xây dựng theo hình xoáy trôn ốc, có ba vòng khép kín: thành ngoại, thành trung và thành nội.", "Cổ Loa Citadel was built in a spiral, with three closed rings: the outer, middle and inner walls."],
-           ["Hân Hân", "Tổng chiều dài các vòng thành lên tới 16 000 mét!", "Altogether, the walls were 16,000 metres long!"]],
-   "nguon_trang": [62]},
-  {"so": 6, "lop": "cau_hoi", "thoi_luong_toi_thieu": 7,
-   "cau_hoi": {"hoi": "Tổng chiều dài các vòng thành Cổ Loa là bao nhiêu?", "lua_chon": ["1 600 m", "16 000 m", "160 000 m"], "dung": 1},
-   "loi": [["Hân Hân", "Dừng hình! Tổng chiều dài các vòng thành Cổ Loa là bao nhiêu?", "Pause! How long were the walls of Cổ Loa in total?"],
-           ["Nhật Minh", "Đáp án là B: 16 000 mét, tức 16 ki-lô-mét!", "The answer is B: 16,000 metres, that's 16 kilometres!"]],
-   "nguon_trang": [62]},
-  {"so": 7, "lop": "sa_ban", "sa_ban": "co-loa", "pha": "cong_nuoc", "thoi_luong_toi_thieu": 8,
-   "loi": [["Nhật Minh", "Mỗi vòng thành có nhiều cổng ra vào. Xen giữa và bao quanh các vòng thành là sông, ao hồ, đầm lầy.", "Each ring had several gates. Rivers, ponds and marshes lay between and around the rings."]],
-   "nguon_trang": [62]},
-  {"so": 8, "lop": "du_hanh", "nhan_vat": ["quan-doi-au-lac"],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thục Phán lên làm vua, xưng là An Dương Vương, lập ra nước Âu Lạc, khoảng năm 208 trước Công nguyên.",
+     "Thục Phán became king as An Dương Vương and founded Âu Lạc around 208 BCE."
+    ],
+    [
+     "Hân Hân",
+     "Kinh đô được chuyển từ miền trung du Phong Châu xuống vùng đồng bằng ở Cổ Loa.",
+     "The capital moved from the Phong Châu midlands down to the plain at Cổ Loa."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "co-loa",
+   "pha": "tong_the",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thành Cổ Loa được xây dựng theo hình xoáy trôn ốc, có ba vòng khép kín: thành ngoại, thành trung và thành nội.",
+     "Cổ Loa Citadel was built in a spiral, with three closed rings: the outer, middle and inner walls."
+    ],
+    [
+     "Hân Hân",
+     "Tổng chiều dài các vòng thành lên tới 16 000 mét!",
+     "Altogether, the walls were 16,000 metres long!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tổng chiều dài các vòng thành Cổ Loa là bao nhiêu?",
+    "lua_chon": [
+     "1 600 m",
+     "16 000 m",
+     "160 000 m"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Tổng chiều dài các vòng thành Cổ Loa là bao nhiêu?",
+     "Pause! How long were the walls of Cổ Loa in total?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 16 000 mét, tức 16 ki-lô-mét!",
+     "The answer is B: 16,000 metres, that's 16 kilometres!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "co-loa",
+   "pha": "cong_nuoc",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mỗi vòng thành có nhiều cổng ra vào. Xen giữa và bao quanh các vòng thành là sông, ao hồ, đầm lầy.",
+     "Each ring had several gates. Rivers, ponds and marshes lay between and around the rings."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-doi-au-lac"
+   ],
    "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên mặt một vòng thành đất cao thời Âu Lạc, nhìn xuống dải nước bên dưới; lính Âu Lạc cầm nỏ canh gác dọc thành",
-   "loi": [["Hân Hân", "Vòng thành này vừa dài vừa cao, lại có nước bao quanh. Giặc muốn vào được thật không dễ!", "These walls are long and high, with water all around. Getting in would be hard for any enemy!"],
-           ["Nhật Minh", "Âu Lạc có quân đội mạnh, vũ khí tốt, đặc biệt có thành Cổ Loa kiên cố, vững chắc.", "Âu Lạc had a strong army, good weapons, and above all the solid, sturdy citadel of Cổ Loa."]],
-   "nguon_trang": [61]},
-  {"so": 9, "lop": "tai_hien", "nhan_vat": ["quan-doi-au-lac"],
+   "loi": [
+    [
+     "Hân Hân",
+     "Vòng thành này vừa dài vừa cao, lại có nước bao quanh. Giặc muốn vào được thật không dễ!",
+     "These walls are long and high, with water all around. Getting in would be hard for any enemy!"
+    ],
+    [
+     "Nhật Minh",
+     "Âu Lạc có quân đội mạnh, vũ khí tốt, đặc biệt có thành Cổ Loa kiên cố, vững chắc.",
+     "Âu Lạc had a strong army, good weapons, and above all the solid, sturdy citadel of Cổ Loa."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-doi-au-lac"
+   ],
    "hinh": "Cận cảnh hiện vật: lẫy nỏ bằng đồng và những mũi tên đồng nhiều cạnh đặt trên nền đất khảo cổ, ánh sáng ấm (vẽ lại theo Hình 4 SGK)",
-   "loi": [["Hân Hân", "Ở Cổ Loa đã tìm thấy lẫy nỏ và mũi tên đồng, minh chứng cho vũ khí của quân đội Âu Lạc.", "Bronze crossbow triggers and arrowheads have been found at Cổ Loa, evidence of the Âu Lạc army's weapons."]],
-   "nguon_trang": [62]},
-  {"so": 10, "lop": "sa_ban", "sa_ban": "co-loa", "pha": "trung_tam", "thoi_luong_toi_thieu": 8,
-   "loi": [["Nhật Minh", "Ngày nay, ở khu vực thành nội có đền An Dương Vương và Giếng Ngọc.", "Today the inner citadel area holds the An Dương Vương Temple and the Jade Well."]],
-   "nguon_trang": [62]},
-  {"so": 11, "lop": "chuyen_canh", "hieu_ung": "cong_trong_dong", "chu": "Hôm nay", "thoi_luong": 1.6},
-  {"so": 12, "lop": "ghi_nho",
-   "y": ["Nước Âu Lạc ra đời khoảng năm 208 TCN, đứng đầu là An Dương Vương", "Kinh đô chuyển từ Phong Châu xuống Cổ Loa (Đông Anh, Hà Nội)", "Thành Cổ Loa: hình xoáy trôn ốc, ba vòng khép kín, dài 16 000 m", "Tìm thấy lẫy nỏ, mũi tên đồng ở Cổ Loa"],
-   "loi": [["Nhật Minh", "Ghi nhớ nhé: nước Âu Lạc ra đời khoảng năm 208 trước Công nguyên, đứng đầu là An Dương Vương.", "Remember: Âu Lạc was founded around 208 BCE, led by An Dương Vương."],
-           ["Hân Hân", "Kinh đô chuyển từ Phong Châu xuống Cổ Loa.", "The capital moved from Phong Châu to Cổ Loa."],
-           ["Nhật Minh", "Thành Cổ Loa xây theo hình xoáy trôn ốc, ba vòng khép kín, tổng chiều dài 16 000 mét.", "Cổ Loa was a spiral citadel with three closed rings, 16,000 metres in all."],
-           ["Hân Hân", "Và ở đây đã tìm thấy lẫy nỏ, mũi tên đồng.", "And bronze crossbow triggers and arrowheads were found here."]],
-   "nguon_trang": [61, 62]},
-  {"so": 13, "lop": "dan_chuyen", "chuyen_dong": "ken_burns",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Cổ Loa đã tìm thấy lẫy nỏ và mũi tên đồng, minh chứng cho vũ khí của quân đội Âu Lạc.",
+     "Bronze crossbow triggers and arrowheads have been found at Cổ Loa, evidence of the Âu Lạc army's weapons."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "co-loa",
+   "pha": "trung_tam",
+   "thoi_luong_toi_thieu": 8,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày nay, ở khu vực thành nội có đền An Dương Vương và Giếng Ngọc.",
+     "Today the inner citadel area holds the An Dương Vương Temple and the Jade Well."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Nước Âu Lạc ra đời khoảng năm 208 TCN, đứng đầu là An Dương Vương",
+    "Kinh đô chuyển từ Phong Châu xuống Cổ Loa (Đông Anh, Hà Nội)",
+    "Thành Cổ Loa: hình xoáy trôn ốc, ba vòng khép kín, dài 16 000 m",
+    "Tìm thấy lẫy nỏ, mũi tên đồng ở Cổ Loa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nước Âu Lạc ra đời khoảng năm 208 trước Công nguyên, đứng đầu là An Dương Vương.",
+     "Remember: Âu Lạc was founded around 208 BCE, led by An Dương Vương."
+    ],
+    [
+     "Hân Hân",
+     "Kinh đô chuyển từ Phong Châu xuống Cổ Loa.",
+     "The capital moved from Phong Châu to Cổ Loa."
+    ],
+    [
+     "Nhật Minh",
+     "Thành Cổ Loa xây theo hình xoáy trôn ốc, ba vòng khép kín, tổng chiều dài 16 000 mét.",
+     "Cổ Loa was a spiral citadel with three closed rings, 16,000 metres in all."
+    ],
+    [
+     "Hân Hân",
+     "Và ở đây đã tìm thấy lẫy nỏ, mũi tên đồng.",
+     "And bronze crossbow triggers and arrowheads were found here."
+    ]
+   ],
+   "nguon_trang": [
+    61,
+    62
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
    "hinh": "Nhật Minh và Hân Hân đứng bên một đoạn thành đất cổ phủ cỏ ở Cổ Loa ngày nay lúc chiều, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
-   "loi": [["Hân Hân", "Thử thách cho cậu: theo cậu, vì sao thành Cổ Loa được xây nhiều vòng theo hình xoáy trôn ốc, lại có sông, đầm bao quanh? Bình luận suy luận của cậu nhé!", "Your challenge: why do you think Cổ Loa was built in spiral rings surrounded by water? Share your reasoning in the comments!"]],
-   "nguon_trang": [62]}
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, vì sao thành Cổ Loa được xây nhiều vòng theo hình xoáy trôn ốc, lại có sông, đầm bao quanh? Bình luận suy luận của cậu nhé!",
+     "Your challenge: why do you think Cổ Loa was built in spiral rings surrounded by water? Share your reasoning in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  }
  ],
  "cau_hoi": [
-  {"hoi": "Ai là người lập ra nước Âu Lạc?", "dap_an": ["Hùng Vương", "An Dương Vương (Thục Phán)", "Ngô Quyền", "Lý Bí"], "dung": 1, "trang": 61},
-  {"hoi": "Kinh đô của nước Âu Lạc đặt ở đâu?", "dap_an": ["Phong Châu", "Cổ Loa", "Mê Linh", "Hoa Lư"], "dung": 1, "trang": 61},
-  {"hoi": "Thành Cổ Loa được xây dựng theo hình gì?", "dap_an": ["Hình vuông", "Hình xoáy trôn ốc", "Hình tròn một vòng", "Hình ngôi sao"], "dung": 1, "trang": 62},
-  {"hoi": "Hiện vật nào được tìm thấy ở Cổ Loa?", "dap_an": ["Trống đồng Đông Sơn", "Lẫy nỏ và mũi tên đồng", "Kiếm sắt thời Lý", "Bình gốm hoa lam"], "dung": 1, "trang": 62}
+  {
+   "hoi": "Ai là người lập ra nước Âu Lạc?",
+   "dap_an": [
+    "Hùng Vương",
+    "An Dương Vương (Thục Phán)",
+    "Ngô Quyền",
+    "Lý Bí"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Kinh đô của nước Âu Lạc đặt ở đâu?",
+   "dap_an": [
+    "Phong Châu",
+    "Cổ Loa",
+    "Mê Linh",
+    "Hoa Lư"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Thành Cổ Loa được xây dựng theo hình gì?",
+   "dap_an": [
+    "Hình vuông",
+    "Hình xoáy trôn ốc",
+    "Hình tròn một vòng",
+    "Hình ngôi sao"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Hiện vật nào được tìm thấy ở Cổ Loa?",
+   "dap_an": [
+    "Trống đồng Đông Sơn",
+    "Lẫy nỏ và mũi tên đồng",
+    "Kiếm sắt thời Lý",
+    "Bình gốm hoa lam"
+   ],
+   "dung": 1,
+   "trang": 62
+  }
  ],
- "kiem_tra": {"viet": "Claude", "doi_chieu": "OCR SGK LSĐL 6 tr. 61–62 (mục 2, Hình 3, Hình 4). Không đưa truyền thuyết nỏ thần vì SGK bài này không nêu; câu hỏi cuối là câu hỏi suy luận mở. Sơ đồ vẽ lại giản lược theo Hình 3.", "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"}
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 61–62 (mục 2, Hình 3, Hình 4). Không đưa truyền thuyết nỏ thần vì SGK bài này không nêu; câu hỏi cuối là câu hỏi suy luận mở. Sơ đồ vẽ lại giản lược theo Hình 3.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
 }

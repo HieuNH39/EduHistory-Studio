@@ -1,0 +1,60 @@
+{
+ "ma": "L6-B18-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand before the majestic statue of Ngo Quyen, both wearing orange polo shirts. Han Han turns her head slightly toward Nhat Minh, gesturing with her hand as she speaks with natural lip movements, while Nhat Minh nods in agreement, also speaking. In the background, the national flags wave gently in the breeze against a clear blue sky. The camera performs a slow, steady push-in toward the students, capturing their engaging conversation and the serene historical atmosphere."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A fleet of wooden warships cuts through turbulent, deep blue waves. Hoằng Tháo stands firmly on the prow, his robes fluttering in the strong sea breeze as he gestures forward with a commanding arm. Blank, colorful flags snap and ripple vigorously in the wind. In the foreground, Nhật Minh turns his head slightly toward the camera, speaking with natural lip movements and a serious expression. The camera performs a slow, cinematic push-in toward the lead ship."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ngô Quyền stands firmly on the high riverbank, slowly raising his arm to point toward the Bạch Đằng river, his head turning slightly as he speaks with natural lip movements. Beside him, Hân Hân nods attentively, her expression engaged as she also speaks. In the background, the river water flows steadily, reeds sway in the gentle breeze, and distant marshy banks shimmer. The camera performs a slow, cinematic push-in toward Ngô Quyền, capturing the strategic gravity of the historical moment."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han crouch behind swaying reeds, their eyes tracking the river with intense focus. Han Han whispers to Nhat Minh, her lips moving naturally in sync with her speech, while Nhat Minh nods in agreement. On the river, small wooden boats glide upstream, followed by larger warships churning the water. Reeds sway gently in the breeze. The camera performs a slow, steady push-in toward the students, capturing their expressions of quiet anticipation."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Hoằng Tháo stands firmly on the deck of his large warship, his face wearing a smug, overconfident expression as he gestures forward with his sword to signal an advance. His lips move naturally as he shouts commands. Behind him, a fleet of massive wooden ships sails forward in a steady line into the river mouth. The river water ripples gently against the hulls, and a slow camera push-in emphasizes the imposing scale of the advancing fleet."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ngô Quyền stands firmly on the deck of his warship, gesturing forward with a determined arm movement as his cloak ripples in the wind. Beside him, Nhật Minh speaks with natural lip movements, pointing toward the river. The massive Nam Hán ship slowly drifts forward, colliding with the sharp wooden stakes, causing it to tilt and list heavily in the water. The river current flows steadily around the stakes while a slow camera push-in captures the dramatic naval tension."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, cinematic push-in toward the river. In the background, remnants of the Southern Han fleet drift silently toward the horizon, their tattered flags fluttering weakly in the morning breeze. Wisps of grey smoke rise and dissipate over the calm, flowing river water. In the foreground, Nhật Minh turns his head slightly to look at the retreating ships, his lips moving naturally as he speaks, while Hân Hân stands beside him, gazing thoughtfully at the sunrise."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "As the sun sets, casting a warm golden glow, Nhật Minh and Hân Hân stand proudly before the Ngô Quyền monument. Hân Hân turns her head slightly toward Nhật Minh, smiling as she speaks with natural lip movements, while Nhật Minh nods in agreement, gesturing toward the statue with a respectful hand motion. In the background, soft evening breezes gently sway the nearby trees. The camera performs a slow, cinematic push-in, focusing on their expressions of patriotic pride."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand before the majestic Ngo Quyen monument. Han Han smiles and gestures naturally with her hand toward the viewer, her lips moving as she speaks a welcoming invitation. Nhat Minh stands beside her, nodding slightly with a friendly expression. Behind them, soft sunlight filters through the trees, causing leaves to sway gently in the breeze. The camera performs a slow, smooth push-in toward the two students, maintaining the vibrant 2D animated style throughout."
+  }
+ ]
+}

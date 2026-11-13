@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B3-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gestures toward the steam engine with a curious smile, her lips moving naturally as she speaks, while Nhật Minh nods in agreement, turning his head slightly to look at the flywheel. The large brass flywheel rotates slowly and steadily. Soft, ambient light flickers across the metallic surfaces, and dust motes drift gently in the air. The camera performs a slow, smooth push-in toward the intricate mechanical details of the machine, maintaining a focused, educational atmosphere throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The large wooden water wheel rotates steadily, splashing water into the rushing river. Smoke drifts slowly from the factory chimneys against the sky. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the factory while gesturing naturally with their hands as they speak with synchronized lip movements. Workers in period clothing walk in and out of the brick building. The camera performs a slow, gentle push-in toward the factory entrance."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the wooden bridge, turning their heads slightly to look at each other while gesturing naturally as they speak with synchronized lip movements. The massive water wheel rotates steadily, splashing water that creates gentle, white foam in the river below. In the background, lush green leaves sway softly in the breeze. The camera performs a slow, smooth push-in toward the two students, capturing their engaged expressions against the rhythmic motion of the turning wheel."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "James Watt stands by the steam engine, his hand resting on the brass cylinder as he turns his head to look at Hân Hân. Hân Hân gestures toward the blueprints on the table, her lips moving naturally as she speaks. Wisps of white steam drift steadily from the machine’s valve, and the heavy flywheel rotates slowly. The camera performs a slow, gentle push-in toward the engine’s intricate mechanical parts, maintaining the 2D animated aesthetic throughout the scene."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the white marble statue. Sunlight streams through the high arched windows, with dust motes dancing gently in the golden light beams. Hân Hân and Nhật Minh stand respectfully beside the statue; they turn their heads slightly toward each other, sharing a soft, engaged smile. They gesture naturally toward the monument as they speak with fluid, realistic lip movements, maintaining a solemn and educational demeanor throughout the scene."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand beside the steam engine model, maintaining their positions. Nhat Minh turns his head slightly toward the camera, gestures with an open hand toward the model, and speaks with natural lip movements. Han Han smiles warmly, nodding gently. In the background, soft light shifts across the museum walls. The camera performs a slow, steady push-in toward the students, keeping the 2D animated illustration style consistent throughout the five-second duration."
+  }
+ ]
+}

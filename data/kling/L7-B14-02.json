@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B14-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân turns her head slightly to look at Nhật Minh while gesturing toward the river with her hand, her lips moving as she speaks. Nhật Minh nods in agreement, his gaze shifting from the water to Hân Hân. In the background, the Red River flows steadily, while gentle gusts of wind cause the nearby willow leaves to sway softly and ripple the students' polo shirts."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Mongol envoys stand stiffly, shifting their weight and adjusting their fur-lined robes while looking around warily. On the stone ramparts, soldiers in traditional armor turn their heads to watch the envoys, their spears swaying slightly. Above them, large flags flutter vigorously in a steady breeze. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the gate as they speak with synchronized lip movements. The camera performs a slow, cinematic push-in toward the main gate."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "King Trần Thái Tông stands firmly in ornate armor, slowly raising his sword to signal his troops as his cape ripples in the wind. Beside him, soldiers tighten their formation. In the distance, Mongol cavalry charges forward, kicking up thick clouds of dust that drift toward the foreground. Hân Hân stands in the corner, gesturing naturally with her hands while speaking with fluid lip movements. The camera performs a slow, dramatic push-in toward the King’s determined face."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Tran Thai Tong sits on the royal boat, leaning forward with a worried expression, gesturing slightly with his hands as he speaks. Opposite him, Tran Thu Do stands tall and rigid, his face set in a firm, resolute expression as he nods and speaks back. The river water gently ripples against the wooden hull, and banners on the boat flutter softly in the breeze. The camera performs a slow, steady push-in toward the two men."
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han crouch behind a weathered wooden wall, glancing cautiously toward the street. Han Han whispers with natural lip movements, gesturing toward the distance, while Nhat Minh nods in agreement. In the background, dust motes drift through the empty, sunlit street, and a Mongol horseman slowly trots past, looking confused. The camera performs a slow, subtle push-in toward the students, capturing their tense expressions as the surrounding banners flutter gently in the light breeze."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, cinematic push-in toward the valley. In the foreground, local militia members crouch behind rocky outcrops, gesturing silently with their hands to coordinate the ambush. Below, Mongol cavalrymen ride their horses at a steady trot along the winding path. Leaves on the trees sway gently in the mountain breeze, and dust rises slightly from the horses' hooves. Hân Hân stands to the side, turning her head slightly to speak with natural, expressive lip movements."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand by the Red River at sunset, looking directly at the camera. Han Han smiles and gestures with her hand in a welcoming motion, her lips moving naturally as she speaks to the audience. Nhat Minh stands beside her, nodding slightly with a gentle expression. In the background, the river water flows steadily, and soft evening breeze ripples their shirts. The camera performs a slow, smooth push-in toward the two students."
+  }
+ ]
+}

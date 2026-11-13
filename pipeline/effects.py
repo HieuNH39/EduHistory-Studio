@@ -119,6 +119,10 @@ def truc_thoi_gian(W, H, n, items, fps, times=None, title="TRỤC THỜI GIAN"):
     f_l = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-500-normal.ttf"), int((36 if not vertical else 27) * s))
     m = len(items); dur_s = n / fps
     if not times or len(times) != m: times = [0.4 + k * (dur_s - 1.5) / max(m, 1) for k in range(m)]
+    if not vertical:   # cỡ chữ mốc vừa một dòng trong mỗi ô (không ngắt giữa ngày – tháng – năm)
+        _d = ImageDraw.Draw(Image.new("RGB", (8, 8))); step0 = W * .9 / max(m, 1); sz = 50
+        while sz > 38 and max(_d.textlength(moc, font=f_d) for moc, _ in items) > step0 * .94:
+            sz -= 2; f_d = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(sz * s))
     for i in range(n):
         t = i / fps
         img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
@@ -134,9 +138,14 @@ def truc_thoi_gian(W, H, n, items, fps, times=None, title="TRỤC THỜI GIAN"):
                 cx = x0 + step * (k + .5); r = 18 * s * (0.6 + .4 * a)
                 d.ellipse([cx - r, y - r, cx + r, y + r], fill=(242, 107, 29), outline=(255, 236, 200), width=int(4 * s))
                 col = tuple(int(c * a + 16 * (1 - a)) for c in (255, 214, 140))
-                lines = _wrap(d, moc, f_d, step * .94); yy = y - 44 * s - len(lines) * 60 * s
+                if d.textlength(moc, font=f_d) <= step * .94: lines = [moc]
+                elif " – " in moc:   # ngắt ở dấu gạch nối gần giữa nhất, giữ nguyên cụm ngày/tháng
+                    parts = moc.split(" – "); best = min(range(1, len(parts)), key=lambda j: abs(len(" – ".join(parts[:j])) - len(moc) / 2))
+                    lines = [" – ".join(parts[:best]) + " –", " – ".join(parts[best:])]
+                else: lines = _wrap(d, moc, f_d, step * .94)
+                lh = f_d.size * 1.2; yy = y - 44 * s - len(lines) * lh
                 for ln in lines:
-                    d.text((cx - d.textlength(ln, font=f_d) / 2, yy), ln, font=f_d, fill=col); yy += 60 * s
+                    d.text((cx - d.textlength(ln, font=f_d) / 2, yy), ln, font=f_d, fill=col); yy += lh
                 yy = y + 40 * s; colb = tuple(int(c * a + 30 * (1 - a)) for c in (235, 238, 245))
                 for ln in _wrap(d, nd, f_l, step * .92):
                     d.text((cx - d.textlength(ln, font=f_l) / 2, yy), ln, font=f_l, fill=colb); yy += 48 * s
