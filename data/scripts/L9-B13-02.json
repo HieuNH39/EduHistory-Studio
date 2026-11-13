@@ -1,0 +1,408 @@
+{
+ "ma": "L9-B13-02",
+ "ten_tap": "Tổng tuyển cử và chính quyền của dân",
+ "ten_tap_en": "The General Election and a People's Government",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+  "trang": [
+   61,
+   62,
+   66
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "dai-bieu-quoc-hoi-khoa-i"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, ấm áp, tự hào; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 13, tr. 61, 62, 66.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Nhà Quốc hội ở Hà Nội ngày nay, nắng sớm, hàng cây xanh; Hân Hân cầm cuốn sổ tay ghi '6 – 1 – 1946'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 6 tháng 1 năm 1946, lần đầu tiên trong lịch sử, nhân dân Việt Nam cầm lá phiếu bầu ra Quốc hội của mình.",
+     "On 6 January 1946, for the first time in history, the Vietnamese people cast ballots to elect their own National Assembly."
+    ],
+    [
+     "Nhật Minh",
+     "Vì sao cuộc Tổng tuyển cử ấy quan trọng đến thế? Cùng tìm hiểu nhé!",
+     "Why did that general election matter so much? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "NHIỆM VỤ HÀNG ĐẦU",
+   "y": [
+    "Chính quyền cách mạng còn non trẻ",
+    "Lực lượng vũ trang mới thành lập",
+    "Nền độc lập bị đe doạ nghiêm trọng",
+    "→ Nhiệm vụ hàng đầu: xây dựng, củng cố chính quyền cách mạng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Cách mạng tháng Tám, chính quyền còn non trẻ, lực lượng vũ trang mới thành lập, nền độc lập bị đe doạ nghiêm trọng.",
+     "After the August Revolution, the government was young, the armed forces were new, and independence was gravely threatened."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, một trong những nhiệm vụ quan trọng hàng đầu là xây dựng và củng cố chính quyền cách mạng.",
+     "So one of the most urgent tasks was to build and strengthen the revolutionary government."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1946",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "LỜI KÊU GỌI ĐI BỎ PHIẾU",
+   "y": [
+    "5 – 1 – 1946: Chủ tịch Hồ Chí Minh kêu gọi quốc dân đi bỏ phiếu",
+    "“…ngày mai là một ngày đầu tiên trong lịch sử Việt Nam mà nhân dân ta bắt đầu hưởng dụng quyền dân chủ của mình…”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 5 tháng 1 năm 1946, Chủ tịch Hồ Chí Minh viết lời kêu gọi quốc dân đi bỏ phiếu.",
+     "On 5 January 1946, President Hồ Chí Minh wrote an appeal urging the nation to vote."
+    ],
+    [
+     "Nhật Minh",
+     "Người viết: ngày mai là một ngày đầu tiên trong lịch sử Việt Nam mà nhân dân ta bắt đầu hưởng dụng quyền dân chủ của mình.",
+     "He wrote that tomorrow would be the first day in Vietnam's history when our people began to enjoy their democratic rights."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: cử tri bỏ phiếu trong cuộc Tổng tuyển cử đầu tiên, ngày 6 – 1 – 1946",
+    "tim": "Tổng tuyển cử 6/1/1946 cử tri bỏ phiếu ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; chỉ ảnh cử tri, không cắt chân dung lãnh tụ; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Tổng tuyển cử (6 – 1 – 1946)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 6 tháng 1 năm 1946, cuộc Tổng tuyển cử đầu tiên của nước Việt Nam Dân chủ Cộng hoà diễn ra.",
+     "On 6 January 1946, the Democratic Republic of Vietnam held its first general election."
+    ],
+    [
+     "Nhật Minh",
+     "Hơn 300 đại biểu được bầu vào Quốc hội; Chủ tịch Hồ Chí Minh trúng cử với số phiếu cao nhất.",
+     "More than 300 deputies were elected to the National Assembly; President Hồ Chí Minh won the most votes."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc Tổng tuyển cử đầu tiên của nước Việt Nam Dân chủ Cộng hoà diễn ra ngày nào?",
+    "lua_chon": [
+     "2 – 9 – 1945",
+     "6 – 1 – 1946",
+     "9 – 11 – 1946"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Cuộc Tổng tuyển cử đầu tiên diễn ra ngày nào?",
+     "Pause! When was the first general election held?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngày 6 tháng 1 năm 1946!",
+     "The answer is B: 6 January 1946!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "QUỐC HỘI KHOÁ I",
+   "y": [
+    "3 – 1946: phiên họp đầu tiên của Quốc hội khoá I",
+    "Quyết định chính sách đối nội, đối ngoại",
+    "Lập Ban Dự thảo Hiến pháp, Chính phủ liên hiệp kháng chiến",
+    "Địa phương: bầu Hội đồng nhân dân, lập Uỷ ban hành chính các cấp"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1946, trong phiên họp đầu tiên, Quốc hội khoá I quyết định các chính sách đối nội, đối ngoại, thành lập Ban Dự thảo Hiến pháp và Chính phủ liên hiệp kháng chiến.",
+     "In March 1946, at its first session, the First National Assembly set domestic and foreign policy and formed a Constitution Drafting Committee and a coalition resistance government."
+    ],
+    [
+     "Hân Hân",
+     "Ở Bắc Bộ và Trung Bộ, các địa phương bầu Hội đồng nhân dân theo nguyên tắc phổ thông đầu phiếu và lập Uỷ ban hành chính các cấp.",
+     "In the North and Centre, localities elected People's Councils by universal suffrage and set up administrative committees at every level."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "HIẾN PHÁP ĐẦU TIÊN",
+   "y": [
+    "Ngày 9 – 11 – 1946: Quốc hội thông qua",
+    "Đoàn kết toàn dân, không phân biệt giống nòi, gái trai, giai cấp, tôn giáo",
+    "Bảo đảm các quyền tự do dân chủ",
+    "Thực hiện chính quyền mạnh mẽ và sáng suốt của nhân dân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 9 tháng 11 năm 1946, Quốc hội thông qua bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà.",
+     "On 9 November 1946, the Assembly adopted the first Constitution of the Democratic Republic of Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Hiến pháp nhấn mạnh: đoàn kết toàn dân, không phân biệt giống nòi, gái trai, giai cấp, tôn giáo; bảo đảm các quyền tự do dân chủ; thực hiện chính quyền mạnh mẽ và sáng suốt của nhân dân.",
+     "It stressed unity of all people regardless of race, sex, class or religion; guaranteed democratic freedoms; and a strong, wise people's government."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà được thông qua ngày",
+    "lua_chon": [
+     "6 – 1 – 1946",
+     "6 – 3 – 1946",
+     "9 – 11 – 1946"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hiến pháp đầu tiên được thông qua ngày nào?",
+     "Quick test! When was the first Constitution adopted?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: ngày 9 tháng 11 năm 1946!",
+     "The answer is C: 9 November 1946!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "SÁCH LƯỢC HOÀ HOÃN",
+   "y": [
+    "Tạm thời hoà hoãn, tránh xung đột với quân Trung Hoa Dân quốc",
+    "Nhường Việt Quốc, Việt Cách 70 ghế Quốc hội không qua bầu cử",
+    "Cung cấp một phần lương thực, cho lưu hành tiền Trung Quốc",
+    "Kiên quyết làm thất bại âm mưu chia rẽ, phá hoại"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để tránh đối đầu với nhiều kẻ thù cùng lúc, Chính phủ tạm thời hoà hoãn với quân Trung Hoa Dân quốc: nhường cho Việt Quốc, Việt Cách 70 ghế trong Quốc hội không qua bầu cử,",
+     "To avoid facing many enemies at once, the government made a temporary truce with the Chinese Nationalists: it gave the Việt Quốc and Việt Cách 70 Assembly seats without election,"
+    ],
+    [
+     "Hân Hân",
+     "và nhân nhượng một số quyền lợi kinh tế như cung cấp một phần lương thực, cho lưu hành tiền Trung Quốc; nhưng kiên quyết làm thất bại âm mưu chia rẽ, phá hoại của chúng.",
+     "and granted some economic concessions, such as supplying food and letting Chinese money circulate, while firmly defeating their plots to divide and sabotage."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · XÂY DỰNG CHÍNH QUYỀN",
+   "moc": [
+    [
+     "5 – 1 – 1946",
+     "Lời kêu gọi đi bỏ phiếu"
+    ],
+    [
+     "6 – 1 – 1946",
+     "Tổng tuyển cử"
+    ],
+    [
+     "3 – 1946",
+     "Kì họp thứ nhất Quốc hội khoá I"
+    ],
+    [
+     "9 – 11 – 1946",
+     "Hiến pháp đầu tiên"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 6 tháng 1 năm 1946, Tổng tuyển cử. Tháng 3 năm 1946, Quốc hội khoá I họp phiên đầu tiên.",
+     "Recap! 6 January 1946: the general election. March 1946: the First National Assembly's first session."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 9 tháng 11 năm 1946, Hiến pháp đầu tiên được thông qua.",
+     "9 November 1946: the first Constitution is adopted."
+    ]
+   ],
+   "nguon_trang": [
+    61,
+    62
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước Nhà Quốc hội, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chủ tịch Hồ Chí Minh nói các cơ quan Chính phủ đều là “công bộc của dân”. Thử thách cho cậu: vì sao Nhà nước Việt Nam Dân chủ Cộng hoà là Nhà nước của dân, do dân, vì dân? Bình luận nhé!",
+     "President Hồ Chí Minh called government bodies 'servants of the people'. Your challenge: why was the Democratic Republic of Vietnam a state of, by and for the people? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    66
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong cuộc Tổng tuyển cử ngày 6 – 1 – 1946, bao nhiêu đại biểu được bầu vào Quốc hội?",
+   "dap_an": [
+    "Hơn 100",
+    "Hơn 300",
+    "Hơn 500",
+    "70"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Quốc hội khoá I họp phiên đầu tiên vào thời gian nào?",
+   "dap_an": [
+    "1 – 1946",
+    "3 – 1946",
+    "9 – 1946",
+    "11 – 1946"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Để tránh đối đầu với nhiều kẻ thù cùng lúc, Chính phủ tạm thời hoà hoãn với",
+   "dap_an": [
+    "Quân Anh",
+    "Quân Trung Hoa Dân quốc",
+    "Quân Nhật",
+    "Quân Mỹ"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Nguyên tắc nào được Hiến pháp năm 1946 nhấn mạnh?",
+   "dap_an": [
+    "Đoàn kết toàn dân; bảo đảm các quyền tự do dân chủ",
+    "Ưu tiên một giai cấp",
+    "Chế độ quân chủ lập hiến",
+    "Chế độ hai đảng"
+   ],
+   "dung": 0,
+   "trang": 62
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 61 (khó khăn; lời kêu gọi 5 – 1 – 1946 – trích ngắn, diễn đạt lại; Tổng tuyển cử 6 – 1 – 1946, hơn 300 đại biểu), tr. 62 (Quốc hội khoá I 3 – 1946; hoà hoãn với quân Trung Hoa Dân quốc, 70 ghế; Hiến pháp 9 – 11 – 1946; bầu cử địa phương; Tư liệu 1 'công bộc của dân'), tr. 66 (câu hỏi 'Nhà nước của dân, do dân, vì dân'). Kiến thức chốt của danh mục khớp SGK; SGK không nói Hiến pháp được 'thông qua năm 1946' trong phiên họp đầu tiên – lời dẫn tách đúng hai mốc 3 – 1946 và 9 – 11 – 1946. Không dựng cảnh bỏ phiếu bằng AI (mô phỏng danh mục đề xuất) – thay bằng ảnh tư liệu cử tri 1946 cần xin phép; không dùng Hình 13.1 (có chân dung lãnh tụ), lãnh tụ chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

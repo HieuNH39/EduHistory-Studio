@@ -1,0 +1,387 @@
+{
+ "ma": "L9-B3-02",
+ "ten_tap": "Nhật Bản và tham vọng bá chủ",
+ "ten_tap_en": "Japan's Ambition to Dominate",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+  "trang": [
+   14,
+   15,
+   16
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ta-na-ca",
+  "quan-doi-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, dồn dập, trầm xuống ở đoạn kết; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 3, tr. 14–16.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, đứng bên quả địa cầu lớn, xoay về phía châu Á – Thái Bình Dương; trên bàn là cuốn atlas mở",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1927, một bản Tấu trình dâng lên Nhật hoàng đã vạch ra kế hoạch xâm lược và thống trị thế giới.",
+     "In 1927, a memorial presented to the Japanese Emperor set out a plan to invade and dominate the world."
+    ],
+    [
+     "Hân Hân",
+     "Tham vọng ấy đã biến châu Á – Thái Bình Dương thành chiến trường thế nào? Cùng xem nhé!",
+     "How did that ambition turn Asia and the Pacific into a battlefield? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1927",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CON ĐƯỜNG QUÂN PHIỆT",
+   "y": [
+    "Để thoát khỏi đại suy thoái: quân sự hoá bộ máy nhà nước",
+    "Gây chiến tranh xâm lược, bành trướng ra bên ngoài",
+    "1927: Thủ tướng Ta-na-ca đệ trình bản Tấu trình lên Nhật hoàng",
+    "Kế hoạch xâm lược và thống trị thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để thoát khỏi đại suy thoái, Chính phủ Nhật Bản tăng cường quân sự hoá bộ máy nhà nước, gây chiến tranh xâm lược, bành trướng ra bên ngoài.",
+     "To escape the Depression, Japan's government militarised the state, waged wars of aggression and expanded abroad."
+    ],
+    [
+     "Hân Hân",
+     "Ngay từ năm 1927, Thủ tướng Ta-na-ca đã đệ trình lên Nhật hoàng bản Tấu trình, đề ra kế hoạch xâm lược và thống trị thế giới.",
+     "As early as 1927, Prime Minister Tanaka had presented a memorial to the Emperor laying out a plan to invade and rule the world."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quân Nhật tiến vào chiếm đóng vùng Đông Bắc Trung Quốc, năm 1931 (như Hình 3.1 SGK, tr. 14)",
+    "tim": "Japanese troops enter Manchuria 1931 Mukden photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: quân Nhật vào vùng Đông Bắc Trung Quốc (1931)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1931, Nhật Bản xâm chiếm vùng Đông Bắc Trung Quốc.",
+     "In September 1931, Japan seized north-eastern China."
+    ],
+    [
+     "Nhật Minh",
+     "Sự kiện này đánh dấu việc hình thành “lò lửa chiến tranh” ở châu Á – Thái Bình Dương.",
+     "This marked the birth of a 'hotbed of war' in Asia and the Pacific."
+    ]
+   ],
+   "nguon_trang": [
+    14,
+    15
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sự kiện nào đánh dấu việc hình thành “lò lửa chiến tranh” ở châu Á – Thái Bình Dương?",
+    "lua_chon": [
+     "Nhật Bản xâm chiếm vùng Đông Bắc Trung Quốc (9 – 1931)",
+     "Quân Nhật kéo vào Đông Dương (9 – 1940)",
+     "Nhật Bản tấn công Trân Châu cảng (12 – 1941)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sự kiện nào đánh dấu “lò lửa chiến tranh” ở châu Á – Thái Bình Dương hình thành?",
+     "Pause! Which event marked the birth of the 'hotbed of war' in Asia and the Pacific?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Nhật Bản xâm chiếm vùng Đông Bắc Trung Quốc, tháng 9 năm 1931!",
+     "The answer is A: Japan's seizure of north-eastern China, September 1931!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "BÀNH TRƯỚNG",
+   "y": [
+    "7 – 1937: mở rộng chiến tranh, nhằm thôn tính toàn bộ Trung Quốc",
+    "Chiến tranh thế giới thứ hai bắt đầu: Nhật Bản ráo riết chuẩn bị chiến tranh",
+    "9 – 1940: quân Nhật kéo vào Đông Dương"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1937, Nhật Bản mở rộng chiến tranh xâm lược, nhằm thôn tính toàn bộ Trung Quốc.",
+     "In July 1937, Japan widened its war of aggression, aiming to swallow all of China."
+    ],
+    [
+     "Hân Hân",
+     "Khi Chiến tranh thế giới thứ hai bắt đầu, Nhật Bản ráo riết chuẩn bị chiến tranh. Tháng 9 năm 1940, quân Nhật kéo vào Đông Dương.",
+     "When the Second World War began, Japan prepared feverishly for war. In September 1940, Japanese troops marched into Indochina."
+    ]
+   ],
+   "nguon_trang": [
+    15,
+    16
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1941",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: cuộc tấn công của Nhật Bản vào hạm đội Mỹ ở Trân Châu cảng, tháng 12 – 1941 (ảnh lưu trữ Hải quân Mỹ)",
+    "tim": "Pearl Harbor attack December 7 1941 US Navy photograph public domain",
+    "yeu_cau": "ảnh lưu trữ của Chính phủ Mỹ (phạm vi công cộng), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Trân Châu cảng (12 – 1941)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1941, Nhật Bản bất ngờ tấn công hạm đội Mỹ ở Trân Châu cảng, quần đảo Ha-oai.",
+     "In December 1941, Japan made a surprise attack on the US fleet at Pearl Harbor, in the Hawaiian Islands."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Nhật còn xâm lược các nước Đông Nam Á khác và tiến đánh nhiều đảo thuộc châu Á – Thái Bình Dương.",
+     "Japanese forces also invaded other Southeast Asian countries and attacked many islands across Asia and the Pacific."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tháng 12 – 1941, Nhật Bản bất ngờ tấn công hạm đội Mỹ ở đâu?",
+    "lua_chon": [
+     "Trân Châu cảng",
+     "Tô-ki-ô",
+     "Ô-xa-ca"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Tháng 12 năm 1941, Nhật Bản bất ngờ tấn công hạm đội Mỹ ở đâu?",
+     "Quick test! In December 1941, where did Japan launch its surprise attack on the US fleet?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Trân Châu cảng, quần đảo Ha-oai!",
+     "The answer is A: Pearl Harbor, Hawaii!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾT CỤC",
+   "y": [
+    "Ngày 15 – 8 – 1945",
+    "Nhật Bản chấp nhận đầu hàng không điều kiện",
+    "trước quân Đồng minh"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy nhiên, tham vọng bá chủ đã thất bại.",
+     "But the ambition to dominate failed."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 15 tháng 8 năm 1945, Nhật Bản phải chấp nhận đầu hàng không điều kiện trước quân Đồng minh.",
+     "On 15 August 1945, Japan had to accept unconditional surrender to the Allies."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NHẬT BẢN GÂY CHIẾN",
+   "moc": [
+    [
+     "1927",
+     "Tấu trình của Ta-na-ca"
+    ],
+    [
+     "9 – 1931",
+     "Chiếm Đông Bắc Trung Quốc"
+    ],
+    [
+     "7 – 1937",
+     "Mở rộng chiến tranh ở Trung Quốc"
+    ],
+    [
+     "9 – 1940",
+     "Kéo vào Đông Dương"
+    ],
+    [
+     "12 – 1941",
+     "Tấn công Trân Châu cảng"
+    ],
+    [
+     "15 – 8 – 1945",
+     "Đầu hàng không điều kiện"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1927, Tấu trình của Ta-na-ca. Tháng 9 năm 1931, chiếm Đông Bắc Trung Quốc. Tháng 7 năm 1937, mở rộng chiến tranh ở Trung Quốc.",
+     "Recap! 1927: Tanaka's memorial. September 1931: north-eastern China seized. July 1937: the war in China widened."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1940, vào Đông Dương. Tháng 12 năm 1941, tấn công Trân Châu cảng. Và ngày 15 tháng 8 năm 1945, đầu hàng không điều kiện.",
+     "September 1940: into Indochina. December 1941: Pearl Harbor. And 15 August 1945: unconditional surrender."
+    ]
+   ],
+   "nguon_trang": [
+    15,
+    16
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên quả địa cầu trong thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: sự kiện quân Nhật kéo vào Đông Dương năm 1940 ảnh hưởng thế nào đến Việt Nam? Bình luận nhé!",
+     "Your challenge: how did Japan's march into Indochina in 1940 affect Vietnam? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1927, ai đệ trình lên Nhật hoàng bản Tấu trình đề ra kế hoạch xâm lược và thống trị thế giới?",
+   "dap_an": [
+    "Thủ tướng Ta-na-ca",
+    "Thiên hoàng",
+    "Ph. Ru-dơ-ven",
+    "Hít-le"
+   ],
+   "dung": 0,
+   "trang": 15
+  },
+  {
+   "hoi": "Tháng 9 – 1931, Nhật Bản xâm chiếm",
+   "dap_an": [
+    "Đông Dương",
+    "Vùng Đông Bắc Trung Quốc",
+    "Quần đảo Ha-oai",
+    "In-đô-nê-xi-a"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Quân Nhật kéo vào Đông Dương vào thời gian nào?",
+   "dap_an": [
+    "9 – 1931",
+    "7 – 1937",
+    "9 – 1940",
+    "12 – 1941"
+   ],
+   "dung": 2,
+   "trang": 15
+  },
+  {
+   "hoi": "Nhật Bản chấp nhận đầu hàng không điều kiện trước quân Đồng minh vào ngày",
+   "dap_an": [
+    "2 – 9 – 1945",
+    "15 – 8 – 1945",
+    "9 – 5 – 1945",
+    "6 – 8 – 1945"
+   ],
+   "dung": 1,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 15 (mục 1b: Tấu trình Ta-na-ca 1927, 9 – 1931, 9 – 1940, 12 – 1941, 15 – 8 – 1945), tr. 16 (7 – 1937 Nhật mở rộng chiến tranh nhằm thôn tính toàn bộ Trung Quốc), Hình 3.1 (tr. 14, chú thích đọc từ ảnh trang). Ảnh Trân Châu cảng không có trong SGK – chỉ là ảnh minh hoạ lưu trữ cho sự kiện SGK nêu. Đã chỉnh kiến thức chốt: SGK ghi Nhật Bản 'xâm lược các nước Đông Nam Á khác, tiến đánh nhiều đảo thuộc châu Á – Thái Bình Dương' (không nói 'mở rộng chiến tranh ra Đông Nam Á' bằng trận Trân Châu cảng). SGK chỉ ghi 'Nhật hoàng' nên không nêu tên Hi-rô-hi-tô. Không có lược đồ trong SGK cho mục này nên không vẽ bản đồ (mô phỏng danh mục đề xuất) – thay bằng trục thời gian.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

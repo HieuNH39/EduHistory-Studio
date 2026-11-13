@@ -1,0 +1,346 @@
+{
+ "ma": "L9-B4-01",
+ "ten_tap": "Tại sao thế giới lại bùng nổ chiến tranh?",
+ "ten_tap_en": "Why Did the World Go to War Again?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 4. Chiến tranh thế giới thứ hai (1939 – 1945)",
+  "trang": [
+   18,
+   19
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "gioi-cam-quyen-cac-nuoc-phat-xit-duc-i-ta-li-a-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, căng dần, dừng lại nặng nề ở mốc 1939; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 4, tr. 18–19.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học; Hân Hân đang vẽ sơ đồ tư duy trên bảng trắng với chữ 'VÌ SAO?' ở giữa, các nhánh còn trống; Nhật Minh cầm SGK Lịch sử 9",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh thế giới thứ nhất kết thúc chưa lâu, thế giới lại bùng nổ một cuộc chiến tranh thế giới mới.",
+     "Not long after the First World War ended, a new world war broke out."
+    ],
+    [
+     "Hân Hân",
+     "Vì sao lại như vậy? Cùng hoàn thành sơ đồ tư duy này nhé!",
+     "Why did it happen? Let's complete this mind map together!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1918",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÁNH 1: MÂU THUẪN",
+   "y": [
+    "Mâu thuẫn về thị trường và thuộc địa giữa các nước đế quốc",
+    "Đại suy thoái 1929 – 1933 làm sâu sắc thêm mâu thuẫn",
+    "→ Hình thành chủ nghĩa phát xít, quân phiệt ở Đức và Nhật Bản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Chiến tranh thế giới thứ nhất, mâu thuẫn về thị trường và thuộc địa tiếp tục nảy sinh giữa các nước đế quốc.",
+     "After the First World War, conflicts over markets and colonies kept arising among the imperialist powers."
+    ],
+    [
+     "Hân Hân",
+     "Đặc biệt, đại suy thoái 1929 – 1933 làm sâu sắc thêm những mâu thuẫn ấy, dẫn tới sự hình thành chủ nghĩa phát xít và quân phiệt ở Đức và Nhật Bản.",
+     "In particular, the 1929–1933 Depression deepened them, leading to fascism and militarism in Germany and Japan."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÁNH 2: BA “LÒ LỬA”",
+   "y": [
+    "Đức: đưa Hít-le lên làm Thủ tướng (1 – 1933)",
+    "I-ta-li-a: xâm chiếm thuộc địa ở châu Phi, Địa Trung Hải",
+    "Nhật Bản: xâm chiếm Đông Bắc Trung Quốc (9 – 1931)",
+    "Đức, Nhật Bản cùng I-ta-li-a: thủ phạm gây ra chiến tranh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhớ lại nhé: ở Đức, Hít-le được đưa lên làm Thủ tướng tháng 1 năm 1933; I-ta-li-a xâm chiếm thuộc địa ở châu Phi và Địa Trung Hải;",
+     "Remember: in Germany, Hitler was made Chancellor in January 1933; Italy seized colonies in Africa and the Mediterranean;"
+    ],
+    [
+     "Nhật Minh",
+     "còn Nhật Bản xâm chiếm vùng Đông Bắc Trung Quốc từ tháng 9 năm 1931.",
+     "and Japan seized north-eastern China in September 1931."
+    ],
+    [
+     "Hân Hân",
+     "Đức, Nhật Bản cùng với I-ta-li-a chính là thủ phạm gây ra chiến tranh.",
+     "Germany and Japan, together with Italy, were the culprits behind the war."
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    15,
+    18
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thủ phạm gây ra Chiến tranh thế giới thứ hai là",
+    "lua_chon": [
+     "Anh, Pháp, Mỹ",
+     "Đức, I-ta-li-a, Nhật Bản",
+     "Liên Xô"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Theo SGK, ai là thủ phạm gây ra Chiến tranh thế giới thứ hai?",
+     "Pause! According to the textbook, who were the culprits behind the Second World War?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Đức, I-ta-li-a và Nhật Bản!",
+     "The answer is B: Germany, Italy and Japan!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÁNH 3: HAI KHỐI ĐẾ QUỐC",
+   "y": [
+    "Khối tư bản dân chủ: Anh, Pháp, Mỹ",
+    "Khối phát xít: Đức, I-ta-li-a, Nhật Bản",
+    "Cả hai khối đều có chung mâu thuẫn với Liên Xô"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trên thế giới hình thành hai khối đế quốc đối địch: khối tư bản dân chủ gồm Anh, Pháp, Mỹ và khối phát xít gồm Đức, I-ta-li-a, Nhật Bản.",
+     "Two hostile imperialist blocs formed: the democratic-capitalist bloc of Britain, France and the US, and the fascist bloc of Germany, Italy and Japan."
+    ],
+    [
+     "Hân Hân",
+     "Thế nhưng, cả hai khối này lại cùng có chung mâu thuẫn với Liên Xô.",
+     "Yet both blocs shared a conflict with the Soviet Union."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÁNH 4: NHƯỢNG BỘ",
+   "y": [
+    "Liên Xô: coi phát xít là kẻ thù nguy hiểm nhất → liên kết với các nước tư bản chống phát xít",
+    "Anh, Pháp, Mỹ: lo sợ phát xít bành trướng nhưng thù ghét chủ nghĩa cộng sản",
+    "→ Nhượng bộ phát xít, hòng đẩy Đức chống Liên Xô"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Liên Xô coi chủ nghĩa phát xít là kẻ thù nguy hiểm nhất, nên chủ trương liên kết với các nước tư bản để chống phát xít và nguy cơ chiến tranh.",
+     "The Soviet Union saw fascism as the most dangerous enemy, so it sought to join with the capitalist countries against fascism and the threat of war."
+    ],
+    [
+     "Nhật Minh",
+     "Còn chính phủ Anh, Pháp, Mỹ một mặt lo sợ phát xít bành trướng, mặt khác lại thù ghét chủ nghĩa cộng sản.",
+     "Britain, France and the US, however, feared fascist expansion but also hated communism."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, giới cầm quyền các nước này đã nhượng bộ phát xít, hòng đẩy Đức chống Liên Xô.",
+     "So their ruling circles appeased the fascists, hoping to push Germany against the Soviet Union."
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao giới cầm quyền Anh, Pháp, Mỹ nhượng bộ phát xít?",
+    "lua_chon": [
+     "Hòng đẩy Đức chống Liên Xô",
+     "Muốn liên minh lâu dài với Đức",
+     "Vì đã thua trong chiến tranh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao giới cầm quyền Anh, Pháp, Mỹ nhượng bộ phát xít?",
+     "Quick test! Why did the rulers of Britain, France and the US appease the fascists?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: hòng đẩy Đức chống Liên Xô!",
+     "The answer is A: hoping to push Germany against the Soviet Union!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1939",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quân Đức tấn công Ba Lan, tháng 9 – 1939 (như Hình 4.1 SGK, tr. 18)",
+    "tim": "German invasion of Poland September 1939 photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn; không dùng ảnh/biểu tượng tuyên truyền phát xít"
+   },
+   "hinh": "Ảnh tư liệu: quân Đức tấn công Ba Lan (9 – 1939)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 1 tháng 9 năm 1939, quân đội Đức tấn công Ba Lan. Ngày 3 tháng 9, Anh, Pháp tuyên chiến với Đức.",
+     "On 1 September 1939, the German army attacked Poland. On 3 September, Britain and France declared war on Germany."
+    ],
+    [
+     "Hân Hân",
+     "Chiến tranh thế giới thứ hai bắt đầu.",
+     "The Second World War had begun."
+    ]
+   ],
+   "nguon_trang": [
+    18,
+    19
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân đứng cạnh sơ đồ tư duy đã hoàn chỉnh trên bảng trắng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sơ đồ đã đủ bốn nhánh! Thử thách cho cậu: theo cậu, nhánh nào là nguyên nhân sâu xa nhất? Bình luận nhé!",
+     "Our mind map has all four branches! Your challenge: which branch do you think was the deepest cause? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    18
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc đại suy thoái nào đã làm sâu sắc thêm những mâu thuẫn của chủ nghĩa tư bản trước Chiến tranh thế giới thứ hai?",
+   "dap_an": [
+    "1918 – 1923",
+    "1929 – 1933",
+    "1924 – 1929",
+    "1939 – 1945"
+   ],
+   "dung": 1,
+   "trang": 18
+  },
+  {
+   "hoi": "Khối các nước tư bản dân chủ trước Chiến tranh thế giới thứ hai gồm",
+   "dap_an": [
+    "Đức, I-ta-li-a, Nhật Bản",
+    "Anh, Pháp, Mỹ",
+    "Liên Xô, Mỹ, Anh",
+    "Pháp, Đức, Nhật Bản"
+   ],
+   "dung": 1,
+   "trang": 18
+  },
+  {
+   "hoi": "Liên Xô coi đâu là kẻ thù nguy hiểm nhất?",
+   "dap_an": [
+    "Chủ nghĩa phát xít",
+    "Nước Mỹ",
+    "Nước Anh",
+    "Phong trào giải phóng dân tộc"
+   ],
+   "dung": 0,
+   "trang": 18
+  },
+  {
+   "hoi": "Chiến tranh thế giới thứ hai bắt đầu khi",
+   "dap_an": [
+    "Đức tấn công Liên Xô (22 – 6 – 1941)",
+    "Đức tấn công Ba Lan, Anh và Pháp tuyên chiến với Đức (9 – 1939)",
+    "Nhật tấn công Trân Châu cảng (12 – 1941)",
+    "Hít-le làm Thủ tướng (1 – 1933)"
+   ],
+   "dung": 1,
+   "trang": 19
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 18 (mục 1: nguyên nhân; Hình 4.1) và tr. 19 (1 – 9 – 1939, 3 – 9 – 1939). Phần 'ba lò lửa' nhắc lại kiến thức đã học: tr. 12 (Đức 1 – 1933, I-ta-li-a) và tr. 15 (Nhật Bản 9 – 1931). Kiến thức chốt của danh mục khớp SGK. Sơ đồ tư duy (mô phỏng danh mục đề xuất) dựng bằng thẻ ghi nhớ nối tiếp; diễn biến chiến tranh để dành cho L9-B4-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

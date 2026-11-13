@@ -1,0 +1,351 @@
+{
+ "ma": "L9-CD1-03",
+ "ten_tap": "Kỷ nguyên số: Đô thị hóa hậu công nghiệp",
+ "ten_tap_en": "The Digital Age: Post-industrial Urbanisation",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 1. Đô thị: Lịch sử và hiện tại (2)",
+  "trang": [
+   223,
+   224
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "chuyen-gia-kinh-te-tri-thuc"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, tươi sáng, nhịp điện tử nhẹ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh đô thị là ảnh thật có giấy phép; sa bàn thành phố thông minh là bối cảnh hiện tại. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 1, tr. 223–224.",
+ "chinh_sach_hinh": "Nội dung hiện tại: cảnh dẫn chuyện của Minh – Hân dựng hình minh hoạ; không vẽ người thật cụ thể; ảnh đô thị dùng ảnh thật có giấy phép, ghi nguồn; số liệu trình bày bằng thẻ chữ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng trưng bày STEM của trường, đứng trước sa bàn mô hình 'thành phố thông minh' có cây xanh trên mái nhà, xe buýt điện và đèn LED kết nối; Hân Hân cầm máy tính bảng điều khiển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XX, internet và nền kinh tế tri thức ra đời, làm thay đổi cả cách đô thị được tổ chức.",
+     "From the late 20th century, the internet and the knowledge economy changed even the way cities are organised."
+    ],
+    [
+     "Hân Hân",
+     "Đô thị thời hậu công nghiệp khác thời “khói bụi” ra sao? Cùng khám phá nhé!",
+     "How do post-industrial cities differ from the 'age of smoke'? Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "XÃ HỘI HẬU CÔNG NGHIỆP",
+   "y": [
+    "Bắt đầu từ cuối thế kỉ XX, chủ yếu ở các nước phát triển",
+    "Internet và nền kinh tế tri thức ra đời",
+    "Thay đổi cơ cấu sản xuất và phương thức tổ chức đô thị"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xã hội hậu công nghiệp bắt đầu từ cuối thế kỉ XX, chủ yếu ở các nước phát triển. Internet và kinh tế tri thức làm thay đổi cơ cấu sản xuất và cách tổ chức đô thị.",
+     "Post-industrial society began in the late 20th century, mainly in developed countries. The internet and the knowledge economy changed production and how cities are organised."
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI NHÓM NƯỚC",
+   "y": [
+    "Nước phát triển: đô thị hoá ổn định, tỉ lệ cao, tăng chậm; hạ tầng hiện đại, đồng bộ",
+    "Nước đang phát triển: đô thị hoá nhanh, nhiều siêu đô thị",
+    "Năm 2024: 33 siêu đô thị, 27 ở các nước đang phát triển"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở các nước phát triển, đô thị hoá đã ổn định: tỉ lệ dân thành thị cao và tăng chậm, hạ tầng hiện đại, đồng bộ.",
+     "In developed countries, urbanisation has levelled off: urban shares are high and rise slowly, with modern, integrated infrastructure."
+    ],
+    [
+     "Hân Hân",
+     "Ở các nước đang phát triển, đô thị hoá diễn ra nhanh, siêu đô thị ngày càng nhiều. Năm 2024, thế giới có 33 siêu đô thị, trong đó 27 ở các nước đang phát triển.",
+     "In developing countries it is fast, with ever more megacities. In 2024 the world had 33 megacities, 27 of them in developing countries."
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TỈ LỆ DÂN THÀNH THỊ (%)",
+   "moc": [
+    [
+     "1980",
+     "Phát triển 70,3 · Đang phát triển 29,4"
+    ],
+    [
+     "2000",
+     "Phát triển 74,2 · Đang phát triển 40,1"
+    ],
+    [
+     "2024",
+     "Phát triển 80,0 · Đang phát triển 54,0"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bảng 2 trong SGK: tỉ lệ dân thành thị ở nhóm nước phát triển tăng từ 70,3% năm 1980 lên 80% năm 2024.",
+     "Table 2 in the textbook: the urban share in developed countries rose from 70.3% in 1980 to 80% in 2024."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở nhóm nước đang phát triển, tăng nhanh hơn nhiều: từ 29,4% lên 54%.",
+     "In developing countries it rose much faster: from 29.4% to 54%."
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 2024, bao nhiêu siêu đô thị nằm ở các nước đang phát triển?",
+    "lua_chon": [
+     "6",
+     "27",
+     "33"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 2024, có bao nhiêu siêu đô thị ở các nước đang phát triển?",
+     "Pause! In 2024, how many megacities were in developing countries?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 27 trên tổng số 33 siêu đô thị!",
+     "The answer is B: 27 of the 33 megacities!"
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "VÙNG ĐÔ THỊ, DẢI SIÊU ĐÔ THỊ",
+   "y": [
+    "Vùng đô thị: các thành phố, thị trấn, vùng ngoại ô",
+    "Dải siêu đô thị: các vùng hợp nhất thành khu vực gần như liên tục",
+    "Vùng đô thị Tô-ky-ô: gần 30% dân số Nhật Bản (2024)",
+    "Hành lang Đông Bắc Hoa Kỳ: từ Bô-xtơn tới Oa-sinh-tơn, dài hàng trăm ki-lô-mét"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Quy mô đô thị mở rộng thành vùng đô thị và dải siêu đô thị, khi các thành phố và vùng ngoại ô hợp nhất thành một khu vực gần như liên tục.",
+     "Cities expanded into metropolitan areas and megalopolises, as cities and suburbs merged into almost continuous urban zones."
+    ],
+    [
+     "Nhật Minh",
+     "Vùng đô thị Tô-ky-ô chiếm gần 30% dân số Nhật Bản; dải siêu đô thị Hành lang Đông Bắc của Hoa Kỳ, từ Bô-xtơn tới Oa-sinh-tơn, dài hàng trăm ki-lô-mét.",
+     "Greater Tokyo holds nearly 30% of Japan's people; the US Northeast Corridor megalopolis, from Boston to Washington, stretches hundreds of kilometres."
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: một góc thành phố Tô-ky-ô (Nhật Bản) năm 2024 và một góc thành phố Cai-rô (Ai Cập) năm 2024 (như Hình 3, Hình 4 SGK, tr. 224)",
+    "tim": "Tokyo skyline 2024 photograph; Cairo city 2024 photograph",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tô-ky-ô và Cai-rô (2024)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là Tô-ky-ô và Cai-rô ngày nay. Kinh tế đô thị tập trung vào công nghiệp hiện đại và kinh tế tri thức: dùng công nghệ thông tin, tự động hoá để tăng năng suất.",
+     "Here are Tokyo and Cairo today. Urban economies focus on modern industry and the knowledge economy, using IT and automation to raise productivity."
+    ],
+    [
+     "Hân Hân",
+     "Lao động tập trung vào dịch vụ, với nhiều dịch vụ mới như phân tích dữ liệu, truyền thông số.",
+     "Jobs are concentrated in services, with new ones such as data analysis and digital media."
+    ]
+   ],
+   "nguon_trang": [
+    223,
+    224
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐÔ THỊ XANH, ĐÔ THỊ THÔNG MINH",
+   "y": [
+    "Phát triển không gian xanh",
+    "Thành phố không giấy",
+    "Tăng cường kết nối",
+    "Chuyển đổi số"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đô thị ngày nay phát triển theo xu hướng đô thị xanh, đô thị thông minh: không gian xanh, thành phố không giấy, tăng cường kết nối và chuyển đổi số.",
+     "Today's cities head towards being green and smart: green spaces, paperless cities, better connectivity and digital transformation."
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đô thị thời kì hậu công nghiệp phát triển theo xu hướng nào?",
+    "lua_chon": [
+     "Đô thị xanh, đô thị thông minh",
+     "Đô thị khói bụi, tự phát",
+     "Thu hẹp, giảm dân"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Đô thị thời hậu công nghiệp phát triển theo xu hướng nào?",
+     "Quick test! Which way are post-industrial cities heading?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: đô thị xanh, đô thị thông minh!",
+     "The answer is A: green, smart cities!"
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên sa bàn thành phố thông minh, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: nêu hai điểm khác nhau giữa đô thị hoá thời kì công nghiệp và hậu công nghiệp. Bình luận nhé!",
+     "Your challenge: name two differences between industrial and post-industrial urbanisation. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Xã hội hậu công nghiệp bắt đầu từ khi nào?",
+   "dap_an": [
+    "Nửa cuối thế kỉ XVIII",
+    "Cuối thế kỉ XIX",
+    "Cuối thế kỉ XX",
+    "Năm 2024"
+   ],
+   "dung": 2,
+   "trang": 223
+  },
+  {
+   "hoi": "Năm 2024, thế giới có bao nhiêu siêu đô thị?",
+   "dap_an": [
+    "18",
+    "27",
+    "33",
+    "54"
+   ],
+   "dung": 2,
+   "trang": 223
+  },
+  {
+   "hoi": "Năm 2024, tỉ lệ dân thành thị ở nhóm nước đang phát triển là",
+   "dap_an": [
+    "29,4%",
+    "40,1%",
+    "54,0%",
+    "80,0%"
+   ],
+   "dung": 2,
+   "trang": 223
+  },
+  {
+   "hoi": "Dải siêu đô thị Hành lang Đông Bắc của Hoa Kỳ kéo dài",
+   "dap_an": [
+    "Từ Bô-xtơn tới Oa-sinh-tơn",
+    "Từ Luân Đôn tới Man-che-xtơ",
+    "Từ Tô-ky-ô tới Ô-xa-ca",
+    "Từ Niu Oóc tới Si-ca-gô"
+   ],
+   "dung": 0,
+   "trang": 223
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 1, tr. 223 (mục 2b: cuối thế kỉ XX; hai nhóm nước; 33 và 27 siêu đô thị năm 2024; Bảng 2 – số liệu đọc lại từ ảnh trang: 70,3/74,2/80,0% và 29,4/40,1/54,0%; vùng đô thị, dải siêu đô thị; hộp 'Em có biết' Tô-ky-ô gần 30%, Bô-xtơn – Oa-sinh-tơn; kinh tế tri thức; đô thị xanh, thông minh) và tr. 224 (Hình 3, 4; câu hỏi Luyện tập). Đã chỉnh kiến thức chốt của danh mục: SGK không có ý 'sự khác biệt giữa nước phát triển và đang phát triển' riêng mà lồng trong mục số dân thành thị – đã trình bày theo đúng SGK. Bối cảnh hiện tại, không có nhân vật lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

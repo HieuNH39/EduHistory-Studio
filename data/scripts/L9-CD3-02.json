@@ -1,0 +1,393 @@
+{
+ "ma": "L9-CD3-02",
+ "ten_tap": "Dấu ấn chủ quyền thời hiện đại",
+ "ten_tap_en": "Marks of Sovereignty in Modern Times",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+  "trang": [
+   232,
+   233
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "toan-quyen-dong-duong",
+  "can-bo-chien-si-viet-nam"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, vững vàng, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; bản đồ định vị vẽ bằng code, vị trí gần đúng. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 3, tr. 232–233.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Nhà trưng bày Hoàng Sa ở thành phố Đà Nẵng ngày nay; toà nhà có mặt tiền hoa văn, ô dù trước sân, trời nắng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Nhà trưng bày Hoàng Sa ở thành phố Đà Nẵng, nơi lưu giữ nhiều hiện vật khẳng định chủ quyền biển đảo của Việt Nam.",
+     "This is the Hoàng Sa Exhibition House in Đà Nẵng, which keeps many artefacts affirming Vietnam's maritime sovereignty."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1884 đến nay, chủ quyền ấy tiếp tục được khẳng định thế nào? Cùng tìm hiểu nhé!",
+     "From 1884 to today, how has that sovereignty continued to be affirmed? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1884",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "TỪ SAU NĂM 1884",
+   "y": [
+    "Hiệp ước Pa-tơ-nốt (1884): chính quyền Pháp đại diện cho Việt Nam trong quan hệ đối ngoại",
+    "Nhiều hoạt động khẳng định, bảo vệ chủ quyền biển đảo của Việt Nam",
+    "Tuyên bố chủ quyền tại sự kiện, hội nghị quốc tế; phản đối xâm nhập trái phép"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ sau Hiệp ước Pa-tơ-nốt năm 1884, chính quyền Pháp đại diện cho Việt Nam trong quan hệ đối ngoại, đã có nhiều hoạt động khẳng định, bảo vệ chủ quyền biển đảo của Việt Nam.",
+     "After the 1884 Patenôtre Treaty, the French authorities represented Vietnam in foreign affairs and took many steps to affirm and protect Vietnam's maritime sovereignty."
+    ],
+    [
+     "Hân Hân",
+     "Họ tuyên bố chủ quyền tại các hội nghị quốc tế và phản đối các hành động xâm nhập trái phép.",
+     "They declared sovereignty at international conferences and protested illegal intrusions."
+    ]
+   ],
+   "nguon_trang": [
+    232
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "TUYÊN BỐ VÀ QUẢN LÍ",
+   "y": [
+    "3 – 1925: Toàn quyền Đông Dương tuyên bố Hoàng Sa, Trường Sa là của Việt Nam",
+    "Lập đơn vị hành chính trên các đảo: Cô Tô, Phú Quốc, Hoàng Sa, Trường Sa…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 3 năm 1925, tuyên bố của Toàn quyền Đông Dương khẳng định quần đảo Hoàng Sa và quần đảo Trường Sa là của Việt Nam.",
+     "In March 1925, a statement by the Governor-General of Indochina affirmed that the Hoàng Sa and Trường Sa archipelagos belonged to Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Chính quyền Pháp ở Đông Dương còn lập đơn vị hành chính trên các đảo như Cô Tô, Phú Quốc, Hoàng Sa, Trường Sa.",
+     "The French authorities in Indochina also set up administrative units on islands such as Cô Tô, Phú Quốc, Hoàng Sa and Trường Sa."
+    ]
+   ],
+   "nguon_trang": [
+    232
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tháng 3 – 1925, ai tuyên bố quần đảo Hoàng Sa và Trường Sa là của Việt Nam?",
+    "lua_chon": [
+     "Toàn quyền Đông Dương",
+     "Vua Gia Long",
+     "Hội nghị Xan Phran-xi-xcô"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tháng 3 năm 1925, ai tuyên bố Hoàng Sa, Trường Sa là của Việt Nam?",
+     "Pause! In March 1925, who declared Hoàng Sa and Trường Sa to be Vietnamese?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Toàn quyền Đông Dương!",
+     "The answer is A: the Governor-General of Indochina!"
+    ]
+   ],
+   "nguon_trang": [
+    232
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa, năm 1938 (như Hình 3 SGK, tr. 233)",
+    "tim": "hải đăng đảo Hoàng Sa 1938 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: hải đăng trên quần đảo Hoàng Sa (1938)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa năm 1938.",
+     "This is the lighthouse the French authorities built in the Hoàng Sa archipelago in 1938."
+    ],
+    [
+     "Nhật Minh",
+     "Bia chủ quyền, hải đăng, trạm khí tượng, đài vô tuyến điện được xây ở các đảo Hoàng Sa, Phú Lâm, Ba Bình. Đó là những chứng cứ quan trọng.",
+     "Sovereignty steles, lighthouses, weather and radio stations were built on Hoàng Sa, Phú Lâm and Ba Bình islands. These are important evidence."
+    ]
+   ],
+   "nguon_trang": [
+    232,
+    233
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "XAN PHRAN-XI-XCÔ (9 – 1951)",
+   "y": [
+    "Hội nghị Hoà bình Xan Phran-xi-xcô (9 – 1951)",
+    "Chủ quyền của Việt Nam đối với Hoàng Sa, Trường Sa tiếp tục được tuyên bố",
+    "Không bị các quốc gia tham dự hội nghị phản đối"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tại Hội nghị Hoà bình Xan Phran-xi-xcô, tháng 9 năm 1951, chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa tiếp tục được tuyên bố, mà không bị các quốc gia tham dự hội nghị phản đối.",
+     "At the San Francisco Peace Conference in September 1951, Vietnam's sovereignty over Hoàng Sa and Trường Sa was declared again, and no participating country objected."
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "bien-dao-viet-nam",
+   "pha": "sau_1954",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Hiệp định Giơ-ne-vơ năm 1954, ở miền Bắc, đảo Bạch Long Vĩ thuộc thành phố Hải Phòng, đảo Cô Tô thuộc tỉnh Hải Ninh, nay thuộc tỉnh Quảng Ninh.",
+     "After the 1954 Geneva Accords, in the North, Bạch Long Vĩ island belonged to Hải Phòng and Cô Tô island to Hải Ninh province, now Quảng Ninh."
+    ],
+    [
+     "Nhật Minh",
+     "Ở miền Nam, quần đảo Trường Sa trực thuộc tỉnh Phước Tuy, từ năm 1989 đến nay thuộc tỉnh Khánh Hoà; quần đảo Hoàng Sa thuộc tỉnh Quảng Nam, nay thuộc thành phố Đà Nẵng.",
+     "In the South, the Trường Sa archipelago belonged to Phước Tuy province, and since 1989 to Khánh Hoà; the Hoàng Sa archipelago belonged to Quảng Nam, now part of Đà Nẵng."
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "SAU KHI THỐNG NHẤT",
+   "y": [
+    "Tuyên bố chính thức của Bộ Ngoại giao",
+    "Hội nghị của Tổ chức Khí tượng Thế giới (1980), Hội nghị Địa chất Thế giới (1980)…",
+    "“Sách Trắng” về chủ quyền (1979, 1981, 1988)",
+    "Hoàng Sa, Trường Sa: bộ phận không thể tách rời của lãnh thổ Việt Nam"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau khi thống nhất, Việt Nam nhiều lần khẳng định chủ quyền trong tuyên bố của Bộ Ngoại giao, tại các hội nghị quốc tế năm 1980.",
+     "After reunification, Vietnam repeatedly affirmed its sovereignty in Foreign Ministry statements and at international conferences in 1980."
+    ],
+    [
+     "Nhật Minh",
+     "Các “Sách Trắng” công bố năm 1979, 1981, 1988 khẳng định hai quần đảo là một bộ phận không thể tách rời của lãnh thổ Việt Nam.",
+     "The 'White Books' of 1979, 1981 and 1988 affirmed that the two archipelagos are an inseparable part of Vietnam's territory."
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "“Sách Trắng” về chủ quyền của Việt Nam đối với Hoàng Sa, Trường Sa được công bố vào các năm",
+    "lua_chon": [
+     "1925, 1938, 1951",
+     "1979, 1981, 1988",
+     "1954, 1975, 1989"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! “Sách Trắng” về chủ quyền được công bố vào những năm nào?",
+     "Quick test! In which years were the sovereignty 'White Books' published?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 1979, 1981 và 1988!",
+     "The answer is B: 1979, 1981 and 1988!"
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KHẲNG ĐỊNH CHỦ QUYỀN TỪ SAU NĂM 1884",
+   "moc": [
+    [
+     "3 – 1925",
+     "Tuyên bố của Toàn quyền Đông Dương"
+    ],
+    [
+     "1938",
+     "Hải đăng trên quần đảo Hoàng Sa"
+    ],
+    [
+     "9 – 1951",
+     "Hội nghị Xan Phran-xi-xcô"
+    ],
+    [
+     "Sau 1954",
+     "Sắc lệnh, đơn vị hành chính"
+    ],
+    [
+     "1979, 1981, 1988",
+     "“Sách Trắng” về chủ quyền"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Tháng 3 năm 1925, tuyên bố của Toàn quyền Đông Dương; năm 1938, hải đăng trên Hoàng Sa; tháng 9 năm 1951, Hội nghị Xan Phran-xi-xcô.",
+     "Recap! March 1925: the Governor-General's statement; 1938: the Hoàng Sa lighthouse; September 1951: the San Francisco conference."
+    ],
+    [
+     "Hân Hân",
+     "Sau năm 1954, các sắc lệnh và đơn vị hành chính; rồi “Sách Trắng” các năm 1979, 1981, 1988.",
+     "After 1954: decrees and administrative units; then the White Books of 1979, 1981 and 1988."
+    ]
+   ],
+   "nguon_trang": [
+    232,
+    233
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước Nhà trưng bày Hoàng Sa, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trình bày ba chứng cứ lịch sử từ sau năm 1884 về chủ quyền biển đảo của Việt Nam. Bình luận nhé!",
+     "Your challenge: present three pieces of historical evidence since 1884 for Vietnam's maritime sovereignty. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    233
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ sau hiệp ước nào, chính quyền Pháp đại diện cho Việt Nam trong quan hệ đối ngoại?",
+   "dap_an": [
+    "Hiệp ước Pa-tơ-nốt (1884)",
+    "Hiệp định Giơ-ne-vơ (1954)",
+    "Hiệp định Pa-ri (1973)",
+    "Hoà ước Véc-xai (1919)"
+   ],
+   "dung": 0,
+   "trang": 232
+  },
+  {
+   "hoi": "Ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa vào năm",
+   "dap_an": [
+    "1925",
+    "1938",
+    "1951",
+    "1979"
+   ],
+   "dung": 1,
+   "trang": 233
+  },
+  {
+   "hoi": "Tại Hội nghị Hoà bình Xan Phran-xi-xcô (9 – 1951), chủ quyền của Việt Nam đối với Hoàng Sa, Trường Sa",
+   "dap_an": [
+    "Bị nhiều nước phản đối",
+    "Tiếp tục được tuyên bố mà không bị các quốc gia tham dự phản đối",
+    "Không được nhắc tới",
+    "Bị hoãn bàn"
+   ],
+   "dung": 1,
+   "trang": 233
+  },
+  {
+   "hoi": "Theo SGK, từ năm 1989 đến nay, quần đảo Trường Sa thuộc",
+   "dap_an": [
+    "Tỉnh Phước Tuy",
+    "Tỉnh Đồng Nai",
+    "Tỉnh Khánh Hoà",
+    "Tỉnh Quảng Nam"
+   ],
+   "dung": 2,
+   "trang": 233
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 3, tr. 232 (mục 'Từ sau năm 1884' – OCR ghi nhầm '1864', đã đọc lại ảnh trang; Hiệp ước Pa-tơ-nốt 1884; tuyên bố của Toàn quyền Đông Dương 3 – 1925; đơn vị hành chính Cô Tô, Phú Quốc, Hoàng Sa, Trường Sa; bia chủ quyền, trạm khí tượng, đồn trú, tuần tra) và tr. 233 (bia, hải đăng, trạm khí tượng, đài vô tuyến ở Hoàng Sa, Phú Lâm, Ba Bình; Xan Phran-xi-xcô 9 – 1951; sau 1954: Bạch Long Vĩ, Cô Tô, Phước Tuy, Khánh Hoà từ 1989, Quảng Nam nay Đà Nẵng; Hội nghị Khí tượng, Địa chất Thế giới 1980; Sách Trắng 1979, 1981, 1988 – đọc lại từ ảnh trang; Hình 3, Hình 4). Kiến thức chốt của danh mục khớp SGK. Lời dẫn bỏ mốc trung gian 'đến năm 1982 thuộc tỉnh Đồng Nai' để gọn (có trong SGK). Sa bàn mới 'bien-dao-viet-nam' pha sau_1954 (vị trí gần đúng, có Hoàng Sa, Trường Sa; đã xem khung hình mẫu). Cần GV duyệt kĩ lời dẫn (lưu ý chủ quyền).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

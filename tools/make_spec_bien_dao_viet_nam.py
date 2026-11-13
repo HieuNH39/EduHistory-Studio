@@ -12,7 +12,7 @@ def quan_dao(lon0, lon1, lat0, lat1, n, seed):
     return [[random.uniform(lon0, lon1), random.uniform(lat0, lat1)] for _ in range(n)]
 HS = quan_dao(111.2, 112.8, 15.8, 17.1, 16, 7)          # cùng cách vẽ với sa bàn hoang-sa-truong-sa
 TS = quan_dao(112.0, 116.8, 8.0, 11.4, 26, 9)
-DAO = {"blv": (107.72, 20.13), "coto": (107.77, 20.98), "concо": (107.34, 17.16)}
+DAO = {"blv": (107.72, 20.13), "coto": (107.77, 20.98), "con_co": (107.34, 17.16)}
 def cham(pts): return [{"ten": "", "vi_tri": P(*p), "kieu": "diem", "man_hinh": True, "lech": [0, 0]} for p in pts]
 def nh(x, y, ten, **kw): return {"ten": ten, "vi_tri": P(x, y), "man_hinh": True, "lech": [0, 0], **kw}
 def dd(x, y, ten, lech, **kw): return {"ten": ten, "vi_tri": P(x, y), "kieu": "diem", "man_hinh": True, "lech": lech, **kw}
@@ -23,7 +23,7 @@ S = {
  "nguon": "Bản đồ định vị vẽ bằng code theo SGK Lịch sử và Địa lí 9, tr. 103 – 104, 233 – 234; vị trí gần đúng; nền đất liền Natural Earth",
  "khung": P(99.0, 23.6) + P(119.5, 6.0), "nen_bien": [0.80, 0.88, 0.93], "chu_giai_xy": [0.03, 0.30], "sao_man_hinh": True,
  "vung_mau": nen([96, 4, 125, 27]),
- "dia_danh": cham(HS) + cham(TS) + cham([DAO["blv"], DAO["coto"], DAO["concо"]]) + [
+ "dia_danh": cham(HS) + cham(TS) + cham([DAO["blv"], DAO["coto"], DAO["con_co"]]) + [
   nh(112.0, 17.55, "QĐ. Hoàng Sa (Việt Nam)", dam=True, co=19), nh(114.4, 12.0, "QĐ. Trường Sa (Việt Nam)", dam=True, co=19),
   nh(111.0, 22.9, "TRUNG QUỐC", lon=True), nh(103.4, 19.2, "LÀO", lon=True, zoom_den=1.5), nh(104.7, 12.9, "CAM-PU-CHIA", lon=True, zoom_den=1.5),
   nh(101.0, 15.5, "THÁI LAN", lon=True, zoom_den=1.5), nh(116.6, 14.3, "BIỂN ĐÔNG", lon=True, zoom_den=1.5), nh(118.4, 16.6, "PHI-LÍP-PIN", lon=True, co=18, zoom_den=1.5),
@@ -49,7 +49,7 @@ S["doi_tuong"] = {
  "s54_ts": nhan(114.4, 12.9, "Thuộc tỉnh Phước Tuy (từ 1989: tỉnh Khánh Hoà)"),
  # pha tien_tieu – SGK tr. 234
  "sao_blv": {"loai": "sao", "vi_tri": P(*DAO["blv"])},
- "sao_cc": {"loai": "sao", "vi_tri": P(*DAO["concо"])},
+ "sao_cc": {"loai": "sao", "vi_tri": P(*DAO["con_co"])},
  "tt_blv": nhan(109.3, 20.3, "Bạch Long Vĩ"),
  "tt_cc": nhan(108.6, 17.75, "Cồn Cỏ"),
 }

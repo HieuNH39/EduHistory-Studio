@@ -1,0 +1,215 @@
+{
+ "ma": "L9-B6-01",
+ "ten_tap": "Người đi tìm hình của nước",
+ "ten_tap_en": "In Search of the Nation's Shape",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+  "trang": [
+   26,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "le-nin"
+ ],
+ "nhac": {
+  "tam_trang": "xúc động, ấm áp, dâng lên ở mốc 1920",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 6, tr. 26–27.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Hân Hân (đồng phục FPT) ngồi bên cửa sổ thư viện, đọc to từ cuốn SGK Lịch sử 9 mở ở Bài 6; Nhật Minh đứng cạnh, chăm chú lắng nghe",
+   "loi": [
+    [
+     "Hân Hân",
+     "“Luận cương đến Bác Hồ. Và Người đã khóc”, thơ Chế Lan Viên. Vì sao một bản Luận cương lại khiến Người xúc động đến thế?",
+     "'The Theses reached Uncle Hồ. And he wept', wrote Chế Lan Viên. Why did a set of Theses move him so?"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NGUYỄN ÁI QUỐC TẠI PHÁP",
+   "moc": [
+    [
+     "Cuối 1917",
+     "Trở lại Pa-ri"
+    ],
+    [
+     "Đầu 1919",
+     "Gia nhập Đảng Xã hội Pháp"
+    ],
+    [
+     "6 – 1919",
+     "Gửi Yêu sách tới Hội nghị Véc-xai"
+    ],
+    [
+     "7 – 1920",
+     "Đọc Luận cương của Lê-nin"
+    ],
+    [
+     "12 – 1920",
+     "Đại hội Tua"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng cuối năm 1917, Nguyễn Tất Thành trở lại Pa-ri. Đầu năm 1919, Người gia nhập Đảng Xã hội Pháp; tháng 6, gửi Yêu sách của nhân dân An Nam tới Hội nghị Véc-xai.",
+     "Around late 1917, Nguyễn Tất Thành returned to Paris. In early 1919 he joined the French Socialist Party; in June he sent the Demands of the Annamite People to Versailles."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1920, Người đọc Luận cương của Lê-nin. Tháng 12, tại Đại hội Tua, Người tham gia thành lập Đảng Cộng sản Pháp.",
+     "In July 1920, he read Lenin's Theses. In December, at the Tours Congress, he helped found the French Communist Party."
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Văn kiện giúp Nguyễn Ái Quốc tìm thấy con đường cứu nước (7 – 1920) là",
+    "lua_chon": [
+     "Luận cương của Lê-nin",
+     "Hoà ước Véc-xai",
+     "Đường Kách mệnh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Văn kiện nào giúp Người tìm thấy con đường cứu nước?",
+     "Pause! Which document showed him the way to save the nation?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Luận cương của Lê-nin!",
+     "The answer is A: Lenin's Theses!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "BƯỚC NGOẶT (12 – 1920)",
+   "y": [
+    "Từ chủ nghĩa yêu nước",
+    "→ đến chủ nghĩa Mác – Lê-nin",
+    "→ đi theo con đường cách mạng vô sản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đó là bước ngoặt: từ chủ nghĩa yêu nước đến chủ nghĩa Mác – Lê-nin, đi theo con đường cách mạng vô sản.",
+     "That was the turning point: from patriotism to Marxism–Leninism, taking the path of proletarian revolution."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem trong thư viện; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bình luận nhé: câu thơ nào của Chế Lan Viên khiến cậu nhớ nhất?",
+     "Comment below: which line by Chế Lan Viên stays with you most?"
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đầu năm 1919, Nguyễn Tất Thành gia nhập",
+   "dap_an": [
+    "Đảng Cộng sản Pháp",
+    "Đảng Xã hội Pháp",
+    "Quốc tế Cộng sản",
+    "Hội Liên hiệp thuộc địa"
+   ],
+   "dung": 1,
+   "trang": 27
+  },
+  {
+   "hoi": "Bản Yêu sách của nhân dân An Nam (6 – 1919) được kí tên là",
+   "dap_an": [
+    "Nguyễn Tất Thành",
+    "Nguyễn Ái Quốc",
+    "Hồ Chí Minh",
+    "Phan Châu Trinh"
+   ],
+   "dung": 1,
+   "trang": 27
+  },
+  {
+   "hoi": "Tại Đại hội Tua (12 – 1920), Nguyễn Ái Quốc tham gia thành lập",
+   "dap_an": [
+    "Đảng Cộng sản Pháp",
+    "Đảng Cộng sản Việt Nam",
+    "Hội Việt Nam Cách mạng Thanh niên",
+    "Quốc tế Cộng sản"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Bước ngoặt trong hoạt động của Nguyễn Ái Quốc năm 1920 là",
+   "dap_an": [
+    "Từ chủ nghĩa yêu nước đến chủ nghĩa Mác – Lê-nin",
+    "Từ Pháp sang Mỹ",
+    "Từ nhà báo thành nhà văn",
+    "Từ cải cách sang bạo động"
+   ],
+   "dung": 0,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 26 (đoạn thơ Chế Lan Viên trích trong SGK; cuối năm 1917 trở lại Pa-ri) và tr. 27 (bảng khái quát: đầu 1919, 6 – 1919, 7 – 1920, 12 – 1920, bước ngoặt), đã đối chiếu ảnh trang 27. Kiến thức chốt của danh mục khớp SGK; SGK ghi Yêu sách gửi tới 'Hội nghị Véc-xai'. Câu thơ chỉ trích một dòng ngắn, ghi tên tác giả như SGK. Không dùng ảnh Hình 6.1 (có chân dung lãnh tụ) – theo cách làm ở L9-B6-04, lãnh tụ chỉ được nhắc tên; hình chỉ gồm cảnh hai bạn dẫn chuyện ở hiện tại và thẻ chữ dựng bằng code.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

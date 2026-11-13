@@ -1,0 +1,197 @@
+{
+ "ma": "L9-B14-01",
+ "ten_tap": "Vì sao chúng ta phải cầm súng?",
+ "ten_tap_en": "Why Did We Have to Take Up Arms?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 14. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+  "trang": [
+   67,
+   68
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "thuc-dan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, dồn nén rồi bùng lên quyết liệt ở cuối",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 14, tr. 67–68.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) trên một con phố cổ Hà Nội ngày nay, buổi tối, đèn đường vàng ấm; Hân Hân cầm cuốn SGK Lịch sử 9",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1946, Chủ tịch Hồ Chí Minh viết: nhân dân ta thành thật mong muốn hoà bình. Vậy vì sao chúng ta vẫn phải cầm súng?",
+     "In December 1946, President Hồ Chí Minh wrote that our people sincerely wanted peace. So why did we still have to take up arms?"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "PHÁP BỘI ƯỚC (1946)",
+   "y": [
+    "25 – 6 – 1946: chiếm Sở Tài chính, Phủ Toàn quyền cũ ở Hà Nội",
+    "11 – 1946: đánh chiếm Hải Phòng, Lạng Sơn, Đà Nẵng…",
+    "17 – 12 – 1946: thảm sát ở phố Hàng Bún, phố Yên Ninh",
+    "Tối hậu thư đòi giải tán tự vệ, đòi kiểm soát Thủ đô"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì thực dân Pháp bội ước! Tháng 11 năm 1946, chúng đánh chiếm Hải Phòng, Lạng Sơn, Đà Nẵng.",
+     "Because the French broke their word! In November 1946 they attacked Hải Phòng, Lạng Sơn and Đà Nẵng."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 17 tháng 12, chúng thảm sát ở phố Hàng Bún, phố Yên Ninh, rồi gửi tối hậu thư đòi quyền kiểm soát Thủ đô.",
+     "On 17 December they massacred people on Hàng Bún and Yên Ninh streets, then sent ultimatums demanding control of the capital."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày 17 – 12 – 1946, quân Pháp gây ra vụ thảm sát ở đâu?",
+    "lua_chon": [
+     "Phố Hàng Bún, phố Yên Ninh (Hà Nội)",
+     "Hải Phòng",
+     "Lạng Sơn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ngày 17 tháng 12 năm 1946, quân Pháp gây thảm sát ở đâu?",
+     "Pause! Where did the French commit a massacre on 17 December 1946?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: phố Hàng Bún và phố Yên Ninh, Hà Nội!",
+     "The answer is A: Hàng Bún and Yên Ninh streets, Hà Nội!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "TOÀN QUỐC KHÁNG CHIẾN",
+   "y": [
+    "18 và 19 – 12 – 1946: Ban Thường vụ Trung ương Đảng quyết định kháng chiến toàn quốc",
+    "Tối 19 – 12 – 1946: Lời kêu gọi toàn quốc kháng chiến",
+    "“Ai có súng dùng súng. Ai có gươm dùng gươm…”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tối 19 tháng 12 năm 1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến: “Ai có súng dùng súng. Ai có gươm dùng gươm”.",
+     "On the evening of 19 December 1946, President Hồ Chí Minh issued the Appeal for National Resistance: 'Those with guns, use guns; those with swords, use swords.'"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem trên phố cổ; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bình luận nhé: hành động nào của Pháp cho thấy ta không thể nhân nhượng thêm?",
+     "Comment below: which French action showed we could concede no more?"
+    ]
+   ],
+   "nguon_trang": [
+    67,
+    68
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được ra vào",
+   "dap_an": [
+    "Tối 19 – 12 – 1946",
+    "Ngày 6 – 3 – 1946",
+    "Ngày 2 – 9 – 1945",
+    "Ngày 23 – 9 – 1945"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Tháng 11 – 1946, quân Pháp đánh chiếm nhiều nơi ở",
+   "dap_an": [
+    "Hải Phòng, Lạng Sơn, Đà Nẵng",
+    "Cà Mau, Bạc Liêu",
+    "Huế, Quảng Trị",
+    "Cao Bằng, Bắc Kạn"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Trong tối hậu thư, quân Pháp đòi Chính phủ ta",
+   "dap_an": [
+    "Giải tán lực lượng tự vệ chiến đấu, để Pháp kiểm soát Thủ đô",
+    "Tổ chức Tổng tuyển cử",
+    "Kí Hiệp định Sơ bộ",
+    "Rút về Việt Bắc"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Cuộc họp quyết định phát động kháng chiến toàn quốc diễn ra ngày",
+   "dap_an": [
+    "18 và 19 – 12 – 1946",
+    "12 – 12 – 1946",
+    "17 – 12 – 1946",
+    "9 – 1947"
+   ],
+   "dung": 0,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 67 (thư gửi Liên hợp quốc 12 – 1946; nguyên nhân bùng nổ: 25 – 6 – 1946, 11 – 1946, 17 – 12 – 1946, tối hậu thư) và tr. 68 (18 và 19 – 12 – 1946; Lời kêu gọi tối 19 – 12 – 1946; Tư liệu 1 trích ngắn). Kiến thức chốt của danh mục khớp SGK; danh mục ghi tr. 72 nhưng nội dung tập chỉ cần tr. 67 – 68. Không dùng ảnh lãnh tụ; cảnh hai bạn ở phố cổ Hà Nội ngày nay.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

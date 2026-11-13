@@ -1,0 +1,352 @@
+{
+ "ma": "L9-B9-02",
+ "ten_tap": "Cuộc đua quyền lực: Mỹ và Liên Xô",
+ "ten_tap_en": "The Power Race: the US and the USSR",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 9. Chiến tranh lạnh (1947 – 1989)",
+  "trang": [
+   41,
+   42
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "to-ru-man"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, lạnh, nhịp chậm; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 9, tr. 41–42.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ở câu lạc bộ cờ vua của trường; trên bàn là bàn cờ với hai quân vua trắng và đen đặt đối diện nhau; phía sau là quả địa cầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong Chiến tranh thế giới thứ hai, Liên Xô và Mỹ từng là đồng minh chống phát xít.",
+     "In the Second World War, the Soviet Union and the United States were allies against fascism."
+    ],
+    [
+     "Hân Hân",
+     "Vậy mà chẳng bao lâu sau, hai nước lại trở thành hai đối thủ. Vì sao vậy? Cùng phân tích nhé!",
+     "Yet soon afterwards they became rivals. Why? Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "BƯỚC NGOẶT QUAN HỆ",
+   "y": [
+    "Sau Chiến tranh thế giới thứ hai",
+    "Liên Xô ↔ Mỹ và các nước tư bản Tây Âu",
+    "Từ quan hệ đồng minh → đối đầu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, Liên Xô và Mỹ cùng các nước tư bản Tây Âu chuyển từ quan hệ đồng minh sang đối đầu.",
+     "After the Second World War, the Soviet Union on one side and the US and Western Europe's capitalist countries on the other went from allies to rivals."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "PHÍA MỸ",
+   "y": [
+    "Mỹ và các nước tư bản lo ngại sự tồn tại, ảnh hưởng của chủ nghĩa cộng sản ở Liên Xô",
+    "Mỹ muốn mở rộng ảnh hưởng, làm bá chủ thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về phía Mỹ: Mỹ và các nước tư bản chủ nghĩa lo ngại về sự tồn tại và ảnh hưởng của chủ nghĩa cộng sản ở Liên Xô.",
+     "On the US side: America and the capitalist countries feared the existence and influence of communism in the Soviet Union."
+    ],
+    [
+     "Hân Hân",
+     "Hơn nữa, Mỹ muốn mở rộng ảnh hưởng và làm bá chủ thế giới.",
+     "What's more, the US wanted to extend its influence and dominate the world."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "PHÍA LIÊN XÔ",
+   "y": [
+    "Giúp Đảng Cộng sản các nước Đông Âu",
+    "Thành lập các nhà nước dân chủ nhân dân",
+    "Đi theo con đường xã hội chủ nghĩa"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về phía Liên Xô: Liên Xô đã giúp đỡ Đảng Cộng sản ở các nước Đông Âu thành lập các nhà nước dân chủ nhân dân, đi theo con đường xã hội chủ nghĩa.",
+     "On the Soviet side: the USSR helped the communist parties of Eastern Europe set up people's democracies on the socialist path."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau Chiến tranh thế giới thứ hai, Liên Xô giúp Đảng Cộng sản các nước Đông Âu",
+    "lua_chon": [
+     "Thành lập các nhà nước dân chủ nhân dân, đi theo con đường xã hội chủ nghĩa",
+     "Gia nhập khối NATO",
+     "Nhận viện trợ của Kế hoạch Mác-san"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Liên Xô đã giúp Đảng Cộng sản các nước Đông Âu làm gì?",
+     "Pause! What did the USSR help Eastern Europe's communist parties do?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thành lập các nhà nước dân chủ nhân dân, đi theo con đường xã hội chủ nghĩa!",
+     "The answer is A: set up people's democracies on the socialist path!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1947",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tổng thống Tơ-ru-man đọc diễn văn trước Quốc hội Mỹ, tháng 3 – 1947 (như Hình 9.1 SGK, tr. 41)",
+    "tim": "Truman address joint session Congress March 1947 photograph",
+    "yeu_cau": "ảnh lưu trữ của Chính phủ Mỹ (phạm vi công cộng), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Tơ-ru-man đọc diễn văn trước Quốc hội Mỹ (3 – 1947)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1947, Tổng thống Mỹ Tơ-ru-man công khai thực hiện Chiến lược toàn cầu, từ bỏ hợp tác với Liên Xô.",
+     "In March 1947, US President Truman openly launched the Global Strategy and abandoned cooperation with the USSR."
+    ],
+    [
+     "Hân Hân",
+     "Đó là sự bắt đầu cuộc Chiến tranh lạnh chống Liên Xô và các nước xã hội chủ nghĩa.",
+     "That marked the start of the Cold War against the Soviet Union and the socialist countries."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "LẬP LUẬN CỦA TƠ-RU-MAN",
+   "y": [
+    "Cho rằng Đông Âu “vừa mới bị cộng sản thôn tính”",
+    "Mỹ phải “đảm nhiệm sứ mạng lãnh đạo thế giới tự do”",
+    "Chống “sự đe doạ” của chủ nghĩa cộng sản, chống “bành trướng” của Liên Xô"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tư liệu trong SGK cho biết: theo Tơ-ru-man, các nước Đông Âu “vừa mới bị cộng sản thôn tính”.",
+     "A source in the textbook says that, according to Truman, Eastern Europe had 'just been taken over by communists'."
+    ],
+    [
+     "Nhật Minh",
+     "Vì vậy, Mỹ tự nhận phải “đảm nhiệm sứ mạng lãnh đạo thế giới tự do”, chống lại “sự đe doạ” của chủ nghĩa cộng sản và sự “bành trướng” của Liên Xô.",
+     "So the US claimed it must 'lead the free world' against the communist 'threat' and Soviet 'expansion'."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tháng 3 – 1947, ai công khai thực hiện Chiến lược toàn cầu, bắt đầu Chiến tranh lạnh?",
+    "lua_chon": [
+     "Ph. Ru-dơ-ven",
+     "Tơ-ru-man",
+     "M. Goóc-ba-chốp"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Ai công khai thực hiện Chiến lược toàn cầu vào tháng 3 năm 1947?",
+     "Quick test! Who openly launched the Global Strategy in March 1947?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Tổng thống Mỹ Tơ-ru-man!",
+     "The answer is B: US President Truman!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "VÌ SAO GỌI LÀ “LẠNH”?",
+   "y": [
+    "“Hoà bình là bất khả thi, chiến tranh không thể xảy ra” (Rây-mân A-ron, 1948)",
+    "Mỹ: đứng đầu hệ thống tư bản chủ nghĩa",
+    "Liên Xô: đứng đầu hệ thống xã hội chủ nghĩa",
+    "Đối đầu: kinh tế, chính trị – quân sự, mở rộng ảnh hưởng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì sao gọi là chiến tranh “lạnh”? Nhà nghiên cứu Rây-mân A-ron nhận định năm 1948: “Hoà bình là bất khả thi, chiến tranh không thể xảy ra”.",
+     "Why a 'cold' war? In 1948, Raymond Aron wrote: 'Peace is impossible, war is unlikely'."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ đứng đầu hệ thống tư bản chủ nghĩa, Liên Xô đứng đầu hệ thống xã hội chủ nghĩa, luôn đối đầu trên các lĩnh vực kinh tế, chính trị – quân sự và mở rộng ảnh hưởng.",
+     "The US led the capitalist system and the USSR the socialist one, always confronting each other in economics, politics and the military, and in spreading influence."
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    42
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên bàn cờ, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: câu “Hoà bình là bất khả thi, chiến tranh không thể xảy ra” có nghĩa là gì? Bình luận nhé!",
+     "Your challenge: what does 'Peace is impossible, war is unlikely' mean? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Chiến tranh thế giới thứ hai, quan hệ giữa Liên Xô và Mỹ chuyển từ",
+   "dap_an": [
+    "Đối đầu sang đồng minh",
+    "Đồng minh sang đối đầu",
+    "Trung lập sang liên minh",
+    "Liên minh sang trung lập"
+   ],
+   "dung": 1,
+   "trang": 41
+  },
+  {
+   "hoi": "Mỹ và các nước tư bản chủ nghĩa lo ngại điều gì?",
+   "dap_an": [
+    "Sự tồn tại và ảnh hưởng của chủ nghĩa cộng sản ở Liên Xô",
+    "Sự trỗi dậy của Nhật Bản",
+    "Phong trào ở Mỹ La-tinh",
+    "Sự sụp đổ của Tây Âu"
+   ],
+   "dung": 0,
+   "trang": 41
+  },
+  {
+   "hoi": "Chiến tranh lạnh bắt đầu khi",
+   "dap_an": [
+    "Mỹ ném bom nguyên tử (1945)",
+    "Tơ-ru-man công khai thực hiện Chiến lược toàn cầu (3 – 1947)",
+    "NATO thành lập (1949)",
+    "Bức tường Béc-lin sụp đổ (1989)"
+   ],
+   "dung": 1,
+   "trang": 41
+  },
+  {
+   "hoi": "Trong Chiến tranh lạnh, nước đứng đầu hệ thống xã hội chủ nghĩa là",
+   "dap_an": [
+    "Trung Quốc",
+    "Liên Xô",
+    "Cu-ba",
+    "Ba Lan"
+   ],
+   "dung": 1,
+   "trang": 42
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 41 (câu của Rây-mân A-ron; mục 1 nguyên nhân; 3 – 1947; Hình 9.1; Tư liệu được diễn đạt lại, chỉ giữ cụm trích ngắn) và tr. 42 (câu mở đầu mục 2). Đã chỉnh kiến thức chốt: SGK không dùng cụm 'chống cộng sản' cho Chiến lược toàn cầu mà nói 'từ bỏ hợp tác với Liên Xô, bắt đầu cuộc Chiến tranh lạnh chống Liên Xô và các nước xã hội chủ nghĩa'. Không có lược đồ trong SGK; không vẽ bản đồ chia hai phe (mô phỏng danh mục đề xuất). Phân vai: các biểu hiện cụ thể (Mác-san, SEV, NATO, Vác-sa-va, các khu vực) đã có ở L9-B9-03 nên tập này chỉ đi sâu nguyên nhân.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

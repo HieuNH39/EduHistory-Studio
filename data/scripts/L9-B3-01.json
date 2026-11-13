@@ -1,0 +1,388 @@
+{
+ "ma": "L9-B3-01",
+ "ten_tap": "Nhật Bản: Từ hưng thịnh đến lò lửa chiến tranh",
+ "ten_tap_en": "Japan: From Boom to Hotbed of War",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+  "trang": [
+   14,
+   15
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-nhat-ban",
+  "nong-dan-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "khởi đầu sôi động, chùng xuống ở phần khủng hoảng, u ám dần ở cuối",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 3, tr. 14–15.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học, bên chiếc máy tính xách tay; trên màn hình là một đường đồ thị đi lên rồi gãy xuống; trên bàn có cuốn SGK Lịch sử 9 mở ở Bài 3",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ nhất, kinh tế Nhật Bản tăng vọt. Nhưng cơn sốt ấy chỉ kéo dài 18 tháng!",
+     "After the First World War, Japan's economy soared. But the boom lasted only 18 months!"
+    ],
+    [
+     "Nhật Minh",
+     "Rồi khủng hoảng nối tiếp khủng hoảng, và Nhật Bản chọn một lối thoát nguy hiểm. Cùng xem nhé!",
+     "Crisis followed crisis, and Japan chose a dangerous way out. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1918",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "TĂNG VỌT RỒI SA SÚT",
+   "y": [
+    "Hưởng lợi từ Chiến tranh thế giới thứ nhất → kinh tế phát triển nhanh",
+    "Chỉ kéo dài trong 18 tháng",
+    "1920 – 1921: kinh tế sa sút, nhiều công ty thua lỗ, phá sản",
+    "Số người thất nghiệp lên tới 12 vạn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhờ hưởng lợi trong Chiến tranh thế giới thứ nhất, kinh tế Nhật Bản phát triển nhanh chóng sau chiến tranh, nhưng chỉ kéo dài trong 18 tháng.",
+     "Having profited during the First World War, Japan's economy grew fast after it, but only for 18 months."
+    ],
+    [
+     "Hân Hân",
+     "Những năm 1920 – 1921, kinh tế sa sút: nhiều công ty thua lỗ, nhiều nhà kinh doanh phá sản, số người thất nghiệp lên tới 12 vạn.",
+     "In 1920–1921 the economy slumped: many companies lost money, many businesspeople went bankrupt, and unemployment reached 120,000."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẤU TRANH BÙNG LÊN",
+   "y": [
+    "Đời sống người lao động không được cải thiện",
+    "Phong trào đấu tranh của công nhân, nông dân bùng lên",
+    "7 – 1922: Đảng Cộng sản Nhật Bản thành lập"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đời sống người lao động không được cải thiện, phong trào đấu tranh của công nhân và nông dân bùng lên mạnh mẽ.",
+     "Working people's lives did not improve, and workers' and peasants' struggles flared up strongly."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1922, Đảng Cộng sản Nhật Bản được thành lập, trở thành lực lượng lãnh đạo phong trào công nhân.",
+     "In July 1922, the Japanese Communist Party was founded and came to lead the workers' movement."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau Chiến tranh thế giới thứ nhất, kinh tế Nhật Bản phát triển nhanh trong bao lâu?",
+    "lua_chon": [
+     "18 tháng",
+     "5 năm",
+     "10 năm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Sau chiến tranh, kinh tế Nhật Bản phát triển nhanh trong bao lâu?",
+     "Pause! After the war, how long did Japan's fast growth last?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chỉ 18 tháng!",
+     "The answer is A: only 18 months!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: thành phố Ô-xa-ca vào những năm 20 của thế kỉ XX (như Hình 3.3 SGK, tr. 15)",
+    "tim": "Osaka 1920s city street photograph",
+    "yeu_cau": "ảnh tư liệu công khai (công bố trước năm 1930), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Ô-xa-ca những năm 20 của thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1924 – 1929, kinh tế Nhật Bản phát triển nhưng không ổn định. Năm 1926, sản lượng công nghiệp phục hồi, vượt mức trước chiến tranh.",
+     "In 1924–1929, Japan's economy grew but was unstable. In 1926, industrial output recovered beyond its pre-war level."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng năm 1927, khủng hoảng tài chính ở Tô-ki-ô làm hàng chục ngân hàng phải đóng cửa; thất nghiệp tăng mạnh, nông dân bị bần cùng hoá, sức mua giảm sút.",
+     "But in 1927, a financial crisis in Tokyo shut dozens of banks; unemployment soared, peasants were impoverished and purchasing power fell."
+    ]
+   ],
+   "nguon_trang": [
+    14,
+    15
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1929",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "SO VỚI 1929, NĂM 1931…",
+   "y": [
+    "Sản lượng công nghiệp giảm 32,5%",
+    "Ngoại thương giảm 80%",
+    "Khoảng 3 triệu người thất nghiệp",
+    "Bãi công: 276 cuộc (1929) → gần 1 000 cuộc (1931)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đại suy thoái 1929 – 1933 giáng đòn nặng nề vào Nhật Bản. So với năm 1929, năm 1931 sản lượng công nghiệp giảm 32,5%, ngoại thương giảm 80%, khoảng 3 triệu người thất nghiệp.",
+     "The 1929–1933 Depression hit Japan hard. Compared with 1929, in 1931 industrial output fell 32.5%, foreign trade fell 80%, and about 3 million were unemployed."
+    ],
+    [
+     "Hân Hân",
+     "Mâu thuẫn xã hội ngày càng gay gắt: năm 1929 có 276 cuộc bãi công, đến năm 1931 đã gần 1 000 cuộc.",
+     "Social tensions sharpened: from 276 strikes in 1929 to nearly 1,000 in 1931."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "So với năm 1929, ngoại thương của Nhật Bản năm 1931 giảm bao nhiêu?",
+    "lua_chon": [
+     "32,5%",
+     "50%",
+     "80%"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! So với năm 1929, ngoại thương Nhật Bản năm 1931 giảm bao nhiêu?",
+     "Quick test! Compared with 1929, how much did Japan's foreign trade fall by 1931?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: giảm tới 80%!",
+     "The answer is C: a full 80%!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "LỐI THOÁT NGUY HIỂM",
+   "y": [
+    "Tăng cường quân sự hoá bộ máy nhà nước",
+    "Gây chiến tranh xâm lược",
+    "Bành trướng ra bên ngoài"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để đưa đất nước ra khỏi đại suy thoái, Chính phủ Nhật Bản tăng cường quân sự hoá bộ máy nhà nước,",
+     "To pull the country out of the Depression, the Japanese government stepped up the militarisation of the state,"
+    ],
+    [
+     "Hân Hân",
+     "gây chiến tranh xâm lược, bành trướng ra bên ngoài. Nhật Bản đang trở thành một “lò lửa chiến tranh”.",
+     "waging wars of aggression and expanding abroad. Japan was becoming a 'hotbed of war'."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NHẬT BẢN 1918 – 1931",
+   "moc": [
+    [
+     "1920 – 1921",
+     "Kinh tế sa sút"
+    ],
+    [
+     "7 – 1922",
+     "Đảng Cộng sản Nhật Bản"
+    ],
+    [
+     "1926",
+     "Công nghiệp vượt mức trước chiến tranh"
+    ],
+    [
+     "1927",
+     "Khủng hoảng tài chính ở Tô-ki-ô"
+    ],
+    [
+     "1929 – 1933",
+     "Đại suy thoái"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1920 – 1921, kinh tế sa sút; tháng 7 năm 1922, Đảng Cộng sản Nhật Bản ra đời.",
+     "Recap! 1920–1921: slump; July 1922: the Japanese Communist Party is founded."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1926, công nghiệp phục hồi; năm 1927, khủng hoảng tài chính; rồi đại suy thoái 1929 – 1933.",
+     "1926: industry recovers; 1927: financial crisis; then the 1929–1933 Depression."
+    ]
+   ],
+   "nguon_trang": [
+    14,
+    15
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên màn hình đồ thị, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nói kinh tế Nhật Bản những năm 1924 – 1929 “phát triển nhưng không ổn định”? Bình luận nhé!",
+     "Your challenge: why do we say Japan's economy in 1924–1929 'grew but was unstable'? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    14,
+    15
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những năm 1920 – 1921, số người thất nghiệp ở Nhật Bản lên tới",
+   "dap_an": [
+    "12 vạn",
+    "3 triệu",
+    "50 triệu",
+    "1 triệu"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Đảng Cộng sản Nhật Bản được thành lập vào thời gian nào?",
+   "dap_an": [
+    "7 – 1921",
+    "7 – 1922",
+    "12 – 1918",
+    "1927"
+   ],
+   "dung": 1,
+   "trang": 14
+  },
+  {
+   "hoi": "Năm 1927, cuộc khủng hoảng tài chính nổ ra ở đâu?",
+   "dap_an": [
+    "Ô-xa-ca",
+    "Tô-ki-ô",
+    "Niu Oóc",
+    "Thượng Hải"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Để thoát khỏi đại suy thoái, Chính phủ Nhật Bản đã",
+   "dap_an": [
+    "Cải cách dân chủ",
+    "Thực hiện Chính sách mới",
+    "Tăng cường quân sự hoá bộ máy nhà nước, gây chiến tranh xâm lược",
+    "Giải giáp quân đội"
+   ],
+   "dung": 2,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 14 (mục 1a: 18 tháng, 1920 – 1921, 12 vạn, 7 – 1922, 1926) và tr. 15 (1927, mục 1b: 32,5%, 80%, 3 triệu, 276 và gần 1 000 cuộc bãi công, quân sự hoá; Hình 3.3). Kiến thức chốt của danh mục khớp SGK. Không có đồ thị số liệu năm trong SGK nên không dựng đồ thị đường (mô phỏng danh mục đề xuất) – thay bằng thẻ ghi nhớ số liệu đúng SGK. Phân vai với L9-B3-02: tập này dừng ở chủ trương quân sự hoá; các bước xâm lược 1927 – 1945 ở L9-B3-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

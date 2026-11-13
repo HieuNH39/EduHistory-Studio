@@ -1,0 +1,397 @@
+{
+ "ma": "L9-B6-02",
+ "ten_tap": "Từ Quảng Châu đến những hạt giống đỏ",
+ "ten_tap_en": "From Guangzhou: Sowing the Red Seeds",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+  "trang": [
+   24,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "le-hong-phong",
+  "phung-chi-kien",
+  "nguyen-luong-bang",
+  "tran-phu",
+  "pham-van-dong"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, kiên định, dâng dần ở phần Quảng Châu; không dùng nhạc vui nhộn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Tư liệu là bản chụp báo và bìa sách gốc; thẻ chữ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 6, tr. 27 và Bài 5, tr. 24.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng truyền thống của trường; Nhật Minh cầm bản sao bìa cuốn sách cũ 'Đường Kách mệnh' (bản in phục chế, giấy ngả vàng); trên tường có bản đồ thế giới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuốn sách nhỏ này là Đường Kách mệnh, tập hợp những bài giảng ở Quảng Châu, rồi được bí mật đưa về nước.",
+     "This little book is The Revolutionary Path, a collection of lectures given in Guangzhou and secretly brought home."
+    ],
+    [
+     "Hân Hân",
+     "Từ Pháp, sang Liên Xô, rồi đến Trung Quốc, Nguyễn Ái Quốc đã gieo những “hạt giống đỏ” thế nào? Cùng xem nhé!",
+     "From France to the Soviet Union and on to China, how did Nguyễn Ái Quốc sow these 'red seeds'? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    27
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1921",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tư liệu: một số báo Người cùng khổ (Le Paria) (như Hình 6.2 SGK, tr. 27)",
+    "tim": "Le Paria newspaper 1922 front page scan",
+    "yeu_cau": "bản chụp báo gốc công bố năm 1922 (phạm vi công cộng), ghi nguồn"
+   },
+   "hinh": "Tư liệu: báo Người cùng khổ (Le Paria)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Pháp, năm 1921, Nguyễn Ái Quốc cùng một số nhà cách mạng các nước thuộc địa Pháp lập ra Hội Liên hiệp thuộc địa.",
+     "In France, in 1921, Nguyễn Ái Quốc and revolutionaries from other French colonies founded the Intercolonial Union."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1922, Người là Chủ nhiệm kiêm chủ bút báo Người cùng khổ, tiếng Pháp là Le Paria.",
+     "In 1922, he was director and editor-in-chief of the newspaper Le Paria, 'The Outcast'."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1922, Nguyễn Ái Quốc là Chủ nhiệm kiêm chủ bút tờ báo nào?",
+    "lua_chon": [
+     "Người cùng khổ (Le Paria)",
+     "Thanh niên",
+     "Sự thật"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1922, Nguyễn Ái Quốc là chủ bút tờ báo nào?",
+     "Pause! In 1922, which newspaper did Nguyễn Ái Quốc edit?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Người cùng khổ, Le Paria!",
+     "The answer is A: Le Paria, The Outcast!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "TẠI LIÊN XÔ (1923 – 1924)",
+   "y": [
+    "10 – 1923: được bầu vào Hội đồng Quốc tế Nông dân",
+    "6 – 1924: tham luận tại Đại hội V Quốc tế Cộng sản",
+    "1923 – 1924: viết bài cho tạp chí Thư tín quốc tế, báo Sự thật"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sang Liên Xô, tháng 10 năm 1923, Người được bầu vào Hội đồng Quốc tế Nông dân. Tháng 6 năm 1924, Người trình bày tham luận tại Đại hội lần thứ V của Quốc tế Cộng sản.",
+     "In the Soviet Union, in October 1923, he was elected to the Peasants' International Council. In June 1924, he addressed the Comintern's Fifth Congress."
+    ],
+    [
+     "Nhật Minh",
+     "Người còn viết bài cho tạp chí Thư tín quốc tế, báo Sự thật.",
+     "He also wrote for the journal International Correspondence and the newspaper Pravda."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1925",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "HỘI VIỆT NAM CÁCH MẠNG THANH NIÊN",
+   "y": [
+    "6 – 1925: thành lập tại Quảng Châu (Trung Quốc)",
+    "Thanh niên ưu tú ở Trung Quốc (Tâm tâm xã) và từ trong nước sang",
+    "Mục đích: cách mạng dân tộc giành độc lập → cách mạng thế giới, đi tới xã hội cộng sản",
+    "Xuất bản tờ báo Thanh niên"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 6 năm 1925, tại Quảng Châu, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên, từ những thanh niên ưu tú đang ở Trung Quốc, như nhóm Tâm tâm xã, và từ trong nước sang.",
+     "In June 1925, in Guangzhou, Nguyễn Ái Quốc founded the Vietnamese Revolutionary Youth League, drawing on outstanding young people already in China, such as the Tâm tâm xã group, and others from home."
+    ],
+    [
+     "Hân Hân",
+     "Mục đích của Hội: làm cách mạng dân tộc để giành độc lập, sau đó làm cách mạng thế giới để đi đến xã hội cộng sản. Hội xuất bản tờ báo Thanh niên.",
+     "Its aim: a national revolution to win independence, then world revolution towards communist society. It published the newspaper Thanh niên (Youth)."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    27
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "NHỮNG “HẠT GIỐNG ĐỎ”",
+   "y": [
+    "Lớp huấn luyện chính trị tại Quảng Châu: 75 học viên",
+    "Lớp cán bộ đầu tiên của Đảng",
+    "Lê Hồng Phong, Phùng Chí Kiên, Nguyễn Lương Bằng, Trần Phú, Phạm Văn Đồng…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nguyễn Ái Quốc trực tiếp mở các lớp huấn luyện chính trị tại Quảng Châu. Số học viên do Người trực tiếp huấn luyện gồm 75 người.",
+     "Nguyễn Ái Quốc personally ran political training classes in Guangzhou. He trained 75 students himself."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là lớp cán bộ đầu tiên của Đảng, trong đó có Lê Hồng Phong, Phùng Chí Kiên, Nguyễn Lương Bằng, Trần Phú, Phạm Văn Đồng.",
+     "They were the Party's first generation of cadres, including Lê Hồng Phong, Phùng Chí Kiên, Nguyễn Lương Bằng, Trần Phú and Phạm Văn Đồng."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Số học viên do Nguyễn Ái Quốc trực tiếp huấn luyện ở Quảng Châu là bao nhiêu?",
+    "lua_chon": [
+     "57 người",
+     "75 người",
+     "Hơn 100 người"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nguyễn Ái Quốc trực tiếp huấn luyện bao nhiêu học viên ở Quảng Châu?",
+     "Quick test! How many students did Nguyễn Ái Quốc train himself in Guangzhou?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 75 người!",
+     "The answer is B: 75!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tư liệu: bìa cuốn Đường Kách mệnh (như Hình 5.2 SGK, tr. 24)",
+    "tim": "Đường Kách mệnh 1927 book cover scan",
+    "yeu_cau": "bản chụp ấn phẩm gốc (phạm vi công cộng) hoặc ảnh hiện vật bảo tàng có giấy phép, ghi nguồn"
+   },
+   "hinh": "Tư liệu: bìa cuốn Đường Kách mệnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1925, Người còn tham gia sáng lập Hội Liên hiệp các dân tộc bị áp bức.",
+     "In July 1925, he also helped found the League of Oppressed Peoples."
+    ],
+    [
+     "Nhật Minh",
+     "Đầu năm 1927, tác phẩm Đường Kách mệnh, gồm các bài giảng của Người ở Quảng Châu, được xuất bản và bí mật đưa về nước.",
+     "In early 1927, The Revolutionary Path, his Guangzhou lectures, was published and secretly sent home."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    27
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "HÀNH TRÌNH 1921 – 1929",
+   "moc": [
+    [
+     "1921",
+     "Hội Liên hiệp thuộc địa"
+    ],
+    [
+     "1922",
+     "Báo Người cùng khổ"
+    ],
+    [
+     "6 – 1924",
+     "Đại hội V Quốc tế Cộng sản"
+    ],
+    [
+     "6 – 1925",
+     "Hội Việt Nam Cách mạng Thanh niên"
+    ],
+    [
+     "Đầu 1927",
+     "Đường Kách mệnh"
+    ],
+    [
+     "1927 – 1929",
+     "Pháp, Bỉ, Đức, Xiêm…"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1921 và 1922 ở Pháp: Hội Liên hiệp thuộc địa, báo Người cùng khổ. Tháng 6 năm 1924 ở Liên Xô: Đại hội V Quốc tế Cộng sản.",
+     "Recap! 1921 and 1922 in France: the Intercolonial Union and Le Paria. June 1924 in the USSR: the Comintern's Fifth Congress."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1925 ở Quảng Châu: Hội Việt Nam Cách mạng Thanh niên. Đầu năm 1927: Đường Kách mệnh.",
+     "June 1925 in Guangzhou: the Revolutionary Youth League. Early 1927: The Revolutionary Path."
+    ],
+    [
+     "Nhật Minh",
+     "Từ giữa năm 1927 đến cuối năm 1929, Người hoạt động ở Pháp, Bỉ, Đức, Xiêm, trước khi trở lại Trung Quốc triệu tập Hội nghị hợp nhất.",
+     "From mid-1927 to late 1929, he worked in France, Belgium, Germany and Siam, before returning to China to convene the unification conference."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    27
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong phòng truyền thống, nhìn về phía người xem; Nhật Minh giơ cuốn sách phục chế, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nói lớp học ở Quảng Châu đã gieo những “hạt giống đỏ” cho cách mạng Việt Nam? Bình luận nhé!",
+     "Your challenge: why do we say the Guangzhou classes sowed 'red seeds' for the Vietnamese revolution? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    27
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hội Việt Nam Cách mạng Thanh niên được Nguyễn Ái Quốc thành lập vào thời gian nào, ở đâu?",
+   "dap_an": [
+    "6 – 1925, Quảng Châu",
+    "12 – 1920, Tua",
+    "6 – 1924, Mát-xcơ-va",
+    "1921, Pa-ri"
+   ],
+   "dung": 0,
+   "trang": 24
+  },
+  {
+   "hoi": "Tác phẩm Đường Kách mệnh được xuất bản vào",
+   "dap_an": [
+    "Năm 1922",
+    "Năm 1925",
+    "Đầu năm 1927",
+    "Năm 1930"
+   ],
+   "dung": 2,
+   "trang": 27
+  },
+  {
+   "hoi": "Tháng 10 – 1923, Nguyễn Ái Quốc được bầu vào",
+   "dap_an": [
+    "Hội đồng Quốc tế Nông dân",
+    "Quốc hội Pháp",
+    "Ban Chấp hành Đảng Xã hội Pháp",
+    "Hội Liên hiệp thuộc địa"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Người nào sau đây thuộc lớp cán bộ đầu tiên được Nguyễn Ái Quốc huấn luyện ở Quảng Châu?",
+   "dap_an": [
+    "Phan Châu Trinh",
+    "Trần Phú",
+    "Nguyễn Thái Học",
+    "Phan Bội Châu"
+   ],
+   "dung": 1,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9 tr. 27 (bảng khái quát hoạt động tại Pháp, Liên Xô, Trung Quốc; hộp 'Em có biết' về 75 học viên đọc lại từ ảnh trang do OCR lẫn cột; Hình 6.2) và tr. 24 (Hội Việt Nam Cách mạng Thanh niên thành lập 6 – 1925 tại Quảng Châu, cơ sở Tâm tâm xã, mục đích, Đường Kách mệnh bí mật đưa về nước; Hình 5.2). Kiến thức chốt của danh mục khớp SGK (năm 1925 đã chính xác hoá thành tháng 6 – 1925 theo tr. 24). Không dùng ảnh chân dung lãnh tụ và các nhà cách mạng (chỉ nhắc tên, theo cách làm ở L9-B6-04); tư liệu chỉ là bản chụp báo Le Paria và bìa sách Đường Kách mệnh. Không vẽ bản đồ hành trình (mô phỏng danh mục đề xuất) vì SGK không có lược đồ – thay bằng trục thời gian.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "ma": "L9-B17-04",
+ "ten_tap": "Hậu phương lớn miền Bắc và Điện Biên Phủ trên không",
+ "ten_tap_en": "The Northern Rear and 'Điện Biên Phủ in the Air'",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 17. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+  "trang": [
+   87,
+   88
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-dan-mien-bac",
+  "10-co-gai-thanh-nien-xung-phong-nga-ba-dong-loc"
+ ],
+ "nhac": {
+  "tam_trang": "trầm hùng, xúc động ở đoạn Đồng Lộc, bùng nổ ở đoạn “Điện Biên Phủ trên không”",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 17, tr. 87–88.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một con phố Hà Nội ngày nay vào chiều cuối tháng 12, trời se lạnh, đèn đường vừa bật; Nhật Minh cầm cuốn SGK mở ở trang có ảnh máy bay bốc cháy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1972, bầu trời Hà Nội trở thành trận địa của trận “Điện Biên Phủ trên không”.",
+     "In December 1972, the sky over Hà Nội became the battlefield of the 'Điện Biên Phủ in the air'."
+    ],
+    [
+     "Nhật Minh",
+     "Miền Bắc vừa chống chiến tranh phá hoại, vừa làm hậu phương lớn cho miền Nam thế nào? Cùng xem nhé!",
+     "How did the North fight the bombing war while serving as the great rear for the South? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1965",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN TRANH PHÁ HOẠI LẦN THỨ NHẤT",
+   "y": [
+    "5 – 8 – 1964: dựng lên sự kiện Vịnh Bắc Bộ, ném bom một số nơi",
+    "7 – 2 – 1965: lấy cớ “trả đũa”, ném bom Đồng Hới, đảo Cồn Cỏ…",
+    "Chính thức gây chiến tranh phá hoại miền Bắc lần thứ nhất (không quân, hải quân)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 5 tháng 8 năm 1964, sau khi dựng lên sự kiện Vịnh Bắc Bộ, Mỹ cho máy bay ném bom một số nơi ở miền Bắc.",
+     "On 5 August 1964, after staging the Gulf of Tonkin incident, the US bombed several places in the North."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 7 tháng 2 năm 1965, lấy cớ “trả đũa”, Mỹ ném bom thị xã Đồng Hới, đảo Cồn Cỏ, chính thức gây ra chiến tranh phá hoại miền Bắc lần thứ nhất bằng không quân và hải quân.",
+     "On 7 February 1965, claiming 'retaliation', the US bombed Đồng Hới town and Cồn Cỏ island, officially starting the first air and naval war of destruction against the North."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "MIỀN BẮC ĐÁNH TRẢ",
+   "y": [
+    "Vừa chiến đấu, vừa sản xuất, vừa chi viện miền Nam",
+    "Hơn 4 năm: bắn rơi, phá huỷ 3 243 máy bay (6 chiếc B52)",
+    "Bắn cháy và chìm 143 tàu chiến",
+    "1 – 11 – 1968: Mỹ ngừng chiến tranh phá hoại lần thứ nhất"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Quân dân miền Bắc chuyển mọi hoạt động sang thời chiến, vừa chiến đấu, vừa sản xuất và chi viện cho miền Nam.",
+     "The North put everything on a war footing: fighting, producing and supporting the South at the same time."
+    ],
+    [
+     "Nhật Minh",
+     "Trong hơn 4 năm, miền Bắc bắn rơi, phá huỷ 3 243 máy bay, trong đó có 6 máy bay B52, bắn cháy và chìm 143 tàu chiến. Ngày 1 tháng 11 năm 1968, Mỹ phải tuyên bố ngừng chiến tranh phá hoại lần thứ nhất.",
+     "In over 4 years, the North shot down or destroyed 3,243 aircraft, including 6 B-52s, and set ablaze or sank 143 warships. On 1 November 1968, the US had to halt the first bombing war."
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong hơn 4 năm (chiến tranh phá hoại lần thứ nhất), miền Bắc bắn rơi, phá huỷ bao nhiêu máy bay Mỹ?",
+    "lua_chon": [
+     "143 chiếc",
+     "3 243 chiếc",
+     "Hơn 30 vạn chiếc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Trong hơn 4 năm, miền Bắc bắn rơi, phá huỷ bao nhiêu máy bay Mỹ?",
+     "Pause! In over 4 years, how many US aircraft did the North shoot down or destroy?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 3 243 chiếc!",
+     "The answer is B: 3,243!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Khu di tích lịch sử Ngã ba Đồng Lộc (Hà Tĩnh) ngày nay",
+    "tim": "Ngã ba Đồng Lộc khu di tích Hà Tĩnh ảnh",
+    "yeu_cau": "ảnh chụp di tích hiện nay, giấy phép mở, ghi nguồn; không vẽ AI người thật"
+   },
+   "hinh": "Khu di tích Ngã ba Đồng Lộc (Hà Tĩnh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Để giữ mạch máu giao thông Bắc – Nam, tại Ngã ba Đồng Lộc, Hà Tĩnh, trên đường Hồ Chí Minh, hàng nghìn chiến sĩ và nhân dân đã ngã xuống, trong đó có 10 cô gái thanh niên xung phong còn rất trẻ.",
+     "To keep the North–South lifeline open, thousands of soldiers and civilians fell at Đồng Lộc junction in Hà Tĩnh on the Hồ Chí Minh Trail, among them 10 very young women volunteers."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1989, Ngã ba Đồng Lộc được xếp hạng Khu di tích lịch sử cấp quốc gia.",
+     "In 1989, Đồng Lộc junction was ranked a National Historic Site."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "HẬU PHƯƠNG LỚN",
+   "y": [
+    "Hai tuyến vận chuyển chiến lược Bắc – Nam: trên bộ, trên biển",
+    "1965 – 1968: hơn 30 vạn cán bộ, bộ đội vào Nam",
+    "Hàng chục vạn tấn vũ khí, đạn dược, lương thực, thuốc men…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhờ hai tuyến đường vận chuyển chiến lược Bắc – Nam trên bộ và trên biển, sức người, sức của chi viện cho miền Nam tăng gấp nhiều lần.",
+     "Thanks to two strategic North–South supply routes, by land and by sea, the manpower and supplies sent south multiplied many times over."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ trong 4 năm, từ 1965 đến 1968, hơn 30 vạn cán bộ, bộ đội được cử vào Nam, cùng hàng chục vạn tấn vũ khí, lương thực, thuốc men.",
+     "In just 4 years, 1965 to 1968, over 300,000 cadres and soldiers went south, with hundreds of thousands of tonnes of weapons, food and medicine."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1972",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: máy bay Mỹ bị quân dân Hà Nội bắn rơi, bốc cháy trên bầu trời trong trận “Điện Biên Phủ trên không” (như Hình 17.4 SGK, tr. 88)",
+    "tim": "B-52 bắn rơi Hà Nội tháng 12 1972 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/báo chí có giấy phép, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: “Điện Biên Phủ trên không” (12 – 1972)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 16 tháng 4 năm 1972, Mỹ bắt đầu chiến tranh phá hoại miền Bắc lần thứ hai. Quân dân miền Bắc chủ động chống trả ngay từ trận đầu.",
+     "On 16 April 1972, the US began its second bombing war against the North. The North fought back from the very first battle."
+    ],
+    [
+     "Hân Hân",
+     "Đặc biệt, trong 12 ngày đêm, từ 18 đến 29 tháng 12 năm 1972, quân dân ta đánh bại hoàn toàn cuộc tập kích chiến lược bằng máy bay B52 vào Hà Nội, Hải Phòng và nhiều thành phố khác.",
+     "Above all, over 12 days and nights, from 18 to 29 December 1972, we completely defeated the strategic B-52 raids on Hà Nội, Hải Phòng and other cities."
+    ],
+    [
+     "Nhật Minh",
+     "Thắng lợi này được coi như trận “Điện Biên Phủ trên không”, buộc Mỹ phải kí Hiệp định Pa-ri năm 1973.",
+     "This victory was seen as an 'Điện Biên Phủ in the air', forcing the US to sign the Paris Agreement in 1973."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trận “Điện Biên Phủ trên không” kéo dài bao nhiêu ngày đêm?",
+    "lua_chon": [
+     "9 ngày đêm",
+     "12 ngày đêm",
+     "56 ngày đêm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Trận “Điện Biên Phủ trên không” kéo dài bao nhiêu ngày đêm?",
+     "Quick test! How many days and nights did the 'Điện Biên Phủ in the air' last?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 12 ngày đêm, từ 18 đến 29 tháng 12 năm 1972!",
+     "The answer is B: 12 days and nights, 18 to 29 December 1972!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · MIỀN BẮC 1964 – 1973",
+   "moc": [
+    [
+     "7 – 2 – 1965",
+     "Chiến tranh phá hoại lần thứ nhất"
+    ],
+    [
+     "1 – 11 – 1968",
+     "Mỹ ngừng ném bom lần thứ nhất"
+    ],
+    [
+     "16 – 4 – 1972",
+     "Chiến tranh phá hoại lần thứ hai"
+    ],
+    [
+     "18 – 29/12/1972",
+     "“Điện Biên Phủ trên không”"
+    ],
+    [
+     "1973",
+     "Hiệp định Pa-ri"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Ngày 7 tháng 2 năm 1965, chiến tranh phá hoại lần thứ nhất; ngày 1 tháng 11 năm 1968, Mỹ phải ngừng.",
+     "Recap! 7 February 1965: the first bombing war; 1 November 1968: the US has to stop."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 16 tháng 4 năm 1972, lần thứ hai; tháng 12 năm 1972, “Điện Biên Phủ trên không”; năm 1973, Hiệp định Pa-ri.",
+     "16 April 1972: the second; December 1972: 'Điện Biên Phủ in the air'; 1973: the Paris Agreement."
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên phố Hà Nội lúc lên đèn, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao thắng lợi tháng 12 năm 1972 được gọi là “Điện Biên Phủ trên không”? Bình luận nhé!",
+     "Your challenge: why was the December 1972 victory called 'Điện Biên Phủ in the air'? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngày 7 – 2 – 1965, lấy cớ “trả đũa”, Mỹ cho máy bay ném bom",
+   "dap_an": [
+    "Hà Nội, Hải Phòng",
+    "Thị xã Đồng Hới, đảo Cồn Cỏ",
+    "Vạn Tường",
+    "Ngã ba Đồng Lộc"
+   ],
+   "dung": 1,
+   "trang": 87
+  },
+  {
+   "hoi": "Mỹ tuyên bố ngừng chiến tranh phá hoại miền Bắc lần thứ nhất vào ngày",
+   "dap_an": [
+    "1 – 11 – 1968",
+    "16 – 4 – 1972",
+    "29 – 12 – 1972",
+    "31 – 1 – 1968"
+   ],
+   "dung": 0,
+   "trang": 88
+  },
+  {
+   "hoi": "10 cô gái thanh niên xung phong hi sinh anh dũng tại",
+   "dap_an": [
+    "Ngã ba Đồng Lộc (Hà Tĩnh)",
+    "Thành cổ Quảng Trị",
+    "Đèo Nai (Quảng Ninh)",
+    "Vạn Tường (Quảng Ngãi)"
+   ],
+   "dung": 0,
+   "trang": 88
+  },
+  {
+   "hoi": "Thắng lợi “Điện Biên Phủ trên không” buộc Mỹ phải",
+   "dap_an": [
+    "Kí Hiệp định Pa-ri (1973)",
+    "Kí Hiệp định Giơ-ne-vơ",
+    "Mở rộng chiến tranh",
+    "Tuyên bố “phi Mỹ hoá”"
+   ],
+   "dung": 0,
+   "trang": 88
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 87 (mục 1c: 5 – 8 – 1964, 7 – 2 – 1965, chuyển sang thời chiến) và tr. 88 (hơn 4 năm, 3 243 máy bay, 6 B52, 143 tàu chiến; 1 – 11 – 1968; hộp 'Em có biết' Ngã ba Đồng Lộc, 10 cô gái, 1989; chi viện: hơn 30 vạn, 1965 – 1968; 16 – 4 – 1972; 12 ngày đêm 18 – 29 – 12 – 1972; Hiệp định Pa-ri 1973; Hình 17.4). Kiến thức chốt của danh mục khớp SGK; SGK không dùng cụm 'mạch máu giao thông' cho tuyến đường Hồ Chí Minh mà nói 'giữ vững mạch máu giao thông từ Bắc vào Nam' – lời dẫn dùng đúng như vậy. Không mô phỏng bắn rơi B52 (mô phỏng danh mục đề xuất) – chỉ dùng ảnh tư liệu; không vẽ AI các cô gái Đồng Lộc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "ma": "L9-B19-04",
+ "ten_tap": "Trung Quốc: Công xưởng mới của thế giới",
+ "ten_tap_en": "China: The World's New Workshop",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   98
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-cong-xuong-trung-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, nhịp nhanh, chững lại ở phần hạn chế",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 98.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, cùng xem trên máy tính bảng bức ảnh khu Phố Đông (Thượng Hải) với những toà nhà chọc trời; trên bàn có quả địa cầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ba mươi năm, từ 1991 đến 2021, tốc độ tăng trưởng GDP của Trung Quốc luôn ở mức cao nhất thế giới!",
+     "For thirty years, from 1991 to 2021, China's GDP growth was always the highest in the world!"
+    ],
+    [
+     "Hân Hân",
+     "Trung Quốc trỗi dậy thần tốc như thế nào, và còn những thách thức gì? Cùng giải mã nhé!",
+     "How did China rise so fast, and what challenges remain? Let's decode it!"
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐƯỜNG HƯỚNG",
+   "y": [
+    "Mục tiêu: xây dựng kinh tế thị trường xã hội chủ nghĩa",
+    "Đẩy mạnh cải cách mở cửa"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ sau năm 1991, Trung Quốc chính thức nêu mục tiêu xây dựng kinh tế thị trường xã hội chủ nghĩa, đẩy mạnh cải cách mở cửa.",
+     "After 1991, China officially set the goal of a socialist market economy and pushed ahead with reform and opening up."
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "TĂNG TRƯỞNG THẦN TỐC",
+   "y": [
+    "1991 – 2021: tăng trưởng GDP luôn cao nhất thế giới",
+    "2010: nền kinh tế lớn thứ hai thế giới (sau Mỹ)",
+    "2021: GDP chiếm khoảng 18% toàn thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong 30 năm, tăng trưởng GDP của Trung Quốc luôn cao nhất thế giới. Năm 2010, Trung Quốc trở thành nền kinh tế lớn thứ hai thế giới, sau Mỹ.",
+     "In 30 years, China's GDP growth was always the world's highest. In 2010, it became the world's second-largest economy, after the US."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2021, GDP của Trung Quốc chiếm khoảng 18% toàn thế giới.",
+     "In 2021, China's GDP was about 18% of the world total."
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "GDP CỦA TRUNG QUỐC (tỉ USD)",
+   "moc": [
+    [
+     "1991",
+     "383"
+    ],
+    [
+     "2000",
+     "1 210"
+    ],
+    [
+     "2010",
+     "6 090"
+    ],
+    [
+     "2021",
+     "17 820"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Biểu đồ trong SGK: GDP Trung Quốc năm 1991 là 383 tỉ đô la, năm 2000 là 1 210 tỉ,",
+     "The textbook chart: China's GDP was 383 billion dollars in 1991, 1,210 billion in 2000,"
+    ],
+    [
+     "Nhật Minh",
+     "năm 2010 là 6 090 tỉ, và năm 2021 lên tới 17 820 tỉ đô la!",
+     "6,090 billion in 2010, and a full 17,820 billion in 2021!"
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trung Quốc trở thành nền kinh tế lớn thứ hai thế giới (sau Mỹ) vào năm nào?",
+    "lua_chon": [
+     "1991",
+     "2010",
+     "2021"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm nào Trung Quốc trở thành nền kinh tế lớn thứ hai thế giới?",
+     "Pause! In which year did China become the world's second-largest economy?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 2010!",
+     "The answer is B: 2010!"
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Phố Đông (Thượng Hải) ngày nay (như Hình 19.7 SGK, tr. 98)",
+    "tim": "Pudong Shanghai skyline photograph",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Phố Đông, Thượng Hải ngày nay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trung Quốc trở thành “công xưởng mới của thế giới”, trong đó sản xuất công nghệ cao là mũi nhọn; đô thị hoá diễn ra rất nhanh.",
+     "China became the 'new workshop of the world', with high-tech manufacturing as its spearhead; urbanisation moved very fast."
+    ],
+    [
+     "Nhật Minh",
+     "Trung Quốc tập trung xây dựng các khu vực thúc đẩy tăng trưởng như Phố Đông ở Thượng Hải, Thiên Tân, Thành Đô, Quảng Tây, Phúc Kiến.",
+     "China focused on growth hubs such as Pudong in Shanghai, Tianjin, Chengdu, Guangxi and Fujian."
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI MẶT CỦA TĂNG TRƯỞNG",
+   "y": [
+    "Mức sống không ngừng nâng cao; HDI ở mức cao",
+    "Tuổi thọ trung bình: 68 tuổi (1991) → 78 tuổi (2021)",
+    "Hạn chế: chất lượng tăng trưởng còn thấp, mất cân bằng, thiếu bền vững",
+    "Ô nhiễm môi trường; chênh lệch giàu – nghèo vẫn cao"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Mức sống người dân không ngừng nâng cao, chỉ số HDI ở mức cao; tuổi thọ trung bình tăng từ 68 tuổi năm 1991 lên 78 tuổi năm 2021.",
+     "Living standards kept rising and HDI is high; life expectancy went from 68 in 1991 to 78 in 2021."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy nhiên, chất lượng tăng trưởng còn thấp, mất cân bằng, thiếu bền vững, do ô nhiễm môi trường và chênh lệch giàu – nghèo vẫn cao.",
+     "However, growth quality is still low, unbalanced and unsustainable, because of pollution and a persistently wide wealth gap."
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "“VÀNH ĐAI, CON ĐƯỜNG”",
+   "y": [
+    "Từ năm 2013: sáng kiến “Vành đai, Con đường”",
+    "Giải pháp chiến lược thúc đẩy cải cách kinh tế trong nước",
+    "Phát huy vai trò đối ngoại"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 2013, sáng kiến “Vành đai, Con đường” được xem là giải pháp chiến lược, vừa thúc đẩy cải cách kinh tế trong nước, vừa phát huy vai trò đối ngoại.",
+     "Since 2013, the 'Belt and Road' initiative has been seen as a strategic solution, driving domestic reform while boosting China's role abroad."
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sáng kiến “Vành đai, Con đường” của Trung Quốc được đưa ra từ năm nào?",
+    "lua_chon": [
+     "2010",
+     "2013",
+     "2021"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Sáng kiến “Vành đai, Con đường” có từ năm nào?",
+     "Quick test! Since when has the 'Belt and Road' initiative existed?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: từ năm 2013!",
+     "The answer is B: since 2013!"
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên máy tính bảng, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo SGK, tăng trưởng của Trung Quốc còn những hạn chế gì? Nêu hai ý ở phần bình luận nhé!",
+     "Your challenge: according to the textbook, what weaknesses does China's growth still have? Name two in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    98
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ sau năm 1991, Trung Quốc chính thức nêu mục tiêu xây dựng",
+   "dap_an": [
+    "Kinh tế kế hoạch hoá tập trung",
+    "Kinh tế thị trường xã hội chủ nghĩa",
+    "Kinh tế tư bản tự do",
+    "Kinh tế nông nghiệp"
+   ],
+   "dung": 1,
+   "trang": 98
+  },
+  {
+   "hoi": "Năm 2021, GDP của Trung Quốc chiếm khoảng bao nhiêu GDP toàn thế giới?",
+   "dap_an": [
+    "10%",
+    "18%",
+    "25%",
+    "48%"
+   ],
+   "dung": 1,
+   "trang": 98
+  },
+  {
+   "hoi": "Khu vực nào được Trung Quốc tập trung xây dựng để thúc đẩy tăng trưởng?",
+   "dap_an": [
+    "Phố Đông (Thượng Hải)",
+    "Ô-xa-ca",
+    "Xơ-un",
+    "Tô-ki-ô"
+   ],
+   "dung": 0,
+   "trang": 98
+  },
+  {
+   "hoi": "Tuổi thọ trung bình của người dân Trung Quốc năm 2021 là",
+   "dap_an": [
+    "68 tuổi",
+    "72 tuổi",
+    "78 tuổi",
+    "85 tuổi"
+   ],
+   "dung": 2,
+   "trang": 98
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 98 (mục 1c: kinh tế thị trường xã hội chủ nghĩa; 30 năm 1991 – 2021; 2010; khoảng 18%; công xưởng mới; 68 → 78 tuổi; hạn chế; các khu vực tăng trưởng; 'Vành đai, Con đường' từ 2013; Hình 19.7). Số liệu GDP 383; 1 210; 6 090; 17 820 tỉ USD đọc từ ảnh Hình 19.6 (đối khớp OCR). Đã chỉnh kiến thức chốt của danh mục: SGK viết 'tốc độ tăng trưởng GDP luôn ở mức cao nhất thế giới' trong 30 năm (1991 – 2021). Không dựng bản đồ Vành đai – Con đường (mô phỏng danh mục đề xuất): SGK không có lược đồ, và bản đồ thế giới không được vẽ biên giới; thay bằng ảnh và thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

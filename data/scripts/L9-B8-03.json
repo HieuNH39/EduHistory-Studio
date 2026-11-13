@@ -1,0 +1,393 @@
+{
+ "ma": "L9-B8-03",
+ "ten_tap": "Việt Minh và Đội quân giải phóng",
+ "ten_tap_en": "The Việt Minh and the Liberation Army",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 8. Cách mạng tháng Tám năm 1945",
+  "trang": [
+   35,
+   36,
+   37
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-chung-nhan-dan",
+  "doi-viet-nam-tuyen-truyen-giai-phong-quan",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "kiên định, ấm áp, dâng dần; hào hùng ở đoạn Giải phóng quân",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 8, tr. 35–37.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước di tích Lán Khuổi Nậm trong Khu di tích quốc gia đặc biệt Pác Bó (Cao Bằng) ngày nay; mái lán tre nứa giữa rừng xanh, suối trong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Lán Khuổi Nậm ở Pác Bó, Cao Bằng, nơi họp Hội nghị Ban Chấp hành Trung ương Đảng lần thứ tám.",
+     "This is the Khuổi Nậm hut at Pác Bó, Cao Bằng, where the Party Central Committee held its Eighth Plenum."
+    ],
+    [
+     "Nhật Minh",
+     "Từ đây, cả một mặt trận và một đội quân cách mạng đã ra đời. Cùng xem nhé!",
+     "From here, a whole front and a revolutionary army were born. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    35,
+    36
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1941",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HỘI NGHỊ PÁC BÓ",
+   "y": [
+    "5 – 1941: Hội nghị Trung ương lần thứ tám tại Pác Bó",
+    "Do lãnh tụ Nguyễn Ái Quốc trực tiếp chủ trì",
+    "Nhiệm vụ trung tâm: chuẩn bị khởi nghĩa vũ trang giành chính quyền"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 5 năm 1941, Hội nghị Ban Chấp hành Trung ương Đảng lần thứ tám họp tại Pác Bó, do lãnh tụ Nguyễn Ái Quốc trực tiếp chủ trì.",
+     "In May 1941, the Party's Eighth Central Committee Plenum met at Pác Bó, chaired by leader Nguyễn Ái Quốc himself."
+    ],
+    [
+     "Hân Hân",
+     "Hội nghị xác định: chuẩn bị khởi nghĩa vũ trang để giành chính quyền là nhiệm vụ trung tâm.",
+     "It decided that preparing an armed uprising to seize power was the central task."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "MẶT TRẬN VIỆT MINH",
+   "y": [
+    "19 – 5 – 1941: Mặt trận Việt Nam độc lập đồng minh (Việt Minh)",
+    "Liên hiệp các giới đồng bào yêu nước, không phân biệt giàu nghèo, tôn giáo…",
+    "Gồm các tổ chức quần chúng: Hội Cứu quốc",
+    "Thu hút đông đảo quần chúng, nhất là ở Cao Bằng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 19 tháng 5 năm 1941, theo chủ trương của Hội nghị, Mặt trận Việt Nam độc lập đồng minh, gọi tắt là Mặt trận Việt Minh, được thành lập.",
+     "On 19 May 1941, following the Plenum's decision, the League for the Independence of Vietnam, the Việt Minh, was founded."
+    ],
+    [
+     "Nhật Minh",
+     "Mặt trận nhằm liên hiệp hết thảy các giới đồng bào yêu nước, không phân biệt giàu nghèo, già trẻ, gái trai, tôn giáo và xu hướng chính trị, để cùng mưu cuộc dân tộc giải phóng.",
+     "It aimed to unite all patriotic compatriots, rich or poor, old or young, men or women, of any religion or political leaning, to fight for national liberation."
+    ],
+    [
+     "Hân Hân",
+     "Mặt trận gồm các Hội Cứu quốc, thu hút đông đảo quần chúng, nhất là ở Cao Bằng.",
+     "It was made up of National Salvation Associations and drew huge numbers of people, especially in Cao Bằng."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mặt trận Việt Minh được thành lập vào ngày nào?",
+    "lua_chon": [
+     "19 – 5 – 1941",
+     "22 – 12 – 1944",
+     "15 – 4 – 1945"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Mặt trận Việt Minh được thành lập vào ngày nào?",
+     "Pause! On what date was the Việt Minh founded?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngày 19 tháng 5 năm 1941!",
+     "The answer is A: 19 May 1941!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1944",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐỘI VIỆT NAM TUYÊN TRUYỀN GIẢI PHÓNG QUÂN",
+   "y": [
+    "22 – 12 – 1944: thành lập tại Cao Bằng, theo chỉ thị của Hồ Chí Minh",
+    "Ngay sau đó: thắng hai trận Phay Khắt và Nà Ngần"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dưới ngọn cờ Việt Minh, công cuộc chuẩn bị Tổng khởi nghĩa được xúc tiến gấp rút. Ngày 22 tháng 12 năm 1944, theo chỉ thị của Hồ Chí Minh, Đội Việt Nam Tuyên truyền Giải phóng quân được thành lập tại Cao Bằng.",
+     "Under the Việt Minh banner, preparations for the general uprising sped up. On 22 December 1944, on Hồ Chí Minh's instruction, the Vietnam Propaganda and Liberation Army was founded in Cao Bằng."
+    ],
+    [
+     "Hân Hân",
+     "Ngay sau khi thành lập, Đội đã đánh thắng hai trận liên tiếp tại Phay Khắt và Nà Ngần.",
+     "Right after its founding, it won two battles in a row, at Phay Khắt and Nà Ngần."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngay sau khi thành lập, Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận nào?",
+    "lua_chon": [
+     "Bắc Sơn và Võ Nhai",
+     "Phay Khắt và Nà Ngần",
+     "Tiên Du và Ba Tơ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hai trận thắng đầu tiên của Đội là trận nào?",
+     "Quick test! What were the force's first two victories?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Phay Khắt và Nà Ngần!",
+     "The answer is B: Phay Khắt and Nà Ngần!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Việt Nam Giải phóng quân trước giờ lên đường thực hiện nhiệm vụ, tháng 8 – 1945 (như Hình 8.2 SGK, tr. 36)",
+    "tim": "Việt Nam Giải phóng quân tháng 8 1945 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; chỉ ảnh tập thể chiến sĩ, không cắt chân dung lãnh tụ"
+   },
+   "hinh": "Ảnh tư liệu: Việt Nam Giải phóng quân (8 – 1945)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 15 tháng 4 năm 1945, Hội nghị Quân sự cách mạng Bắc Kì quyết định thống nhất Cứu quốc quân và Việt Nam Tuyên truyền Giải phóng quân thành Việt Nam Giải phóng quân.",
+     "On 15 April 1945, the Northern Revolutionary Military Conference merged the National Salvation Army and the Propaganda and Liberation Army into the Vietnam Liberation Army."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là các chiến sĩ Việt Nam Giải phóng quân trước giờ lên đường làm nhiệm vụ, tháng 8 năm 1945.",
+     "Here are Liberation Army soldiers about to set out on a mission, August 1945."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "CĂN CỨ ĐỊA",
+   "y": [
+    "1941 – 1944: xây dựng căn cứ địa Bắc Sơn – Võ Nhai và Cao Bằng",
+    "Phát triển thành hai chiến khu: Cao – Bắc – Lạng và Thái – Tuyên – Hà",
+    "5 – 1945: Hồ Chí Minh rời Pác Bó về Tân Trào",
+    "Khu giải phóng Việt Bắc: căn cứ địa chính của cách mạng cả nước"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1941 đến năm 1944, Trung ương Đảng chỉ đạo xây dựng căn cứ địa Bắc Sơn – Võ Nhai và Cao Bằng, sau phát triển thành hai chiến khu Cao – Bắc – Lạng và Thái – Tuyên – Hà.",
+     "From 1941 to 1944, the Party built bases at Bắc Sơn – Võ Nhai and Cao Bằng, which grew into two war zones: Cao – Bắc – Lạng and Thái – Tuyên – Hà."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 5 năm 1945, Hồ Chí Minh rời Pác Bó về Tân Trào. Khu giải phóng Việt Bắc ra đời, được xem là hình ảnh thu nhỏ của nước Việt Nam mới.",
+     "In May 1945, Hồ Chí Minh moved from Pác Bó to Tân Trào. The Việt Bắc Liberated Zone was set up, seen as a miniature of the new Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CHUẨN BỊ LỰC LƯỢNG",
+   "moc": [
+    [
+     "5 – 1941",
+     "Hội nghị Trung ương 8"
+    ],
+    [
+     "19 – 5 – 1941",
+     "Mặt trận Việt Minh"
+    ],
+    [
+     "22 – 12 – 1944",
+     "Đội VN Tuyên truyền Giải phóng quân"
+    ],
+    [
+     "15 – 4 – 1945",
+     "Việt Nam Giải phóng quân"
+    ],
+    [
+     "5 – 1945",
+     "Hồ Chí Minh về Tân Trào"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 5 năm 1941, Hội nghị Trung ương lần thứ tám; ngày 19 tháng 5, Mặt trận Việt Minh ra đời.",
+     "Recap! May 1941: the Eighth Plenum; 19 May: the Việt Minh is founded."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 22 tháng 12 năm 1944, Đội Việt Nam Tuyên truyền Giải phóng quân; ngày 15 tháng 4 năm 1945, Việt Nam Giải phóng quân; tháng 5 năm 1945, Hồ Chí Minh về Tân Trào.",
+     "22 December 1944: the Propaganda and Liberation Army; 15 April 1945: the Vietnam Liberation Army; May 1945: Hồ Chí Minh moves to Tân Trào."
+    ]
+   ],
+   "nguon_trang": [
+    35,
+    36,
+    37
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên dòng suối ở Pác Bó, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao Mặt trận Việt Minh thu hút được đông đảo quần chúng? Bình luận nhé!",
+     "Your challenge: why did the Việt Minh attract so many people? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hội nghị Ban Chấp hành Trung ương Đảng lần thứ tám (5 – 1941) họp ở đâu?",
+   "dap_an": [
+    "Bà Điểm",
+    "Pác Bó (Cao Bằng)",
+    "Tân Trào (Tuyên Quang)",
+    "Hương Cảng"
+   ],
+   "dung": 1,
+   "trang": 35
+  },
+  {
+   "hoi": "Các tổ chức quần chúng trong Mặt trận Việt Minh lấy tên là",
+   "dap_an": [
+    "Hội Cứu quốc",
+    "Hội Ái hữu",
+    "Công hội đỏ",
+    "Nông hội đỏ"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Ngày 15 – 4 – 1945, Hội nghị Quân sự cách mạng Bắc Kì quyết định thống nhất Cứu quốc quân và Việt Nam Tuyên truyền Giải phóng quân thành",
+   "dap_an": [
+    "Việt Nam Giải phóng quân",
+    "Quân đội nhân dân Việt Nam",
+    "Vệ quốc đoàn",
+    "Đội du kích Bắc Sơn"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Khu giải phóng Việt Bắc được xem là",
+   "dap_an": [
+    "Thủ đô kháng chiến",
+    "Hình ảnh thu nhỏ của nước Việt Nam mới",
+    "Chiến khu duy nhất",
+    "Căn cứ của quân Nhật"
+   ],
+   "dung": 1,
+   "trang": 37
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 35 (Hội nghị Trung ương 8, 5 – 1941, Pác Bó; Hình 8.1), tr. 36 (Việt Minh 19 – 5 – 1941, Hội Cứu quốc; Đội VNTTGPQ 22 – 12 – 1944, Phay Khắt, Nà Ngần; 15 – 4 – 1945; Hình 8.2), tr. 37 (căn cứ địa; 5 – 1945 Tân Trào). Kiến thức chốt của danh mục khớp SGK. Câu trích mục đích Mặt trận được rút gọn, diễn đạt lại. Không dùng ảnh chân dung lãnh tụ (chỉ nhắc tên, theo cách làm ở L9-B6-04); ảnh tư liệu chỉ là ảnh tập thể chiến sĩ như Hình 8.2. Không vẽ bản đồ căn cứ địa (sa bàn tong-khoi-nghia-1945 có sẵn chỉ gồm diễn biến tháng 8 – 1945) – thay bằng thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

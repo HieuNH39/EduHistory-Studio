@@ -1,0 +1,334 @@
+{
+ "ma": "L9-B19-02",
+ "ten_tap": "Nhật Bản: Từ trì trệ đến chất lượng sống đỉnh cao",
+ "ten_tap_en": "Japan: From Stagnation to Top Quality of Life",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   96,
+   97
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-dan-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, hiện đại, suy ngẫm",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 96–97.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học; trên bàn là mô hình tháp truyền hình ở Tô-ki-ô bằng bìa cứng do hai bạn tự làm; màn hình phía sau hiện bản đồ Đông Bắc Á",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hơn bốn thập kỉ, Nhật Bản giữ vị thế nền kinh tế lớn thứ hai thế giới. Nhưng từ năm 1991, mọi thứ thay đổi.",
+     "For over four decades, Japan was the world's second-largest economy. But from 1991, things changed."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế chững lại, vậy mà người Nhật vẫn có chất lượng cuộc sống rất cao. Vì sao? Cùng xem nhé!",
+     "The economy stalled, yet the Japanese still enjoy a very high quality of life. Why? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐÔNG BẮC Á",
+   "y": [
+    "Ba nền kinh tế chủ yếu: Trung Quốc, Nhật Bản, Hàn Quốc",
+    "Đầu thế kỉ XXI: chiếm tới 1/5 GDP thế giới",
+    "và 1/4 dân số thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo Ngân hàng Thế giới, đầu thế kỉ XXI, ba nền kinh tế Trung Quốc, Nhật Bản, Hàn Quốc chiếm tới một phần năm GDP và một phần tư dân số thế giới.",
+     "According to the World Bank, in the early 21st century China, Japan and South Korea accounted for a fifth of world GDP and a quarter of its population."
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "KINH TẾ TỪ NĂM 1991",
+   "y": [
+    "Chưa thoát khỏi trì trệ",
+    "Xen lẫn suy thoái và tăng trưởng yếu ớt",
+    "Vẫn là một trong những trung tâm kinh tế – tài chính lớn của thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1991 đến nay, kinh tế Nhật Bản vẫn chưa thoát khỏi trì trệ, xen lẫn giữa suy thoái và tăng trưởng yếu ớt.",
+     "Since 1991, Japan's economy has not escaped stagnation, alternating between recession and weak growth."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy vậy, Nhật Bản vẫn là một trong những trung tâm kinh tế – tài chính lớn của thế giới.",
+     "Even so, Japan remains one of the world's major economic and financial centres."
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "GDP CỦA NHẬT BẢN (tỉ USD)",
+   "moc": [
+    [
+     "1991",
+     "3 580"
+    ],
+    [
+     "2000",
+     "4 968"
+    ],
+    [
+     "2010",
+     "5 760"
+    ],
+    [
+     "2021",
+     "5 010"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Biểu đồ trong SGK cho thấy GDP Nhật Bản: năm 1991 là 3 580 tỉ đô la, năm 2000 là 4 968 tỉ,",
+     "The textbook chart shows Japan's GDP: 3,580 billion dollars in 1991, 4,968 billion in 2000,"
+    ],
+    [
+     "Nhật Minh",
+     "năm 2010 là 5 760 tỉ, rồi năm 2021 giảm còn 5 010 tỉ đô la.",
+     "5,760 billion in 2010, then down to 5,010 billion in 2021."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 2010, nước nào vượt qua Nhật Bản, trở thành nền kinh tế lớn thứ hai thế giới?",
+    "lua_chon": [
+     "Trung Quốc",
+     "Hàn Quốc",
+     "Đức"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 2010, nước nào vượt Nhật Bản để trở thành nền kinh tế lớn thứ hai thế giới?",
+     "Pause! In 2010, which country overtook Japan as the world's second-largest economy?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Trung Quốc!",
+     "The answer is A: China!"
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: tháp truyền hình ở Tô-ki-ô ngày nay (như Hình 19.2 SGK, tr. 96)",
+    "tim": "Tokyo television tower city skyline photograph",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tô-ki-ô ngày nay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhật Bản là quốc gia có chất lượng cuộc sống cao, với hệ thống y tế, chăm sóc sức khoẻ đảm bảo và toàn diện.",
+     "Japan has a high quality of life, with a reliable and comprehensive health-care system."
+    ],
+    [
+     "Nhật Minh",
+     "Thu nhập bình quân đầu người vẫn cao, hơn 39 000 đô la Mỹ.",
+     "Income per head is still high, over 39,000 US dollars."
+    ]
+   ],
+   "nguon_trang": [
+    96,
+    97
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "CHẤT LƯỢNG SỐNG",
+   "y": [
+    "Chỉ số phát triển con người (HDI) ở mức cao",
+    "Tuổi thọ trung bình khoảng 85 tuổi – nhóm cao nhất thế giới",
+    "Chi tiêu y tế khoảng 10% GDP, có xu hướng tăng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Chỉ số phát triển con người, HDI, của Nhật Bản ở mức cao; tuổi thọ trung bình khoảng 85 tuổi, thuộc nhóm cao nhất thế giới.",
+     "Japan's Human Development Index, HDI, is high; average life expectancy is about 85, among the highest in the world."
+    ],
+    [
+     "Nhật Minh",
+     "Chi tiêu cho y tế chiếm khoảng 10% GDP và có xu hướng tăng.",
+     "Health spending is about 10% of GDP and rising."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tuổi thọ trung bình của người Nhật Bản hiện nay khoảng bao nhiêu?",
+    "lua_chon": [
+     "72 tuổi",
+     "78 tuổi",
+     "85 tuổi"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Tuổi thọ trung bình của người Nhật khoảng bao nhiêu?",
+     "Quick test! What is the average life expectancy in Japan?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: khoảng 85 tuổi!",
+     "The answer is C: about 85!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình tháp truyền hình, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: nhìn biểu đồ GDP từ năm 1991 đến năm 2021, cậu nhận xét gì về kinh tế Nhật Bản? Bình luận nhé!",
+     "Your challenge: looking at the 1991–2021 GDP chart, what do you notice about Japan's economy? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ năm 1991 đến nay, nền kinh tế Nhật Bản",
+   "dap_an": [
+    "Tăng trưởng “thần kì”",
+    "Chưa thoát khỏi trì trệ, xen lẫn suy thoái và tăng trưởng yếu ớt",
+    "Đứng đầu thế giới",
+    "Sụp đổ hoàn toàn"
+   ],
+   "dung": 1,
+   "trang": 96
+  },
+  {
+   "hoi": "Thu nhập bình quân đầu người của Nhật Bản hiện nay đạt",
+   "dap_an": [
+    "Hơn 39 000 USD",
+    "Khoảng 25 000 USD",
+    "Gần 35 000 USD",
+    "Khoảng 10 000 USD"
+   ],
+   "dung": 0,
+   "trang": 97
+  },
+  {
+   "hoi": "Theo Hình 19.3, GDP của Nhật Bản cao nhất vào năm nào trong các mốc được nêu?",
+   "dap_an": [
+    "1991",
+    "2000",
+    "2010",
+    "2021"
+   ],
+   "dung": 2,
+   "trang": 97
+  },
+  {
+   "hoi": "Chi tiêu cho y tế của Nhật Bản chiếm khoảng",
+   "dap_an": [
+    "1% GDP",
+    "5% GDP",
+    "10% GDP",
+    "18% GDP"
+   ],
+   "dung": 2,
+   "trang": 97
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 96 (Ngân hàng Thế giới: 1/5 GDP, 1/4 dân số; mục 1a: trì trệ từ 1991, trung tâm kinh tế – tài chính, năm 2010 bị Trung Quốc vượt; Hình 19.2) và tr. 97 (hơn 39 000 USD, HDI cao, khoảng 85 tuổi, khoảng 10% GDP). Số liệu GDP 1991, 2000, 2010, 2021 (3 580; 4 968; 5 760; 5 010 tỉ USD) đọc từ ảnh Hình 19.3 tr. 97 vì OCR không đọc được biểu đồ; lời dẫn 'một phần năm', 'một phần tư' ứng với 1/5, 1/4. Kiến thức chốt của danh mục khớp SGK ('tăng trưởng yếu ớt', 'khoảng 85 tuổi'). Thay biểu đồ cột (mô phỏng danh mục đề xuất) bằng thẻ trục thời gian có đủ 4 số liệu SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "ma": "L9-B8-01",
+ "ten_tap": "Việt Nam trong 'gọng kìm' Pháp - Nhật",
+ "ten_tap_en": "Vietnam in the French–Japanese Pincer",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 8. Cách mạng tháng Tám năm 1945",
+  "trang": [
+   34,
+   35
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuc-dan-phap",
+  "quan-phiet-nhat-ban",
+  "nhan-dan-viet-nam"
+ ],
+ "nhac": {
+  "tam_trang": "u buồn, nặng nề, trầm lắng; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 8, tr. 34–35.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, Nhật Minh giơ hai bàn tay khép lại như chiếc kìm; bảng phía sau ghi '1940 – 1945'",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1940, nhân dân Việt Nam bị kẹp giữa hai gọng kìm: chịu ách thống trị của cả Pháp và Nhật Bản!",
+     "From 1940, the Vietnamese people were caught in a pincer: ruled by both France and Japan!"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI KẺ THÙ (1940)",
+   "y": [
+    "6 – 1940: Chính phủ Pháp đầu hàng phát xít Đức",
+    "9 – 1940: Nhật Bản tiến đánh Lạng Sơn, rồi chiếm toàn Đông Dương",
+    "Pháp đầu hàng, câu kết với Nhật bóc lột nhân dân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1940, Chính phủ Pháp đầu hàng phát xít Đức. Tháng 9, quân Nhật đánh Lạng Sơn, rồi từng bước chiếm toàn bộ Đông Dương.",
+     "In June 1940, the French government surrendered to Nazi Germany. In September, Japan attacked Lạng Sơn, then gradually took all of Indochina."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Pháp đầu hàng, rồi câu kết với Nhật ra sức bóc lột nhân dân.",
+     "The French gave in, then joined the Japanese in exploiting the people."
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "BÓC LỘT TÀN ÁC",
+   "y": [
+    "Pháp: “Kinh tế chỉ huy”, tăng thuế",
+    "Nhật: bắt nhổ lúa trồng đay, cưỡng bức thu mua lương thực giá rẻ mạt",
+    "→ Nạn đói nghiêm trọng ở Bắc Kì, Bắc Trung Kì (cuối 1944 – đầu 1945)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Pháp thực hiện “Kinh tế chỉ huy”, tăng thuế. Nhật bắt dân nhổ lúa trồng đay, cưỡng bức thu mua lương thực với giá rẻ mạt.",
+     "France imposed a 'command economy' and raised taxes. Japan forced people to uproot rice for jute and seized food at rock-bottom prices."
+    ],
+    [
+     "Nhật Minh",
+     "Hậu quả: nạn đói nghiêm trọng ở Bắc Kì và Bắc Trung Kì, cuối năm 1944 – đầu năm 1945.",
+     "The result: a terrible famine in Tonkin and northern Annam, late 1944 to early 1945."
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân Nhật bắt nhân dân ta nhổ lúa để trồng",
+    "lua_chon": [
+     "Cà phê",
+     "Đay",
+     "Cao su"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Quân Nhật bắt dân ta nhổ lúa để trồng cây gì?",
+     "Pause! What did the Japanese force people to plant instead of rice?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: cây đay!",
+     "The answer is B: jute!"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem, vẻ mặt nghiêm trang; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mâu thuẫn giữa dân tộc ta với đế quốc và tay sai trở nên gay gắt. Bình luận nhé: vì sao nạn đói xảy ra?",
+     "The conflict between our nation and the imperialists grew acute. Comment below: why did the famine happen?"
+    ]
+   ],
+   "nguon_trang": [
+    34,
+    35
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tháng 9 – 1940, quân Nhật Bản tiến đánh Việt Nam ở đâu?",
+   "dap_an": [
+    "Hà Nội",
+    "Lạng Sơn",
+    "Sài Gòn",
+    "Cao Bằng"
+   ],
+   "dung": 1,
+   "trang": 34
+  },
+  {
+   "hoi": "Chính sách “Kinh tế chỉ huy” do ai thực hiện?",
+   "dap_an": [
+    "Thực dân Pháp",
+    "Quân phiệt Nhật Bản",
+    "Chính phủ Trần Trọng Kim",
+    "Mặt trận Việt Minh"
+   ],
+   "dung": 0,
+   "trang": 34
+  },
+  {
+   "hoi": "Nạn đói nghiêm trọng cuối năm 1944 – đầu năm 1945 xảy ra ở",
+   "dap_an": [
+    "Nam Kì",
+    "Bắc Kì và Bắc Trung Kì",
+    "Tây Nguyên",
+    "Nam Trung Kì"
+   ],
+   "dung": 1,
+   "trang": 34
+  },
+  {
+   "hoi": "Về chính trị, cả Nhật Bản và Pháp đều",
+   "dap_an": [
+    "Trao quyền tự do cho nhân dân",
+    "Phát xít hoá bộ máy cai trị, đàn áp cách mạng",
+    "Rút quân khỏi Đông Dương",
+    "Lập chính quyền Xô viết"
+   ],
+   "dung": 1,
+   "trang": 34
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 34 (mục 1: 6 – 1940, 9 – 1940 Lạng Sơn; chính trị, kinh tế; nạn đói cuối 1944 – đầu 1945) và tr. 35 (mâu thuẫn trở nên gay gắt). Kiến thức chốt của danh mục khớp SGK. Không dùng ảnh tư liệu nạn đói (hình ảnh gây sốc với học sinh và cần giấy phép); chỉ dùng thẻ chữ dựng bằng code và cảnh hai bạn ở hiện tại.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

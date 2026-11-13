@@ -1,0 +1,330 @@
+{
+ "ma": "L9-B12-01",
+ "ten_tap": "Mỹ La-tinh: Cuộc chiến chống 'sân sau'",
+ "ten_tap_en": "Latin America: Refusing to Be a 'Backyard'",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   52,
+   53
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nhan-dan-cac-nuoc-my-la-tinh"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, mạnh mẽ; lắng lại ở đoạn Ni-ca-ra-goa",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 52–53.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng Địa lí của trường, bên quả địa cầu lớn xoay về phía châu Mỹ; Hân Hân đặt ngón tay lên vùng Trung và Nam Mỹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, Mỹ tìm cách biến khu vực Mỹ La-tinh thành “sân sau” của mình.",
+     "After the Second World War, the US tried to turn Latin America into its 'backyard'."
+    ],
+    [
+     "Nhật Minh",
+     "Nhân dân Mỹ La-tinh đã đứng lên thế nào? Cùng tìm hiểu nhé!",
+     "How did the peoples of Latin America rise up? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "“SÂN SAU” CỦA MỸ",
+   "y": [
+    "Mỹ thiết lập các chế độ độc tài thân Mỹ",
+    "Mục đích: biến Mỹ La-tinh thành “sân sau” của Mỹ",
+    "→ Các nước tiến hành cách mạng dân tộc dân chủ, chống chế độ độc tài"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mỹ thiết lập các chế độ độc tài thân Mỹ ở Mỹ La-tinh, nhằm biến khu vực này thành “sân sau” của mình.",
+     "The US set up pro-American dictatorships in Latin America to make the region its 'backyard'."
+    ],
+    [
+     "Hân Hân",
+     "Vì vậy, các nước Mỹ La-tinh phải tiến hành cách mạng dân tộc dân chủ, chống chế độ độc tài.",
+     "So the Latin American countries had to wage national-democratic revolutions against the dictatorships."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau năm 1945, Mỹ thiết lập các chế độ độc tài thân Mỹ ở Mỹ La-tinh nhằm",
+    "lua_chon": [
+     "Biến khu vực này thành “sân sau” của Mỹ",
+     "Giúp các nước giành độc lập",
+     "Xây dựng chủ nghĩa xã hội"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mỹ thiết lập các chế độ độc tài thân Mỹ ở Mỹ La-tinh nhằm mục đích gì?",
+     "Pause! Why did the US set up pro-American dictatorships in Latin America?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: biến khu vực này thành “sân sau” của Mỹ!",
+     "The answer is A: to make the region America's 'backyard'!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1959",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tổng Tư lệnh Phi-đen Cát-xtơ-rô tuyên bố chế độ độc tài đã bị lật đổ ở Cu-ba, tháng 1 – 1959 (như Hình 12.2 SGK, tr. 52)",
+    "tim": "Fidel Castro January 1959 speech photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Cu-ba, tháng 1 – 1959",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mở đầu là cuộc cách mạng Cu-ba năm 1959. Cu-ba là nước đi tiên phong trong cuộc cách mạng dân tộc dân chủ ở Mỹ La-tinh.",
+     "It began with the Cuban revolution of 1959. Cuba led the way in Latin America's national-democratic revolution."
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    53
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "PHONG TRÀO LAN RỘNG",
+   "y": [
+    "Đấu tranh vũ trang: Bô-li-vi-a, Vê-nê-xu-ê-la, Cô-lôm-bi-a, Ni-ca-ra-goa…",
+    "Chính quyền độc tài phản động ở nhiều nước bị lật đổ",
+    "Chính quyền dân chủ thành lập, cải cách tiến bộ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau đó, phong trào bùng phát mạnh mẽ với các cuộc đấu tranh vũ trang ở Bô-li-vi-a, Vê-nê-xu-ê-la, Cô-lôm-bi-a, Ni-ca-ra-goa…",
+     "Then the movement flared up with armed struggles in Bolivia, Venezuela, Colombia, Nicaragua and elsewhere."
+    ],
+    [
+     "Nhật Minh",
+     "Kết quả, chính quyền độc tài phản động ở nhiều nước bị lật đổ; chính quyền dân chủ được thành lập, tiến hành các chính sách cải cách tiến bộ.",
+     "As a result, reactionary dictatorships fell in many countries; democratic governments came to power and carried out progressive reforms."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "NI-CA-RA-GOA",
+   "y": [
+    "Mặt trận Xan-đi-nô lãnh đạo nhân dân lật đổ chế độ độc tài thân Mỹ",
+    "Đưa đất nước phát triển theo con đường dân chủ",
+    "Do Mỹ can thiệp, phong trào thất bại năm 1990"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Em có biết? Ở Ni-ca-ra-goa, Mặt trận Xan-đi-nô đã lãnh đạo nhân dân lật đổ chế độ độc tài thân Mỹ, đưa đất nước theo con đường dân chủ.",
+     "Did you know? In Nicaragua, the Sandinista Front led the people in overthrowing the pro-US dictatorship and set the country on a democratic path."
+    ],
+    [
+     "Hân Hân",
+     "Tuy nhiên, do sự can thiệp của Mỹ, phong trào đã thất bại vào năm 1990.",
+     "However, because of US intervention, the movement failed in 1990."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc cách mạng nào mở đầu phong trào cách mạng dân tộc dân chủ ở Mỹ La-tinh?",
+    "lua_chon": [
+     "Cách mạng Cu-ba (1959)",
+     "Phong trào ở Ni-ca-ra-goa",
+     "Đấu tranh vũ trang ở Bô-li-vi-a"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Cuộc cách mạng nào mở đầu phong trào ở Mỹ La-tinh?",
+     "Quick test! Which revolution started the movement in Latin America?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cách mạng Cu-ba năm 1959!",
+     "The answer is A: the Cuban revolution of 1959!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "XÂY DỰNG ĐẤT NƯỚC",
+   "y": [
+    "Độc lập, chủ quyền được củng cố",
+    "Chính trị được dân chủ hoá",
+    "Kinh tế được cải cách",
+    "Liên kết khu vực được đẩy mạnh"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau khi hoàn thành cách mạng dân tộc dân chủ, các nước Mỹ La-tinh bắt tay xây dựng đất nước và đạt nhiều thành tựu quan trọng.",
+     "After completing their national-democratic revolutions, the Latin American countries set about building their nations and achieved a great deal."
+    ],
+    [
+     "Nhật Minh",
+     "Độc lập, chủ quyền được củng cố, chính trị được dân chủ hoá, kinh tế được cải cách, liên kết khu vực được đẩy mạnh.",
+     "Independence and sovereignty were strengthened, politics democratised, economies reformed and regional integration stepped up."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên quả địa cầu, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao nói Cu-ba là nước “đi tiên phong” ở Mỹ La-tinh? Bình luận nhé!",
+     "Your challenge: why is Cuba called the 'pioneer' in Latin America? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    53
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Chiến tranh thế giới thứ hai, các nước Mỹ La-tinh phải tiến hành",
+   "dap_an": [
+    "Cách mạng dân tộc dân chủ, chống chế độ độc tài",
+    "Cách mạng công nghiệp",
+    "Chiến tranh xâm lược",
+    "Cải cách ruộng đất theo kiểu Mỹ"
+   ],
+   "dung": 0,
+   "trang": 52
+  },
+  {
+   "hoi": "Nước nào sau đây có đấu tranh vũ trang chống chế độ độc tài theo SGK?",
+   "dap_an": [
+    "Bô-li-vi-a",
+    "Nhật Bản",
+    "Ấn Độ",
+    "Pháp"
+   ],
+   "dung": 0,
+   "trang": 52
+  },
+  {
+   "hoi": "Ở Ni-ca-ra-goa, lực lượng lãnh đạo nhân dân lật đổ chế độ độc tài thân Mỹ là",
+   "dap_an": [
+    "Phong trào 26 – 7",
+    "Mặt trận Xan-đi-nô",
+    "Đảng Quốc đại",
+    "Mặt trận Việt Minh"
+   ],
+   "dung": 1,
+   "trang": 53
+  },
+  {
+   "hoi": "Thành tựu của các nước Mỹ La-tinh sau cách mạng dân tộc dân chủ là",
+   "dap_an": [
+    "Độc lập, chủ quyền được củng cố; chính trị được dân chủ hoá",
+    "Trở thành thuộc địa của Mỹ",
+    "Rút khỏi mọi liên kết khu vực",
+    "Thành lập NATO"
+   ],
+   "dung": 0,
+   "trang": 53
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 52 (mục 1a: 'sân sau', cách mạng dân tộc dân chủ, Cu-ba 1959, các nước có đấu tranh vũ trang, kết quả; Hình 12.2) và tr. 53 (đọc lại ảnh trang: hộp 'Em có biết' về Mặt trận Xan-đi-nô và năm 1990; thành tựu; Cu-ba đi tiên phong). Kiến thức chốt của danh mục khớp SGK. Diễn biến cách mạng Cu-ba đã có ở L9-B12-02 nên tập này chỉ nhắc mốc mở đầu. Không dựng bản đồ các điểm nóng (mô phỏng danh mục đề xuất): Hình 12.3 chỉ ghi năm giành độc lập của một số nước, không ghi năm cách mạng, nên dễ gây hiểu nhầm – thay bằng thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

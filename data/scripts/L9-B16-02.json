@@ -1,0 +1,334 @@
+{
+ "ma": "L9-B16-02",
+ "ten_tap": "Hậu phương lớn chi viện tiền tuyến",
+ "ten_tap_en": "The Great Rear Supports the Front",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+  "trang": [
+   81,
+   82,
+   84
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "bo-doi-truong-son",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, bền bỉ, hào hùng dần; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 16, tr. 81, 82, 84.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng bên một đoạn đường Hồ Chí Minh hiện đại uốn lượn qua núi rừng Trường Sơn ngày nay, mây trắng trên đỉnh núi; bên đường có tấm biển chỉ dẫn di tích",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 2013, Di tích lịch sử Đường Trường Sơn – Đường Hồ Chí Minh được xếp hạng Di tích quốc gia đặc biệt.",
+     "In 2013, the Trường Sơn Road – Hồ Chí Minh Trail was ranked a Special National Historic Site."
+    ],
+    [
+     "Nhật Minh",
+     "Con đường ấy gắn với vai trò hậu phương lớn của miền Bắc. Miền Bắc vừa xây dựng, vừa chi viện cho miền Nam thế nào? Cùng xem nhé!",
+     "The road is tied to the North's role as the great rear base. How did the North build itself while supporting the South? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1958",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "MIỀN BẮC (1958 – 1960)",
+   "y": [
+    "1958 – 1960: cải tạo quan hệ sản xuất; trọng tâm kinh tế quốc doanh, tập thể",
+    "Cuối 1960: 40 000 hợp tác xã nông nghiệp",
+    "Căn bản xoá nạn mù chữ ở miền xuôi cho người dưới 50 tuổi",
+    "Cơ sở y tế tăng hơn 11 lần so với năm 1955"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1958 – 1960, miền Bắc cải tạo quan hệ sản xuất, trọng tâm là phát triển kinh tế quốc doanh và kinh tế tập thể. Cuối năm 1960, miền Bắc có 40 000 hợp tác xã nông nghiệp.",
+     "In 1958–1960, the North transformed its relations of production, centred on state and collective sectors. By late 1960 it had 40,000 farming cooperatives."
+    ],
+    [
+     "Hân Hân",
+     "Văn hoá, y tế cũng tiến bộ: căn bản xoá nạn mù chữ ở miền xuôi cho người dưới 50 tuổi; cơ sở y tế tăng hơn 11 lần so với năm 1955.",
+     "Culture and health advanced too: illiteracy was basically wiped out in the lowlands for people under 50, and health facilities rose more than elevenfold over 1955."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HẬU PHƯƠNG LỚN",
+   "y": [
+    "Huấn luyện, đưa đơn vị vũ trang, cán bộ vào chiến trường miền Nam",
+    "19 – 5 – 1959: ngày truyền thống Đoàn 559, Đường Trường Sơn – Đường Hồ Chí Minh",
+    "Từ 1959: tuyến chi viện chiến lược trên bộ, trên biển hình thành"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Miền Bắc còn làm nghĩa vụ hậu phương lớn: nhiều đơn vị vũ trang, cán bộ được huấn luyện và đưa vào chiến trường miền Nam.",
+     "The North also served as the great rear: many armed units and cadres were trained and sent to the southern battlefield."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 19 tháng 5 năm 1959 trở thành ngày truyền thống của Đoàn 559, Đường Trường Sơn – Đường Hồ Chí Minh. Từ năm 1959, tuyến chi viện chiến lược trên bộ và trên biển được hình thành.",
+     "19 May 1959 became the founding-tradition day of Group 559 and the Trường Sơn Road – Hồ Chí Minh Trail. From 1959, strategic supply routes by land and by sea took shape."
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày nào trở thành ngày truyền thống của Đoàn 559, Đường Trường Sơn – Đường Hồ Chí Minh?",
+    "lua_chon": [
+     "19 – 5 – 1959",
+     "20 – 12 – 1960",
+     "17 – 1 – 1960"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ngày truyền thống của Đường Trường Sơn – Đường Hồ Chí Minh là ngày nào?",
+     "Pause! What is the tradition day of the Trường Sơn Road – Hồ Chí Minh Trail?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngày 19 tháng 5 năm 1959!",
+     "The answer is A: 19 May 1959!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1961",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾ HOẠCH 5 NĂM LẦN THỨ NHẤT",
+   "y": [
+    "Đại hội III của Đảng Lao động Việt Nam (9 – 1960)",
+    "Kế hoạch 5 năm lần thứ nhất (1961 – 1965): xây dựng cơ sở vật chất – kĩ thuật",
+    "Hơn 90% hộ nông dân vào hợp tác xã; nhiều nơi đạt 5 tấn thóc/héc-ta",
+    "Công nghiệp quốc doanh: 93,1% giá trị sản lượng công nghiệp"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thực hiện nghị quyết Đại hội III của Đảng, tháng 9 năm 1960, miền Bắc thực hiện kế hoạch 5 năm lần thứ nhất, từ năm 1961 đến năm 1965, xây dựng cơ sở vật chất – kĩ thuật của chủ nghĩa xã hội.",
+     "Following the Party's Third Congress of September 1960, the North carried out its first five-year plan, 1961–1965, to build socialism's material and technical base."
+    ],
+    [
+     "Hân Hân",
+     "Hơn 90% hộ nông dân vào hợp tác xã, nhiều nơi đạt 5 tấn thóc trên một héc-ta; công nghiệp quốc doanh chiếm 93,1% giá trị sản lượng công nghiệp.",
+     "Over 90% of peasant households joined cooperatives, many places reached 5 tonnes of rice per hectare, and state industry made up 93.1% of industrial output."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: phong trào “Ba sẵn sàng” của thanh niên miền Bắc, năm 1964 (như Hình 16.4 SGK, tr. 82)",
+    "tim": "phong trào Ba sẵn sàng thanh niên miền Bắc 1964 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/báo chí có giấy phép, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: phong trào “Ba sẵn sàng” (1964)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đường bộ, đường sắt, đường sông, đường biển được xây dựng, phục vụ chi viện cho miền Nam. Chỉ trong 5 năm, một khối lượng lớn lương thực, vũ khí, đạn dược, thuốc men được chuyển vào chiến trường.",
+     "Roads, railways, rivers and sea routes were built to support the South. In just 5 years, huge amounts of food, weapons, ammunition and medicine reached the front."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1961 đến năm 1963, khoảng 4 vạn cán bộ, chiến sĩ được bổ sung cho chiến trường miền Nam.",
+     "From 1961 to 1963, about 40,000 cadres and soldiers reinforced the southern front."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ năm 1961 đến năm 1963, khoảng bao nhiêu cán bộ, chiến sĩ được bổ sung cho chiến trường miền Nam?",
+    "lua_chon": [
+     "Khoảng 4 nghìn",
+     "Khoảng 4 vạn",
+     "Khoảng 40 vạn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Từ năm 1961 đến năm 1963, khoảng bao nhiêu cán bộ, chiến sĩ được bổ sung cho miền Nam?",
+     "Quick test! From 1961 to 1963, about how many cadres and soldiers went south?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: khoảng 4 vạn người!",
+     "The answer is B: about 40,000!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÌN LẠI 10 NĂM",
+   "y": [
+    "“Trong 10 năm qua, miền Bắc nước ta đã tiến những bước dài chưa từng thấy trong lịch sử dân tộc.",
+    "Đất nước, xã hội, con người đều đổi mới.”",
+    "– Chủ tịch Hồ Chí Minh, năm 1964"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1964, Chủ tịch Hồ Chí Minh nhận định: “Trong 10 năm qua, miền Bắc nước ta đã tiến những bước dài chưa từng thấy trong lịch sử dân tộc. Đất nước, xã hội, con người đều đổi mới”.",
+     "In 1964, President Hồ Chí Minh observed: 'In the past 10 years, our North has taken strides never seen in our nation's history. The country, society and people have all been renewed.'"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên đường Hồ Chí Minh giữa núi rừng, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: tìm một tư liệu chứng minh sự chi viện của miền Bắc đã góp phần vào thắng lợi ở miền Nam, rồi chia sẻ ở phần bình luận nhé!",
+     "Your challenge: find a source showing how the North's support helped win victories in the South, and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kế hoạch 5 năm lần thứ nhất ở miền Bắc được thực hiện trong những năm nào?",
+   "dap_an": [
+    "1955 – 1957",
+    "1958 – 1960",
+    "1961 – 1965",
+    "1965 – 1968"
+   ],
+   "dung": 2,
+   "trang": 82
+  },
+  {
+   "hoi": "Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam họp vào",
+   "dap_an": [
+    "9 – 1960",
+    "1 – 1959",
+    "12 – 1960",
+    "5 – 1959"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Từ năm 1959, tuyến chi viện chiến lược nào được hình thành?",
+   "dap_an": [
+    "Đường sắt Bắc – Nam",
+    "Đường Trường Sơn trên bộ, trên biển",
+    "Đường hàng không quốc tế",
+    "Đường số 4"
+   ],
+   "dung": 1,
+   "trang": 81
+  },
+  {
+   "hoi": "Trong kế hoạch 5 năm lần thứ nhất, công nghiệp quốc doanh chiếm bao nhiêu tổng giá trị sản lượng công nghiệp miền Bắc?",
+   "dap_an": [
+    "45%",
+    "50%",
+    "90%",
+    "93,1%"
+   ],
+   "dung": 3,
+   "trang": 82
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 81 (1958 – 1960: 40 000 hợp tác xã, xoá mù chữ người dưới 50 tuổi, y tế tăng hơn 11 lần so với 1955; hộp 'Em có biết' 19 – 5 – 1959 và năm 2013; chi viện, từ 1959), tr. 82 (tuyến chi viện trên bộ, trên biển; Đại hội III 9 – 1960; kế hoạch 5 năm 1961 – 1965: hơn 90%, 50%, 5 tấn, 93,1%; 5 năm, khoảng 4 vạn cán bộ chiến sĩ 1961 – 1963; Hình 16.4; Tư liệu 1964), tr. 84 (nhiệm vụ vận dụng). Đã chỉnh kiến thức chốt của danh mục: SGK không viết 'thành lập Đoàn 559' mà ghi 19 – 5 – 1959 là 'ngày truyền thống của Đoàn 559, Đường Trường Sơn – Đường Hồ Chí Minh và Bộ đội Trường Sơn', và tuyến chi viện hình thành 'từ năm 1959'. Không dùng Hình 16.3 (có chân dung lãnh tụ); không dựng bản đồ đường Trường Sơn vì SGK không có lược đồ ở bài này.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

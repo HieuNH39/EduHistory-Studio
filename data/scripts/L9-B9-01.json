@@ -1,0 +1,203 @@
+{
+ "ma": "L9-B9-01",
+ "ten_tap": "Chiến tranh lạnh là gì?",
+ "ten_tap_en": "What Was the Cold War?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 9. Chiến tranh lạnh (1947 – 1989)",
+  "trang": [
+   41,
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "lạnh, căng, nhịp nhanh; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 9, tr. 41–43.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) trước tủ lạnh trong phòng ăn của trường; Hân Hân mở cửa tủ, hơi lạnh toả ra, Nhật Minh làm vẻ mặt thắc mắc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh mà lại “lạnh”? Không có tiếng súng giữa hai cường quốc, mà thế giới vẫn căng như dây đàn!",
+     "A 'cold' war? No shots between the two superpowers, yet the world was stretched taut!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN TRANH LẠNH",
+   "y": [
+    "“Hoà bình là bất khả thi, chiến tranh không thể xảy ra”",
+    "Mỹ ↔ Liên Xô: kinh tế, chính trị – quân sự, mở rộng ảnh hưởng",
+    "1947 – 1989"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một nhà nghiên cứu đã tóm gọn: “Hoà bình là bất khả thi, chiến tranh không thể xảy ra”. Mỹ và Liên Xô đối đầu về kinh tế, chính trị – quân sự và mở rộng ảnh hưởng.",
+     "One scholar summed it up: 'Peace is impossible, war is unlikely'. The US and the USSR clashed in economics, politics, the military and spheres of influence."
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    42
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TỪ ĐỒNG MINH THÀNH ĐỐI THỦ",
+   "moc": [
+    [
+     "Sau 1945",
+     "Đồng minh → đối đầu"
+    ],
+    [
+     "3 – 1947",
+     "Tơ-ru-man: Chiến lược toàn cầu"
+    ],
+    [
+     "12 – 1989",
+     "Chấm dứt ở Man-ta"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau năm 1945, từ đồng minh, hai nước chuyển sang đối đầu. Tháng 3 năm 1947, Tổng thống Mỹ Tơ-ru-man mở đầu Chiến tranh lạnh.",
+     "After 1945, the allies turned into rivals. In March 1947, US President Truman started the Cold War."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1989, lãnh đạo Mỹ và Liên Xô tuyên bố chấm dứt nó tại Man-ta.",
+     "In December 1989, the US and Soviet leaders declared it over at Malta."
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    43
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh lạnh được tuyên bố chấm dứt ở đâu?",
+    "lua_chon": [
+     "Man-ta",
+     "Béc-lin",
+     "Mát-xcơ-va"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chiến tranh lạnh được tuyên bố chấm dứt ở đâu?",
+     "Pause! Where was the end of the Cold War declared?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Man-ta, năm 1989!",
+     "The answer is A: Malta, in 1989!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bình luận nhé: theo cậu, vì sao gọi là chiến tranh “lạnh”?",
+     "Comment below: why do you think it was called a 'cold' war?"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chiến tranh lạnh diễn ra trong khoảng thời gian nào?",
+   "dap_an": [
+    "1939 – 1945",
+    "1945 – 1975",
+    "1947 – 1989",
+    "1991 – nay"
+   ],
+   "dung": 2,
+   "trang": 41
+  },
+  {
+   "hoi": "Trong Chiến tranh lạnh, hai nước đứng đầu hai hệ thống đối lập là",
+   "dap_an": [
+    "Anh và Pháp",
+    "Mỹ và Liên Xô",
+    "Mỹ và Trung Quốc",
+    "Liên Xô và Nhật Bản"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Tổng thống Mỹ nào mở đầu Chiến tranh lạnh (3 – 1947)?",
+   "dap_an": [
+    "Tơ-ru-man",
+    "Ph. Ru-dơ-ven",
+    "Ních-xơn",
+    "G. Bu-sơ"
+   ],
+   "dung": 0,
+   "trang": 41
+  },
+  {
+   "hoi": "Chiến tranh lạnh được tuyên bố chấm dứt vào thời gian nào?",
+   "dap_an": [
+    "12 – 1989",
+    "8 – 1991",
+    "12 – 1991",
+    "11 – 1989"
+   ],
+   "dung": 0,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 41 (tên bài 1947 – 1989; câu của Rây-mân A-ron; từ đồng minh sang đối đầu; 3 – 1947), tr. 42 (các lĩnh vực đối đầu), tr. 43 (chấm dứt tại Man-ta, 12 – 1989). Đã chỉnh kiến thức chốt: SGK không dùng cụm 'khác biệt về ý thức hệ' – lời dẫn nói đúng 'chuyển từ quan hệ đồng minh sang đối đầu'.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

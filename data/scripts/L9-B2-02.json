@@ -1,0 +1,190 @@
+{
+ "ma": "L9-B2-02",
+ "ten_tap": "Cơn địa chấn kinh tế 1929",
+ "ten_tap_en": "The Economic Earthquake of 1929",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+  "trang": [
+   10,
+   11,
+   12
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-that-nghiep"
+ ],
+ "nhac": {
+  "tam_trang": "căng, nhịp nhanh, hơi u ám; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 2, tr. 10–12.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Hân Hân (đồng phục FPT) cầm chiếc ô tô đồ chơi kiểu cổ gắn mác giá '100 USD', ngạc nhiên quay sang Nhật Minh; phía sau là góc thư viện trường",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mỹ, năm 1929: xe hơi rao bán chỉ 100 đô la! Vì sao hàng hoá rẻ mà vẫn ế?",
+     "America, 1929: cars on sale for just 100 dollars! Why were goods so cheap yet unsold?"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "NGUYÊN NHÂN",
+   "y": [
+    "1924 – 1929: sản xuất ồ ạt",
+    "Sức mua của thị trường không tăng tương ứng",
+    "Hàng hoá ế thừa → suy thoái"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1924 – 1929, các nước tư bản sản xuất ồ ạt, nhưng sức mua không tăng tương ứng. Hàng hoá ế thừa, dẫn tới suy thoái.",
+     "In 1924–1929, capitalist countries mass-produced, but purchasing power did not keep up. Unsold goods piled up, leading to a slump."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: dòng người thất nghiệp ở Hà Lan trong đại suy thoái kinh tế (như Hình 2.4 SGK, tr. 12)",
+    "tim": "Great Depression unemployed queue Netherlands 1930s photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: người thất nghiệp xếp hàng (đại suy thoái)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1929, đại suy thoái bùng nổ ở Mỹ, lan ra toàn thế giới tư bản, kéo dài gần 4 năm.",
+     "In October 1929, the Great Depression broke out in the US and spread across the capitalist world for nearly 4 years."
+    ],
+    [
+     "Nhật Minh",
+     "Số người thất nghiệp lên tới 50 triệu; hàng triệu nông dân mất ruộng đất.",
+     "Unemployment reached 50 million; millions of peasants lost their land."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đại suy thoái 1929 – 1933 trầm trọng nhất vào năm nào?",
+    "lua_chon": [
+     "1929",
+     "1932",
+     "1933"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đại suy thoái trầm trọng nhất vào năm nào?",
+     "Pause! In which year was the Depression at its worst?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 1932!",
+     "The answer is B: 1932!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem trong thư viện; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để thoát khủng hoảng, Anh, Pháp cải cách; còn Đức, I-ta-li-a chọn phát xít hoá. Vì sao lại khác nhau? Bình luận nhé!",
+     "To escape the crisis, Britain and France reformed, while Germany and Italy turned fascist. Why the difference? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc đại suy thoái kinh tế 1929 – 1933 bùng nổ đầu tiên ở nước nào?",
+   "dap_an": [
+    "Anh",
+    "Đức",
+    "Mỹ",
+    "Pháp"
+   ],
+   "dung": 2,
+   "trang": 11
+  },
+  {
+   "hoi": "Nguyên nhân dẫn tới đại suy thoái là",
+   "dap_an": [
+    "Sản xuất ồ ạt trong khi sức mua không tăng tương ứng",
+    "Thiếu lao động",
+    "Chiến tranh thế giới bùng nổ",
+    "Thiên tai mất mùa"
+   ],
+   "dung": 0,
+   "trang": 11
+  },
+  {
+   "hoi": "Đại suy thoái diễn ra trong những lĩnh vực nào?",
+   "dap_an": [
+    "Chỉ tài chính",
+    "Chỉ nông nghiệp",
+    "Tất cả các lĩnh vực: tài chính, công nghiệp, nông nghiệp, thương nghiệp",
+    "Chỉ công nghiệp"
+   ],
+   "dung": 2,
+   "trang": 11
+  },
+  {
+   "hoi": "Để thoát khỏi đại suy thoái, các nước Anh, Pháp đã",
+   "dap_an": [
+    "Phát xít hoá",
+    "Tiến hành cải cách kinh tế – xã hội",
+    "Gia nhập Quốc tế Cộng sản",
+    "Bỏ hết thuộc địa"
+   ],
+   "dung": 1,
+   "trang": 12
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 10 (Hình 2.1: xe hơi rao bán 100 USD, Mỹ 1929), tr. 11 (nguyên nhân, thời gian, 'trầm trọng nhất là năm 1932'), tr. 12 (Tư liệu: 50 triệu thất nghiệp, hàng triệu nông dân mất ruộng đất; Hình 2.4; con đường thoát khủng hoảng). Kiến thức chốt của danh mục khớp SGK ('hàng triệu người thất nghiệp' → SGK ghi cụ thể 'lên tới 50 triệu'). Khung dọc 60 giây: chỉ dùng ảnh tư liệu và thẻ chữ; không có nhân vật lịch sử được vẽ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,367 @@
+{
+ "ma": "L9-B5-02",
+ "ten_tap": "Người Việt yêu nước ở phương xa",
+ "ten_tap_en": "Vietnamese Patriots Abroad",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 5. Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+  "trang": [
+   22,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phan-chau-trinh",
+  "thanh-vien-tam-tam-xa",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, da diết, dâng lên ở đoạn tiếng bom Sa Diện; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu phong cảnh; thẻ chữ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 5, tr. 22 và Bài 6, tr. 27.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ở hành lang trường, đứng trước tấm bản đồ thế giới treo tường; hai bạn dán hai mẩu giấy ghi chú màu vàng lên Quảng Châu và Pa-ri",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu thế kỉ XX, không chỉ ở trong nước, ngay cả ở nơi xa xứ, người Việt Nam yêu nước vẫn tìm cách đấu tranh.",
+     "In the early 20th century, Vietnamese patriots kept up the fight not only at home but also far from it."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay, ta đến hai điểm: Quảng Châu ở Trung Quốc và Pa-ri ở Pháp. Đi thôi!",
+     "Today we visit two places: Guangzhou in China and Paris in France. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "BỐI CẢNH MỚI",
+   "y": [
+    "Chương trình khai thác thuộc địa lần thứ hai của tư bản Pháp ở Đông Dương",
+    "Thắng lợi của Cách mạng tháng Mười Nga (1917)",
+    "Quốc tế Cộng sản ra đời (1919)",
+    "→ Phong trào dân tộc dân chủ phát triển phong phú"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chương trình khai thác thuộc địa lần thứ hai của tư bản Pháp đã đưa tới nhiều biến đổi quan trọng ở Việt Nam.",
+     "France's second colonial exploitation programme brought major changes to Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Trên thế giới, thắng lợi của Cách mạng tháng Mười Nga năm 1917 và sự ra đời của Quốc tế Cộng sản năm 1919 đã tác động to lớn đến phong trào giải phóng dân tộc ở nhiều nước thuộc địa.",
+     "Abroad, the victory of Russia's October Revolution in 1917 and the founding of the Comintern in 1919 deeply influenced liberation movements in many colonies."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1923",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: khu Sa Diện bên sông Châu Giang, Quảng Châu (Trung Quốc) những năm 20 của thế kỉ XX",
+    "tim": "Shamian Island Canton Guangzhou 1920s photograph",
+    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn; chỉ ảnh phong cảnh, không vẽ AI người thật"
+   },
+   "hinh": "Ảnh tư liệu: Sa Diện, Quảng Châu (những năm 20 thế kỉ XX)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tại Trung Quốc, năm 1923, một nhóm thanh niên yêu nước lập ra tổ chức Tâm tâm xã ở Quảng Châu.",
+     "In China, in 1923, a group of young patriots founded the Tâm tâm xã (Society of Like Hearts) in Guangzhou."
+    ],
+    [
+     "Nhật Minh",
+     "Tổ chức chủ trương “khôi phục quyền làm người của người Việt Nam”.",
+     "Its aim was 'to restore the Vietnamese people's right to be human'."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "TIẾNG BOM SA DIỆN",
+   "y": [
+    "Năm 1924, tại Sa Diện (Quảng Châu)",
+    "Mưu sát Toàn quyền Đông Dương Méc-lanh",
+    "Hoạt động gây tiếng vang"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoạt động gây tiếng vang của Tâm tâm xã là vụ mưu sát Toàn quyền Đông Dương Méc-lanh tại Sa Diện, Quảng Châu, năm 1924.",
+     "Tâm tâm xã's most resounding act was the attempt on the life of Governor-General of Indochina Merlin at Shamian, Guangzhou, in 1924."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tổ chức Tâm tâm xã (1923) được lập ra ở đâu?",
+    "lua_chon": [
+     "Quảng Châu (Trung Quốc)",
+     "Pa-ri (Pháp)",
+     "Sài Gòn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Tâm tâm xã được lập ra ở đâu?",
+     "Pause! Where was Tâm tâm xã founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Quảng Châu, Trung Quốc!",
+     "The answer is A: Guangzhou, China!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1919",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: phố phường Pa-ri (Pháp) năm 1919",
+    "tim": "Paris 1919 street photograph",
+    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn; chỉ ảnh phong cảnh, không dùng chân dung"
+   },
+   "hinh": "Ảnh tư liệu: Pa-ri (1919)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tại Pháp, năm 1919, Phan Châu Trinh và một số người Việt Nam sáng lập Hội những người yêu nước Việt Nam tại Pháp.",
+     "In France, in 1919, Phan Châu Trinh and other Vietnamese founded the Association of Vietnamese Patriots in France."
+    ],
+    [
+     "Hân Hân",
+     "Các ông viết nhiều tác phẩm lên án chế độ quân chủ trong nước và thể hiện tinh thần dân tộc.",
+     "They wrote many works condemning the monarchy at home and expressing national spirit."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "CÙNG THỜI ĐIỂM Ở PA-RI",
+   "y": [
+    "Tháng 6 – 1919, tại Pháp",
+    "Nguyễn Tất Thành thay mặt những người Việt Nam yêu nước tại Pháp",
+    "Gửi Yêu sách của nhân dân An Nam tới Hội nghị Véc-xai",
+    "Kí tên: Nguyễn Ái Quốc"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cũng ở Pháp, tháng 6 năm 1919, Nguyễn Tất Thành thay mặt những người Việt Nam yêu nước tại Pháp, gửi bản Yêu sách của nhân dân An Nam tới Hội nghị Véc-xai, kí tên là Nguyễn Ái Quốc.",
+     "Also in France, in June 1919, Nguyễn Tất Thành, on behalf of the Vietnamese patriots there, sent the Demands of the Annamite People to the Versailles Conference, signed 'Nguyễn Ái Quốc'."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai cùng một số người Việt Nam sáng lập Hội những người yêu nước Việt Nam tại Pháp (1919)?",
+    "lua_chon": [
+     "Phan Bội Châu",
+     "Phan Châu Trinh",
+     "Nguyễn Thái Học"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Ai cùng một số người Việt Nam sáng lập Hội những người yêu nước Việt Nam tại Pháp?",
+     "Quick test! Who, with other Vietnamese, founded the Association of Vietnamese Patriots in France?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Phan Châu Trinh!",
+     "The answer is B: Phan Châu Trinh!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NGƯỜI VIỆT YÊU NƯỚC Ở NƯỚC NGOÀI",
+   "moc": [
+    [
+     "1919",
+     "Hội những người yêu nước Việt Nam tại Pháp"
+    ],
+    [
+     "6 – 1919",
+     "Yêu sách gửi Hội nghị Véc-xai"
+    ],
+    [
+     "1923",
+     "Tâm tâm xã ở Quảng Châu"
+    ],
+    [
+     "1924",
+     "Mưu sát Toàn quyền Méc-lanh"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1919, ở Pháp: Hội những người yêu nước Việt Nam ra đời; tháng 6, Yêu sách gửi Hội nghị Véc-xai.",
+     "Recap! 1919, in France: the Association of Vietnamese Patriots is founded; in June, the Demands go to Versailles."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1923, ở Quảng Châu: Tâm tâm xã; năm 1924: tiếng bom Sa Diện mưu sát Toàn quyền Méc-lanh.",
+     "1923, in Guangzhou: Tâm tâm xã; 1924: the Shamian attempt on Governor-General Merlin."
+    ]
+   ],
+   "nguon_trang": [
+    22,
+    27
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên tấm bản đồ thế giới ở hành lang trường, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao nhiều người Việt yêu nước lại chọn hoạt động ở nước ngoài? Bình luận nhé!",
+     "Your challenge: why did many Vietnamese patriots choose to work abroad? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tâm tâm xã chủ trương",
+   "dap_an": [
+    "“Khôi phục quyền làm người của người Việt Nam”",
+    "Thành lập Đảng Cộng sản",
+    "Chấn hưng nội hoá",
+    "Bài trừ ngoại hoá"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Vụ mưu sát Toàn quyền Đông Dương Méc-lanh diễn ra ở đâu?",
+   "dap_an": [
+    "Sài Gòn",
+    "Hà Nội",
+    "Sa Diện (Quảng Châu)",
+    "Pa-ri"
+   ],
+   "dung": 2,
+   "trang": 22
+  },
+  {
+   "hoi": "Hội những người yêu nước Việt Nam tại Pháp được thành lập năm nào?",
+   "dap_an": [
+    "1917",
+    "1919",
+    "1923",
+    "1925"
+   ],
+   "dung": 1,
+   "trang": 22
+  },
+  {
+   "hoi": "Tháng 6 – 1919, bản Yêu sách của nhân dân An Nam được gửi tới",
+   "dap_an": [
+    "Quốc hội Pháp",
+    "Hội nghị Véc-xai",
+    "Quốc tế Cộng sản",
+    "Toàn quyền Đông Dương"
+   ],
+   "dung": 1,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 22 (bối cảnh; mục 1: Tâm tâm xã 1923, mưu sát Méc-lanh tại Sa Diện 1924; Phan Châu Trinh và Hội những người yêu nước Việt Nam tại Pháp 1919) và tr. 27 (Yêu sách 6 – 1919, nhắc nối sang Bài 6). Đã sửa kiến thức chốt của danh mục: vụ mưu sát Méc-lanh xảy ra năm 1924 tại Sa Diện (danh mục ghép với năm 1923 – năm lập Tâm tâm xã); tên hội đúng SGK là 'Hội những người yêu nước Việt Nam tại Pháp'. SGK không nêu tên người thực hiện vụ Sa Diện nên lời dẫn không nêu. Không dùng chân dung Phan Châu Trinh (giữ cách làm không vẽ/không dùng chân dung nhân vật Việt Nam hiện đại); chỉ ảnh phong cảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

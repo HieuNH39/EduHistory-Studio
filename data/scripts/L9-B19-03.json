@@ -1,0 +1,368 @@
+{
+ "ma": "L9-B19-03",
+ "ten_tap": "Hàn Quốc: Kỳ tích từ 'con rồng' châu Á",
+ "ten_tap_en": "South Korea: The Asian 'Dragon' Miracle",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   97,
+   98
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-nganh-cong-nghe-cao-han-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, sôi động vừa phải, lạc quan",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 97–98.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng tin học của trường; Nhật Minh soi kính lúp vào một con chip bán dẫn trên bảng mạch mẫu, Hân Hân cầm điện thoại thông minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Con chip nhỏ xíu này thuộc ngành chất bán dẫn, lĩnh vực mà Hàn Quốc đang dẫn đầu chuỗi cung ứng toàn cầu.",
+     "This tiny chip belongs to the semiconductor industry, where South Korea leads the global supply chain."
+    ],
+    [
+     "Hân Hân",
+     "Một “con rồng” châu Á đã vươn lên như thế nào? Cùng xem nhé!",
+     "How did one of Asia's 'dragons' rise? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "BỐN “CON RỒNG” CHÂU Á",
+   "y": [
+    "Thuật ngữ chỉ nền kinh tế của bốn quốc gia và vùng lãnh thổ",
+    "Tăng trưởng cao từ những năm 60, 70 của thế kỉ XX đến nay",
+    "Hàn Quốc · Hồng Công · Đài Loan · Xin-ga-po"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bốn “con rồng” châu Á là thuật ngữ chỉ nền kinh tế của bốn quốc gia và vùng lãnh thổ có tốc độ tăng trưởng cao từ những năm 60, 70 của thế kỉ XX đến nay:",
+     "Asia's four 'dragons' is a term for four economies with high growth from the 1960s and 70s until today:"
+    ],
+    [
+     "Nhật Minh",
+     "Hàn Quốc, Hồng Công, Đài Loan và Xin-ga-po.",
+     "South Korea, Hong Kong, Taiwan and Singapore."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "TỪ NĂM 1991",
+   "y": [
+    "Trở thành nước công nghiệp mới (NIC)",
+    "Tốc độ tăng trưởng chậm lại",
+    "Đổi định hướng sản xuất: mũi nhọn là công nghệ cao"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1991, Hàn Quốc trở thành một nước công nghiệp mới, NIC, nhưng tốc độ tăng trưởng kinh tế chậm lại.",
+     "From 1991, South Korea became a newly industrialised country, an NIC, but its growth slowed."
+    ],
+    [
+     "Hân Hân",
+     "Hàn Quốc thay đổi đáng kể định hướng sản xuất, với mũi nhọn là các ngành công nghệ cao.",
+     "It significantly changed course, making high-tech industries its spearhead."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là bốn “con rồng” châu Á?",
+    "lua_chon": [
+     "Hàn Quốc, Hồng Công, Đài Loan, Xin-ga-po",
+     "Nhật Bản, Trung Quốc, Ấn Độ, Hàn Quốc",
+     "Thái Lan, Ma-lai-xi-a, In-đô-nê-xi-a, Phi-líp-pin"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Bốn “con rồng” châu Á là những nền kinh tế nào?",
+     "Pause! Which are Asia's four 'dragons'?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Hàn Quốc, Hồng Công, Đài Loan và Xin-ga-po!",
+     "The answer is A: South Korea, Hong Kong, Taiwan and Singapore!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẦU THẾ KỈ XXI",
+   "y": [
+    "Tăng trưởng ổn định, cao hơn mức trung bình thế giới",
+    "Thuộc nhóm 15 nền kinh tế lớn nhất thế giới",
+    "Dẫn đầu chuỗi cung ứng toàn cầu về chất bán dẫn và ô tô",
+    "Tập đoàn nổi tiếng: Sam-sung, LG, Hyun-đai"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XXI, kinh tế Hàn Quốc tăng trưởng ổn định, cao hơn mức trung bình thế giới, thuộc nhóm 15 nền kinh tế lớn nhất.",
+     "In the early 21st century, South Korea's economy grew steadily, above the world average, ranking among the 15 largest economies."
+    ],
+    [
+     "Hân Hân",
+     "Hàn Quốc dẫn đầu chuỗi cung ứng toàn cầu về chất bán dẫn và ô tô, với các tập đoàn nổi tiếng như Sam-sung, LG và Hyun-đai.",
+     "It leads global supply chains in semiconductors and cars, with famous groups like Samsung, LG and Hyundai."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "GDP CỦA HÀN QUỐC (tỉ USD)",
+   "moc": [
+    [
+     "1991",
+     "330"
+    ],
+    [
+     "2000",
+     "576"
+    ],
+    [
+     "2010",
+     "1 140"
+    ],
+    [
+     "2021",
+     "1 810"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Biểu đồ trong SGK: GDP Hàn Quốc năm 1991 là 330 tỉ đô la, năm 2000 là 576 tỉ,",
+     "The textbook chart: South Korea's GDP was 330 billion dollars in 1991, 576 billion in 2000,"
+    ],
+    [
+     "Hân Hân",
+     "năm 2010 là 1 140 tỉ, và năm 2021 đạt 1 810 tỉ đô la.",
+     "1,140 billion in 2010, and 1,810 billion in 2021."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "CON SỐ ẤN TƯỢNG",
+   "y": [
+    "1991 – 2021: quy mô GDP tăng gần 5,5 lần",
+    "GDP bình quân đầu người tăng 5,3 lần, gần 35 000 USD (2021)",
+    "GDP xếp thứ 15 thế giới (2000), thứ 10 (2018, 2020, 2021)",
+    "Tuổi thọ: 72 tuổi (1991) → 84 tuổi (2021)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1991 đến năm 2021, quy mô GDP Hàn Quốc tăng gần 5,5 lần; GDP bình quân đầu người tăng 5,3 lần, đạt gần 35 000 đô la năm 2021.",
+     "From 1991 to 2021, South Korea's GDP grew almost 5.5 times; GDP per head grew 5.3 times, to nearly 35,000 dollars in 2021."
+    ],
+    [
+     "Nhật Minh",
+     "GDP xếp thứ 15 thế giới năm 2000 và thứ 10 thế giới các năm 2018, 2020, 2021. Tuổi thọ trung bình tăng từ 72 tuổi lên 84 tuổi.",
+     "Its GDP ranked 15th in the world in 2000 and 10th in 2018, 2020 and 2021. Life expectancy rose from 72 to 84."
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ năm 1991 đến năm 2021, quy mô GDP của Hàn Quốc tăng khoảng",
+    "lua_chon": [
+     "Gần 2 lần",
+     "Gần 5,5 lần",
+     "Gần 10 lần"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Từ năm 1991 đến năm 2021, quy mô GDP Hàn Quốc tăng bao nhiêu lần?",
+     "Quick test! From 1991 to 2021, how many times did South Korea's GDP grow?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: gần 5,5 lần!",
+     "The answer is B: almost 5.5 times!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: một góc Thủ đô Xơ-un ngày nay (như Hình 19.5 SGK, tr. 98)",
+    "tim": "Seoul Han river bridge skyline photograph",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Xơ-un ngày nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là một góc Thủ đô Xơ-un ngày nay. Mức sống và tuổi thọ của người dân Hàn Quốc không ngừng được nâng cao.",
+     "This is part of Seoul today. Living standards and life expectancy in South Korea keep rising."
+    ]
+   ],
+   "nguon_trang": [
+    97,
+    98
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong phòng tin học, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao Hàn Quốc chọn công nghệ cao làm mũi nhọn? Bình luận nhé!",
+     "Your challenge: why did South Korea choose high tech as its spearhead? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    97
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ năm 1991, Hàn Quốc trở thành",
+   "dap_an": [
+    "Nước công nghiệp mới (NIC)",
+    "Nước nông nghiệp",
+    "Thành viên SEV",
+    "Nền kinh tế lớn nhất thế giới"
+   ],
+   "dung": 0,
+   "trang": 97
+  },
+  {
+   "hoi": "Hàn Quốc dẫn đầu chuỗi cung ứng toàn cầu về",
+   "dap_an": [
+    "Dầu mỏ và khí đốt",
+    "Chất bán dẫn và ô tô",
+    "Lúa gạo và cà phê",
+    "Dệt may và da giày"
+   ],
+   "dung": 1,
+   "trang": 97
+  },
+  {
+   "hoi": "GDP bình quân đầu người của Hàn Quốc năm 2021 đạt gần",
+   "dap_an": [
+    "25 000 USD",
+    "35 000 USD",
+    "39 000 USD",
+    "17 820 USD"
+   ],
+   "dung": 1,
+   "trang": 97
+  },
+  {
+   "hoi": "Tuổi thọ trung bình của người Hàn Quốc năm 2021 là",
+   "dap_an": [
+    "72 tuổi",
+    "78 tuổi",
+    "84 tuổi",
+    "85 tuổi"
+   ],
+   "dung": 2,
+   "trang": 97
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 97 (mục 1b: NIC, bốn 'con rồng' – hộp chú thích; đầu thế kỉ XXI: nhóm 15 nền kinh tế lớn nhất, chất bán dẫn và ô tô, Sam-sung, LG, Hyun-đai; gần 5,5 lần, 5,3 lần, gần 35 000 USD, thứ 15 (2000), thứ 10 (2018, 2020, 2021), 72 → 84 tuổi) và tr. 98 (Hình 19.5). Số liệu GDP 330; 576; 1 140; 1 810 tỉ USD đọc từ ảnh Hình 19.4 tr. 97 (OCR biểu đồ lỗi). Đã chỉnh kiến thức chốt của danh mục: SGK ghi GDP tăng 'gần 5,5 lần' (không phải '5,5 lần'). Tên các tập đoàn viết theo SGK. Không vẽ sơ đồ tư duy tập đoàn (mô phỏng danh mục đề xuất) – thay bằng thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

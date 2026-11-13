@@ -1,0 +1,377 @@
+{
+ "ma": "L9-B16-03",
+ "ten_tap": "Đồng khởi - Ngọn lửa bùng cháy",
+ "ten_tap_en": "The Concerted Uprising: A Blaze Ignites",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+  "trang": [
+   82,
+   83
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-thi-dinh",
+  "doi-quan-toc-dai",
+  "nhan-dan-ben-tre"
+ ],
+ "nhac": {
+  "tam_trang": "dồn nén ở phần hoàn cảnh, bùng lên ở phần Đồng khởi, tự hào ở cuối",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 16, tr. 82–83.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi trên con đường làng giữa những rặng dừa xanh bên dòng sông ở Bến Tre ngày nay; Hân Hân đeo tai nghe, Nhật Minh cầm điện thoại mở một bài hát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bài hát “Dáng đứng Bến Tre” của nhạc sĩ Nguyễn Văn Tý tái hiện hình ảnh những người phụ nữ kiên cường trong “Đội quân tóc dài”.",
+     "The song 'The Stance of Bến Tre' by composer Nguyễn Văn Tý recalls the brave women of the 'Long-haired Army'."
+    ],
+    [
+     "Nhật Minh",
+     "Họ đã góp phần làm nên phong trào Đồng khởi, bước ngoặt của cách mạng miền Nam. Cùng xem nhé!",
+     "They helped make the Concerted Uprising, a turning point for the southern revolution. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1954",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HOÀN CẢNH",
+   "y": [
+    "Pháp rút, Mỹ can thiệp, dựng chính quyền Ngô Đình Diệm",
+    "Âm mưu chia cắt lâu dài Việt Nam: từ chối tổng tuyển cử, phá bỏ Hiệp định Giơ-ne-vơ",
+    "Chiến dịch “tố cộng”, “diệt cộng”",
+    "“Luật 10/59”: lê máy chém khắp miền Nam"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi Pháp rút khỏi miền Nam, Mỹ can thiệp, dựng lên chính quyền Ngô Đình Diệm, âm mưu chia cắt lâu dài Việt Nam.",
+     "After France withdrew from the South, the US stepped in and set up the Ngô Đình Diệm regime, plotting to divide Vietnam for good."
+    ],
+    [
+     "Hân Hân",
+     "Mỹ – Diệm từ chối tổng tuyển cử, phá bỏ Hiệp định Giơ-ne-vơ, thi hành chiến dịch “tố cộng”, “diệt cộng”, thực hiện “Luật 10/59” lê máy chém khắp miền Nam.",
+     "The US and Diệm refused the general election, scrapped the Geneva Accords, ran 'denounce and destroy communists' campaigns and used 'Law 10/59' to drag the guillotine across the South."
+    ]
+   ],
+   "nguon_trang": [
+    82,
+    83
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "NGHỊ QUYẾT TRUNG ƯƠNG 15",
+   "y": [
+    "Hội nghị Trung ương Đảng lần thứ 15 (đầu năm 1959)",
+    "Sử dụng bạo lực cách mạng đánh đổ chính quyền Mỹ – Diệm",
+    "Lực lượng chính trị của quần chúng là chủ yếu, kết hợp lực lượng vũ trang"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 1959, Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 15 quyết định để nhân dân miền Nam sử dụng bạo lực cách mạng đánh đổ chính quyền Mỹ – Diệm.",
+     "In early 1959, the Party Central Committee's 15th Plenum decided that the southern people should use revolutionary violence to overthrow the US–Diệm regime."
+    ],
+    [
+     "Nhật Minh",
+     "Phương hướng: khởi nghĩa giành chính quyền bằng lực lượng chính trị của quần chúng là chủ yếu, kết hợp với lực lượng vũ trang nhân dân.",
+     "The approach: seize power mainly through the masses' political strength, combined with the people's armed forces."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội nghị nào (đầu năm 1959) quyết định để nhân dân miền Nam sử dụng bạo lực cách mạng?",
+    "lua_chon": [
+     "Hội nghị Trung ương lần thứ 8",
+     "Hội nghị Trung ương lần thứ 15",
+     "Đại hội III của Đảng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hội nghị nào quyết định để nhân dân miền Nam sử dụng bạo lực cách mạng?",
+     "Pause! Which meeting decided that the southern people should use revolutionary violence?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Hội nghị Trung ương lần thứ 15, đầu năm 1959!",
+     "The answer is B: the 15th Central Committee Plenum, early 1959!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TỪ LẺ TẺ ĐẾN CAO TRÀO",
+   "moc": [
+    [
+     "2 – 1959",
+     "Vĩnh Thạnh"
+    ],
+    [
+     "2 – 1959",
+     "Bác Ái"
+    ],
+    [
+     "8 – 1959",
+     "Trà Bồng"
+    ],
+    [
+     "17 – 1 – 1960",
+     "Đồng khởi ở Bến Tre"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ những cuộc nổi dậy lẻ tẻ ở Vĩnh Thạnh, Bác Ái tháng 2 năm 1959, Trà Bồng tháng 8 năm 1959,",
+     "From scattered uprisings at Vĩnh Thạnh and Bác Ái in February 1959 and Trà Bồng in August 1959,"
+    ],
+    [
+     "Nhật Minh",
+     "phong trào lan rộng thành cao trào cách mạng, tiêu biểu là cuộc Đồng khởi ở Bến Tre.",
+     "the movement grew into a revolutionary high tide, typified by the Concerted Uprising in Bến Tre."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân Bến Tre đồng khởi, tháng 1 – 1960 (như Hình 16.5 SGK, tr. 83)",
+    "tim": "Đồng khởi Bến Tre 1960 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI cảnh lịch sử, không dùng chân dung"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Bến Tre đồng khởi (1 – 1960)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 17 tháng 1 năm 1960, dưới sự lãnh đạo của Tỉnh uỷ Bến Tre, nhân dân ba xã ở huyện Mỏ Cày đồng loạt nổi dậy đánh đồn bốt, diệt ác ôn, giải tán chính quyền địch.",
+     "On 17 January 1960, led by the Bến Tre Provincial Party Committee, people in three communes of Mỏ Cày district rose together, attacking outposts, punishing cruel agents and dissolving the enemy's administration."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc nổi dậy lan ra toàn huyện Mỏ Cày và tỉnh Bến Tre. “Đội quân tóc dài” dưới sự chỉ huy của Nguyễn Thị Định đã góp phần quan trọng vào thắng lợi.",
+     "The uprising spread across Mỏ Cày and all of Bến Tre. The 'Long-haired Army' led by Nguyễn Thị Định played an important part in its success."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾT QUẢ",
+   "y": [
+    "Bộ máy cai trị của địch ở thôn, xã bị phá vỡ từng mảng lớn",
+    "Uỷ ban nhân dân tự quản được thành lập",
+    "Ruộng đất của địa chủ, cường hào chia cho dân cày nghèo",
+    "Lan khắp Nam Bộ, Tây Nguyên, một số nơi ở miền Trung Trung Bộ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kết quả, từng mảng lớn bộ máy cai trị của địch ở thôn, xã bị phá vỡ, các uỷ ban nhân dân tự quản được thành lập, ruộng đất của địa chủ, cường hào được chia cho dân cày nghèo.",
+     "As a result, large parts of the enemy's village administration collapsed, self-governing people's committees were set up, and landlords' land was shared out to poor farmers."
+    ],
+    [
+     "Hân Hân",
+     "Từ Bến Tre, phong trào Đồng khởi lan khắp Nam Bộ, Tây Nguyên và một số nơi ở miền Trung Trung Bộ.",
+     "From Bến Tre, the uprising spread across the South, the Central Highlands and parts of central Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Đồng khởi ở Bến Tre bắt đầu ngày nào?",
+    "lua_chon": [
+     "2 – 1959",
+     "17 – 1 – 1960",
+     "20 – 12 – 1960"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đồng khởi ở Bến Tre bắt đầu ngày nào?",
+     "Quick test! When did the Bến Tre uprising begin?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 17 tháng 1 năm 1960!",
+     "The answer is B: 17 January 1960!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Giáng đòn mạnh vào chính sách thực dân mới của Mỹ",
+    "Làm lung lay tận gốc chính quyền Ngô Đình Diệm",
+    "Bước phát triển nhảy vọt: từ thế giữ gìn lực lượng sang thế tiến công",
+    "20 – 12 – 1960: Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đồng khởi giáng đòn mạnh vào chính sách thực dân mới của Mỹ, làm lung lay tận gốc chính quyền Ngô Đình Diệm.",
+     "The uprising struck hard at the US neo-colonial policy and shook the Diệm regime to its roots."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng miền Nam phát triển nhảy vọt, chuyển từ thế giữ gìn lực lượng sang thế tiến công. Ngày 20 tháng 12 năm 1960, Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời.",
+     "The southern revolution leapt forward, from preserving its forces to taking the offensive. On 20 December 1960, the National Liberation Front of South Vietnam was founded."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên rặng dừa Bến Tre, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao nói phong trào Đồng khởi đánh dấu bước phát triển nhảy vọt của cách mạng miền Nam? Bình luận nhé!",
+     "Your challenge: why is the Concerted Uprising called a great leap for the southern revolution? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngày 17 – 1 – 1960, nhân dân ba xã ở huyện nào của Bến Tre đồng loạt nổi dậy?",
+   "dap_an": [
+    "Mỏ Cày",
+    "Trà Bồng",
+    "Vĩnh Thạnh",
+    "Bác Ái"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "“Đội quân tóc dài” Bến Tre đặt dưới sự chỉ huy của",
+   "dap_an": [
+    "Nguyễn Thị Định",
+    "Nguyễn Văn Tý",
+    "Ngô Đình Diệm",
+    "Nguyễn Văn Cừ"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời ngày",
+   "dap_an": [
+    "17 – 1 – 1960",
+    "20 – 12 – 1960",
+    "19 – 5 – 1959",
+    "2 – 1 – 1963"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Thắng lợi của phong trào Đồng khởi đã chuyển cách mạng miền Nam",
+   "dap_an": [
+    "Từ thế giữ gìn lực lượng sang thế tiến công",
+    "Từ tiến công sang phòng ngự",
+    "Sang đấu tranh ngoại giao đơn thuần",
+    "Sang thời kì hoà bình"
+   ],
+   "dung": 0,
+   "trang": 83
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 82 – 83 (mục 2a: hoàn cảnh; Hội nghị Trung ương 15 đầu năm 1959; Vĩnh Thạnh 2 – 1959, Bác Ái 2 – 1959, Trà Bồng 8 – 1959; Đồng khởi 17 – 1 – 1960 ở Mỏ Cày; kết quả, ý nghĩa; Mặt trận 20 – 12 – 1960; hộp 'Em có biết' về Đội quân tóc dài, Nguyễn Thị Định và bài hát của Nguyễn Văn Tý; Hình 16.5). Kiến thức chốt của danh mục khớp SGK ('Nghị quyết 15' = Hội nghị Ban Chấp hành Trung ương lần thứ 15). Số '10/59' trong 'Luật 10/59' là tên luật theo SGK. Bến Tre nay thuộc tỉnh Vĩnh Long (theo SGK) – lời dẫn dùng tên lịch sử. Không dựng cảnh tái hiện bằng AI, không dùng chân dung Nguyễn Thị Định.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

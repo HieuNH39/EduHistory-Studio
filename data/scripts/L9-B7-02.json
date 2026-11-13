@@ -1,0 +1,361 @@
+{
+ "ma": "L9-B7-02",
+ "ten_tap": "Đỉnh cao Xô viết Nghệ - Tĩnh",
+ "ten_tap_en": "The Peak: the Nghệ–Tĩnh Soviets",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 7. Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+  "trang": [
+   30,
+   31
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan",
+  "cong-nhan",
+  "thuc-dan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, dâng trào; trầm xuống ở đoạn khủng bố; trang trọng ở phần ý nghĩa",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 7, tr. 30–31.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ sông Lam ở khu Bến Thuỷ, thành phố Vinh (Nghệ An) ngày nay, phía xa là cầu Bến Thuỷ và núi Hồng Lĩnh; chiều nắng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mảnh đất Nghệ An, Hà Tĩnh này từng là nơi phong trào cách mạng 1930 – 1931 lên tới đỉnh cao.",
+     "This land of Nghệ An and Hà Tĩnh is where the 1930–1931 revolutionary movement reached its peak."
+    ],
+    [
+     "Nhật Minh",
+     "Ở đây, lần đầu tiên chính quyền của nhân dân ra đời, dưới hình thức các xô viết. Cùng xem nhé!",
+     "Here, for the first time, people's power was born, in the form of soviets. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1930",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "PHONG TRÀO DÂNG CAO (1930)",
+   "moc": [
+    [
+     "Đầu 1930",
+     "Bãi công: Phú Riềng, Nam Định, Bến Thuỷ"
+    ],
+    [
+     "Từ 5 – 1930",
+     "Lan rộng trong cả nước"
+    ],
+    [
+     "1 – 5 – 1930",
+     "Biểu dương lực lượng, treo cờ Đảng"
+    ],
+    [
+     "9, 10 – 1930",
+     "Đỉnh cao ở Nghệ An, Hà Tĩnh"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngay từ đầu năm 1930, công nhân bãi công ở đồn điền cao su Phú Riềng, nhà máy sợi Nam Định, nhà máy diêm Bến Thuỷ, đòi cải thiện đời sống.",
+     "From early 1930, workers struck at the Phú Riềng rubber plantation, the Nam Định textile mill and the Bến Thuỷ match factory, demanding better lives."
+    ],
+    [
+     "Hân Hân",
+     "Từ tháng 5 năm 1930, phong trào lan rộng cả nước. Ngày 1 tháng 5, lần đầu tiên công nhân và nhân dân biểu dương tinh thần đoàn kết với vô sản thế giới, rải truyền đơn, treo cờ Đảng.",
+     "From May 1930, the movement spread nationwide. On 1 May, for the first time, workers and people showed solidarity with the world's proletariat, handing out leaflets and raising the Party flag."
+    ],
+    [
+     "Nhật Minh",
+     "Đến tháng 9 và tháng 10 năm 1930, phong trào đạt đến đỉnh cao, quyết liệt nhất là ở Nghệ An và Hà Tĩnh.",
+     "By September and October 1930, it peaked, most fiercely in Nghệ An and Hà Tĩnh."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "NGHỆ AN, HÀ TĨNH DẬY SÓNG",
+   "y": [
+    "Nông dân biểu tình: Nam Đàn, Thanh Chương, Diễn Châu, Nghi Lộc…",
+    "Công nhân Vinh – Bến Thuỷ hưởng ứng",
+    "Bộ máy chính quyền thực dân, phong kiến ở nhiều huyện tê liệt",
+    "Một số thôn, xã: chính quyền cũ tan rã"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nông dân các huyện Nam Đàn, Thanh Chương, Diễn Châu, Nghi Lộc biểu tình, được công nhân Vinh – Bến Thuỷ hưởng ứng.",
+     "Peasants in Nam Đàn, Thanh Chương, Diễn Châu and Nghi Lộc districts marched, backed by the workers of Vinh – Bến Thuỷ."
+    ],
+    [
+     "Nhật Minh",
+     "Bộ máy chính quyền của thực dân và phong kiến tay sai ở nhiều huyện bị tê liệt, ở một số thôn, xã bị tan rã.",
+     "The colonial and puppet authorities were paralysed in many districts and collapsed in some villages and communes."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH QUYỀN XÔ VIẾT",
+   "y": [
+    "Chính trị: ban bố các quyền tự do, dân chủ cho nhân dân",
+    "Kinh tế: chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô, xoá nợ",
+    "Văn hoá – xã hội: đời sống mới, lớp dạy chữ Quốc ngữ, xoá bỏ tệ nạn"
+   ],
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính quyền nhân dân được thành lập ở một số thôn, xã của Nghệ An, Hà Tĩnh, dưới hình thức các xô viết.",
+     "People's power was set up in some villages and communes of Nghệ An and Hà Tĩnh, in the form of soviets."
+    ],
+    [
+     "Hân Hân",
+     "Về chính trị, các xô viết ban bố quyền tự do, dân chủ. Về kinh tế, chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô và xoá nợ cho dân nghèo.",
+     "Politically, the soviets granted freedoms and democratic rights. Economically, they shared out communal land, abolished unjust taxes, cut rents and cancelled the poor's debts."
+    ],
+    [
+     "Nhật Minh",
+     "Về văn hoá, xã hội, tổ chức đời sống mới, mở lớp dạy chữ Quốc ngữ, xoá bỏ các tệ nạn xã hội.",
+     "Socially and culturally, they organised a new way of life, opened Quốc ngữ literacy classes and stamped out social evils."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Về kinh tế, chính quyền Xô viết Nghệ – Tĩnh đã",
+    "lua_chon": [
+     "Chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô, xoá nợ",
+     "Tăng thuế để mua vũ khí",
+     "Giao ruộng đất cho địa chủ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Về kinh tế, chính quyền Xô viết đã làm gì?",
+     "Pause! What did the soviets do on the economic front?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô và xoá nợ cho dân nghèo!",
+     "The answer is A: share out communal land, abolish unjust taxes, cut rents and cancel the poor's debts!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "KHỦNG BỐ TÀN BẠO",
+   "y": [
+    "12 – 9 – 1930: máy bay ném bom cuộc biểu tình của 8 000 nông dân Hưng Nguyên",
+    "Đầu 1931: tập trung lực lượng đàn áp, khủng bố",
+    "Nhiều tổ chức Đảng bị phá vỡ; hàng vạn người bị bắt giam",
+    "Phong trào tạm thời lắng xuống"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoảng sợ, thực dân Pháp khủng bố cực kì tàn bạo. Ngày 12 tháng 9 năm 1930, chúng cho máy bay ném bom tàn sát cuộc biểu tình của 8 000 nông dân huyện Hưng Nguyên.",
+     "Terrified, the French unleashed brutal terror. On 12 September 1930, their planes bombed a march of 8,000 peasants in Hưng Nguyên district."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1931, chúng tập trung đàn áp. Nhiều tổ chức Đảng bị phá vỡ, hàng vạn cán bộ, đảng viên, người yêu nước bị bắt giam. Phong trào tạm thời lắng xuống.",
+     "In early 1931, they concentrated their repression. Many Party organisations were smashed and tens of thousands were jailed. The movement subsided for a time."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Khẳng định vai trò lãnh đạo cách mạng của Đảng",
+    "Khối liên minh công – nông được hình thành",
+    "Để lại nhiều bài học quý báu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Phong trào 1930 – 1931 đã khẳng định vai trò lãnh đạo cách mạng của Đảng.",
+     "The 1930–1931 movement affirmed the Party's leading role in the revolution."
+    ],
+    [
+     "Nhật Minh",
+     "Từ trong phong trào, khối liên minh công – nông được hình thành, để lại nhiều bài học quý báu cho cách mạng sau này.",
+     "From it, the worker–peasant alliance took shape, leaving many valuable lessons for later struggles."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ phong trào cách mạng 1930 – 1931, khối liên minh nào được hình thành?",
+    "lua_chon": [
+     "Liên minh công – nông",
+     "Liên minh tư sản – địa chủ",
+     "Liên minh Pháp – Nhật"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Từ phong trào 1930 – 1931, khối liên minh nào được hình thành?",
+     "Quick test! Which alliance took shape from the 1930–1931 movement?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: liên minh công – nông!",
+     "The answer is A: the worker–peasant alliance!"
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên bờ sông Lam, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: những biểu hiện nào chứng tỏ Xô viết Nghệ – Tĩnh là đỉnh cao của phong trào 1930 – 1931? Bình luận nhé!",
+     "Your challenge: what shows that the Nghệ–Tĩnh Soviets were the peak of the 1930–1931 movement? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc bãi công nào diễn ra ở Nghệ An đầu năm 1930?",
+   "dap_an": [
+    "Công nhân nhà máy diêm Bến Thuỷ",
+    "Công nhân mỏ Hồng Gai",
+    "Công nhân nhà máy điện Chợ Quán",
+    "Công nhân Ba Son"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Chính quyền Xô viết ở Nghệ An, Hà Tĩnh được thành lập ở cấp nào?",
+   "dap_an": [
+    "Một số thôn, xã",
+    "Toàn bộ hai tỉnh",
+    "Cả nước",
+    "Các thành phố lớn"
+   ],
+   "dung": 0,
+   "trang": 31
+  },
+  {
+   "hoi": "Ngày 12 – 9 – 1930, thực dân Pháp cho máy bay ném bom cuộc biểu tình của nông dân huyện",
+   "dap_an": [
+    "Nam Đàn",
+    "Hưng Nguyên",
+    "Thanh Chương",
+    "Nghi Lộc"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Ý nghĩa của phong trào cách mạng 1930 – 1931 là",
+   "dap_an": [
+    "Khẳng định vai trò lãnh đạo cách mạng của Đảng",
+    "Giành được độc lập hoàn toàn",
+    "Đánh đuổi được Nhật",
+    "Lập nước Việt Nam Dân chủ Cộng hoà"
+   ],
+   "dung": 0,
+   "trang": 31
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 30 (diễn biến từ đầu 1930, 5 – 1930, 1 – 5 – 1930, đỉnh cao tháng 9, 10 – 1930) và tr. 31 (đã đọc lại ảnh trang: các huyện Nam Đàn, Thanh Chương, Diễn Châu, Nghi Lộc; chính sách của Xô viết; 12 – 9 – 1930, 8 000 nông dân Hưng Nguyên; đầu 1931; ý nghĩa). Đã chỉnh kiến thức chốt: SGK nói chính quyền Xô viết lập ở 'một số thôn, xã' (không phải cả hai tỉnh). Không dùng tranh sơn dầu Hình 7.3 (còn bản quyền tác giả) và không vẽ AI cảnh lịch sử; diễn biến trình bày bằng thẻ chữ, trục thời gian dựng bằng code.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

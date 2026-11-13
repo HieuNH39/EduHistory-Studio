@@ -1,0 +1,366 @@
+{
+ "ma": "L9-B3-04",
+ "ten_tap": "Trung Quốc: Những bước ngoặt lịch sử",
+ "ten_tap_en": "China: Historic Turning Points",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+  "trang": [
+   15,
+   16
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "sinh-vien-bac-kinh",
+  "dang-vien-dang-cong-san-trung-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi ở phần Ngũ tứ, căng thẳng ở phần chiến tranh, quyết tâm ở đoạn hợp tác",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 3, tr. 15–16.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ở góc đọc sách của thư viện trường, cùng xem cuốn atlas mở ở bản đồ châu Á; bên cạnh là tờ lịch bàn khoanh tròn ngày 4 tháng 5",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 4 tháng 5 năm 1919, 3 000 sinh viên yêu nước ở Bắc Kinh xuống đường biểu tình.",
+     "On 4 May 1919, 3,000 patriotic students in Beijing took to the streets."
+    ],
+    [
+     "Nhật Minh",
+     "Từ cuộc biểu tình ấy, cách mạng Trung Quốc bước sang những ngã rẽ quan trọng. Cùng xem nhé!",
+     "From that protest, the Chinese revolution entered a series of major turning points. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1919",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÂU Á SAU NĂM 1918",
+   "y": [
+    "Cách mạng tháng Mười Nga tác động đến nhiều nước châu Á",
+    "Phong trào giành độc lập dân tộc dâng cao, lan rộng",
+    "Khuynh hướng dân chủ tư sản: tiêu biểu Ấn Độ, In-đô-nê-xi-a",
+    "Khuynh hướng vô sản: tiêu biểu Trung Quốc, Việt Nam"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi của Cách mạng tháng Mười Nga đã tác động đến nhiều nước châu Á. Phong trào đấu tranh giành độc lập dân tộc dâng cao và lan rộng.",
+     "The victory of Russia's October Revolution influenced many Asian countries. The struggle for national independence rose and spread."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào đi theo hai khuynh hướng chính: dân chủ tư sản và vô sản. Trung Quốc là một nước tiêu biểu cho khuynh hướng vô sản.",
+     "It followed two main trends: bourgeois-democratic and proletarian. China was a typical example of the proletarian trend."
+    ]
+   ],
+   "nguon_trang": [
+    15,
+    16
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: sinh viên Bắc Kinh biểu tình tại quảng trường Thiên An Môn trong phong trào Ngũ tứ, năm 1919 (như Hình 3.5 SGK, tr. 16)",
+    "tim": "May Fourth Movement 1919 Beijing students Tiananmen photograph",
+    "yeu_cau": "ảnh tư liệu công khai (năm 1919, phạm vi công cộng), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: phong trào Ngũ tứ (Bắc Kinh, 1919)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phong trào Ngũ tứ bùng nổ ngày 4 tháng 5 năm 1919, mở đầu là cuộc biểu tình của 3 000 sinh viên yêu nước ở Bắc Kinh,",
+     "The May Fourth Movement broke out on 4 May 1919, starting with a protest by 3,000 patriotic students in Beijing"
+    ],
+    [
+     "Nhật Minh",
+     "chống lại âm mưu xâu xé Trung Quốc của các nước đế quốc.",
+     "against the imperialist powers' plot to carve up China."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào nhanh chóng lan rộng ra cả nước, lôi cuốn đông đảo công nhân, nông dân, trí thức yêu nước.",
+     "It quickly spread nationwide, drawing in large numbers of workers, peasants and patriotic intellectuals."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Ngũ tứ mở đầu bằng cuộc biểu tình của ai?",
+    "lua_chon": [
+     "Công nhân Thượng Hải",
+     "3 000 sinh viên yêu nước ở Bắc Kinh",
+     "Nông dân miền Nam Trung Quốc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Phong trào Ngũ tứ mở đầu bằng cuộc biểu tình của ai?",
+     "Pause! Whose protest began the May Fourth Movement?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 3 000 sinh viên yêu nước ở Bắc Kinh!",
+     "The answer is B: 3,000 patriotic students in Beijing!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẢNG CỘNG SẢN TRUNG QUỐC",
+   "y": [
+    "7 – 1921: Đảng Cộng sản Trung Quốc thành lập",
+    "1927 – 1937: chiến tranh cách mạng do Đảng Cộng sản lãnh đạo",
+    "Mục tiêu: lật đổ nền thống trị của tập đoàn Quốc dân đảng",
+    "Quốc dân đảng: đại diện quyền lợi đại địa chủ, đại tư sản, đế quốc"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1921, Đảng Cộng sản Trung Quốc được thành lập.",
+     "In July 1921, the Communist Party of China was founded."
+    ],
+    [
+     "Nhật Minh",
+     "Trong những năm 1927 – 1937, dưới sự lãnh đạo của Đảng Cộng sản, nhân dân Trung Quốc tiến hành chiến tranh cách mạng nhằm lật đổ nền thống trị của tập đoàn Quốc dân đảng,",
+     "In 1927–1937, led by the Communist Party, the Chinese people waged a revolutionary war to overthrow the rule of the Kuomintang clique,"
+    ],
+    [
+     "Hân Hân",
+     "tập đoàn đại diện cho quyền lợi của đại địa chủ, đại tư sản và đế quốc ở Trung Quốc.",
+     "which represented the interests of big landlords, the big bourgeoisie and the imperialists in China."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1937",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "QUỐC – CỘNG HỢP TÁC",
+   "y": [
+    "7 – 1937: Nhật Bản mở rộng chiến tranh, nhằm thôn tính toàn bộ Trung Quốc",
+    "Đảng Cộng sản chủ động đề nghị Quốc dân đảng đình chiến",
+    "Quốc – Cộng hợp tác, cùng kháng chiến chống Nhật Bản"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1937, Nhật Bản mở rộng chiến tranh xâm lược nhằm thôn tính toàn bộ Trung Quốc.",
+     "In July 1937, Japan widened its war of aggression to swallow all of China."
+    ],
+    [
+     "Hân Hân",
+     "Trong bối cảnh đó, Đảng Cộng sản Trung Quốc chủ động đề nghị Quốc dân đảng đình chiến, cùng hợp tác chống Nhật.",
+     "In that situation, the Communist Party of China took the initiative to propose a truce with the Kuomintang to fight Japan together."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng Trung Quốc chuyển sang thời kì Quốc – Cộng hợp tác, cùng kháng chiến chống Nhật Bản.",
+     "The Chinese revolution entered the period of Kuomintang–Communist cooperation against Japan."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tháng 7 – 1937, trước việc Nhật Bản mở rộng chiến tranh, Đảng Cộng sản Trung Quốc đã",
+    "lua_chon": [
+     "Tiếp tục đánh Quốc dân đảng",
+     "Chủ động đề nghị Quốc dân đảng đình chiến, hợp tác chống Nhật",
+     "Rút khỏi cuộc kháng chiến"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Khi Nhật Bản mở rộng chiến tranh năm 1937, Đảng Cộng sản Trung Quốc đã làm gì?",
+     "Quick test! When Japan widened the war in 1937, what did the Communist Party of China do?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: chủ động đề nghị Quốc dân đảng đình chiến, hợp tác chống Nhật!",
+     "The answer is B: it proposed a truce with the Kuomintang to fight Japan together!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁCH MẠNG TRUNG QUỐC (1919 – 1945)",
+   "moc": [
+    [
+     "4 – 5 – 1919",
+     "Phong trào Ngũ tứ"
+    ],
+    [
+     "7 – 1921",
+     "Đảng Cộng sản Trung Quốc ra đời"
+    ],
+    [
+     "1927 – 1937",
+     "Chiến tranh cách mạng"
+    ],
+    [
+     "7 – 1937",
+     "Quốc – Cộng hợp tác chống Nhật"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Ngày 4 tháng 5 năm 1919, phong trào Ngũ tứ. Tháng 7 năm 1921, Đảng Cộng sản Trung Quốc ra đời.",
+     "Recap! 4 May 1919: the May Fourth Movement. July 1921: the Communist Party of China is founded."
+    ],
+    [
+     "Hân Hân",
+     "1927 – 1937, chiến tranh cách mạng chống Quốc dân đảng. Từ tháng 7 năm 1937, Quốc – Cộng hợp tác kháng chiến chống Nhật.",
+     "1927–1937: revolutionary war against the Kuomintang. From July 1937: joint resistance against Japan."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên cuốn atlas trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao năm 1937, hai lực lượng từng đối đầu lại bắt tay hợp tác? Bình luận nhé!",
+     "Your challenge: why did two former enemies join hands in 1937? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào Ngũ tứ bùng nổ vào ngày",
+   "dap_an": [
+    "4 – 5 – 1919",
+    "1 – 5 – 1920",
+    "7 – 1921",
+    "7 – 1937"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Đảng Cộng sản Trung Quốc được thành lập vào thời gian nào?",
+   "dap_an": [
+    "7 – 1919",
+    "7 – 1921",
+    "7 – 1927",
+    "7 – 1937"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Tập đoàn Quốc dân đảng đại diện cho quyền lợi của",
+   "dap_an": [
+    "Công nhân, nông dân",
+    "Đại địa chủ, đại tư sản và đế quốc",
+    "Sinh viên, trí thức",
+    "Tiểu tư sản"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Phong trào đấu tranh ở châu Á (1918 – 1945) theo khuynh hướng vô sản tiêu biểu là",
+   "dap_an": [
+    "Ấn Độ, In-đô-nê-xi-a",
+    "Trung Quốc, Việt Nam",
+    "Thổ Nhĩ Kỳ, Mông Cổ",
+    "Nhật Bản, Ấn Độ"
+   ],
+   "dung": 1,
+   "trang": 16
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 15 – 16 (mục 2a khái quát; mục 2b cách mạng Trung Quốc 1919 – 1945; Hình 3.5). Đã chỉnh kiến thức chốt của danh mục: SGK viết Ngũ tứ là cuộc biểu tình 'chống lại âm mưu xâu xé Trung Quốc của các nước đế quốc' (không dùng cụm 'mở đầu cho cuộc đấu tranh chống đế quốc'); SGK không nêu ngày cụ thể bắt đầu Quốc – Cộng hợp tác, chỉ nói sau khi Nhật mở rộng chiến tranh (7 – 1937) – lời dẫn giữ đúng như vậy. Trùng tên với L9-B12-04 (đợt 3, Trung Quốc sau 1945) nhưng khác nội dung.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

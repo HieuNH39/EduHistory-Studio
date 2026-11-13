@@ -1,0 +1,338 @@
+{
+ "ma": "L9-B18-01",
+ "ten_tap": "Thế giới sau Chiến tranh lạnh: Bước ngoặt lịch sử",
+ "ten_tap_en": "The World after the Cold War: A Historic Turning Point",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 18. Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+  "trang": [
+   43,
+   93
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "m-gooc-ba-chop",
+  "g-bu-so"
+ ],
+ "nhac": {
+  "tam_trang": "trầm lắng ở đầu, mở ra, sáng dần ở phần trật tự mới",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; thẻ chữ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 18, tr. 93 và Bài 9, tr. 43.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học, đứng cạnh quả địa cầu; trên bảng là hai vòng tròn lớn được xoá dần, thay bằng nhiều vòng tròn nhỏ nối với nhau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1989, tại Man-ta, M. Goóc-ba-chốp nói về Chiến tranh lạnh: “Chạy đua vũ trang, nghi ngờ, đấu tranh về tâm lí và ý thức hệ, tất cả những điều ấy nên để lại quá khứ”.",
+     "In 1989 at Malta, M. Gorbachev said of the Cold War: 'The arms race, mistrust, the psychological and ideological struggle — all that should be left in the past.'"
+    ],
+    [
+     "Nhật Minh",
+     "Vậy khi quá khứ ấy khép lại, thế giới đã thay đổi thế nào? Cùng giải mã nhé!",
+     "So once that past was closed, how did the world change? Let's decode it!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tổng thống Mỹ G. Bu-sơ (cha) và Tổng Bí thư Đảng Cộng sản Liên Xô M. Goóc-ba-chốp tại Man-ta, năm 1989 (như Hình 18.1 SGK, tr. 93)",
+    "tim": "Bush Gorbachev Malta summit December 1989 photograph",
+    "yeu_cau": "ảnh lưu trữ công khai (phạm vi công cộng hoặc giấy phép mở), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: cuộc gặp tại Man-ta (1989)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong cuộc gặp không chính thức tại Man-ta, tháng 12 năm 1989, lãnh đạo Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.",
+     "At their informal meeting in Malta in December 1989, the US and Soviet leaders declared the Cold War over."
+    ]
+   ],
+   "nguon_trang": [
+    43,
+    93
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "TRẬT TỰ HAI CỰC I-AN-TA",
+   "y": [
+    "Trật tự hai cực I-an-ta (1945 – 1991): hai siêu cường Mỹ và Liên Xô",
+    "Hai hệ thống đối lập: tư bản chủ nghĩa ↔ xã hội chủ nghĩa",
+    "1991: Liên Xô sụp đổ → Trật tự hai cực I-an-ta chấm dứt"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong Trật tự hai cực I-an-ta, từ năm 1945 đến năm 1991, thế giới bị chi phối bởi hai siêu cường Mỹ và Liên Xô, chia thành hai hệ thống đối lập, luôn đối đầu nhau.",
+     "Under the bipolar Yalta order, from 1945 to 1991, the world was dominated by two superpowers, the US and the USSR, split into two opposing systems in constant confrontation."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1991, Liên Xô sụp đổ. Đó là dấu mốc kết thúc sự tồn tại của Trật tự hai cực I-an-ta.",
+     "In 1991, the Soviet Union collapsed. That marked the end of the bipolar Yalta order."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sự kiện nào là dấu mốc kết thúc Trật tự hai cực I-an-ta?",
+    "lua_chon": [
+     "Liên Xô sụp đổ (1991)",
+     "Chiến tranh thế giới thứ hai kết thúc (1945)",
+     "Thành lập NATO (1949)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sự kiện nào đánh dấu Trật tự hai cực I-an-ta chấm dứt?",
+     "Pause! Which event marked the end of the bipolar Yalta order?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Liên Xô sụp đổ, năm 1991!",
+     "The answer is A: the collapse of the USSR in 1991!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "XU THẾ MỚI",
+   "y": [
+    "Đối đầu → đối thoại, hoà hoãn",
+    "Các nước lấy kinh tế làm trọng tâm",
+    "Tích cực liên kết kinh tế khu vực, quốc tế",
+    "Hoà bình là xu thế chủ đạo; xung đột vẫn diễn ra ở một số nơi"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xu hướng đối đầu được thay thế bằng xu thế đối thoại, hoà hoãn. Hầu hết các nước điều chỉnh chiến lược, lấy kinh tế làm trọng tâm, tích cực tham gia liên kết kinh tế khu vực và quốc tế.",
+     "Confrontation gave way to dialogue and détente. Most countries reset their strategies to put the economy first and joined regional and international economic integration."
+    ],
+    [
+     "Nhật Minh",
+     "Hoà bình là xu thế chủ đạo; tuy nhiên, nội chiến, xung đột dân tộc, sắc tộc, tôn giáo vẫn diễn ra ở một số khu vực.",
+     "Peace became the main trend; yet civil wars and ethnic and religious conflicts still broke out in some regions."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "TRẬT TỰ THẾ GIỚI MỚI",
+   "y": [
+    "Xu hướng đa cực, nhiều trung tâm",
+    "Cạnh tranh giữa các cường quốc:",
+    "Mỹ · Liên minh châu Âu (EU) · Nhật Bản · Trung Quốc · Liên bang Nga"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một trật tự thế giới mới đang dần hình thành theo xu hướng đa cực, nhiều trung tâm,",
+     "A new world order is gradually taking shape: multipolar, with many centres,"
+    ],
+    [
+     "Hân Hân",
+     "với sự cạnh tranh của các cường quốc như Mỹ, Liên minh châu Âu, Nhật Bản, Trung Quốc và Liên bang Nga.",
+     "with competition among powers such as the US, the European Union, Japan, China and the Russian Federation."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trật tự thế giới mới sau Chiến tranh lạnh đang hình thành theo xu hướng nào?",
+    "lua_chon": [
+     "Hai cực đối đầu",
+     "Đa cực, nhiều trung tâm",
+     "Một cực duy nhất"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Trật tự thế giới mới đang hình thành theo xu hướng nào?",
+     "Quick test! What shape is the new world order taking?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: đa cực, nhiều trung tâm!",
+     "The answer is B: multipolar, with many centres!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TỪ HAI CỰC ĐẾN ĐA CỰC",
+   "moc": [
+    [
+     "1945 – 1991",
+     "Trật tự hai cực I-an-ta"
+    ],
+    [
+     "12 – 1989",
+     "Man-ta: chấm dứt Chiến tranh lạnh"
+    ],
+    [
+     "1991",
+     "Liên Xô sụp đổ"
+    ],
+    [
+     "Sau 1991",
+     "Xu hướng đa cực, nhiều trung tâm"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Từ năm 1945 đến năm 1991: Trật tự hai cực I-an-ta. Tháng 12 năm 1989: chấm dứt Chiến tranh lạnh tại Man-ta.",
+     "Recap! 1945 to 1991: the bipolar Yalta order. December 1989: the Cold War ends at Malta."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1991: Liên Xô sụp đổ. Và từ đó, thế giới tiến tới đa cực, nhiều trung tâm.",
+     "1991: the USSR collapses. From then on, the world moves towards many poles and centres."
+    ]
+   ],
+   "nguon_trang": [
+    43,
+    93
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên quả địa cầu, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, điều mà Goóc-ba-chốp muốn “để lại quá khứ” là gì? Bình luận nhé!",
+     "Your challenge: what did Gorbachev want to 'leave in the past'? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong Trật tự hai cực I-an-ta, hai siêu cường chi phối thế giới là",
+   "dap_an": [
+    "Mỹ và Liên Xô",
+    "Mỹ và Trung Quốc",
+    "Anh và Pháp",
+    "Nhật Bản và Đức"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Sau Chiến tranh lạnh, hầu hết các quốc gia điều chỉnh chiến lược phát triển, lấy lĩnh vực nào làm trọng tâm?",
+   "dap_an": [
+    "Quân sự",
+    "Kinh tế",
+    "Tôn giáo",
+    "Thể thao"
+   ],
+   "dung": 1,
+   "trang": 93
+  },
+  {
+   "hoi": "Cường quốc nào KHÔNG được SGK nêu trong cuộc cạnh tranh của trật tự đa cực?",
+   "dap_an": [
+    "Mỹ",
+    "Liên minh châu Âu (EU)",
+    "Ấn Độ",
+    "Liên bang Nga"
+   ],
+   "dung": 2,
+   "trang": 93
+  },
+  {
+   "hoi": "Cuộc gặp không chính thức giữa G. Bu-sơ (cha) và M. Goóc-ba-chốp năm 1989 diễn ra ở",
+   "dap_an": [
+    "I-an-ta",
+    "Man-ta",
+    "Pa-ri",
+    "Mát-xcơ-va"
+   ],
+   "dung": 1,
+   "trang": 93
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 93 (câu phát biểu của Goóc-ba-chốp tại Man-ta 1989; Hình 18.1; mục 1: 1991, Trật tự hai cực I-an-ta 1945 – 1991, xu thế, đa cực nhiều trung tâm; hộp chú thích về hai cực được OCR lẫn cột, đã ghép lại) và tr. 43 (Man-ta, 12 – 1989). Kiến thức chốt của danh mục khớp SGK. Không dựng bản đồ đổi màu hai khối → đa cực (mô phỏng danh mục đề xuất) vì không vẽ biên giới trên bản đồ thế giới – thay bằng thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

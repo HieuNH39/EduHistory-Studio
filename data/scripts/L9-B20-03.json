@@ -1,0 +1,362 @@
+{
+ "ma": "L9-B20-03",
+ "ten_tap": "Biển đảo là máu thịt",
+ "ten_tap_en": "Our Seas and Islands Are Part of Us",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 20. Việt Nam từ năm 1976 đến năm 1991",
+  "trang": [
+   103,
+   104
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "chien-si-hai-quan-viet-nam"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, sâu lắng, tự hào; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 20, tr. 103–104.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ luôn có quần đảo Hoàng Sa, Trường Sa. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nghiêm trang trước Đài tưởng niệm chiến sĩ Gạc Ma ở tỉnh Khánh Hoà ngày nay; nền trời xanh, biển xa xa; Hân Hân ôm bó hoa trắng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Đài tưởng niệm chiến sĩ Gạc Ma ở tỉnh Khánh Hoà. Tháng 3 năm 1988, 64 chiến sĩ Hải quân Việt Nam đã anh dũng hi sinh khi bảo vệ chủ quyền tại đảo Gạc Ma.",
+     "This is the Gạc Ma Soldiers Memorial in Khánh Hoà. In March 1988, 64 Vietnamese naval soldiers gave their lives defending sovereignty at Gạc Ma."
+    ],
+    [
+     "Nhật Minh",
+     "Sau năm 1975, Việt Nam đã bảo vệ chủ quyền biển đảo như thế nào? Cùng tìm hiểu nhé!",
+     "After 1975, how did Vietnam protect its sovereignty over its seas and islands? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1975",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "SAU NĂM 1975",
+   "y": [
+    "Tiếp tục quản lí, thực thi và bảo vệ chủ quyền ở Biển Đông",
+    "Bảo vệ các quyền và lợi ích hợp pháp",
+    "Quần đảo Hoàng Sa (đã bị Trung Quốc chiếm đóng năm 1974)",
+    "Quần đảo Trường Sa"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi thống nhất đất nước, Việt Nam tiếp tục quản lí, thực thi và bảo vệ chủ quyền, các quyền và lợi ích hợp pháp ở Biển Đông,",
+     "After reunification, Vietnam continued to manage, exercise and defend its sovereignty and its legitimate rights and interests in the East Sea,"
+    ],
+    [
+     "Hân Hân",
+     "trong đó có quần đảo Hoàng Sa, đã bị Trung Quốc chiếm đóng vào năm 1974, và quần đảo Trường Sa.",
+     "including the Hoàng Sa (Paracel) archipelago, occupied by China in 1974, and the Trường Sa (Spratly) archipelago."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "bien-dao-viet-nam",
+   "pha": "dac_khu",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Hân Hân",
+     "Các đơn vị hành chính được thành lập: huyện Bạch Long Vĩ, nay là đặc khu Bạch Long Vĩ của thành phố Hải Phòng; huyện Hoàng Sa, nay là đặc khu Hoàng Sa của thành phố Đà Nẵng; huyện Trường Sa, nay là đặc khu Trường Sa của tỉnh Khánh Hoà.",
+     "Administrative units were set up: Bạch Long Vĩ district, now a special zone of Hải Phòng; Hoàng Sa district, now a special zone of Đà Nẵng; Trường Sa district, now a special zone of Khánh Hoà."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều văn bản pháp lí về các vùng biển và thềm lục địa được ban hành; nhiều tuyên bố chủ quyền được công khai tại các diễn đàn quốc tế.",
+     "Many legal documents on maritime zones and the continental shelf were issued, and many sovereignty statements were made public at international forums."
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, huyện Hoàng Sa nay là đặc khu Hoàng Sa thuộc",
+    "lua_chon": [
+     "Thành phố Đà Nẵng",
+     "Tỉnh Khánh Hoà",
+     "Thành phố Hải Phòng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đặc khu Hoàng Sa ngày nay thuộc địa phương nào?",
+     "Pause! Which locality does the Hoàng Sa special zone belong to today?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thành phố Đà Nẵng!",
+     "The answer is A: Đà Nẵng city!"
+    ]
+   ],
+   "nguon_trang": [
+    103
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1988",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "bien-dao-viet-nam",
+   "pha": "gac_ma",
+   "thoi_luong_toi_thieu": 12,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuy nhiên, các hành động xâm phạm chủ quyền biển đảo Việt Nam liên tiếp diễn ra. Tháng 3 năm 1988, quân đội Trung Quốc huy động lực lượng lớn tấn công một số đảo chìm và bãi ngầm thuộc quần đảo Trường Sa của Việt Nam: Gạc Ma, Cô Lin, Len Đao.",
+     "Yet violations of Vietnam's maritime sovereignty kept occurring. In March 1988, Chinese forces attacked several submerged features of Vietnam's Trường Sa archipelago: Gạc Ma, Cô Lin and Len Đao."
+    ],
+    [
+     "Hân Hân",
+     "Trong cuộc chiến đấu bảo vệ chủ quyền tại đảo Gạc Ma, 64 chiến sĩ Hải quân Việt Nam đã anh dũng hi sinh.",
+     "In the fight to defend sovereignty at Gạc Ma, 64 Vietnamese naval soldiers died heroically."
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Đài tưởng niệm chiến sĩ Gạc Ma (tỉnh Khánh Hoà) (như Hình 20.4 SGK, tr. 104)",
+    "tim": "Đài tưởng niệm chiến sĩ Gạc Ma Cam Ranh Khánh Hoà ảnh",
+    "yeu_cau": "ảnh chụp di tích hiện nay, giấy phép mở hoặc của cơ quan báo chí, ghi nguồn; không vẽ AI người thật hay cảnh lịch sử"
+   },
+   "hinh": "Đài tưởng niệm chiến sĩ Gạc Ma (Khánh Hoà)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngay lúc đó, Chính phủ Việt Nam đã thông báo cho Liên hợp quốc, gửi nhiều công hàm phản đối,",
+     "Right away, the Vietnamese government informed the United Nations and sent many notes of protest,"
+    ],
+    [
+     "Nhật Minh",
+     "và đề nghị hai bên Việt Nam – Trung Quốc thương lượng để giải quyết tranh chấp bằng biện pháp hoà bình.",
+     "and proposed that Vietnam and China negotiate to settle the dispute by peaceful means."
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Có bao nhiêu chiến sĩ Hải quân Việt Nam anh dũng hi sinh tại đảo Gạc Ma (3 – 1988)?",
+    "lua_chon": [
+     "46",
+     "64",
+     "60"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi để ghi nhớ: tại đảo Gạc Ma, bao nhiêu chiến sĩ Hải quân Việt Nam đã hi sinh?",
+     "A question to remember: how many Vietnamese naval soldiers died at Gạc Ma?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 64 chiến sĩ.",
+     "The answer is B: 64 soldiers."
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "HIỆN NAY",
+   "y": [
+    "Biện pháp toàn diện: chính trị, kinh tế, ngoại giao, quân sự",
+    "Kiên định giải quyết tranh chấp bằng giải pháp hoà bình",
+    "Trên cơ sở luật pháp quốc tế"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hiện nay, Việt Nam thực hiện các biện pháp toàn diện, kết hợp chính trị, kinh tế, ngoại giao, quân sự để bảo vệ chủ quyền biển đảo,",
+     "Today, Vietnam uses comprehensive measures, combining political, economic, diplomatic and military means, to protect its maritime sovereignty,"
+    ],
+    [
+     "Hân Hân",
+     "kiên định giải quyết tranh chấp bằng giải pháp hoà bình, trên cơ sở luật pháp quốc tế.",
+     "while steadfastly settling disputes peacefully, on the basis of international law."
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · BẢO VỆ CHỦ QUYỀN BIỂN ĐẢO",
+   "moc": [
+    [
+     "1974",
+     "Hoàng Sa bị Trung Quốc chiếm đóng"
+    ],
+    [
+     "Sau 1975",
+     "Quản lí, thực thi chủ quyền; lập đơn vị hành chính"
+    ],
+    [
+     "3 – 1988",
+     "Gạc Ma: 64 chiến sĩ hi sinh"
+    ],
+    [
+     "Hiện nay",
+     "Biện pháp toàn diện, giải pháp hoà bình"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1974, Hoàng Sa bị Trung Quốc chiếm đóng. Sau năm 1975, Việt Nam quản lí, thực thi chủ quyền, lập các đơn vị hành chính.",
+     "Recap! 1974: Hoàng Sa is occupied by China. After 1975: Vietnam manages and exercises sovereignty and sets up administrative units."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1988, sự kiện Gạc Ma. Hiện nay, Việt Nam kiên định giải pháp hoà bình trên cơ sở luật pháp quốc tế.",
+     "March 1988: Gạc Ma. Today, Vietnam holds firmly to peaceful solutions based on international law."
+    ]
+   ],
+   "nguon_trang": [
+    103,
+    104
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước đài tưởng niệm, đặt bó hoa trắng, rồi quay về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: Việt Nam đã có những hoạt động gì để đấu tranh bảo vệ chủ quyền biển đảo? Nêu hai hoạt động ở phần bình luận nhé!",
+     "Your challenge: what has Vietnam done to defend its sovereignty over seas and islands? Name two actions in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    104
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Quần đảo Hoàng Sa bị Trung Quốc chiếm đóng vào năm nào?",
+   "dap_an": [
+    "1974",
+    "1975",
+    "1979",
+    "1988"
+   ],
+   "dung": 0,
+   "trang": 103
+  },
+  {
+   "hoi": "Tháng 3 – 1988, quân đội Trung Quốc tấn công một số đảo chìm, bãi ngầm thuộc quần đảo Trường Sa, gồm",
+   "dap_an": [
+    "Gạc Ma, Cô Lin, Len Đao",
+    "Bạch Long Vĩ, Cồn Cỏ",
+    "Phú Quốc, Thổ Chu",
+    "Côn Đảo, Lý Sơn"
+   ],
+   "dung": 0,
+   "trang": 104
+  },
+  {
+   "hoi": "Theo SGK, huyện Trường Sa nay là đặc khu Trường Sa thuộc",
+   "dap_an": [
+    "Thành phố Đà Nẵng",
+    "Tỉnh Khánh Hoà",
+    "Thành phố Hải Phòng",
+    "Tỉnh Quảng Ngãi"
+   ],
+   "dung": 1,
+   "trang": 103
+  },
+  {
+   "hoi": "Hiện nay, Việt Nam kiên định giải quyết tranh chấp chủ quyền biển đảo bằng",
+   "dap_an": [
+    "Giải pháp hoà bình trên cơ sở luật pháp quốc tế",
+    "Chỉ biện pháp quân sự",
+    "Nhượng bộ",
+    "Không giải quyết"
+   ],
+   "dung": 0,
+   "trang": 104
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 103 (đấu tranh bảo vệ chủ quyền biển đảo sau năm 1975; Hoàng Sa bị Trung Quốc chiếm đóng năm 1974; Bạch Long Vĩ, Hoàng Sa, Trường Sa và tên đặc khu hiện nay theo SGK; văn bản pháp lí, tuyên bố) và tr. 104 (3 – 1988: Gạc Ma, Cô Lin, Len Đao; 64 chiến sĩ; thông báo Liên hợp quốc, công hàm, đề nghị thương lượng; Hình 20.4; biện pháp toàn diện, giải pháp hoà bình). Sa bàn mới 'bien-dao-viet-nam' (tools/make_spec_bien_dao_viet_nam.py; pha dac_khu, gac_ma) là bản đồ định vị vẽ bằng code, vị trí các đảo gần đúng, luôn có Hoàng Sa, Trường Sa, không vẽ đường biên trên biển; đã xem khung hình mẫu. Lời dẫn bám sát từng câu SGK, không thêm chi tiết diễn biến trận đánh; không dựng cảnh chiến đấu bằng AI (mô phỏng 3D danh mục đề xuất không dùng). Kiến thức chốt của danh mục khớp SGK; đã ghi rõ Hoàng Sa 'đã bị Trung Quốc chiếm đóng vào năm 1974' như SGK. Cần GV duyệt kĩ lời dẫn (theo lưu ý chủ quyền của danh mục).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "ma": "L9-B21-02",
+ "ten_tap": "Việt Nam trong dòng chảy công nghệ",
+ "ten_tap_en": "Vietnam in the Technology Stream",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 21. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+  "trang": [
+   113,
+   114
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-lao-dong-viet-nam",
+  "nhan-luc-chat-luong-cao"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, suy ngẫm, kết thúc lạc quan",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 21, tr. 113–114.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng máy tính của trường; trên màn hình là trình soạn thảo mã nguồn và một cửa sổ trò chuyện với trợ lí AI; ngoài cửa sổ là sân trường xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình đang học lập trình cùng trợ lí trí tuệ nhân tạo. Công nghệ mới mở ra bao nhiêu cơ hội!",
+     "We're learning to code with an AI assistant. New technology opens up so many opportunities!"
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng SGK nói rõ: cách mạng khoa học – kĩ thuật mang lại cho Việt Nam cả thời cơ lẫn thách thức. Cùng phân tích nhé!",
+     "But the textbook is clear: the scientific and technological revolution brings Vietnam both opportunities and challenges. Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    113
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐỊNH HƯỚNG",
+   "y": [
+    "Nghị quyết số 52-NQ/TW của Bộ Chính trị (27 – 9 – 2019)",
+    "Cách mạng công nghiệp lần thứ tư: cả cơ hội và thách thức",
+    "Nắm bắt cơ hội: nâng cao năng suất, sức cạnh tranh, hiệu quả quản lí",
+    "Chủ động phòng ngừa, hạn chế tác động tiêu cực"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghị quyết số 52 của Bộ Chính trị, ngày 27 tháng 9 năm 2019, khẳng định Cách mạng công nghiệp lần thứ tư mang lại cả cơ hội và thách thức.",
+     "Politburo Resolution No. 52 of 27 September 2019 states that the Fourth Industrial Revolution brings both opportunities and challenges."
+    ],
+    [
+     "Hân Hân",
+     "Phải tận dụng cơ hội để nâng cao năng suất, sức cạnh tranh, hiệu quả quản lí; đồng thời chủ động phòng ngừa các tác động tiêu cực.",
+     "We must seize the chances to raise productivity, competitiveness and management, while actively guarding against negative effects."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "THỜI CƠ",
+   "y": [
+    "Kinh tế phát triển theo hướng hiện đại, hội nhập khu vực và thế giới",
+    "Nâng cao chất lượng cuộc sống",
+    "Thúc đẩy chuyển đổi số: quản lí nhà nước, sản xuất kinh doanh, tiêu dùng, văn hoá – xã hội"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về thời cơ: cách mạng này thúc đẩy kinh tế Việt Nam phát triển theo hướng hiện đại, hội nhập với khu vực và thế giới, góp phần nâng cao chất lượng cuộc sống.",
+     "Opportunities: it pushes Vietnam's economy towards modernisation and integration with the region and the world, improving quality of life."
+    ],
+    [
+     "Nhật Minh",
+     "Nó còn thúc đẩy chuyển đổi số, thay đổi cách quản lí nhà nước, mô hình sản xuất kinh doanh, tiêu dùng và đời sống văn hoá, xã hội.",
+     "It also drives digital transformation, changing state management, business models, consumption and social and cultural life."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là một thời cơ mà cách mạng khoa học – kĩ thuật mang lại cho Việt Nam?",
+    "lua_chon": [
+     "Thúc đẩy chuyển đổi số",
+     "Dễ bị biến thành nơi gia công, lắp ráp đơn giản",
+     "Thông tin sai sự thật lan rộng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đâu là một thời cơ cho Việt Nam?",
+     "Pause! Which one is an opportunity for Vietnam?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thúc đẩy chuyển đổi số! Hai phương án còn lại là thách thức.",
+     "The answer is A: driving digital transformation! The other two are challenges."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "THÁCH THỨC",
+   "y": [
+    "Dễ bị biến thành nơi gia công, lắp ráp đơn giản",
+    "Nguy cơ an ninh: thông tin bảo mật bị đánh cắp",
+    "Thông tin xấu, sai sự thật phát tán trên không gian mạng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về thách thức: Việt Nam rất dễ bị biến thành nơi gia công, lắp ráp đơn giản cho các nước có công nghệ hiện đại.",
+     "Challenges: Vietnam could easily become a place for simple processing and assembly for technologically advanced countries."
+    ],
+    [
+     "Hân Hân",
+     "Còn có nguy cơ về an ninh, an toàn xã hội khi thông tin bảo mật bị đánh cắp, hoặc thông tin xấu, sai sự thật bị phát tán trên không gian mạng.",
+     "There are also security risks when confidential data is stolen, or harmful and false information spreads online."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "THÁCH THỨC TỪ AI",
+   "y": [
+    "Áp lực đào thải lao động quy mô lớn",
+    "Nới rộng khoảng cách công nghệ",
+    "Thiếu nhân lực chất lượng cao làm chủ dữ liệu, thuật toán",
+    "→ Nguy cơ lệ thuộc nền tảng ngoại nhập, đe doạ tự chủ quốc gia"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Đặc biệt, sự phát triển của AI tạo áp lực đào thải lao động quy mô lớn và nới rộng khoảng cách công nghệ.",
+     "In particular, AI's growth puts pressure on jobs on a large scale and widens the technology gap."
+    ],
+    [
+     "Nhật Minh",
+     "Thiếu nhân lực chất lượng cao để làm chủ dữ liệu và thuật toán, nước ta dễ lệ thuộc các nền tảng ngoại nhập, đe doạ sự tự chủ quốc gia trong kỉ nguyên số.",
+     "Without enough highly skilled people to master data and algorithms, we risk depending on foreign platforms, threatening national self-reliance in the digital age."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, sự phát triển của AI tạo ra áp lực gì?",
+    "lua_chon": [
+     "Đào thải lao động quy mô lớn",
+     "Thiếu lương thực",
+     "Tăng dân số"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Theo SGK, sự phát triển của AI tạo áp lực gì?",
+     "Quick test! According to the textbook, what pressure does AI create?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: áp lực đào thải lao động quy mô lớn!",
+     "The answer is A: large-scale pressure on jobs!"
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "THỜI CƠ – THÁCH THỨC",
+   "y": [
+    "Thời cơ: hiện đại hoá, hội nhập, chuyển đổi số",
+    "Thách thức: gia công, lắp ráp; an ninh mạng",
+    "Thách thức: AI đào thải lao động; thiếu nhân lực chất lượng cao"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: thời cơ là hiện đại hoá, hội nhập, chuyển đổi số.",
+     "Remember: the opportunities are modernisation, integration and digital transformation."
+    ],
+    [
+     "Hân Hân",
+     "Thách thức là nguy cơ chỉ gia công, lắp ráp; an ninh mạng; áp lực từ AI và thiếu nhân lực chất lượng cao.",
+     "The challenges are being stuck in assembly work, cybersecurity, pressure from AI and a shortage of highly skilled people."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên màn hình máy tính, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: là học sinh, cậu có thể làm gì để góp phần biến thách thức thành thời cơ? Bình luận nhé!",
+     "Your challenge: as a student, what can you do to help turn challenges into opportunities? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nghị quyết số 52-NQ/TW của Bộ Chính trị về chủ động tham gia Cách mạng công nghiệp lần thứ tư được ban hành ngày",
+   "dap_an": [
+    "27 – 9 – 2019",
+    "2 – 9 – 2019",
+    "27 – 9 – 2009",
+    "1 – 1 – 2020"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Thách thức nào dưới đây được SGK nêu đối với Việt Nam?",
+   "dap_an": [
+    "Dễ bị biến thành nơi gia công, lắp ráp đơn giản",
+    "Thiếu đất canh tác",
+    "Không có internet",
+    "Không có lao động"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Thiếu hụt nhân lực chất lượng cao để làm chủ dữ liệu và thuật toán có thể khiến nước ta",
+   "dap_an": [
+    "Lệ thuộc các nền tảng ngoại nhập",
+    "Dẫn đầu thế giới về AI",
+    "Không cần chuyển đổi số",
+    "Tăng xuất khẩu nông sản"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Cách mạng khoa học – kĩ thuật thúc đẩy nền kinh tế Việt Nam phát triển theo hướng",
+   "dap_an": [
+    "Hiện đại, hội nhập với khu vực và thế giới",
+    "Tự cung tự cấp",
+    "Đóng cửa",
+    "Chỉ phát triển nông nghiệp"
+   ],
+   "dung": 0,
+   "trang": 114
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 113 (mục 1b mở đầu: thời cơ và thách thức) và tr. 114 (Tư liệu 1: Nghị quyết số 52-NQ/TW ngày 27 – 9 – 2019, diễn đạt lại; thời cơ; thách thức; AI và nhân lực chất lượng cao). Kiến thức chốt của danh mục khớp SGK. Bảng so sánh hai cột (mô phỏng danh mục đề xuất) được dựng bằng các thẻ ghi nhớ 'Thời cơ' / 'Thách thức'. Cảnh mở đầu gắn với phương pháp Vibe Coding của dự án (bối cảnh hiện tại).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,365 @@
+{
+ "ma": "L9-B17-01",
+ "ten_tap": "Chiến tranh cục bộ: Mỹ đổ quân vào miền Nam",
+ "ten_tap_en": "The 'Local War': US Troops Pour into the South",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 17. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+  "trang": [
+   85,
+   86
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-my",
+  "quan-giai-phong-mien-nam"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, quyết liệt, hào hùng ở Vạn Tường",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 17, tr. 85–86.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bờ biển Vạn Tường (Quảng Ngãi) ngày nay, cát trắng, rặng phi lao, trời trong; Hân Hân cầm cuốn SGK Lịch sử 9 mở ở Bài 17",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1965, Mỹ chuyển sang một chiến lược chiến tranh mới ở miền Nam, trong đó quân Mỹ giữ vai trò chủ yếu.",
+     "In 1965, the US switched to a new war strategy in the South, in which American troops played the main role."
+    ],
+    [
+     "Hân Hân",
+     "Và chính trên mảnh đất Vạn Tường này, quân Mỹ đã bị đẩy lùi. Cùng tìm hiểu nhé!",
+     "And right here at Vạn Tường, the Americans were pushed back. Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1965",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "“CHIẾN TRANH CỤC BỘ” (1965 – 1968)",
+   "y": [
+    "Chiến lược chiến tranh xâm lược thực dân mới của Mỹ",
+    "Lực lượng: quân Mỹ, quân một số nước đồng minh, quân đội Sài Gòn",
+    "Quân Mỹ giữ vai trò chủ yếu",
+    "Dựa vào vũ khí, phương tiện chiến tranh hiện đại"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "“Chiến tranh cục bộ” là một chiến lược chiến tranh xâm lược thực dân mới của Mỹ, tiến hành bằng quân Mỹ, quân một số nước đồng minh và quân đội Sài Gòn, trong đó quân Mỹ giữ vai trò chủ yếu.",
+     "The 'Local War' was a US neo-colonial war strategy, fought by American troops, some allied forces and the Saigon army, with US troops in the main role."
+    ],
+    [
+     "Hân Hân",
+     "Mỹ dựa vào vũ khí, phương tiện chiến tranh hiện đại.",
+     "The US relied on modern weapons and means of war."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "THỦ ĐOẠN",
+   "y": [
+    "Ở miền Nam: các cuộc hành quân “tìm diệt”, “bình định”",
+    "Ở miền Bắc: gây chiến tranh phá hoại"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Mỹ mở các cuộc hành quân “tìm diệt”, “bình định” ở miền Nam và gây chiến tranh phá hoại miền Bắc.",
+     "The US launched 'search and destroy' and 'pacification' operations in the South and waged a war of destruction against the North."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong chiến lược “Chiến tranh cục bộ”, lực lượng nào giữ vai trò chủ yếu?",
+    "lua_chon": [
+     "Quân đội Sài Gòn",
+     "Quân Mỹ",
+     "Quân một số nước đồng minh của Mỹ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Trong “Chiến tranh cục bộ”, lực lượng nào giữ vai trò chủ yếu?",
+     "Pause! In the 'Local War', which force played the main role?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: quân Mỹ!",
+     "The answer is B: American troops!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "VẠN TƯỜNG (18 – 8 – 1965)",
+   "y": [
+    "Ngày 18 – 8 – 1965, Vạn Tường (Quảng Ngãi)",
+    "Đẩy lùi cuộc hành quân “tìm diệt” bộ đội chủ lực ta của quân Mỹ",
+    "Mở đầu cao trào “Tìm Mỹ mà đánh, lùng nguỵ mà diệt”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 18 tháng 8 năm 1965, ở Vạn Tường, tỉnh Quảng Ngãi, quân ta đẩy lùi cuộc hành quân của quân Mỹ nhằm “tìm diệt” bộ đội chủ lực của ta.",
+     "On 18 August 1965, at Vạn Tường in Quảng Ngãi, our forces repelled a US operation to 'search and destroy' our main force."
+    ],
+    [
+     "Nhật Minh",
+     "Trận Vạn Tường mở đầu cao trào “Tìm Mỹ mà đánh, lùng nguỵ mà diệt” trên khắp miền Nam.",
+     "Vạn Tường launched the high tide of 'Find the Americans to fight, hunt the puppets to destroy' across the South."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trận Vạn Tường (Quảng Ngãi) diễn ra ngày nào?",
+    "lua_chon": [
+     "2 – 1 – 1963",
+     "18 – 8 – 1965",
+     "31 – 1 – 1968"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Trận Vạn Tường diễn ra ngày nào?",
+     "Quick test! When was the battle of Vạn Tường?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngày 18 tháng 8 năm 1965!",
+     "The answer is B: 18 August 1965!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI MÙA KHÔ",
+   "y": [
+    "Mùa khô 1965 – 1966: đánh bại cuộc phản công vào Đông Nam Bộ, khu V",
+    "Mùa khô 1966 – 1967: đánh bại ba cuộc hành quân lớn “tìm diệt”, “bình định”",
+    "Lớn nhất: cuộc hành quân đánh vào căn cứ Dương Minh Châu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tiếp đó, quân dân miền Nam đánh bại cuộc phản công mùa khô 1965 – 1966 nhằm vào các căn cứ ở Đông Nam Bộ, khu V,",
+     "Next, the southern army and people defeated the 1965–1966 dry-season counter-offensive against bases in the south-east and Zone V,"
+    ],
+    [
+     "Hân Hân",
+     "và cuộc phản công mùa khô 1966 – 1967 với ba cuộc hành quân lớn, lớn nhất là cuộc hành quân đánh vào căn cứ Dương Minh Châu nhằm tiêu diệt quân chủ lực và cơ quan đầu não của ta.",
+     "and the 1966–1967 dry-season counter-offensive with three big operations, the largest aimed at the Dương Minh Châu base to destroy our main force and leadership."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Quân Giải phóng làm chủ đường Lê Lợi ở Sài Gòn năm 1968 (như Hình 17.1 SGK, tr. 86)",
+    "tim": "Quân Giải phóng đường Lê Lợi Sài Gòn 1968 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Quân Giải phóng trên đường Lê Lợi, Sài Gòn (1968)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1968, sau cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân, Mỹ buộc phải tuyên bố “phi Mỹ hoá” chiến tranh xâm lược,",
+     "In 1968, after the Tết General Offensive and Uprising, the US had to announce the 'de-Americanisation' of its war,"
+    ],
+    [
+     "Hân Hân",
+     "tức là thừa nhận sự thất bại của chiến lược “Chiến tranh cục bộ”, và chấp nhận đàm phán ở Pa-ri để bàn về chấm dứt chiến tranh.",
+     "admitting the failure of the 'Local War' strategy, and agreed to talks in Paris on ending the war."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐÁNH BẠI “CHIẾN TRANH CỤC BỘ”",
+   "moc": [
+    [
+     "18 – 8 – 1965",
+     "Vạn Tường"
+    ],
+    [
+     "1965 – 1966",
+     "Thắng mùa khô thứ nhất"
+    ],
+    [
+     "1966 – 1967",
+     "Thắng mùa khô thứ hai"
+    ],
+    [
+     "1968",
+     "Mậu Thân; Mỹ “phi Mỹ hoá”, đàm phán ở Pa-ri"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Ngày 18 tháng 8 năm 1965, Vạn Tường. Rồi hai mùa khô 1965 – 1966 và 1966 – 1967.",
+     "Recap! 18 August 1965: Vạn Tường. Then the dry seasons of 1965–1966 and 1966–1967."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1968, Mậu Thân, Mỹ phải “phi Mỹ hoá” chiến tranh và ngồi vào bàn đàm phán ở Pa-ri.",
+     "1968: the Tết Offensive; the US had to de-Americanise the war and sit down to talks in Paris."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trên bờ biển Vạn Tường, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thắng lợi nào đã đánh dấu sự thất bại của Mỹ trong chiến lược “Chiến tranh cục bộ”? Bình luận nhé!",
+     "Your challenge: which victory marked the US defeat in the 'Local War' strategy? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "“Chiến tranh cục bộ” được tiến hành trong giai đoạn nào?",
+   "dap_an": [
+    "1961 – 1965",
+    "1965 – 1968",
+    "1969 – 1973",
+    "1973 – 1975"
+   ],
+   "dung": 1,
+   "trang": 85
+  },
+  {
+   "hoi": "Trận Vạn Tường mở đầu cao trào",
+   "dap_an": [
+    "“Thi đua Ấp Bắc, giết giặc lập công”",
+    "“Tìm Mỹ mà đánh, lùng nguỵ mà diệt”",
+    "“Ba sẵn sàng”",
+    "“Đồng khởi”"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "Cuộc hành quân lớn nhất trong mùa khô 1966 – 1967 đánh vào căn cứ nào?",
+   "dap_an": [
+    "Dương Minh Châu",
+    "Việt Bắc",
+    "U Minh",
+    "Ấp Bắc"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Sau đòn Mậu Thân năm 1968, Mỹ buộc phải",
+   "dap_an": [
+    "Tuyên bố “phi Mỹ hoá” chiến tranh, chấp nhận đàm phán ở Pa-ri",
+    "Tăng thêm quân Mỹ",
+    "Rút khỏi Đông Dương ngay",
+    "Kí Hiệp định Giơ-ne-vơ"
+   ],
+   "dung": 0,
+   "trang": 86
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9 tr. 85 (định nghĩa, thủ đoạn) và tr. 86 (bảng tóm tắt 1965 – 1968 – nhãn '1965 – 1967' đọc lại từ ảnh; Vạn Tường 18 – 8 – 1965; Dương Minh Châu; 1968: 'phi Mỹ hoá', đàm phán ở Pa-ri; Hình 17.1). Đã chỉnh kiến thức chốt: SGK nói trận Vạn Tường 'mở đầu cao trào Tìm Mỹ mà đánh, lùng nguỵ mà diệt' (không viết 'thắng lợi mở đầu'). Tên tập 'Mỹ đổ quân' là cách nói của danh mục; lời dẫn bám SGK ('quân Mỹ giữ vai trò chủ yếu'). Diễn biến Mậu Thân chỉ nhắc kết quả (chi tiết ở L9-B17-02). Không dựng bản đồ (SGK không có lược đồ cho mục này).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "ma": "L9-B17-02",
+ "ten_tap": "Mậu Thân 1968: Cú sốc cho Nhà Trắng",
+ "ten_tap_en": "Tết 1968: A Shock for the White House",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 17. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+  "trang": [
+   85,
+   86
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-giai-phong-mien-nam",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "dồn dập, hào hùng, bùng nổ",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 17, tr. 85–86.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) trên đường Lê Lợi, Thành phố Hồ Chí Minh ngày nay, hoa mai vàng ngày Tết hai bên đường; Hân Hân cầm cuốn SGK",
+   "loi": [
+    [
+     "Hân Hân",
+     "“Xuân này hơn hẳn mấy xuân qua, thắng trận tin vui khắp nước nhà”: thơ chúc Tết năm 1968 của Chủ tịch Hồ Chí Minh. Xuân ấy có gì đặc biệt?",
+     "'This spring far surpasses springs gone by; news of victory fills the land': President Hồ Chí Minh's 1968 New Year poem. What made that spring special?"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Quân Giải phóng làm chủ đường Lê Lợi ở Sài Gòn năm 1968 (như Hình 17.1 SGK, tr. 86)",
+    "tim": "Quân Giải phóng đường Lê Lợi Sài Gòn 1968 ảnh tư liệu",
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Sài Gòn, Xuân Mậu Thân 1968",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đêm 30, rạng sáng 31 tháng 1 năm 1968, quân dân miền Nam đồng loạt tiến công và nổi dậy ở hầu khắp các đô thị.",
+     "On the night of 30 and early morning of 31 January 1968, the southern army and people attacked and rose up in almost every city."
+    ],
+    [
+     "Hân Hân",
+     "Ở Sài Gòn, họ tiến công cả toà Đại sứ Mỹ, Dinh Độc lập, sân bay!",
+     "In Saigon, they even struck the US Embassy, Independence Palace and the airport!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong Xuân Mậu Thân 1968, vị trí đầu não nào của địch ở Sài Gòn bị tiến công?",
+    "lua_chon": [
+     "Toà Đại sứ Mỹ",
+     "Phủ Toàn quyền",
+     "Nhà Trắng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Vị trí đầu não nào của địch ở Sài Gòn bị tiến công?",
+     "Pause! Which enemy nerve centre in Saigon came under attack?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: toà Đại sứ Mỹ!",
+     "The answer is A: the US Embassy!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CÚ SỐC VỚI MỸ",
+   "y": [
+    "Mỹ tuyên bố “phi Mỹ hoá” chiến tranh xâm lược",
+    "Thừa nhận thất bại của “Chiến tranh cục bộ”",
+    "Chấp nhận đàm phán ở Pa-ri"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kết quả: Mỹ buộc phải tuyên bố “phi Mỹ hoá” chiến tranh, thừa nhận “Chiến tranh cục bộ” thất bại, và chấp nhận đàm phán ở Pa-ri.",
+     "The result: the US had to announce the 'de-Americanisation' of the war, admit the 'Local War' had failed, and accept talks in Paris."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem dưới hàng mai vàng; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bình luận nhé: vì sao Mậu Thân 1968 khiến Mỹ phải ngồi vào bàn đàm phán?",
+     "Comment below: why did Tết 1968 force the US to the negotiating table?"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân bắt đầu vào",
+   "dap_an": [
+    "Đêm 30, rạng sáng 31 – 1 – 1968",
+    "Ngày 18 – 8 – 1965",
+    "Ngày 30 – 4 – 1975",
+    "Ngày 1 – 11 – 1968"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Sau Mậu Thân 1968, Mỹ buộc phải tuyên bố",
+   "dap_an": [
+    "“Phi Mỹ hoá” chiến tranh xâm lược",
+    "Mở rộng chiến tranh ra miền Bắc",
+    "Thành lập SEATO",
+    "Chiến lược toàn cầu"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Mỹ chấp nhận đàm phán để bàn về chấm dứt chiến tranh ở đâu?",
+   "dap_an": [
+    "Giơ-ne-vơ",
+    "Pa-ri",
+    "Oa-sinh-tơn",
+    "Man-ta"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "“Phi Mỹ hoá” chiến tranh có nghĩa là Mỹ thừa nhận thất bại của chiến lược nào?",
+   "dap_an": [
+    "“Chiến tranh đặc biệt”",
+    "“Chiến tranh cục bộ”",
+    "“Việt Nam hoá chiến tranh”",
+    "Chiến lược toàn cầu"
+   ],
+   "dung": 1,
+   "trang": 86
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9 tr. 85 (thơ chúc Tết năm 1968, trích hai câu) và tr. 86 (bảng: năm 1968, đêm 30 rạng sáng 31 – 1; toà Đại sứ Mỹ, Dinh Độc lập, sân bay; 'phi Mỹ hoá', đàm phán ở Pa-ri; Hình 17.1). Kiến thức chốt của danh mục khớp SGK. Cụm 'Nhà Trắng' chỉ có trong tên tập của danh mục, lời dẫn không dùng. Không dùng ảnh lãnh tụ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "ma": "L9-B21-01",
+ "ten_tap": "Thế giới thay đổi thế nào?",
+ "ten_tap_en": "How Has the World Changed?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 21. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+  "trang": [
+   111,
+   112,
+   113
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hiện đại, tươi sáng, nhịp điện tử nhẹ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 21, tr. 111–113.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng STEM của trường; trên bàn có một cánh tay rô bốt nhỏ đang gắp quả dâu tây đồ chơi, bên cạnh là máy in 3D và chiếc máy tính xách tay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Rô bốt biết thu hoạch dâu tây, máy tính trong lòng bàn tay, trí tuệ nhân tạo… Thế giới đã thay đổi chóng mặt!",
+     "Robots that pick strawberries, computers in the palm of your hand, artificial intelligence… The world has changed dizzyingly fast!"
+    ],
+    [
+     "Hân Hân",
+     "Cuộc cách mạng khoa học – kĩ thuật đã đạt những thành tựu gì? Cùng khám phá nhé!",
+     "What has the scientific and technological revolution achieved? Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    111
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẶC ĐIỂM",
+   "y": [
+    "Sau Chiến tranh thế giới thứ hai: phát triển nhanh, nhiều thành tựu kì diệu",
+    "Dựa trên sự ra đời, phát triển của điện tử và công nghệ thông tin",
+    "Rút ngắn thời gian từ phát minh đến ứng dụng vào sản xuất",
+    "Gắn kết chặt chẽ khoa học, kĩ thuật và công nghệ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, cách mạng khoa học – kĩ thuật phát triển nhanh và đạt nhiều thành tựu kì diệu.",
+     "After the Second World War, the scientific and technological revolution advanced fast, with many wondrous achievements."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày nay, cuộc cách mạng này dựa trên điện tử và công nghệ thông tin, rút ngắn thời gian từ phát minh đến ứng dụng, gắn kết chặt chẽ khoa học, kĩ thuật và công nghệ.",
+     "Today it rests on electronics and information technology, shortening the path from invention to application and tightly linking science, engineering and technology."
+    ]
+   ],
+   "nguon_trang": [
+    111,
+    112
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CÁCH MẠNG 4.0",
+   "y": [
+    "Thuật ngữ dùng đầu tiên ở Đức, đầu thập kỉ thứ hai của thế kỉ XXI",
+    "Vạn vật kết nối (IoT)",
+    "Dữ liệu lớn (Big Data) · Trí tuệ nhân tạo (AI)",
+    "Điện toán đám mây (Cloud)"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng 4.0 là thuật ngữ được dùng đầu tiên ở Đức vào đầu thập kỉ thứ hai của thế kỉ XXI, sau đó lan ra nhiều nước.",
+     "'Industry 4.0' was first used in Germany in the early 2010s, then spread to many countries."
+    ],
+    [
+     "Nhật Minh",
+     "Nó gắn với vạn vật kết nối, dữ liệu lớn, trí tuệ nhân tạo và điện toán đám mây.",
+     "It is tied to the Internet of Things, Big Data, artificial intelligence and cloud computing."
+    ]
+   ],
+   "nguon_trang": [
+    112
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thuật ngữ “Cách mạng 4.0” được sử dụng đầu tiên ở nước nào?",
+    "lua_chon": [
+     "Đức",
+     "Mỹ",
+     "Nhật Bản"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Thuật ngữ “Cách mạng 4.0” được dùng đầu tiên ở đâu?",
+     "Pause! Where was the term 'Industry 4.0' first used?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: nước Đức!",
+     "The answer is A: Germany!"
+    ]
+   ],
+   "nguon_trang": [
+    112
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "SINH HỌC · VẬT LIỆU · NĂNG LƯỢNG",
+   "y": [
+    "Công nghệ sinh học: di truyền, tế bào, vi sinh → “Cách mạng xanh” trong nông nghiệp",
+    "Vật liệu mới: pô-li-me siêu dẻo, com-pô-dít siêu bền, na-nô siêu nhỏ",
+    "Năng lượng mới: nguyên tử, gió, mặt trời, sinh học, nhiệt hạch"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Công nghệ sinh học tiến những bước dài về công nghệ di truyền, tế bào, vi sinh, thúc đẩy “Cách mạng xanh” trong nông nghiệp.",
+     "Biotechnology made great strides in genetics, cell and microbial technology, driving the 'Green Revolution' in farming."
+    ],
+    [
+     "Nhật Minh",
+     "Con người tạo ra vật liệu mới như pô-li-me siêu dẻo, com-pô-dít siêu bền, na-nô siêu nhỏ; khai thác năng lượng nguyên tử, gió, mặt trời, sinh học, nhiệt hạch.",
+     "We created new materials like super-flexible polymers, super-strong composites and tiny nanomaterials, and harnessed nuclear, wind, solar, bio and fusion energy."
+    ]
+   ],
+   "nguon_trang": [
+    112
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: một số thế hệ máy tính (như Hình 21.3 SGK, tr. 113)",
+    "tim": "old desktop computer and modern laptop photograph",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Một số thế hệ máy tính",
+   "loi": [
+    [
+     "Hân Hân",
+     "Máy tính điện tử qua nhiều thế hệ có khả năng lưu trữ, xử lí thông tin vượt trội; mạng internet được ứng dụng rộng rãi.",
+     "Generations of computers gained huge power to store and process information, and the internet spread everywhere."
+    ],
+    [
+     "Nhật Minh",
+     "Giao thông có máy bay siêu âm khổng lồ, tàu hoả tốc độ cao; thông tin liên lạc có vệ tinh nhân tạo, điện thoại di động và đặc biệt là điện thoại thông minh.",
+     "Transport gained giant supersonic planes and high-speed trains; communications gained satellites, mobile phones and above all smartphones."
+    ]
+   ],
+   "nguon_trang": [
+    112,
+    113
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thành tựu nào thúc đẩy “Cách mạng xanh” trong nông nghiệp?",
+    "lua_chon": [
+     "Công nghệ sinh học",
+     "Công nghệ vật liệu",
+     "Giao thông vận tải"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Thành tựu nào thúc đẩy “Cách mạng xanh” trong nông nghiệp?",
+     "Quick test! Which field drove the 'Green Revolution' in farming?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: công nghệ sinh học!",
+     "The answer is A: biotechnology!"
+    ]
+   ],
+   "nguon_trang": [
+    112
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "KĨ THUẬT SỐ VÀ AI",
+   "y": [
+    "Công nghệ kĩ thuật số → rô bốt thông minh, kinh tế số, thành phố thông minh, chính phủ điện tử",
+    "In 3D: tạo mẫu nhanh, chính xác, tiết kiệm, hạn chế rác thải",
+    "Trí tuệ nhân tạo: không chỉ mô phỏng tư duy mà còn điều hành, tối ưu hoá → xã hội thông minh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Công nghệ kĩ thuật số đặt nền móng cho rô bốt thông minh, kinh tế số, thành phố thông minh và chính phủ điện tử; in 3D ngày càng được ứng dụng vào sản xuất.",
+     "Digital technology laid the groundwork for smart robots, the digital economy, smart cities and e-government; 3D printing is used more and more in production."
+    ],
+    [
+     "Hân Hân",
+     "Còn trí tuệ nhân tạo đạt bước tiến đột phá: không chỉ mô phỏng tư duy con người mà còn đóng vai trò hạt nhân, điều hành và tối ưu hoá để tạo ra xã hội thông minh.",
+     "And AI made a breakthrough: not only imitating human thought but acting as the core that runs and optimises everything to build a smart society."
+    ]
+   ],
+   "nguon_trang": [
+    112
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh minh hoạ: thành phố thông minh (như Hình 21.5 SGK, tr. 113)",
+    "tim": "smart city night skyline connectivity illustration",
+    "yeu_cau": "ảnh minh hoạ có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Minh hoạ thành phố thông minh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Em có biết? Thành phố thông minh ứng dụng công nghệ thông tin và truyền thông vào mọi hoạt động,",
+     "Did you know? A smart city applies information and communication technology to everything,"
+    ],
+    [
+     "Nhật Minh",
+     "với các trụ cột: kinh tế thông minh, chính quyền thông minh, giao thông thông minh, môi trường thông minh, cuộc sống thông minh và cư dân thông minh.",
+     "built on pillars: smart economy, smart government, smart transport, smart environment, smart living and smart citizens."
+    ]
+   ],
+   "nguon_trang": [
+    113
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên cánh tay rô bốt, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cậu ấn tượng nhất với thành tựu nào của cách mạng khoa học – kĩ thuật? Vì sao? Bình luận nhé!",
+     "Your challenge: which achievement of the scientific and technological revolution impresses you most, and why? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    113
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc cách mạng khoa học – kĩ thuật ngày nay dựa trên sự ra đời, phát triển của",
+   "dap_an": [
+    "Máy hơi nước",
+    "Điện tử và công nghệ thông tin",
+    "Động cơ đốt trong",
+    "Năng lượng than đá"
+   ],
+   "dung": 1,
+   "trang": 112
+  },
+  {
+   "hoi": "Thành tựu nổi bật gắn với Cách mạng 4.0 KHÔNG gồm",
+   "dap_an": [
+    "Vạn vật kết nối (IoT)",
+    "Dữ liệu lớn (Big Data)",
+    "Trí tuệ nhân tạo (AI)",
+    "Máy kéo sợi Gien-ni"
+   ],
+   "dung": 3,
+   "trang": 112
+  },
+  {
+   "hoi": "Vật liệu mới nào được nêu trong SGK?",
+   "dap_an": [
+    "Pô-li-me siêu dẻo, com-pô-dít siêu bền, na-nô siêu nhỏ",
+    "Đồng thau",
+    "Gỗ ép",
+    "Đất nung"
+   ],
+   "dung": 0,
+   "trang": 112
+  },
+  {
+   "hoi": "Công nghệ in 3D được lựa chọn ứng dụng vào sản xuất vì",
+   "dap_an": [
+    "Tạo mẫu nhanh, chính xác, đa dạng, tiết kiệm chi phí, hạn chế rác thải",
+    "Chỉ dùng được trong y học",
+    "Tốn nhiều nguyên liệu",
+    "Không cần máy tính"
+   ],
+   "dung": 0,
+   "trang": 112
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 111 (Hình 21.1; mục 1a mở đầu), tr. 112 (đặc điểm; hộp 'Em có biết' về Cách mạng 4.0; bảng thành tựu: sinh học, vật liệu, năng lượng, thông tin, giao thông, liên lạc, kĩ thuật số, AI), tr. 113 (Hình 21.3, 21.5; hộp 'thành phố thông minh'; câu hỏi). Kiến thức chốt của danh mục khớp SGK. Phương án nhiễu 'Máy kéo sợi Gien-ni' thuộc kiến thức lớp 8 (SGK LSĐL 8, tr. 15). Ảnh minh hoạ hiện đại có giấy phép, không có người thật được vẽ AI.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

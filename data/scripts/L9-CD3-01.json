@@ -1,0 +1,386 @@
+{
+ "ma": "L9-CD3-01",
+ "ten_tap": "Bằng chứng từ ngàn xưa",
+ "ten_tap_en": "Evidence from Ages Past",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+  "trang": [
+   230,
+   231,
+   232
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-anh-tong",
+  "ngo-sy-lien",
+  "nguyen-trai",
+  "le-quy-don",
+  "cu-dan-oc-eo"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, cổ kính, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh tái hiện thương thuyền đến Vân Đồn năm 1149 là minh hoạ, không có lời thoại dựng cho nhân vật lịch sử; bản đồ là bản đồ định vị vẽ bằng code, không phải bản đồ cổ. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 3, tr. 230–232.",
+ "chinh_sach_hinh": "Cảnh tái hiện thời Lý là minh hoạ (không vẽ chân dung vua, không lời thoại dựng); hiện vật, bản đồ cổ dùng ảnh thật có giấy phép; bản đồ định vị dựng bằng code, luôn có quần đảo Hoàng Sa, Trường Sa.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Cửu đỉnh bằng đồng trong Đại Nội Huế ngày nay; Hân Hân chỉ vào hình chạm nổi sóng biển trên thân đỉnh; trời trong, mái ngói vàng phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Cửu đỉnh, Bảo vật quốc gia được đúc dưới thời Nguyễn. Trên đỉnh có chạm nổi nhiều địa danh, trong đó có Biển Đông, quần đảo Trường Sa và quần đảo Hoàng Sa.",
+     "These are the Nine Dynastic Urns, a national treasure cast under the Nguyễn. They bear reliefs of many places, including the East Sea and the Trường Sa and Hoàng Sa archipelagos."
+    ],
+    [
+     "Nhật Minh",
+     "Ông cha ta đã để lại những bằng chứng nào về chủ quyền biển đảo? Cùng tìm hiểu nhé!",
+     "What evidence of maritime sovereignty did our ancestors leave us? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    230
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "CHỨNG CỨ LỊCH SỬ",
+   "y": [
+    "Tư liệu hiện vật, chữ viết, truyền miệng… của Việt Nam và thế giới",
+    "Chứng cứ về hoạt động xác lập, thực thi chủ quyền biển đảo",
+    "Liên tục qua các thời kì lịch sử"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều tư liệu hiện vật, chữ viết, truyền miệng của Việt Nam và thế giới là chứng cứ về việc xác lập, thực thi chủ quyền biển đảo liên tục của dân tộc.",
+     "Many artefacts, written records and oral traditions, Vietnamese and foreign, provide historical evidence of the nation's continuous establishment and exercise of sovereignty in the East Sea."
+    ]
+   ],
+   "nguon_trang": [
+    230
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Trước năm 1884",
+   "thoi_luong": 2.2
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "DI CHỈ KHẢO CỔ",
+   "y": [
+    "Văn hoá biển Hạ Long, Bàu Tró, Hoa Lộc… → người Việt cổ cư trú sát biển",
+    "Tàu đắm, đồ gốm ở Hội An, Cù Lao Chàm → Chăm-pa giao lưu với Ấn Độ, Tây Á",
+    "Cư dân Óc Eo: liên hệ bằng đường biển đến tận Địa Trung Hải"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Di chỉ khảo cổ thuộc các nền văn hoá biển Hạ Long, Bàu Tró, Hoa Lộc cho thấy người Việt cổ đã cư trú sát biển, cuộc sống gắn liền với Biển Đông.",
+     "Archaeological sites of the Hạ Long, Bàu Tró and Hoa Lộc sea cultures show that the ancient Việt lived right by the sea, their lives bound to the East Sea."
+    ],
+    [
+     "Nhật Minh",
+     "Dấu vết tàu đắm, đồ gốm ở Hội An, Cù Lao Chàm cho thấy Vương quốc Chăm-pa giao lưu rộng rãi với Ấn Độ, Tây Á; còn cư dân Óc Eo liên hệ bằng đường biển đến tận Địa Trung Hải.",
+     "Shipwrecks and pottery at Hội An and Cù Lao Chàm show the Champa kingdom traded widely with India and West Asia, while the Óc Eo people had sea links as far as the Mediterranean."
+    ]
+   ],
+   "nguon_trang": [
+    230
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Di chỉ thuộc các nền văn hoá biển cho thấy người Việt cổ cư trú sát biển là",
+    "lua_chon": [
+     "Hạ Long, Bàu Tró, Hoa Lộc",
+     "Đông Sơn, Sa Huỳnh, Óc Eo",
+     "Cổ Loa, Hoa Lư, Thăng Long"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! SGK nêu những nền văn hoá biển nào?",
+     "Pause! Which sea cultures does the textbook name?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Hạ Long, Bàu Tró, Hoa Lộc!",
+     "The answer is A: Hạ Long, Bàu Tró and Hoa Lộc!"
+    ]
+   ],
+   "nguon_trang": [
+    230
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-anh-tong"
+   ],
+   "hinh": "Cảnh tái hiện năm 1149 (thời Lý): những thuyền buôn nước ngoài buồm nâu cập bến một hải đảo vùng Hải Đông; quan lại nhà Lý trong áo mũ triều Lý đón tiếp, hàng hoá được bày lên bến; nước biển xanh, núi đá vôi nhô lên (minh hoạ, không vẽ chân dung vua)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1149, thuyền buôn ba nước Trảo Oa, Lộ Lạc, Xiêm La vào Hải Đông xin cư trú buôn bán.",
+     "In 1149, merchant ships from three lands, Java, Lộ Lạc and Siam, came to Hải Đông asking to settle and trade."
+    ],
+    [
+     "Nhật Minh",
+     "Vua Lý Anh Tông bèn cho lập trang ở nơi hải đảo, gọi là Vân Đồn, để mua bán hàng hoá. Sự kiện này được ghi trong Đại Việt sử ký toàn thư của Ngô Sỹ Liên.",
+     "King Lý Anh Tông had a trading post set up on the islands, called Vân Đồn. This was recorded in Ngô Sỹ Liên's Complete Annals of Đại Việt."
+    ]
+   ],
+   "nguon_trang": [
+    231
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "TƯ LIỆU CỦA VIỆT NAM",
+   "y": [
+    "Đại Việt sử ký toàn thư – Ngô Sỹ Liên",
+    "Dư địa chí – Nguyễn Trãi",
+    "Phủ biên tạp lục – Lê Quý Đôn",
+    "Lịch triều hiến chương loại chí – Phan Huy Chú; Đại Nam nhất thống chí – Quốc sử quán triều Nguyễn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều công trình sử học, địa lí cổ đã ghi chép về Biển Đông, đặc biệt là Hoàng Sa, Trường Sa, như Đại Việt sử ký toàn thư, Dư địa chí, Phủ biên tạp lục, Lịch triều hiến chương loại chí, Đại Nam nhất thống chí.",
+     "Many old history and geography works recorded the East Sea, especially Hoàng Sa and Trường Sa, such as the Complete Annals of Đại Việt, Dư địa chí, Phủ biên tạp lục, Lịch triều hiến chương loại chí and Đại Nam nhất thống chí."
+    ]
+   ],
+   "nguon_trang": [
+    231
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "toan_do",
+   "thoi_luong_toi_thieu": 14,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các bản đồ cổ thời quân chủ vẽ Biển Đông với tên Hải Đông, và hai quần đảo với tên Bãi Cát Vàng, Vạn lý Hoàng Sa, Đại Trường Sa, Vạn lý Trường Sa thuộc lãnh thổ Việt Nam.",
+     "Old maps from the monarchy drew the East Sea as Hải Đông, and the two archipelagos as Bãi Cát Vàng, Vạn lý Hoàng Sa, Đại Trường Sa and Vạn lý Trường Sa, as Vietnamese territory."
+    ],
+    [
+     "Hân Hân",
+     "Toản tập Thiên Nam tứ chí lộ đồ thư, thế kỉ XVII, đã vẽ Bãi Cát Vàng. Và Đại Nam nhất thống toàn đồ năm 1838 ghi rõ hình thể, vị trí của Hoàng Sa và Vạn lý Trường Sa.",
+     "The 17th-century Toản tập Thiên Nam tứ chí lộ đồ thư drew Bãi Cát Vàng. And the 1838 Đại Nam nhất thống toàn đồ clearly shows the shape and position of Hoàng Sa and Vạn lý Trường Sa."
+    ]
+   ],
+   "nguon_trang": [
+    231
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bản đồ nào (1838) ghi rõ hình thể và vị trí của Hoàng Sa và Vạn lý Trường Sa?",
+    "lua_chon": [
+     "Đại Nam nhất thống toàn đồ",
+     "Giáp Ngọ niên bình Nam đồ",
+     "An Nam đại quốc hoạ đồ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Bản đồ năm 1838 nào ghi rõ Hoàng Sa và Vạn lý Trường Sa?",
+     "Quick test! Which 1838 map clearly shows Hoàng Sa and Vạn lý Trường Sa?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Đại Nam nhất thống toàn đồ!",
+     "The answer is A: the Đại Nam nhất thống toàn đồ!"
+    ]
+   ],
+   "nguon_trang": [
+    231
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÂU BẢN VÀ TƯ LIỆU NƯỚC NGOÀI",
+   "y": [
+    "Châu bản triều Nguyễn: đo đạc, vẽ bản đồ, cắm mốc chủ quyền, điều thuỷ quân, cứu hộ tàu thuyền",
+    "Từ khoảng thế kỉ XVI: bản đồ của người Bồ Đào Nha, Hà Lan, Pháp, Anh…",
+    "Nhà hàng hải, giáo sĩ phương Tây ghi chép về hoạt động thực thi chủ quyền của Việt Nam"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Châu bản triều Nguyễn là bằng chứng quan trọng: triều đình đã đo đạc, vẽ bản đồ, cắm mốc chủ quyền, điều thuỷ quân, cứu hộ tàu thuyền gặp nạn.",
+     "The Nguyễn court's imperial records are key evidence: the court surveyed, mapped, planted sovereignty markers, sent its navy and rescued ships in distress."
+    ],
+    [
+     "Nhật Minh",
+     "Từ khoảng thế kỉ XVI, người Bồ Đào Nha, Hà Lan, Pháp, Anh cũng vẽ nhiều bản đồ thể hiện rõ Biển Đông và hải đảo của Việt Nam.",
+     "From around the 16th century, Portuguese, Dutch, French and British maps also clearly showed the East Sea and Vietnam's islands."
+    ]
+   ],
+   "nguon_trang": [
+    232
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CHỨNG CỨ TRƯỚC NĂM 1884",
+   "moc": [
+    [
+     "1149",
+     "Lập trang Vân Đồn"
+    ],
+    [
+     "Thế kỉ XVII",
+     "Bãi Cát Vàng trên Thiên Nam tứ chí lộ đồ thư"
+    ],
+    [
+     "Thế kỉ XVIII",
+     "Giáp Ngọ niên bình Nam đồ"
+    ],
+    [
+     "1838",
+     "Đại Nam nhất thống toàn đồ"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1149, lập trang Vân Đồn. Thế kỉ XVII, Bãi Cát Vàng trên bản đồ Thiên Nam tứ chí lộ đồ thư.",
+     "Recap! 1149: the Vân Đồn trading post. 17th century: Bãi Cát Vàng on the Thiên Nam map."
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ XVIII, Giáp Ngọ niên bình Nam đồ; năm 1838, Đại Nam nhất thống toàn đồ.",
+     "18th century: the Giáp Ngọ map; 1838: the Đại Nam nhất thống toàn đồ."
+    ]
+   ],
+   "nguon_trang": [
+    231
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên Cửu đỉnh, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hình Biển Đông, Hoàng Sa, Trường Sa trên Cửu đỉnh chứng tỏ điều gì về ý thức chủ quyền của cha ông ta? Bình luận nhé!",
+     "Your challenge: what do the East Sea, Hoàng Sa and Trường Sa on the Nine Urns show about our ancestors' sense of sovereignty? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    230
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1149, vua Lý Anh Tông cho lập trang buôn bán ở hải đảo, gọi là",
+   "dap_an": [
+    "Vân Đồn",
+    "Hội An",
+    "Phố Hiến",
+    "Cù Lao Chàm"
+   ],
+   "dung": 0,
+   "trang": 231
+  },
+  {
+   "hoi": "Tác phẩm Phủ biên tạp lục là của ai?",
+   "dap_an": [
+    "Lê Quý Đôn",
+    "Nguyễn Trãi",
+    "Ngô Sỹ Liên",
+    "Phan Huy Chú"
+   ],
+   "dung": 0,
+   "trang": 231
+  },
+  {
+   "hoi": "Trên bản đồ cổ của Việt Nam, quần đảo Hoàng Sa từng được gọi là",
+   "dap_an": [
+    "Bãi Cát Vàng",
+    "Hải Đông",
+    "Vân Đồn",
+    "Côn Lôn"
+   ],
+   "dung": 0,
+   "trang": 231
+  },
+  {
+   "hoi": "Văn bản hành chính của triều đình nhà Nguyễn ghi các hoạt động thực thi chủ quyền biển đảo gọi là",
+   "dap_an": [
+    "Châu bản triều Nguyễn",
+    "Hồng Đức bản đồ",
+    "Dư địa chí",
+    "Sách Trắng"
+   ],
+   "dung": 0,
+   "trang": 232
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 3, tr. 230 (Cửu đỉnh – Hình 1; chứng cứ lịch sử; di chỉ Hạ Long, Bàu Tró, Hoa Lộc; Hội An, Cù Lao Chàm, Chăm-pa, Óc Eo), tr. 231 (tư liệu của Việt Nam; Tư liệu 1 năm 1149 Vân Đồn – diễn đạt lại; bản đồ cổ: Hải Đông, Bãi Cát Vàng, Vạn lý Hoàng Sa, Đại Trường Sa, Vạn lý Trường Sa; Thiên Nam tứ chí lộ đồ thư thế kỉ XVII, Giáp Ngọ niên bình Nam đồ thế kỉ XVIII, Đại Nam nhất thống toàn đồ 1838 – Hình 2), tr. 232 (Châu bản triều Nguyễn; tư liệu nước ngoài từ thế kỉ XVI). Kiến thức chốt của danh mục khớp SGK. Sa bàn dùng lại 'hoang-sa-truong-sa' (pha toan_do, có Hoàng Sa, Trường Sa, ghi 'Khoảng 1838: Đại Nam nhất thống toàn đồ'; nguồn ghi theo SGK lớp 8) – đã xem khung hình mẫu, không chồng chữ. Cảnh tái hiện Vân Đồn 1149 không có lời thoại dựng, không vẽ chân dung vua. Câu thơ của Nguyễn Bỉnh Khiêm, Trương Hán Siêu trong SGK không đưa vào lời dẫn để giữ thời lượng. Cần GV duyệt kĩ lời dẫn (lưu ý chủ quyền).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

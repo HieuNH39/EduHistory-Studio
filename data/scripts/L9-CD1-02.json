@@ -1,0 +1,364 @@
+{
+ "ma": "L9-CD1-02",
+ "ten_tap": "Thời đại khói bụi: Đô thị hóa công nghiệp",
+ "ten_tap_en": "The Age of Smoke: Industrial Urbanisation",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 1. Đô thị: Lịch sử và hiện tại (2)",
+  "trang": [
+   221,
+   222
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-cong-nghiep-anh",
+  "nguoi-dan-di-cu-ra-thanh-thi"
+ ],
+ "nhac": {
+  "tam_trang": "mạnh mẽ, nhịp máy móc, chùng xuống ở phần mặt trái",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh du hành về thành phố công nghiệp thế kỉ XIX là minh hoạ chung, không tái hiện nhân vật có thật; ảnh đô thị từ năm 1900 là ảnh tư liệu. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 1, tr. 221–222.",
+ "chinh_sach_hinh": "Từ thế kỉ XX: không dùng AI vẽ người thật hay cảnh lịch sử, chỉ dùng ảnh tư liệu (ghi nguồn, kiểm tra giấy phép); cảnh du hành thế kỉ XIX chỉ là bối cảnh chung, Minh – Hân chỉ quan sát; số liệu dựng bằng thẻ chữ bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên sân thượng toà nhà của trường, nhìn ra một thành phố hiện đại với nhiều toà cao tầng; trời chiều, xe cộ đông đúc phía dưới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1950, thế giới chỉ có hai đô thị trên 10 triệu dân là Niu Oóc và Tô-ky-ô. Đến năm 2024, đã có 33 siêu đô thị!",
+     "In 1950, the world had only two cities of over 10 million people: New York and Tokyo. By 2024, there were 33 megacities!"
+    ],
+    [
+     "Nhật Minh",
+     "Các đô thị hiện đại bắt đầu lớn lên từ khi nào? Cùng ngược về thời kì xã hội công nghiệp nhé!",
+     "When did modern cities start to grow? Let's travel back to the industrial age!"
+    ]
+   ],
+   "nguon_trang": [
+    221
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVIII",
+   "thoi_luong": 2.2
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-cong-nghiep-anh",
+    "nguoi-dan-di-cu-ra-thanh-thi"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng quan sát trên một cây cầu đá ở một thành phố công nghiệp nước Anh thế kỉ XIX: ống khói nhà máy nhả khói đen, dãy nhà gạch đỏ, dòng sông đục, công nhân áo vải thô đi làm; không có nhân vật lịch sử cụ thể",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời kì xã hội công nghiệp bắt đầu từ nửa cuối thế kỉ XVIII, gắn với cuộc cách mạng công nghiệp lần thứ nhất. Máy móc thay thế lao động thủ công, năng suất tăng vọt.",
+     "The industrial age began in the second half of the 18th century, with the First Industrial Revolution. Machines replaced handwork and productivity soared."
+    ],
+    [
+     "Nhật Minh",
+     "Từ cuối thế kỉ XIX, sản xuất cơ khí hoá chuyển sang điện khí hoá. Cơ cấu lao động thay đổi, dân ở các trung tâm công nghiệp tăng nhanh.",
+     "From the late 19th century, mechanised production gave way to electrification. Jobs changed, and industrial centres grew fast."
+    ]
+   ],
+   "nguon_trang": [
+    221,
+    222
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "DÂN THÀNH THỊ THẾ GIỚI (1900 – 1970)",
+   "moc": [
+    [
+     "1900",
+     "217,6 triệu người · 13,6%"
+    ],
+    [
+     "1950",
+     "750,9 triệu người · 29,2%"
+    ],
+    [
+     "1970",
+     "1 354,2 triệu người · 36,6%"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bảng số liệu của Liên hợp quốc trong SGK: năm 1900, thế giới có 217,6 triệu dân thành thị, chiếm 13,6%.",
+     "UN data in the textbook: in 1900, the world had 217.6 million city dwellers, 13.6% of people."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1950: 750,9 triệu, chiếm 29,2%. Năm 1970: 1 354,2 triệu, chiếm 36,6%.",
+     "1950: 750.9 million, 29.2%. 1970: 1,354.2 million, 36.6%."
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1970, tỉ lệ dân thành thị thế giới là bao nhiêu?",
+    "lua_chon": [
+     "13,6%",
+     "29,2%",
+     "36,6%"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1970, tỉ lệ dân thành thị thế giới là bao nhiêu?",
+     "Pause! What share of the world lived in cities in 1970?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: 36,6%!",
+     "The answer is C: 36.6%!"
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI NHÓM NƯỚC",
+   "y": [
+    "Nước phát triển: đô thị hoá sớm, gắn liền với công nghiệp hoá",
+    "Nước đang phát triển: đô thị hoá gắn với công nghiệp hoá ở giai đoạn đầu",
+    "Tỉ lệ dân thành thị ở các nước đang phát triển khác nhau",
+    "Đô thị lớn tập trung ở Trung Quốc, Ấn Độ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở các nước phát triển, đô thị hoá diễn ra sớm và gắn liền với công nghiệp hoá.",
+     "In developed countries, urbanisation came early, hand in hand with industrialisation."
+    ],
+    [
+     "Hân Hân",
+     "Ở các nước đang phát triển, đô thị hoá gắn với công nghiệp hoá ở giai đoạn đầu, nên tỉ lệ dân thành thị khác nhau; các đô thị lớn tập trung ở Trung Quốc, Ấn Độ.",
+     "In developing countries, it is tied to early-stage industrialisation, so urban shares vary; big cities cluster in China and India."
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐÔ THỊ LỚN DẦN",
+   "y": [
+    "1900: 1 thành phố trên 5 triệu người – Luân Đôn",
+    "1970: 18 thành phố trên 5 triệu người; lớn nhất là Tô-ky-ô (23,3 triệu)",
+    "Giao thông công cộng phát triển → người lao động sống xa trung tâm",
+    "Đô thị lớn thường ven biển, gần sông: Niu Oóc, Luân Đôn, Xít-ni…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Quy mô đô thị tăng lên: năm 1900, thế giới chỉ có một thành phố trên 5 triệu người là Luân Đôn; đến năm 1970 đã có 18 thành phố, lớn nhất là Tô-ky-ô với 23,3 triệu người.",
+     "Cities grew larger: in 1900 only London had over 5 million people; by 1970 there were 18 such cities, the largest being Tokyo with 23.3 million."
+    ],
+    [
+     "Nhật Minh",
+     "Em có biết? Nhà máy cần nhiều nước để sản xuất và vận chuyển, nên đa số đô thị lớn nằm ven biển hoặc gần sông, như Niu Oóc, Luân Đôn, Xít-ni.",
+     "Did you know? Factories needed lots of water for production and transport, so most big cities lie by the sea or rivers, like New York, London and Sydney."
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: một góc thành phố Luân Đôn (Anh) năm 1908 và một góc thành phố Niu Oóc (Hoa Kỳ) năm 1900 (như Hình 1, Hình 2 SGK, tr. 222)",
+    "tim": "London street 1908 photograph; New York City 1900 street photograph",
+    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Luân Đôn (1908) và Niu Oóc (1900)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đô thị gắn với sản xuất công nghiệp và dịch vụ. Thành phố công nghiệp điển hình là Man-che-xtơ ở Anh, Si-ca-gô ở Hoa Kỳ;",
+     "Cities were tied to industry and services. Typical industrial cities were Manchester in Britain and Chicago in the US;"
+    ],
+    [
+     "Hân Hân",
+     "còn Niu Oóc, Pa-ri là những thành phố có hoạt động dịch vụ phát triển.",
+     "while New York and Paris had thriving service sectors."
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1900, thành phố duy nhất trên thế giới có trên 5 triệu người là",
+    "lua_chon": [
+     "Luân Đôn",
+     "Niu Oóc",
+     "Tô-ky-ô"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Năm 1900, thành phố duy nhất có trên 5 triệu người là thành phố nào?",
+     "Quick test! In 1900, which was the only city with over 5 million people?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Luân Đôn!",
+     "The answer is A: London!"
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "MẶT TRÁI: “KHÓI BỤI”",
+   "y": [
+    "Mở rộng đô thị làm giảm diện tích đất nông nghiệp",
+    "Đô thị hoá tự phát ở một số thành phố",
+    "→ Ô nhiễm môi trường, tệ nạn xã hội…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng đô thị phát triển thiếu kiểm soát: mở rộng đô thị làm giảm diện tích đất nông nghiệp;",
+     "But urban growth was uncontrolled: spreading cities ate into farmland;"
+    ],
+    [
+     "Nhật Minh",
+     "đô thị hoá tự phát ở một số thành phố đã gây ô nhiễm môi trường, tệ nạn xã hội.",
+     "and unplanned urbanisation in some cities brought pollution and social problems."
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trở lại sân thượng hiện đại, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: dựa vào bảng số liệu, hãy mô tả quá trình đô thị hoá thời kì xã hội công nghiệp trong ba câu. Bình luận nhé!",
+     "Your challenge: using the data table, describe industrial-age urbanisation in three sentences. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    222
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời kì xã hội công nghiệp bắt đầu từ",
+   "dap_an": [
+    "Nửa cuối thế kỉ XVIII",
+    "Đầu thế kỉ XVI",
+    "Cuối thế kỉ XX",
+    "Năm 1950"
+   ],
+   "dung": 0,
+   "trang": 221
+  },
+  {
+   "hoi": "Năm 1900, số dân thành thị thế giới là bao nhiêu?",
+   "dap_an": [
+    "217,6 triệu người",
+    "750,9 triệu người",
+    "1 354,2 triệu người",
+    "33 triệu người"
+   ],
+   "dung": 0,
+   "trang": 222
+  },
+  {
+   "hoi": "Thành phố công nghiệp điển hình thời kì xã hội công nghiệp là",
+   "dap_an": [
+    "Man-che-xtơ (Anh), Si-ca-gô (Hoa Kỳ)",
+    "Pa-ri (Pháp)",
+    "Cai-rô (Ai Cập)",
+    "Xít-ni (Ô-xtrây-li-a)"
+   ],
+   "dung": 0,
+   "trang": 222
+  },
+  {
+   "hoi": "Hệ quả tiêu cực của đô thị hoá tự phát là",
+   "dap_an": [
+    "Ô nhiễm môi trường, tệ nạn xã hội",
+    "Tăng diện tích đất nông nghiệp",
+    "Giảm dân số thành thị",
+    "Không còn nhà máy"
+   ],
+   "dung": 0,
+   "trang": 222
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 1, tr. 221 (mở đầu: 1950, 2024, 33 siêu đô thị; mục 2a mở đầu) và tr. 222 (Bảng 1: 217,6/750,9/1 354,2 triệu; 13,6/29,2/36,6%; hai nhóm nước; 1900: Luân Đôn; 1970: 18 thành phố, Tô-ky-ô 23,3 triệu; hộp 'Em có biết' về đô thị ven biển, sông; Man-che-xtơ, Si-ca-gô, Niu Oóc, Pa-ri; mặt trái; Hình 1, 2 – chú thích đọc từ ảnh trang). Đã chỉnh kiến thức chốt của danh mục: SGK không nói 'đô thị tập trung gần nguồn nguyên liệu' mà nói đô thị lớn nằm ven biển hoặc gần sông vì cần lượng lớn nước để sản xuất và vận chuyển. Cảnh du hành thế kỉ XIX chỉ là bối cảnh minh hoạ chung (không vẽ nhân vật lịch sử cụ thể); ảnh từ năm 1900 trở đi dùng ảnh tư liệu. Không dựng bản đồ thế giới chấm đỏ (mô phỏng danh mục đề xuất) vì SGK không có số liệu vị trí – thay bằng thẻ số liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,355 @@
+{
+ "ma": "L9-B2-03",
+ "ten_tap": "Chủ nghĩa phát xít trỗi dậy",
+ "ten_tap_en": "The Rise of Fascism",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+  "trang": [
+   10,
+   11,
+   12
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hit-le",
+  "hin-den-bua"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, u ám, căng dần ở phần Đức và I-ta-li-a; không dùng nhạc hào hùng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 2, tr. 10–12.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, cùng xem một cuốn sách lịch sử thế giới mở ở trang có tiêu đề 'Đại suy thoái 1929 – 1933'; bên cạnh là quả địa cầu; ánh đèn bàn vàng ấm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng gặp một cơn bão kinh tế, nhưng các nước tư bản lại chọn hai con đường rất khác nhau.",
+     "Hit by the same economic storm, the capitalist countries chose two very different paths."
+    ],
+    [
+     "Hân Hân",
+     "Một con đường dẫn tới cải cách, con đường kia dẫn tới chủ nghĩa phát xít và chiến tranh. Cùng xem nhé!",
+     "One led to reform; the other led to fascism and war. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1929",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "SAU CƠN BÃO 1929 – 1933",
+   "y": [
+    "Tàn phá nặng nề nền kinh tế các nước tư bản",
+    "Số công nhân thất nghiệp lên tới 50 triệu",
+    "1928 – cuối 1933: 17 triệu người tham gia bãi công",
+    "Phong trào cách mạng: từ thoái trào dần lên cao trào"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đại suy thoái 1929 – 1933 tàn phá nặng nề nền kinh tế và gây hậu quả nghiêm trọng về xã hội ở các nước tư bản. Số công nhân thất nghiệp lên tới 50 triệu.",
+     "The 1929–1933 Depression devastated the economies of capitalist countries and caused grave social harm. Unemployment reached 50 million."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1928 đến cuối năm 1933, số người bãi công lên tới 17 triệu. Phong trào cách mạng từ thoái trào tiến dần lên cao trào.",
+     "From 1928 to late 1933, strikers numbered 17 million. The revolutionary movement rose again from its low point."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI CON ĐƯỜNG",
+   "y": [
+    "Anh, Pháp: nhiều thuộc địa, vốn, thị trường → cải cách kinh tế – xã hội",
+    "Đức, I-ta-li-a: không có hoặc có ít thuộc địa → thiếu vốn, nguyên liệu, thị trường",
+    "→ Phát xít hoá: thiết lập chế độ độc tài",
+    "→ Phát động chiến tranh để phân chia lại thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Anh, Pháp có nhiều thuộc địa, vốn và thị trường, nên tiến hành cải cách kinh tế – xã hội để thoát khỏi đại suy thoái.",
+     "Britain and France had many colonies, capital and markets, so they carried out economic and social reforms to escape the Depression."
+    ],
+    [
+     "Nhật Minh",
+     "Còn Đức, I-ta-li-a không có hoặc có ít thuộc địa, ngày càng thiếu vốn, thiếu nguyên liệu và thị trường.",
+     "Germany and Italy had few or no colonies, and grew ever shorter of capital, raw materials and markets."
+    ],
+    [
+     "Hân Hân",
+     "Hai nước này đi theo con đường phát xít hoá: thiết lập chế độ độc tài, phát động chiến tranh để phân chia lại thế giới.",
+     "These two took the fascist path: setting up dictatorships and starting wars to redivide the world."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Đức, I-ta-li-a đi theo con đường phát xít hoá?",
+    "lua_chon": [
+     "Không có hoặc có ít thuộc địa, thiếu vốn, nguyên liệu, thị trường",
+     "Có quá nhiều thuộc địa",
+     "Không bị đại suy thoái ảnh hưởng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Vì sao Đức và I-ta-li-a chọn con đường phát xít hoá?",
+     "Pause! Why did Germany and Italy choose fascism?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: không có hoặc có ít thuộc địa, nên thiếu vốn, nguyên liệu và thị trường!",
+     "The answer is A: they had few or no colonies, so lacked capital, raw materials and markets!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1933",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tổng thống Hin-đen-bua trao quyền thủ tướng cho Hít-le, Đức, năm 1933 (như Hình 2.2 SGK, tr. 10)",
+    "tim": "Hindenburg Hitler January 1933 chancellor photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn; chỉ dùng ảnh sự kiện như SGK, không dùng ảnh/biểu tượng tuyên truyền phát xít"
+   },
+   "hinh": "Ảnh tư liệu: Hin-đen-bua trao quyền thủ tướng cho Hít-le (Đức, 1933)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đức, để đối phó với đại suy thoái và phong trào cách mạng dâng cao, giai cấp tư sản cầm quyền quyết định đưa Hít-le lên làm Thủ tướng, tháng 1 năm 1933.",
+     "In Germany, to deal with the Depression and the rising revolutionary movement, the ruling bourgeoisie made Hitler Chancellor in January 1933."
+    ],
+    [
+     "Hân Hân",
+     "Đây là cảnh Tổng thống Hin-đen-bua trao quyền thủ tướng cho Hít-le. Từ đó, nước Đức trở thành một “lò lửa chiến tranh”.",
+     "Here, President Hindenburg hands the chancellorship to Hitler. From then on, Germany became a 'hotbed of war'."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    12
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hít-le được đưa lên làm Thủ tướng Đức vào thời gian nào?",
+    "lua_chon": [
+     "10 – 1929",
+     "1 – 1933",
+     "1 – 1939"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hít-le được đưa lên làm Thủ tướng Đức khi nào?",
+     "Quick test! When was Hitler made Chancellor of Germany?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: tháng 1 năm 1933!",
+     "The answer is B: January 1933!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "I-TA-LI-A: “LÒ LỬA” THỨ HAI",
+   "y": [
+    "Không thoả mãn với việc chia lại thế giới theo Hoà ước Véc-xai",
+    "Bành trướng thế lực",
+    "Xâm chiếm thuộc địa ở châu Phi, khu vực Địa Trung Hải"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở I-ta-li-a, một “lò lửa chiến tranh” khác cũng xuất hiện. Chính phủ nước này không thoả mãn với việc phân chia lại thế giới theo Hoà ước Véc-xai,",
+     "In Italy, another 'hotbed of war' appeared. Its government was unhappy with how the Treaty of Versailles had redivided the world,"
+    ],
+    [
+     "Nhật Minh",
+     "nên đã bành trướng thế lực, xâm chiếm thuộc địa ở châu Phi và khu vực Địa Trung Hải.",
+     "so it expanded its power and seized colonies in Africa and the Mediterranean."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CHỦ NGHĨA PHÁT XÍT HÌNH THÀNH",
+   "moc": [
+    [
+     "10 – 1929",
+     "Đại suy thoái bùng nổ ở Mỹ"
+    ],
+    [
+     "1932",
+     "Suy thoái trầm trọng nhất"
+    ],
+    [
+     "1 – 1933",
+     "Hít-le làm Thủ tướng Đức"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Tháng 10 năm 1929, đại suy thoái bùng nổ ở Mỹ; năm 1932, suy thoái trầm trọng nhất.",
+     "Recap! October 1929: the Depression breaks out in the US; 1932: it is at its worst."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1933, Hít-le lên làm Thủ tướng: Đức và I-ta-li-a trở thành hai “lò lửa chiến tranh” ở châu Âu.",
+     "January 1933: Hitler becomes Chancellor; Germany and Italy become Europe's two 'hotbeds of war'."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện, gấp cuốn sách lại, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: con đường cải cách và con đường phát xít hoá khác nhau thế nào về hậu quả với thế giới? Bình luận nhé!",
+     "Your challenge: how did the path of reform and the path of fascism differ in their consequences for the world? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Để thoát khỏi đại suy thoái, các nước Đức, I-ta-li-a đã",
+   "dap_an": [
+    "Tiến hành cải cách kinh tế – xã hội",
+    "Đi theo con đường phát xít hoá",
+    "Giải phóng thuộc địa",
+    "Thực hiện Chính sách mới"
+   ],
+   "dung": 1,
+   "trang": 12
+  },
+  {
+   "hoi": "Ai được giai cấp tư sản cầm quyền ở Đức đưa lên làm Thủ tướng (1 – 1933)?",
+   "dap_an": [
+    "Hin-đen-bua",
+    "Hít-le",
+    "Ru-dơ-ven",
+    "Lê-nin"
+   ],
+   "dung": 1,
+   "trang": 12
+  },
+  {
+   "hoi": "Chính phủ I-ta-li-a không thoả mãn với việc phân chia lại thế giới theo",
+   "dap_an": [
+    "Hoà ước Véc-xai",
+    "Hội nghị I-an-ta",
+    "Hiệp ước Vác-sa-va",
+    "Hiến chương Liên hợp quốc"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "I-ta-li-a xâm chiếm thuộc địa ở khu vực nào?",
+   "dap_an": [
+    "Bắc Mỹ",
+    "Châu Phi, khu vực Địa Trung Hải",
+    "Đông Bắc Á",
+    "Nam Mỹ"
+   ],
+   "dung": 1,
+   "trang": 12
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 10 (Hình 2.2), tr. 11 (đại suy thoái), tr. 12 (Tư liệu: 50 triệu thất nghiệp, 17 triệu người bãi công 1928 – cuối 1933; hai con đường; Hít-le làm Thủ tướng 1 – 1933; I-ta-li-a). Đã chỉnh kiến thức chốt của danh mục: SGK viết 'không có hoặc có ít thuộc địa nên ngày càng thiếu vốn, thiếu nguyên liệu, thị trường' (danh mục ghi 'thiếu thuộc địa và thị trường'); SGK nói giai cấp tư sản cầm quyền 'đưa Hít-le lên làm Thủ tướng (1 – 1933)' – lời dẫn dùng đúng cách nói này, không nói 'Hít-le lên nắm quyền'. Ảnh Hình 2.2 dùng như ảnh sự kiện; không dùng biểu tượng phát xít; không có lời thoại dựng cho nhân vật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

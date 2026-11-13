@@ -1,0 +1,363 @@
+{
+ "ma": "L9-B16-04",
+ "ten_tap": "Đánh bại Chiến tranh đặc biệt",
+ "ten_tap_en": "Defeating the 'Special War'",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+  "trang": [
+   83,
+   84
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-dan-mien-nam",
+  "co-van-my"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, quyết liệt, hào hùng ở phần thắng lợi",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 16, tr. 83–84.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) tại khu di tích Chiến thắng Ấp Bắc (Đồng Tháp) ngày nay, bên kênh rạch và ruộng lúa xanh; Nhật Minh cầm con tem phóng to in hình 'Chiến thắng Ấp Bắc'",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Con tem này kỉ niệm chiến thắng Ấp Bắc, một trận đánh mở ra khả năng đánh bại chiến lược “Chiến tranh đặc biệt” của Mỹ.",
+     "This stamp commemorates the Ấp Bắc victory, a battle that showed the US 'Special War' strategy could be defeated."
+    ],
+    [
+     "Hân Hân",
+     "“Chiến tranh đặc biệt” là gì, và quân dân miền Nam đã đánh bại nó thế nào? Cùng xem nhé!",
+     "What was the 'Special War', and how did the southern army and people defeat it? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1961",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "“CHIẾN TRANH ĐẶC BIỆT” (1961 – 1965)",
+   "y": [
+    "Chiến lược chiến tranh xâm lược thực dân mới của Mỹ",
+    "Quân đội tay sai do cố vấn Mỹ chỉ huy",
+    "Dựa vào vũ khí, trang bị, phương tiện chiến tranh của Mỹ",
+    "Âm mưu “dùng người Việt đánh người Việt”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "“Chiến tranh đặc biệt” là một chiến lược chiến tranh xâm lược thực dân mới của Mỹ, tiến hành bằng quân đội tay sai do cố vấn Mỹ chỉ huy,",
+     "The 'Special War' was a US neo-colonial war strategy, fought by puppet troops under American advisers,"
+    ],
+    [
+     "Hân Hân",
+     "dựa vào vũ khí, trang bị của Mỹ, nhằm thực hiện âm mưu “dùng người Việt đánh người Việt”.",
+     "relying on US weapons and equipment, with the aim of 'using Vietnamese to fight Vietnamese'."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "THỦ ĐOẠN",
+   "y": [
+    "Âm mưu bình định miền Nam trong vòng 18 tháng",
+    "Tăng cường viện trợ quân sự cho chính quyền Ngô Đình Diệm",
+    "“Dồn dân, lập ấp chiến lược”",
+    "Chiến thuật “trực thăng vận”, “thiết xa vận”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Mỹ âm mưu bình định miền Nam trong vòng 18 tháng, tăng cường viện trợ quân sự cho chính quyền Ngô Đình Diệm,",
+     "The US planned to 'pacify' the South within 18 months and stepped up military aid to the Diệm regime,"
+    ],
+    [
+     "Nhật Minh",
+     "tiến hành “dồn dân, lập ấp chiến lược”, dùng phổ biến chiến thuật “trực thăng vận”, “thiết xa vận”.",
+     "herding people into 'strategic hamlets' and widely using 'heliborne' and 'armoured-carrier' tactics."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Âm mưu cơ bản của chiến lược “Chiến tranh đặc biệt” là",
+    "lua_chon": [
+     "“Dùng người Việt đánh người Việt”",
+     "Đưa quân Mỹ trực tiếp tham chiến",
+     "Rút hết quân khỏi miền Nam"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Âm mưu cơ bản của “Chiến tranh đặc biệt” là gì?",
+     "Pause! What was the core aim of the 'Special War'?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: “dùng người Việt đánh người Việt”!",
+     "The answer is A: 'using Vietnamese to fight Vietnamese'!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "NĂM 1962",
+   "y": [
+    "Đánh bại nhiều cuộc càn quét vào chiến khu D, căn cứ U Minh, Tây Ninh…",
+    "Đấu tranh phá “ấp chiến lược”",
+    "Làm thất bại âm mưu bình định của Mỹ và chính quyền Sài Gòn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1962, quân dân miền Nam đánh bại nhiều cuộc hành quân càn quét vào chiến khu D, căn cứ U Minh, Tây Ninh; đấu tranh phá “ấp chiến lược”, làm thất bại âm mưu bình định.",
+     "In 1962, the southern army and people defeated many sweeps into War Zone D, the U Minh base and Tây Ninh, and fought to break up 'strategic hamlets', foiling the pacification plan."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tư liệu: tem kỉ niệm chiến thắng Ấp Bắc (như Hình 16.6 SGK, tr. 84)",
+    "tim": "tem Chiến thắng Ấp Bắc Mặt trận Dân tộc Giải phóng",
+    "yeu_cau": "ảnh chụp tem bưu chính gốc (hiện vật bảo tàng), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Tư liệu: tem kỉ niệm chiến thắng Ấp Bắc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 2 tháng 1 năm 1963, ở Ấp Bắc, quân dân miền Nam đánh bại cuộc càn quét của hơn 2 000 quân Sài Gòn do cố vấn Mỹ chỉ huy.",
+     "On 2 January 1963, at Ấp Bắc, southern forces defeated a sweep by more than 2,000 Saigon troops commanded by US advisers."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng mở ra khả năng đánh bại “Chiến tranh đặc biệt”. Phong trào “Thi đua Ấp Bắc, giết giặc lập công” dấy lên khắp miền Nam.",
+     "The victory showed the 'Special War' could be beaten. The movement 'Emulate Ấp Bắc, kill the enemy and win merit' spread across the South."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến thắng Ấp Bắc diễn ra vào ngày nào?",
+    "lua_chon": [
+     "2 – 1 – 1962",
+     "2 – 1 – 1963",
+     "20 – 12 – 1960"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Chiến thắng Ấp Bắc diễn ra vào ngày nào?",
+     "Quick test! When was the Ấp Bắc victory?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 2 tháng 1 năm 1963!",
+     "The answer is B: 2 January 1963!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "1964 – 1965",
+   "y": [
+    "Mở những chiến dịch tiến công quy mô lớn",
+    "Thắng lợi ở An Lão, Ba Gia, Đồng Xoài",
+    "→ Chiến lược “Chiến tranh đặc biệt” phá sản hoàn toàn"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1964 – 1965, quân dân miền Nam mở những chiến dịch tiến công quy mô lớn, giành thắng lợi ở An Lão, Ba Gia, Đồng Xoài,",
+     "In 1964–1965, the southern forces launched large-scale offensives and won at An Lão, Ba Gia and Đồng Xoài,"
+    ],
+    [
+     "Hân Hân",
+     "làm phá sản hoàn toàn chiến lược “Chiến tranh đặc biệt” của Mỹ.",
+     "bringing the US 'Special War' strategy to total collapse."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐÁNH BẠI “CHIẾN TRANH ĐẶC BIỆT”",
+   "moc": [
+    [
+     "1962",
+     "Phá càn, phá “ấp chiến lược”"
+    ],
+    [
+     "2 – 1 – 1963",
+     "Chiến thắng Ấp Bắc"
+    ],
+    [
+     "1964 – 1965",
+     "An Lão, Ba Gia, Đồng Xoài"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1962: phá càn, phá “ấp chiến lược”. Ngày 2 tháng 1 năm 1963: chiến thắng Ấp Bắc.",
+     "Recap! 1962: sweeps defeated and strategic hamlets broken. 2 January 1963: the Ấp Bắc victory."
+    ],
+    [
+     "Nhật Minh",
+     "1964 – 1965: An Lão, Ba Gia, Đồng Xoài. “Chiến tranh đặc biệt” phá sản hoàn toàn!",
+     "1964–1965: An Lão, Ba Gia, Đồng Xoài. The 'Special War' collapsed!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên kênh rạch ở khu di tích Ấp Bắc, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: khẩu hiệu “Thi đua Ấp Bắc, giết giặc lập công” cho em biết điều gì về ý nghĩa của chiến thắng Ấp Bắc? Bình luận nhé!",
+     "Your challenge: what does the slogan 'Emulate Ấp Bắc' tell us about the meaning of the Ấp Bắc victory? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chiến lược “Chiến tranh đặc biệt” được tiến hành bằng lực lượng nào là chủ yếu?",
+   "dap_an": [
+    "Quân đội Mỹ",
+    "Quân đội tay sai do cố vấn Mỹ chỉ huy",
+    "Quân đội Pháp",
+    "Quân đồng minh của Mỹ"
+   ],
+   "dung": 1,
+   "trang": 83
+  },
+  {
+   "hoi": "Mỹ âm mưu bình định miền Nam trong vòng",
+   "dap_an": [
+    "6 tháng",
+    "18 tháng",
+    "5 năm",
+    "10 năm"
+   ],
+   "dung": 1,
+   "trang": 84
+  },
+  {
+   "hoi": "Ở Ấp Bắc, quân dân miền Nam đánh bại cuộc càn quét của",
+   "dap_an": [
+    "Hơn 2 000 quân Sài Gòn do cố vấn Mỹ chỉ huy",
+    "Hơn 2 000 lính Mỹ",
+    "Quân Pháp",
+    "Quân Trung Hoa Dân quốc"
+   ],
+   "dung": 0,
+   "trang": 84
+  },
+  {
+   "hoi": "Những thắng lợi làm phá sản hoàn toàn “Chiến tranh đặc biệt” (1964 – 1965) là",
+   "dap_an": [
+    "Vạn Tường, Dương Minh Châu",
+    "An Lão, Ba Gia, Đồng Xoài",
+    "Điện Biên Phủ, Việt Bắc",
+    "Phú Riềng, Bến Thuỷ"
+   ],
+   "dung": 1,
+   "trang": 84
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9 tr. 83 (định nghĩa 'Chiến tranh đặc biệt') và tr. 84 (18 tháng, thủ đoạn; bảng tóm tắt thắng lợi 1962, 1963, 1964 – 1965 – hàng '1964 – 1965' bị OCR lỗi, đã đọc lại từ ảnh; Ấp Bắc 2 – 1 (1963), hơn 2 000 quân; Hình 16.6). Đã chỉnh kiến thức chốt: SGK ghi An Lão, Ba Gia, Đồng Xoài 'làm phá sản hoàn toàn' chiến lược. Không dựng sơ đồ chiến thuật trận Ấp Bắc (mô phỏng danh mục đề xuất) vì SGK không có lược đồ trận này – thay bằng tem tư liệu và trục thời gian. Phương án nhiễu 'Vạn Tường, Dương Minh Châu' thuộc Bài 17 (tr. 86).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

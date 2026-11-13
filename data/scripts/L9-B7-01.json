@@ -1,0 +1,175 @@
+{
+ "ma": "L9-B7-01",
+ "ten_tap": "Tại sao bùng nổ Xô viết Nghệ - Tĩnh?",
+ "ten_tap_en": "Why Did the Nghệ–Tĩnh Soviets Erupt?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 7. Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+  "trang": [
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan",
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "dồn nén, dâng dần, mạnh mẽ ở cuối",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 7, tr. 30.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Tượng đài Xô viết Nghệ – Tĩnh ở Can Lộc, Hà Tĩnh ngày nay; trời xanh, cờ đỏ sao vàng bên lối vào",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là Tượng đài Xô viết Nghệ – Tĩnh ở Hà Tĩnh. Vì sao năm 1930, phong trào cách mạng lại bùng nổ mạnh mẽ đến thế?",
+     "This is the Nghệ–Tĩnh Soviets Monument in Hà Tĩnh. Why did the revolutionary movement explode so powerfully in 1930?"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "VÌ SAO BÙNG NỔ?",
+   "y": [
+    "Việt Nam – thuộc địa của Pháp – chịu ảnh hưởng của đại suy thoái 1929 – 1933",
+    "Mâu thuẫn: dân tộc Việt Nam ↔ thực dân Pháp",
+    "Mâu thuẫn: nông dân ↔ địa chủ phong kiến",
+    "Đảng Cộng sản Việt Nam vừa ra đời, kịp thời lãnh đạo"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Là thuộc địa của Pháp, Việt Nam chịu ảnh hưởng của đại suy thoái 1929 – 1933.",
+     "As a French colony, Vietnam felt the impact of the 1929–1933 Depression."
+    ],
+    [
+     "Nhật Minh",
+     "Hai mâu thuẫn nổi lên gay gắt: giữa toàn thể dân tộc với thực dân Pháp, và giữa nông dân với địa chủ phong kiến.",
+     "Two conflicts sharpened: between the whole nation and the French colonialists, and between peasants and feudal landlords."
+    ],
+    [
+     "Hân Hân",
+     "Đúng lúc đó, Đảng Cộng sản Việt Nam vừa ra đời đã kịp thời lãnh đạo!",
+     "Just then, the newly founded Communist Party of Vietnam stepped in to lead!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lực lượng kịp thời lãnh đạo phong trào cách mạng 1930 – 1931 là",
+    "lua_chon": [
+     "Việt Nam Quốc dân đảng",
+     "Đảng Cộng sản Việt Nam",
+     "Tân Việt Cách mạng đảng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai đã kịp thời lãnh đạo phong trào?",
+     "Pause! Who stepped in to lead the movement?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Đảng Cộng sản Việt Nam!",
+     "The answer is B: the Communist Party of Vietnam!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem trước tượng đài; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 và tháng 10 năm 1930, phong trào lên đỉnh cao ở Nghệ An, Hà Tĩnh. Bình luận nhé: mâu thuẫn nào gay gắt hơn?",
+     "In September and October 1930, the movement peaked in Nghệ An and Hà Tĩnh. Comment below: which conflict was sharper?"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào cách mạng 1930 – 1931 chịu tác động của cuộc khủng hoảng nào?",
+   "dap_an": [
+    "Đại suy thoái kinh tế 1929 – 1933",
+    "Khủng hoảng tài chính 1927 ở Nhật Bản",
+    "Khủng hoảng năng lượng 1973",
+    "Khủng hoảng 1920 – 1921"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Hai mâu thuẫn cơ bản trong xã hội Việt Nam lúc đó là",
+   "dap_an": [
+    "Dân tộc Việt Nam – thực dân Pháp; nông dân – địa chủ phong kiến",
+    "Công nhân – nông dân; tư sản – tiểu tư sản",
+    "Pháp – Nhật; Pháp – Anh",
+    "Thành thị – nông thôn; miền Bắc – miền Nam"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Ngày 1 – 5 – 1930, cờ đỏ búa liềm tung bay trên đỉnh núi nào?",
+   "dap_an": [
+    "Núi Bài Thơ",
+    "Núi Ba Vì",
+    "Núi Ngự Bình",
+    "Núi Sam"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Phong trào 1930 – 1931 đạt đến đỉnh cao vào thời gian nào?",
+   "dap_an": [
+    "Tháng 1 – 1930",
+    "Tháng 5 – 1930",
+    "Tháng 9 và tháng 10 – 1930",
+    "Đầu năm 1931"
+   ],
+   "dung": 2,
+   "trang": 30
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 30 (Hình 7.1; mục 1: nguyên nhân bùng nổ; mốc 1 – 5 – 1930 núi Bài Thơ; đỉnh cao tháng 9, 10 – 1930). Đã chỉnh kiến thức chốt: SGK gọi tên hai 'mâu thuẫn cơ bản' (dân tộc Việt Nam – thực dân Pháp; nông dân – địa chủ phong kiến) và nói 'Đảng Cộng sản Việt Nam vừa ra đời đã kịp thời lãnh đạo'; danh mục ghi chung 'mâu thuẫn dân tộc và mâu thuẫn giai cấp'. Cảnh mở đầu là tượng đài ngày nay (bối cảnh hiện tại), không vẽ cảnh lịch sử.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

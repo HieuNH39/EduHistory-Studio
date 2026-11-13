@@ -1,0 +1,310 @@
+{
+ "ma": "L9-CD2-02",
+ "ten_tap": "Văn hóa sông nước Cửu Long",
+ "ten_tap_en": "Mekong River Culture",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+  "trang": [
+   226
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-dan-vung-song-nuoc-cuu-long",
+  "nghe-nhan-don-ca-tai-tu"
+ ],
+ "nhac": {
+  "tam_trang": "dân gian Nam Bộ, mộc mạc, tươi vui",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh chợ nổi, xưởng ghe, buổi đờn ca là minh hoạ ở hiện tại, không phải người thật cụ thể; ảnh chợ nổi là ảnh thật có giấy phép. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 2, tr. 226.",
+ "chinh_sach_hinh": "Nội dung hiện tại: cảnh dẫn chuyện của Minh – Hân và người dân, nghệ nhân dựng hình minh hoạ (không vẽ người thật cụ thể, không gắn tên); ảnh địa điểm dùng ảnh thật có giấy phép, ghi nguồn; thẻ chữ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Hân Hân và Nhật Minh (đồng phục FPT) ngồi trên một chiếc xuồng nhỏ giữa chợ nổi Cái Răng (Cần Thơ) lúc bình minh; xung quanh là ghe chở đầy dưa hấu, bí, khóm, cây bẹo treo hàng; người bán hàng là nhân vật minh hoạ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chào mừng cậu đến chợ nổi Cái Răng, Cần Thơ! Ở đây, người ta mua bán ngay trên sông, từ ghe này sang ghe khác.",
+     "Welcome to Cái Răng floating market in Cần Thơ! Here people buy and sell right on the river, from boat to boat."
+    ],
+    [
+     "Nhật Minh",
+     "Văn hoá sông nước Cửu Long đặc sắc thế nào? Cùng khám phá nhé!",
+     "What makes the Mekong Delta's river culture so special? Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "VĂN HOÁ SÔNG NƯỚC",
+   "y": [
+    "Con người thích ứng với thiên nhiên trong quá trình khai khẩn",
+    "Tạo nên nền văn hoá sông nước đặc sắc",
+    "Cuộc sống, sản xuất gắn liền với sông nước"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong quá trình khai khẩn, con người ở châu thổ sông Cửu Long đã thích ứng với thiên nhiên, tạo nên nền văn hoá sông nước đặc sắc.",
+     "While opening up the land, people in the Mekong Delta adapted to nature and created a distinctive river culture."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc sống và hoạt động sản xuất của người dân gắn liền với sông nước.",
+     "Daily life and work here are bound up with the rivers."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: chợ nổi Cái Răng (Cần Thơ) (như Hình 2 SGK, tr. 226)",
+    "tim": "chợ nổi Cái Răng Cần Thơ ảnh",
+    "yeu_cau": "ảnh có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Chợ nổi Cái Răng (Cần Thơ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kiến trúc nhà nổi, buôn bán trên sông khá phổ biến. Nhiều nơi tập trung thành chợ nổi như Cái Răng, Phụng Hiệp, Ngã Năm.",
+     "Floating houses and river trading are common. Many spots have become floating markets, like Cái Răng, Phụng Hiệp and Ngã Năm."
+    ],
+    [
+     "Nhật Minh",
+     "Việc đi lại bằng ghe, xuồng rất phổ biến.",
+     "Getting around by boat and canoe is very common."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chợ nổi nào thuộc châu thổ sông Cửu Long được SGK nêu?",
+    "lua_chon": [
+     "Cái Răng",
+     "Đồng Xuân",
+     "Bến Thành"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chợ nổi nào thuộc châu thổ sông Cửu Long được SGK nêu?",
+     "Pause! Which floating market in the Mekong Delta does the textbook mention?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: chợ nổi Cái Răng! SGK còn nêu Phụng Hiệp, Ngã Năm.",
+     "The answer is A: Cái Răng! The textbook also names Phụng Hiệp and Ngã Năm."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "ẨM THỰC VÀ NGHỀ THỦ CÔNG",
+   "y": [
+    "Ẩm thực: sản vật sông nước (các loại mắm, cá khô…), bánh làm từ gạo",
+    "Đóng ghe xuồng ở Cần Thơ",
+    "Làm bột gạo ở Sa Đéc (Đồng Tháp)",
+    "Làm đường thốt nốt ở An Giang"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ẩm thực gắn với sản vật sông nước như các loại mắm, cá khô, và lúa gạo với các loại bánh làm từ gạo.",
+     "The cuisine draws on river produce like fermented fish and dried fish, and on rice, with many rice cakes."
+    ],
+    [
+     "Hân Hân",
+     "Nghề thủ công tiêu biểu: đóng ghe xuồng ở Cần Thơ, làm bột gạo ở Sa Đéc, Đồng Tháp, làm đường thốt nốt ở An Giang.",
+     "Typical crafts: boat-building in Cần Thơ, rice flour making in Sa Đéc, Đồng Tháp, and palm sugar making in An Giang."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong một xưởng đóng ghe xuồng bên bờ kênh ở Cần Thơ ngày nay; người thợ (nhân vật minh hoạ) đang uốn ván gỗ; mùi gỗ mới, phoi bào vương trên sàn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghe xuồng ở đây không chỉ là phương tiện, mà còn là “đôi chân” của người miền Tây trên sông nước.",
+     "Here boats aren't just transport, they are the Mekong people's 'legs' on the water."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, nghề đóng ghe xuồng ở Cần Thơ là một nghề thủ công tiêu biểu của vùng.",
+     "That's why boat-building in Cần Thơ is one of the region's typical crafts."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "LỄ HỘI VÀ NGHỆ THUẬT",
+   "y": [
+    "Lễ hội miếu Bà Chúa Xứ, lễ hội Nghinh Ông",
+    "Lễ hội Chôl Chnăm Thmây, lễ hội Đua ghe Ngo",
+    "Đờn ca tài tử Nam Bộ: UNESCO ghi danh Di sản văn hoá phi vật thể của thế giới"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở đây có rất nhiều lễ hội và nghệ thuật dân gian: lễ hội miếu Bà Chúa Xứ, lễ hội Nghinh Ông, lễ hội Chôl Chnăm Thmây, lễ hội Đua ghe Ngo.",
+     "There are many festivals and folk arts: the Bà Chúa Xứ temple festival, the Nghinh Ông festival, Chôl Chnăm Thmây and the Ngo boat race."
+    ],
+    [
+     "Nhật Minh",
+     "Đặc biệt, nghệ thuật Đờn ca tài tử Nam Bộ đã được UNESCO ghi danh là Di sản văn hoá phi vật thể của thế giới.",
+     "Above all, Southern Vietnam's Đờn ca tài tử music has been inscribed by UNESCO as world intangible cultural heritage."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Loại hình nghệ thuật nào ở châu thổ sông Cửu Long được UNESCO ghi danh là Di sản văn hoá phi vật thể của thế giới?",
+    "lua_chon": [
+     "Dân ca Quan họ",
+     "Đờn ca tài tử Nam Bộ",
+     "Ca trù"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nghệ thuật nào của châu thổ sông Cửu Long được UNESCO ghi danh?",
+     "Quick test! Which Mekong Delta art form has UNESCO inscribed?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Đờn ca tài tử Nam Bộ!",
+     "The answer is B: Đờn ca tài tử of Southern Vietnam!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân ngồi bên hiên nhà sàn ven kênh lúc chiều tà, nghe một nhóm đờn ca tài tử (nhân vật minh hoạ) chơi đàn kìm, đàn tranh; rồi quay sang nhìn người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: so sánh một nét văn hoá của châu thổ sông Hồng với châu thổ sông Cửu Long. Bình luận nhé!",
+     "Your challenge: compare one cultural feature of the Red River Delta with the Mekong Delta. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ở châu thổ sông Cửu Long, nền văn hoá đặc sắc được tạo nên từ",
+   "dap_an": [
+    "Sự thích ứng với thiên nhiên sông nước",
+    "Đời sống du mục",
+    "Khai thác mỏ",
+    "Nghề rừng ở núi cao"
+   ],
+   "dung": 0,
+   "trang": 226
+  },
+  {
+   "hoi": "Nghề làm đường thốt nốt tiêu biểu ở",
+   "dap_an": [
+    "An Giang",
+    "Cần Thơ",
+    "Sa Đéc (Đồng Tháp)",
+    "Bắc Ninh"
+   ],
+   "dung": 0,
+   "trang": 226
+  },
+  {
+   "hoi": "Lễ hội nào thuộc châu thổ sông Cửu Long?",
+   "dap_an": [
+    "Lễ hội Đua ghe Ngo",
+    "Hội Gióng",
+    "Hội Lim",
+    "Lễ hội chùa Hương"
+   ],
+   "dung": 0,
+   "trang": 226
+  },
+  {
+   "hoi": "Nghề làm bột gạo tiêu biểu ở đâu?",
+   "dap_an": [
+    "Sa Đéc (Đồng Tháp)",
+    "Bát Tràng (Hà Nội)",
+    "Đại Bái (Bắc Ninh)",
+    "Văn Lâm (Ninh Bình)"
+   ],
+   "dung": 0,
+   "trang": 226
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 2, tr. 226 (mục 1b: thích ứng thiên nhiên; nhà nổi, chợ nổi Cái Răng, Phụng Hiệp, Ngã Năm; ghe xuồng; ẩm thực; đóng ghe xuồng ở Cần Thơ, bột gạo Sa Đéc, đường thốt nốt An Giang; lễ hội miếu Bà Chúa Xứ, Nghinh Ông, Chôl Chnăm Thmây, Đua ghe Ngo – tên lễ hội đọc lại từ ảnh trang; Đờn ca tài tử Nam Bộ được UNESCO ghi danh; Hình 2). Kiến thức chốt của danh mục khớp SGK. Người bán hàng, thợ đóng ghe, nhóm đờn ca là nhân vật minh hoạ ở hiện tại. Không dựng mô phỏng 3D chợ nổi (mô phỏng danh mục đề xuất) – dùng cảnh dẫn chuyện và ảnh thật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

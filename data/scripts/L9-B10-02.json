@@ -1,0 +1,381 @@
+{
+ "ma": "L9-B10-02",
+ "ten_tap": "Sự tan rã của Liên bang Xô viết",
+ "ten_tap_en": "The Break-up of the Soviet Union",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 10. Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   45,
+   46
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "m-gooc-ba-chop",
+  "lanh-dao-dang-va-nha-nuoc-lien-xo"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, căng dần, lắng đọng ở đoạn kết; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 10, tr. 45–46.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong thư viện trường, đứng trước tấm bản đồ thế giới; Hân Hân chỉ vào vùng lãnh thổ rộng lớn từng là Liên Xô; trên bàn có tờ lịch cũ ghi 'Tháng 12 – 1991'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 25 tháng 12 năm 1991, Liên bang Xô viết, một trong hai siêu cường của thế giới, tan rã.",
+     "On 25 December 1991, the Soviet Union, one of the world's two superpowers, broke apart."
+    ],
+    [
+     "Nhật Minh",
+     "Chuyện gì đã xảy ra trong những năm cuối cùng ấy? Cùng tìm hiểu nhé!",
+     "What happened in those final years? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1985",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CẢI TỔ CHÍNH TRỊ",
+   "y": [
+    "3 – 1985: M. Goóc-ba-chốp làm Tổng Bí thư, tiến hành cải tổ",
+    "Khẩu hiệu “dân chủ hoá”, “công khai hoá”",
+    "Xác lập chế độ đa nguyên, đa đảng",
+    "Hệ thống chính quyền tổng thống"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1985, M. Goóc-ba-chốp được bầu làm Tổng Bí thư Đảng Cộng sản Liên Xô, và công cuộc cải tổ được tiến hành.",
+     "In March 1985, M. Gorbachev was elected General Secretary of the Soviet Communist Party, and the reforms, perestroika, began."
+    ],
+    [
+     "Hân Hân",
+     "Cải tổ chính trị với khẩu hiệu “dân chủ hoá”, “công khai hoá” đã xác lập chế độ đa nguyên, đa đảng và hệ thống chính quyền tổng thống.",
+     "Political reform, under the slogans 'democratisation' and 'openness', set up a multi-party pluralist system and a presidential government."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "KINH TẾ KHỦNG HOẢNG",
+   "y": [
+    "Cải tổ kinh tế từ năm 1985: thiếu đồng bộ và hiệu quả",
+    "1989 – 1991: khủng hoảng kinh tế trầm trọng",
+    "Khan hiếm lương thực, thực phẩm, hàng tiêu dùng thiết yếu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cải tổ kinh tế thực hiện từ năm 1985, nhưng thiếu đồng bộ và hiệu quả.",
+     "Economic reform began in 1985, but it was patchy and ineffective."
+    ],
+    [
+     "Nhật Minh",
+     "Những năm 1989 – 1991, kinh tế khủng hoảng trầm trọng, khan hiếm lương thực, thực phẩm và hàng tiêu dùng thiết yếu.",
+     "In 1989–1991 the economy was in deep crisis, with shortages of food and basic consumer goods."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "XÃ HỘI BẤT BÌNH",
+   "y": [
+    "Đời sống suy giảm, niềm tin vào chủ nghĩa xã hội lung lay",
+    "Thế lực thù địch trong và ngoài nước kích động",
+    "Từ năm 1989: nhiều cuộc biểu tình, bãi công",
+    "Văn hoá: buông lỏng quản lí → đa nguyên, tư tưởng chống chủ nghĩa xã hội gia tăng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đời sống nhân dân suy giảm, niềm tin vào chủ nghĩa xã hội lung lay. Cùng với sự kích động của các thế lực thù địch, từ năm 1989, nhiều cuộc biểu tình, bãi công nổ ra.",
+     "Living standards fell and faith in socialism wavered. Stirred up by hostile forces, many protests and strikes broke out from 1989."
+    ],
+    [
+     "Hân Hân",
+     "Về văn hoá, sự buông lỏng quản lí của Nhà nước dẫn đến chủ nghĩa đa nguyên và tư tưởng chống chủ nghĩa xã hội gia tăng.",
+     "In culture, the state's loosened control led to pluralism and growing anti-socialist ideas."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cải tổ chính trị ở Liên Xô với khẩu hiệu “dân chủ hoá”, “công khai hoá” đã xác lập",
+    "lua_chon": [
+     "Chế độ đa nguyên, đa đảng",
+     "Chế độ quân chủ",
+     "Chế độ một đảng như cũ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cải tổ chính trị ở Liên Xô đã xác lập chế độ gì?",
+     "Pause! What system did Soviet political reform set up?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chế độ đa nguyên, đa đảng!",
+     "The answer is A: a multi-party pluralist system!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: xe tăng trên đường phố Mát-xcơ-va trong cuộc đảo chính tháng 8 – 1991",
+    "tim": "Moscow August 1991 coup tanks street photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: Mát-xcơ-va, tháng 8 – 1991",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1990, Goóc-ba-chốp được bầu làm Tổng thống. Ngày 19 tháng 8 năm 1991, một số lãnh đạo Đảng và Nhà nước Liên Xô tiến hành đảo chính lật đổ ông, nhưng không thành công.",
+     "In March 1990, Gorbachev was elected President. On 19 August 1991, some Party and state leaders staged a coup to oust him, but it failed."
+    ],
+    [
+     "Hân Hân",
+     "Hệ quả: mâu thuẫn chính trị gia tăng, Đảng Cộng sản bị đình chỉ hoạt động, chính quyền Liên bang tê liệt, các nước cộng hoà tuyên bố độc lập, tách khỏi Liên bang.",
+     "As a result, political conflict grew, the Communist Party was suspended, the federal government was paralysed, and the republics declared independence and left the Union."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "TAN RÃ",
+   "y": [
+    "Ngày 25 – 12 – 1991",
+    "M. Goóc-ba-chốp buộc phải từ chức Tổng thống",
+    "Đánh dấu sự tan rã của Liên bang Xô viết"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 25 tháng 12 năm 1991, Goóc-ba-chốp buộc phải từ chức Tổng thống, đánh dấu sự tan rã của Liên bang Xô viết.",
+     "On 25 December 1991, Gorbachev was forced to resign as President, marking the break-up of the Soviet Union."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sự kiện nào đánh dấu sự tan rã của Liên bang Xô viết?",
+    "lua_chon": [
+     "Cuộc đảo chính ngày 19 – 8 – 1991",
+     "Goóc-ba-chốp từ chức Tổng thống ngày 25 – 12 – 1991",
+     "Goóc-ba-chốp làm Tổng Bí thư tháng 3 – 1985"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Sự kiện nào đánh dấu Liên bang Xô viết tan rã?",
+     "Quick test! Which event marked the break-up of the Soviet Union?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Goóc-ba-chốp từ chức Tổng thống, ngày 25 tháng 12 năm 1991!",
+     "The answer is B: Gorbachev's resignation as President on 25 December 1991!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NHỮNG NĂM CUỐI CỦA LIÊN XÔ",
+   "moc": [
+    [
+     "3 – 1985",
+     "Goóc-ba-chốp làm Tổng Bí thư, cải tổ"
+    ],
+    [
+     "1989 – 1991",
+     "Khủng hoảng kinh tế trầm trọng"
+    ],
+    [
+     "3 – 1990",
+     "Bầu Tổng thống"
+    ],
+    [
+     "19 – 8 – 1991",
+     "Đảo chính không thành"
+    ],
+    [
+     "25 – 12 – 1991",
+     "Liên Xô tan rã"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Tháng 3 năm 1985, cải tổ bắt đầu. 1989 – 1991, khủng hoảng kinh tế trầm trọng. Tháng 3 năm 1990, bầu Tổng thống.",
+     "Recap! March 1985: reform begins. 1989–1991: deep economic crisis. March 1990: a President is elected."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 19 tháng 8 năm 1991, đảo chính thất bại. Ngày 25 tháng 12 năm 1991, Liên Xô tan rã.",
+     "19 August 1991: the coup fails. 25 December 1991: the USSR breaks up."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước tấm bản đồ thế giới trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo SGK, nêu hai nguyên nhân dẫn tới sự tan rã của Liên Xô. Bình luận nhé!",
+     "Your challenge: using the textbook, name two causes of the Soviet Union's collapse. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "M. Goóc-ba-chốp được bầu làm Tổng Bí thư Đảng Cộng sản Liên Xô vào",
+   "dap_an": [
+    "3 – 1985",
+    "3 – 1990",
+    "8 – 1991",
+    "12 – 1991"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Những năm 1989 – 1991, kinh tế Liên Xô",
+   "dap_an": [
+    "Tăng trưởng nhanh",
+    "Khủng hoảng trầm trọng, khan hiếm hàng thiết yếu",
+    "Đứng đầu thế giới",
+    "Ổn định"
+   ],
+   "dung": 1,
+   "trang": 45
+  },
+  {
+   "hoi": "Cuộc đảo chính nhằm lật đổ Goóc-ba-chốp diễn ra vào ngày",
+   "dap_an": [
+    "19 – 8 – 1991",
+    "25 – 12 – 1991",
+    "9 – 11 – 1989",
+    "3 – 1990"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Từ năm 1989, ở Liên Xô đã nổ ra",
+   "dap_an": [
+    "Nhiều cuộc biểu tình, bãi công",
+    "Chiến tranh thế giới",
+    "Cách mạng tháng Mười",
+    "Phong trào Ngũ tứ"
+   ],
+   "dung": 0,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 45 (mục 1a: 3 – 1985, cải tổ chính trị, 3 – 1990, 19 – 8 – 1991, hệ quả, 25 – 12 – 1991; mục 1b: cải tổ kinh tế từ 1985, khủng hoảng 1989 – 1991) và tr. 46 (xã hội: đời sống suy giảm, biểu tình, bãi công từ 1989; văn hoá: buông lỏng quản lí). Đã chỉnh kiến thức chốt: SGK nói cải tổ chính trị 'xác lập chế độ đa nguyên, đa đảng' và sau cuộc đảo chính 'mâu thuẫn chính trị gia tăng' (không dùng cụm 'gây bất ổn'). Ảnh xe tăng ở Mát-xcơ-va 8 – 1991 không có trong SGK – chỉ là ảnh minh hoạ lưu trữ cho sự kiện SGK nêu. Không có số liệu năm để dựng đồ thị (mô phỏng danh mục đề xuất) – thay bằng trục thời gian.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

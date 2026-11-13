@@ -1,0 +1,349 @@
+{
+ "ma": "L9-B11-01",
+ "ten_tap": "Nước Mỹ: Quyền lực và những biến động",
+ "ten_tap_en": "America: Power and Upheaval",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   49,
+   50
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "richard-nixon",
+  "sinh-vien-my"
+ ],
+ "nhac": {
+  "tam_trang": "mạnh mẽ, căng ở phần đối ngoại; xúc động ở phần biểu tình phản chiến",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 11, tr. 49–50.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng học tiếng Anh của trường; trên tường có tấm bản đồ thế giới và một tấm bảng ghi 'USA 1945 – 1991'; Hân Hân cầm cuốn SGK Lịch sử 9",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau năm 1945, nước Mỹ là một siêu cường. Nhưng bên trong và bên ngoài nước Mỹ cũng đầy biến động.",
+     "After 1945, the US was a superpower. But both at home and abroad, it faced great upheaval."
+    ],
+    [
+     "Hân Hân",
+     "Hôm nay, ta tìm hiểu chính trị và chính sách đối ngoại của Mỹ từ năm 1945 đến năm 1991 nhé!",
+     "Today, let's explore US politics and foreign policy from 1945 to 1991!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH TRỊ TRONG NƯỚC",
+   "y": [
+    "Duy trì nền dân chủ tư sản",
+    "Chế độ hai đảng thay nhau cầm quyền: Đảng Dân chủ và Đảng Cộng hoà",
+    "Đối nội: phát triển kinh tế, ổn định xã hội",
+    "Ngăn chặn, đàn áp phong trào tiến bộ trong nước"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nước Mỹ vẫn duy trì nền dân chủ tư sản, với hai đảng thay nhau cầm quyền: Đảng Dân chủ và Đảng Cộng hoà.",
+     "The US kept its bourgeois democracy, with two parties alternating in power: the Democrats and the Republicans."
+    ],
+    [
+     "Hân Hân",
+     "Chính sách đối nội nhất quán nhằm phát triển kinh tế, ổn định xã hội; đồng thời luôn ngăn chặn, đàn áp phong trào đấu tranh của các lực lượng tiến bộ trong nước.",
+     "Domestic policy consistently aimed at economic growth and social stability, while always curbing and suppressing progressive movements at home."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai đảng thay nhau cầm quyền ở Mỹ là",
+    "lua_chon": [
+     "Đảng Dân chủ và Đảng Cộng hoà",
+     "Đảng Lao động và Đảng Bảo thủ",
+     "Đảng Cộng sản và Đảng Xã hội"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hai đảng thay nhau cầm quyền ở Mỹ là những đảng nào?",
+     "Pause! Which two parties took turns governing the US?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Đảng Dân chủ và Đảng Cộng hoà!",
+     "The answer is A: the Democrats and the Republicans!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Hội nghị thành lập NATO ở Thủ đô Oa-sinh-tơn, năm 1949 (như Hình 11.4 SGK, tr. 50)",
+    "tim": "NATO signing ceremony Washington April 1949 photograph",
+    "yeu_cau": "ảnh lưu trữ công khai (Chính phủ Mỹ hoặc NATO, phạm vi công cộng), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: thành lập NATO tại Oa-sinh-tơn (1949)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về đối ngoại, Mỹ triển khai Chiến lược toàn cầu nhằm chống phá các nước xã hội chủ nghĩa, đàn áp phong trào giải phóng dân tộc và thực hiện tham vọng làm bá chủ thế giới.",
+     "Abroad, the US pursued its Global Strategy to undermine socialist countries, suppress national liberation movements and seek world domination."
+    ],
+    [
+     "Hân Hân",
+     "Mỹ lôi kéo các nước nhận viện trợ, lập các khối quân sự như NATO năm 1949, khối SEATO ở Đông Nam Á năm 1954, và thiết lập chính quyền tay sai thân Mỹ ở nhiều nước.",
+     "It drew countries in with aid, formed military blocs like NATO in 1949 and SEATO in Southeast Asia in 1954, and set up pro-US puppet regimes in many countries."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khối quân sự do Mỹ lập ra ở Đông Nam Á năm 1954 là",
+    "lua_chon": [
+     "NATO",
+     "SEATO",
+     "SEV"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Khối quân sự Mỹ lập ra ở Đông Nam Á năm 1954 tên là gì?",
+     "Quick test! What was the military bloc the US set up in Southeast Asia in 1954?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: khối SEATO!",
+     "The answer is B: SEATO!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1969",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: người biểu tình xuống đường phản đối chiến tranh xâm lược Việt Nam, tháng 11 – 1969 (như Hình 11.3 SGK, tr. 49)",
+    "tim": "anti Vietnam War march Washington November 1969 photograph",
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: biểu tình phản chiến ở Mỹ (11 – 1969)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Em có biết? Khi Tổng thống Ních-xơn quyết định leo thang chiến tranh xâm lược Việt Nam năm 1969, làn sóng biểu tình lớn nhất của sinh viên trong lịch sử nước Mỹ đã diễn ra.",
+     "Did you know? When President Nixon escalated the war of aggression in Vietnam in 1969, the biggest wave of student protest in US history followed."
+    ],
+    [
+     "Nhật Minh",
+     "Chỉ trong tháng 5 năm 1970, khoảng 4 triệu người Mỹ tham gia biểu tình phản chiến; lớp học ở hàng trăm trường phải đóng cửa.",
+     "In May 1970 alone, about 4 million Americans joined anti-war protests, and classes closed at hundreds of schools."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "HOÀ HOÃN",
+   "y": [
+    "Từ những năm 70: cải thiện quan hệ với Liên Xô – hạn chế chạy đua vũ trang",
+    "Cải thiện quan hệ với Trung Quốc – chuyến thăm của Tổng thống Ních-xơn",
+    "1989: Mỹ và Liên Xô cùng tuyên bố chấm dứt Chiến tranh lạnh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ những năm 70, Mỹ tìm cách cải thiện quan hệ với Liên Xô bằng việc hạn chế chạy đua vũ trang, và với Trung Quốc qua chuyến thăm của Tổng thống Ních-xơn.",
+     "From the 1970s, the US sought better relations with the USSR by limiting the arms race, and with China through President Nixon's visit."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1989, Mỹ và Liên Xô cùng tuyên bố chấm dứt Chiến tranh lạnh.",
+     "In 1989, the US and the USSR jointly declared the end of the Cold War."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NƯỚC MỸ 1945 – 1991",
+   "moc": [
+    [
+     "1949",
+     "Thành lập NATO"
+    ],
+    [
+     "1954",
+     "Thành lập SEATO"
+    ],
+    [
+     "1969",
+     "Ních-xơn leo thang chiến tranh"
+    ],
+    [
+     "5 – 1970",
+     "Khoảng 4 triệu người biểu tình"
+    ],
+    [
+     "1989",
+     "Chấm dứt Chiến tranh lạnh"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1949, NATO; năm 1954, SEATO.",
+     "Recap! 1949: NATO; 1954: SEATO."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1969, Ních-xơn leo thang chiến tranh; tháng 5 năm 1970, khoảng 4 triệu người Mỹ biểu tình phản chiến. Năm 1989, Chiến tranh lạnh chấm dứt.",
+     "1969: Nixon escalates the war; May 1970: about 4 million Americans protest. 1989: the Cold War ends."
+    ]
+   ],
+   "nguon_trang": [
+    49,
+    50
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong phòng học, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: phong trào phản chiến của người Mỹ cho thấy điều gì về cuộc chiến tranh ở Việt Nam? Bình luận nhé!",
+     "Your challenge: what does the American anti-war movement tell us about the war in Vietnam? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chính sách đối nội của Mỹ (1945 – 1991) nhất quán nhằm mục tiêu",
+   "dap_an": [
+    "Phát triển kinh tế, ổn định xã hội",
+    "Xây dựng chủ nghĩa xã hội",
+    "Thu hẹp quân đội",
+    "Rút khỏi các tổ chức quốc tế"
+   ],
+   "dung": 0,
+   "trang": 49
+  },
+  {
+   "hoi": "Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) được thành lập năm nào?",
+   "dap_an": [
+    "1947",
+    "1949",
+    "1954",
+    "1955"
+   ],
+   "dung": 1,
+   "trang": 50
+  },
+  {
+   "hoi": "Chỉ trong tháng 5 – 1970, khoảng bao nhiêu người Mỹ tham gia biểu tình phản chiến?",
+   "dap_an": [
+    "4 triệu",
+    "1 triệu",
+    "17 triệu",
+    "50 triệu"
+   ],
+   "dung": 0,
+   "trang": 49
+  },
+  {
+   "hoi": "Từ những năm 70, Mỹ cải thiện quan hệ với Trung Quốc thể hiện qua",
+   "dap_an": [
+    "Kế hoạch Mác-san",
+    "Chuyến thăm của Tổng thống Ních-xơn",
+    "Thành lập SEATO",
+    "Học thuyết Mơn-rô"
+   ],
+   "dung": 1,
+   "trang": 50
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 49 (chính trị; hộp 'Em có biết': Ních-xơn 1969, tháng 5 – 1970 khoảng 4 triệu người; Hình 11.3) và tr. 50 (đối ngoại: Chiến lược toàn cầu, NATO 1949, SEATO 1954, những năm 70, 1989; Hình 11.4). Kiến thức chốt của danh mục khớp SGK. SGK viết 'Ních-xơn' – dùng đúng cách viết này (danh mục ghi 'Richard Nixon'). Phân vai: kinh tế Mỹ để dành cho L9-B11-02. Không vẽ bản đồ các khối quân sự (mô phỏng danh mục đề xuất) – thay bằng ảnh tư liệu và trục thời gian.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,324 @@
+{
+ "ma": "L9-CD3-04",
+ "ten_tap": "Tuyến phòng thủ và kho báu đại dương",
+ "ten_tap_en": "Line of Defence and Ocean Treasure",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+  "trang": [
+   234,
+   235
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "chien-si-nha-gian-dk1"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, rộng mở, hào sảng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Mô hình nhà giàn trong cảnh dẫn chuyện là bối cảnh hiện tại; ảnh nhà giàn là ảnh thật có giấy phép; bản đồ định vị vẽ bằng code, vị trí gần đúng. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 3, tr. 234–235.",
+ "chinh_sach_hinh": "Nội dung hiện tại: không vẽ AI người thật cụ thể (chiến sĩ, nhà giàn có thật dùng ảnh có giấy phép, ghi nguồn); bản đồ dựng bằng code, luôn có quần đảo Hoàng Sa, Trường Sa; Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng truyền thống của trường, đứng bên mô hình nhà giàn trên biển (kết cấu thép trên các chân trụ, cờ đỏ sao vàng trên nóc) đặt giữa sa bàn mặt biển xanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là mô hình nhà giàn, giống Nhà giàn DK1-21 trên thềm lục địa phía Nam Tổ quốc mà SGK giới thiệu.",
+     "This is a model of an offshore platform, like the DK1-21 platform on the southern continental shelf shown in the textbook."
+    ],
+    [
+     "Hân Hân",
+     "Vì sao biển đảo vừa là “tuyến phòng thủ”, vừa là “kho báu” của đất nước? Cùng tìm hiểu nhé!",
+     "Why are our seas and islands both a 'line of defence' and a 'treasure' for the nation? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "BIỂN ĐẢO VIỆT NAM",
+   "y": [
+    "Biển đảo: bộ phận lãnh thổ thiêng liêng của Tổ quốc",
+    "Vai trò trọng yếu trong bảo vệ sự toàn vẹn đất nước"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Biển đảo Việt Nam là một bộ phận lãnh thổ thiêng liêng của Tổ quốc, đóng vai trò trọng yếu trong công cuộc bảo vệ sự toàn vẹn đất nước.",
+     "Vietnam's seas and islands are a sacred part of the homeland, vital to protecting the nation's integrity."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "bien-dao-viet-nam",
+   "pha": "tien_tieu",
+   "thoi_luong_toi_thieu": 15,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hệ thống đảo, cụm đảo trải đều trên Biển Đông giúp triển khai phòng thủ, bảo vệ đất liền, kiểm soát vùng biển, vùng trời. Đây là những căn cứ tiền tiêu trên tuyến phòng thủ hướng đông.",
+     "Islands and island clusters spread across the East Sea help deploy defences, protect the mainland and control the sea and airspace. They are forward bases on the eastern line of defence."
+    ],
+    [
+     "Hân Hân",
+     "Một số đảo như Bạch Long Vĩ, Cồn Cỏ, quần đảo Hoàng Sa, Trường Sa có vị trí thuận lợi để đặt trạm thông tin, trạm trung chuyển, tiếp nhiên liệu cho tàu thuyền.",
+     "Islands such as Bạch Long Vĩ and Cồn Cỏ and the Hoàng Sa and Trường Sa archipelagos are well placed for communication stations, transit stations and refuelling ships."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, hệ thống đảo của Việt Nam là những căn cứ tiền tiêu trên tuyến phòng thủ hướng nào?",
+    "lua_chon": [
+     "Hướng đông",
+     "Hướng tây",
+     "Hướng bắc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Các đảo là căn cứ tiền tiêu trên tuyến phòng thủ hướng nào?",
+     "Pause! The islands are forward bases on which line of defence?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: hướng đông!",
+     "The answer is A: the eastern line!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "KHO BÁU ĐẠI DƯƠNG",
+   "y": [
+    "Vùng biển, thềm lục địa rộng lớn: tài nguyên phong phú, đa dạng",
+    "Các đảo án ngữ nhiều trục giao thông huyết mạch trên biển",
+    "Cơ sở nâng cao tiềm lực quốc gia, xây dựng thế trận quốc phòng toàn dân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Vùng biển và thềm lục địa rộng lớn của Việt Nam chứa nguồn tài nguyên thiên nhiên phong phú, đa dạng. Các đảo nằm ở vị trí án ngữ nhiều trục giao thông huyết mạch trên biển.",
+     "Vietnam's vast seas and continental shelf hold rich, varied natural resources. The islands guard many vital sea routes."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là cơ sở để nâng cao tiềm lực quốc gia, bảo vệ chủ quyền biển đảo và xây dựng thế trận quốc phòng toàn dân.",
+     "That is the basis for raising national strength, protecting maritime sovereignty and building an all-people defence."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "CÁC NGÀNH KINH TẾ BIỂN",
+   "y": [
+    "Khai thác, nuôi trồng hải sản",
+    "Du lịch và dịch vụ biển",
+    "Khai thác khoáng sản biển",
+    "Giao thông vận tải biển"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phát triển toàn diện, bền vững các ngành kinh tế biển, như khai thác, nuôi trồng hải sản, du lịch, dịch vụ biển, khai thác khoáng sản biển, giao thông vận tải biển,",
+     "Developing all marine industries comprehensively and sustainably, such as fishing and aquaculture, tourism and marine services, seabed mining and shipping,"
+    ],
+    [
+     "Hân Hân",
+     "là động lực tăng trưởng quan trọng, góp phần khẳng định, bảo vệ chủ quyền của Việt Nam ở Biển Đông.",
+     "is a key growth driver that helps affirm and protect Vietnam's sovereignty in the East Sea."
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Nhà giàn DK1-21 trên thềm lục địa phía Nam Tổ quốc (như Hình 5 SGK, tr. 235)",
+    "tim": "nhà giàn DK1 thềm lục địa phía Nam ảnh",
+    "yeu_cau": "ảnh có giấy phép (cơ quan báo chí hoặc giấy phép mở), ghi nguồn; không vẽ AI chiến sĩ cụ thể"
+   },
+   "hinh": "Nhà giàn DK1-21 trên thềm lục địa phía Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Nhà giàn DK1-21 trên thềm lục địa phía Nam Tổ quốc, giữa biển khơi.",
+     "This is the DK1-21 platform on the southern continental shelf, out on the open sea."
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "MẠNH VỀ BIỂN, GIÀU TỪ BIỂN",
+   "y": [
+    "“Việt Nam phải trở thành quốc gia mạnh về biển, giàu từ biển,",
+    "phát triển bền vững, thịnh vượng, an ninh và an toàn…”",
+    "– Chiến lược kinh tế biển Việt Nam đến năm 2030, tầm nhìn 2045"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến lược kinh tế biển Việt Nam đến năm 2030, tầm nhìn 2045 đặt mục tiêu: Việt Nam phải trở thành quốc gia mạnh về biển, giàu từ biển, phát triển bền vững, thịnh vượng, an ninh và an toàn.",
+     "Vietnam's marine economy strategy to 2030, with a vision to 2045, sets the goal: Vietnam must become a strong maritime nation, rich from the sea, sustainable, prosperous, secure and safe."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Chiến lược kinh tế biển đến năm 2030, Việt Nam phải trở thành quốc gia",
+    "lua_chon": [
+     "Mạnh về biển, giàu từ biển",
+     "Chỉ phát triển nông nghiệp",
+     "Đóng cửa biển"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Theo Chiến lược kinh tế biển, Việt Nam phải trở thành quốc gia như thế nào?",
+     "Quick test! According to the marine economy strategy, what kind of nation must Vietnam become?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: mạnh về biển, giàu từ biển!",
+     "The answer is A: strong at sea and rich from the sea!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình nhà giàn, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nêu một việc làm cụ thể cậu có thể làm để góp phần bảo vệ chủ quyền biển đảo. Bình luận nhé!",
+     "Your challenge: name one concrete thing you can do to help protect our maritime sovereignty. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Biển đảo Việt Nam đóng vai trò gì trong công cuộc bảo vệ đất nước?",
+   "dap_an": [
+    "Trọng yếu trong bảo vệ sự toàn vẹn đất nước",
+    "Không có vai trò",
+    "Chỉ phục vụ du lịch",
+    "Chỉ là ranh giới tự nhiên"
+   ],
+   "dung": 0,
+   "trang": 234
+  },
+  {
+   "hoi": "Đảo nào được SGK nêu là có vị trí thuận lợi để đặt trạm thông tin, trạm trung chuyển?",
+   "dap_an": [
+    "Bạch Long Vĩ, Cồn Cỏ",
+    "Phú Quốc, Côn Đảo",
+    "Cát Bà, Lý Sơn",
+    "Cù Lao Chàm, Hội An"
+   ],
+   "dung": 0,
+   "trang": 234
+  },
+  {
+   "hoi": "Ngành nào KHÔNG được SGK nêu trong các ngành kinh tế biển?",
+   "dap_an": [
+    "Khai thác, nuôi trồng hải sản",
+    "Du lịch và dịch vụ biển",
+    "Khai thác khoáng sản biển",
+    "Trồng cây công nghiệp lâu năm"
+   ],
+   "dung": 3,
+   "trang": 235
+  },
+  {
+   "hoi": "Nhà giàn DK1-21 nằm ở đâu?",
+   "dap_an": [
+    "Trên thềm lục địa phía Nam Tổ quốc",
+    "Trên quần đảo Hoàng Sa",
+    "Ở vịnh Bắc Bộ",
+    "Ở cửa sông Hồng"
+   ],
+   "dung": 0,
+   "trang": 235
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9, Chủ đề 3, tr. 234 (mục 2a tuyến phòng thủ: bộ phận lãnh thổ thiêng liêng, căn cứ tiền tiêu hướng đông, cứu hộ cứu nạn, Bạch Long Vĩ, Cồn Cỏ, Hoàng Sa, Trường Sa; mục 2b tài nguyên, án ngữ giao thông, tiềm lực quốc gia; Tư liệu 3: Chiến lược kinh tế biển đến năm 2030, tầm nhìn 2045 – trích ngắn) và tr. 235 (các ngành kinh tế biển; Hình 5 Nhà giàn DK1-21). Đã chỉnh kiến thức chốt của danh mục: SGK không nêu 'dầu khí' là tài nguyên trong mục này mà nêu 'tài nguyên thiên nhiên phong phú, đa dạng' và ngành 'khai thác khoáng sản biển'; danh mục ghi 'vị trí án ngữ các tuyến đường giao thông huyết mạch' – SGK nói các đảo 'án ngữ nhiều trục giao thông huyết mạch trên biển'. Sa bàn mới 'bien-dao-viet-nam' pha tien_tieu (vị trí gần đúng, có Hoàng Sa, Trường Sa; đã xem khung hình mẫu). Không dựng mô hình 3D nhà giàn bằng AI (mô phỏng danh mục đề xuất) – dùng ảnh thật; không vẽ chiến sĩ cụ thể.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

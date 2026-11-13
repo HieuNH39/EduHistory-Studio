@@ -1,0 +1,400 @@
+{
+ "ma": "L9-B2-01",
+ "ten_tap": "Làn sóng đỏ sau Thế chiến I",
+ "ten_tap_en": "The Red Wave after World War I",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+  "trang": [
+   10,
+   11
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-chau-au",
+  "le-nin",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, dồn dập ở phần bãi công; trang trọng ở phần Quốc tế Cộng sản",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 2, tr. 10–11.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong lớp học ngày nay, đứng trước tấm bản đồ châu Âu treo trên bảng; trên bàn có tờ lịch mở ở ngày 1 tháng 5 và cuốn SGK Lịch sử 9",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh thế giới thứ nhất vừa kết thúc, châu Âu lại dậy sóng: công nhân nhiều nước đồng loạt bãi công, khởi nghĩa.",
+     "The First World War had just ended, yet Europe was in turmoil again: workers in many countries went on strike and rose up."
+    ],
+    [
+     "Hân Hân",
+     "Vì sao lại có “làn sóng đỏ” ấy, và Quốc tế Cộng sản ra đời thế nào? Cùng tìm hiểu nhé!",
+     "Why did this 'red wave' happen, and how was the Communist International born? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1918",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "VÌ SAO BÙNG NỔ?",
+   "y": [
+    "Hậu quả nặng nề của Chiến tranh thế giới thứ nhất",
+    "Tác động của Cách mạng tháng Mười Nga năm 1917",
+    "1918 – 1923: phong trào cách mạng bùng nổ ở hầu khắp các nước tư bản châu Âu"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Do hậu quả nặng nề của Chiến tranh thế giới thứ nhất và tác động của Cách mạng tháng Mười Nga năm 1917,",
+     "Because of the heavy toll of the First World War and the impact of Russia's October Revolution of 1917,"
+    ],
+    [
+     "Hân Hân",
+     "trong những năm 1918 – 1923, một phong trào cách mạng đã bùng nổ ở hầu khắp các nước tư bản châu Âu.",
+     "between 1918 and 1923 a revolutionary movement broke out in almost every capitalist country in Europe."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: nhân dân tập trung trước toà nhà Rây-xtác (Đức) trong buổi tuyên bố thành lập chính phủ mới, năm 1918 (như Hình 2.3 SGK, tr. 10)",
+    "tim": "crowd Reichstag Berlin November 1918 revolution photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: trước toà nhà Rây-xtác, Béc-lin (1918)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Đức, ngày 9 tháng 11 năm 1918, công nhân và các tầng lớp nhân dân Béc-lin tổng bãi công, rồi chuyển thành khởi nghĩa vũ trang, có cả binh lính tham gia, lật đổ chế độ quân chủ.",
+     "In Germany, on 9 November 1918, the workers and people of Berlin held a general strike that became an armed uprising, joined by soldiers, and overthrew the monarchy."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng chính quyền lại rơi vào tay giai cấp tư sản, chế độ cộng hoà tư sản được thiết lập. Phong trào còn tiếp diễn đến năm 1923, nhưng thất bại.",
+     "But power fell to the bourgeoisie and a bourgeois republic was set up. The movement went on until 1923, but failed."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày 9 – 11 – 1918, cuộc khởi nghĩa ở Béc-lin đã lật đổ",
+    "lua_chon": [
+     "Chế độ quân chủ",
+     "Chế độ cộng hoà tư sản",
+     "Chính quyền Xô viết"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ngày 9 tháng 11 năm 1918, cuộc khởi nghĩa ở Béc-lin đã lật đổ chế độ nào?",
+     "Pause! On 9 November 1918, which regime did the Berlin uprising overthrow?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: chế độ quân chủ!",
+     "The answer is A: the monarchy!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "LÀN SÓNG LAN RỘNG",
+   "y": [
+    "Anh (1919 – 1921): tới 6,5 triệu người bãi công, đòi cả kinh tế lẫn chính trị",
+    "Pháp (1 – 5 – 1920): tổng bãi công lớn nhất, hơn 1 triệu người, suốt một tuần lễ",
+    "I-ta-li-a (1919): hơn 1 600 cuộc bãi công, hơn 1 triệu người",
+    "I-ta-li-a (1920): chiếm công xưởng, lập “Đội cận vệ đỏ”"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Anh, từ năm 1919 đến năm 1921, có tới 6,5 triệu người bãi công. Công nhân đưa ra cả yêu sách kinh tế lẫn yêu sách chính trị.",
+     "In Britain, from 1919 to 1921, up to 6.5 million people went on strike, with both economic and political demands."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Pháp, cuộc tổng bãi công lớn nhất nổ ra nhân ngày Quốc tế Lao động, mùng 1 tháng 5 năm 1920, lôi cuốn hơn 1 triệu người và kéo dài suốt một tuần lễ.",
+     "In France, the largest general strike broke out on International Workers' Day, 1 May 1920, drawing over a million people and lasting a whole week."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở I-ta-li-a, riêng năm 1919 đã có hơn 1 600 cuộc bãi công. Năm 1920, công nhân chiếm công xưởng, lập các “Đội cận vệ đỏ” để bảo vệ công xưởng.",
+     "In Italy, 1919 alone saw over 1,600 strikes. In 1920, workers occupied factories and formed 'Red Guards' to defend them."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NHIỀU ĐẢNG CỘNG SẢN RA ĐỜI",
+   "moc": [
+    [
+     "1918",
+     "Đảng Cộng sản Hung-ga-ri"
+    ],
+    [
+     "12 – 1918",
+     "Đảng Cộng sản Đức"
+    ],
+    [
+     "1920",
+     "Đảng Cộng sản Pháp"
+    ],
+    [
+     "1920",
+     "Đảng Cộng sản Anh"
+    ],
+    [
+     "1921",
+     "Đảng Cộng sản I-ta-li-a"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Qua phong trào, nhiều Đảng Cộng sản được thành lập: Đảng Cộng sản Hung-ga-ri và Đảng Cộng sản Đức năm 1918,",
+     "Through the movement, many communist parties were founded: the Hungarian and German parties in 1918,"
+    ],
+    [
+     "Hân Hân",
+     "Đảng Cộng sản Pháp và Đảng Cộng sản Anh năm 1920, Đảng Cộng sản I-ta-li-a năm 1921.",
+     "the French and British parties in 1920, and the Italian party in 1921."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1919",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "QUỐC TẾ CỘNG SẢN RA ĐỜI",
+   "y": [
+    "Tháng 3 – 1919, thành lập ở Mát-xcơ-va",
+    "Nhờ hoạt động tích cực của V. I. Lê-nin và Đảng Bôn-sê-vích Nga",
+    "Còn gọi là Quốc tế thứ ba",
+    "1919 – 1943: tiến hành 7 kì đại hội"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 3 năm 1919, với những hoạt động tích cực của V. I. Lê-nin và Đảng Bôn-sê-vích Nga, Quốc tế Cộng sản được thành lập ở Mát-xcơ-va.",
+     "In March 1919, through the efforts of V. I. Lenin and Russia's Bolshevik Party, the Communist International was founded in Moscow."
+    ],
+    [
+     "Nhật Minh",
+     "Tổ chức này còn gọi là Quốc tế thứ ba. Từ năm 1919 đến năm 1943, Quốc tế Cộng sản tiến hành 7 kì đại hội.",
+     "It was also called the Third International. From 1919 to 1943, it held 7 congresses."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "DẤU ẤN VỚI VIỆT NAM",
+   "y": [
+    "Đại hội II (1920): thông qua Luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lê-nin",
+    "Khẩu hiệu: “Vô sản toàn thế giới và các dân tộc bị áp bức đoàn kết lại”",
+    "Nguyễn Ái Quốc tìm thấy ở Luận cương con đường cứu nước",
+    "1943: Quốc tế Cộng sản tuyên bố tự giải tán"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tại Đại hội lần thứ hai, năm 1920, Quốc tế Cộng sản thông qua Luận cương về vấn đề dân tộc và vấn đề thuộc địa do Lê-nin dự thảo, với khẩu hiệu: “Vô sản toàn thế giới và các dân tộc bị áp bức đoàn kết lại”.",
+     "At its Second Congress in 1920, the Comintern adopted Lenin's Theses on the National and Colonial Questions, with the slogan: 'Workers of the world and oppressed peoples, unite!'"
+    ],
+    [
+     "Hân Hân",
+     "Chính ở Luận cương này, Nguyễn Ái Quốc đã tìm thấy con đường cứu nước, giải phóng dân tộc cho nhân dân Việt Nam.",
+     "In these Theses, Nguyễn Ái Quốc found the path to save the nation and liberate the Vietnamese people."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1943, Quốc tế Cộng sản tuyên bố tự giải tán.",
+     "In 1943, the Comintern declared itself dissolved."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quốc tế Cộng sản được thành lập ở đâu?",
+    "lua_chon": [
+     "Pa-ri",
+     "Béc-lin",
+     "Mát-xcơ-va"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Quốc tế Cộng sản được thành lập ở đâu?",
+     "Quick test! Where was the Communist International founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Mát-xcơ-va, tháng 3 năm 1919!",
+     "The answer is C: Moscow, in March 1919!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước tấm bản đồ châu Âu trong lớp, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao Luận cương của Lê-nin lại quan trọng với cách mạng Việt Nam? Trả lời ở phần bình luận nhé!",
+     "Your challenge: why were Lenin's Theses so important for the Vietnamese revolution? Answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào cách mạng ở các nước tư bản châu Âu bùng nổ trong những năm nào?",
+   "dap_an": [
+    "1914 – 1918",
+    "1918 – 1923",
+    "1929 – 1933",
+    "1939 – 1945"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Cuộc tổng bãi công lớn nhất ở Pháp nổ ra nhân ngày Quốc tế Lao động năm nào?",
+   "dap_an": [
+    "1918",
+    "1919",
+    "1920",
+    "1921"
+   ],
+   "dung": 2,
+   "trang": 11
+  },
+  {
+   "hoi": "Quốc tế Cộng sản còn được gọi là",
+   "dap_an": [
+    "Quốc tế thứ nhất",
+    "Quốc tế thứ hai",
+    "Quốc tế thứ ba",
+    "Hội Quốc liên"
+   ],
+   "dung": 2,
+   "trang": 11
+  },
+  {
+   "hoi": "Văn kiện nào giúp Nguyễn Ái Quốc tìm thấy con đường cứu nước?",
+   "dap_an": [
+    "Hoà ước Véc-xai",
+    "Luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lê-nin",
+    "Tuyên ngôn Độc lập của Mỹ",
+    "Chính sách mới của Ru-dơ-ven"
+   ],
+   "dung": 1,
+   "trang": 11
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 10–11 và ảnh trang 11 (khung số liệu Anh, Pháp và hộp 'Em có biết' về I-ta-li-a bị OCR lẫn cột, đã đọc lại từ ảnh: 6,5 triệu; 1 – 5 – 1920; hơn 1 600 cuộc, hơn 1 triệu người; 'Đội cận vệ đỏ'). Hình 2.3 (tr. 10). Kiến thức chốt của danh mục khớp SGK (danh mục ghi Đảng Cộng sản Đức, Pháp, Anh, I-ta-li-a; SGK còn có Hung-ga-ri 1918 – đã bổ sung). Không vẽ bản đồ châu Âu (không có lược đồ trong SGK) – thay bằng thẻ ghi nhớ và trục thời gian. Không dùng chân dung Lê-nin (theo cách làm ở L9-B1-01); Lê-nin và Nguyễn Ái Quốc chỉ được nhắc tên.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

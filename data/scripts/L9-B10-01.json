@@ -1,0 +1,389 @@
+{
+ "ma": "L9-B10-01",
+ "ten_tap": "Liên Xô: Từ cường quốc đến khủng hoảng",
+ "ten_tap_en": "The USSR: From Superpower to Crisis",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 10. Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   44,
+   45,
+   46
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "i-u-ri-ga-ga-rin",
+  "cong-nhan-lien-xo"
+ ],
+ "nhac": {
+  "tam_trang": "hào hứng, bay bổng ở phần vũ trụ; trầm xuống ở phần trì trệ",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 10, tr. 44–46.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code, bản đồ thế giới không vẽ biên giới quốc gia. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) trong phòng thiên văn nhỏ của trường; trên bàn có mô hình tên lửa và mô hình vệ tinh nhân tạo; màn hình phía sau chiếu ảnh Trái Đất nhìn từ vũ trụ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1961, con tàu vũ trụ Phương Đông đã đưa I-u-ri Ga-ga-rin trở thành người đầu tiên bay vào vũ trụ.",
+     "In 1961, the spacecraft Vostok 1 made Yuri Gagarin the first person to fly into space."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là thành tựu của Liên Xô, một cường quốc vừa đi qua chiến tranh. Nhưng rồi Liên Xô cũng lâm vào khủng hoảng. Cùng xem nhé!",
+     "It was the achievement of the Soviet Union, a power just emerging from war. But later the USSR fell into crisis. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1946",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "KHÔI PHỤC KINH TẾ",
+   "y": [
+    "1946: bắt tay khôi phục kinh tế",
+    "Kế hoạch 5 năm (1946 – 1950): công nghiệp tăng 73% so với trước chiến tranh",
+    "Hơn 6 000 nhà máy được khôi phục, xây mới",
+    "1950: phục hồi mức trước chiến tranh"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1946, Liên Xô bắt tay khôi phục kinh tế. Thực hiện kế hoạch 5 năm 1946 – 1950, công nghiệp tăng 73% so với trước chiến tranh, hơn 6 000 nhà máy được khôi phục và xây mới.",
+     "In 1946, the USSR set about rebuilding its economy. Under the 1946–1950 five-year plan, industry grew 73% over its pre-war level, and over 6,000 factories were restored or built."
+    ],
+    [
+     "Hân Hân",
+     "Đến năm 1950, kinh tế đã phục hồi mức trước chiến tranh.",
+     "By 1950, the economy was back to its pre-war level."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: thành phố Mát-xcơ-va những năm 50 của thế kỉ XX (như Hình 10.4 SGK, tr. 45)",
+    "tim": "Moscow 1950s city photograph",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Mát-xcơ-va những năm 50 của thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Liên Xô tiếp tục xây dựng cơ sở vật chất cho chủ nghĩa xã hội. Đến những năm 60, Liên Xô trở thành cường quốc công nghiệp thứ hai thế giới, sau Mỹ.",
+     "The USSR went on building socialism's material base. By the 1960s it was the world's second industrial power, after the US."
+    ],
+    [
+     "Nhật Minh",
+     "Sản lượng công nghiệp Liên Xô chiếm khoảng 20% sản lượng công nghiệp thế giới; nông nghiệp những năm 60 tăng trung bình 16% mỗi năm.",
+     "Soviet industry made up about 20% of world industrial output; in the 1960s, farm output grew by 16% a year on average."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến những năm 60 của thế kỉ XX, Liên Xô trở thành",
+    "lua_chon": [
+     "Cường quốc công nghiệp thứ nhất thế giới",
+     "Cường quốc công nghiệp thứ hai thế giới, sau Mỹ",
+     "Nước nông nghiệp lạc hậu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đến những năm 60, Liên Xô có vị trí thế nào trong công nghiệp thế giới?",
+     "Pause! By the 1960s, where did the USSR rank in world industry?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: cường quốc công nghiệp thứ hai thế giới, sau Mỹ!",
+     "The answer is B: the world's second industrial power, after the US!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: tàu vũ trụ Phương Đông (Vostok 1) được phóng thành công năm 1961, đưa I-u-ri Ga-ga-rin – người đầu tiên bay vào vũ trụ (như Hình 10.2 SGK, tr. 44)",
+    "tim": "Vostok 1 1961 Gagarin archive photograph",
+    "yeu_cau": "ảnh tư liệu công khai (lưu trữ Liên Xô/Nga, phạm vi công cộng hoặc giấy phép mở), ghi nguồn; không vẽ AI"
+   },
+   "hinh": "Ảnh tư liệu: tàu vũ trụ Phương Đông (1961)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Liên Xô là nước đầu tiên phóng thành công vệ tinh nhân tạo, năm 1957,",
+     "The USSR was the first country to launch an artificial satellite, in 1957,"
+    ],
+    [
+     "Nhật Minh",
+     "và phóng tàu vũ trụ có người lái vào quỹ đạo Trái Đất, năm 1961, mở đầu kỉ nguyên chinh phục vũ trụ của loài người.",
+     "and to put a crewed spacecraft into Earth orbit, in 1961, opening humanity's era of space exploration."
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Liên Xô phóng thành công vệ tinh nhân tạo đầu tiên của thế giới vào năm nào?",
+    "lua_chon": [
+     "1945",
+     "1957",
+     "1961"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Liên Xô phóng vệ tinh nhân tạo đầu tiên năm nào?",
+     "Quick test! When did the USSR launch the first artificial satellite?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 1957! Còn năm 1961 là chuyến bay có người lái.",
+     "The answer is B: 1957! 1961 was the first crewed flight."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "XÃ HỘI VÀ VĂN HOÁ",
+   "y": [
+    "Năm 1971: công nhân chiếm hơn 55% lực lượng lao động",
+    "Trên 30 triệu người làm việc trí óc",
+    "Giáo dục miễn phí",
+    "Năm 1971: 3/4 số dân có trình độ đại học và trung học"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xã hội Liên Xô có những biến đổi tích cực. Năm 1971, công nhân chiếm hơn 55% lực lượng lao động, có trên 30 triệu người làm việc trí óc.",
+     "Soviet society changed for the better. In 1971, workers made up over 55% of the labour force, and over 30 million did intellectual work."
+    ],
+    [
+     "Nhật Minh",
+     "Liên Xô thực hiện giáo dục miễn phí. Năm 1971, ba phần tư số dân có trình độ đại học và trung học.",
+     "Education was free. In 1971, three-quarters of the population had secondary or higher education."
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1975",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "DẤU HIỆU KHỦNG HOẢNG",
+   "y": [
+    "Giữa những năm 70: kinh tế có dấu hiệu trì trệ",
+    "Cuối những năm 70: đời sống nhân dân suy giảm",
+    "Đầu những năm 80: khủng hoảng chính trị"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng từ giữa những năm 70, nền kinh tế Liên Xô có dấu hiệu trì trệ. Từ cuối những năm 70, đời sống nhân dân suy giảm.",
+     "But from the mid-1970s the Soviet economy began to stagnate. From the late 1970s, living standards fell."
+    ],
+    [
+     "Hân Hân",
+     "Tới đầu những năm 80, Liên Xô lâm vào khủng hoảng chính trị.",
+     "By the early 1980s, the USSR was in political crisis."
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · LIÊN XÔ 1946 – 1980",
+   "moc": [
+    [
+     "1946 – 1950",
+     "Khôi phục kinh tế"
+    ],
+    [
+     "1957",
+     "Vệ tinh nhân tạo đầu tiên"
+    ],
+    [
+     "1961",
+     "Người đầu tiên bay vào vũ trụ"
+    ],
+    [
+     "Những năm 60",
+     "Cường quốc công nghiệp thứ hai"
+    ],
+    [
+     "Giữa những năm 70",
+     "Kinh tế trì trệ"
+    ],
+    [
+     "Đầu những năm 80",
+     "Khủng hoảng chính trị"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! 1946 – 1950: khôi phục kinh tế. Năm 1957: vệ tinh nhân tạo; năm 1961: người đầu tiên bay vào vũ trụ.",
+     "Recap! 1946–1950: recovery. 1957: the satellite; 1961: the first human in space."
+    ],
+    [
+     "Nhật Minh",
+     "Những năm 60: cường quốc công nghiệp thứ hai. Rồi giữa những năm 70: trì trệ, và đầu những năm 80: khủng hoảng.",
+     "1960s: second industrial power. Then the mid-1970s: stagnation; and the early 1980s: crisis."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình tên lửa, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thành tựu nào của Liên Xô sau năm 1945 khiến cậu ấn tượng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which Soviet achievement after 1945 impresses you most, and why? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thực hiện kế hoạch 5 năm (1946 – 1950), công nghiệp Liên Xô tăng bao nhiêu so với mức trước chiến tranh?",
+   "dap_an": [
+    "20%",
+    "55%",
+    "73%",
+    "16%"
+   ],
+   "dung": 2,
+   "trang": 45
+  },
+  {
+   "hoi": "Người đầu tiên bay vào vũ trụ (1961) là",
+   "dap_an": [
+    "I-u-ri Ga-ga-rin",
+    "M. Goóc-ba-chốp",
+    "Tơ-ru-man",
+    "Lê-nin"
+   ],
+   "dung": 0,
+   "trang": 44
+  },
+  {
+   "hoi": "Sản lượng công nghiệp của Liên Xô (qua các kế hoạch 1951 – 1965) chiếm khoảng bao nhiêu sản lượng công nghiệp thế giới?",
+   "dap_an": [
+    "10%",
+    "20%",
+    "48%",
+    "73%"
+   ],
+   "dung": 1,
+   "trang": 45
+  },
+  {
+   "hoi": "Nền kinh tế Liên Xô có dấu hiệu trì trệ từ khi nào?",
+   "dap_an": [
+    "Năm 1950",
+    "Những năm 60",
+    "Giữa những năm 70",
+    "Năm 1991"
+   ],
+   "dung": 2,
+   "trang": 45
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 44 (Hình 10.2: Phương Đông/Vostok 1, 1961, Ga-ga-rin), tr. 45 (mục 1b kinh tế: 1946, 1950, 73%, hơn 6 000 nhà máy, khoảng 20%, 16%/năm, những năm 60, 1957, 1961, giữa những năm 70; mục 1a: đầu những năm 80; Hình 10.4), tr. 46 (xã hội, văn hoá: 1971, hơn 55%, trên 30 triệu, giáo dục miễn phí, Tư liệu 1: 3/4 số dân). Đã chỉnh kiến thức chốt: SGK nói kinh tế 'có dấu hiệu trì trệ' từ giữa những năm 70 và khủng hoảng chính trị từ đầu những năm 80 (danh mục ghi chung 'khủng hoảng bắt đầu từ giữa những năm 70'). Lời dẫn 'ba phần tư' ứng với '3/4' trong Tư liệu 1. Không có số liệu năm để dựng 'bản đồ nhiệt' (mô phỏng danh mục đề xuất) – thay bằng thẻ ghi nhớ và trục thời gian. Phân vai: cải tổ và tan rã ở L9-B10-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,328 @@
+{
+ "ma": "L9-CD2-01",
+ "ten_tap": "Văn hóa sông Hồng: Cái nôi di sản",
+ "ten_tap_en": "Red River Culture: A Cradle of Heritage",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+  "trang": [
+   225,
+   226
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nghe-nhan-gom-bat-trang",
+  "nghe-nhan-duc-dong-dai-bai",
+  "lien-anh-lien-chi-quan-ho"
+ ],
+ "nhac": {
+  "tam_trang": "dân gian, ấm áp, thanh bình",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh nghệ nhân, buổi hát Quan họ là minh hoạ ở hiện tại, không phải người thật cụ thể; ảnh di tích là ảnh thật có giấy phép. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 2, tr. 225–226.",
+ "chinh_sach_hinh": "Nội dung hiện tại: cảnh dẫn chuyện của Minh – Hân và các nghệ nhân dựng hình minh hoạ (không vẽ người thật cụ thể, không gắn tên); ảnh di tích, địa điểm dùng ảnh thật có giấy phép, ghi nguồn; thẻ chữ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Đoan Môn trong Khu di tích Hoàng thành Thăng Long (Hà Nội) ngày nay, nắng sớm, cây cổ thụ, cổng đá cổ kính",
+   "loi": [
+    [
+     "Hân Hân",
+     "Châu thổ sông Hồng là một trong những cái nôi của nền văn minh lúa nước.",
+     "The Red River Delta is one of the cradles of wet-rice civilisation."
+    ],
+    [
+     "Nhật Minh",
+     "Dấu ấn của nền văn minh ấy được lưu giữ qua nhiều thế hệ, trở thành những di sản văn hoá. Cùng khám phá nhé!",
+     "Its marks have been handed down through generations and become cultural heritage. Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    225
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh: Đoan Môn trong Khu di tích Hoàng thành Thăng Long, Hà Nội (như Hình 1 SGK, tr. 225)",
+    "tim": "Đoan Môn Hoàng thành Thăng Long ảnh",
+    "yeu_cau": "ảnh di tích có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Đoan Môn – Hoàng thành Thăng Long (Hà Nội)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các di sản văn hoá vật thể ở châu thổ sông Hồng gắn liền với công cuộc dựng nước và giữ nước của dân tộc,",
+     "The Red River Delta's tangible heritage is bound up with the nation's building and defence,"
+    ],
+    [
+     "Hân Hân",
+     "như Thành Cổ Loa, Cố đô Hoa Lư, Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám.",
+     "such as Cổ Loa Citadel, the ancient capital Hoa Lư, Thăng Long Imperial Citadel and the Temple of Literature."
+    ]
+   ],
+   "nguon_trang": [
+    225
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "DI SẢN VẬT THỂ",
+   "y": [
+    "Thành Cổ Loa",
+    "Cố đô Hoa Lư",
+    "Hoàng thành Thăng Long",
+    "Văn Miếu – Quốc Tử Giám"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ bốn di sản vật thể tiêu biểu: Cổ Loa, Hoa Lư, Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám.",
+     "Remember four landmark tangible heritage sites: Cổ Loa, Hoa Lư, Thăng Long Citadel and the Temple of Literature."
+    ]
+   ],
+   "nguon_trang": [
+    225
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Di sản văn hoá vật thể nào thuộc châu thổ sông Hồng?",
+    "lua_chon": [
+     "Văn Miếu – Quốc Tử Giám",
+     "Chợ nổi Cái Răng",
+     "Miếu Bà Chúa Xứ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Di sản vật thể nào thuộc châu thổ sông Hồng?",
+     "Pause! Which tangible heritage site belongs to the Red River Delta?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Văn Miếu – Quốc Tử Giám! Hai phương án kia thuộc châu thổ sông Cửu Long.",
+     "The answer is A: the Temple of Literature! The other two belong to the Mekong Delta."
+    ]
+   ],
+   "nguon_trang": [
+    225
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trong một xưởng gốm ở làng Bát Tràng (Hà Nội) ngày nay; một nghệ nhân (nhân vật minh hoạ, không phải người thật cụ thể) đang vuốt bình gốm trên bàn xoay; kệ đầy gốm men lam",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Di sản phi vật thể ở đây rất phong phú. Có những nghề thủ công truyền thống như gốm Bát Tràng ở Hà Nội,",
+     "The intangible heritage here is very rich. There are traditional crafts like Bát Tràng pottery in Hà Nội,"
+    ],
+    [
+     "Hân Hân",
+     "đúc đồng Đại Bái ở Bắc Ninh, thêu ren Văn Lâm ở Ninh Bình.",
+     "Đại Bái bronze casting in Bắc Ninh and Văn Lâm embroidery and lace in Ninh Bình."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "DI SẢN PHI VẬT THỂ",
+   "y": [
+    "Ẩm thực: món ăn truyền thống gắn với đồng ruộng, lúa gạo",
+    "Lễ hội: hội Lim, lễ hội chùa Hương, hội Gióng…",
+    "Nghệ thuật: dân ca Quan họ Bắc Ninh, Ca trù…",
+    "Văn học dân gian: ca dao, tục ngữ, truyền thuyết"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn hoá ẩm thực có các món ăn truyền thống gắn với đồng ruộng, lúa gạo. Có các lễ hội độc đáo như hội Lim, lễ hội chùa Hương, hội Gióng.",
+     "Food culture features traditional dishes tied to rice fields. There are unique festivals like the Lim festival, the Perfume Pagoda festival and the Gióng festival."
+    ],
+    [
+     "Nhật Minh",
+     "Có những loại hình nghệ thuật dân gian như dân ca Quan họ Bắc Ninh, nghệ thuật Ca trù; và kho tàng ca dao, tục ngữ, truyền thuyết.",
+     "There are folk arts like Bắc Ninh Quan họ singing and Ca trù, and a treasury of folk verses, proverbs and legends."
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân ngồi xem một buổi hát Quan họ trên thuyền giữa ao làng ngày nay (liền anh áo the khăn xếp, liền chị áo mớ ba mớ bảy, nón quai thao – nhân vật minh hoạ, không phải người thật cụ thể)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn hoá châu thổ sông Hồng còn thể hiện rõ qua nếp sống của cộng đồng dân cư.",
+     "Red River Delta culture also shows clearly in the way its communities live."
+    ],
+    [
+     "Nhật Minh",
+     "Mỗi câu hát, mỗi lễ hội là một sợi dây nối các thế hệ với nhau!",
+     "Every song and every festival is a thread linking the generations!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, nghề đúc đồng Đại Bái thuộc tỉnh nào?",
+    "lua_chon": [
+     "Bắc Ninh",
+     "Hà Nội",
+     "Ninh Bình"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Theo SGK, nghề đúc đồng Đại Bái thuộc tỉnh nào?",
+     "Quick test! According to the textbook, which province is Đại Bái bronze casting in?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tỉnh Bắc Ninh!",
+     "The answer is A: Bắc Ninh province!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "GHI NHỚ · VĂN HOÁ CHÂU THỔ SÔNG HỒNG",
+   "y": [
+    "Vật thể: Cổ Loa, Hoa Lư, Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám",
+    "Nghề: gốm Bát Tràng, đúc đồng Đại Bái, thêu ren Văn Lâm",
+    "Lễ hội: hội Lim, chùa Hương, hội Gióng",
+    "Nghệ thuật: Quan họ Bắc Ninh, Ca trù"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: di sản vật thể gắn với dựng nước và giữ nước; di sản phi vật thể gồm nghề thủ công, lễ hội, nghệ thuật dân gian.",
+     "Remember: tangible heritage is tied to building and defending the nation; intangible heritage includes crafts, festivals and folk arts."
+    ]
+   ],
+   "nguon_trang": [
+    225,
+    226
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân trước cổng Văn Miếu – Quốc Tử Giám ngày nay, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: quê cậu có di sản văn hoá nào? Giới thiệu ngắn ở phần bình luận nhé!",
+     "Your challenge: what cultural heritage does your hometown have? Introduce it briefly in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    226
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Châu thổ sông Hồng là một trong những cái nôi của nền văn minh nào?",
+   "dap_an": [
+    "Văn minh lúa nước",
+    "Văn minh du mục",
+    "Văn minh sa mạc",
+    "Văn minh công nghiệp"
+   ],
+   "dung": 0,
+   "trang": 225
+  },
+  {
+   "hoi": "Nghề thủ công truyền thống nào thuộc châu thổ sông Hồng?",
+   "dap_an": [
+    "Gốm Bát Tràng",
+    "Làm đường thốt nốt",
+    "Đóng ghe xuồng ở Cần Thơ",
+    "Làm bột gạo Sa Đéc"
+   ],
+   "dung": 0,
+   "trang": 226
+  },
+  {
+   "hoi": "Lễ hội nào thuộc châu thổ sông Hồng?",
+   "dap_an": [
+    "Hội Lim",
+    "Lễ hội Nghinh Ông",
+    "Lễ hội Đua ghe Ngo",
+    "Lễ hội Chôl Chnăm Thmây"
+   ],
+   "dung": 0,
+   "trang": 226
+  },
+  {
+   "hoi": "Loại hình nghệ thuật dân gian nào của châu thổ sông Hồng được SGK nêu?",
+   "dap_an": [
+    "Dân ca Quan họ Bắc Ninh, Ca trù",
+    "Đờn ca tài tử Nam Bộ",
+    "Hát bội",
+    "Cải lương"
+   ],
+   "dung": 0,
+   "trang": 226
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR và ảnh trang SGK LSĐL 9, Chủ đề 2, tr. 225 (cái nôi văn minh lúa nước; di sản vật thể; Hình 1) và tr. 226 (di sản phi vật thể: ẩm thực; gốm Bát Tràng (Hà Nội), đúc đồng Đại Bái (Bắc Ninh), thêu ren Văn Lâm (Ninh Bình); hội Lim, chùa Hương, hội Gióng; Quan họ Bắc Ninh, Ca trù; nếp sống, văn học dân gian – đọc lại từ ảnh trang). Đã chỉnh kiến thức chốt của danh mục: bổ sung Cố đô Hoa Lư (SGK có); SGK không nêu danh hiệu UNESCO cho Quan họ, Ca trù nên lời dẫn không nhắc. Tên tỉnh theo SGK hiện hành. Nghệ nhân, liền anh liền chị là nhân vật minh hoạ ở hiện tại, không phải người thật cụ thể. Không dựng bản đồ 3D di tích (mô phỏng danh mục đề xuất).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

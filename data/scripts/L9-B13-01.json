@@ -1,0 +1,200 @@
+{
+ "ma": "L9-B13-01",
+ "ten_tap": "Việt Nam 1945: 'Ngàn cân treo sợi tóc'",
+ "ten_tap_en": "Vietnam 1945: Hanging by a Thread",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+  "trang": [
+   61,
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-doi-trung-hoa-dan-quoc",
+  "thuc-dan-phap",
+  "ho-chi-minh"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, dồn dập, khép lại bằng câu hỏi mở",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ dựng bằng code theo SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 13, tr. 61, 63, 64.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (đồng phục FPT) trên quảng trường Ba Đình (Hà Nội) ngày nay, thảm cỏ xanh, cột cờ với lá cờ đỏ sao vàng tung bay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 2 tháng 9 năm 1945, nước Việt Nam Dân chủ Cộng hoà ra đời. Nhưng ngay sau đó, vận mệnh đất nước như ngàn cân treo sợi tóc!",
+     "On 2 September 1945, the Democratic Republic of Vietnam was born. But right away, the nation's fate hung by a thread!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "THÙ NGOÀI",
+   "y": [
+    "Bắc vĩ tuyến 16: quân Trung Hoa Dân quốc kéo vào, danh nghĩa Đồng minh",
+    "Theo sau: Việt Quốc, Việt Cách chống phá chính quyền",
+    "Nam vĩ tuyến 16: quân Anh mở đường cho thực dân Pháp quay lại xâm lược"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ vĩ tuyến 16 trở ra Bắc, quân Trung Hoa Dân quốc kéo vào, theo sau là các đảng phái tay sai chống phá chính quyền.",
+     "North of the 16th parallel, Chinese Nationalist troops marched in, followed by puppet parties that attacked the new government."
+    ],
+    [
+     "Hân Hân",
+     "Từ vĩ tuyến 16 trở vào Nam, quân Anh mở đường cho thực dân Pháp quay lại xâm lược.",
+     "South of the 16th parallel, British troops paved the way for the French to return and invade."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "KHÓ KHĂN BÊN TRONG",
+   "y": [
+    "Chính quyền non trẻ, lực lượng vũ trang mới thành lập",
+    "Nạn đói mới đe doạ đời sống nhân dân",
+    "Ngân khố quốc gia trống rỗng",
+    "Hơn 90% dân số không biết chữ"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bên trong, chính quyền còn non trẻ, nạn đói mới đe doạ, ngân khố quốc gia trống rỗng, hơn 90% dân số không biết chữ.",
+     "At home, the government was young, a new famine loomed, the treasury was empty, and over 90% of people could not read."
+    ]
+   ],
+   "nguon_trang": [
+    61,
+    63,
+    64
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ vĩ tuyến 16 trở vào Nam, quân đội nào mở đường cho thực dân Pháp quay lại?",
+    "lua_chon": [
+     "Quân Anh",
+     "Quân Trung Hoa Dân quốc",
+     "Quân Nhật"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ở phía nam vĩ tuyến 16, quân nào mở đường cho Pháp quay lại?",
+     "Pause! South of the 16th parallel, whose troops paved the way for the French?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: quân Anh!",
+     "The answer is A: the British!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn thẳng về phía người xem trên quảng trường; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính quyền cách mạng đã vượt qua những thử thách ấy thế nào? Đoán thử ở phần bình luận nhé!",
+     "How did the revolutionary government overcome these trials? Make your guess in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ vĩ tuyến 16 trở ra Bắc, quân đội nào kéo vào Việt Nam với danh nghĩa Đồng minh?",
+   "dap_an": [
+    "Quân Anh",
+    "Quân Trung Hoa Dân quốc",
+    "Quân Pháp",
+    "Quân Mỹ"
+   ],
+   "dung": 1,
+   "trang": 61
+  },
+  {
+   "hoi": "Sau Cách mạng tháng Tám, tỉ lệ dân số không biết chữ là",
+   "dap_an": [
+    "Khoảng 50%",
+    "Hơn 90%",
+    "Khoảng 30%",
+    "Khoảng 70%"
+   ],
+   "dung": 1,
+   "trang": 64
+  },
+  {
+   "hoi": "Tình trạng ngân khố quốc gia sau Cách mạng tháng Tám là",
+   "dap_an": [
+    "Dồi dào",
+    "Trống rỗng",
+    "Ổn định",
+    "Thặng dư"
+   ],
+   "dung": 1,
+   "trang": 63
+  },
+  {
+   "hoi": "Nước Việt Nam Dân chủ Cộng hoà được thành lập ngày",
+   "dap_an": [
+    "19 – 8 – 1945",
+    "2 – 9 – 1945",
+    "6 – 1 – 1946",
+    "19 – 12 – 1946"
+   ],
+   "dung": 1,
+   "trang": 61
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 61 (2 – 9 – 1945; khó khăn; quân Trung Hoa Dân quốc, Việt Quốc, Việt Cách; quân Anh mở đường cho Pháp), tr. 63 (nạn đói mới, ngân khố trống rỗng), tr. 64 (hơn 90% dân số không biết chữ). Cụm 'ngàn cân treo sợi tóc' là thành ngữ đánh giá dùng trong tên tập của danh mục, không phải trích SGK; SGK viết 'nền độc lập dân tộc bị đe doạ nghiêm trọng'. Kiến thức chốt của danh mục khớp SGK (danh mục ghi 'nạn dốt' → SGK: hơn 90% dân số không biết chữ). Không dùng ảnh lãnh tụ; cảnh mở đầu là quảng trường Ba Đình ngày nay.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}
