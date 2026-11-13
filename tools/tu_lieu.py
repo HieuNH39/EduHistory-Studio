@@ -15,6 +15,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageEnhance
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 2560, 1440
+DOC = False
 
 
 def font(size, bold=False):
@@ -28,6 +29,8 @@ def font(size, bold=False):
 
 
 def dung(src, out, nguon, giay_phep, chu_thich=None):
+    global W, H
+    if DOC: W, H = 1440, 2560
     im = Image.open(src).convert("RGB")
     # nền: ảnh phóng to phủ kín, mờ, tối, ngả nâu
     s = max(W / im.width, H / im.height)
@@ -38,8 +41,8 @@ def dung(src, out, nguon, giay_phep, chu_thich=None):
     tint = Image.new("RGB", (W, H), (58, 40, 24))
     bg = Image.blend(bg, tint, 0.35)
     # vùng đặt ảnh: chừa phụ đề phía dưới (~19%) và nhãn phía trên
-    top, bottom = int(H * 0.085), int(H * 0.74)
-    maxw, maxh = int(W * 0.84), bottom - top
+    top, bottom = (int(H * 0.12), int(H * 0.66)) if DOC else (int(H * 0.085), int(H * 0.74))
+    maxw, maxh = int(W * (0.90 if DOC else 0.84)), bottom - top
     k = min(maxw / im.width, maxh / im.height)
     pw, ph = int(im.width * k), int(im.height * k)
     ph_img = im.resize((pw, ph), Image.LANCZOS)
@@ -55,9 +58,11 @@ def dung(src, out, nguon, giay_phep, chu_thich=None):
     d.rectangle((x - b, y - b, x + pw + b - 1, y + ph + b - 1), fill=(246, 240, 228))
     bg.paste(ph_img, (x, y))
     # ghi nguồn dưới ảnh, canh phải theo mép ảnh
-    f = font(30)
+    f = font(26 if DOC else 30)
     line = " · ".join(t for t in (nguon, giay_phep) if t)
-    tw = d.textlength(line, font=f)
+    tw = d.textlength(line, font=f); fs = 26 if DOC else 30
+    while tw > pw and fs > 16:
+        fs -= 2; f = font(fs); tw = d.textlength(line, font=f)
     d.text((x + pw - tw, y + ph + b + 10), line, font=f, fill=(232, 222, 205))
     if chu_thich:
         fc = font(34, bold=True)
@@ -72,7 +77,11 @@ def main():
     ap.add_argument("--nguon", required=True); ap.add_argument("--giay-phep", default="")
     ap.add_argument("--trang", default=""); ap.add_argument("--tep", default="")
     ap.add_argument("--chu-thich", default=None); ap.add_argument("--mo-ta", default="")
+    ap.add_argument("--doc", action="store_true", help="khung dọc 9:16 cho video 60 giây")
     a = ap.parse_args()
+    global DOC
+    spec_p = os.path.join(ROOT, "data/scripts", a.ma + ".json")
+    DOC = a.doc or (os.path.exists(spec_p) and json.load(open(spec_p)).get("huong") == "doc")
     d = os.path.join(ROOT, "assets/episodes", a.ma); os.makedirs(d, exist_ok=True)
     out = os.path.join(d, f"canh-{a.so:02d}.jpg")
     pw, ph, k = dung(a.src, out, a.nguon, a.giay_phep, a.chu_thich)
@@ -82,7 +91,7 @@ def main():
                        "kich_thuoc_goc": list(Image.open(a.src).size), "he_so_phong": round(k, 2)}
     json.dump(meta, open(meta_p, "w"), ensure_ascii=False, indent=1)
     prev = os.path.join(ROOT, "tmp/qa", f"{a.ma}_canh-{a.so:02d}_xem.jpg"); os.makedirs(os.path.dirname(prev), exist_ok=True)
-    Image.open(out).resize((960, 540)).save(prev, quality=85)
+    Image.open(out).resize((540, 960) if DOC else (960, 540)).save(prev, quality=85)
     print(out, f"ảnh {pw}x{ph} (phóng x{k:.2f})")
 
 

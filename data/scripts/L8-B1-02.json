@@ -1,0 +1,354 @@
+{
+ "ma": "L8-B1-02",
+ "ten_tap": "Diễn biến và kết cục của Cách mạng Anh",
+ "ten_tap_en": "The English Revolution: How It Unfolded and Ended",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 1. Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+  "trang": [
+   8,
+   9,
+   11
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "sac-lo-i",
+  "quy-toc-moi",
+  "giai-cap-tu-san",
+  "dai-bieu-quoc-hoi-anh"
+ ],
+ "nhac": {
+  "tam_trang": "cổ kính, trang nghiêm; căng thẳng ở cảnh nhà vua tuyên chiến; trầm ở cảnh nhà vua bị xử tử (không miêu tả); kết bình ổn",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của vua Sác-lơ I mang tính tái hiện; hình ảnh minh hoạ, không cảnh hành hình. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 1, tr. 8–9.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác, khăn quàng) đứng trên một con phố lát đá ở nước Anh ngày nay, phía sau là toà nhà cổ bằng đá xám có tháp nhọn, xe buýt hai tầng màu đỏ chạy qua, trời mù sương",
+   "am_thanh": "phố xá, tiếng chuông xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nước Anh ngày nay có vua, nhưng nhà vua không còn nắm mọi quyền hành như xưa. Cậu biết vì sao không?",
+     "Britain has a monarch today, but the monarch no longer holds all the power. Do you know why?"
+    ],
+    [
+     "Nhật Minh",
+     "Vì từ thế kỉ XVII đã có một cuộc cách mạng tư sản! Tụi mình cùng xem diễn biến của nó nhé!",
+     "Because of a bourgeois revolution back in the 17th century! Let's see how it unfolded!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1640",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "sac-lo-i",
+    "dai-bieu-quoc-hoi-anh"
+   ],
+   "hinh": "Hội trường Quốc hội Anh thế kỉ XVII: vua Sác-lơ I (vẽ theo chân dung tư liệu: tóc dài gợn sóng, râu nhọn, áo choàng nhung, cổ áo ren trắng) đứng trên bục; phía dưới các đại biểu áo đen, mũ rộng vành, nhiều người khoanh tay, nét mặt phản đối",
+   "am_thanh": "tiếng xì xào phản đối",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1640, cần tiền để đàn áp cuộc khởi nghĩa của người Xcốt-len, vua Sác-lơ I phải triệu tập Quốc hội để tăng thêm thuế mới.",
+     "In 1640, needing money to crush a Scottish uprising, King Charles I had to summon Parliament to raise new taxes."
+    ],
+    [
+     "Sác-lơ I",
+     "Quốc hội phải thông qua các khoản thuế mới cho ta!",
+     "Parliament must approve my new taxes!"
+    ],
+    [
+     "Hân Hân",
+     "Nhưng đa số đại biểu là quý tộc mới và tư sản. Mâu thuẫn giữa họ với thế lực phong kiến ngày càng gay gắt.",
+     "But most members were new nobles and bourgeois. Their conflict with the feudal forces grew sharper and sharper."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "sac-lo-i"
+   ],
+   "hinh": "Vua Sác-lơ I cưỡi ngựa trắng trước đội quân kị binh mang cờ hoàng gia trên vùng đồi phía bắc nước Anh, tay giơ kiếm; trời u ám",
+   "am_thanh": "vó ngựa, kèn hiệu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 1642, vua Sác-lơ I chạy lên phía bắc, chuẩn bị lực lượng.",
+     "In early 1642, Charles I fled north to gather his forces."
+    ],
+    [
+     "Sác-lơ I",
+     "Ta tuyên chiến với Quốc hội!",
+     "I declare war on Parliament!"
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 8 năm 1642, nhà vua tuyên chiến với Quốc hội. Cách mạng bùng nổ!",
+     "In August 1642, the king declared war on Parliament. The revolution had begun!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "dai-bieu-quoc-hoi-anh"
+   ],
+   "hinh": "Một quảng trường ở nước Anh thế kỉ XVII ngày đông giá lạnh: đám đông im lặng đứng nhìn tờ tuyên cáo lớn dán trên tường; chiếc ngai vua bỏ trống trong cung điện xa xa (không cảnh hành hình)",
+   "am_thanh": "gió đông, tiếng trống chậm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 30 tháng 1 năm 1649, vua Sác-lơ I bị xử tử. Nền cộng hoà được thành lập.",
+     "On 30 January 1649, Charles I was executed. A republic was established."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vua Sác-lơ I bị xử tử vào năm nào?",
+    "lua_chon": [
+     "Năm 1642",
+     "Năm 1649",
+     "Năm 1688"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Vua Sác-lơ I bị xử tử vào năm nào?",
+     "Pause! In what year was Charles I executed?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 1649, và nền cộng hoà được thành lập!",
+     "The answer is B: 1649, when the republic was founded!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "dai-bieu-quoc-hoi-anh"
+   ],
+   "hinh": "Cuối thế kỉ XVII, trong đại sảnh Quốc hội Anh: các đại biểu trao cho đôi vợ chồng nhà vua mới một cuộn văn bản lớn, nhà vua cúi đầu nhận; không khí trang trọng, nến sáng",
+   "am_thanh": "nhạc cung đình trang trọng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1660, nền quân chủ chuyên chế phục hồi.",
+     "In 1660, absolute monarchy was restored."
+    ],
+    [
+     "Nhật Minh",
+     "Đến năm 1688 – 1689, một cuộc chính biến diễn ra, chế độ quân chủ lập hiến ra đời.",
+     "Then in 1688–1689, a coup took place and constitutional monarchy was born."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "SƠ ĐỒ DIỄN BIẾN · CÁCH MẠNG TƯ SẢN ANH",
+   "moc": [
+    [
+     "1640",
+     "Triệu tập Quốc hội"
+    ],
+    [
+     "8 – 1642",
+     "Cách mạng bùng nổ"
+    ],
+    [
+     "30 – 1 – 1649",
+     "Sác-lơ I bị xử tử, lập nền cộng hoà"
+    ],
+    [
+     "1660",
+     "Quân chủ chuyên chế phục hồi"
+    ],
+    [
+     "1688 – 1689",
+     "Chính biến, quân chủ lập hiến ra đời"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1640, vua triệu tập Quốc hội. Tháng 8 năm 1642, cách mạng bùng nổ.",
+     "Recap! 1640: Parliament is summoned. August 1642: revolution breaks out."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 30 tháng 1 năm 1649, nhà vua bị xử tử, nền cộng hoà ra đời. Năm 1660, quân chủ chuyên chế phục hồi.",
+     "30 January 1649: the king is executed and a republic is born. 1660: absolute monarchy returns."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 1688 – 1689, chế độ quân chủ lập hiến ra đời.",
+     "And in 1688–1689, constitutional monarchy is born."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾT QUẢ – TÍNH CHẤT – ĐẶC ĐIỂM",
+   "y": [
+    "Lật đổ chế độ quân chủ chuyên chế, mở đường cho chủ nghĩa tư bản ở Anh phát triển nhanh chóng",
+    "Không triệt để: không xoá bỏ tận gốc chế độ phong kiến, chưa giải quyết ruộng đất cho nông dân",
+    "Do quý tộc mới và tư sản lãnh đạo, diễn ra dưới hình thức nội chiến, thiết lập quân chủ lập hiến"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tư sản Anh đã lật đổ chế độ quân chủ chuyên chế, mở đường cho chủ nghĩa tư bản ở Anh phát triển nhanh chóng.",
+     "The English bourgeois revolution overthrew absolute monarchy and opened the way for capitalism to grow fast in England."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cách mạng không triệt để, vì không xoá bỏ tận gốc chế độ phong kiến và chưa giải quyết vấn đề ruộng đất của nông dân.",
+     "But it was incomplete: it didn't uproot feudalism or solve the peasants' land problem."
+    ],
+    [
+     "Hân Hân",
+     "Đặc điểm chính: do quý tộc mới và tư sản lãnh đạo, diễn ra dưới hình thức nội chiến, thiết lập chế độ quân chủ lập hiến.",
+     "Its key features: led by the new nobility and the bourgeoisie, fought as a civil war, and ending in constitutional monarchy."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại con phố ở nước Anh lúc chiều, đèn đường bật sáng trong sương; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "phố chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: sự tham gia lãnh đạo của tầng lớp quý tộc mới đã ảnh hưởng thế nào đến kết quả của Cách mạng tư sản Anh? Bình luận nhé!",
+     "Your challenge: how did the new nobility's leadership shape the outcome of the English Revolution? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1640, vua Sác-lơ I triệu tập Quốc hội nhằm mục đích gì?",
+   "dap_an": [
+    "Tăng thêm các khoản thuế mới để đàn áp khởi nghĩa ở Xcốt-len",
+    "Ban hành hiến pháp",
+    "Thoái vị nhường ngôi",
+    "Tuyên chiến với Pháp"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Cách mạng tư sản Anh bùng nổ khi nào?",
+   "dap_an": [
+    "Năm 1640",
+    "Tháng 8 – 1642",
+    "Năm 1649",
+    "Năm 1660"
+   ],
+   "dung": 1,
+   "trang": 9
+  },
+  {
+   "hoi": "Kết cục của Cách mạng tư sản Anh (1688 – 1689) là gì?",
+   "dap_an": [
+    "Thiết lập nền cộng hoà tổng thống",
+    "Chế độ quân chủ lập hiến ra đời",
+    "Quân chủ chuyên chế phục hồi",
+    "Anh trở thành thuộc địa"
+   ],
+   "dung": 1,
+   "trang": 9
+  },
+  {
+   "hoi": "Vì sao Cách mạng tư sản Anh mang tính chất không triệt để?",
+   "dap_an": [
+    "Vì không lật đổ được nhà vua",
+    "Vì không xoá bỏ tận gốc chế độ phong kiến, chưa giải quyết ruộng đất cho nông dân",
+    "Vì không có quần chúng tham gia",
+    "Vì diễn ra quá ngắn"
+   ],
+   "dung": 1,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 9 (năm 1640, đầu 1642, 8 – 1642, Hình 1.3 – đã đối chiếu ảnh trang các mốc 30 – 1 – 1649, 1660, 1688 – 1689; kết quả, tính chất, đặc điểm), tr. 11 (câu hỏi luyện tập dùng cho thử thách). Sửa kiến thức chốt danh mục: 'thiết lập chế độ quân chủ lập hiến năm 1689' ghi đúng SGK là 'năm 1688 – 1689, chính biến, chế độ quân chủ lập hiến ra đời'. Danh mục có nhân vật Ô-li-vơ Crôm-oen nhưng SGK chỉ in chân dung (Hình 1.1), không nêu vai trò nên kịch bản không gán việc làm cho ông. Lời vua Sác-lơ I là lời dựng theo đúng sự kiện SGK (triệu tập Quốc hội để tăng thuế; tuyên chiến với Quốc hội). Cảnh nhà vua bị xử tử thể hiện gián tiếp, không cảnh hành hình. SGK chỉ có sơ đồ (Hình 1.3) nên dùng trục thời gian.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

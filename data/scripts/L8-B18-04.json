@@ -1,0 +1,469 @@
+{
+ "ma": "L8-B18-04",
+ "ten_tap": "Đề Thám và nghĩa quân Yên Thế",
+ "ten_tap_en": "Đề Thám and the Yên Thế Rebels",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 18. Phong trào chống Pháp trong những năm 1885 – 1896",
+  "trang": [
+   84,
+   86,
+   87
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hoang-hoa-tham",
+  "de-nam",
+  "nghia-quan-yen-the",
+  "quan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "mộc mạc trung du ở đầu; hùng tráng ở các trận thắng; trầm lặng ở giai đoạn giảng hoà; bi tráng ở đoạn kết; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ, thẻ ghi nhớ dựng bằng code; không có lời thoại dựng. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 18, tr. 84–87.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (1884 – 1913): không dùng AI vẽ người thật hay cảnh lịch sử; Đề Thám (Hoàng Hoa Thám) chỉ dùng ảnh chụp tư liệu như Hình 18.7, 18.8 SGK; Đề Nắm chỉ được nhắc tên; không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, đeo cặp) đi trên vỉa hè một con phố rợp bóng cây hôm nay, dừng lại dưới tấm biển tên phố màu xanh ghi 'Phố Hoàng Hoa Thám'; xe cộ qua lại, nắng sớm",
+   "am_thanh": "phố buổi sáng, chim hót",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều con đường, trường học, di tích ở nước ta gắn với tên Hoàng Hoa Thám. Cậu biết ông là ai không?",
+     "Many streets, schools and historic sites in our country bear the name Hoàng Hoa Thám. Do you know who he was?"
+    ],
+    [
+     "Nhật Minh",
+     "Đó là Đề Thám, thủ lĩnh khởi nghĩa nông dân Yên Thế. Vùng Yên Thế nay thuộc tỉnh Bắc Ninh, không xa trường tụi mình đâu!",
+     "That's Đề Thám, leader of the Yên Thế peasant uprising. Yên Thế is now part of Bắc Ninh province, not far from our school!"
+    ]
+   ],
+   "nguon_trang": [
+    84,
+    86
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1884",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cuối thế kỉ XIX: làng quê vùng trung du Bắc Kì với đồi thấp, rừng rậm, nhà tranh",
+    "tim": "Tonkin village 1890s photograph Yen The",
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: làng quê trung du Bắc Kì cuối thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1884, tại vùng Yên Thế, một cuộc khởi nghĩa nông dân đã bùng nổ, dưới sự lãnh đạo của Đề Nắm, sau đó là Đề Thám.",
+     "In 1884, a peasant uprising broke out in Yên Thế, led first by Đề Nắm and then by Đề Thám."
+    ],
+    [
+     "Hân Hân",
+     "Mục tiêu chủ yếu của nghĩa quân là giữ đất, giữ làng, bảo vệ cuộc sống tự do.",
+     "The rebels' main goal was to keep their land, keep their villages, and protect their free way of life."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mục tiêu chủ yếu của khởi nghĩa nông dân Yên Thế là gì?",
+    "lua_chon": [
+     "Giữ đất, giữ làng, bảo vệ cuộc sống tự do",
+     "Giúp vua cứu nước theo Dụ Cần vương",
+     "Lật đổ chính quyền Mãn Thanh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mục tiêu chủ yếu của khởi nghĩa nông dân Yên Thế là gì?",
+     "Pause! What was the main goal of the Yên Thế peasant uprising?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: giữ đất, giữ làng, bảo vệ cuộc sống tự do!",
+     "The answer is A: to keep their land and villages and protect their freedom!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Đề Thám (Hoàng Hoa Thám), như Hình 18.7 SGK",
+    "tim": "Hoàng Hoa Thám ảnh tư liệu De Tham photograph",
+    "yeu_cau": "ảnh chụp tư liệu thuộc phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Hoàng Hoa Thám (1858 – 1913)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ảnh tư liệu Hoàng Hoa Thám, người dân thường gọi là Đề Thám.",
+     "This is an archive photo of Hoàng Hoa Thám, known to the people as Đề Thám."
+    ],
+    [
+     "Nhật Minh",
+     "Dưới sự lãnh đạo của ông, nghĩa quân Yên Thế đã kiên trì chiến đấu suốt nhiều năm.",
+     "Under his leadership, the Yên Thế rebels kept fighting for many years."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu những năm 1890: một đạo quân Pháp hành quân trên đường mòn vùng đồi núi Bắc Kì",
+    "tim": "French colonial troops Tonkin 1890 expedition photograph",
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: quân Pháp hành quân ở Bắc Kì những năm 1890",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Pháp nhiều lần mở các trận càn vào căn cứ của nghĩa quân.",
+     "The French repeatedly launched sweeps against the rebels' base."
+    ],
+    [
+     "Hân Hân",
+     "Nghĩa quân đã đánh bại nhiều trận càn: ở Cao Thượng tháng 11 năm 1890, rồi ba lần ở Hố Chuối tháng 12 năm 1890.",
+     "The rebels defeated many of them: at Cao Thượng in November 1890, and three times at Hố Chuối in December 1890."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "NGHĨA QUÂN YÊN THẾ LỚN MẠNH",
+   "y": [
+    "Đánh bại trận càn ở Cao Thượng (11 – 1890)",
+    "Ba lần thắng ở Hố Chuối (12 – 1890)",
+    "Làm chủ hết vùng Yên Thế",
+    "Mở rộng địa bàn sang Phủ Lạng Thương (nay thuộc tỉnh Bắc Ninh)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau những trận thắng ấy, nghĩa quân làm chủ hết vùng Yên Thế,",
+     "After those victories, the rebels controlled the whole Yên Thế region,"
+    ],
+    [
+     "Hân Hân",
+     "và mở rộng địa bàn sang cả Phủ Lạng Thương, nay cũng thuộc tỉnh Bắc Ninh.",
+     "and expanded into Phủ Lạng Thương, which is also part of Bắc Ninh today."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Đề Thám và nghĩa quân Yên Thế (như Hình 18.8 SGK)",
+    "tim": "Đề Thám và nghĩa quân Yên Thế ảnh tư liệu",
+    "yeu_cau": "ảnh chụp tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Đề Thám và nghĩa quân Yên Thế",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân còn hai lần giảng hoà với Pháp. Lần thứ nhất từ tháng 10 năm 1894 đến tháng 11 năm 1895.",
+     "The rebels also made peace with France twice. The first truce ran from October 1894 to November 1895."
+    ],
+    [
+     "Nhật Minh",
+     "Lần thứ hai kéo dài hơn, từ tháng 12 năm 1897 đến cuối năm 1908.",
+     "The second lasted longer, from December 1897 to the end of 1908."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nghĩa quân Yên Thế đã mấy lần giảng hoà với thực dân Pháp?",
+    "lua_chon": [
+     "Một lần",
+     "Hai lần",
+     "Ba lần"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Nghĩa quân Yên Thế đã mấy lần giảng hoà với Pháp?",
+     "Quick test! How many times did the Yên Thế rebels make peace with France?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: hai lần, năm 1894 và năm 1897!",
+     "The answer is B: twice, in 1894 and in 1897!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu khoảng năm 1909: đồn binh hoặc cuộc hành quân của quân Pháp ở vùng Yên Thế",
+    "tim": "Yen The 1909 French military post photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: quân Pháp ở vùng Yên Thế đầu thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ đầu năm 1909, thực dân Pháp mở cuộc vây ráp quy mô, quyết dập tắt khởi nghĩa. Nghĩa quân bị thiệt hại nặng.",
+     "From early 1909, the French launched a large-scale encirclement to crush the uprising. The rebels suffered heavy losses."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 2 năm 1913, thủ lĩnh Đề Thám bị tay sai của Pháp giết hại. Khởi nghĩa suy yếu rồi tan rã.",
+     "In February 1913, Đề Thám was murdered by agents of the French. The uprising weakened and fell apart."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · KHỞI NGHĨA YÊN THẾ (1884 – 1913)",
+   "moc": [
+    [
+     "1884",
+     "Khởi nghĩa bùng nổ"
+    ],
+    [
+     "11, 12 – 1890",
+     "Thắng ở Cao Thượng, Hố Chuối"
+    ],
+    [
+     "10 – 1894",
+     "Giảng hoà lần 1 (đến 11 – 1895)"
+    ],
+    [
+     "12 – 1897",
+     "Giảng hoà lần 2 (đến cuối 1908)"
+    ],
+    [
+     "Đầu 1909",
+     "Pháp vây ráp quy mô"
+    ],
+    [
+     "2 – 1913",
+     "Đề Thám bị giết hại, khởi nghĩa tan rã"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng xếp lên trục thời gian nhé! Năm 1884, khởi nghĩa bùng nổ. Cuối năm 1890, nghĩa quân thắng ở Cao Thượng và Hố Chuối.",
+     "Let's build the timeline! 1884: the uprising begins. Late 1890: victories at Cao Thượng and Hố Chuối."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1894, giảng hoà lần thứ nhất. Tháng 12 năm 1897, giảng hoà lần thứ hai.",
+     "October 1894: the first truce. December 1897: the second truce."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1909, Pháp vây ráp quy mô. Tháng 2 năm 1913, Đề Thám bị giết hại, khởi nghĩa tan rã.",
+     "Early 1909: France's big encirclement. February 1913: Đề Thám is killed and the uprising collapses."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    86,
+    87
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng trên một quả đồi xanh vùng trung du hôm nay, nhìn xuống làng mạc, ruộng đồng yên bình và những rặng cây xa; gió thổi tóc bay, chiều vàng",
+   "am_thanh": "gió đồi, tiếng chim",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sách giáo khoa khẳng định: khởi nghĩa Yên Thế là cuộc khởi nghĩa nông dân chống xâm lược lớn nhất ở Việt Nam thời kì cận đại.",
+     "Our textbook says Yên Thế was the largest peasant uprising against foreign invasion in modern Vietnamese history."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1884 đến năm 1913, những người nông dân ấy đã kiên trì chiến đấu để giữ đất, giữ làng.",
+     "From 1884 to 1913, those farmers fought on to keep their land and their villages."
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    87
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "1884 – 1913: khởi nghĩa nông dân Yên Thế (nay thuộc tỉnh Bắc Ninh)",
+    "Lãnh đạo: Đề Nắm, sau đó là Đề Thám (Hoàng Hoa Thám)",
+    "Mục tiêu: giữ đất, giữ làng, bảo vệ cuộc sống tự do",
+    "Cuộc khởi nghĩa nông dân chống xâm lược lớn nhất Việt Nam thời cận đại"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: khởi nghĩa Yên Thế kéo dài từ năm 1884 đến năm 1913.",
+     "Remember: the Yên Thế uprising lasted from 1884 to 1913."
+    ],
+    [
+     "Hân Hân",
+     "Lãnh đạo là Đề Nắm, sau đó là Đề Thám, tức Hoàng Hoa Thám.",
+     "It was led by Đề Nắm, then by Đề Thám, Hoàng Hoa Thám."
+    ],
+    [
+     "Nhật Minh",
+     "Mục tiêu chủ yếu là giữ đất, giữ làng, bảo vệ cuộc sống tự do.",
+     "Its main goal was to keep land and villages and protect a free life."
+    ],
+    [
+     "Hân Hân",
+     "Đây là cuộc khởi nghĩa nông dân chống xâm lược lớn nhất ở Việt Nam thời kì cận đại.",
+     "It was the largest peasant uprising against invaders in modern Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    87
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trên quả đồi trung du lúc hoàng hôn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "gió chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: khởi nghĩa Yên Thế có điểm gì giống và khác so với các cuộc khởi nghĩa trong phong trào Cần vương? Bình luận nhé!",
+     "Your challenge: how was the Yên Thế uprising similar to, and different from, the uprisings of the Cần vương movement? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Khởi nghĩa nông dân Yên Thế diễn ra trong khoảng thời gian nào?",
+   "dap_an": [
+    "1883 – 1892",
+    "1884 – 1913",
+    "1885 – 1896",
+    "1886 – 1887"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "Người lãnh đạo khởi nghĩa Yên Thế đầu tiên, trước Đề Thám, là ai?",
+   "dap_an": [
+    "Đề Nắm",
+    "Phan Đình Phùng",
+    "Nguyễn Thiện Thuật",
+    "Đinh Công Tráng"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Tháng 11 – 1890, nghĩa quân Yên Thế đánh bại trận càn của Pháp ở đâu?",
+   "dap_an": [
+    "Cao Thượng",
+    "Ba Đình",
+    "Ngàn Trươi",
+    "Bãi Sậy"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Đề Thám bị tay sai của Pháp giết hại vào thời gian nào?",
+   "dap_an": [
+    "Tháng 12 – 1895",
+    "Cuối năm 1908",
+    "Tháng 2 – 1913",
+    "Đầu năm 1909"
+   ],
+   "dung": 2,
+   "trang": 87
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 84 (câu mở đầu: đường phố, trường học, di tích mang tên Hoàng Hoa Thám), tr. 86 (mục 2: năm 1884, Yên Thế nay thuộc tỉnh Bắc Ninh, Đề Nắm, Đề Thám, mục tiêu, Cao Thượng 11 – 1890, Hố Chuối 12 – 1890, Phủ Lạng Thương nay thuộc tỉnh Bắc Ninh; Hình 18.7), tr. 87 (hai lần giảng hoà, vây ráp từ đầu 1909, 2 – 1913, Hình 18.8, đánh giá 'lớn nhất thời cận đại', câu hỏi so sánh với Cần vương). Danh mục: kiến thức chốt khớp SGK. SGK không có lược đồ riêng cho khởi nghĩa Yên Thế (hoạt động SGK yêu cầu trục thời gian) nên dùng trục thời gian. Thời kì đã có ảnh chụp: Đề Thám chỉ dùng ảnh tư liệu, Đề Nắm chỉ nhắc tên, không lời thoại dựng, Minh – Hân chỉ ở hiện tại. 'Không xa trường tụi mình' là lời dẫn về vị trí trường (FPT Bắc Giang), không phải kiến thức SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

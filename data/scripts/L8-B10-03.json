@@ -1,0 +1,308 @@
+{
+ "ma": "L8-B10-03",
+ "ten_tap": "Đức và Mỹ: Hai gã khổng lồ trỗi dậy",
+ "ten_tap_en": "Germany and the USA: Two Giants on the Rise",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 10. Sự hình thành chủ nghĩa đế quốc ở các nước Âu – Mỹ (cuối thế kỉ XIX – đầu thế kỉ XX)",
+  "trang": [
+   48,
+   49
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "roc-phe-lo",
+  "mooc-gan",
+  "pho",
+  "gioi-cam-quyen-duc"
+ ],
+ "nhac": {
+  "tam_trang": "mạnh mẽ, nhịp công nghiệp tăng tốc; căng thẳng ở đoạn chạy đua vũ trang; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 10, tr. 48–49.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (cuối thế kỉ XIX – đầu thế kỉ XX): không dùng AI vẽ người thật hay cảnh lịch sử; Rốc-phe-lơ, Moóc-gân, Pho chỉ được nhắc tên; chỉ dùng ảnh tư liệu (phạm vi công cộng, ghi nguồn); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong phòng thí nghiệm STEM của trường hôm nay, bên mô hình đoàn tàu và nhà máy thu nhỏ; trên bảng tương tác là hai lá cờ Đức và Mỹ với mũi tên đi lên",
+   "am_thanh": "tiếng mô hình tàu chạy",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ XIX, có hai nước vươn lên rất nhanh, vượt cả Anh và Pháp về công nghiệp. Cậu đoán được không?",
+     "In the late 19th century, two countries surged ahead, overtaking Britain and France in industry. Can you guess which?"
+    ],
+    [
+     "Hân Hân",
+     "Đức và Mỹ! Cùng xem hai gã khổng lồ này trỗi dậy thế nào nhé!",
+     "Germany and the USA! Let's see how these two giants rose!"
+    ]
+   ],
+   "nguon_trang": [
+    48,
+    49
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1871",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cuối thế kỉ XIX: nhà máy luyện thép lớn ở Đức với ống khói và đường ray",
+    "tim": "German steel works 1890s photograph",
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nghiệp Đức cuối thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi hoàn thành thống nhất đất nước năm 1871, Đức phát triển nhanh trên con đường tư bản chủ nghĩa.",
+     "After unifying in 1871, Germany developed rapidly along capitalist lines."
+    ],
+    [
+     "Hân Hân",
+     "Đến cuối thế kỉ XIX, Đức vươn lên đứng đầu châu Âu và thứ hai thế giới về công nghiệp, chỉ sau Mỹ. Các công ty độc quyền cũng hình thành.",
+     "By the late 19th century, Germany led Europe and ranked second in the world in industry, after the US. Monopolies formed too."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẾ QUỐC ĐỨC",
+   "y": [
+    "Kinh tế: đứng đầu châu Âu, thứ hai thế giới về công nghiệp",
+    "Đối nội: liên bang theo chế độ quân chủ lập hiến; quý tộc địa chủ liên kết với tư bản độc quyền",
+    "Đối ngoại: chạy đua vũ trang, dùng vũ lực để chia lại thuộc địa"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về đối nội, Đức là một nước liên bang theo chế độ quân chủ lập hiến; quý tộc địa chủ liên kết chặt chẽ với tư bản độc quyền để thống trị nhân dân.",
+     "At home, Germany was a federal constitutional monarchy; landed nobles allied with monopoly capital to rule the people."
+    ],
+    [
+     "Nhật Minh",
+     "Đức chuyển sang giai đoạn đế quốc chủ nghĩa khi phần lớn đất đai trên thế giới đã thành thuộc địa của Anh, Pháp. Vì thế, giới cầm quyền Đức chủ trương chạy đua vũ trang, dùng vũ lực để chia lại thuộc địa.",
+     "Germany became imperialist when most of the world was already British and French colonies. So its rulers chose an arms race and force to redivide the colonies."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giới cầm quyền Đức chủ trương làm gì với thuộc địa?",
+    "lua_chon": [
+     "Trả lại độc lập cho thuộc địa",
+     "Chạy đua vũ trang, dùng vũ lực chia lại thuộc địa",
+     "Mua thuộc địa của Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Giới cầm quyền Đức chủ trương làm gì với thuộc địa?",
+     "Pause! What did Germany's rulers plan to do about colonies?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chạy đua vũ trang, dùng vũ lực để chia lại thuộc địa!",
+     "The answer is B: an arms race, and force to redivide the colonies!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đầu thế kỉ XX: dây chuyền nhà máy hoặc giếng dầu ở Mỹ",
+    "tim": "American oil field factory 1900s photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nghiệp Mỹ đầu thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn Mỹ, trong 30 năm cuối thế kỉ XIX, từ vị trí thứ tư đã vươn lên đứng đầu thế giới về sản xuất công nghiệp. Năm 1894, sản lượng công nghiệp của Mỹ đã gấp đôi Anh!",
+     "As for the US, in the last 30 years of the 19th century it rose from fourth to first in world industrial output. By 1894, its industrial production was double Britain's!"
+    ],
+    [
+     "Nhật Minh",
+     "Ở Mỹ có nhiều công ty độc quyền khổng lồ, đồng thời là những đế chế tài chính, như của “vua dầu mỏ” Rốc-phe-lơ, “vua thép” Moóc-gân, “vua ô tô” Pho.",
+     "The US had giant monopolies that were also financial empires, like those of 'oil king' Rockefeller, 'steel king' Morgan and 'car king' Ford."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẾ QUỐC MỸ",
+   "y": [
+    "Kinh tế: đứng đầu thế giới về công nghiệp; nông nghiệp hiện đại, cung cấp chủ yếu lương thực, thực phẩm cho châu Âu",
+    "Đối nội: cộng hoà đề cao vai trò tổng thống; hai đảng Cộng hoà và Dân chủ thay nhau nắm quyền",
+    "Đối ngoại: bành trướng ở châu Á – Thái Bình Dương (chiếm Phi-líp-pin, Cu-ba); biến Trung và Nam Mỹ thành khu vực ảnh hưởng"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nông nghiệp Mỹ canh tác hiện đại, hàng nông sản giá rẻ, Mỹ trở thành nguồn cung cấp chủ yếu lương thực, thực phẩm cho châu Âu.",
+     "With modern farming and cheap produce, the US became Europe's main supplier of food."
+    ],
+    [
+     "Nhật Minh",
+     "Về đối nội, chế độ cộng hoà đề cao vai trò của tổng thống. Hai đảng Cộng hoà và Dân chủ thay nhau nắm quyền.",
+     "At home, the republic emphasised the president's role. The Republican and Democratic parties took turns in power."
+    ],
+    [
+     "Hân Hân",
+     "Về đối ngoại, Mỹ bành trướng ở châu Á – Thái Bình Dương, gây chiến với Tây Ban Nha, chiếm Phi-líp-pin và Cu-ba, và biến Trung, Nam Mỹ thành khu vực ảnh hưởng của mình.",
+     "Abroad, the US expanded into Asia and the Pacific, fought Spain and took the Philippines and Cuba, and turned Central and South America into its sphere of influence."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1894, sản lượng công nghiệp của Mỹ so với Anh như thế nào?",
+    "lua_chon": [
+     "Bằng một nửa",
+     "Bằng nhau",
+     "Gấp đôi"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Năm 1894, sản lượng công nghiệp của Mỹ so với Anh thế nào?",
+     "Quick test! In 1894, how did US industrial output compare with Britain's?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: gấp đôi Anh!",
+     "The answer is C: double Britain's!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân bên mô hình nhà máy thu nhỏ trong phòng STEM, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "tiếng mô hình tàu chạy nhỏ dần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Đức đứng đầu châu Âu, chủ trương dùng vũ lực chia lại thuộc địa; Mỹ đứng đầu thế giới về công nghiệp, bành trướng ở châu Á – Thái Bình Dương và Trung, Nam Mỹ.",
+     "Remember: Germany led Europe and sought to redivide colonies by force; the US led the world in industry and expanded across Asia-Pacific and Latin America."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kể tên một số công ty đa quốc gia có ảnh hưởng lớn đến kinh tế nhiều nước hiện nay. Bình luận nhé!",
+     "Your challenge: name some multinational companies with big influence on many countries' economies today. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    48,
+    49
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đức hoàn thành thống nhất đất nước vào năm nào?",
+   "dap_an": [
+    "1868",
+    "1871",
+    "1894",
+    "1914"
+   ],
+   "dung": 1,
+   "trang": 48
+  },
+  {
+   "hoi": "Cuối thế kỉ XIX, công nghiệp Đức đứng thứ mấy thế giới?",
+   "dap_an": [
+    "Thứ nhất",
+    "Thứ hai (sau Mỹ)",
+    "Thứ ba",
+    "Thứ tư"
+   ],
+   "dung": 1,
+   "trang": 48
+  },
+  {
+   "hoi": "Ai được mệnh danh là “vua thép” ở Mỹ?",
+   "dap_an": [
+    "Rốc-phe-lơ",
+    "Moóc-gân",
+    "Pho",
+    "Xti-phen-xơn"
+   ],
+   "dung": 1,
+   "trang": 49
+  },
+  {
+   "hoi": "Sau khi gây chiến với Tây Ban Nha, Mỹ chiếm được những nơi nào?",
+   "dap_an": [
+    "Phi-líp-pin và Cu-ba",
+    "In-đô-nê-xi-a và Mã Lai",
+    "Ấn Độ và Miến Điện",
+    "Đài Loan và Triều Tiên"
+   ],
+   "dung": 0,
+   "trang": 49
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 48 (Đức: thống nhất 1871, đứng đầu châu Âu, thứ hai thế giới, công ty độc quyền, liên bang quân chủ lập hiến, chạy đua vũ trang chia lại thuộc địa), tr. 49 (Mỹ: 30 năm cuối thế kỉ XIX từ thứ tư lên thứ nhất; 1894 gấp đôi Anh; Rốc-phe-lơ, Moóc-gân, Pho; nông nghiệp; hai đảng; đối ngoại; câu hỏi vận dụng về công ty đa quốc gia). Danh mục: kiến thức chốt khớp SGK. Thời kì đã có ảnh chụp: chỉ ảnh tư liệu, ba nhà tư bản chỉ nhắc tên, không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

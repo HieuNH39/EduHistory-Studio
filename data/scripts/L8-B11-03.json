@@ -1,0 +1,467 @@
+{
+ "ma": "L8-B11-03",
+ "ten_tap": "Công xã Pa-ri: 72 ngày rực rỡ",
+ "ten_tap_en": "The Paris Commune: 72 Remarkable Days",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 11. Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+  "trang": [
+   50,
+   51,
+   52
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ve-quoc-quan",
+  "cong-nhan-pa-ri",
+  "na-po-le-ong-iii"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, sôi nổi ở cảnh khởi nghĩa 18 – 3; ấm áp, tự hào ở phần sắc lệnh và ý nghĩa; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh, tranh khắc tư liệu năm 1871; không có lời thoại dựng cho nhân vật lịch sử. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 11, tr. 50–52.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (1870 – 1871): không dùng AI vẽ người thật hay cảnh lịch sử; chỉ dùng ảnh, tranh khắc tư liệu năm 1870 – 1871 (đã thuộc phạm vi công cộng, ghi nguồn); Na-pô-lê-ông III chỉ được nhắc tên. Minh – Hân chỉ xuất hiện ở hiện tại; sơ đồ, thẻ ghi nhớ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác mùa xuân, ba lô) đứng trên một con phố lát đá ở Pa-ri ngày nay: dãy nhà cổ mái xám, ban công sắt uốn, quán cà phê vỉa hè, xe đạp dựng bên đường; nắng sớm",
+   "am_thanh": "phố xá buổi sáng, chuông xe đạp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1871, trên chính những con phố Pa-ri này, nhân dân đã lập nên Công xã Pa-ri. Nó chỉ tồn tại 72 ngày thôi đấy.",
+     "In 1871, on these very streets of Paris, the people founded the Paris Commune. It lasted only 72 days."
+    ],
+    [
+     "Nhật Minh",
+     "Chỉ 72 ngày mà lại được ghi vào sách giáo khoa? Tụi mình cùng xem qua tư liệu nhé!",
+     "Just 72 days, and yet it's in our textbook? Let's look through the archives!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1870 – 1871",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Pa-ri trong chiến tranh Pháp – Phổ (1870 – 1871), ví dụ cảnh thành phố bị vây hãm, công sự trên đường phố",
+    "tim": "Siege of Paris 1870 1871 photograph",
+    "yeu_cau": "ảnh chụp năm 1870 – 1871, đã thuộc phạm vi công cộng (Wikimedia Commons hoặc thư viện số Gallica/Paris Musées), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Pa-ri trong chiến tranh Pháp – Phổ (1870 – 1871)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Pháp thất bại thảm hại trong chiến tranh Pháp – Phổ, từ năm 1870 đến năm 1871.",
+     "France suffered a crushing defeat in the Franco-Prussian War of 1870 to 1871."
+    ],
+    [
+     "Hân Hân",
+     "Nhân dân Pa-ri, phần lớn là công nhân và tiểu tư sản, đã khởi nghĩa, lật đổ chính quyền Na-pô-lê-ông III.",
+     "The people of Paris, mostly workers and petty bourgeois, rose up and overthrew Napoleon III's government."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh khắc hoặc ảnh tư liệu năm 1871: các tiểu đoàn Vệ quốc quân Pa-ri đứng gác bên khẩu pháo trên đồi, nhân dân vây quanh",
+    "tim": "Garde nationale Paris 1871 photograph cannons Montmartre",
+    "yeu_cau": "ảnh, tranh khắc năm 1871, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu năm 1871: Vệ quốc quân và nhân dân Pa-ri",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính phủ lâm thời tư sản được thành lập, nhưng lại tìm cách thoả hiệp với Phổ, kí hoà ước chấp nhận những điều kiện nhục nhã.",
+     "A provisional bourgeois government was formed, but it sought a deal with Prussia and signed a humiliating peace."
+    ],
+    [
+     "Hân Hân",
+     "Trong khi đó, nhân dân Pa-ri vẫn kiên quyết chiến đấu bảo vệ Tổ quốc.",
+     "Meanwhile, the people of Paris were determined to keep fighting for their country."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    52
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh khắc hoặc ảnh tư liệu ngày 18 – 3 – 1871: Vệ quốc quân cùng nhân dân Pa-ri tiến vào trung tâm thủ đô",
+    "tim": "18 mars 1871 Paris insurrection gravure",
+    "yeu_cau": "tranh khắc, ảnh năm 1871, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: cuộc khởi nghĩa ngày 18 – 3 – 1871 ở Pa-ri",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 18 tháng 3 năm 1871, dưới sự lãnh đạo của Uỷ ban Trung ương Vệ quốc quân, các tiểu đoàn Vệ quốc quân cùng nhân dân Pa-ri từ các ngả tiến vào trung tâm thủ đô, chiếm các cơ quan chính phủ.",
+     "On 18 March 1871, led by the Central Committee of the National Guard, Guard battalions and the people of Paris converged on the city centre and seized the government offices."
+    ],
+    [
+     "Nhật Minh",
+     "Khởi nghĩa giành thắng lợi hoàn toàn. Sách giáo khoa gọi đây là cuộc cách mạng vô sản đầu tiên trên thế giới.",
+     "The uprising won a complete victory. Our textbook calls it the world's first proletarian revolution."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc khởi nghĩa ngày 18 – 3 – 1871 ở Pa-ri do ai lãnh đạo?",
+    "lua_chon": [
+     "Uỷ ban Trung ương Vệ quốc quân",
+     "Chính phủ lâm thời tư sản",
+     "Quốc tế thứ nhất"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Cuộc khởi nghĩa ngày 18 tháng 3 năm 1871 ở Pa-ri do ai lãnh đạo?",
+     "Pause! Who led the 18 March 1871 uprising in Paris?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Uỷ ban Trung ương Vệ quốc quân!",
+     "The answer is A: the Central Committee of the National Guard!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh khắc tư liệu năm 1871: nhân dân Pa-ri tập trung trước toà thị chính, cờ và biểu ngữ, chào mừng chính quyền Công xã",
+    "tim": "Proclamation de la Commune Hôtel de Ville 1871 gravure",
+    "yeu_cau": "tranh khắc năm 1871, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: nhân dân Pa-ri chào mừng chính quyền Công xã (1871)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thay cho chính quyền tư sản, chính quyền cách mạng, tức Công xã Pa-ri, được bầu ra theo nguyên tắc phổ thông đầu phiếu.",
+     "In place of the bourgeois government, a revolutionary government, the Paris Commune, was elected by universal suffrage."
+    ],
+    [
+     "Hân Hân",
+     "Cơ quan quyền lực cao nhất là Hội đồng Công xã.",
+     "Its highest authority was the Commune Council."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "CÔNG XÃ PA-RI ĐÃ LÀM GÌ?",
+   "y": [
+    "Giải tán quân đội, cảnh sát cũ; lập lực lượng vũ trang và an ninh nhân dân",
+    "Tách nhà thờ khỏi Nhà nước, không dạy giáo lí trong nhà trường",
+    "Giao cho công nhân các xí nghiệp của bọn chủ trốn khỏi Pa-ri",
+    "Công nhân kiểm soát tiền lương, cấm cúp phạt"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội đồng Công xã ra sắc lệnh giải tán quân đội và cảnh sát của chế độ cũ, thành lập lực lượng vũ trang và an ninh nhân dân.",
+     "The Council decreed the old army and police disbanded, and set up the people's own armed and security forces."
+    ],
+    [
+     "Nhật Minh",
+     "Công xã tách nhà thờ khỏi Nhà nước, quyết định không dạy giáo lí trong nhà trường.",
+     "The Commune separated church and state, and stopped religious teaching in schools."
+    ],
+    [
+     "Hân Hân",
+     "Công xã giao cho công nhân tất cả những xí nghiệp của bọn chủ đã trốn khỏi Pa-ri.",
+     "It handed workers every enterprise whose owners had fled Paris."
+    ],
+    [
+     "Nhật Minh",
+     "Công nhân cùng đặt kế hoạch sản xuất, lập nội quy, kiểm soát tiền lương và cấm cúp phạt.",
+     "Workers planned production, made workshop rules, controlled wages and banned pay deductions."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Công xã Pa-ri giao cho công nhân những xí nghiệp nào?",
+    "lua_chon": [
+     "Mọi xí nghiệp ở nước Pháp",
+     "Xí nghiệp của bọn chủ trốn khỏi Pa-ri",
+     "Xí nghiệp của nước Phổ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Công xã Pa-ri giao cho công nhân những xí nghiệp nào?",
+     "Quick test! Which enterprises did the Commune hand over to the workers?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: những xí nghiệp của bọn chủ đã trốn khỏi Pa-ri!",
+     "The answer is B: those whose owners had fled Paris!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu năm 1871: chiến luỹ (barricade) trên một đường phố Pa-ri thời Công xã",
+    "tim": "barricade Commune de Paris 1871 photograph",
+    "yeu_cau": "ảnh chụp năm 1871, phạm vi công cộng, ghi nguồn; tránh ảnh có thi thể"
+   },
+   "hinh": "Ảnh tư liệu: chiến luỹ trên đường phố Pa-ri thời Công xã (1871)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Công xã Pa-ri chỉ tồn tại trong vòng 72 ngày, từ ngày 18 tháng 3 đến ngày 28 tháng 5 năm 1871.",
+     "The Paris Commune lasted just 72 days, from 18 March to 28 May 1871."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÔNG XÃ PA-RI",
+   "moc": [
+    [
+     "1870 – 1871",
+     "Chiến tranh Pháp – Phổ, Pháp thất bại"
+    ],
+    [
+     "Pa-ri khởi nghĩa",
+     "Lật đổ chính quyền Na-pô-lê-ông III"
+    ],
+    [
+     "18 – 3 – 1871",
+     "Khởi nghĩa thắng lợi hoàn toàn"
+    ],
+    [
+     "Công xã",
+     "Bầu theo phổ thông đầu phiếu"
+    ],
+    [
+     "28 – 5 – 1871",
+     "Công xã kết thúc sau 72 ngày"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Từ năm 1870 đến năm 1871, Pháp thất bại trong chiến tranh Pháp – Phổ.",
+     "Recap! 1870 to 1871: France loses the Franco-Prussian War."
+    ],
+    [
+     "Nhật Minh",
+     "Nhân dân Pa-ri khởi nghĩa, lật đổ chính quyền Na-pô-lê-ông III.",
+     "The people of Paris rise up and overthrow Napoleon III."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 18 tháng 3 năm 1871, khởi nghĩa thắng lợi hoàn toàn. Công xã được bầu theo phổ thông đầu phiếu.",
+     "18 March 1871: the uprising triumphs. The Commune is elected by universal suffrage."
+    ],
+    [
+     "Nhật Minh",
+     "Và ngày 28 tháng 5 năm 1871, Công xã kết thúc sau 72 ngày tồn tại.",
+     "And on 28 May 1871, the Commune ends after 72 days."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2,
+    3
+   ],
+   "nguon_trang": [
+    51,
+    52
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi trên bậc thềm đá của một quảng trường ở Pa-ri ngày nay lúc chiều, chim bồ câu sà xuống, đèn đường bắt đầu sáng; Hân Hân cầm cuốn sổ ghi chép",
+   "am_thanh": "quảng trường chiều, tiếng chim bồ câu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy chỉ tồn tại 72 ngày, Công xã Pa-ri là hình ảnh của một nhà nước kiểu mới, chăm lo đến quyền lợi của giai cấp công nhân và nhân dân lao động.",
+     "Though it lasted only 72 days, the Paris Commune was a model of a new kind of state, one that cared for the interests of workers and working people."
+    ],
+    [
+     "Nhật Minh",
+     "Nó còn cổ vũ những người lao động trên toàn thế giới trong cuộc đấu tranh lâu dài cho một tương lai tốt đẹp hơn.",
+     "It also inspired working people around the world in their long struggle for a better future."
+    ]
+   ],
+   "nguon_trang": [
+    50,
+    52
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "18 – 3 – 1871: khởi nghĩa ở Pa-ri thắng lợi – cuộc cách mạng vô sản đầu tiên trên thế giới",
+    "Công xã bầu theo phổ thông đầu phiếu; Hội đồng Công xã là cơ quan quyền lực cao nhất",
+    "Tách nhà thờ khỏi Nhà nước; giao xí nghiệp của chủ bỏ trốn cho công nhân",
+    "Tồn tại 72 ngày – hình ảnh nhà nước kiểu mới của giai cấp vô sản"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ngày 18 tháng 3 năm 1871, khởi nghĩa ở Pa-ri thắng lợi, đó là cuộc cách mạng vô sản đầu tiên trên thế giới.",
+     "Remember: on 18 March 1871 the Paris uprising won; it was the world's first proletarian revolution."
+    ],
+    [
+     "Hân Hân",
+     "Công xã được bầu theo nguyên tắc phổ thông đầu phiếu, cơ quan quyền lực cao nhất là Hội đồng Công xã.",
+     "The Commune was elected by universal suffrage, with the Commune Council as its highest authority."
+    ],
+    [
+     "Nhật Minh",
+     "Công xã tách nhà thờ khỏi Nhà nước, giao xí nghiệp của bọn chủ bỏ trốn cho công nhân.",
+     "It separated church and state and handed abandoned enterprises to the workers."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ tồn tại 72 ngày, nhưng Công xã là hình ảnh của nhà nước kiểu mới, nhà nước của giai cấp vô sản đầu tiên trên thế giới.",
+     "It lasted 72 days, yet it was the image of a new kind of state, the world's first proletarian state."
+    ]
+   ],
+   "nguon_trang": [
+    50,
+    52
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng giữa quảng trường Pa-ri lúc hoàng hôn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "phố chiều nhẹ nhàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy nêu hai việc làm chứng tỏ Công xã Pa-ri là một nhà nước kiểu mới. Bình luận câu trả lời nhé!",
+     "Your challenge: name two things that show the Paris Commune was a new kind of state. Post your answer in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Công xã Pa-ri tồn tại trong bao lâu?",
+   "dap_an": [
+    "27 ngày",
+    "72 ngày",
+    "100 ngày",
+    "1 năm"
+   ],
+   "dung": 1,
+   "trang": 52
+  },
+  {
+   "hoi": "Công xã Pa-ri được bầu ra theo nguyên tắc nào?",
+   "dap_an": [
+    "Cha truyền con nối",
+    "Phổ thông đầu phiếu",
+    "Chỉ định của Phổ",
+    "Do quân đội lựa chọn"
+   ],
+   "dung": 1,
+   "trang": 52
+  },
+  {
+   "hoi": "Cơ quan quyền lực cao nhất của Công xã Pa-ri là",
+   "dap_an": [
+    "Quốc hội lập hiến",
+    "Hội đồng Công xã",
+    "Chính phủ lâm thời",
+    "Uỷ ban Cứu quốc"
+   ],
+   "dung": 1,
+   "trang": 52
+  },
+  {
+   "hoi": "Trước khi Công xã ra đời, nhân dân Pa-ri đã lật đổ chính quyền của ai?",
+   "dap_an": [
+    "Lu-i XVI",
+    "Na-pô-lê-ông III",
+    "Sác-lơ I",
+    "G. Oa-sinh-tơn"
+   ],
+   "dung": 1,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 50 (yêu cầu cần đạt: nhà nước kiểu mới – nhà nước của giai cấp vô sản đầu tiên trên thế giới), tr. 51 (chiến tranh Pháp – Phổ 1870 – 1871, lật đổ Na-pô-lê-ông III), tr. 52 (chính phủ lâm thời thoả hiệp; 18 – 3; phổ thông đầu phiếu; Hội đồng Công xã; tư liệu về các sắc lệnh; 72 ngày từ 18 – 3 – 1871 đến 28 – 5 – 1871; ý nghĩa). Sửa kiến thức chốt danh mục: 'giao xí nghiệp cho công nhân quản lý' chuẩn lại đúng SGK là giao những xí nghiệp của bọn chủ trốn khỏi Pa-ri; 'nhà nước vô sản đầu tiên' giữ đúng câu chữ SGK. SGK không mô tả cách Công xã bị đàn áp nên kịch bản không kể. Không có lược đồ trong SGK nên không dựng sa bàn. Thời kì đã có ảnh chụp: chỉ dùng ảnh/tranh khắc tư liệu, không lời thoại dựng, Minh – Hân chỉ ở hiện tại.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

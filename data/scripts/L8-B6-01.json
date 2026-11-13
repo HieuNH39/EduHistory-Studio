@@ -1,0 +1,188 @@
+{
+ "ma": "L8-B6-01",
+ "ten_tap": "Hành trình về phương Nam",
+ "ten_tap_en": "The Journey South",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+  "trang": [
+   28,
+   29
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-hoang",
+  "dan-cu-thuan-quang"
+ ],
+ "nhac": {
+  "tam_trang": "khoáng đạt, mở đất, ấm áp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của Nguyễn Hoàng là tái hiện mang tính minh hoạ, không phải trích dẫn lịch sử; hình vẽ theo tham chiếu tượng ở Hình 6.1 SGK; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 6, tr. 28–29.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trước tượng chúa Nguyễn Hoàng ở phường Điện Bàn, thành phố Đà Nẵng hôm nay, trời nắng trong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là tượng chúa Nguyễn Hoàng, người có công lớn mở mang vùng đất Đàng Trong.",
+     "This is a statue of Lord Nguyễn Hoàng, who did so much to open up the southern lands."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-hoang",
+    "dan-cu-thuan-quang"
+   ],
+   "hinh": "Khung dọc 9:16: Năm 1558, đoàn thuyền cập bến một vùng đất hoang vắng ở Thuận Hoá, cỏ lau bạt ngàn, nhà cửa thưa thớt; Nguyễn Hoàng (vẽ theo tham chiếu tượng Hình 6.1, áo giáp, áo bào) đứng ở mũi thuyền chỉ tay về phía đất liền",
+   "loi": [
+    [
+     "Nguyễn Hoàng",
+     "Đất còn rộng, người còn thưa. Ta cùng nhau khai phá!",
+     "The land is vast and the people few. Let us clear it together!"
+    ],
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XVI, vùng Thuận – Quảng dân cư còn thưa thớt. Năm 1558, Nguyễn Hoàng vào trấn thủ Thuận Hoá.",
+     "In the early 16th century, Thuận–Quảng was thinly populated. In 1558, Nguyễn Hoàng came to govern Thuận Hoá."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "dan-cu-thuan-quang"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên gò cao nhìn những thửa ruộng mới khai phá, làng xóm mái tranh mọc lên dọc sông, người dân cày bừa; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Việc di dân, khai phá được đẩy mạnh. Đến cuối thế kỉ XVI, cả vùng Thuận – Quảng đã có khoảng 1 226 xã, thôn!",
+     "Migration and land clearing sped up. By the late 16th century, Thuận–Quảng had about 1,226 communes and hamlets!"
+    ],
+    [
+     "Nhật Minh",
+     "Các chúa Nguyễn kế nghiệp xây dựng bộ máy chính quyền và đẩy mạnh khai hoang vùng đất mới.",
+     "The Nguyễn lords who followed built up the government and pushed further into new lands."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Năm 1558, Nguyễn Hoàng vào trấn thủ vùng nào?",
+    "lua_chon": [
+     "Gia Định",
+     "Thuận Hoá",
+     "Phú Yên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1558, Nguyễn Hoàng vào trấn thủ vùng nào?",
+     "Pause! Which region did Nguyễn Hoàng come to govern in 1558?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Thuận Hoá!",
+     "The answer is B: Thuận Hoá!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân vẫy tay về phía người xem trước tượng chúa Nguyễn Hoàng hôm nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quê cậu có câu chuyện khai làng, lập ấp nào không? Kể cho tụi mình nghe nhé!",
+     "Does your hometown have a story about how it was founded? Tell us!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vào đầu thế kỉ XVI, dân cư ở vùng đất Thuận – Quảng như thế nào?",
+   "dap_an": [
+    "Rất đông đúc",
+    "Còn thưa thớt",
+    "Đã có nhiều thành thị lớn",
+    "Không có người ở"
+   ],
+   "dung": 1,
+   "trang": 28
+  },
+  {
+   "hoi": "Đến cuối thế kỉ XVI, vùng Thuận – Quảng có khoảng bao nhiêu xã, thôn?",
+   "dap_an": [
+    "Khoảng 1 226",
+    "Khoảng 122",
+    "Khoảng 12 260",
+    "Khoảng 30"
+   ],
+   "dung": 0,
+   "trang": 28
+  },
+  {
+   "hoi": "Năm 1611, Nguyễn Hoàng lập phủ nào?",
+   "dap_an": [
+    "Phủ Gia Định",
+    "Phủ Phú Yên",
+    "Phủ Bình Thuận",
+    "Phủ Thừa Thiên"
+   ],
+   "dung": 1,
+   "trang": 29
+  },
+  {
+   "hoi": "Kế nghiệp Nguyễn Hoàng, các chúa Nguyễn đã làm gì?",
+   "dap_an": [
+    "Xây dựng bộ máy chính quyền, thực hiện chính sách khai hoang",
+    "Rời bỏ Thuận – Quảng",
+    "Đóng cửa không buôn bán",
+    "Sáp nhập vào Đàng Ngoài"
+   ],
+   "dung": 0,
+   "trang": 28
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 28 (Hình 6.1 tượng Nguyễn Hoàng ở phường Điện Bàn, thành phố Đà Nẵng; dân cư Thuận – Quảng thưa thớt đầu thế kỉ XVI; 1558 Nguyễn Hoàng vào trấn thủ Thuận Hoá; cuối thế kỉ XVI khoảng 1 226 xã, thôn; các chúa Nguyễn xây dựng chính quyền, khai hoang), tr. 29 (Hình 6.2: 1611 lập phủ Phú Yên). Danh mục khớp SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

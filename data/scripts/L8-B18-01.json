@@ -1,0 +1,179 @@
+{
+ "ma": "L8-B18-01",
+ "ten_tap": "Dụ Cần vương: Lời kêu gọi cứu nước",
+ "ten_tap_en": "The Cần Vương Edict: A Call to Save the Nation",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 18. Phong trào chống Pháp trong những năm 1885 – 1896",
+  "trang": [
+   84
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ton-that-thuyet",
+  "ham-nghi",
+  "van-than-si-phu"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, hào hùng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có cảnh tái hiện, không có lời thoại của nhân vật lịch sử; hình ảnh lịch sử là ảnh tư liệu; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 18, tr. 84.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (1885): không dùng AI vẽ vua Hàm Nghi, Tôn Thất Thuyết hay cảnh có thật; chỉ dùng ảnh tư liệu phạm vi công cộng, ghi nguồn. Không có lời thoại dựng cho nhân vật lịch sử. Minh – Hân chỉ xuất hiện ở hiện tại; thẻ ghi nhớ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trước một cổng thành cổ của Kinh thành Huế hôm nay, rêu phong phủ tường gạch, trời trong xanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1885, từ kinh thành Huế, một lời kêu gọi đã làm bùng lên cả một phong trào chống Pháp!",
+     "In 1885, a call from the Huế citadel set off a whole movement against the French!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Tôn Thất Thuyết (như Hình 18.3 SGK)",
+    "tim": "Tôn Thất Thuyết photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX – đầu XX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật"
+   },
+   "hinh": "Khung dọc 9:16: Ảnh tư liệu Tôn Thất Thuyết (1835 – 1913)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Với Hiệp ước Pa-tơ-nốt, Pháp về cơ bản đã hoàn thành xâm lược nước ta. Nhưng phái chủ chiến trong triều, đứng đầu là Thượng thư Bộ Binh Tôn Thất Thuyết, vẫn quyết chống Pháp.",
+     "With the Patenôtre Treaty, France had largely completed its conquest. But the court's war party, led by War Minister Tôn Thất Thuyết, was still determined to resist."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu vua Hàm Nghi (như Hình 18.2 SGK)",
+    "tim": "Hàm Nghi photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX – đầu XX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật"
+   },
+   "hinh": "Khung dọc 9:16: Ảnh tư liệu vua Hàm Nghi (1872 – 1943)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau cuộc phản công ở kinh thành Huế không thành ngày 5 tháng 7 năm 1885, Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở, Quảng Trị, rồi lấy danh nghĩa nhà vua ban Dụ Cần vương.",
+     "After the failed counterattack at Huế on 5 July 1885, Tôn Thất Thuyết took Emperor Hàm Nghi to Tân Sở in Quảng Trị and issued the Cần Vương edict in his name."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Dụ Cần vương kêu gọi điều gì?",
+    "lua_chon": [
+     "Văn thân, sĩ phu và nhân dân giúp vua cứu nước",
+     "Nhân dân hợp tác với Pháp",
+     "Các nước phương Tây giúp đỡ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Dụ Cần vương kêu gọi điều gì?",
+     "Pause! What did the Cần Vương edict call for?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: văn thân, sĩ phu và nhân dân cả nước giúp vua cứu nước!",
+     "The answer is A: scholars, gentry and people nationwide to help the king save the country!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân ngồi trên bậc đá trước cổng thành Huế hôm nay, Hân Hân giơ tay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, vì sao một lời kêu gọi lại khiến cả nước hưởng ứng? Bình luận nhé!",
+     "Why do you think one call rallied the whole country? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hiệp ước nào đánh dấu Pháp về cơ bản hoàn thành quá trình xâm lược Việt Nam?",
+   "dap_an": [
+    "Hiệp ước Nhâm Tuất",
+    "Hiệp ước Pa-tơ-nốt",
+    "Hiệp ước Nam Kinh",
+    "Hiệp ước Tân Sửu"
+   ],
+   "dung": 1,
+   "trang": 84
+  },
+  {
+   "hoi": "Tôn Thất Thuyết giữ chức vụ gì?",
+   "dap_an": [
+    "Thượng thư Bộ Binh, thành viên Hội đồng Phụ chính",
+    "Toàn quyền Đông Dương",
+    "Tổng đốc Hà Nội",
+    "Kinh lược sứ Bắc Kì"
+   ],
+   "dung": 0,
+   "trang": 84
+  },
+  {
+   "hoi": "Tôn Thất Thuyết đưa vua Hàm Nghi rời kinh thành ra đâu?",
+   "dap_an": [
+    "Tân Sở (Quảng Trị)",
+    "Gia Định",
+    "Hà Nội",
+    "Hương Khê (Hà Tĩnh)"
+   ],
+   "dung": 0,
+   "trang": 84
+  },
+  {
+   "hoi": "Phong trào Cần vương kéo dài đến khi nào?",
+   "dap_an": [
+    "Cuối thế kỉ XIX",
+    "Năm 1858",
+    "Đầu thế kỉ XVIII",
+    "Năm 1945"
+   ],
+   "dung": 0,
+   "trang": 84
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 84 (Hiệp ước Pa-tơ-nốt; Tôn Thất Thuyết, Thượng thư Bộ Binh, thành viên Hội đồng Phụ chính; phản công ở kinh thành Huế 5 – 7 – 1885; Tân Sở (tỉnh Quảng Trị); Dụ Cần vương; phong trào kéo dài đến cuối thế kỉ XIX; Hình 18.2 Hàm Nghi (1872 – 1943), Hình 18.3 Tôn Thất Thuyết (1835 – 1913)). Danh mục: 'Pháp hoàn thành xâm lược Việt Nam' sửa theo SGK 'về cơ bản đã hoàn thành quá trình xâm lược'.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

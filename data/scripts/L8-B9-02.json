@@ -1,0 +1,319 @@
+{
+ "ma": "L8-B9-02",
+ "ten_tap": "Check-in làng nghề và phố thị sầm uất",
+ "ten_tap_en": "Visiting Craft Villages and Busy Trading Towns",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+  "trang": [
+   42,
+   43,
+   44
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-thu-cong-lang-nghe",
+  "thuong-nhan-nuoc-ngoai",
+  "thuong-nhan-dai-viet"
+ ],
+ "nhac": {
+  "tam_trang": "vui tươi, nhộn nhịp như phiên chợ; lắng lại ở đoạn các thành thị suy tàn",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh minh hoạ; không có lời thoại dựng cho nhân vật lịch sử. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 9, tr. 42–44.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong một xưởng gốm ở làng gốm Bát Tràng (Hà Nội) hôm nay: bàn xoay, những bình gốm men lam xếp hàng, lò nung, khách tham quan nặn gốm; Hân Hân tay lấm đất sét",
+   "am_thanh": "tiếng bàn xoay, tiếng cười nói",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dân gian có câu: “Ước gì anh lấy được nàng, để anh mua gạch Bát Tràng về xây”. Làng gốm Bát Tràng đã nổi tiếng từ rất lâu rồi!",
+     "A folk verse goes: 'If only I could marry you, I'd buy Bát Tràng bricks to build our home.' Bát Tràng pottery village has been famous for a very long time!"
+    ],
+    [
+     "Nhật Minh",
+     "Còn có câu “Thứ nhất Kinh Kì, thứ nhì Phố Hiến” nữa. Tụi mình cùng check-in làng nghề, phố thị thế kỉ XVI – XVIII nhé!",
+     "There's also 'First the Capital, second Phố Hiến.' Let's tour the craft villages and towns of the 16th to 18th centuries!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tho-thu-cong-lang-nghe"
+   ],
+   "hinh": "Một làng nghề thế kỉ XVII: thợ gốm nặn bình trên bàn xoay, phụ nữ dệt lụa bên khung cửi, lò rèn đỏ lửa với thợ rèn quai búa, người phơi giấy dó trên giàn tre; trẻ con chạy giữa các xưởng",
+   "am_thanh": "tiếng búa rèn, tiếng khung cửi lách cách",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời kì này, các nghề thủ công trong nhân dân phát triển mạnh mẽ hơn: dệt vải lụa, đồ gốm, rèn sắt, đúc đồng, dệt chiếu, làm giấy.",
+     "In this period, folk crafts flourished: silk weaving, pottery, blacksmithing, bronze casting, mat weaving and paper-making."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều làng nghề nổi tiếng như làng gốm Thổ Hà ở Bắc Ninh, Bát Tràng ở Hà Nội, làng dệt La Khê ở Hà Nội, làng làm giấy Châu Khê ở Bắc Ninh.",
+     "Famous craft villages included the pottery villages of Thổ Hà in Bắc Ninh and Bát Tràng in Hà Nội, the La Khê weaving village in Hà Nội, and the Châu Khê paper village in Bắc Ninh."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cây đèn gốm men lam xám thế kỉ XVI – Bảo vật quốc gia, lưu giữ tại Bảo tàng Hà Nội (như Hình 9.1 SGK)",
+    "tim": "cây đèn gốm men lam xám thế kỉ XVI bảo vật quốc gia Bảo tàng Hà Nội",
+    "yeu_cau": "ảnh hiện vật từ nguồn chính thức của bảo tàng hoặc ảnh có giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Ảnh hiện vật: cây đèn gốm men lam xám thế kỉ XVI – Bảo vật quốc gia",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là cây đèn gốm men lam xám thế kỉ XVI, một Bảo vật quốc gia, hiện được lưu giữ tại Bảo tàng Hà Nội.",
+     "This is a 16th-century grey-blue glazed ceramic lamp, a National Treasure now kept at the Hà Nội Museum."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "thuong-nhan-dai-viet",
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đi giữa một con phố buôn bán tấp nập ở Phố Hiến thế kỉ XVII: dãy cửa hàng mái ngói, thuyền buôn neo bên sông, thương nhân nước ngoài trao đổi hàng với người Việt, hàng lụa, gốm bày la liệt",
+   "am_thanh": "tiếng chợ, tiếng thuyền, nhiều thứ tiếng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Phố Hiến, nay thuộc tỉnh Hưng Yên, một trung tâm buôn bán lớn ở Đàng Ngoài, bên cạnh Thăng Long, còn gọi là Kẻ Chợ, với 36 phố phường.",
+     "This is Phố Hiến, now in Hưng Yên province, a big trading centre of Đàng Ngoài, alongside Thăng Long, also called Kẻ Chợ, with its 36 streets."
+    ],
+    [
+     "Nhật Minh",
+     "Phố Hiến có trên 20 phường, trong đó có 8 phường thủ công. Lại có khá nhiều người nước ngoài sinh sống, buôn bán ở đây nữa!",
+     "Phố Hiến had over 20 wards, 8 of them craft wards, and quite a few foreigners lived and traded here too!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Cảng thị Hội An thế kỉ XVII: thuyền buôn nhiều nước cập bến sông, thương nhân Nhật, Hoa, châu Âu mặc trang phục khác nhau mua tơ lụa, lâm sản; phía xa là cây cầu gỗ có mái che (Chùa Cầu)",
+   "am_thanh": "sóng nước, tiếng mặc cả",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đàng Trong, Hội An, nay thuộc thành phố Đà Nẵng, là cảng thị lớn nhất, nơi cập bến của nhiều thuyền buôn nước ngoài.",
+     "In Đàng Trong, Hội An, now part of Đà Nẵng, was the largest port town, where many foreign ships docked."
+    ],
+    [
+     "Hân Hân",
+     "Người Nhật, người Hoa, thương nhân Bồ Đào Nha, Hà Lan, Anh, Pháp đến đây bán vũ khí, hàng mĩ nghệ, kẽm, bạc và mua tơ lụa, lâm sản quý, yến sào, nông sản.",
+     "Japanese, Chinese, Portuguese, Dutch, English and French traders came to sell weapons, crafts, zinc and silver, and to buy silk, precious forest goods, bird's nests and farm produce."
+    ],
+    [
+     "Nhật Minh",
+     "Chùa Cầu ở phố cổ Hội An do thương nhân Nhật Bản xây dựng từ đầu thế kỉ XVII.",
+     "The Covered Bridge in Hội An's old town was built by Japanese merchants in the early 17th century."
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cảng thị lớn nhất Đàng Trong trong các thế kỉ XVII – XVIII là",
+    "lua_chon": [
+     "Phố Hiến",
+     "Hội An",
+     "Thăng Long"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cảng thị lớn nhất Đàng Trong là ở đâu?",
+     "Pause! Which was the largest port town in Đàng Trong?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Hội An!",
+     "The answer is B: Hội An!"
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuong-nhan-dai-viet"
+   ],
+   "hinh": "Bến cảng thưa thớt, vắng thuyền buôn nước ngoài cuối thế kỉ XVIII, vài chiếc thuyền cũ nằm im, cửa hàng đóng cửa, lá rụng trên phố",
+   "am_thanh": "gió, sóng vỗ lặng lẽ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng đến nửa sau thế kỉ XVIII, các thành thị dần suy tàn, do chính quyền Đàng Ngoài và Đàng Trong thi hành chính sách hạn chế ngoại thương.",
+     "But in the second half of the 18th century, the towns gradually declined, as both Đàng Ngoài and Đàng Trong restricted foreign trade."
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Thủ công nghiệp phát triển mạnh: gốm Bát Tràng, Thổ Hà; dệt La Khê; giấy Châu Khê...",
+    "Thương nghiệp: Thăng Long (Kẻ Chợ), Phố Hiến ở Đàng Ngoài; Hội An, Thanh Hà, Gia Định ở Đàng Trong",
+    "Hội An: cảng thị lớn nhất Đàng Trong, nhiều thương nhân nước ngoài",
+    "Nửa sau thế kỉ XVIII: thành thị dần suy tàn do chính sách hạn chế ngoại thương"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: thủ công nghiệp phát triển với nhiều làng nghề nổi tiếng.",
+     "Remember: crafts flourished, with many famous craft villages."
+    ],
+    [
+     "Hân Hân",
+     "Thương nghiệp có Thăng Long, Phố Hiến ở Đàng Ngoài; Hội An, Thanh Hà, Gia Định ở Đàng Trong.",
+     "Trade centred on Thăng Long and Phố Hiến in the north, and Hội An, Thanh Hà and Gia Định in the south."
+    ],
+    [
+     "Nhật Minh",
+     "Nửa sau thế kỉ XVIII, các thành thị dần suy tàn do chính sách hạn chế ngoại thương.",
+     "In the late 18th century, the towns declined because of restrictions on foreign trade."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    43,
+    44
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại xưởng gốm Bát Tràng, cầm chiếc bình gốm vừa nặn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "tiếng bàn xoay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: câu “Thứ nhất Kinh Kì, thứ nhì Phố Hiến” phản ánh điều gì về thương nghiệp thời ấy? Bình luận nhé!",
+     "Your challenge: what does 'First the Capital, second Phố Hiến' tell us about trade at that time? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Làng gốm Thổ Hà thuộc tỉnh nào ngày nay?",
+   "dap_an": [
+    "Bắc Ninh",
+    "Hưng Yên",
+    "Nghệ An",
+    "Đà Nẵng"
+   ],
+   "dung": 0,
+   "trang": 43
+  },
+  {
+   "hoi": "Ở Đàng Ngoài, ngoài Thăng Long, trung tâm buôn bán lớn nào được nhắc tới?",
+   "dap_an": [
+    "Hội An",
+    "Phố Hiến",
+    "Gia Định",
+    "Thanh Hà"
+   ],
+   "dung": 1,
+   "trang": 43
+  },
+  {
+   "hoi": "Chùa Cầu ở Hội An do ai xây dựng từ đầu thế kỉ XVII?",
+   "dap_an": [
+    "Thương nhân Nhật Bản",
+    "Thương nhân Hà Lan",
+    "Chúa Nguyễn",
+    "Thương nhân Bồ Đào Nha"
+   ],
+   "dung": 0,
+   "trang": 44
+  },
+  {
+   "hoi": "Vì sao các thành thị dần suy tàn vào nửa sau thế kỉ XVIII?",
+   "dap_an": [
+    "Do chính sách hạn chế ngoại thương",
+    "Do thiếu thợ thủ công",
+    "Do động đất",
+    "Do thương nhân nước ngoài bỏ đi vì chiến tranh thế giới"
+   ],
+   "dung": 0,
+   "trang": 44
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 42 (câu ca dao mở đầu), tr. 43 (thủ công nghiệp, làng nghề, Hình 9.1; thương nghiệp, Thăng Long – Kẻ Chợ 36 phố phường, Phố Hiến; tư liệu 1 về Phố Hiến), tr. 44 (Thanh Hà, Hội An, Gia Định; tư liệu 2 về Hội An; Hình 9.3 Chùa Cầu; thành thị suy tàn nửa sau thế kỉ XVIII). Sửa kiến thức chốt danh mục: 'cuối thế kỉ XVIII ngoại thương suy tàn' chuẩn lại đúng SGK là 'nửa sau thế kỉ XVIII, các thành thị dần suy tàn do chính sách hạn chế ngoại thương'. Mô phỏng 3D Hội An trong danh mục được thay bằng cảnh minh hoạ (pipeline chưa có mô phỏng phù hợp). Địa danh hiện nay theo đúng SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

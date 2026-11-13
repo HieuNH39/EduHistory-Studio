@@ -1,0 +1,342 @@
+{
+ "ma": "L8-B15-01",
+ "ten_tap": "Ấn Độ dưới ách cai trị của thực dân Anh",
+ "ten_tap_en": "India Under British Colonial Rule",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 15. Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   67,
+   68
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nu-hoang-anh-vich-to-ri-a"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, nặng nề, day dứt; khép lại suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có lời thoại của nhân vật lịch sử. Cảnh đầu thế kỉ XVIII là minh hoạ chung; các cảnh sau năm 1850 dùng ảnh, tranh tư liệu. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 15, tr. 67–68.",
+ "chinh_sach_hinh": "Nửa sau thế kỉ XIX là thời kì đã có ảnh chụp: không dùng AI vẽ Nữ hoàng Vích-to-ri-a hay cảnh có thật (lễ tuyên bố năm 1877, khởi nghĩa Xi-pay); chỉ dùng ảnh, tranh khắc tư liệu phạm vi công cộng, ghi nguồn. Nữ hoàng chỉ được nhắc tên. Cảnh đầu thế kỉ XVIII vẽ minh hoạ chung, không có nhân vật có tên. Các chính sách thể hiện bằng thẻ ghi nhớ dựng bằng code. Minh – Hân chỉ quan sát trong cảnh du hành.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Phòng học Địa lí của trường hôm nay: Nhật Minh xoay quả địa cầu lớn, Hân Hân đặt ngón tay lên bán đảo Ấn Độ; trên bảng có dòng chữ phấn 'Bài 15', nắng chiếu qua cửa sổ",
+   "am_thanh": "tiếng quả địa cầu xoay, tiếng phấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nửa sau thế kỉ XIX, Ấn Độ và hầu hết các nước Đông Nam Á bị thực dân phương Tây xâm chiếm.",
+     "In the second half of the 19th century, India and most of Southeast Asia were seized by Western colonialists."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay mình đến Ấn Độ, xem thực dân Anh đã cai trị đất nước này ra sao!",
+     "Today we're heading to India to see how the British ruled it!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu thế kỉ XVIII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng trên tường thành một pháo đài đá đỏ ở Ấn Độ đầu thế kỉ XVIII, quan sát hai đội quân của các chúa phong kiến bản xứ (voi chiến, kị binh, cờ khác màu) giao tranh dưới cánh đồng; xa xa ngoài cửa sông có những con tàu buồm châu Âu thả neo; hai bạn chỉ quan sát",
+   "am_thanh": "trống trận, voi rống, gió",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ đầu thế kỉ XVIII, các chúa phong kiến Ấn Độ tranh giành quyền lực với nhau, làm đất nước suy yếu.",
+     "From the early 18th century, India's feudal lords fought each other for power, weakening the country."
+    ],
+    [
+     "Hân Hân",
+     "Anh và Pháp lợi dụng cơ hội, đua nhau xâm lược. Đến giữa thế kỉ XIX, thực dân Anh hoàn thành việc xâm chiếm và áp đặt ách cai trị ở Ấn Độ.",
+     "Britain and France seized the chance and raced to invade. By the mid-19th century, the British had completed their conquest and imposed their rule."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh khắc, tranh in tư liệu về buổi lễ năm 1877 tuyên bố Nữ hoàng Anh đồng thời là Nữ hoàng Ấn Độ (tương tự Hình 15.1 SGK, là tranh vẽ)",
+    "tim": "Delhi Durbar 1877 proclamation engraving",
+    "yeu_cau": "tranh khắc, tranh in thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại bằng AI"
+   },
+   "hinh": "Tư liệu: buổi lễ tuyên bố Nữ hoàng Anh đồng thời là Nữ hoàng Ấn Độ (năm 1877)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về chính trị, thực dân Anh áp đặt và củng cố quyền cai trị trực tiếp. Thay mặt Chính phủ Anh là một Phó vương cùng một hội đồng điều hành năm uỷ viên.",
+     "Politically, the British imposed and tightened direct rule. Representing the British government was a Viceroy with a five-member executive council."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 1 tháng 1 năm 1877, Nữ hoàng Anh Vích-to-ri-a tuyên bố đồng thời là Nữ hoàng Ấn Độ, đánh dấu Anh đã hoàn thành việc chinh phục Ấn Độ.",
+     "On 1 January 1877, Queen Victoria proclaimed herself Empress of India as well, marking the completion of Britain's conquest of India."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sự kiện ngày 1 – 1 – 1877 đánh dấu điều gì?",
+    "lua_chon": [
+     "Khởi nghĩa Xi-pay bùng nổ",
+     "Anh hoàn thành việc chinh phục Ấn Độ",
+     "Pháp chiếm được Ấn Độ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Việc Nữ hoàng Anh tuyên bố đồng thời là Nữ hoàng Ấn Độ ngày 1 tháng 1 năm 1877 đánh dấu điều gì?",
+     "Pause! What did Queen Victoria's proclamation as Empress of India on 1 January 1877 mark?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Anh hoàn thành việc chinh phục Ấn Độ!",
+     "The answer is B: Britain had completed its conquest of India!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH TRỊ",
+   "y": [
+    "Cai trị trực tiếp: Phó vương và hội đồng điều hành",
+    "Nhượng bộ tầng lớp trên của phong kiến bản xứ, biến họ thành tay sai",
+    "Khơi sâu cách biệt về chủng tộc, tôn giáo"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để có chỗ dựa vững chắc, thực dân Anh nhượng bộ tầng lớp trên của phong kiến bản xứ, biến họ thành tay sai.",
+     "To secure their rule, the British made concessions to the native feudal upper class and turned them into collaborators."
+    ],
+    [
+     "Hân Hân",
+     "Chúng còn tìm cách khơi sâu sự cách biệt về chủng tộc, tôn giáo ở Ấn Độ.",
+     "They also worked to deepen racial and religious divisions in India."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "KINH TẾ",
+   "y": [
+    "Khai thác quy mô lớn: vơ vét nguyên liệu, bóc lột nhân công",
+    "Nông nghiệp: chiếm đoạt ruộng đất lập đồn điền, nông dân bần cùng",
+    "Công nghiệp: khai thác hầm mỏ, chế biến, giao thông; thành phố, hải cảng mới"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, thực dân Anh khai thác Ấn Độ trên quy mô lớn, ra sức vơ vét nguyên liệu và bóc lột nhân công để thu lợi tối đa.",
+     "Economically, the British exploited India on a large scale, draining raw materials and exploiting labour for maximum profit."
+    ],
+    [
+     "Nhật Minh",
+     "Trong nông nghiệp, chính quyền thực dân chiếm đoạt ruộng đất để lập đồn điền. Nông dân bị bần cùng, người chết đói ngày càng nhiều.",
+     "In farming, the colonial government seized land for plantations. Peasants were impoverished, and more and more died of hunger."
+    ],
+    [
+     "Hân Hân",
+     "Công nghiệp cũng có chuyển biến: hầm mỏ, công nghiệp chế biến, đường giao thông được mở mang, nhiều thành phố và hải cảng mới xuất hiện.",
+     "Industry changed too: mining, processing industries and roads expanded, and many new cities and ports appeared."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "XÃ HỘI",
+   "y": [
+    "Chính sách “ngu dân”",
+    "Khuyến khích tập quán lạc hậu, phản động",
+    "Mâu thuẫn cơ bản: nhân dân Ấn Độ – thực dân Anh"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về xã hội, thực dân Anh thi hành chính sách ngu dân, khuyến khích những tập quán lạc hậu và phản động.",
+     "Socially, the British pursued a policy of keeping people ignorant, encouraging backward and reactionary customs."
+    ],
+    [
+     "Hân Hân",
+     "Mâu thuẫn giữa nhân dân Ấn Độ với thực dân Anh trở thành mâu thuẫn cơ bản trong xã hội.",
+     "The conflict between the Indian people and the British colonialists became the fundamental conflict in society."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mâu thuẫn cơ bản trong xã hội Ấn Độ nửa sau thế kỉ XIX là mâu thuẫn giữa ai với ai?",
+    "lua_chon": [
+     "Giữa Anh với Pháp",
+     "Giữa các chúa phong kiến với nhau",
+     "Giữa nhân dân Ấn Độ với thực dân Anh"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Mâu thuẫn cơ bản trong xã hội Ấn Độ lúc này là giữa ai với ai?",
+     "Quick question! What was the fundamental conflict in Indian society at this time?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: giữa nhân dân Ấn Độ với thực dân Anh!",
+     "The answer is C: between the Indian people and the British colonialists!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp hoặc tranh khắc tư liệu về khởi nghĩa Xi-pay (1857 – 1859)",
+    "tim": "Indian Rebellion 1857 photograph Felice Beato",
+    "yeu_cau": "ảnh, tranh khắc năm 1857 – 1859, phạm vi công cộng, ghi nguồn; tránh ảnh có cảnh thi thể, chọn ảnh công trình, doanh trại hoặc tranh khắc"
+   },
+   "hinh": "Tư liệu: khởi nghĩa Xi-pay (1857 – 1859)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mâu thuẫn ấy dẫn tới các cuộc đấu tranh giành độc lập dân tộc. Tiêu biểu là khởi nghĩa Xi-pay, từ năm 1857 đến năm 1859.",
+     "That conflict led to struggles for national independence, most notably the Sepoy Rebellion of 1857 to 1859."
+    ],
+    [
+     "Hân Hân",
+     "Và phong trào đấu tranh do Đảng Quốc đại lãnh đạo trong những năm 1905 đến 1908.",
+     "And the movement led by the Indian National Congress from 1905 to 1908."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại phòng học Địa lí hôm nay: Hân Hân ngồi trên bàn đầu, quả địa cầu bên cạnh dừng ở Ấn Độ; Nhật Minh khoanh tay suy nghĩ rồi quay về phía người xem",
+   "am_thanh": "tiếng trống trường xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Có người nói thực dân phương Tây đến để khai hoá văn minh. Sau khi xem chính sách của Anh ở Ấn Độ, cậu nghĩ sao? Bình luận nhé!",
+     "Some say the Western colonialists came to bring civilisation. After seeing Britain's policies in India, what do you think? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    67,
+    68
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đến khi nào thực dân Anh hoàn thành việc xâm chiếm Ấn Độ?",
+   "dap_an": [
+    "Đầu thế kỉ XVIII",
+    "Giữa thế kỉ XIX",
+    "Đầu thế kỉ XX",
+    "Cuối thế kỉ XVI"
+   ],
+   "dung": 1,
+   "trang": 67
+  },
+  {
+   "hoi": "Thay mặt Chính phủ Anh cai trị Ấn Độ là",
+   "dap_an": [
+    "một Phó vương và hội đồng điều hành năm uỷ viên",
+    "Đảng Quốc đại",
+    "các chúa phong kiến bản xứ",
+    "Nữ hoàng Anh trực tiếp sang Ấn Độ điều hành"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Trong nông nghiệp, chính quyền thực dân Anh ở Ấn Độ đã làm gì?",
+   "dap_an": [
+    "Chia ruộng đất cho nông dân",
+    "Tăng cường chiếm đoạt ruộng đất để lập đồn điền",
+    "Xoá bỏ thuế cho nông dân",
+    "Chỉ trồng lúa cho người dân bản xứ"
+   ],
+   "dung": 1,
+   "trang": 68
+  },
+  {
+   "hoi": "Cuộc đấu tranh nào dưới đây là tiêu biểu của nhân dân Ấn Độ chống thực dân Anh?",
+   "dap_an": [
+    "Khởi nghĩa Xi-pay (1857 – 1859)",
+    "Cách mạng Tân Hợi (1911)",
+    "Công xã Pa-ri (1871)",
+    "Duy tân Minh Trị (1868)"
+   ],
+   "dung": 0,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 67 (Ấn Độ suy yếu từ đầu thế kỉ XVIII; Anh hoàn thành xâm chiếm giữa thế kỉ XIX; Phó vương, hội đồng năm uỷ viên; 1 – 1 – 1877; Hình 15.1 là tranh vẽ), tr. 68 (chính sách chính trị, kinh tế, xã hội; mâu thuẫn cơ bản; Xi-pay 1857 – 1859; Đảng Quốc đại 1905 – 1908). Danh mục: đổi tên tập, bỏ cụm 'viên ngọc quý' vì SGK không có; sửa 'mâu thuẫn sâu sắc' thành 'mâu thuẫn cơ bản' và bổ sung chính sách 'ngu dân' theo SGK. Không dựng bản đồ vì SGK không có lược đồ Ấn Độ ở bài này; dùng thẻ ghi nhớ. Phương án nhiễu Tân Hợi, Công xã Pa-ri, Duy tân Minh Trị lấy từ SGK Bài 11, 14.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

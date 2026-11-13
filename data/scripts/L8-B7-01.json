@@ -1,0 +1,181 @@
+{
+ "ma": "L8-B7-01",
+ "ten_tap": "Tại sao nông dân Đàng Ngoài nổi dậy?",
+ "ten_tap_en": "Why Did the Peasants of Đàng Ngoài Rise Up?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 7. Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+  "trang": [
+   31,
+   32
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan-dang-ngoai",
+  "hoan-quan"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, bất an, dồn nén",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh phủ chúa và cảnh vỡ đê, nạn đói giữa thế kỉ XVIII là minh hoạ chung, Minh – Hân chỉ quan sát, không có lời thoại của nhân vật lịch sử; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 7, tr. 31–32.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên mặt đê sông Hồng hôm nay lúc chiều, gió thổi tóc bay, phía dưới là bãi ngô xanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giữa thế kỉ XVIII, nông dân Đàng Ngoài nổi dậy khắp nơi. Điều gì đã dồn họ đến bước đường ấy?",
+     "In the mid-18th century, peasants rose up all over Đàng Ngoài. What drove them to it?"
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "hoan-quan"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng khuất sau cột gỗ sơn son trong phủ chúa Trịnh, nhìn cảnh yến tiệc linh đình, mâm cao cỗ đầy, ca múa; hoạn quan đi lại hách dịch; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính quyền Đàng Ngoài khủng hoảng sâu sắc. Vua Lê chỉ còn là cái bóng mờ trong cung cấm, phủ chúa giữ mọi quyền hành, quanh năm hội hè, yến tiệc, phung phí tiền của.",
+     "Đàng Ngoài's government was in deep crisis. The Lê king was a mere shadow in his palace; the lord's court held all power, feasting all year and wasting money."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "nong-dan-dang-ngoai"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên gò đất cao nhìn đoạn đê vỡ, nước tràn ngập ruộng và nhà tranh, người dân gầy gò dắt díu nhau đi tìm cái ăn; hai bạn chỉ quan sát, vẻ xót xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ruộng đất của nông dân bị lấn chiếm. Hạn hán, lụt lội, đê sông Hồng, sông Mã nhiều năm bị vỡ, mất mùa liên tiếp.",
+     "Peasants' land was seized. Droughts, floods and repeated breaches of the Red and Mã river dykes brought failed harvest after failed harvest."
+    ],
+    [
+     "Hân Hân",
+     "Thuế lại nặng: ai có nghề gì cũng phải nộp thuế. Nạn đói khủng khiếp, dân phiêu tán khắp nơi.",
+     "Taxes were heavy too: every trade had to pay. A terrible famine left people wandering everywhere."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Giữa thế kỉ XVIII, ai là người giữ mọi quyền hành ở Đàng Ngoài?",
+    "lua_chon": [
+     "Vua Lê",
+     "Phủ chúa Trịnh",
+     "Các thủ lĩnh nông dân"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Lúc ấy, ai giữ mọi quyền hành ở Đàng Ngoài?",
+     "Pause! Who held all the power in Đàng Ngoài then?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: phủ chúa Trịnh! Vua Lê chỉ là cái bóng mờ.",
+     "The answer is B: the Trịnh lord's court! The Lê king was just a shadow."
+    ]
+   ],
+   "nguon_trang": [
+    31
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân ngồi trên mặt đê hôm nay, Hân Hân quay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong các nguyên nhân vừa rồi, cậu thấy nguyên nhân nào nặng nề nhất với người nông dân? Bình luận nhé!",
+     "Of all these causes, which do you think hit the peasants hardest? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Giữa thế kỉ XVIII, vua Lê ở Đàng Ngoài được SGK ví như",
+   "dap_an": [
+    "Người nắm mọi quyền hành",
+    "Cái bóng mờ trong cung cấm",
+    "Thủ lĩnh nghĩa quân",
+    "Người đứng đầu phủ chúa"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Đê của những con sông nào ở Đàng Ngoài nhiều năm bị vỡ?",
+   "dap_an": [
+    "Sông Hồng, sông Mã",
+    "Sông Tiền, sông Hậu",
+    "Sông Gianh, sông Hương",
+    "Sông Đồng Nai"
+   ],
+   "dung": 0,
+   "trang": 31
+  },
+  {
+   "hoi": "Lệnh thu thuế của phủ chúa thời kì này quy định",
+   "dap_an": [
+    "Chỉ nông dân phải nộp thuế",
+    "Ai có nghề gì cũng đều phải nộp thuế",
+    "Miễn thuế cho thợ thủ công",
+    "Bãi bỏ mọi thứ thuế"
+   ],
+   "dung": 1,
+   "trang": 31
+  },
+  {
+   "hoi": "Phong trào nông dân Đàng Ngoài bùng nổ vào thời gian nào?",
+   "dap_an": [
+    "Giữa thế kỉ XVIII",
+    "Đầu thế kỉ XVI",
+    "Cuối thế kỉ XIX",
+    "Đầu thế kỉ XX"
+   ],
+   "dung": 0,
+   "trang": 32
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 31 (bối cảnh: khủng hoảng, vua Lê 'cái bóng mờ', phủ chúa giữ quyền, hội hè yến tiệc; ruộng đất bị lấn chiếm; hạn hán, lụt lội, vỡ đê sông Hồng, sông Mã; tư liệu 2: thuế, nạn đói), tr. 32 (nông dân vùng lên; phong trào bùng nổ giữa thế kỉ XVIII). Danh mục: 'vua chỉ là bù nhìn' diễn đạt theo SGK 'cái bóng mờ trong cung cấm'; 'sưu thuế nặng nề' cụ thể hoá theo tư liệu SGK 'ai có nghề gì cũng đều phải nộp thuế'.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

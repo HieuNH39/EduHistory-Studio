@@ -1,0 +1,249 @@
+{
+ "ma": "L8-B9-01",
+ "ten_tap": "Nông nghiệp Đàng Trong – Đàng Ngoài: Hai bức tranh đối lập",
+ "ten_tap_en": "Farming in Đàng Trong and Đàng Ngoài: Two Contrasting Pictures",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+  "trang": [
+   27,
+   29,
+   42
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan-dang-ngoai",
+  "dia-chu-dang-trong",
+  "luu-dan-khai-hoang"
+ ],
+ "nhac": {
+  "tam_trang": "buồn, trầm ở bức tranh Đàng Ngoài; tươi sáng, khoáng đạt ở bức tranh Đàng Trong; kết suy tư",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh minh hoạ; không có lời thoại dựng cho nhân vật lịch sử. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 9, tr. 42 (và Bài 5, 6).",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng giữa cánh đồng lúa chín vàng hôm nay, máy gặt đang chạy xa xa, Hân Hân cầm bông lúa, Nhật Minh cầm máy tính bảng có hai bức tranh cổ vẽ cảnh ruộng đồng",
+   "am_thanh": "gió đồng, tiếng máy gặt xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong các thế kỉ XVI – XVIII, nông nghiệp ở Đàng Ngoài và Đàng Trong giống như hai bức tranh đối lập.",
+     "In the 16th to 18th centuries, farming in Đàng Ngoài and Đàng Trong looked like two contrasting pictures."
+    ],
+    [
+     "Nhật Minh",
+     "Một bên sa sút, một bên phát triển. Vì sao vậy? Cùng xem nhé!",
+     "One declining, one thriving. Why? Let's take a look!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-dang-ngoai"
+   ],
+   "hinh": "Đàng Ngoài thế kỉ XVII – XVIII: ruộng đồng bỏ hoang cỏ mọc, đê vỡ nước tràn; người nông dân gầy gò gánh thóc nộp tô cho địa chủ ở sân nhà ngói; xa xa một gia đình dắt díu nhau rời làng",
+   "am_thanh": "gió lạnh, tiếng quạ, nhạc trầm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đàng Ngoài, những cuộc xung đột kéo dài làm sản xuất nông nghiệp sa sút nghiêm trọng. Ruộng công ngày càng bị biến thành ruộng tư.",
+     "In Đàng Ngoài, long conflicts badly damaged farming. More and more public land became private land."
+    ],
+    [
+     "Hân Hân",
+     "Nông dân mất ruộng phải lĩnh canh, nộp tô cho địa chủ, nộp thuế cho Nhà nước. Thiên tai, mất mùa, đói kém khiến nhiều người phải bỏ làng đi phiêu tán.",
+     "Landless peasants had to rent fields, pay rent to landlords and taxes to the state. Disasters, crop failures and famine drove many to abandon their villages."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "luu-dan-khai-hoang",
+    "dia-chu-dang-trong"
+   ],
+   "hinh": "Đàng Trong thế kỉ XVII – XVIII: cánh đồng lúa bát ngát bên sông rạch vùng đồng bằng sông Cửu Long, lưu dân khai hoang đắp bờ, cấy lúa; một điền chủ đứng trước kho thóc đầy ắp; trời trong xanh",
+   "am_thanh": "nước chảy, chim, tiếng hò cấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Đàng Trong, nhờ khai hoang và điều kiện tự nhiên thuận lợi, nông nghiệp phát triển rõ rệt, nhất là ở vùng đồng bằng sông Cửu Long.",
+     "In Đàng Trong, thanks to land clearing and favourable nature, farming clearly flourished, especially in the Mekong Delta."
+    ],
+    [
+     "Nhật Minh",
+     "Các chúa Nguyễn khuyến khích khai hoang: cấp công cụ, miễn giảm thuế, cho dân sở hữu ruộng đất khai khẩn được.",
+     "The Nguyễn lords encouraged clearing: giving tools, cutting taxes and letting people own the land they cleared."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    42
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI BỨC TRANH ĐỐI LẬP",
+   "y": [
+    "Đàng Ngoài: xung đột kéo dài → nông nghiệp sa sút; ruộng công thành ruộng tư; nông dân mất ruộng, phiêu tán",
+    "Đàng Trong: khai hoang, tự nhiên thuận lợi → nông nghiệp phát triển rõ rệt, nhất là đồng bằng sông Cửu Long",
+    "Đàng Trong hình thành tầng lớp địa chủ lớn, nhưng nông dân bị bần cùng hoá chưa nghiêm trọng như Đàng Ngoài"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "So sánh nhé: Đàng Ngoài sa sút vì xung đột kéo dài, nông dân mất ruộng, phiêu tán.",
+     "Compare: Đàng Ngoài declined due to long conflict, with peasants losing land and drifting away."
+    ],
+    [
+     "Hân Hân",
+     "Đàng Trong phát triển nhờ khai hoang và tự nhiên thuận lợi.",
+     "Đàng Trong flourished thanks to land clearing and kind nature."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Đàng Trong dần hình thành tầng lớp địa chủ lớn, nhưng tình trạng nông dân bị bần cùng hoá chưa nghiêm trọng như ở Đàng Ngoài.",
+     "A class of big landlords gradually emerged in Đàng Trong, but peasant impoverishment was not as severe as in Đàng Ngoài."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở Đàng Trong, nông nghiệp phát triển rõ rệt nhất ở vùng nào?",
+    "lua_chon": [
+     "Đồng bằng sông Hồng",
+     "Đồng bằng sông Cửu Long",
+     "Vùng Thanh – Nghệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ở Đàng Trong, nông nghiệp phát triển rõ rệt nhất ở vùng nào?",
+     "Pause! Where in Đàng Trong did farming flourish most?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: vùng đồng bằng sông Cửu Long!",
+     "The answer is B: the Mekong Delta!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trên bờ ruộng lúa chín lúc hoàng hôn, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "gió đồng chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Đàng Ngoài nông nghiệp sa sút, Đàng Trong nông nghiệp phát triển, nhất là ở đồng bằng sông Cửu Long.",
+     "Remember: farming declined in Đàng Ngoài but flourished in Đàng Trong, especially in the Mekong Delta."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, cuộc xung đột Trịnh – Nguyễn đã ảnh hưởng thế nào đến hai bức tranh nông nghiệp này? Bình luận nhé!",
+     "Your challenge: how do you think the Trịnh – Nguyễn conflict shaped these two farming pictures? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27,
+    42
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nguyên nhân chủ yếu làm nông nghiệp Đàng Ngoài sa sút trong các thế kỉ XVI – XVIII là gì?",
+   "dap_an": [
+    "Những cuộc xung đột kéo dài",
+    "Khai hoang quá nhiều",
+    "Ngoại thương phát triển",
+    "Dân cư quá thưa thớt"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Tình trạng ruộng đất nào ngày càng phổ biến ở Đàng Ngoài?",
+   "dap_an": [
+    "Ruộng tư thành ruộng công",
+    "Ruộng công thành ruộng tư",
+    "Ruộng bị bỏ thuế",
+    "Ruộng được chia đều"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Sự phát triển nông nghiệp Đàng Trong dần dẫn tới sự hình thành tầng lớp nào?",
+   "dap_an": [
+    "Tư sản công nghiệp",
+    "Địa chủ lớn",
+    "Công nhân",
+    "Quý tộc mới"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Chính sách nào của chúa Nguyễn khuyến khích khai hoang ở Đàng Trong?",
+   "dap_an": [
+    "Cấp công cụ, miễn giảm thuế, cho sở hữu ruộng khai khẩn",
+    "Cấm di dân",
+    "Tăng thuế ruộng mới",
+    "Bắt dân về kinh thành"
+   ],
+   "dung": 0,
+   "trang": 29
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 42 (mục 1a: nông nghiệp Đàng Ngoài, Đàng Trong), tr. 29 (chính sách khuyến khích khai hoang của chúa Nguyễn – dùng làm lí do bổ trợ), tr. 27 (hệ quả xung đột Trịnh – Nguyễn – dùng cho câu hỏi thử thách). Sửa kiến thức chốt danh mục: 'nông nghiệp thịnh vượng ở đồng bằng sông Cửu Long' chuẩn lại đúng SGK là 'nông nghiệp phát triển rõ rệt, nhất là ở vùng đồng bằng sông Cửu Long'; bổ sung ý SGK về tầng lớp địa chủ lớn ở Đàng Trong. SGK không có lược đồ so sánh diện tích canh tác nên thay bằng cảnh chia đôi và thẻ ghi nhớ. Không có lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

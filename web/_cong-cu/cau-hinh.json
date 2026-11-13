@@ -1,0 +1,8 @@
+{
+ "_huong_dan": "Cấu hình cho tao_thu_vien.py. nguon_video: các thư mục (tính từ gốc kho mã) chứa video đã dựng <MA>.mp4. thu_muc_video: nơi website tìm video (web/videos, không đưa lên git). cach_dua_video: lien-ket-cung (mặc định, không tốn thêm dung lượng) | sao-chep (dùng khi chép website sang USB/máy khác) | lien-ket-mem | khong (trỏ thẳng vào thư mục nguồn). tinh_video_cuc_bo: false khi tạo bản đăng GitHub Pages không kèm tệp video. anh_bia: tự tạo ảnh bìa cho tập có video.",
+ "nguon_video": ["renders/v1"],
+ "thu_muc_video": "web/videos",
+ "cach_dua_video": "lien-ket-cung",
+ "tinh_video_cuc_bo": true,
+ "anh_bia": true
+}

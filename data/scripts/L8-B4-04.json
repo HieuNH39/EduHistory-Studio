@@ -1,0 +1,597 @@
+{
+ "ma": "L8-B4-04",
+ "ten_tap": "Những ngọn lửa kháng chiến không bao giờ tắt",
+ "ten_tap_en": "Flames of Resistance That Never Died",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 4. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+  "trang": [
+   19,
+   20,
+   21,
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "la-pu-la-pu",
+  "di-po-ne-go-ro",
+  "ban-du-la",
+  "tho-dan-dao-mac-tan",
+  "nghia-quan-in-do-ne-xi-a",
+  "quan-doi-mien-dien",
+  "thuc-dan-tay-ban-nha",
+  "thuc-dan-ha-lan",
+  "quan-anh",
+  "nong-dan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "nhạc dân gian Đông Nam Á (trống, cồng) êm ở đầu, dồn dập ở các cảnh khởi nghĩa, trầm lắng khi kể về thất bại, kết ấm và suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 4, tr. 19–22.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Ngày hội văn hoá ASEAN ở sân trường FPT Bắc Giang hôm nay: dãy gian hàng treo cờ các nước Đông Nam Á, bóng bay, học sinh mặc trang phục truyền thống; Nhật Minh và Hân Hân (đồng phục FPT) đứng trước màn hình LED lớn chiếu ảnh tượng đài một chiến binh cầm khiên và đao giữa hàng dừa (như Hình 4.4 SGK)",
+   "am_thanh": "tiếng nhạc hội, học sinh cười nói",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhật Minh, bức tượng trên màn hình kia là tượng đài La-pu-la-pu ở Phi-líp-pin. Cậu biết ông là ai không?",
+     "Nhat Minh, the statue on that screen is the La-pu-la-pu monument in the Philippines. Do you know who he was?"
+    ],
+    [
+     "Nhật Minh",
+     "Một thủ lĩnh từng chống lại thực dân phương Tây! Hôm nay tụi mình cùng điểm lại cuộc đấu tranh của nhân dân Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX nhé!",
+     "A leader who fought Western colonisers! Today let's look back at how Southeast Asian peoples resisted, from the late 16th to the mid-19th century!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-dong-nam-a"
+   ],
+   "hinh": "Viễn cảnh một hải cảng Đông Nam Á thế kỉ XVI: thuyền buôn bản địa, chợ gia vị, ruộng lúa và núi rừng phía sau; ngoài khơi, những chiếc tàu buồm lớn kiểu châu Âu đang tiến vào (giống mô hình tàu ở Hình 4.2 SGK)",
+   "am_thanh": "sóng biển, tiếng chợ, cánh buồm căng gió",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao Đông Nam Á sớm trở thành mục tiêu xâm lược của các nước tư bản phương Tây? Vì khu vực này có vị trí địa lí quan trọng, lại giàu tài nguyên khoáng sản.",
+     "Why did Southeast Asia become an early target for Western capitalist powers? Because of its key location and its rich mineral resources."
+    ],
+    [
+     "Hân Hân",
+     "Trong khi châu Âu và Bắc Mỹ đã căn bản hoàn thành cách mạng tư sản, rồi cách mạng công nghiệp, thì các nước Đông Nam Á vẫn chìm đắm dưới chế độ phong kiến, với nền nông nghiệp lạc hậu.",
+     "While Europe and North America had largely completed their bourgeois and then industrial revolutions, Southeast Asia was still stuck under feudalism with a backward farm economy."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "THỰC DÂN PHƯƠNG TÂY XÂM NHẬP",
+   "y": [
+    "In-đô-nê-xi-a: giữa thế kỉ XIX, Hà Lan hoàn thành việc xâm chiếm",
+    "Phi-líp-pin: Tây Ban Nha xâm chiếm hầu hết quần đảo từ giữa thế kỉ XVI, thống trị suốt 350 năm",
+    "Miến Điện: thực dân Anh, Hà Lan, Pháp tranh chấp ảnh hưởng từ nửa sau thế kỉ XVI"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Hôm nay tụi mình theo chân ba nước. Ở In-đô-nê-xi-a, nhiều nước thực dân lần lượt xâm nhập; đến giữa thế kỉ XIX, Hà Lan hoàn thành việc xâm chiếm nước này.",
+     "Today we follow three countries. Several colonial powers moved into Indonesia; by the mid-19th century, the Dutch had completed their conquest."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Phi-líp-pin, từ giữa thế kỉ XVI, thực dân Tây Ban Nha xâm chiếm hầu hết quần đảo và áp đặt ách thống trị suốt 350 năm.",
+     "In the Philippines, from the mid-16th century, Spain seized most of the islands and ruled them for 350 years."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở Miến Điện, thực dân Anh, Hà Lan, Pháp tranh chấp ảnh hưởng từ nửa sau thế kỉ XVI.",
+     "And in Burma, the British, Dutch and French competed for influence from the late 16th century."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-dong-nam-a"
+   ],
+   "hinh": "Nông dân Đông Nam Á gầy gò xếp hàng nộp thóc, nộp thuế trước một trạm thu thuế có lính thực dân canh gác; phía xa, một nhóm người vác cuốc rời làng, bỏ lại ruộng đồng; trời âm u",
+   "am_thanh": "tiếng quát tháo xa, gió lạnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dưới ách đô hộ, thực dân phương Tây đẩy mạnh vơ vét, bóc lột, cướp đoạt ruộng đất để lập đồn điền.",
+     "Under colonial rule, the Westerners stepped up plunder and exploitation, seizing land for plantations."
+    ],
+    [
+     "Hân Hân",
+     "Nông dân ngày càng bần cùng, phải chịu mọi thứ thuế và lao dịch nặng nề. Nhiều người phải rời bỏ ruộng đất của mình.",
+     "Farmers grew ever poorer, bearing every kind of tax and heavy forced labour. Many had to leave their land."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "tho-dan-dao-mac-tan",
+    "thuc-dan-tay-ban-nha"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau hàng dừa trên bờ biển cát trắng của một hòn đảo nhiệt đới; ngoài khơi là vài con tàu buồm lớn của châu Âu, xuồng nhỏ đang chèo vào bờ; trên bãi, thổ dân cầm giáo, khiên gỗ, đao đang tập hợp",
+   "am_thanh": "sóng vỗ, tiếng tù và từ trong làng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Suỵt… Đây là đảo Mác-tan, năm 1521. Thực dân Tây Ban Nha vừa tìm đến.",
+     "Shh… This is Mactan Island, 1521. The Spanish colonisers have just arrived."
+    ],
+    [
+     "Hân Hân",
+     "Nhìn kìa, thổ dân trên đảo không hề bỏ chạy. Họ đang tập hợp lại!",
+     "Look, the islanders aren't running away. They're gathering!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "la-pu-la-pu",
+    "tho-dan-dao-mac-tan"
+   ],
+   "hinh": "La-pu-la-pu (vẽ theo tượng đài Hình 4.4 SGK: thân hình vạm vỡ, tay cầm khiên dài và đao) đứng trước hàng chiến binh thổ dân trên bãi biển, giơ đao hô lớn; phía xa xuồng của người châu Âu đang tiến vào (không cảnh máu me)",
+   "am_thanh": "tiếng hô đồng thanh, trống gỗ dồn dập",
+   "loi": [
+    [
+     "La-pu-la-pu",
+     "Đây là đảo của chúng ta! Không để kẻ lạ đặt chân lên!",
+     "This is our island! No invader will set foot on it!"
+    ],
+    [
+     "Hân Hân",
+     "Ngay khi xâm nhập Phi-líp-pin, thực dân Tây Ban Nha đã vấp phải sự chống trả quyết liệt của thổ dân đảo Mác-tan, do thủ lĩnh La-pu-la-pu chỉ huy.",
+     "As soon as Spain entered the Philippines, it met fierce resistance from the people of Mactan, led by their chief La-pu-la-pu."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tho-dan-dao-mac-tan"
+   ],
+   "hinh": "Phi-líp-pin đầu thế kỉ XIX: một nhóm người Phi-líp-pin mang súng kíp, gươm tụ họp trong làng dưới rặng dừa lúc chiều, cờ vải tự may bay trong gió, vẻ quyết tâm (nhóm người, không cận mặt nhân vật cụ thể)",
+   "am_thanh": "tiếng trống làng, gió",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngọn lửa ấy không tắt. Đến đầu thế kỉ XIX, phong trào đấu tranh ở Phi-líp-pin đã có bước tiến rõ rệt.",
+     "That flame never died. By the early 19th century, the struggle in the Philippines had clearly advanced."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu là khởi nghĩa của Nô-va-lét năm 1823 và khởi nghĩa Khơ-rút-xơ năm 1844.",
+     "Notable were Novales's uprising in 1823 and the Cruz uprising in 1844."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1521, ai chỉ huy thổ dân đảo Mác-tan chống thực dân Tây Ban Nha?",
+    "lua_chon": [
+     "Ban-đu-la",
+     "La-pu-la-pu",
+     "Đi-pô-nê-gô-rô"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1521, ai chỉ huy thổ dân đảo Mác-tan chống thực dân Tây Ban Nha?",
+     "Pause! In 1521, who led the people of Mactan against the Spanish?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thủ lĩnh La-pu-la-pu!",
+     "The answer is B: chief La-pu-la-pu!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nghia-quan-in-do-ne-xi-a",
+    "thuc-dan-ha-lan"
+   ],
+   "hinh": "Đảo Gia-va xanh mướt ruộng bậc thang; dân làng In-đô-nê-xi-a mặc xà rông, đội khăn, cầm giáo và dao găm cong tụ tập dưới bóng cây đa, phía xa là pháo đài đá có cờ của thực dân Hà Lan",
+   "am_thanh": "tiếng cồng, tiếng hô",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sang In-đô-nê-xi-a. Sau khi bị thực dân Hà Lan đô hộ, nhiều cuộc khởi nghĩa tiêu biểu đã nổ ra.",
+     "Now to Indonesia. After the Dutch took control, a series of notable uprisings broke out."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là khởi nghĩa Tơ-ru-nô Giê-giô năm 1675, rồi khởi nghĩa Su-ra-pa-tít kéo dài từ năm 1683 đến năm 1719.",
+     "There was the Trunojoyo uprising in 1675, then the Surapati uprising, lasting from 1683 to 1719."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "di-po-ne-go-ro",
+    "nghia-quan-in-do-ne-xi-a"
+   ],
+   "hinh": "Đi-pô-nê-gô-rô (vẽ theo tranh tư liệu: áo choàng trắng, khăn quấn đầu, dao găm cài thắt lưng) cưỡi ngựa trên sườn đồi, giơ tay chỉ về phía trước, sau lưng là đoàn nghĩa quân đông đảo cầm giáo, cờ bay",
+   "am_thanh": "vó ngựa, tiếng hô vang núi rừng",
+   "loi": [
+    [
+     "Đi-pô-nê-gô-rô",
+     "Hỡi anh em! Hãy cùng đứng lên chống lại quân Hà Lan!",
+     "Brothers! Rise up together against the Dutch!"
+    ],
+    [
+     "Nhật Minh",
+     "Lớn hơn cả là khởi nghĩa Đi-pô-nê-gô-rô, từ năm 1825 đến năm 1830.",
+     "Bigger still was the Diponegoro uprising, from 1825 to 1830."
+    ],
+    [
+     "Hân Hân",
+     "Thế nhưng, các cuộc khởi nghĩa ở In-đô-nê-xi-a đều thất bại.",
+     "Yet all of these uprisings in Indonesia ended in defeat."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-anh"
+   ],
+   "hinh": "Đoàn tàu chiến buồm và tàu hơi nước của hải quân Anh nối nhau tiến vào cửa sông trước thành phố Y-an-gun, phía xa là ngọn tháp chùa vàng; khói đen từ ống khói (vẽ lại theo tinh thần tranh Hình 4.1 SGK)",
+   "am_thanh": "tiếng còi tàu, sóng, pháo nổ xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn ở Miến Điện, cuộc xâm lược đầu tiên của quân Anh diễn ra từ năm 1824 đến năm 1826.",
+     "In Burma, the first British invasion took place from 1824 to 1826."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ban-du-la",
+    "quan-doi-mien-dien"
+   ],
+   "hinh": "Tướng Ban-đu-la (vẽ theo tranh tư liệu: áo choàng đỏ, mũ nhọn của tướng lĩnh Miến Điện) đứng trên luỹ gỗ, tay cầm gươm chỉ huy; binh lính Miến Điện mang giáo, súng kíp dàn trận sau hàng rào tre giữa rừng nhiệt đới",
+   "am_thanh": "trống trận, tiếng hô của binh lính",
+   "loi": [
+    [
+     "Ban-đu-la",
+     "Quân Anh đã tới! Giữ vững trận địa, không lùi một bước!",
+     "The British are here! Hold the line, not one step back!"
+    ],
+    [
+     "Nhật Minh",
+     "Ngay từ cuộc xâm lược đầu tiên ấy, quân Anh đã vấp phải sự kháng cự của quân đội Miến Điện do tướng Ban-đu-la chỉ huy.",
+     "From that very first invasion, the British met resistance from the Burmese army commanded by General Bandula."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-doi-mien-dien"
+   ],
+   "hinh": "Hoàng hôn trên trận địa Miến Điện đã tan khói: lá cờ của quân Miến Điện rủ xuống bên luỹ gỗ đổ nát, binh lính cúi đầu lặng lẽ, bầu trời đỏ thẫm (không cảnh thương vong)",
+   "am_thanh": "gió, tiếng trống trầm chậm dần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1825, Ban-đu-la hi sinh. Cuộc kháng chiến của quân đội Miến Điện thất bại.",
+     "In 1825, Bandula fell. The Burmese army's resistance was defeated."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tướng Ban-đu-la chỉ huy quân đội nước nào chống quân Anh?",
+    "lua_chon": [
+     "Phi-líp-pin",
+     "In-đô-nê-xi-a",
+     "Miến Điện"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Tướng Ban-đu-la chỉ huy quân đội nước nào chống quân Anh?",
+     "Quick test! Which country's army did General Bandula lead against the British?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Miến Điện, trong cuộc xâm lược đầu tiên của quân Anh từ năm 1824 đến năm 1826!",
+     "The answer is C: Burma, during the first British invasion from 1824 to 1826!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐẤU TRANH CHỐNG THỰC DÂN",
+   "moc": [
+    [
+     "1521",
+     "Mác-tan: La-pu-la-pu"
+    ],
+    [
+     "1675",
+     "Tơ-ru-nô Giê-giô"
+    ],
+    [
+     "1683 – 1719",
+     "Su-ra-pa-tít"
+    ],
+    [
+     "1823",
+     "Nô-va-lét"
+    ],
+    [
+     "1824 – 1826",
+     "Miến Điện: Ban-đu-la"
+    ],
+    [
+     "1825 – 1830",
+     "Đi-pô-nê-gô-rô"
+    ],
+    [
+     "1844",
+     "Khơ-rút-xơ"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xếp lên trục thời gian nhé! Năm 1521, thổ dân đảo Mác-tan do La-pu-la-pu chỉ huy chống Tây Ban Nha.",
+     "Let's put it on a timeline! 1521: La-pu-la-pu leads the people of Mactan against Spain."
+    ],
+    [
+     "Hân Hân",
+     "Ở In-đô-nê-xi-a: khởi nghĩa Tơ-ru-nô Giê-giô năm 1675, khởi nghĩa Su-ra-pa-tít từ năm 1683 đến năm 1719.",
+     "In Indonesia: Trunojoyo in 1675, Surapati from 1683 to 1719."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1823, khởi nghĩa Nô-va-lét ở Phi-líp-pin.",
+     "1823: the Novales uprising in the Philippines."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1824 đến năm 1826, quân đội Miến Điện do Ban-đu-la chỉ huy kháng cự quân Anh. Từ năm 1825 đến năm 1830, khởi nghĩa Đi-pô-nê-gô-rô.",
+     "1824 to 1826: Bandula's army resists the British. 1825 to 1830: the Diponegoro uprising."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 1844, khởi nghĩa Khơ-rút-xơ ở Phi-líp-pin.",
+     "And in 1844, the Cruz uprising in the Philippines."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    3,
+    3,
+    4
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Đông Nam Á có vị trí quan trọng, giàu tài nguyên nên sớm bị thực dân phương Tây xâm lược",
+    "Phi-líp-pin: La-pu-la-pu (1521), Nô-va-lét (1823), Khơ-rút-xơ (1844)",
+    "In-đô-nê-xi-a: nhiều cuộc khởi nghĩa chống Hà Lan, tiêu biểu là Đi-pô-nê-gô-rô (1825 – 1830)",
+    "Miến Điện: tướng Ban-đu-la chỉ huy kháng cự quân Anh, hi sinh năm 1825"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Đông Nam Á có vị trí quan trọng, giàu tài nguyên, nên sớm bị thực dân phương Tây nhắm tới.",
+     "Remember: Southeast Asia's key location and rich resources made it an early target for Western colonisers."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Phi-líp-pin có La-pu-la-pu, rồi các cuộc khởi nghĩa Nô-va-lét và Khơ-rút-xơ.",
+     "The Philippines had La-pu-la-pu, then the Novales and Cruz uprisings."
+    ],
+    [
+     "Hân Hân",
+     "Ở In-đô-nê-xi-a, nhiều cuộc khởi nghĩa chống Hà Lan, tiêu biểu là khởi nghĩa Đi-pô-nê-gô-rô.",
+     "Indonesia saw many uprisings against the Dutch, the most notable led by Diponegoro."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Miến Điện, tướng Ban-đu-la chỉ huy quân đội kháng cự quân Anh và hi sinh năm 1825.",
+     "In Burma, General Bandula led the army against the British and fell in 1825."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    22
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại ngày hội văn hoá ASEAN lúc chiều muộn, đèn lồng các gian hàng đã sáng, màn hình LED phía sau vẫn chiếu tượng đài La-pu-la-pu; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "nhạc hội nhỏ dần",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều cuộc đấu tranh ấy đã thất bại, nhưng ngọn lửa kháng chiến vẫn được truyền từ thế hệ này sang thế hệ khác.",
+     "Many of those struggles failed, but the flame of resistance passed from one generation to the next."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: dù thất bại, theo cậu các cuộc đấu tranh này để lại điều gì cho nhân dân Đông Nam Á? Bình luận suy nghĩ của cậu nhé!",
+     "Your challenge: even in defeat, what do you think these struggles left for the peoples of Southeast Asia? Share your thoughts in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao Đông Nam Á sớm trở thành mục tiêu xâm lược của các nước tư bản phương Tây?",
+   "dap_an": [
+    "Có vị trí địa lí quan trọng, giàu tài nguyên khoáng sản",
+    "Có nền công nghiệp phát triển nhất châu Á",
+    "Đã hoàn thành cách mạng tư sản",
+    "Không có người sinh sống"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Thực dân nước nào đã áp đặt ách thống trị ở Phi-líp-pin suốt 350 năm?",
+   "dap_an": [
+    "Anh",
+    "Hà Lan",
+    "Tây Ban Nha",
+    "Pháp"
+   ],
+   "dung": 2,
+   "trang": 20
+  },
+  {
+   "hoi": "Khởi nghĩa Đi-pô-nê-gô-rô (1825 – 1830) nổ ra ở nước nào?",
+   "dap_an": [
+    "Miến Điện",
+    "In-đô-nê-xi-a",
+    "Phi-líp-pin",
+    "Xiêm"
+   ],
+   "dung": 1,
+   "trang": 22
+  },
+  {
+   "hoi": "Tướng Ban-đu-la hi sinh vào năm nào?",
+   "dap_an": [
+    "1521",
+    "1824",
+    "1825",
+    "1844"
+   ],
+   "dung": 2,
+   "trang": 22
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 19 (lí do bị xâm lược), tr. 20 (bảng quá trình xâm nhập), tr. 21 (sơ đồ Hình 4.3 – mục Về xã hội, Về kinh tế), tr. 22 (mục 3 và Hình 4.4); năm 1844 của khởi nghĩa Khơ-rút-xơ đối chiếu ảnh trang 22 (OCR tách thành '1 844'). Đã sửa kiến thức chốt của danh mục: SGK chỉ nêu các cuộc khởi nghĩa 'đều thất bại'/'thất bại', không có câu 'thể hiện tinh thần yêu nước' → bỏ khỏi lời dẫn, chuyển thành câu hỏi mở ở thử thách bình luận; câu 'ngọn lửa kháng chiến được truyền qua các thế hệ' ở cảnh kết là lời bình của người dẫn, dựa trên chuỗi khởi nghĩa nối tiếp trong SGK (1521 → đầu thế kỉ XIX). Không có lược đồ trong SGK cho mục này nên dùng trục thời gian thay sa bàn. Lời La-pu-la-pu, Đi-pô-nê-gô-rô, Ban-đu-la là lời dựng, không thêm sự kiện.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

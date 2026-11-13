@@ -1,0 +1,484 @@
+{
+ "ma": "L8-B14-03",
+ "ten_tap": "Duy tân Minh Trị: Nhật Bản cải cách toàn diện",
+ "ten_tap_en": "The Meiji Restoration: Japan's Sweeping Reforms",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 14. Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   62,
+   64,
+   65
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thien-hoang-minh-tri",
+  "nguoi-dan-nhat-ban"
+ ],
+ "nhac": {
+  "tam_trang": "hiện đại, tươi sáng ở phần mở đầu; nhịp đều, khám phá ở các lĩnh vực cải cách; trang trọng ở phần ý nghĩa; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu thời Minh Trị; sơ đồ, thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 14, tr. 62–65.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp: không dùng AI vẽ người thật hay cảnh lịch sử; Thiên hoàng Minh Trị chỉ được nhắc tên hoặc dùng ảnh chụp tư liệu, không vẽ chân dung; chỉ dùng ảnh tư liệu thời Minh Trị (phạm vi công cộng, ghi nguồn); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác, ba lô du lịch) đứng trên sân ga hiện đại ở Nhật Bản hôm nay, một đoàn tàu cao tốc mũi dài màu trắng lướt vào ga, phía xa là các toà nhà cao tầng và núi xanh; biển chỉ dẫn tiếng Nhật",
+   "am_thanh": "tiếng tàu lướt, thông báo nhà ga",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhật Minh, cậu có biết từ năm 1868, nước Nhật đã bước vào một loạt cải cách mà lịch sử gọi là cuộc Duy tân Minh Trị không?",
+     "Nhat Minh, did you know that from 1868 Japan launched a series of reforms that history calls the Meiji Restoration?"
+    ],
+    [
+     "Nhật Minh",
+     "Cải cách những gì mà nổi tiếng thế? Tụi mình cùng mở tư liệu ra xem nhé!",
+     "What did they reform to become so famous? Let's open the archives!"
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    64
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1868",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Thiên hoàng Minh Trị thời trẻ",
+    "tim": "Emperor Meiji photograph 1872",
+    "yeu_cau": "ảnh chụp tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Thiên hoàng Minh Trị",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mút-su-hi-tô là con thứ của Thiên hoàng Kô-mây. Ông kế vị lúc mới 15 tuổi, khi vua cha qua đời, và lấy hiệu là Minh Trị.",
+     "Mutsuhito was the second son of Emperor Kōmei. He took the throne at just 15 when his father died, and took the reign name Meiji."
+    ],
+    [
+     "Hân Hân",
+     "Ông có tư tưởng duy tân, chủ trương nắm lại quyền lực và tiến hành cải cách. Tháng 1 năm 1868, sau khi lên ngôi, Thiên hoàng Minh Trị bắt đầu một loạt cải cách.",
+     "He favoured renewal, aiming to take back power and carry out reforms. In January 1868, after ascending the throne, Emperor Meiji began a series of reforms."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CẢI CÁCH · CHÍNH TRỊ",
+   "y": [
+    "Thành lập chính phủ mới, xoá bỏ tình trạng cát cứ",
+    "Ban hành Hiến pháp năm 1889, quyền lực tối cao thuộc về Thiên hoàng",
+    "Đưa quý tộc tư sản hoá và đại tư sản lên nắm quyền"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về chính trị, Nhật Bản thành lập chính phủ mới, xoá bỏ tình trạng cát cứ.",
+     "In politics, Japan set up a new government and ended regional fragmentation."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1889, Hiến pháp được ban hành, với quyền lực tối cao thuộc về Thiên hoàng.",
+     "In 1889 a constitution was issued, giving supreme power to the Emperor."
+    ],
+    [
+     "Hân Hân",
+     "Quý tộc tư sản hoá và đại tư sản được đưa lên nắm quyền.",
+     "Bourgeois-minded nobles and big capitalists were brought into power."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu thời Minh Trị: một con phố buôn bán có cầu, đường sá mới, cửa hiệu kiểu mới",
+    "tim": "Meiji era street photograph Tokyo 1880s",
+    "yeu_cau": "ảnh chụp thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: phố xá Nhật Bản thời Minh Trị",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, Nhật Bản thống nhất tiền tệ và thị trường, cho phép mua bán ruộng đất và tự do kinh doanh.",
+     "In the economy, Japan unified its currency and markets, allowed land to be bought and sold, and permitted free enterprise."
+    ],
+    [
+     "Hân Hân",
+     "Đường sá, cầu cống cũng được xây dựng.",
+     "Roads and bridges were built too."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Hiến pháp năm 1889 của Nhật Bản, quyền lực tối cao thuộc về ai?",
+    "lua_chon": [
+     "Quốc hội",
+     "Thiên hoàng",
+     "Đại tư sản"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Theo Hiến pháp năm 1889 của Nhật Bản, quyền lực tối cao thuộc về ai?",
+     "Pause! Under Japan's 1889 constitution, who held supreme power?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Thiên hoàng!",
+     "The answer is B: the Emperor!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu thời Minh Trị: binh lính Nhật Bản trong quân phục kiểu phương Tây đang luyện tập",
+    "tim": "Meiji era Imperial Japanese Army soldiers photograph western uniform",
+    "yeu_cau": "ảnh chụp thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: quân đội Nhật Bản thời Minh Trị",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về quân sự, quân đội được tổ chức và huấn luyện theo kiểu phương Tây, thực hiện chế độ nghĩa vụ thay cho chế độ trưng binh.",
+     "In the military, the army was organised and trained Western-style, with conscription replacing the old levy system."
+    ],
+    [
+     "Nhật Minh",
+     "Nhật Bản phát triển công nghiệp đóng tàu, sản xuất vũ khí, và học tập các chuyên gia quân sự nước ngoài về lục quân, hải quân.",
+     "Japan built up shipbuilding and arms production, and learned from foreign military experts in army and navy matters."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu thời Minh Trị: lớp học với học sinh mặc trang phục thời ấy, bảng đen, bàn ghế kiểu mới",
+    "tim": "Meiji era school classroom photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX – đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: lớp học thời Minh Trị",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn về giáo dục, Nhật Bản thi hành chính sách giáo dục bắt buộc, chú trọng nội dung khoa học – kĩ thuật trong chương trình giảng dạy.",
+     "In education, Japan made schooling compulsory and stressed science and technology in the curriculum."
+    ],
+    [
+     "Hân Hân",
+     "Những học sinh ưu tú được cử đi du học ở phương Tây.",
+     "Top students were sent to study in the West."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cải cách nào thuộc lĩnh vực quân sự trong cuộc Duy tân Minh Trị?",
+    "lua_chon": [
+     "Thống nhất tiền tệ và thị trường",
+     "Thực hiện chế độ nghĩa vụ thay cho chế độ trưng binh",
+     "Thi hành chính sách giáo dục bắt buộc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Cải cách nào thuộc lĩnh vực quân sự?",
+     "Quick test! Which reform belongs to the military field?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thực hiện chế độ nghĩa vụ thay cho chế độ trưng binh!",
+     "The answer is B: conscription replacing the old levy system!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "SƠ ĐỒ CUỘC DUY TÂN MINH TRỊ",
+   "y": [
+    "Chính trị: chính phủ mới, Hiến pháp năm 1889",
+    "Kinh tế: thống nhất tiền tệ, thị trường; tự do kinh doanh",
+    "Quân sự: quân đội kiểu phương Tây, chế độ nghĩa vụ",
+    "Giáo dục: giáo dục bắt buộc, chú trọng khoa học – kĩ thuật"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Gom lại thành sơ đồ nhé: cải cách diễn ra trên cả bốn lĩnh vực,",
+     "Let's put it in one diagram: the reforms covered four fields,"
+    ],
+    [
+     "Nhật Minh",
+     "chính trị, kinh tế, quân sự và giáo dục. Đúng là cải cách toàn diện!",
+     "politics, the economy, the military and education. Truly sweeping reforms!"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Có ý nghĩa như một cuộc cách mạng tư sản",
+    "Đưa Nhật Bản phát triển vượt bậc về kinh tế, chính trị, giáo dục, khoa học – kĩ thuật",
+    "Nhật Bản giữ vững được nền độc lập và trở thành một nước tư bản chủ nghĩa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuộc Duy tân Minh Trị có ý nghĩa như một cuộc cách mạng tư sản.",
+     "The Meiji Restoration had the significance of a bourgeois revolution."
+    ],
+    [
+     "Hân Hân",
+     "Nó đưa Nhật Bản phát triển vượt bậc về kinh tế, chính trị, giáo dục, khoa học – kĩ thuật.",
+     "It drove remarkable progress in Japan's economy, politics, education, science and technology."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ đó, Nhật Bản giữ vững được nền độc lập và trở thành một nước tư bản chủ nghĩa.",
+     "Thanks to it, Japan kept its independence and became a capitalist country."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đầu thế kỉ XX: một xưởng đóng tàu hoặc nhà máy ở Nhật Bản",
+    "tim": "Japan shipyard 1900s photograph Meiji",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nghiệp Nhật Bản đầu thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bước sang thế kỉ XX, kinh tế Nhật Bản ngày càng phát triển mạnh mẽ, đặc biệt là công nghiệp.",
+     "Entering the 20th century, Japan's economy grew ever stronger, especially its industry."
+    ],
+    [
+     "Nhật Minh",
+     "Từ đây, Nhật Bản chuyển sang giai đoạn đế quốc chủ nghĩa. Chuyện đó, hẹn cậu ở một tập khác nhé!",
+     "From here, Japan moved into its imperialist stage. That's a story for another episode!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NHẬT BẢN DUY TÂN",
+   "moc": [
+    [
+     "1 – 1868",
+     "Minh Trị lên ngôi, bắt đầu cải cách"
+    ],
+    [
+     "1889",
+     "Ban hành Hiến pháp"
+    ],
+    [
+     "Đầu thế kỉ XX",
+     "Kinh tế, công nghiệp phát triển mạnh"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Tháng 1 năm 1868, Thiên hoàng Minh Trị lên ngôi và bắt đầu cải cách.",
+     "Recap! January 1868: Emperor Meiji takes the throne and starts the reforms."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1889, Nhật Bản ban hành Hiến pháp.",
+     "1889: Japan issues its constitution."
+    ],
+    [
+     "Nhật Minh",
+     "Bước sang thế kỉ XX, kinh tế, nhất là công nghiệp, phát triển mạnh mẽ.",
+     "Into the 20th century, the economy, especially industry, grows strongly."
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Tháng 1 – 1868: Thiên hoàng Minh Trị tiến hành cuộc Duy tân",
+    "Cải cách toàn diện: chính trị, kinh tế, quân sự, giáo dục",
+    "Có ý nghĩa như một cuộc cách mạng tư sản",
+    "Nhật Bản giữ vững độc lập, trở thành nước tư bản chủ nghĩa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tháng 1 năm 1868, Thiên hoàng Minh Trị tiến hành cuộc Duy tân.",
+     "Remember: in January 1868, Emperor Meiji launched the Restoration."
+    ],
+    [
+     "Hân Hân",
+     "Cải cách diễn ra toàn diện về chính trị, kinh tế, quân sự và giáo dục.",
+     "The reforms covered politics, the economy, the military and education."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc Duy tân có ý nghĩa như một cuộc cách mạng tư sản.",
+     "It had the significance of a bourgeois revolution."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ đó, Nhật Bản giữ vững độc lập và trở thành một nước tư bản chủ nghĩa.",
+     "Thanks to it, Japan stayed independent and became a capitalist country."
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trên sân ga lúc hoàng hôn, đoàn tàu cao tốc vừa rời ga, đèn thành phố bật sáng; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "gió nhẹ, tiếng tàu xa dần",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong bốn lĩnh vực cải cách của Duy tân Minh Trị, theo cậu lĩnh vực nào quan trọng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: of the four areas of Meiji reform, which do you think mattered most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    66
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc Duy tân Minh Trị bắt đầu vào thời gian nào?",
+   "dap_an": [
+    "Tháng 1 – 1868",
+    "Năm 1889",
+    "Năm 1901",
+    "Năm 1911"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Nội dung nào thuộc lĩnh vực kinh tế của cuộc Duy tân Minh Trị?",
+   "dap_an": [
+    "Ban hành Hiến pháp năm 1889",
+    "Thống nhất tiền tệ và thị trường, cho phép mua bán ruộng đất",
+    "Cử học sinh ưu tú du học phương Tây",
+    "Học tập chuyên gia quân sự nước ngoài"
+   ],
+   "dung": 1,
+   "trang": 64
+  },
+  {
+   "hoi": "Trong giáo dục, Nhật Bản chú trọng nội dung gì trong chương trình giảng dạy?",
+   "dap_an": [
+    "Khoa học – kĩ thuật",
+    "Chỉ dạy võ thuật",
+    "Chỉ dạy kinh điển cổ",
+    "Chỉ dạy tiếng nước ngoài"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Cuộc Duy tân Minh Trị có ý nghĩa như",
+   "dap_an": [
+    "Một cuộc cải cách thất bại",
+    "Một cuộc cách mạng tư sản",
+    "Một cuộc chiến tranh xâm lược",
+    "Một cuộc khởi nghĩa nông dân"
+   ],
+   "dung": 1,
+   "trang": 65
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 62 (Thiên hoàng Minh Trị và cuộc Duy tân 1868), tr. 64 (Em có biết về Mút-su-hi-tô; tháng 1 – 1868; Hình 14.4 sơ đồ nội dung chính – đã đối chiếu ảnh trang), tr. 65 (ý nghĩa; bước sang thế kỉ XX kinh tế, công nghiệp phát triển mạnh), tr. 66 (câu hỏi luyện tập về các lĩnh vực cải cách). Sửa kiến thức chốt danh mục: 'Đây là cuộc cách mạng tư sản thành công' chuẩn lại đúng SGK là 'có ý nghĩa như một cuộc cách mạng tư sản'. Bỏ ý tưởng du hành về năm 1868 trong mô tả danh mục vì thời kì đã có ảnh chụp: Minh – Hân chỉ ở hiện tại, chỉ dùng ảnh tư liệu, không vẽ Thiên hoàng. Phần Nhật Bản thành đế quốc chủ nghĩa (Hình 14.5) để dành cho tập L8-B14-04.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

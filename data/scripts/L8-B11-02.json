@@ -1,0 +1,378 @@
+{
+ "ma": "L8-B11-02",
+ "ten_tap": "C. Mác và Ph. Ăng-ghen: Những người thay đổi thế giới",
+ "ten_tap_en": "Karl Marx and Friedrich Engels: The Men Who Changed the World",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 11. Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+  "trang": [
+   51,
+   52,
+   53
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "mac",
+  "ang-ghen"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, suy tư, dần mạnh mẽ ở mốc 1848",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có cảnh tái hiện: hình ảnh lịch sử là ảnh, tranh khắc, bản in tư liệu thế kỉ XIX. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 11, tr. 51–53.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (thế kỉ XIX): không dùng AI vẽ C. Mác, Ph. Ăng-ghen hay cảnh lịch sử có thật; chỉ dùng ảnh chụp, tranh khắc, bản in tư liệu đã thuộc phạm vi công cộng, ghi nguồn. Không có lời thoại dựng cho nhân vật lịch sử. Minh – Hân chỉ xuất hiện ở hiện tại; trục thời gian, thẻ ghi nhớ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Thư viện trường buổi chiều hôm nay: Nhật Minh và Hân Hân ngồi bên bàn gỗ dài cạnh cửa sổ, trước mặt là một cuốn sách lịch sử mở ra trang bảng niên biểu và tấm thẻ giấy ghi các năm 1842, 1844, 1848; Hân Hân cầm bút dạ quang, Nhật Minh tò mò cúi xem",
+   "am_thanh": "tiếng lật trang, quạt trần, tiếng chim ngoài cửa sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bài này có hai cái tên xuất hiện liên tục: C. Mác và Ph. Ăng-ghen. Cậu biết họ là ai không?",
+     "This lesson keeps mentioning two names: Karl Marx and Friedrich Engels. Do you know who they were?"
+    ],
+    [
+     "Nhật Minh",
+     "Tớ chỉ biết họ là người Đức. Cùng lần theo dấu chân hai ông nhé!",
+     "I only know they were German. Let's follow their footsteps!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Những năm 30 – 40 của thế kỉ XIX",
+   "thoi_luong": 2.2
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh khắc tư liệu châu Âu những năm 1830 – 1840: công nhân làm việc trong xưởng dệt hoặc nhà máy",
+    "tim": "1840s factory workers engraving cotton mill",
+    "yeu_cau": "tranh khắc, tranh in thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại bằng AI"
+   },
+   "hinh": "Tư liệu: công nhân trong nhà máy châu Âu thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong những năm 30 đến 40 của thế kỉ XIX, giai cấp công nhân ngày càng đông về số lượng và trưởng thành về nhận thức.",
+     "In the 1830s and 1840s, the working class grew larger in number and more mature in awareness."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp chân dung tư liệu C. Mác",
+    "tim": "Karl Marx portrait photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật"
+   },
+   "hinh": "Ảnh tư liệu: C. Mác (1818 – 1883)",
+   "loi": [
+    [
+     "Hân Hân",
+     "C. Mác sống từ năm 1818 đến năm 1883, sinh ra ở Ti-ri-ơ, nước Đức, trong một gia đình trí thức gốc Do Thái.",
+     "Karl Marx lived from 1818 to 1883. He was born in Trier, Germany, into an intellectual family of Jewish origin."
+    ],
+    [
+     "Nhật Minh",
+     "Ông nổi tiếng thông minh từ nhỏ, hai mươi ba tuổi đã đỗ Tiến sĩ. Vì sớm có khuynh hướng cách mạng, ông bị trục xuất khỏi Đức và sang Pa-ri.",
+     "Known for his brilliance from childhood, he earned a doctorate at twenty-three. Because of his early revolutionary views, he was expelled from Germany and went to Paris."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp chân dung tư liệu Ph. Ăng-ghen",
+    "tim": "Friedrich Engels portrait photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật"
+   },
+   "hinh": "Ảnh tư liệu: Ph. Ăng-ghen (1820 – 1895)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ph. Ăng-ghen sống từ năm 1820 đến năm 1895, sinh ra ở thành phố Bác-men, nước Đức, trong một gia đình chủ xưởng giàu có.",
+     "Friedrich Engels lived from 1820 to 1895. He was born in Barmen, Germany, into a wealthy factory-owning family."
+    ],
+    [
+     "Nhật Minh",
+     "Hiểu rõ cách giai cấp tư sản làm giàu, ông khinh ghét họ, và có nhiều công trình nghiên cứu về công nhân Anh.",
+     "Seeing clearly how the bourgeoisie grew rich, he despised them, and wrote many studies of the English working class."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ph. Ăng-ghen sinh ra trong gia đình nào?",
+    "lua_chon": [
+     "Gia đình trí thức gốc Do Thái",
+     "Gia đình chủ xưởng giàu có",
+     "Gia đình công nhân ở Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ph. Ăng-ghen sinh ra trong gia đình nào?",
+     "Pause! What kind of family was Engels born into?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: một gia đình chủ xưởng giàu có ở Bác-men!",
+     "The answer is B: a wealthy factory-owning family in Barmen!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "HOẠT ĐỘNG CỦA C. MÁC VÀ PH. ĂNG-GHEN",
+   "moc": [
+    [
+     "1842",
+     "Ăng-ghen sang Anh, viết Tình cảnh giai cấp công nhân Anh"
+    ],
+    [
+     "1843",
+     "Mác sang Pa-ri, tham gia phong trào cách mạng Pháp"
+    ],
+    [
+     "1844",
+     "Hai ông gặp nhau, lập Đồng minh những người cộng sản"
+    ],
+    [
+     "Đầu 1848",
+     "Công bố Tuyên ngôn của Đảng Cộng sản"
+    ],
+    [
+     "1864",
+     "Quốc tế thứ nhất thành lập, Mác là linh hồn"
+    ],
+    [
+     "1889",
+     "Quốc tế thứ hai ra đời ở Pa-ri"
+    ]
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1842, Ăng-ghen sang Anh tìm hiểu phong trào công nhân, viết cuốn Tình cảnh giai cấp công nhân Anh.",
+     "1842: Engels went to England to study the workers' movement and wrote The Condition of the Working Class in England."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1843, Mác sang Pa-ri, tham gia phong trào cách mạng ở Pháp.",
+     "1843: Marx went to Paris and joined the revolutionary movement in France."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1844, Ăng-ghen từ Anh sang Pháp gặp Mác. Hai ông lập ra Đồng minh những người cộng sản, chính đảng độc lập đầu tiên của vô sản quốc tế.",
+     "1844: Engels came from England to France and met Marx. Together they founded the Communist League, the first independent party of the international proletariat."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1848, hai ông soạn thảo và công bố Tuyên ngôn của Đảng Cộng sản.",
+     "Early 1848: the two drafted and published the Communist Manifesto."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1864, Quốc tế thứ nhất ra đời, Mác ở trong Ban lãnh đạo và là linh hồn của tổ chức.",
+     "1864: the First International was founded, with Marx on its leadership and at its heart."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1889, Quốc tế thứ hai ra đời ở Pa-ri, gắn với vai trò quan trọng của Ăng-ghen.",
+     "1889: the Second International was founded in Paris, with Engels playing a key role."
+    ]
+   ],
+   "nguon_trang": [
+    51,
+    53
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp trang bìa bản in đầu tiên của Tuyên ngôn của Đảng Cộng sản (năm 1848)",
+    "tim": "Manifest der Kommunistischen Partei 1848 first edition cover",
+    "yeu_cau": "ảnh bản in gốc, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: trang bìa Tuyên ngôn của Đảng Cộng sản, năm 1848",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuyên ngôn của Đảng Cộng sản là cương lĩnh của Đồng minh những người cộng sản. Văn kiện nêu những luận điểm cơ bản về sự phát triển của xã hội loài người và sứ mệnh của giai cấp công nhân.",
+     "The Manifesto was the programme of the Communist League. It set out basic ideas about how human society develops and the mission of the working class."
+    ],
+    [
+     "Nhật Minh",
+     "Việc công bố Tuyên ngôn đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+     "Its publication marked the birth of scientific socialism."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Việc công bố văn kiện nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    "lua_chon": [
+     "Tuyên ngôn của Đảng Cộng sản",
+     "Tình cảnh giai cấp công nhân Anh",
+     "Tuyên ngôn Độc lập"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nhanh! Việc công bố văn kiện nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+     "Quick question! Which document's publication marked the birth of scientific socialism?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Tuyên ngôn của Đảng Cộng sản, đầu năm 1848!",
+     "The answer is A: the Communist Manifesto, early 1848!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "GHI NHỚ",
+   "y": [
+    "Từ những năm 40 của thế kỉ XIX: Mác và Ăng-ghen dần trở thành lãnh tụ của phong trào công nhân quốc tế",
+    "Đầu năm 1848: công bố Tuyên ngôn của Đảng Cộng sản",
+    "Chủ nghĩa xã hội khoa học ra đời"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ những năm 40 của thế kỉ XIX, Mác và Ăng-ghen dần trở thành lãnh tụ của phong trào công nhân quốc tế.",
+     "From the 1840s, Marx and Engels gradually became leaders of the international workers' movement."
+    ],
+    [
+     "Hân Hân",
+     "Và Tuyên ngôn đầu năm 1848 đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+     "And the Manifesto of early 1848 marked the birth of scientific socialism."
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại thư viện trường hôm nay: Hân Hân dán tấm thẻ giấy cuối cùng lên một trục thời gian tự vẽ trên giấy khổ to, Nhật Minh giơ ngón cái về phía người xem",
+   "am_thanh": "tiếng lật trang, tiếng băng dính",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy tự lập trục thời gian các hoạt động của Mác và Ăng-ghen, rồi chọn một mốc cậu thấy quan trọng nhất. Vì sao? Bình luận nhé!",
+     "Your challenge: make your own timeline of Marx and Engels' activities, then pick the milestone you think matters most. Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "C. Mác sinh ra ở đâu?",
+   "dap_an": [
+    "Bác-men (Đức)",
+    "Ti-ri-ơ (Đức)",
+    "Pa-ri (Pháp)",
+    "Si-ca-gô (Mỹ)"
+   ],
+   "dung": 1,
+   "trang": 51
+  },
+  {
+   "hoi": "Năm 1844, sau khi gặp nhau, C. Mác và Ph. Ăng-ghen đã thành lập tổ chức nào?",
+   "dap_an": [
+    "Quốc tế thứ nhất",
+    "Quốc tế thứ hai",
+    "Đồng minh những người cộng sản",
+    "Hội đồng Công xã"
+   ],
+   "dung": 2,
+   "trang": 51
+  },
+  {
+   "hoi": "Tuyên ngôn của Đảng Cộng sản được công bố vào thời gian nào?",
+   "dap_an": [
+    "Năm 1842",
+    "Đầu năm 1848",
+    "Năm 1864",
+    "Năm 1889"
+   ],
+   "dung": 1,
+   "trang": 51
+  },
+  {
+   "hoi": "Quốc tế thứ hai ra đời năm 1889 ở đâu?",
+   "dap_an": [
+    "Pa-ri (Pháp)",
+    "Bác-men (Đức)",
+    "Ti-ri-ơ (Đức)",
+    "Si-ca-gô (Mỹ)"
+   ],
+   "dung": 0,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 8 tr. 51 (tiểu sử Mác, Ăng-ghen; bảng tóm tắt hoạt động 1842 – 1889; ý nghĩa Tuyên ngôn), tr. 53 (Quốc tế thứ hai ra đời ở Pa-ri ngày 14 – 7 – 1889). Bảng hoạt động đã đối chiếu trên ảnh trang: theo SGK, năm 1844 hai ông gặp nhau và thành lập Đồng minh những người cộng sản; Tuyên ngôn công bố 'đầu năm 1848'. Danh mục: 'Tuyên ngôn ra đời năm 1848' giữ, ghi rõ 'đầu năm 1848' theo SGK; mốc 1844 trong danh mục chỉ cuộc gặp, kịch bản bổ sung việc thành lập Đồng minh theo bảng SGK. Mọi phương án nhiễu trong câu hỏi đều lấy từ địa danh, sự kiện có trong SGK Bài 11.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

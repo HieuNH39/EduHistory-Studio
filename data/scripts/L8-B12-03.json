@@ -1,0 +1,271 @@
+{
+ "ma": "L8-B12-03",
+ "ten_tap": "Đêm trước của Cách mạng tháng Mười Nga",
+ "ten_tap_en": "On the Eve of the Russian October Revolution",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 12. Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+  "trang": [
+   55,
+   56
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-nin",
+  "dang-bon-se-vich",
+  "cong-nhan-nga",
+  "binh-linh-nga"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, căng thẳng tăng dần như trước giông bão; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 12, tr. 55–56.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh tư liệu (ghi nguồn, kiểm tra giấy phép); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện trường FPT hôm nay, ngồi bên bàn có quả địa cầu, Hân Hân mở cuốn sách lịch sử có hình nước Nga trên bản đồ, ngoài cửa sổ mưa phùn",
+   "am_thanh": "mưa nhẹ, tiếng lật sách",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1917, trong lúc Chiến tranh thế giới thứ nhất còn đang diễn ra, nước Nga đã trải qua hai cuộc cách mạng.",
+     "In 1917, while the First World War was still raging, Russia went through two revolutions."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay tụi mình xem điều gì đã xảy ra ở Nga ngay trước Cách mạng tháng Mười nhé!",
+     "Today let's see what happened in Russia just before the October Revolution!"
+    ]
+   ],
+   "nguon_trang": [
+    55,
+    56
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "2 – 1917",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu tháng 2 – 1917: đoàn biểu tình của công nhân, binh lính trên đường phố Pê-tơ-rô-grát",
+    "tim": "February Revolution 1917 Petrograd demonstration photograph",
+    "yeu_cau": "ảnh chụp năm 1917, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: Cách mạng tháng Hai năm 1917 ở Pê-tơ-rô-grát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Cách mạng tháng Hai năm 1917, chế độ quân chủ chuyên chế Nga hoàng đã bị lật đổ.",
+     "After the February Revolution of 1917, the Tsar's absolute monarchy had been overthrown."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng nỗi khổ cực vẫn đè nặng lên các tầng lớp nhân dân, đặc biệt là nông dân, công nhân.",
+     "But hardship still weighed on ordinary people, especially peasants and workers."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI CHÍNH QUYỀN SONG SONG",
+   "y": [
+    "Chính phủ tư sản lâm thời",
+    "Các xô viết đại biểu công nhân, binh lính",
+    "Đại diện cho các giai cấp có lợi ích đối lập → không thể cùng tồn tại"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Một tình hình chính trị chưa từng có diễn ra ở Nga: hai chính quyền song song tồn tại.",
+     "An unprecedented political situation arose in Russia: two governments existing side by side."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là Chính phủ tư sản lâm thời và các xô viết đại biểu công nhân, binh lính. Hai chính quyền đại diện cho các giai cấp có lợi ích đối lập nên không thể cùng tồn tại.",
+     "They were the bourgeois Provisional Government and the soviets of workers' and soldiers' deputies. Representing opposing class interests, they could not coexist."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau Cách mạng tháng Hai năm 1917, chính quyền nào song song tồn tại với Chính phủ tư sản lâm thời?",
+    "lua_chon": [
+     "Các xô viết đại biểu công nhân, binh lính",
+     "Chính quyền Nga hoàng",
+     "Quốc hội lập hiến"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chính quyền nào tồn tại song song với Chính phủ tư sản lâm thời?",
+     "Pause! Which authority existed alongside the Provisional Government?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: các xô viết đại biểu công nhân, binh lính!",
+     "The answer is A: the soviets of workers' and soldiers' deputies!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "TƯ LIỆU · LÊ-NIN",
+   "y": [
+    "“Đặc điểm của tình hình hiện nay ở Nga là... phải đem lại chính quyền cho giai cấp vô sản, những tầng lớp nghèo và cho nông dân.”"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Lê-nin cho rằng phải đem lại chính quyền cho giai cấp vô sản, những tầng lớp nghèo và cho nông dân.",
+     "Lenin argued that power must go to the proletariat, the poorest strata and the peasants."
+    ],
+    [
+     "Nhật Minh",
+     "Trước tình hình đó, V. I. Lê-nin và Đảng Bôn-sê-vích Nga chuẩn bị kế hoạch tiếp tục làm cách mạng, lật đổ Chính phủ tư sản lâm thời.",
+     "So V. I. Lenin and the Bolshevik Party prepared a plan to continue the revolution and overthrow the Provisional Government."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu tháng 7 – 1917: đoàn biểu tình trên đại lộ Pê-tơ-rô-grát bị giải tán",
+    "tim": "July Days 1917 Petrograd photograph",
+    "yeu_cau": "ảnh chụp năm 1917, phạm vi công cộng, ghi nguồn; tránh cận cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: Pê-tơ-rô-grát tháng 7 – 1917",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 7 năm 1917, Chính phủ tư sản lâm thời công khai đàn áp các phong trào quần chúng, khủng bố các xô viết.",
+     "In July 1917, the Provisional Government openly cracked down on popular movements and terrorised the soviets."
+    ],
+    [
+     "Hân Hân",
+     "Đảng Bôn-sê-vích đã lãnh đạo công nhân, nông dân, binh lính chuẩn bị đấu tranh vũ trang giành chính quyền. Một cuộc cách mạng mới sắp bùng nổ!",
+     "The Bolsheviks led workers, peasants and soldiers to prepare an armed struggle for power. A new revolution was about to erupt!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện, ngoài trời đã tạnh mưa, nắng chiếu vào bàn; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "thư viện, chim hót sau mưa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Nga hoàng bị lật đổ; hai chính quyền song song tồn tại; Đảng Bôn-sê-vích chuẩn bị giành chính quyền.",
+     "Remember: the Tsar was overthrown; two governments coexisted; the Bolsheviks prepared to take power."
+    ],
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao hai chính quyền song song ở Nga không thể cùng tồn tại lâu dài? Bình luận nhé! Hẹn gặp ở tập Tiếng súng Cung điện Mùa Đông!",
+     "Your challenge: why couldn't Russia's two parallel governments last together? Tell us in the comments! See you in 'Gunfire at the Winter Palace'!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cách mạng tháng Hai năm 1917 ở Nga đã lật đổ chế độ nào?",
+   "dap_an": [
+    "Chính phủ tư sản lâm thời",
+    "Chế độ quân chủ chuyên chế Nga hoàng",
+    "Các xô viết",
+    "Chế độ cộng hoà"
+   ],
+   "dung": 1,
+   "trang": 56
+  },
+  {
+   "hoi": "Vì sao hai chính quyền song song ở Nga không thể cùng tồn tại?",
+   "dap_an": [
+    "Vì đại diện cho các giai cấp có lợi ích đối lập nhau",
+    "Vì cùng muốn tiếp tục chiến tranh",
+    "Vì đều do Nga hoàng lập ra",
+    "Vì đóng ở hai thành phố khác nhau"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Tháng 7 – 1917, Chính phủ tư sản lâm thời đã làm gì?",
+   "dap_an": [
+    "Trao quyền cho các xô viết",
+    "Công khai đàn áp phong trào quần chúng, khủng bố các xô viết",
+    "Rút Nga khỏi chiến tranh",
+    "Chia ruộng cho nông dân"
+   ],
+   "dung": 1,
+   "trang": 56
+  },
+  {
+   "hoi": "Lực lượng nào lãnh đạo công nhân, nông dân, binh lính chuẩn bị đấu tranh vũ trang giành chính quyền?",
+   "dap_an": [
+    "Đảng Bôn-sê-vích",
+    "Chính phủ tư sản lâm thời",
+    "Quốc tế thứ hai",
+    "Khối Hiệp ước"
+   ],
+   "dung": 0,
+   "trang": 56
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 55 (Cách mạng tháng Mười diễn ra trong quá trình chiến tranh), tr. 56 (Cách mạng tháng Hai; hai chính quyền song song; tư liệu 1 của Lê-nin; kế hoạch của Lê-nin và Đảng Bôn-sê-vích; tháng 7 – 1917). Danh mục: kiến thức chốt khớp SGK. Tập này có phần nội dung trùng với nửa đầu tập L8-B12-04 (cùng nguồn SGK tr. 56) – cố ý để mỗi tập dùng độc lập. Mốc '2 – 1917' ở cảnh chuyển lấy từ tên 'Cách mạng tháng Hai năm 1917'. Lịch sử hiện đại: chỉ ảnh tư liệu, Lê-nin chỉ nhắc tên, trích dẫn đọc bởi người dẫn chuyện; không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

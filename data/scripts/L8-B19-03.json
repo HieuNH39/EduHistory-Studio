@@ -1,0 +1,204 @@
+{
+ "ma": "L8-B19-03",
+ "ten_tap": "Hành trình từ bến Nhà Rồng",
+ "ten_tap_en": "The Journey from Nhà Rồng Wharf",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 19. Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+  "trang": [
+   91,
+   92
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-chi-minh",
+  "thuy-thu"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, xúc động, mở ra chân trời",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có cảnh tái hiện, không có lời thoại của nhân vật lịch sử; hình ảnh lịch sử là ảnh tư liệu; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 19, tr. 91–92.",
+ "chinh_sach_hinh": "Thời kì hiện đại (1890 – 1917): tuyệt đối không dùng AI vẽ Nguyễn Tất Thành hay bất kì cảnh lịch sử có thật nào; chỉ dùng ảnh tư liệu phạm vi công cộng hoặc ảnh được phép sử dụng, ghi nguồn. Không có lời thoại dựng cho nhân vật lịch sử. Minh – Hân chỉ xuất hiện ở hiện tại; thẻ ghi nhớ dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng bên bờ sông Sài Gòn hôm nay, phía sau là toà nhà mái cong có hình rồng trên nóc ở Bến Nhà Rồng, tàu thuyền qua lại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ bến cảng này, hơn một trăm năm trước, một người thanh niên đã ra đi tìm đường cứu nước.",
+     "From this very wharf, more than a century ago, a young man set off to find a way to save his country."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Bến Nhà Rồng đầu thế kỉ XX (như Hình 19.5 SGK)",
+    "tim": "Saigon Nhà Rồng Messageries Maritimes early 1900s photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn; không vẽ lại bằng AI"
+   },
+   "hinh": "Khung dọc 9:16: Ảnh tư liệu Bến Nhà Rồng đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyễn Tất Thành sinh ngày 19 tháng 5 năm 1890 trong một gia đình nhà nho yêu nước ở xã Kim Liên, huyện Nam Đàn, nay là xã Kim Liên, tỉnh Nghệ An.",
+     "Nguyễn Tất Thành was born on 19 May 1890 into a patriotic Confucian family in Kim Liên, Nam Đàn, now Kim Liên commune, Nghệ An."
+    ],
+    [
+     "Hân Hân",
+     "Rất khâm phục các bậc tiền bối, nhưng không tán thành đường lối của họ, Người quyết định tìm một con đường cứu nước mới.",
+     "He deeply admired the patriots before him but disagreed with their methods, so he resolved to find a new path."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu tàu buôn đầu thế kỉ XX neo ở cảng Sài Gòn (không cần xác định tên tàu)",
+    "tim": "Saigon port steamship 1910s photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn; không vẽ người thật bằng AI"
+   },
+   "hinh": "Khung dọc 9:16: Ảnh tư liệu tàu buôn ở cảng Sài Gòn đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 5 tháng 6 năm 1911, tại cảng Nhà Rồng, Nguyễn Tất Thành xin làm phụ bếp trên một tàu buôn của Pháp, bắt đầu hành trình sang phương Tây, qua nhiều nước ở châu Âu, châu Phi, châu Mỹ.",
+     "On 5 June 1911, at Nhà Rồng, Nguyễn Tất Thành took a job as a kitchen hand on a French merchant ship, beginning a journey west through many countries in Europe, Africa and the Americas."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Ngày 5 – 6 – 1911, Nguyễn Tất Thành ra đi tìm đường cứu nước từ đâu?",
+    "lua_chon": [
+     "Cảng Nhà Rồng",
+     "Kinh thành Huế",
+     "Tân Sở"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ngày 5 tháng 6 năm 1911, Nguyễn Tất Thành ra đi từ đâu?",
+     "Pause! Where did Nguyễn Tất Thành set off from on 5 June 1911?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: cảng Nhà Rồng!",
+     "The answer is A: Nhà Rồng wharf!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "NĂM 1917",
+   "y": [
+    "Trở lại Pháp, làm nhiều nghề để kiếm sống",
+    "Hoạt động trong Hội những người Việt Nam yêu nước và phong trào công nhân Pháp",
+    "Cách mạng tháng Mười Nga ảnh hưởng mạnh mẽ đến tư tưởng của Người"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1917, Người trở lại Pháp, làm nhiều nghề để kiếm sống và tích cực hoạt động yêu nước. Thắng lợi của Cách mạng tháng Mười Nga đã ảnh hưởng mạnh mẽ đến tư tưởng của Người.",
+     "In 1917, he returned to France, worked many jobs to get by and was active in patriotic circles. The victory of the Russian October Revolution strongly influenced his thinking."
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân nhìn ra dòng sông Sài Gòn lúc hoàng hôn hôm nay, Hân Hân quay về phía người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì sao Nguyễn Tất Thành chọn đi sang phương Tây, khác với các bậc tiền bối? Bình luận nhé!",
+     "Why did Nguyễn Tất Thành head west, unlike the patriots before him? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nguyễn Tất Thành sinh ngày tháng năm nào?",
+   "dap_an": [
+    "19 – 5 – 1890",
+    "5 – 6 – 1911",
+    "2 – 9 – 1945",
+    "19 – 5 – 1911"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Khi ra đi tìm đường cứu nước, Nguyễn Tất Thành xin làm công việc gì trên tàu buôn của Pháp?",
+   "dap_an": [
+    "Thuyền trưởng",
+    "Phụ bếp",
+    "Thông dịch viên",
+    "Kĩ sư máy"
+   ],
+   "dung": 1,
+   "trang": 91
+  },
+  {
+   "hoi": "Năm 1917, Nguyễn Tất Thành trở lại nước nào?",
+   "dap_an": [
+    "Anh",
+    "Mỹ",
+    "Pháp",
+    "Nga"
+   ],
+   "dung": 2,
+   "trang": 92
+  },
+  {
+   "hoi": "Sự kiện nào ảnh hưởng mạnh mẽ đến tư tưởng của Nguyễn Tất Thành thời kì này?",
+   "dap_an": [
+    "Thắng lợi của Cách mạng tháng Mười Nga",
+    "Duy tân Minh Trị",
+    "Cách mạng tư sản Anh",
+    "Công xã Pa-ri"
+   ],
+   "dung": 0,
+   "trang": 92
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 91 (Nguyễn Tất Thành sinh 19 – 5 – 1890 ở xã Kim Liên, huyện Nam Đàn, nay là xã Kim Liên, tỉnh Nghệ An; không tán thành đường lối tiền bối; ngày 5 – 6 – 1911 tại cảng Nhà Rồng xin làm phụ bếp trên tàu buôn Pháp; qua nhiều nước châu Âu, châu Phi, châu Mỹ; Hình 19.5), tr. 92 (năm 1917 trở lại Pháp, làm nhiều nghề để kiếm sống; Hội những người Việt Nam yêu nước; Cách mạng tháng Mười Nga ảnh hưởng mạnh mẽ). Danh mục: 'làm nhiều nghề để học hỏi' sửa theo SGK 'làm nhiều nghề để kiếm sống'; 'ảnh hưởng sâu sắc' diễn đạt theo SGK 'ảnh hưởng mạnh mẽ'. Nhân vật lịch sử chỉ được nhắc tên, không vẽ AI.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

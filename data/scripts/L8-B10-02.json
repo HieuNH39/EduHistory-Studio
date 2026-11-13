@@ -1,0 +1,314 @@
+{
+ "ma": "L8-B10-02",
+ "ten_tap": "Đế quốc Anh và Pháp: Kẻ thống trị thuộc địa",
+ "ten_tap_en": "The British and French Empires: Colonial Masters",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 10. Sự hình thành chủ nghĩa đế quốc ở các nước Âu – Mỹ (cuối thế kỉ XIX – đầu thế kỉ XX)",
+  "trang": [
+   47,
+   48,
+   49
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "giai-cap-tu-san-anh",
+  "giai-cap-cong-nhan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, nhịp máy móc thời công nghiệp; trầm ở đoạn thuộc địa; không dùng nhạc vui nhộn",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; thẻ ghi nhớ, trục thời gian dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 10, tr. 47–49.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (cuối thế kỉ XIX – đầu thế kỉ XX): không dùng AI vẽ người thật hay cảnh lịch sử; chỉ dùng ảnh tư liệu (phạm vi công cộng, ghi nguồn); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong lớp học FPT hôm nay, trước màn hình lớn chiếu hai lá cờ Anh và Pháp cạnh một quả địa cầu cổ; Hân Hân cầm thước chỉ",
+   "am_thanh": "lớp học",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối thế kỉ XIX – đầu thế kỉ XX, Anh và Pháp đã chuyển sang giai đoạn đế quốc chủ nghĩa. Kinh tế của họ có còn dẫn đầu không nhỉ?",
+     "In the late 19th and early 20th centuries, Britain and France became imperialist powers. Were their economies still on top?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng xem nhé! Có một điều bất ngờ đấy.",
+     "Let's see! There's a surprise."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1870 – 1914",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cuối thế kỉ XIX: khu công nghiệp ở Anh với ống khói nhà máy, mỏ than",
+    "tim": "British coal mine factory 1890s photograph",
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nghiệp Anh cuối thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ vị trí dẫn đầu thế giới về công nghiệp, cuối thế kỉ XIX, Anh phát triển chậm lại, tụt xuống vị trí thứ ba, sau Mỹ và Đức.",
+     "Once the world's industrial leader, Britain slowed down in the late 19th century, dropping to third behind the US and Germany."
+    ],
+    [
+     "Hân Hân",
+     "Phần của Anh trong sản xuất công nghiệp thế giới từ 32 phần trăm năm 1870 rơi xuống 14 phần trăm trước năm 1914.",
+     "Britain's share of world industrial output fell from 32 percent in 1870 to 14 percent before 1914."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẾ QUỐC ANH",
+   "y": [
+    "Kinh tế: công nghiệp tụt xuống thứ ba, nhưng dẫn đầu thế giới về xuất khẩu tư bản, thương mại và thuộc địa",
+    "Đầu thế kỉ XX: nhiều công ty độc quyền về công nghiệp và tài chính ra đời",
+    "Đối nội: quân chủ lập hiến; hai đảng Tự do và Bảo thủ thay nhau nắm quyền, bảo vệ quyền lợi tư sản",
+    "Đối ngoại: đẩy mạnh xâm lược, trở thành đế quốc có nhiều thuộc địa nhất thế giới"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy vậy, Anh vẫn dẫn đầu thế giới về xuất khẩu tư bản, thương mại và thuộc địa. Nhiều công ty độc quyền ra đời, thao túng nền kinh tế.",
+     "Even so, Britain still led the world in capital exports, trade and colonies. Many monopolies emerged and dominated the economy."
+    ],
+    [
+     "Nhật Minh",
+     "Về đối nội, Anh là nước quân chủ lập hiến; hai đảng Tự do và Bảo thủ thay nhau nắm quyền, đều bảo vệ quyền lợi của giai cấp tư sản.",
+     "At home, Britain was a constitutional monarchy; the Liberal and Conservative parties took turns in power, both protecting bourgeois interests."
+    ],
+    [
+     "Hân Hân",
+     "Về đối ngoại, Anh trở thành đế quốc có nhiều thuộc địa nhất thế giới.",
+     "Abroad, Britain became the empire with the most colonies in the world."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuối thế kỉ XIX, công nghiệp Anh tụt xuống vị trí thứ mấy thế giới?",
+    "lua_chon": [
+     "Thứ hai",
+     "Thứ ba",
+     "Thứ tư"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Cuối thế kỉ XIX, công nghiệp Anh tụt xuống vị trí thứ mấy?",
+     "Pause! By the late 19th century, what rank had British industry fallen to?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thứ ba, sau Mỹ và Đức!",
+     "The answer is B: third, behind the US and Germany!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cuối thế kỉ XIX: một ngân hàng lớn ở Pa-ri (Pháp)",
+    "tim": "Paris bank building 1890s photograph",
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: ngân hàng ở Pa-ri cuối thế kỉ XIX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn Pháp, do hậu quả nặng nề của Chiến tranh Pháp – Phổ, kinh tế phát triển chậm lại. Cuối thế kỉ XIX, công nghiệp Pháp tụt xuống thứ tư.",
+     "France, hit hard by the Franco-Prussian War, saw its economy slow. By the late 19th century, French industry had dropped to fourth."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng các công ty độc quyền vẫn ra đời, đặc biệt trong ngân hàng. Pháp đứng thứ hai, sau Anh, về xuất khẩu tư bản.",
+     "Yet monopolies still emerged, especially in banking. France ranked second, after Britain, in exporting capital."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐẾ QUỐC PHÁP",
+   "y": [
+    "Kinh tế: công nghiệp tụt xuống thứ tư; nông nghiệp sản xuất nhỏ; đứng thứ hai về xuất khẩu tư bản",
+    "Đối nội: nền Cộng hoà thứ ba, thường xuyên khủng hoảng nội các, đàn áp nhân dân",
+    "Đối ngoại: hệ thống thuộc địa lớn thứ hai thế giới (châu Phi: An-giê-ri, Ma-rốc...; châu Á: Việt Nam, Cam-pu-chia, Lào)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về đối nội, nền Cộng hoà thứ ba được thành lập nhưng thường xuyên khủng hoảng nội các, chính phủ đàn áp nhân dân và các cuộc đấu tranh của công nhân.",
+     "At home, the Third Republic was founded but suffered frequent cabinet crises, and the government suppressed the people and workers' struggles."
+    ],
+    [
+     "Nhật Minh",
+     "Về đối ngoại, Pháp có hệ thống thuộc địa lớn thứ hai thế giới, chỉ sau Anh, ở châu Phi như An-giê-ri, Ma-rốc, và ở châu Á như Việt Nam, Cam-pu-chia, Lào.",
+     "Abroad, France had the world's second-largest colonial empire, after Britain, in Africa, such as Algeria and Morocco, and in Asia, including Việt Nam, Cambodia and Laos."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Pháp có hệ thống thuộc địa lớn thứ mấy thế giới?",
+    "lua_chon": [
+     "Thứ nhất",
+     "Thứ hai",
+     "Thứ ba"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Pháp có hệ thống thuộc địa lớn thứ mấy thế giới?",
+     "Quick test! What rank was France's colonial empire in the world?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thứ hai, chỉ sau Anh. Và Việt Nam cũng nằm trong số thuộc địa ấy.",
+     "The answer is B: second, after Britain. And Việt Nam was one of those colonies."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong lớp học, quả địa cầu cổ bên cạnh, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "lớp học",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Anh, Pháp tụt hạng về công nghiệp nhưng vẫn là hai đế quốc có nhiều thuộc địa nhất thế giới.",
+     "Remember: Britain and France fell behind in industry, yet remained the two empires with the most colonies."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: đế quốc Anh và đế quốc Pháp giống và khác nhau ở điểm nào về kinh tế và đối ngoại? Bình luận nhé!",
+     "Your challenge: how were the British and French empires alike, and how did they differ, in economy and foreign policy? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    47,
+    48,
+    49
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuối thế kỉ XIX – đầu thế kỉ XX, Anh vẫn dẫn đầu thế giới về lĩnh vực nào?",
+   "dap_an": [
+    "Sản lượng thép",
+    "Xuất khẩu tư bản, thương mại và thuộc địa",
+    "Sản xuất ô tô",
+    "Nông nghiệp"
+   ],
+   "dung": 1,
+   "trang": 47
+  },
+  {
+   "hoi": "Hai đảng nào thay nhau nắm quyền ở Anh?",
+   "dap_an": [
+    "Cộng hoà và Dân chủ",
+    "Tự do và Bảo thủ",
+    "Xã hội và Cộng sản",
+    "Bảo thủ và Cộng hoà"
+   ],
+   "dung": 1,
+   "trang": 47
+  },
+  {
+   "hoi": "Vì sao kinh tế Pháp phát triển chậm lại cuối thế kỉ XIX?",
+   "dap_an": [
+    "Do hậu quả nặng nề của Chiến tranh Pháp – Phổ",
+    "Do mất hết thuộc địa",
+    "Do cách mạng tư sản",
+    "Do thiên tai"
+   ],
+   "dung": 0,
+   "trang": 48
+  },
+  {
+   "hoi": "Chế độ chính trị ở Pháp cuối thế kỉ XIX – đầu thế kỉ XX là",
+   "dap_an": [
+    "Quân chủ lập hiến",
+    "Nền Cộng hoà thứ ba",
+    "Quân chủ chuyên chế",
+    "Liên bang quân chủ"
+   ],
+   "dung": 1,
+   "trang": 48
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 47 (Anh: tụt xuống thứ ba; tư liệu số liệu 32% năm 1870, 14% trước 1914; dẫn đầu xuất khẩu tư bản, thương mại, thuộc địa; quân chủ lập hiến, hai đảng Tự do, Bảo thủ; nhiều thuộc địa nhất), tr. 48 (Pháp: Chiến tranh Pháp – Phổ, tụt thứ tư, xuất khẩu tư bản thứ hai, Cộng hoà thứ ba, thuộc địa lớn thứ hai), tr. 49 (câu hỏi so sánh). Sửa kiến thức chốt danh mục: (1) Anh đứng đầu về 'xuất khẩu tư bản, thương mại và thuộc địa' (SGK), không chỉ 'thuộc địa và xuất khẩu tư bản'; (2) 'cả hai nước đều duy trì chế độ chính trị tư sản' chuẩn lại theo SGK: Anh quân chủ lập hiến, hai đảng bảo vệ quyền lợi tư sản; Pháp nền Cộng hoà thứ ba, khủng hoảng nội các, đàn áp nhân dân. Không lấy số liệu từ biểu đồ Hình 10.2, 10.4 (OCR không đọc rõ). Bản đồ thuộc địa năm 1914 trong danh mục không có trong SGK nên không dựng (thay bằng thẻ ghi nhớ). Thời kì đã có ảnh chụp: chỉ dùng ảnh tư liệu, không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

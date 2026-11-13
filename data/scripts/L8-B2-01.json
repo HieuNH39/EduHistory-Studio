@@ -1,0 +1,370 @@
+{
+ "ma": "L8-B2-01",
+ "ten_tap": "Tại sao nước Pháp bùng nổ cách mạng?",
+ "ten_tap_en": "Why Did Revolution Break Out in France?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 2. Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+  "trang": [
+   12,
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "lu-i-xvi",
+  "tang-lu",
+  "quy-toc",
+  "dang-cap-thu-ba",
+  "nong-dan-phap"
+ ],
+ "nhac": {
+  "tam_trang": "cung đình xa hoa xen lẫn nặng nề; căng dần về cuối khi dẫn tới năm 1789",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của vua Lu-i XVI mang tính tái hiện; cảnh người nông dân cõng hai đẳng cấp vẽ lại theo tinh thần tranh biếm hoạ Hình 2.1 SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 2, tr. 12–13.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi ở bàn thư viện trường FPT hôm nay, giữa hai bạn là cuốn sách mở ra trang có bức tranh biếm hoạ một người nông dân gầy gò còng lưng cõng hai người ăn mặc sang trọng (như Hình 2.1 SGK)",
+   "am_thanh": "thư viện yên tĩnh, tiếng lật sách",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bức tranh này lạ quá: một bác nông dân phải cõng hai người ăn mặc sang trọng trên lưng!",
+     "This picture is strange: a farmer carrying two well-dressed people on his back!"
+    ],
+    [
+     "Hân Hân",
+     "Đó là tranh biếm hoạ về tình cảnh người nông dân Pháp trước cách mạng. Cùng tìm hiểu vì sao nước Pháp bùng nổ cách mạng nhé!",
+     "It's a cartoon of French peasants' lives before the revolution. Let's find out why revolution broke out in France!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVIII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-phap"
+   ],
+   "hinh": "Khung hình chia đôi: bên trái, cánh đồng nước Pháp thế kỉ XVIII với nông dân cày bằng công cụ thô sơ, ruộng bỏ hoang, người dân xếp hàng chờ bánh mì; bên phải, hải cảng tấp nập tàu buôn và xưởng sản xuất có máy móc",
+   "am_thanh": "gió đồng, tiếng tàu buôn xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ XVIII, Pháp vẫn là nước nông nghiệp lạc hậu: công cụ thô sơ, năng suất thấp, mất mùa, đói kém thường xuyên xảy ra.",
+     "In the late 18th century, France was still a backward farming country: crude tools, low yields, and frequent crop failure and famine."
+    ],
+    [
+     "Hân Hân",
+     "Công thương nghiệp có phát triển, các hải cảng như Mác-xây, Boóc-đô tấp nập tàu buôn. Nhưng quy định ngặt nghèo của chế độ phường hội đã kìm hãm sản xuất, hạn chế tự do kinh doanh.",
+     "Trade and industry grew, and ports like Marseille and Bordeaux bustled with ships. But strict guild rules held back production and free enterprise."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "lu-i-xvi",
+    "quy-toc"
+   ],
+   "hinh": "Đại sảnh cung điện Pháp lộng lẫy, đèn chùm pha lê: vua Lu-i XVI (vẽ theo chân dung tư liệu: tóc giả trắng, áo choàng xanh thêu hoa huệ vàng) ngồi trên ngai, quan lại, quý tộc khúm núm vây quanh dâng giấy tờ",
+   "am_thanh": "nhạc cung đình, tiếng xì xào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nửa sau thế kỉ XVIII, chế độ quân chủ chuyên chế lâm vào khủng hoảng. Vua Lu-i XVI, lên ngôi năm 1774, nắm mọi quyền hành.",
+     "By the late 18th century, absolute monarchy was in crisis. Louis XVI, king from 1774, held all power."
+    ],
+    [
+     "Lu-i XVI",
+     "Mọi quyền hành trong vương quốc này đều thuộc về ta!",
+     "All power in this kingdom belongs to me!"
+    ],
+    [
+     "Nhật Minh",
+     "Sự quan liêu, tham nhũng của quan lại trở thành gánh nặng cho đông đảo người dân.",
+     "Bureaucracy and corruption among officials became a heavy burden on ordinary people."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tang-lu",
+    "quy-toc",
+    "nong-dan-phap"
+   ],
+   "hinh": "Cảnh dựng lại theo tinh thần tranh biếm hoạ Hình 2.1 SGK: một người nông dân gầy gò, quần áo vá, chống gậy còng lưng cõng trên lưng một giáo sĩ áo chùng và một quý tộc đội tóc giả, đeo kiếm; con đường đất, ruộng khô phía sau",
+   "am_thanh": "tiếng thở nặng nhọc, nhạc trầm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xã hội Pháp chia thành ba đẳng cấp: Tăng lữ, Quý tộc và Đẳng cấp thứ ba.",
+     "French society was split into three estates: the clergy, the nobility and the Third Estate."
+    ],
+    [
+     "Hân Hân",
+     "Tăng lữ và Quý tộc nắm mọi chức vụ cao nhất trong nhà nước, quân đội, Giáo hội, có mọi đặc quyền và được miễn các loại thuế.",
+     "The clergy and nobility held all the top posts in the state, army and Church, enjoyed every privilege and paid no taxes."
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "BA ĐẲNG CẤP TRONG XÃ HỘI PHÁP",
+   "y": [
+    "Tăng lữ và Quý tộc: nắm chức vụ cao nhất, mọi đặc quyền, được miễn thuế",
+    "Tư sản đứng đầu Đẳng cấp thứ ba: có thế lực kinh tế nhưng không có quyền lực chính trị",
+    "Nông dân, bình dân thành thị: hơn 90% dân số, chịu nhiều áp bức, bóc lột – động lực quyết định thắng lợi của cách mạng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai cấp tư sản đứng đầu Đẳng cấp thứ ba, có thế lực về kinh tế nhưng không có quyền lực chính trị.",
+     "The bourgeoisie led the Third Estate: economically powerful, but with no political power."
+    ],
+    [
+     "Hân Hân",
+     "Nông dân và bình dân thành thị chiếm hơn 90 phần trăm dân số, chịu nhiều áp bức, bóc lột. Họ sẵn sàng đi theo giai cấp tư sản và là động lực quyết định thắng lợi của cách mạng.",
+     "Peasants and the urban poor made up over 90 percent of the population and suffered heavy oppression. They were ready to follow the bourgeoisie and were the decisive force for the revolution's victory."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai đẳng cấp nào trong xã hội Pháp được miễn các loại thuế?",
+    "lua_chon": [
+     "Tăng lữ và Quý tộc",
+     "Tư sản và nông dân",
+     "Quý tộc và bình dân thành thị"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hai đẳng cấp nào được miễn các loại thuế?",
+     "Pause! Which two estates paid no taxes?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Tăng lữ và Quý tộc!",
+     "The answer is A: the clergy and the nobility!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "TRIẾT HỌC ÁNH SÁNG THẾ KỈ XVIII",
+   "y": [
+    "S. Mông-te-xki-ơ: hạn chế quyền của vua, đảm bảo quyền tự do của công dân",
+    "Vôn-te: quân chủ sáng suốt, tự do tín ngưỡng, quyền tư hữu",
+    "G. G. Rút-xô: xoá bỏ triệt để nền quân chủ, thành lập chế độ cộng hoà"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về tư tưởng, các nhà tư tưởng tư sản như Mông-te-xki-ơ, Vôn-te, Rút-xô đã đả phá chế độ phong kiến và Giáo hội qua trào lưu Triết học Ánh sáng.",
+     "In ideas, bourgeois thinkers such as Montesquieu, Voltaire and Rousseau attacked feudalism and the Church through the Enlightenment."
+    ],
+    [
+     "Hân Hân",
+     "Mông-te-xki-ơ muốn hạn chế quyền của vua; Vôn-te bảo vệ quyền tự do tín ngưỡng và quyền tư hữu; còn Rút-xô cho rằng phải xoá bỏ quân chủ, lập chế độ cộng hoà. Họ đã mở đường cho cách mạng bùng nổ.",
+     "Montesquieu wanted to limit royal power; Voltaire defended freedom of belief and property; Rousseau argued for abolishing monarchy and founding a republic. They paved the way for revolution."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "lu-i-xvi",
+    "dang-cap-thu-ba"
+   ],
+   "hinh": "Vua Lu-i XVI ngồi bàn giấy kí sắc lệnh thuế mới; ngoài cửa sổ cung điện, dòng người nghèo khổ tụ tập, giơ nắm tay phản đối; trời u ám báo hiệu giông bão",
+   "am_thanh": "tiếng sấm xa, đám đông xôn xao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà nước vay nợ của tư sản mà không trả được, nên nhà vua phải tăng thuế. Đời sống nhân dân ngày càng cơ cực.",
+     "The state couldn't repay its debts to the bourgeoisie, so the king raised taxes. People's lives grew ever harder."
+    ],
+    [
+     "Hân Hân",
+     "Điều đó thôi thúc họ nổi dậy. Ngày 14 tháng 7 năm 1789, cách mạng bùng nổ!",
+     "That drove them to rise up. On 14 July 1789, the revolution broke out!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế: nông nghiệp lạc hậu; chế độ phường hội kìm hãm công thương nghiệp",
+    "Chính trị: quân chủ chuyên chế khủng hoảng, Lu-i XVI nắm mọi quyền hành",
+    "Xã hội: ba đẳng cấp; Đẳng cấp thứ ba bị áp bức, không có quyền chính trị",
+    "Tư tưởng: Triết học Ánh sáng mở đường cho cách mạng (14 – 7 – 1789)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: kinh tế nông nghiệp lạc hậu, công thương nghiệp bị chế độ phường hội kìm hãm.",
+     "Remember: a backward farm economy, with guilds holding back industry and trade."
+    ],
+    [
+     "Hân Hân",
+     "Chế độ quân chủ chuyên chế khủng hoảng, xã hội chia ba đẳng cấp đầy bất công.",
+     "A crisis-ridden absolute monarchy, and a deeply unequal three-estate society."
+    ],
+    [
+     "Nhật Minh",
+     "Và Triết học Ánh sáng đã mở đường cho cách mạng bùng nổ ngày 14 tháng 7 năm 1789.",
+     "And Enlightenment ideas paved the way for the revolution of 14 July 1789."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện, gấp cuốn sách lại, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "thư viện",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nông dân và bình dân thành thị lại là động lực quyết định thắng lợi của cách mạng Pháp? Bình luận nhé!",
+     "Your challenge: why were peasants and the urban poor the decisive force behind the French Revolution's victory? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Điều gì đã kìm hãm nền sản xuất công nghiệp của Pháp cuối thế kỉ XVIII?",
+   "dap_an": [
+    "Những quy định ngặt nghèo của chế độ phường hội",
+    "Thiếu máy móc hoàn toàn",
+    "Không có hải cảng",
+    "Chiến tranh với Anh"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Vua Lu-i XVI lên ngôi năm nào?",
+   "dap_an": [
+    "1689",
+    "1774",
+    "1789",
+    "1792"
+   ],
+   "dung": 1,
+   "trang": 12
+  },
+  {
+   "hoi": "Lực lượng nào chiếm hơn 90% dân số Pháp trước cách mạng?",
+   "dap_an": [
+    "Tăng lữ",
+    "Quý tộc",
+    "Nông dân, bình dân thành thị",
+    "Giai cấp tư sản"
+   ],
+   "dung": 2,
+   "trang": 13
+  },
+  {
+   "hoi": "Nhà tư tưởng nào chủ trương xoá bỏ triệt để nền quân chủ, thành lập chế độ cộng hoà?",
+   "dap_an": [
+    "S. Mông-te-xki-ơ",
+    "Vôn-te",
+    "G. G. Rút-xô",
+    "C. Mác"
+   ],
+   "dung": 2,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 12 (kinh tế, chính trị – xã hội, Lu-i XVI lên ngôi 1774, ba đẳng cấp, Hình 2.1), tr. 13 (đặc quyền của Tăng lữ, Quý tộc; Đẳng cấp thứ ba; hơn 90% dân số; Triết học Ánh sáng; nhà vua tăng thuế; 14 – 7 – 1789). Sửa kiến thức chốt danh mục: (1) 'Đẳng cấp thứ ba chịu mọi thuế' không có nguyên văn trong SGK – thay bằng ý SGK: Tăng lữ, Quý tộc được miễn thuế, tư sản không có quyền chính trị, nông dân và bình dân chịu nhiều áp bức, bóc lột; (2) 'Lu-i XVI khủng hoảng tài chính' chuẩn lại theo SGK: nhà nước vay nợ tư sản không trả được nên nhà vua tăng thuế. Lời vua Lu-i XVI là lời dựng theo ý 'nắm mọi quyền hành' trong SGK. Sơ đồ tháp xã hội trong danh mục được thể hiện bằng cảnh dựng theo tranh biếm hoạ Hình 2.1 và thẻ ghi nhớ (pipeline chưa có mô phỏng tháp).",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "ma": "L8-B19-01",
+ "ten_tap": "Việt Nam thay đổi thế nào khi Pháp đến?",
+ "ten_tap_en": "How Did Việt Nam Change Under French Rule?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 19. Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+  "trang": [
+   88,
+   89
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "toan-quyen-dong-duong",
+  "cong-nhan-khai-mo",
+  "nong-dan"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, suy tư, hoài cổ",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có cảnh tái hiện, không có lời thoại của nhân vật lịch sử; hình ảnh lịch sử là ảnh tư liệu đầu thế kỉ XX. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 19, tr. 88–89.",
+ "chinh_sach_hinh": "Thời kì 1897 – 1914 đã có ảnh chụp: không dùng AI vẽ người thật hay cảnh lịch sử có thật; chỉ dùng ảnh, bưu ảnh tư liệu đầu thế kỉ XX đã thuộc phạm vi công cộng, ghi nguồn. Toàn quyền Pôn Đu-me chỉ được nhắc tên. Không có lời thoại dựng cho nhân vật lịch sử. Chính sách và biến đổi xã hội thể hiện bằng thẻ ghi nhớ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Cầu Long Biên ở Hà Nội hôm nay lúc hoàng hôn: Nhật Minh và Hân Hân đi bộ trên lối đi bộ bên thành cầu sắt hoen gỉ, một đoàn tàu chạy chậm qua giữa cầu, bãi giữa sông Hồng xanh mướt bên dưới",
+   "am_thanh": "tiếng tàu xình xịch trên cầu sắt, gió sông, xe máy",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cây cầu sắt này là cầu Long Biên, khánh thành năm 1902, xây dựng trong thời Pôn Đu-me làm Toàn quyền Đông Dương.",
+     "This iron bridge is Long Biên Bridge, opened in 1902 and built while Paul Doumer was Governor-General of Indochina."
+    ],
+    [
+     "Hân Hân",
+     "Hồi ấy, xã hội Việt Nam đang biến đổi rất mạnh dưới ách thống trị của thực dân Pháp. Cùng tìm hiểu nhé!",
+     "Back then, Vietnamese society was changing dramatically under French colonial rule. Let's find out how!"
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1897 – 1914",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh hoặc bưu ảnh tư liệu Hà Nội đầu thế kỉ XX: Phủ Toàn quyền Đông Dương hoặc phố xá thời Pháp thuộc",
+    "tim": "Hanoi early 1900s postcard Palais du Gouverneur général",
+    "yeu_cau": "ảnh, bưu ảnh năm 1897 – 1914, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: Hà Nội đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi căn bản bình định Việt Nam bằng quân sự, từ năm 1897 đến năm 1914, thực dân Pháp tiến hành cuộc khai thác thuộc địa lần thứ nhất ở nước ta.",
+     "Having largely pacified Việt Nam by force, from 1897 to 1914 the French carried out their first colonial exploitation programme."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHÍNH TRỊ",
+   "y": [
+    "Liên bang Đông Dương, đứng đầu là Toàn quyền người Pháp",
+    "Việt Nam bị chia thành ba kì với ba chế độ cai trị khác nhau"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về chính trị, Pháp hoàn thiện bộ máy thống trị ở Liên bang Đông Dương, đứng đầu là viên Toàn quyền người Pháp. Việt Nam bị chia thành ba kì với ba chế độ cai trị khác nhau.",
+     "Politically, France completed its ruling apparatus in the Indochinese Union, headed by a French Governor-General. Việt Nam was split into three regions, each under a different regime."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "KINH TẾ",
+   "y": [
+    "Chiếm đoạt ruộng đất, lập đồn điền",
+    "Khai thác mỏ; nhà máy xi măng, điện nước, xay xát gạo",
+    "Độc quyền thị trường, đặt nhiều thứ thuế mới",
+    "Mở đường bộ, đường sắt, đường thuỷ, cảng biển"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, Pháp dùng nhiều thủ đoạn chiếm đoạt ruộng đất, lập đồn điền trồng lúa và cây công nghiệp.",
+     "Economically, the French seized land by many means to set up rice and industrial-crop plantations."
+    ],
+    [
+     "Hân Hân",
+     "Chúng tập trung khai thác mỏ, xây một số nhà máy phục vụ chính quyền thực dân như xi măng, điện nước, xay xát gạo.",
+     "They focused on mining and built some factories to serve the colonial government, such as cement, power and water, and rice milling."
+    ],
+    [
+     "Nhật Minh",
+     "Pháp nắm độc quyền thị trường Việt Nam, bóc lột bằng nhiều thứ thuế mới,",
+     "France monopolised Việt Nam's market and exploited people through many new taxes,"
+    ],
+    [
+     "Hân Hân",
+     "và mở mang một số tuyến đường bộ, đường sắt, đường thuỷ và cảng biển.",
+     "and opened up some roads, railways, waterways and seaports."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "VĂN HOÁ, GIÁO DỤC",
+   "y": [
+    "Truyền bá văn hoá phương Tây, hạn chế ảnh hưởng văn hoá Trung Quốc",
+    "Đào tạo một lớp người thân Pháp",
+    "Mở một số trường học, cơ sở văn hoá, y tế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về văn hoá, giáo dục, Pháp truyền bá văn hoá phương Tây, đào tạo một lớp người thân Pháp làm chỗ dựa, và mở một số trường học, cơ sở văn hoá, y tế.",
+     "In culture and education, France spread Western culture, trained a class of pro-French people to rely on, and opened some schools and cultural and medical facilities."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đứng đầu bộ máy thống trị ở Liên bang Đông Dương là ai?",
+    "lua_chon": [
+     "Vua nhà Nguyễn",
+     "Viên Toàn quyền người Pháp",
+     "Phó vương người Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đứng đầu Liên bang Đông Dương là ai?",
+     "Pause! Who headed the Indochinese Union?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: viên Toàn quyền người Pháp!",
+     "The answer is B: the French Governor-General!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "VIỆT NAM BIẾN ĐỔI",
+   "y": [
+    "Từ nước phong kiến độc lập thành nước thuộc địa nửa phong kiến",
+    "Mâu thuẫn 1: toàn thể dân tộc Việt Nam – thực dân Pháp",
+    "Mâu thuẫn 2: nông dân – địa chủ phong kiến"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Kết quả là Việt Nam từ một nước phong kiến độc lập trở thành một nước thuộc địa nửa phong kiến,",
+     "As a result, Việt Nam went from an independent feudal state to a semi-feudal colony,"
+    ],
+    [
+     "Nhật Minh",
+     "với hai mâu thuẫn cơ bản: giữa toàn thể dân tộc Việt Nam với thực dân Pháp,",
+     "with two fundamental conflicts: between the whole Vietnamese nation and the French colonialists,"
+    ],
+    [
+     "Hân Hân",
+     "và giữa nông dân với địa chủ phong kiến.",
+     "and between peasants and feudal landlords."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau cuộc khai thác thuộc địa lần thứ nhất, Việt Nam trở thành nước như thế nào?",
+    "lua_chon": [
+     "Nước phong kiến độc lập",
+     "Nước phong kiến, nửa thuộc địa",
+     "Nước thuộc địa nửa phong kiến"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cẩn thận kẻo nhầm! Việt Nam trở thành nước như thế nào?",
+     "Careful, it's tricky! What did Việt Nam become?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: nước thuộc địa nửa phong kiến! Còn nước phong kiến, nửa thuộc địa là Trung Quốc sau năm 1901 đấy.",
+     "The answer is C: a semi-feudal colony! A semi-colonial, semi-feudal country was China after 1901."
+    ]
+   ],
+   "nguon_trang": [
+    89,
+    63
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu công nhân khai mỏ ở Việt Nam đầu thế kỉ XX (như Hình 19.2 SGK)",
+    "tim": "Indochine mine de charbon Hongay ouvriers 1900s photographie",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nhân khai mỏ đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kinh tế Việt Nam thành nơi khai thác tài nguyên, cung cấp sức lao động rẻ mạt và là thị trường tiêu thụ hàng hoá của Pháp, nên phát triển chậm chạp, què quặt, lệ thuộc nặng nề.",
+     "Việt Nam's economy became a source of resources and cheap labour and a market for French goods, so it stayed slow, lopsided and heavily dependent."
+    ],
+    [
+     "Hân Hân",
+     "Cơ cấu xã hội bắt đầu thay đổi: nông dân vẫn chiếm đa số và nghèo khổ; xuất hiện tầng lớp mới như tiểu tư sản, học sinh, sinh viên; số lượng công nhân tăng nhanh.",
+     "Society's structure began to change: peasants were still the poor majority; new groups like the petty bourgeoisie and students appeared; and the number of workers grew fast."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại cầu Long Biên hôm nay, trời đã lên đèn: Nhật Minh tựa vào thành cầu, Hân Hân quay về phía người xem, phía sau là thành phố sáng đèn bên kia sông Hồng",
+   "am_thanh": "gió sông, còi tàu xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi cho cậu: Pháp có xây cầu, mở đường, lập nhà máy, vậy vì sao kinh tế Việt Nam khi ấy vẫn chậm chạp, lệ thuộc? Bình luận nhé!",
+     "Question for you: the French built bridges, roads and factories, so why did Việt Nam's economy stay slow and dependent? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    88,
+    89
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp ở Việt Nam diễn ra trong thời gian nào?",
+   "dap_an": [
+    "1858 – 1884",
+    "1897 – 1914",
+    "1885 – 1896",
+    "1884 – 1913"
+   ],
+   "dung": 1,
+   "trang": 88
+  },
+  {
+   "hoi": "Trong cuộc khai thác thuộc địa lần thứ nhất, Việt Nam bị chia thành",
+   "dap_an": [
+    "30 tỉnh và 1 phủ",
+    "Đàng Trong và Đàng Ngoài",
+    "ba kì với ba chế độ cai trị khác nhau",
+    "hai miền Nam – Bắc"
+   ],
+   "dung": 2,
+   "trang": 88
+  },
+  {
+   "hoi": "Hai mâu thuẫn cơ bản trong xã hội Việt Nam đầu thế kỉ XX là",
+   "dap_an": [
+    "Dân tộc Việt Nam – thực dân Pháp; nông dân – địa chủ phong kiến",
+    "Công nhân – tư sản; Anh – Pháp",
+    "Nông dân – công nhân; Pháp – Tây Ban Nha",
+    "Vua – quan; nông dân – thương nhân"
+   ],
+   "dung": 0,
+   "trang": 89
+  },
+  {
+   "hoi": "Tầng lớp mới nào xuất hiện trong xã hội Việt Nam đầu thế kỉ XX?",
+   "dap_an": [
+    "Địa chủ phong kiến",
+    "Tiểu tư sản, học sinh, sinh viên",
+    "Quan lại triều Nguyễn",
+    "Nông dân"
+   ],
+   "dung": 1,
+   "trang": 89
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 88 (khai thác thuộc địa lần thứ nhất 1897 – 1914; bảng chính sách chính trị, kinh tế, văn hoá – giáo dục), tr. 89 (cầu Long Biên khánh thành 1902, thời Pôn Đu-me 1897 – 1902; thuộc địa nửa phong kiến; hai mâu thuẫn cơ bản; biến đổi chính trị, kinh tế, văn hoá – xã hội; Hình 19.2), đối chiếu tr. 63 (Trung Quốc 'phong kiến, nửa thuộc địa'). Danh mục: sửa 'sự ra đời của tầng lớp công nhân, tiểu tư sản' theo SGK: xuất hiện tầng lớp mới (tiểu tư sản, học sinh, sinh viên), còn số lượng công nhân tăng nhanh. Không dựng bản đồ vì SGK không có lược đồ ở mục này. Các mốc nhiễu trong câu hỏi cuối video lấy từ SGK Bài 17, 18.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

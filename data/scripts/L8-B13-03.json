@@ -1,0 +1,350 @@
+{
+ "ma": "L8-B13-03",
+ "ten_tap": "Kỉ nguyên của máy móc và hơi nước",
+ "ten_tap_en": "The Age of Machines and Steam",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+  "trang": [
+   59,
+   60
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phon-ton",
+  "cong-nhan-nha-may"
+ ],
+ "nhac": {
+  "tam_trang": "hăm hở, nhịp máy móc, hào hứng; khép lại rộng mở",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của Phơn-tơn là tái hiện mang tính minh hoạ, không phải trích dẫn lịch sử. Các cảnh nhà máy, cánh đồng là minh hoạ chung, không tái hiện một địa điểm cụ thể. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 13, tr. 59–60.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Bến phà sông hôm nay lúc sáng sớm: Nhật Minh và Hân Hân đứng trên boong một chiếc phà máy đang rẽ sóng, phía xa là cây cầu thép, xe máy và ô tô nối đuôi; Nhật Minh chỉ tay vào ống khói phà",
+   "am_thanh": "tiếng máy phà rì rì, còi phà, sóng vỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phà, ô tô, cầu thép... Hân Hân có biết tất cả những thứ này bắt đầu bùng nổ từ thế kỉ nào không?",
+     "Ferries, cars, steel bridges... Do you know which century they really took off in?"
+    ],
+    [
+     "Hân Hân",
+     "Thế kỉ XIX! Khi các thành tựu khoa học được đem vào ứng dụng, nhiều phát minh và cải tiến kĩ thuật lần lượt ra đời.",
+     "The 19th century! As scientific discoveries were put to use, inventions and technical improvements followed one after another."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "THẾ KỈ XIX: KĨ THUẬT BỨT PHÁ",
+   "y": [
+    "Cải tiến kĩ thuật luyện kim",
+    "Tìm ra nhiều nguyên liệu, nhiên liệu mới",
+    "Chế tạo máy công cụ",
+    "Giao thông vận tải tiến bộ vượt bậc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người ta cải tiến kĩ thuật luyện kim, tìm ra nhiều nguyên liệu, nhiên liệu mới, chế tạo máy công cụ.",
+     "People improved metallurgy, found new raw materials and fuels, and built machine tools."
+    ],
+    [
+     "Hân Hân",
+     "Còn giao thông vận tải thì có những tiến bộ vượt bậc. Cùng lên đường thôi!",
+     "And transport made huge leaps forward. Let's go!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 1807",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "phon-ton"
+   ],
+   "hinh": "Bến sông ở nước Mỹ đầu thế kỉ XIX: một con tàu gỗ có ống khói cao và bánh guồng hai bên mạn đang nhả khói; Phơn-tơn (vẽ theo tranh chân dung tư liệu, áo choàng sẫm, cổ áo trắng cao) đứng ở mũi tàu vẫy tay, đám đông trên bờ ngạc nhiên",
+   "am_thanh": "tiếng xình xịch của máy hơi nước, bánh guồng quẫy nước, đám đông xôn xao",
+   "loi": [
+    [
+     "Phơn-tơn",
+     "Không cần buồm, không cần mái chèo! Con tàu này chạy bằng sức hơi nước!",
+     "No sails, no oars! This ship runs on the power of steam!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1807, Phơn-tơn, người Mỹ, đã chế tạo được chiếc tàu thuỷ chạy bằng động cơ hơi nước đầu tiên.",
+     "In 1807, Fulton, an American, built the first ship powered by a steam engine."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng trên một cầu tàu đá ở hải cảng nước Anh năm 1836, trước mặt là hàng loạt tàu thuỷ có ống khói đang neo đậu và ra vào, khói than bốc lên trời xám; hai bạn chỉ quan sát",
+   "am_thanh": "còi tàu, hải âu, tiếng bốc dỡ hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chỉ ít chục năm sau, đến năm 1836, các hải cảng nước Anh đã có hơn 500 tàu thuỷ hoạt động!",
+     "Within a few decades, by 1836, more than 500 steamships were operating in Britain's harbours!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã chế tạo được tàu thuỷ chạy bằng động cơ hơi nước đầu tiên?",
+    "lua_chon": [
+     "Giêm Oát",
+     "Xti-phen-xơn",
+     "Phơn-tơn"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai đã chế tạo được tàu thuỷ chạy bằng động cơ hơi nước đầu tiên?",
+     "Pause! Who built the first steam-powered ship?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: Phơn-tơn, năm 1807!",
+     "The answer is C: Fulton, in 1807!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "cong-nhan-nha-may"
+   ],
+   "hinh": "Nhật Minh và Hân Hân đội mũ bảo hộ đứng trên lối đi cao trong một xưởng luyện kim thế kỉ XIX: lò cao khổng lồ đổ dòng kim loại nóng chảy rực đỏ, công nhân áo ghi-lê lấm lem than đang làm việc; hai bạn chỉ quan sát từ xa",
+   "am_thanh": "tiếng lửa gầm, búa máy, kim loại xèo xèo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nóng quá! Đây là lò cao. Phương pháp sử dụng lò cao trong luyện kim được phát minh, mở ra những nguyên liệu mới như thép, nhôm.",
+     "So hot! This is a blast furnace. The method of using blast furnaces in metallurgy led to new materials like steel and aluminium."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "PHÁT MINH NÀO, ỨNG DỤNG ĐÓ",
+   "y": [
+    "Điện → động cơ điện, điện thoại, vô tuyến điện",
+    "Động cơ đốt trong → ô tô, máy bay, khai thác dầu mỏ"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Những phát minh về điện là cơ sở để có động cơ điện, điện thoại, vô tuyến điện, và đưa năng lượng điện vào cuộc sống.",
+     "Discoveries about electricity paved the way for the electric motor, the telephone and radio, bringing electric power into daily life."
+    ],
+    [
+     "Nhật Minh",
+     "Còn động cơ đốt trong tạo tiền đề cho ô tô, máy bay, đồng thời thúc đẩy ngành khai thác dầu mỏ.",
+     "And the internal combustion engine paved the way for cars and aeroplanes, while boosting the oil industry."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng bên bờ ruộng lúa mì vàng ở châu Âu thế kỉ XIX, quan sát một máy kéo chạy bằng hơi nước kéo máy cày nhiều lưỡi, xa xa là máy gặt đập đang làm việc, bao phân bón xếp trên xe; hai bạn chỉ quan sát",
+   "am_thanh": "tiếng máy hơi nước phì phò, lúa xào xạc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nông nghiệp cũng đổi thay! Sang thế kỉ XIX, phân hoá học, máy kéo chạy bằng hơi nước, máy cày nhiều lưỡi, máy gặt đập được dùng rộng rãi.",
+     "Farming changed too! In the 19th century, chemical fertiliser, steam tractors, multi-share ploughs and combine harvesters came into wide use."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phát minh động cơ đốt trong tạo tiền đề cho sự ra đời của gì?",
+    "lua_chon": [
+     "Ô tô, máy bay",
+     "Điện thoại, vô tuyến điện",
+     "Thép, nhôm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhé! Động cơ đốt trong tạo tiền đề cho sự ra đời của gì?",
+     "Quiz time! What did the internal combustion engine pave the way for?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: ô tô và máy bay!",
+     "The answer is A: cars and aeroplanes!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "TÁC ĐỘNG",
+   "y": [
+    "Tạo nên cuộc cách mạng công nghiệp",
+    "Tăng năng suất lao động",
+    "Nhiều trung tâm công nghiệp xuất hiện",
+    "Giao thông vận tải phát triển nhanh chóng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tất cả những thành tựu ấy đã tạo nên cuộc cách mạng công nghiệp.",
+     "All these achievements created the industrial revolution."
+    ],
+    [
+     "Hân Hân",
+     "Năng suất lao động tăng, nhiều trung tâm công nghiệp xuất hiện, giao thông vận tải phát triển nhanh chóng.",
+     "Productivity rose, many industrial centres appeared, and transport developed rapidly."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại boong phà hôm nay: phà cập bến, ô tô lần lượt lăn bánh lên bờ; Hân Hân giơ điện thoại về phía người xem, Nhật Minh cười chỉ vào chiếc ô tô",
+   "am_thanh": "còi phà, tiếng động cơ ô tô",
+   "loi": [
+    [
+     "Hân Hân",
+     "Điện thoại, ô tô, máy gặt đập: trong ba thứ ấy, phát minh nào cậu thấy thay đổi cuộc sống quê mình nhiều nhất? Bình luận nhé!",
+     "Phones, cars, combine harvesters: which of these changed life in your hometown the most? Tell us in the comments!"
+    ],
+    [
+     "Nhật Minh",
+     "Hẹn gặp lại ở chuyến du hành tiếp theo!",
+     "See you on our next journey!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1807, Phơn-tơn (người Mỹ) đã chế tạo được gì?",
+   "dap_an": [
+    "Đầu máy xe lửa chạy bằng hơi nước",
+    "Tàu thuỷ chạy bằng động cơ hơi nước đầu tiên",
+    "Máy dệt",
+    "Động cơ đốt trong"
+   ],
+   "dung": 1,
+   "trang": 59
+  },
+  {
+   "hoi": "Phương pháp sử dụng lò cao trong luyện kim đã dẫn đến điều gì?",
+   "dap_an": [
+    "Sự ra đời của các nguyên liệu mới như thép, nhôm",
+    "Sự ra đời của điện thoại",
+    "Sự ra đời của phân hoá học",
+    "Sự ra đời của máy bay"
+   ],
+   "dung": 0,
+   "trang": 59
+  },
+  {
+   "hoi": "Những phát minh về điện là cơ sở cho sự ra đời của",
+   "dap_an": [
+    "ô tô, máy bay",
+    "động cơ điện, điện thoại, vô tuyến điện",
+    "máy kéo chạy bằng hơi nước",
+    "lò cao"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Tác động của những thành tựu kĩ thuật thế kỉ XIX là gì?",
+   "dap_an": [
+    "Làm giảm năng suất lao động",
+    "Tạo nên cuộc cách mạng công nghiệp, tăng năng suất lao động, giao thông vận tải phát triển nhanh",
+    "Làm giao thông vận tải chậm lại",
+    "Xoá bỏ hoàn toàn nông nghiệp"
+   ],
+   "dung": 1,
+   "trang": 60
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 59 (mục b Kĩ thuật: luyện kim, nguyên liệu, máy công cụ, giao thông; Phơn-tơn 1807; hơn 500 tàu thuỷ ở hải cảng Anh năm 1836; lò cao → thép, nhôm), tr. 60 (điện; động cơ đốt trong; nông nghiệp thế kỉ XIX; tác động). Danh mục: 'Phát minh lò cao' sửa theo SGK thành 'phát minh ra phương pháp sử dụng lò cao trong luyện kim'. Phương án nhiễu Giêm Oát, Xti-phen-xơn lấy từ SGK Bài 3 (tr. 15–16). Câu thoại của Phơn-tơn là tái hiện minh hoạ.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

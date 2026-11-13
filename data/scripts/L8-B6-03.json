@@ -1,0 +1,302 @@
+{
+ "ma": "L8-B6-03",
+ "ten_tap": "Chủ quyền biển đảo từ xa xưa",
+ "ten_tap_en": "Sovereignty over the Islands Since Long Ago",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+  "trang": [
+   29,
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "doi-hoang-sa",
+  "doi-bac-hai"
+ ],
+ "nhac": {
+  "tam_trang": "biển cả khoáng đạt, sóng gió; trang trọng, tự hào ở phần ý nghĩa",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh minh hoạ; không có lời thoại dựng cho nhân vật lịch sử; bản đồ định vị vẽ bằng code, luôn thể hiện quần đảo Hoàng Sa, Trường Sa của Việt Nam. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 6, tr. 29–30.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo phao cam) đứng trên mũi một con tàu đang đi giữa Biển Đông xanh thẳm hôm nay, lá cờ đỏ sao vàng bay trên cột cờ, phía xa thấp thoáng một đảo nhỏ có hàng cây xanh",
+   "am_thanh": "sóng biển, gió, hải âu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hân Hân ơi, từ bao giờ người Việt đã ra khai thác và giữ gìn các đảo, quần đảo ngoài Biển Đông nhỉ?",
+     "Han Han, since when have Vietnamese people been going out to work and guard the islands in the East Sea?"
+    ],
+    [
+     "Hân Hân",
+     "Từ rất sớm! Ngay từ thời các chúa Nguyễn, thế kỉ XVII – XVIII đấy. Cùng tìm hiểu nhé!",
+     "Since very early on! As far back as the Nguyễn lords, in the 17th and 18th centuries. Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    30
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-chua-nguyen",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Bản đồ định vị Biển Đông: quần đảo Hoàng Sa và quần đảo Trường Sa của Việt Nam lần lượt được khoanh sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong công cuộc khai phá vùng đất phía Nam, các chúa Nguyễn, sau đó là thời Tây Sơn, đã rất chú trọng thực thi chủ quyền đối với các đảo, quần đảo ở Biển Đông.",
+     "While opening up the south, the Nguyễn lords, and later the Tây Sơn, paid great attention to asserting sovereignty over the islands of the East Sea."
+    ],
+    [
+     "Nhật Minh",
+     "Đặc biệt là hai quần đảo lớn: quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "Above all, the two great archipelagos: Hoàng Sa and Trường Sa."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "doi-hoang-sa"
+   ],
+   "hinh": "Đoàn thuyền buồm gỗ của đội Hoàng Sa thế kỉ XVII – XVIII rẽ sóng ra khơi, những người đàn ông da rám nắng, đầu quấn khăn, kéo buồm, chèo thuyền; trời xanh, sóng bạc đầu",
+   "am_thanh": "sóng, gió, tiếng hò kéo buồm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoạt động khai thác và xác lập chủ quyền tại hai quần đảo được thực hiện có tổ chức, hệ thống và liên tục, thông qua đội Hoàng Sa và đội Bắc Hải.",
+     "Exploiting and establishing sovereignty over the two archipelagos was carried out in an organised, systematic and continuous way, through the Hoàng Sa and Bắc Hải flotillas."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-chua-nguyen",
+   "pha": "doi_dan_binh",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Bản đồ: thuyền đội dân binh từ bờ biển miền Trung ra quần đảo Hoàng Sa và quần đảo Trường Sa (hải trình minh hoạ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đó là những đội dân binh hoạt động liên tục ở quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "These were militia flotillas operating continuously in the Hoàng Sa and Trường Sa archipelagos."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    30
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời các chúa Nguyễn, chủ quyền ở Hoàng Sa, Trường Sa được thực thi thông qua những đội nào?",
+    "lua_chon": [
+     "Đội Hoàng Sa và đội Bắc Hải",
+     "Đội Thuỷ binh và đội Tượng binh",
+     "Đội Trường Sa và đội Nam Hải"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chủ quyền ở Hoàng Sa, Trường Sa được thực thi thông qua những đội nào?",
+     "Pause! Through which flotillas was sovereignty over Hoàng Sa and Trường Sa exercised?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đội Hoàng Sa và đội Bắc Hải!",
+     "The answer is A: the Hoàng Sa and Bắc Hải flotillas!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "doi-bac-hai"
+   ],
+   "hinh": "Một viên quan chúa Nguyễn trao tờ giấy sai đi cho những người dân tình nguyện bên bến thuyền; phía sau là những chiếc thuyền câu nhỏ chuẩn bị ra khơi, lưới, giỏ cá chất trên thuyền",
+   "am_thanh": "bến thuyền, sóng nhẹ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo Lê Quý Đôn, họ Nguyễn đặt đội Bắc Hải. Ai tình nguyện đi thì được cấp giấy sai đi, được miễn tiền sưu và tiền tuần đò.",
+     "According to Lê Quý Đôn, the Nguyễn set up the Bắc Hải flotilla. Volunteers got official papers and were exempted from head tax and ferry fees."
+    ],
+    [
+     "Hân Hân",
+     "Họ đi thuyền câu nhỏ ra các xứ Bắc Hải, cù lao Côn Lôn và các đảo ở Hà Tiên.",
+     "They sailed small fishing boats out to the Bắc Hải area, Côn Lôn island and the islands of Hà Tiên."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-chua-nguyen",
+   "pha": "bac_hai",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Bản đồ: thuyền đội Bắc Hải ra cù lao Côn Lôn và các đảo ở Hà Tiên; quần đảo Trường Sa trong khung hình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến cuối thế kỉ XVIII, chúa Nguyễn đã làm chủ cả một vùng rộng lớn từ phía nam dải Hoành Sơn đến mũi Cà Mau, gồm cả các đảo, quần đảo ở Biển Đông và vịnh Thái Lan.",
+     "By the late 18th century, the Nguyễn lords controlled a vast area from south of the Hoành Sơn range to Cape Cà Mau, including the islands of the East Sea and the Gulf of Thailand."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Các chúa Nguyễn, sau đó là thời Tây Sơn (thế kỉ XVII – XVIII) chú trọng thực thi chủ quyền biển đảo",
+    "Đội Hoàng Sa, đội Bắc Hải hoạt động có tổ chức, hệ thống, liên tục",
+    "Đội Bắc Hải: dân tình nguyện, được miễn sưu, ra xứ Bắc Hải, Côn Lôn, các đảo ở Hà Tiên",
+    "Khẳng định Việt Nam khai thác, thực thi chủ quyền ở Hoàng Sa, Trường Sa từ rất sớm và liên tục"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: các chúa Nguyễn, sau đó là thời Tây Sơn, rất chú trọng thực thi chủ quyền biển đảo.",
+     "Remember: the Nguyễn lords, and later the Tây Sơn, took great care to assert sovereignty at sea."
+    ],
+    [
+     "Nhật Minh",
+     "Đội Hoàng Sa và đội Bắc Hải hoạt động có tổ chức, hệ thống và liên tục.",
+     "The Hoàng Sa and Bắc Hải flotillas worked in an organised, systematic and continuous way."
+    ],
+    [
+     "Hân Hân",
+     "Hoạt động liên tục của các đội dân binh đã khẳng định Việt Nam khai thác, thực thi chủ quyền ở quần đảo Hoàng Sa và quần đảo Trường Sa từ rất sớm và liên tục.",
+     "Their continuous activity confirms that Việt Nam exploited and exercised sovereignty over Hoàng Sa and Trường Sa from very early on, without interruption."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    29,
+    30
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ở mũi tàu lúc hoàng hôn trên Biển Đông, lá cờ đỏ sao vàng bay phía sau; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "sóng biển, gió chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những bằng chứng nào cho thấy Việt Nam đã thực thi chủ quyền ở Hoàng Sa, Trường Sa từ rất sớm? Bình luận nhé!",
+     "Your challenge: what evidence shows that Việt Nam exercised sovereignty over Hoàng Sa and Trường Sa very early on? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo Lê Quý Đôn, người tình nguyện vào đội Bắc Hải được hưởng quyền lợi gì?",
+   "dap_an": [
+    "Được miễn tiền sưu và tiền tuần đò",
+    "Được phong làm quan",
+    "Được cấp ruộng ở kinh thành",
+    "Được miễn đi lính suốt đời"
+   ],
+   "dung": 0,
+   "trang": 29
+  },
+  {
+   "hoi": "Đội Bắc Hải đi thuyền câu nhỏ ra những nơi nào?",
+   "dap_an": [
+    "Xứ Bắc Hải, cù lao Côn Lôn, các đảo ở Hà Tiên",
+    "Đảo Hải Nam",
+    "Vịnh Bắc Bộ",
+    "Biển Hồ"
+   ],
+   "dung": 0,
+   "trang": 29
+  },
+  {
+   "hoi": "Đến cuối thế kỉ XVIII, chúa Nguyễn làm chủ vùng đất từ đâu đến đâu?",
+   "dap_an": [
+    "Từ sông Gianh đến Huế",
+    "Từ phía nam dải Hoành Sơn đến mũi Cà Mau, gồm cả các đảo, quần đảo",
+    "Từ Thăng Long đến Thanh Hoá",
+    "Từ Hà Tiên đến Cà Mau"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Hoạt động của các đội dân binh ở Hoàng Sa, Trường Sa có ý nghĩa gì?",
+   "dap_an": [
+    "Khẳng định Việt Nam khai thác, thực thi chủ quyền ở hai quần đảo từ rất sớm và liên tục",
+    "Mở đường buôn bán với châu Âu",
+    "Đánh bại quân Xiêm",
+    "Lập phủ Gia Định"
+   ],
+   "dung": 0,
+   "trang": 30
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 29 (thời các chúa Nguyễn, sau đó là Tây Sơn, thế kỉ XVII – XVIII; đội Hoàng Sa, đội Bắc Hải hoạt động có tổ chức, hệ thống, liên tục; tư liệu 2 Phủ biên tạp lục về đội Bắc Hải), tr. 30 (kết quả: làm chủ vùng từ nam Hoành Sơn đến mũi Cà Mau gồm cả các đảo, quần đảo; ý nghĩa về hoạt động liên tục của các đội dân binh). Danh mục: kiến thức chốt khớp SGK. Không có lời thoại dựng; bản đồ 'hoang-sa-chua-nguyen' là bản đồ định vị vẽ bằng code, có hai quần đảo ghi rõ (Việt Nam); hải trình là minh hoạ, SGK không nêu nơi xuất phát. Đáp án nhiễu tên đội ('Thuỷ binh, Tượng binh', 'Trường Sa, Nam Hải') chỉ dùng trong câu hỏi trắc nghiệm, lời đọc đáp án nêu đúng tên hai đội theo SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

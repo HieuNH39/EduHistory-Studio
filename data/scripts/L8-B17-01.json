@@ -1,0 +1,193 @@
+{
+ "ma": "L8-B17-01",
+ "ten_tap": "Phát súng đầu tiên tại Đà Nẵng",
+ "ten_tap_en": "The First Shots at Đà Nẵng",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 17. Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+  "trang": [
+   77,
+   78,
+   80
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-tri-phuong",
+  "lien-quan-phap-tay-ban-nha",
+  "quan-dan-da-nang"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, hào hùng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của Nguyễn Tri Phương là tái hiện mang tính minh hoạ, không phải trích dẫn lịch sử; hình vẽ theo tham chiếu Hình 17.7 SGK; cảnh tàu chiến năm 1858 vẽ minh hoạ theo Hình 17.1 SGK (tranh vẽ); khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 17, tr. 77–78, 80.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đi chân trần trên bãi biển Đà Nẵng hôm nay lúc bình minh, phía xa là bán đảo Sơn Trà mờ sương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bãi biển yên bình này từng là nơi vang lên những phát súng đầu tiên của cuộc xâm lược năm 1858.",
+     "This peaceful beach once heard the first shots of the 1858 invasion."
+    ]
+   ],
+   "nguon_trang": [
+    77,
+    78
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "lien-quan-phap-tay-ban-nha"
+   ],
+   "hinh": "Khung dọc 9:16: Ngày 1 tháng 9 năm 1858, Nhật Minh và Hân Hân nấp sau mỏm đá ven biển Đà Nẵng, nhìn đoàn tàu chiến buồm và hơi nước của liên quân Pháp – Tây Ban Nha (vẽ theo tham chiếu Hình 17.1) nã pháo vào bờ; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lấy cớ bảo vệ đạo Gia Tô, ngày 1 tháng 9 năm 1858, liên quân Pháp – Tây Ban Nha tấn công Đà Nẵng.",
+     "Using the protection of Catholicism as a pretext, on 1 September 1858, French and Spanish forces attacked Đà Nẵng."
+    ],
+    [
+     "Hân Hân",
+     "Chúng định biến nơi đây thành bàn đạp đánh ra Huế, buộc nhà Nguyễn nhanh chóng đầu hàng.",
+     "They planned to use it as a springboard to strike Huế and force a quick Nguyễn surrender."
+    ]
+   ],
+   "nguon_trang": [
+    77,
+    78
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-tri-phuong",
+    "quan-dan-da-nang"
+   ],
+   "hinh": "Khung dọc 9:16: Trên tuyến phòng thủ ven biển Đà Nẵng, Nguyễn Tri Phương (vẽ theo tham chiếu Hình 17.7, áo quan võ, râu bạc) giơ tay chỉ huy; binh lính và dân làng đắp luỹ, khiêng gỗ đá",
+   "loi": [
+    [
+     "Nguyễn Tri Phương",
+     "Giữ vững bờ biển! Không để giặc tiến thêm bước nào!",
+     "Hold the coast! Don't let the enemy advance a single step!"
+    ],
+    [
+     "Nhật Minh",
+     "Quân dân Đà Nẵng dưới sự chỉ huy của Nguyễn Tri Phương kháng cự quyết liệt, bước đầu làm thất bại âm mưu đánh nhanh thắng nhanh của Pháp.",
+     "Under Nguyễn Tri Phương's command, the soldiers and people of Đà Nẵng fought back fiercely, foiling France's plan for a quick victory."
+    ]
+   ],
+   "nguon_trang": [
+    78,
+    80
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Ai chỉ huy quân dân Đà Nẵng chống liên quân Pháp – Tây Ban Nha năm 1858?",
+    "lua_chon": [
+     "Hoàng Diệu",
+     "Nguyễn Tri Phương",
+     "Trương Định"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ai chỉ huy quân dân Đà Nẵng năm 1858?",
+     "Pause! Who led the defence of Đà Nẵng in 1858?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Nguyễn Tri Phương!",
+     "The answer is B: Nguyễn Tri Phương!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên bãi biển Đà Nẵng hôm nay, nắng đã lên, Nhật Minh quay về phía người xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao Pháp chọn Đà Nẵng làm nơi tấn công đầu tiên? Cậu đoán thử nhé!",
+     "Why did France pick Đà Nẵng as its first target? Have a guess in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thực dân Pháp lấy cớ gì để đưa quân xâm lược Việt Nam?",
+   "dap_an": [
+    "Bảo vệ đạo Gia Tô (Công giáo)",
+    "Buôn bán thuốc phiện",
+    "Đòi bồi thường chiến tranh",
+    "Giúp nhà Nguyễn dẹp loạn"
+   ],
+   "dung": 0,
+   "trang": 77
+  },
+  {
+   "hoi": "Ngày 1 – 9 – 1858, liên quân nào tấn công Đà Nẵng?",
+   "dap_an": [
+    "Anh – Pháp",
+    "Pháp – Tây Ban Nha",
+    "Pháp – Bồ Đào Nha",
+    "Anh – Tây Ban Nha"
+   ],
+   "dung": 1,
+   "trang": 78
+  },
+  {
+   "hoi": "Pháp muốn biến Đà Nẵng thành bàn đạp để làm gì?",
+   "dap_an": [
+    "Tấn công ra Huế, buộc nhà Nguyễn đầu hàng",
+    "Đánh chiếm Gia Định",
+    "Sang Trung Quốc buôn bán",
+    "Lập căn cứ hải quân ở Biển Đông"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Kết quả kháng cự của quân dân Đà Nẵng năm 1858 là gì?",
+   "dap_an": [
+    "Bước đầu làm thất bại âm mưu 'đánh nhanh thắng nhanh' của Pháp",
+    "Pháp chiếm được Huế ngay",
+    "Triều đình kí ngay Hiệp ước Nhâm Tuất",
+    "Pháp rút quân về nước"
+   ],
+   "dung": 0,
+   "trang": 78
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 77 (lấy cớ bảo vệ đạo Gia Tô; Hình 17.1 tranh vẽ liên quân tấn công Đà Nẵng 1858), tr. 78 (Hình 17.2: 1 – 9 – 1858 tấn công Đà Nẵng, âm mưu làm bàn đạp đánh ra Huế; quân dân Đà Nẵng do Nguyễn Tri Phương chỉ huy, bước đầu làm thất bại 'đánh nhanh thắng nhanh'), tr. 80 (Nguyễn Tri Phương được giao Tổng chỉ huy lực lượng chống Pháp ở Đà Nẵng; Hình 17.7). Danh mục: 'âm mưu bị chặn đứng' diễn đạt theo SGK 'bước đầu làm thất bại'.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

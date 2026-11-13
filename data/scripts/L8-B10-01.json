@@ -1,0 +1,188 @@
+{
+ "ma": "L8-B10-01",
+ "ten_tap": "Chủ nghĩa đế quốc là gì?",
+ "ten_tap_en": "What Is Imperialism?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 10. Sự hình thành chủ nghĩa đế quốc",
+  "trang": [
+   47
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "giai-cap-tu-san",
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "nhịp nhanh, công nghiệp, hơi căng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có lời thoại của nhân vật lịch sử; cảnh thành phố công nghiệp cuối thế kỉ XIX là minh hoạ chung; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 10, tr. 47.",
+ "chinh_sach_hinh": "Cuối thế kỉ XIX là thời kì đã có ảnh chụp: chỉ dùng cảnh minh hoạ chung (thành phố công nghiệp không xác định), không vẽ người thật hay sự kiện có thật; khái niệm thể hiện bằng thẻ ghi nhớ dựng bằng code. Minh – Hân chỉ quan sát trong cảnh du hành.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh gom hết các thẻ nhà trên bàn cờ tỷ phú trong phòng sinh hoạt hôm nay, cười đắc thắng; Hân Hân khoanh tay lắc đầu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu chiếm hết cả bàn cờ rồi đấy, đúng kiểu độc quyền! Mà cậu có biết từ độc quyền liên quan gì đến chủ nghĩa đế quốc không?",
+     "You've taken the whole board, a real monopoly! Do you know what monopolies have to do with imperialism?"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "cong-nhan"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên một cây cầu sắt nhìn xuống thành phố công nghiệp cuối thế kỉ XIX: ống khói nhà máy san sát, đoàn tàu hơi nước, công nhân đổ ra cổng xưởng; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng 30 năm cuối thế kỉ XIX, kinh tế tư bản chủ nghĩa phát triển nhanh chưa từng thấy, nhờ khoa học, kĩ thuật nở rộ.",
+     "In the last thirty or so years of the 19th century, capitalism grew faster than ever, powered by a boom in science and technology."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "CHỦ NGHĨA ĐẾ QUỐC RA ĐỜI",
+   "y": [
+    "Công ty độc quyền: các-ten, xanh-đi-ca, tơ-rớt",
+    "Tư bản công nghiệp + tư bản ngân hàng → tư bản tài chính",
+    "Đẩy mạnh xâm lược, khai thác thuộc địa"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Cạnh tranh gay gắt dẫn tới các công ty độc quyền như các-ten, xanh-đi-ca, tơ-rớt, lũng đoạn cả nền kinh tế.",
+     "Fierce competition produced monopolies such as cartels, syndicates and trusts that dominated the economy."
+    ],
+    [
+     "Nhật Minh",
+     "Tư bản công nghiệp dung hợp với tư bản ngân hàng thành tư bản tài chính.",
+     "Industrial capital merged with bank capital to form finance capital."
+    ],
+    [
+     "Hân Hân",
+     "Các nước tư bản đẩy mạnh xâm lược thuộc địa. Chủ nghĩa đế quốc ra đời!",
+     "Capitalist powers stepped up colonial conquest. Imperialism was born!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Tư bản tài chính hình thành từ sự dung hợp giữa",
+    "lua_chon": [
+     "Tư bản công nghiệp và tư bản ngân hàng",
+     "Nông nghiệp và thủ công nghiệp",
+     "Các-ten và tơ-rớt"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tư bản tài chính hình thành từ đâu?",
+     "Pause! Where did finance capital come from?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tư bản công nghiệp dung hợp với tư bản ngân hàng!",
+     "The answer is A: industrial capital merging with bank capital!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh trả lại các thẻ nhà lên bàn cờ, Hân Hân chỉ tay về phía người xem, phòng sinh hoạt hôm nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao độc quyền lại khiến các nước tư bản đi tìm thêm thuộc địa? Cậu nghĩ sao? Bình luận nhé!",
+     "Why did monopolies push capitalist powers to seek more colonies? What do you think? Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tơ-rớt là hình thức công ty độc quyền phổ biến ở nước nào?",
+   "dap_an": [
+    "Mỹ",
+    "Việt Nam",
+    "Ấn Độ",
+    "Trung Quốc"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Điều gì tạo ra động lực cho những chuyển biến lớn trong sản xuất cuối thế kỉ XIX?",
+   "dap_an": [
+    "Những phát minh khoa học, kĩ thuật nở rộ",
+    "Chiến tranh liên miên",
+    "Sự suy yếu của tư bản",
+    "Việc bỏ hoang ruộng đất"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Các công ty độc quyền có vai trò như thế nào ở mỗi nước?",
+   "dap_an": [
+    "Lũng đoạn thị trường, chi phối đời sống chính trị, xã hội",
+    "Không ảnh hưởng đến kinh tế",
+    "Chỉ hoạt động trong nông nghiệp",
+    "Bảo vệ quyền lợi công nhân"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Yếu tố nào KHÔNG phải biểu hiện của sự hình thành chủ nghĩa đế quốc?",
+   "dap_an": [
+    "Hình thành các công ty độc quyền",
+    "Hình thành tư bản tài chính",
+    "Đẩy mạnh xâm lược thuộc địa",
+    "Từ bỏ toàn bộ thuộc địa"
+   ],
+   "dung": 3,
+   "trang": 47
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 47 (khoảng 30 năm cuối thế kỉ XIX; phát minh khoa học, kĩ thuật; tập trung sản xuất và tư bản; các-ten, xanh-đi-ca (Anh, Pháp, Đức), tơ-rớt (Mỹ); tư bản tài chính; đẩy mạnh xâm lược thuộc địa; chủ nghĩa đế quốc ra đời). Danh mục khớp SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

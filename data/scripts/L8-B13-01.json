@@ -1,0 +1,317 @@
+{
+ "ma": "L8-B13-01",
+ "ten_tap": "Cuộc cách mạng khoa học tự nhiên",
+ "ten_tap_en": "The Revolution in the Natural Sciences",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+  "trang": [
+   58,
+   59
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "i-niu-ton",
+  "m-lo-mo-no-xop",
+  "s-dac-uyn"
+ ],
+ "nhac": {
+  "tam_trang": "tò mò, khám phá, lấp lánh; trang trọng ở phần tác động",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của I. Niu-tơn mang tính tái hiện (câu nói về quả táo theo Em có biết trong SGK); S. Đác-uyn chỉ dùng ảnh tư liệu. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 13, tr. 58–59.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi dưới gốc cây táo trong vườn trường hôm nay, một quả táo rơi xuống cạnh chân Nhật Minh; Hân Hân cầm cuốn sổ ghi chép, nắng chiều xuyên qua tán lá",
+   "am_thanh": "gió nhẹ, tiếng chim, tiếng quả rơi bộp",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ối! Quả táo rơi trúng chân tớ. Mà sao quả táo lại luôn rơi xuống đất nhỉ?",
+     "Ouch! An apple fell on my foot. But why do apples always fall down?"
+    ],
+    [
+     "Hân Hân",
+     "Câu hỏi ấy từng dẫn tới một phát minh vĩ đại! Cùng khám phá cuộc cách mạng khoa học tự nhiên nhé!",
+     "That very question once led to a great discovery! Let's explore the revolution in the natural sciences!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XVII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "i-niu-ton"
+   ],
+   "hinh": "Khu vườn nước Anh thế kỉ XVII: I. Niu-tơn (vẽ theo chân dung tư liệu Hình 13.1: tóc dài gợn sóng, áo choàng sẫm) ngồi uống trà dưới bóng cây táo, chỉ tay vào một quả táo trên cành, vẻ trầm ngâm",
+   "am_thanh": "chim hót, gió lá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chúng ta đang ở nước Anh cuối thế kỉ XVII. Người đàn ông dưới gốc táo kia là I. Niu-tơn, sống từ năm 1643 đến năm 1727.",
+     "We're in England in the late 17th century. The man under the apple tree is Isaac Newton, who lived from 1643 to 1727."
+    ],
+    [
+     "Niu-tơn",
+     "Tại sao quả táo luôn rơi xuống mặt đất, chứ không rơi ngang hay bay ngược lên?",
+     "Why does the apple always fall to the ground, rather than sideways or upwards?"
+    ],
+    [
+     "Hân Hân",
+     "Theo câu chuyện được kể lại, Niu-tơn nói rằng Trái Đất hút quả táo bằng một lực chưa được biết đến.",
+     "As the story goes, Newton said the Earth pulls the apple with a force no one yet knew."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ XVII, Niu-tơn đưa ra thuyết vạn vật hấp dẫn trong vật lí.",
+     "In the late 17th century, Newton put forward the theory of universal gravitation in physics."
+    ]
+   ],
+   "nguon_trang": [
+    58,
+    59
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thuyết vạn vật hấp dẫn là phát minh của ai?",
+    "lua_chon": [
+     "S. Đác-uyn",
+     "I. Niu-tơn",
+     "M. Lô-mô-nô-xốp"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Thuyết vạn vật hấp dẫn là phát minh của ai?",
+     "Pause! Who came up with the theory of universal gravitation?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: I. Niu-tơn!",
+     "The answer is B: Isaac Newton!"
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "m-lo-mo-no-xop"
+   ],
+   "hinh": "Phòng thí nghiệm thế kỉ XVIII ở Nga: M. Lô-mô-nô-xốp (vẽ theo chân dung tư liệu Hình 13.3: tóc giả trắng, áo khoác xanh thẫm) đứng bên bàn đầy bình thuỷ tinh, cân đĩa, lò đốt, ghi chép cẩn thận",
+   "am_thanh": "tiếng sôi lục bục, tiếng bút lông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giờ là nước Nga giữa thế kỉ XVIII. Đây là M. Lô-mô-nô-xốp, sống từ năm 1711 đến năm 1765.",
+     "Now it's Russia in the mid-18th century. This is Mikhail Lomonosov, who lived from 1711 to 1765."
+    ],
+    [
+     "Nhật Minh",
+     "Ông đưa ra định luật bảo toàn và chuyển hoá năng lượng, một thành tựu của cả vật lí và hoá học.",
+     "He put forward the law of conservation and transformation of energy, an achievement in both physics and chemistry."
+    ]
+   ],
+   "nguon_trang": [
+    58,
+    59
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu S. Đác-uyn: ảnh tượng ngồi như Hình 13.3a SGK, hoặc ảnh chụp chân dung thế kỉ XIX",
+    "tim": "Charles Darwin statue Natural History Museum; Charles Darwin photograph portrait",
+    "yeu_cau": "ảnh chụp tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: S. Đác-uyn (1809 – 1882)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sang giữa thế kỉ XIX, nhà khoa học S. Đác-uyn, sống từ năm 1809 đến năm 1882, đưa ra thuyết tiến hoá trong sinh học.",
+     "In the mid-19th century, Charles Darwin, who lived from 1809 to 1882, put forward the theory of evolution in biology."
+    ],
+    [
+     "Nhật Minh",
+     "Vì Đác-uyn sống trong thời đã có ảnh chụp, nên chúng mình chỉ dùng ảnh tư liệu thật về ông.",
+     "Since Darwin lived when photography existed, we only use real archival images of him."
+    ]
+   ],
+   "nguon_trang": [
+    58,
+    59
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "MỘT SỐ PHÁT MINH TIÊU BIỂU",
+   "moc": [
+    [
+     "Cuối thế kỉ XVII",
+     "Thuyết vạn vật hấp dẫn – I. Niu-tơn (Vật lí)"
+    ],
+    [
+     "Giữa thế kỉ XVIII",
+     "Định luật bảo toàn và chuyển hoá năng lượng – M. Lô-mô-nô-xốp (Vật lí, Hoá học)"
+    ],
+    [
+     "Giữa thế kỉ XIX",
+     "Thuyết tiến hoá – S. Đác-uyn (Sinh học)"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Cuối thế kỉ XVII, thuyết vạn vật hấp dẫn của Niu-tơn.",
+     "Recap! Late 17th century: Newton's universal gravitation."
+    ],
+    [
+     "Hân Hân",
+     "Giữa thế kỉ XVIII, định luật bảo toàn và chuyển hoá năng lượng của Lô-mô-nô-xốp.",
+     "Mid-18th century: Lomonosov's law of conservation and transformation of energy."
+    ],
+    [
+     "Nhật Minh",
+     "Giữa thế kỉ XIX, thuyết tiến hoá của Đác-uyn.",
+     "Mid-19th century: Darwin's theory of evolution."
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "TÁC ĐỘNG",
+   "y": [
+    "Thay đổi lớn nhận thức của con người: vạn vật biến chuyển, vận động theo quy luật",
+    "Đặt cơ sở cho cuộc cách mạng vĩ đại trong kĩ thuật và công nghiệp"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Những thành tựu ấy đã tạo ra sự thay đổi lớn trong nhận thức của con người: vạn vật biến chuyển, vận động theo quy luật.",
+     "These achievements greatly changed how people understood the world: everything changes and moves according to laws."
+    ],
+    [
+     "Nhật Minh",
+     "Chúng còn đặt cơ sở cho cuộc cách mạng vĩ đại trong kĩ thuật và công nghiệp.",
+     "They also laid the foundation for a great revolution in technology and industry."
+    ],
+    [
+     "Hân Hân",
+     "Khoa học mở đường, kĩ thuật theo sau. Cuộc cách mạng ấy sẽ đưa nhân loại vào kỉ nguyên của máy móc!",
+     "Science led the way, and technology followed, carrying humanity into the age of machines!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân dưới gốc cây táo trong vườn trường, Nhật Minh tung hứng quả táo, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "gió nhẹ, chim",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trong ba phát minh của Niu-tơn, Lô-mô-nô-xốp và Đác-uyn, phát minh nào cậu thấy gần gũi với cuộc sống nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: of the discoveries by Newton, Lomonosov and Darwin, which feels closest to everyday life? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Định luật bảo toàn và chuyển hoá năng lượng là phát minh của ai?",
+   "dap_an": [
+    "I. Niu-tơn",
+    "M. Lô-mô-nô-xốp",
+    "S. Đác-uyn",
+    "Giêm Oát"
+   ],
+   "dung": 1,
+   "trang": 58
+  },
+  {
+   "hoi": "Thuyết tiến hoá của S. Đác-uyn thuộc lĩnh vực nào?",
+   "dap_an": [
+    "Vật lí",
+    "Hoá học",
+    "Sinh học",
+    "Thiên văn học"
+   ],
+   "dung": 2,
+   "trang": 58
+  },
+  {
+   "hoi": "Thuyết vạn vật hấp dẫn ra đời vào khoảng thời gian nào?",
+   "dap_an": [
+    "Cuối thế kỉ XVII",
+    "Giữa thế kỉ XVIII",
+    "Giữa thế kỉ XIX",
+    "Đầu thế kỉ XX"
+   ],
+   "dung": 0,
+   "trang": 58
+  },
+  {
+   "hoi": "Tác động lớn của các thành tựu khoa học tự nhiên thế kỉ XVIII – XIX là gì?",
+   "dap_an": [
+    "Thay đổi nhận thức về vạn vật vận động theo quy luật, đặt cơ sở cho cách mạng kĩ thuật và công nghiệp",
+    "Làm suy yếu sản xuất công nghiệp",
+    "Chấm dứt mọi cuộc chiến tranh",
+    "Xoá bỏ chế độ phong kiến ở mọi nước"
+   ],
+   "dung": 0,
+   "trang": 59
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 58 (Hình 13.1 Niu-tơn; Hình 13.2 sơ đồ phát minh – cuối XVII, giữa XVIII, giữa XIX), tr. 59 (Hình 13.3; Em có biết về quả táo; tác động về nhận thức). Danh mục: sửa ý 'Khoa học thay đổi nhận thức về thế giới vận động theo quy luật' giữ đúng câu chữ SGK 'vạn vật biến chuyển, vận động theo quy luật'. Năm sinh – mất của Lô-mô-nô-xốp (1711 – 1765) OCR đọc sai ('711-1763'), đã kiểm tra trên ảnh trang Hình 13.3b. Hình 13.3a SGK là ảnh tượng Đác-uyn. Lời Niu-tơn diễn đạt lại câu hỏi và câu nói trong Em có biết SGK; Đác-uyn có ảnh chụp thật nên chỉ dùng ảnh tư liệu.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

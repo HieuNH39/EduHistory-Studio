@@ -1,0 +1,592 @@
+{
+ "ma": "L8-B5-03",
+ "ten_tap": "Trịnh – Nguyễn phân tranh: Sông Gianh chia cắt",
+ "ten_tap_en": "The Trịnh – Nguyễn Conflict: Divided by the Gianh River",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 5. Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+  "trang": [
+   23,
+   24,
+   25,
+   26,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "trinh-kiem",
+  "nguyen-hoang",
+  "dao-duy-tu",
+  "trinh-tung",
+  "quan-trinh",
+  "quan-nguyen",
+  "nhan-dan-dai-viet"
+ ],
+ "nhac": {
+  "tam_trang": "trầm hùng, cổ kính; căng thẳng ở các cảnh giao chiến bên sông Gianh; lắng buồn ở đoạn hệ quả; kết ấm, hướng về tương lai",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 5, tr. 23–27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trước Quảng Bình Quan ở tỉnh Quảng Trị hôm nay: cổng thành cổ hai tầng mái ngói rêu phong, tường gạch dày, hàng cây xanh hai bên, nắng chiều; phía xa là dòng sông",
+   "am_thanh": "phố nhỏ yên ả, chim sẻ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Quảng Bình Quan, thuộc hệ thống di tích Luỹ Thầy ở tỉnh Quảng Trị.",
+     "This is the Quảng Bình Gate, part of the Lũy Thầy relic system in Quảng Trị province."
+    ],
+    [
+     "Nhật Minh",
+     "Ca dao có câu: “Khôn ngoan qua được Thanh Hà, dẫu rằng có cánh khó qua Luỹ Thầy”. Vì sao luỹ này lại khó vượt đến thế? Cùng tìm hiểu nhé!",
+     "A folk verse says: 'Clever folk may cross Thanh Hà, but even with wings you can't get past Lũy Thầy.' Why was it so hard to cross? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    23,
+    26
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1545",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "trinh-kiem"
+   ],
+   "hinh": "Trong doanh trại Nam triều thế kỉ XVI, Trịnh Kiểm (vẽ theo tranh tư liệu: vạm vỡ, áo giáp, khăn đầu rìu) nhận ấn kiếm chỉ huy, các tướng lĩnh quỳ hai bên; ánh đuốc đỏ",
+   "am_thanh": "lửa đuốc, tiếng hô đồng thanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1545, Nguyễn Kim chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền.",
+     "In 1545, Nguyễn Kim died. His son-in-law Trịnh Kiểm took over and held all military power."
+    ],
+    [
+     "Hân Hân",
+     "Trịnh Kiểm có tài thao lược, sức khoẻ hơn người, từng theo Nguyễn Kim đánh dẹp nhà Mạc. Từ đây, ông bắt đầu loại bỏ dần thế lực họ Nguyễn.",
+     "Trịnh Kiểm was a gifted strategist of great strength who had fought the Mạc beside Nguyễn Kim. From then on, he began pushing the Nguyễn clan aside."
+    ],
+    [
+     "Trịnh Kiểm",
+     "Binh quyền từ nay phải tập trung trong tay họ Trịnh.",
+     "From now on, military power stays with the Trịnh."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-hoang"
+   ],
+   "hinh": "Nguyễn Hoàng (vẽ theo tranh tư liệu: trung niên, áo bào xanh, khăn vấn) dẫn đoàn tuỳ tùng lên đường về phương Nam, phía trước là dải đất miền Trung với núi xanh và biển rộng; trời chiều",
+   "am_thanh": "gió, bước chân, tiếng ngựa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mâu thuẫn giữa hai dòng họ Trịnh, Nguyễn ngày càng gay gắt. Nguyễn Hoàng, con thứ của Nguyễn Kim, đã xin vào trấn thủ Thuận Hoá.",
+     "The rivalry between the Trịnh and Nguyễn clans grew fierce. Nguyễn Hoàng, Nguyễn Kim's younger son, asked to be sent to govern Thuận Hoá."
+    ],
+    [
+     "Nguyễn Hoàng",
+     "Vào Thuận Hoá, ta sẽ tìm cách gây dựng sự nghiệp.",
+     "In Thuận Hoá, I will build my own future."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "trinh-nguyen",
+   "pha": "thuan_hoa",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Sa bàn miền Bắc và miền Trung (có quần đảo Hoàng Sa): mũi tên Nguyễn Hoàng vào trấn thủ Thuận Hoá",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau khi Nguyễn Hoàng mất, con trai là Nguyễn Phúc Nguyên lên thay, tiếp tục củng cố địa vị và dần cắt đứt quan hệ lệ thuộc với họ Trịnh.",
+     "After Nguyễn Hoàng died, his son Nguyễn Phúc Nguyên took over, strengthened his position and gradually broke away from the Trịnh."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-trinh",
+    "quan-nguyen"
+   ],
+   "hinh": "Khung hình chia đôi: bên trái, phủ chúa Trịnh lộng lẫy ở kinh thành phía bắc, quan lại tấp nập; bên phải, dinh trấn thủ của họ Nguyễn ở vùng đất phía nam, binh sĩ luyện tập; ở giữa hai nửa là chiếc ngai vàng của vua Lê mờ nhạt",
+   "am_thanh": "nhạc căng thẳng nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cả hai dòng họ đều mượn danh vua Lê để lấn át nhau. Họ Trịnh bắt họ Nguyễn phải nộp thuế đều đặn và thần phục triều đình, trong khi thực quyền lại nằm trong tay họ Trịnh.",
+     "Both clans used the Lê king's name against each other. The Trịnh demanded regular taxes and loyalty from the Nguyễn, while real power was in Trịnh hands."
+    ],
+    [
+     "Nhật Minh",
+     "Còn họ Nguyễn thì tuyên bố chống lại họ Trịnh, mong tiêu diệt họ Trịnh để khôi phục quyền lợi cho vua Lê.",
+     "The Nguyễn, for their part, declared against the Trịnh, aiming to destroy them and restore the Lê king's rights."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-trinh"
+   ],
+   "hinh": "Đại quân họ Trịnh (cờ xí, voi chiến, thuyền chiến trên sông) rầm rộ tiến về phía nam, bụi mù trên đường; một viên tướng cưỡi ngựa giơ roi chỉ về phía trước",
+   "am_thanh": "trống trận, voi rống, tiếng hô",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1627, lấy cớ họ Nguyễn không chịu nộp thuế, họ Trịnh đem quân đánh vào Thuận Hoá. Cuộc xung đột Trịnh – Nguyễn bùng nổ.",
+     "In 1627, claiming the Nguyễn refused to pay taxes, the Trịnh sent an army into Thuận Hoá. The Trịnh – Nguyễn war had begun."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "trinh-nguyen",
+   "pha": "giao_tranh",
+   "thoi_luong_toi_thieu": 14,
+   "hinh": "Sa bàn vùng Hà Tĩnh – Quảng Bình: mũi tên quân Trịnh vượt sông Gianh tấn công phía nam; mũi tên quân Nguyễn một lần vượt sông Gianh đến sông Lam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong gần nửa thế kỉ, từ năm 1627 đến năm 1672, hai bên trải qua bảy lần giao chiến.",
+     "For almost half a century, from 1627 to 1672, the two sides fought seven times."
+    ],
+    [
+     "Nhật Minh",
+     "Quân Trịnh có sáu lần tấn công lớn vào khu vực phía nam sông Gianh. Còn quân Nguyễn một lần vượt sông Gianh, chiếm giữ vùng đất phía nam sông Lam mấy năm mới rút về.",
+     "The Trịnh launched six major attacks south of the Gianh River. The Nguyễn once crossed the Gianh and held land south of the Lam River for a few years before pulling back."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ năm 1627 đến năm 1672, quân Trịnh và quân Nguyễn giao chiến mấy lần?",
+    "lua_chon": [
+     "Ba lần",
+     "Năm lần",
+     "Bảy lần"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Từ năm 1627 đến năm 1672, quân Trịnh và quân Nguyễn giao chiến mấy lần?",
+     "Pause! Between 1627 and 1672, how many times did the Trịnh and Nguyễn armies clash?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: bảy lần, trong đó quân Trịnh có sáu lần tấn công lớn!",
+     "The answer is C: seven times, including six major Trịnh offensives!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "dao-duy-tu",
+    "quan-nguyen"
+   ],
+   "hinh": "Đào Duy Từ (vẽ theo tượng thờ: nho sĩ, râu dài, áo dài xanh, khăn đóng) đứng trên gò cao cầm bản vẽ, chỉ huy hàng trăm binh sĩ, dân phu đắp luỹ đất cao, xếp đá, dựng cọc gỗ dọc bờ sông gần cửa biển",
+   "am_thanh": "tiếng cuốc xẻng, hò hô đắp luỹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Luỹ Thầy còn gọi là luỹ Đào Duy Từ, theo tên nhà quân sự đã chỉ huy xây dựng.",
+     "Lũy Thầy is also called the Đào Duy Từ Wall, after the military strategist who directed its construction."
+    ],
+    [
+     "Đào Duy Từ",
+     "Đắp luỹ cho thật kiên cố! Có luỹ này, quân ta giữ vững được đất phương Nam.",
+     "Build this wall strong! With it, we will hold the southern land."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là một thành luỹ kiên cố, giúp chúa Nguyễn chống lại các cuộc tấn công của chúa Trịnh.",
+     "It was a solid fortification that helped the Nguyễn lords resist the Trịnh attacks."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "trinh-nguyen",
+   "pha": "luy_thay",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn: Luỹ Thầy hiện dần gần cửa sông Nhật Lệ, các mũi tên quân Trịnh dừng lại trước luỹ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Trịnh tuy mạnh hơn nhưng bất lợi vì phải điều quân đi xa. Quân Nguyễn lại có hệ thống thành luỹ phòng ngự kiên cố.",
+     "The Trịnh were stronger but had to send troops a long way. The Nguyễn had a solid system of defensive walls."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-nguyen",
+    "quan-trinh"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng nép trên mặt Luỹ Thầy bằng đất đá cao, sau hàng cọc gỗ; quân Nguyễn canh gác dọc luỹ; phía bên kia cánh đồng, cờ xí quân Trịnh san sát nhưng không tiến lên được, khói lửa xa xa",
+   "am_thanh": "gió, tiếng trống trận vọng lại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì thế, không bên nào giành được thắng lợi quyết định.",
+     "So neither side could win a decisive victory."
+    ],
+    [
+     "Nhật Minh",
+     "Cả vùng Quảng Bình, nay thuộc tỉnh Quảng Trị, và Hà Tĩnh đã trở thành chiến trường ác liệt…",
+     "The whole of Quảng Bình, now part of Quảng Trị province, and Hà Tĩnh became a fierce battlefield…"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 13,
+   "lop": "sa_ban",
+   "sa_ban": "trinh-nguyen",
+   "pha": "chia_cat",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn toàn vùng (có quần đảo Hoàng Sa, Trường Sa): ranh giới sông Gianh, nhãn Đàng Ngoài (vua Lê – chúa Trịnh) và Đàng Trong (chúa Nguyễn)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối cùng, hai bên lấy sông Gianh làm ranh giới, chia cắt đất nước: từ sông Gianh trở ra Bắc là Đàng Ngoài, từ sông Gianh trở vào Nam là Đàng Trong.",
+     "In the end, both sides took the Gianh River as the border, splitting the country: north of the Gianh was Đàng Ngoài, south of it Đàng Trong."
+    ],
+    [
+     "Nhật Minh",
+     "Luỹ Thầy ở phía nam như một bức tường thành vững chắc ngăn đôi đất nước.",
+     "Lũy Thầy, on the southern side, stood like a solid wall cutting the country in two."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "trinh-tung"
+   ],
+   "hinh": "Phủ chúa Trịnh thế kỉ XVII (vẽ theo tinh thần tranh của X. Ba-ron, Hình 5.4 SGK): dinh thự rộng lớn, tường bao, cổng nhiều lớp, voi và lính hầu; bên cạnh là cung điện vua Lê nhỏ và vắng vẻ hơn",
+   "am_thanh": "nhạc cung đình, tiếng lính gác",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đàng Ngoài, Trịnh Tùng xây dựng vương phủ ngay bên cạnh triều đình vua Lê. Họ Trịnh nắm toàn quyền nhưng vẫn phải dựa vào danh nghĩa vua Lê.",
+     "In Đàng Ngoài, Trịnh Tùng built his own palace right next to the Lê court. The Trịnh held all power but still relied on the Lê king's name."
+    ],
+    [
+     "Hân Hân",
+     "Thế là hình thành cục diện “vua Lê – chúa Trịnh”. Còn ở Đàng Trong, con cháu họ Nguyễn nối nhau cầm quyền, gọi là “chúa Nguyễn”.",
+     "So came the 'Lê kings – Trịnh lords' arrangement. In Đàng Trong, the Nguyễn descendants ruled in turn as the 'Nguyễn lords'."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai thế lực Trịnh – Nguyễn lấy con sông nào làm ranh giới chia cắt đất nước?",
+    "lua_chon": [
+     "Sông Lam",
+     "Sông Gianh",
+     "Sông Nhật Lệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Hai thế lực Trịnh – Nguyễn lấy con sông nào làm ranh giới?",
+     "Quick test! Which river did the Trịnh and Nguyễn use as their border?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: sông Gianh! Từ đó trở ra Bắc là Đàng Ngoài, trở vào Nam là Đàng Trong.",
+     "The answer is B: the Gianh River! North of it was Đàng Ngoài, south of it Đàng Trong."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nhan-dan-dai-viet"
+   ],
+   "hinh": "Hai nửa khung hình: bên trái, đồng ruộng xóm làng ven sông bị tàn phá sau chiến tranh, người dân buồn bã; bên phải, những đoàn người gồng gánh, dắt trâu, chở thuyền đi về phía nam, khai hoang những vùng đất mới xanh tươi",
+   "am_thanh": "gió, nhạc trầm chuyển dần sang ấm áp",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuộc xung đột kéo dài làm suy kiệt sức người, sức của, tàn phá đồng ruộng, xóm làng, giết hại nhiều người dân vô tội và chia cắt đất nước.",
+     "The long war drained people and resources, ruined fields and villages, killed many innocent people and divided the country."
+    ],
+    [
+     "Hân Hân",
+     "Tuy nhiên, trong thời gian ấy, nhiều đợt di dân từ Đàng Ngoài vào Đàng Trong đã đẩy nhanh việc khai phá vùng đất phía Nam, làm lãnh thổ Đại Việt được mở rộng.",
+     "Yet during that time, waves of migrants from Đàng Ngoài to Đàng Trong sped up the opening of the southern lands, expanding Đại Việt's territory."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 17,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · TRỊNH – NGUYỄN",
+   "moc": [
+    [
+     "1545",
+     "Trịnh Kiểm nắm toàn bộ binh quyền"
+    ],
+    [
+     "Thuận Hoá",
+     "Nguyễn Hoàng xin vào trấn thủ"
+    ],
+    [
+     "1627",
+     "Họ Trịnh đánh vào Thuận Hoá, xung đột bùng nổ"
+    ],
+    [
+     "1627 – 1672",
+     "Bảy lần giao chiến"
+    ],
+    [
+     "Sông Gianh",
+     "Ranh giới Đàng Ngoài – Đàng Trong"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1545, Trịnh Kiểm nắm toàn bộ binh quyền.",
+     "Recap! 1545: Trịnh Kiểm takes all military power."
+    ],
+    [
+     "Nhật Minh",
+     "Nguyễn Hoàng xin vào trấn thủ Thuận Hoá.",
+     "Nguyễn Hoàng asks to govern Thuận Hoá."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1627, họ Trịnh đánh vào Thuận Hoá, xung đột bùng nổ, rồi bảy lần giao chiến đến năm 1672.",
+     "1627: the Trịnh attack Thuận Hoá; war breaks out, with seven clashes until 1672."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối cùng, sông Gianh trở thành ranh giới giữa Đàng Ngoài và Đàng Trong.",
+     "Finally, the Gianh River becomes the border between Đàng Ngoài and Đàng Trong."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2,
+    3
+   ],
+   "nguon_trang": [
+    25,
+    26
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 19,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân: mâu thuẫn quyền lực giữa hai dòng họ Trịnh, Nguyễn; năm 1627 họ Trịnh đánh vào Thuận Hoá",
+    "1627 – 1672: bảy lần giao chiến, không bên nào thắng quyết định",
+    "Luỹ Thầy (luỹ Đào Duy Từ) giúp chúa Nguyễn phòng thủ vững chắc",
+    "Sông Gianh chia cắt đất nước: Đàng Ngoài (vua Lê – chúa Trịnh), Đàng Trong (chúa Nguyễn)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: xung đột bắt nguồn từ mâu thuẫn quyền lực giữa hai dòng họ Trịnh, Nguyễn, bùng nổ năm 1627.",
+     "Remember: the war grew out of the power struggle between the Trịnh and Nguyễn clans, and broke out in 1627."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1627 đến năm 1672, bảy lần giao chiến mà không bên nào thắng quyết định.",
+     "From 1627 to 1672, seven clashes with no decisive winner."
+    ],
+    [
+     "Nhật Minh",
+     "Luỹ Thầy, hay luỹ Đào Duy Từ, giúp chúa Nguyễn phòng thủ vững chắc.",
+     "Lũy Thầy, or the Đào Duy Từ Wall, gave the Nguyễn lords a strong defence."
+    ],
+    [
+     "Hân Hân",
+     "Sông Gianh chia cắt đất nước thành Đàng Ngoài và Đàng Trong.",
+     "The Gianh River split the country into Đàng Ngoài and Đàng Trong."
+    ]
+   ],
+   "nguon_trang": [
+    25,
+    26
+   ]
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng bên tấm bia đá dưới chân Luỹ Thầy, sát cửa sông Nhật Lệ (tỉnh Quảng Trị) lúc hoàng hôn, mặt sông lấp lánh; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "sóng sông nhẹ, gió chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tấm bia dưới chân luỹ ghi rằng nơi đây từng diễn ra những cuộc giao tranh quyết liệt trong gần 50 năm nội chiến.",
+     "The stele at the foot of the wall says fierce battles were fought here during nearly 50 years of civil war."
+    ],
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cuộc xung đột Trịnh – Nguyễn để lại hệ quả gì? Có hệ quả nào khiến lãnh thổ được mở rộng không? Bình luận nhé!",
+     "Your challenge: what did the Trịnh – Nguyễn war leave behind? Did any of it expand the territory? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    26,
+    27
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1545, sau khi Nguyễn Kim chết, ai lên thay nắm toàn bộ binh quyền?",
+   "dap_an": [
+    "Nguyễn Hoàng",
+    "Trịnh Kiểm",
+    "Trịnh Tùng",
+    "Mạc Đăng Dung"
+   ],
+   "dung": 1,
+   "trang": 25
+  },
+  {
+   "hoi": "Năm 1627, họ Trịnh lấy cớ gì để đem quân đánh vào Thuận Hoá?",
+   "dap_an": [
+    "Họ Nguyễn không chịu nộp thuế",
+    "Họ Nguyễn giết vua Lê",
+    "Họ Nguyễn liên kết với nhà Mạc",
+    "Họ Nguyễn chiếm Thăng Long"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Luỹ Thầy còn được gọi theo tên của ai?",
+   "dap_an": [
+    "Nguyễn Hoàng",
+    "Trịnh Kiểm",
+    "Đào Duy Từ",
+    "Nguyễn Phúc Nguyên"
+   ],
+   "dung": 2,
+   "trang": 26
+  },
+  {
+   "hoi": "Cục diện “vua Lê – chúa Trịnh” hình thành ở đâu?",
+   "dap_an": [
+    "Đàng Trong",
+    "Đàng Ngoài",
+    "Thuận Hoá",
+    "Gia Định"
+   ],
+   "dung": 1,
+   "trang": 26
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 23 (Hình 5.1 Quảng Bình Quan, di tích Luỹ Thầy tỉnh Quảng Trị), tr. 25 (nguyên nhân: 1545 Trịnh Kiểm, Nguyễn Hoàng, Nguyễn Phúc Nguyên; Em có biết về Trịnh Kiểm), tr. 26 (tư liệu 2; 1627; diễn biến 1627 – 1672; Em có biết về Luỹ Thầy và tấm bia; ca dao; sông Gianh; Trịnh Tùng; Hình 5.4), tr. 27 (hệ quả). Địa danh hiện nay theo đúng SGK (Quảng Bình nay thuộc tỉnh Quảng Trị). Sửa kiến thức chốt danh mục: không có ý thêm; giữ đúng 4 ý SGK. Lời Trịnh Kiểm, Nguyễn Hoàng, Đào Duy Từ là lời dựng, chỉ diễn đạt nội dung SGK (tập trung quyền lực cho họ Trịnh; gây dựng sự nghiệp ở Thuận Hoá; xây luỹ kiên cố). SGK không ghi năm Nguyễn Hoàng vào Thuận Hoá ở bài này nên trục thời gian không gắn năm. Sa bàn 'trinh-nguyen' vẽ lại, giản lược theo Hình 5.2 (có quần đảo Hoàng Sa, Trường Sa); vị trí Luỹ Thầy là kí hiệu minh hoạ gần cửa sông Nhật Lệ theo SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

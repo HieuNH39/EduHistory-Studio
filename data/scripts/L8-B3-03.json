@@ -1,0 +1,363 @@
+{
+ "ma": "L8-B3-03",
+ "ten_tap": "Tốc độ: Từ máy dệt đến tàu hoả",
+ "ten_tap_en": "Speed: From the Power Loom to the Railway",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+  "trang": [
+   15,
+   16
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "e-cac-rai",
+  "xti-phen-xon",
+  "cong-nhan-anh-the-ki-xviii"
+ ],
+ "nhac": {
+  "tam_trang": "nhịp máy móc, tăng tốc dần như tiếng bánh tàu; hào hứng ở cảnh đoàn tàu đầu tiên; kết khoáng đạt",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của E. Các-rai, Xti-phen-xơn mang tính tái hiện; hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 3, tr. 15–16.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong một bảo tàng đường sắt hôm nay, đứng cạnh đầu máy hơi nước cổ sơn đen bóng, ống khói cao, bánh xe đỏ to; khách tham quan chụp ảnh",
+   "am_thanh": "không gian bảo tàng, tiếng còi tàu ghi âm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn đầu máy này đi! Ngày xưa, những cỗ máy như thế đã làm thay đổi tốc độ của cả thế giới.",
+     "Look at this locomotive! Machines like this once changed the speed of the whole world."
+    ],
+    [
+     "Nhật Minh",
+     "Từ máy dệt đến tàu hoả, cách mạng công nghiệp ở Anh đã tăng tốc thế nào? Cùng xem nhé!",
+     "From the power loom to the railway, how did Britain's Industrial Revolution speed things up? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1785",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "e-cac-rai",
+    "cong-nhan-anh-the-ki-xviii"
+   ],
+   "hinh": "Xưởng dệt Anh cuối thế kỉ XVIII: E. Các-rai (vẽ theo chân dung tư liệu: trung niên, tóc giả bạc buộc sau gáy, áo khoác sẫm) đứng bên chiếc máy dệt bằng gỗ và sắt đang chạy, con thoi lao vun vút, vải tuôn ra nhanh; công nhân trầm trồ",
+   "am_thanh": "tiếng máy dệt lách cách dồn dập",
+   "loi": [
+    [
+     "E. Các-rai",
+     "Với chiếc máy này, vải sẽ được dệt nhanh hơn bao giờ hết!",
+     "With this machine, cloth will be woven faster than ever!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1785, E. Các-rai phát minh ra máy dệt, đưa tốc độ sản xuất tăng lên gần 40 lần!",
+     "In 1785, Edmund Cartwright invented the power loom, raising production speed almost 40 times!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Máy dệt của E. Các-rai (1785) đưa tốc độ sản xuất tăng lên khoảng bao nhiêu lần?",
+    "lua_chon": [
+     "Gần 10 lần",
+     "Gần 40 lần",
+     "Gần 100 lần"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Máy dệt của Các-rai đưa tốc độ sản xuất tăng lên khoảng bao nhiêu lần?",
+     "Pause! By about how many times did Cartwright's loom increase production speed?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: gần 40 lần!",
+     "The answer is B: almost 40 times!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "xti-phen-xon"
+   ],
+   "hinh": "Xưởng cơ khí đầu thế kỉ XIX: Xti-phen-xơn (vẽ theo chân dung tư liệu: trung niên, tóc ngắn, áo khoác nâu, tay áo xắn) đặt tay lên chiếc đầu máy hơi nước đầu tiên đang phả khói trắng trên đường ray ngắn; thợ máy reo mừng",
+   "am_thanh": "tiếng hơi nước xì xì, tiếng búa sắt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1814, Xti-phen-xơn chế tạo thành công đầu máy xe lửa chạy bằng hơi nước.",
+     "In 1814, George Stephenson successfully built a steam-powered locomotive."
+    ],
+    [
+     "Xti-phen-xơn",
+     "Chạy được rồi! Hơi nước sẽ kéo cả đoàn toa trên đường ray!",
+     "It runs! Steam will pull whole trains along the rails!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "cong-nhan-anh-the-ki-xviii"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng giữa đám đông ăn mặc kiểu đầu thế kỉ XIX bên đường ray mới, vẫy tay khi đoàn tàu hơi nước đầu tiên kéo những toa gỗ chở người chạy qua, khói trắng bay (vẽ lại theo tinh thần tranh Hình 3.3 SGK)",
+   "am_thanh": "còi tàu, tiếng bánh sắt, đám đông reo hò",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Oa, đoàn tàu đầu tiên đây rồi! Năm 1825, nước Anh khánh thành đoạn đường sắt đầu tiên, nối liền Man-che-xtơ với Li-vơ-pun.",
+     "Wow, here's the first train! In 1825, Britain opened its first railway line, linking Manchester and Liverpool."
+    ],
+    [
+     "Hân Hân",
+     "Đến năm 1850, ở Anh đã có khoảng 10 nghìn ki-lô-mét đường sắt!",
+     "By 1850, Britain had about 10 thousand kilometres of railway!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁCH MẠNG CÔNG NGHIỆP Ở ANH",
+   "moc": [
+    [
+     "1764",
+     "Máy kéo sợi Gien-ni"
+    ],
+    [
+     "1769",
+     "Máy kéo sợi chạy bằng sức nước (R. Ác-rai)"
+    ],
+    [
+     "1784",
+     "Máy hơi nước (Giêm Oát)"
+    ],
+    [
+     "1785",
+     "Máy dệt (E. Các-rai)"
+    ],
+    [
+     "1814",
+     "Đầu máy xe lửa (Xti-phen-xơn)"
+    ],
+    [
+     "1825",
+     "Đường sắt Man-che-xtơ – Li-vơ-pun"
+    ],
+    [
+     "1850",
+     "Khoảng 10 000 km đường sắt"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xếp lại nhé! Năm 1764, máy kéo sợi Gien-ni. Năm 1769, máy kéo sợi chạy bằng sức nước. Năm 1784, máy hơi nước.",
+     "Let's line them up! 1764: the spinning jenny. 1769: the water-powered spinning machine. 1784: the steam engine."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1785, máy dệt. Năm 1814, đầu máy xe lửa.",
+     "1785: the power loom. 1814: the steam locomotive."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1825, đoạn đường sắt đầu tiên, và đến năm 1850, khoảng 10 nghìn ki-lô-mét đường sắt.",
+     "1825: the first railway line, and by 1850, about 10 thousand kilometres of track."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    15,
+    16
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "cong-nhan-anh-the-ki-xviii"
+   ],
+   "hinh": "Toàn cảnh một thành phố công nghiệp Anh giữa thế kỉ XIX: hàng loạt ống khói nhà máy, đoàn tàu hơi nước chạy qua cầu đá, bến cảng đầy tàu chở hàng",
+   "am_thanh": "tiếng còi nhà máy, tàu hoả",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng công nghiệp đã biến nước Anh từ một nước nông nghiệp thành nước công nghiệp phát triển nhất thế giới lúc bấy giờ.",
+     "The Industrial Revolution turned Britain from a farming country into the world's most developed industrial nation of the time."
+    ],
+    [
+     "Nhật Minh",
+     "Nước Anh được mệnh danh là “công xưởng của thế giới”!",
+     "Britain was called 'the workshop of the world'!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "1785: máy dệt của E. Các-rai, tốc độ sản xuất tăng gần 40 lần",
+    "1814: Xti-phen-xơn chế tạo đầu máy xe lửa chạy bằng hơi nước",
+    "1825: đường sắt đầu tiên Man-che-xtơ – Li-vơ-pun; 1850: khoảng 10 000 km",
+    "Anh trở thành “công xưởng của thế giới”"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1785, máy dệt của Các-rai tăng tốc độ sản xuất gần 40 lần.",
+     "Remember: in 1785, Cartwright's loom raised production speed almost 40 times."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1814, Xti-phen-xơn chế tạo đầu máy xe lửa chạy bằng hơi nước.",
+     "In 1814, Stephenson built the steam locomotive."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1825, đường sắt đầu tiên nối Man-che-xtơ với Li-vơ-pun.",
+     "In 1825, the first railway linked Manchester and Liverpool."
+    ],
+    [
+     "Hân Hân",
+     "Và nước Anh trở thành “công xưởng của thế giới”.",
+     "And Britain became 'the workshop of the world'."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng bên đầu máy hơi nước cổ trong bảo tàng, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "không gian bảo tàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trong các thành tựu của cách mạng công nghiệp ở Anh, theo cậu thành tựu nào là tiêu biểu nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which achievement of Britain's Industrial Revolution do you think stands out most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai là người chế tạo thành công đầu máy xe lửa chạy bằng hơi nước năm 1814?",
+   "dap_an": [
+    "Giêm Oát",
+    "Xti-phen-xơn",
+    "E. Các-rai",
+    "R. Ác-rai"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Đoạn đường sắt đầu tiên ở Anh (1825) nối liền hai thành phố nào?",
+   "dap_an": [
+    "Luân Đôn – Pa-ri",
+    "Man-che-xtơ – Li-vơ-pun",
+    "Man-che-xtơ – Luân Đôn",
+    "Li-vơ-pun – Oét-min-tơ"
+   ],
+   "dung": 1,
+   "trang": 16
+  },
+  {
+   "hoi": "Đến năm 1850, nước Anh có khoảng bao nhiêu ki-lô-mét đường sắt?",
+   "dap_an": [
+    "1 000 km",
+    "5 000 km",
+    "10 000 km",
+    "40 000 km"
+   ],
+   "dung": 2,
+   "trang": 16
+  },
+  {
+   "hoi": "Sau cách mạng công nghiệp, nước Anh được mệnh danh là gì?",
+   "dap_an": [
+    "“Công xưởng của thế giới”",
+    "“Cái nôi của văn minh”",
+    "“Miếng mồi béo bở”",
+    "“Viên ngọc quý”"
+   ],
+   "dung": 0,
+   "trang": 16
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 15 (Gien-ni 1764, Ác-rai 1769, Giêm Oát 1784), tr. 16 (Các-rai 1785 – tốc độ tăng gần 40 lần; Xti-phen-xơn 1814; đường sắt Man-che-xtơ – Li-vơ-pun 1825; khoảng 10 000 km năm 1850; 'công xưởng của thế giới'; Hình 3.3; câu hỏi chọn thành tựu tiêu biểu). Sửa kiến thức chốt danh mục: 'tăng năng suất 40 lần' chuẩn lại đúng SGK là 'đưa tốc độ sản xuất tăng lên gần 40 lần'. Năm khánh thành đường sắt theo đúng SGK (1825). SGK không có lược đồ tuyến đường sắt (Hình 3.3 là tranh) nên không dựng sa bàn, dùng cảnh du hành và trục thời gian. Lời E. Các-rai, Xti-phen-xơn là lời dựng, không thêm sự kiện. Đáp án nhiễu 'Luân Đôn', 'Oét-min-tơ' chỉ dùng trong câu hỏi trắc nghiệm.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

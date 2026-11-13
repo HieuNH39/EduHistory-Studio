@@ -1,0 +1,188 @@
+{
+ "ma": "L8-B4-01",
+ "ten_tap": "Vì sao Đông Nam Á lọt vào 'tầm ngắm'?",
+ "ten_tap_en": "Why Was Southeast Asia in the Crosshairs?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 4. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+  "trang": [
+   19,
+   20
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan-chau-au",
+  "nong-dan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "bí ẩn, sóng biển, căng thẳng nhẹ",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh cảng Ma-lắc-ca năm 1511 là minh hoạ chung (tàu vẽ theo tham chiếu Hình 4.2 SGK), Minh – Hân chỉ quan sát, không có lời thoại của nhân vật lịch sử; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 4, tr. 19–20.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Hân Hân xoay quả địa cầu trong thư viện trường hôm nay, dừng ngón tay ở khu vực Đông Nam Á; Nhật Minh ghé sát nhìn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thế kỉ XVI, tàu thuyền phương Tây đổ xô tới đây. Vì sao Đông Nam Á lại lọt vào tầm ngắm?",
+     "From the 16th century, Western ships flocked here. Why was Southeast Asia in their sights?"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng trên bờ cảng Ma-lắc-ca năm 1511, nhìn một con tàu buồm lớn của Bồ Đào Nha (vẽ theo tham chiếu Hình 4.2) cập cảng, thuỷ thủ mang súng đứng đầy boong; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1511, tàu của Bồ Đào Nha đến xâm lược Ma-lắc-ca. Sau đó, nhiều nước phương Tây cũng lần lượt tìm đến.",
+     "In 1511, Portuguese ships came to conquer Malacca. Other Western powers soon followed."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "VÌ SAO?",
+   "y": [
+    "Vị trí địa lí quan trọng",
+    "Giàu tài nguyên khoáng sản",
+    "Vẫn chìm đắm dưới chế độ phong kiến, nông nghiệp lạc hậu"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Nam Á có vị trí địa lí quan trọng,",
+     "Southeast Asia had an important location,"
+    ],
+    [
+     "Nhật Minh",
+     "lại giàu tài nguyên khoáng sản.",
+     "and was rich in minerals."
+    ],
+    [
+     "Hân Hân",
+     "Trong khi châu Âu đã làm cách mạng tư sản, cách mạng công nghiệp, Đông Nam Á vẫn chìm trong chế độ phong kiến với nông nghiệp lạc hậu.",
+     "While Europe had had its bourgeois and industrial revolutions, Southeast Asia was still stuck in feudalism with backward farming."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Vì sao Đông Nam Á sớm trở thành mục tiêu xâm lược của thực dân phương Tây?",
+    "lua_chon": [
+     "Vì đã hoàn thành cách mạng công nghiệp",
+     "Vì có vị trí quan trọng, giàu tài nguyên khoáng sản",
+     "Vì không có người sinh sống"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Vì sao Đông Nam Á sớm thành mục tiêu xâm lược?",
+     "Pause! Why did Southeast Asia become an early target?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: vị trí quan trọng, giàu tài nguyên khoáng sản!",
+     "The answer is B: an important location and rich mineral resources!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng cạnh quả địa cầu, Nhật Minh chỉ tay về phía người xem, thư viện trường hôm nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, vị trí của Việt Nam trên bản đồ có gì đặc biệt? Bình luận nhé!",
+     "What's special about Việt Nam's location on the map? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX, các nước Đông Nam Á có tình trạng như thế nào?",
+   "dap_an": [
+    "Đã hoàn thành cách mạng tư sản",
+    "Vẫn chìm đắm dưới chế độ phong kiến, nông nghiệp lạc hậu",
+    "Là các nước công nghiệp phát triển",
+    "Đã trở thành đế quốc"
+   ],
+   "dung": 1,
+   "trang": 19
+  },
+  {
+   "hoi": "Năm 1511, nước nào đưa tàu đến xâm lược Ma-lắc-ca?",
+   "dap_an": [
+    "Bồ Đào Nha",
+    "Anh",
+    "Pháp",
+    "Hà Lan"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Yếu tố nào KHÔNG phải lí do khiến Đông Nam Á trở thành mục tiêu xâm lược?",
+   "dap_an": [
+    "Vị trí địa lí quan trọng",
+    "Giàu tài nguyên khoáng sản",
+    "Chế độ phong kiến lạc hậu",
+    "Có nền công nghiệp hiện đại"
+   ],
+   "dung": 3,
+   "trang": 19
+  },
+  {
+   "hoi": "Thế kỉ XVI, nước nào chiếm một số đảo ở phía đông In-đô-nê-xi-a?",
+   "dap_an": [
+    "Bồ Đào Nha",
+    "Anh",
+    "Pháp",
+    "Mỹ"
+   ],
+   "dung": 0,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 19 (Đông Nam Á chìm đắm dưới chế độ phong kiến, nông nghiệp lạc hậu; vị trí địa lí quan trọng, giàu tài nguyên khoáng sản), tr. 20 (Hình 4.2: tàu Bồ Đào Nha đến xâm lược Ma-lắc-ca năm 1511; bảng xâm nhập). Danh mục: 'vị trí địa lí chiến lược' diễn đạt theo SGK 'vị trí địa lí quan trọng'.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

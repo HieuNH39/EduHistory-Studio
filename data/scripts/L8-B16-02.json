@@ -1,0 +1,368 @@
+{
+ "ma": "L8-B16-02",
+ "ten_tap": "Cải cách Minh Mạng: Đỉnh cao quyền lực",
+ "ten_tap_en": "The Minh Mạng Reform: Power at Its Peak",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+  "trang": [
+   71,
+   72
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-anh",
+  "minh-mang",
+  "quan-lai-trieu-nguyen"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, cung đình, vững chãi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của vua Minh Mạng và quan lại là tái hiện mang tính minh hoạ, không phải trích dẫn lịch sử; hình vua vẽ theo tham chiếu Hình 16.2 SGK. Bản đồ hành chính vẽ bằng code theo Hình 16.3 SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 16, tr. 71–72.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Sân trước Ngọ Môn, Đại Nội Huế hôm nay, buổi sáng trong xanh: Nhật Minh và Hân Hân đội nón lá, cầm sổ tay, phía sau là cổng thành uy nghi với lầu Ngũ Phụng, khách tham quan đi lại",
+   "am_thanh": "tiếng chim, tiếng khách tham quan rì rầm, gió nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khu Đại Nội Huế thuộc Cố đô Huế đã được UNESCO ghi danh là Di sản văn hoá thế giới năm 1993.",
+     "The Imperial City of Huế, part of the Huế Monuments, was inscribed by UNESCO as a World Cultural Heritage site in 1993."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là kinh đô của Vương triều Nguyễn. Hôm nay mình tìm hiểu xem nhà Nguyễn đã tổ chức đất nước ra sao!",
+     "This was the capital of the Nguyễn dynasty. Today let's find out how the Nguyễn organised the country!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "nguyen-anh",
+    "quan-lai-trieu-nguyen"
+   ],
+   "hinh": "Nhật Minh và Hân Hân đứng lẫn trong hàng người xem ở rìa sân điện tại Phú Xuân năm 1802, quan sát buổi lễ lên ngôi: Gia Long (vẽ theo tham chiếu, long bào vàng) ngự trên ngai, hai hàng quan văn võ triều phục cúi chào; hai bạn chỉ quan sát",
+   "am_thanh": "nhã nhạc cung đình, chiêng trống",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1802, được địa chủ ở Gia Định ủng hộ, Nguyễn Ánh đánh bại Triều Tây Sơn, lập ra Triều Nguyễn.",
+     "In 1802, backed by the landowners of Gia Định, Nguyễn Ánh defeated the Tây Sơn and founded the Nguyễn dynasty."
+    ],
+    [
+     "Hân Hân",
+     "Ông lấy niên hiệu Gia Long, đặt kinh đô ở Phú Xuân. Lên ngôi rồi, Gia Long thâu tóm mọi quyền lực, từng bước củng cố chế độ quân chủ trung ương tập quyền.",
+     "He took the reign name Gia Long and made Phú Xuân the capital. On the throne, he gathered all power into his hands and step by step strengthened centralised monarchy."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HOÀNG VIỆT LUẬT LỆ (LUẬT GIA LONG)",
+   "y": [
+    "Bảo vệ quyền uy tuyệt đối của nhà vua",
+    "Củng cố trật tự phong kiến",
+    "Trấn áp mọi âm mưu chống lại chính quyền"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để đặt cơ sở pháp lí cho nhà nước quân chủ, nhà Nguyễn ban hành bộ Hoàng Việt luật lệ, còn gọi là Luật Gia Long.",
+     "To give the monarchy a legal foundation, the Nguyễn issued the Hoàng Việt Code, also called the Gia Long Code."
+    ],
+    [
+     "Hân Hân",
+     "Các điều luật bảo vệ quyền uy tuyệt đối của nhà vua, củng cố trật tự phong kiến,",
+     "Its laws protected the king's absolute authority, reinforced the feudal order,"
+    ],
+    [
+     "Nhật Minh",
+     "và trấn áp mọi âm mưu chống lại chính quyền.",
+     "and crushed any plot against the government."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bộ luật nhà Nguyễn ban hành có tên là gì?",
+    "lua_chon": [
+     "Đại Nam nhất thống toàn đồ",
+     "Hoàng Việt luật lệ",
+     "Đại Nam thực lục"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Bộ luật nhà Nguyễn ban hành có tên là gì?",
+     "Pause! What was the name of the law code issued by the Nguyễn?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Hoàng Việt luật lệ, hay Luật Gia Long!",
+     "The answer is B: the Hoàng Việt Code, also known as the Gia Long Code!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1831 – 1832",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "minh-mang",
+    "quan-lai-trieu-nguyen"
+   ],
+   "hinh": "Trong điện ở kinh đô Phú Xuân những năm 1831 – 1832: vua Minh Mạng (vẽ theo tham chiếu Hình 16.2: mũ miện, long bào thêu rồng) ngồi trên ngai, trước mặt trải tấm bản đồ đất nước lớn; các quan triều phục đứng chầu, một vị quan dâng sổ sách",
+   "am_thanh": "tiếng quạt, tiếng giấy sột soạt, chuông đồng xa",
+   "loi": [
+    [
+     "Minh Mạng",
+     "Từ triều đình xuống các địa phương, bộ máy phải thống nhất và chặt chẽ hơn nữa!",
+     "From the court down to the localities, the government must be more unified and tightly run!"
+    ],
+    [
+     "Hân Hân",
+     "Đây là vua Minh Mạng, sống từ năm 1791 đến năm 1841, con trai thứ tư của vua Gia Long. Ông trị vì hai mươi năm, từ năm 1820 đến năm 1840, là một vị vua tài năng của Triều Nguyễn.",
+     "This is Emperor Minh Mạng, who lived from 1791 to 1841, the fourth son of Gia Long. He reigned for twenty years, from 1820 to 1840, and was a talented Nguyễn ruler."
+    ],
+    [
+     "Nhật Minh",
+     "Trong những năm 1831 đến 1832, ông tiến hành một cuộc cải cách, thường gọi là Cải cách Minh Mạng.",
+     "In 1831 and 1832, he carried out a reform, usually called the Minh Mạng Reform."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "hanh-chinh-nguyen",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 6,
+   "hinh": "Bản đồ Việt Nam thời Nguyễn, kinh đô Phú Xuân sáng lên; quần đảo Hoàng Sa, Trường Sa (Việt Nam)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Với cuộc Cải cách Minh Mạng, bộ máy quản lí nhà nước từ Trung ương xuống địa phương càng được hoàn thiện.",
+     "With the Minh Mạng Reform, the state apparatus from the centre down to the localities became more complete."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "hanh-chinh-nguyen",
+   "pha": "bac",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Bản đồ phóng to phía bắc: tên các tỉnh lần lượt hiện lên theo Hình 16.3 SGK",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn bản đồ nhé! Phía bắc có các tỉnh như Cao Bằng, Lạng Sơn, Hà Nội, Nam Định, Thanh Hoá, Nghệ An...",
+     "Look at the map! In the north there were provinces like Cao Bằng, Lạng Sơn, Hà Nội, Nam Định, Thanh Hoá, Nghệ An..."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "hanh-chinh-nguyen",
+   "pha": "trung",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Bản đồ miền Trung: phủ Thừa Thiên và kinh đô Phú Xuân nổi bật, các tỉnh miền Trung lần lượt hiện lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở giữa là phủ Thừa Thiên, nơi có kinh đô Phú Xuân. Rồi đến Quảng Bình, Quảng Nam, Bình Định, Khánh Hoà, Bình Thuận...",
+     "In the middle was Thừa Thiên prefecture, home to the capital Phú Xuân. Then came Quảng Bình, Quảng Nam, Bình Định, Khánh Hoà, Bình Thuận..."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "hanh-chinh-nguyen",
+   "pha": "nam",
+   "thoi_luong_toi_thieu": 6,
+   "hinh": "Bản đồ phía nam: các tỉnh Biên Hoà, Phiên An, Định Tường, Vĩnh Long, An Giang, Hà Tiên lần lượt hiện lên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phía nam có Biên Hoà, Phiên An, Định Tường, Vĩnh Long, An Giang và Hà Tiên.",
+     "In the south were Biên Hoà, Phiên An, Định Tường, Vĩnh Long, An Giang and Hà Tiên."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "hanh-chinh-nguyen",
+   "pha": "toan_quoc",
+   "thoi_luong_toi_thieu": 5,
+   "hinh": "Bản đồ toàn quốc với dòng chữ: Cả nước 30 tỉnh và 1 phủ (Thừa Thiên)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tổng cộng, cả nước được chia thành ba mươi tỉnh và một phủ Thừa Thiên.",
+     "Altogether, the country was divided into thirty provinces and one prefecture, Thừa Thiên."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau Cải cách Minh Mạng, cả nước được chia thành",
+    "lua_chon": [
+     "Đàng Trong và Đàng Ngoài",
+     "Nam triều và Bắc triều",
+     "30 tỉnh và 1 phủ (Thừa Thiên)"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Sau Cải cách Minh Mạng, cả nước được chia thành gì?",
+     "Quick question! After the Minh Mạng Reform, how was the country divided?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: ba mươi tỉnh và một phủ Thừa Thiên!",
+     "The answer is C: thirty provinces and the prefecture of Thừa Thiên!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại Ngọ Môn, Đại Nội Huế hôm nay lúc chiều tà: Nhật Minh và Hân Hân ngồi trên bậc đá, Hân Hân mở trên máy tính bảng bản đồ Việt Nam thời Nguyễn, Nhật Minh chỉ tay về phía người xem",
+   "am_thanh": "chuông chùa xa, gió chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: quê cậu thời Nguyễn thuộc tỉnh nào trong ba mươi tỉnh trên bản đồ? Bình luận nhé!",
+     "Your challenge: under the Nguyễn, which of the thirty provinces on the map did your hometown belong to? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1802, Nguyễn Ánh lập ra Triều Nguyễn và đặt kinh đô ở đâu?",
+   "dap_an": [
+    "Thăng Long",
+    "Phú Xuân",
+    "Gia Định",
+    "Thanh Hoá"
+   ],
+   "dung": 1,
+   "trang": 71
+  },
+  {
+   "hoi": "Các điều luật trong Hoàng Việt luật lệ nhằm mục đích gì?",
+   "dap_an": [
+    "Bảo vệ quyền uy tuyệt đối của nhà vua, củng cố trật tự phong kiến",
+    "Bảo vệ quyền lợi của thương nhân nước ngoài",
+    "Chia ruộng đất cho nông dân",
+    "Xoá bỏ chế độ quân chủ"
+   ],
+   "dung": 0,
+   "trang": 72
+  },
+  {
+   "hoi": "Vua Minh Mạng tiến hành cải cách vào thời gian nào?",
+   "dap_an": [
+    "Năm 1802",
+    "Những năm 1820 – 1840",
+    "Những năm 1831 – 1832",
+    "Năm 1841"
+   ],
+   "dung": 2,
+   "trang": 72
+  },
+  {
+   "hoi": "Kết quả của Cải cách Minh Mạng là gì?",
+   "dap_an": [
+    "Bộ máy quản lí nhà nước từ Trung ương xuống địa phương càng được hoàn thiện",
+    "Đất nước bị chia cắt thành Đàng Trong và Đàng Ngoài",
+    "Kinh đô dời ra Thăng Long",
+    "Bãi bỏ bộ Hoàng Việt luật lệ"
+   ],
+   "dung": 0,
+   "trang": 72
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 8 tr. 71 (Đại Nội Huế, UNESCO 1993; 1802 Nguyễn Ánh lập Triều Nguyễn, kinh đô Phú Xuân; Gia Long củng cố quân chủ trung ương tập quyền), tr. 72 (Hoàng Việt luật lệ; Cải cách Minh Mạng 1831 – 1832; 30 tỉnh và 1 phủ Thừa Thiên; tiểu sử Minh Mạng; Hình 16.2, Hình 16.3). Danh mục: SGK ghi 'nhà Nguyễn' ban hành Hoàng Việt luật lệ (Luật Gia Long), không phải trong Cải cách Minh Mạng: kịch bản tách riêng ý này; 'cải cách hành chính' diễn đạt theo SGK là cải cách hoàn thiện bộ máy quản lí nhà nước từ Trung ương xuống địa phương. Tên 30 tỉnh trên sa bàn 'hanh-chinh-nguyen' lấy từ nhãn Hình 16.3 (đã đếm trên ảnh trang: 30 tỉnh + phủ Thừa Thiên). Phương án nhiễu Đại Nam thực lục, Đại Nam nhất thống toàn đồ, Đàng Trong – Đàng Ngoài, Nam triều – Bắc triều, Thăng Long, Gia Định có trong SGK LSĐL 8. Gia Long trong cảnh du hành không có lời thoại.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,514 @@
+{
+ "ma": "L8-B12-04",
+ "ten_tap": "Tiếng súng Cung điện Mùa Đông",
+ "ten_tap_en": "Gunfire at the Winter Palace",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 12. Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+  "trang": [
+   55,
+   56,
+   57
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-khoi-nghia",
+  "le-nin",
+  "dang-bon-se-vich"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, căng thẳng dần ở đoạn đêm 24 – 10, hào hùng ở cảnh chiếm Cung điện Mùa Đông, lắng và sâu ở phần ý nghĩa; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh, phim tư liệu; sơ đồ, thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 12, tr. 55–57.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác dày, khăn len, mũ len) đứng trên quảng trường rộng phủ tuyết mỏng ở Xanh Pê-téc-bua hôm nay, phía sau là toà cung điện dài màu xanh ngọc viền trắng, cột trắng, tượng trên mái; trời xám nhẹ, du khách đi lại",
+   "am_thanh": "gió lạnh, tiếng bước chân trên tuyết, chuông xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Cung điện Mùa Đông ở thành phố Xanh Pê-téc-bua, nước Nga. Năm 1917, thành phố này có tên là Pê-tơ-rô-grát.",
+     "This is the Winter Palace in Saint Petersburg, Russia. In 1917, the city was called Petrograd."
+    ],
+    [
+     "Nhật Minh",
+     "Và cũng năm ấy, nơi đây vang lên tiếng súng của Cách mạng tháng Mười Nga. Cùng xem lại qua tư liệu nhé!",
+     "That same year, the gunfire of the Russian October Revolution rang out here. Let's look back through the archives!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1917",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quần chúng biểu tình trên đường phố Pê-tơ-rô-grát năm 1917",
+    "tim": "Petrograd 1917 demonstration photograph",
+    "yeu_cau": "ảnh tư liệu năm 1917, phạm vi công cộng (Wikimedia Commons), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: quần chúng biểu tình ở Pê-tơ-rô-grát năm 1917",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Cách mạng tháng Hai năm 1917, chế độ quân chủ chuyên chế Nga hoàng bị lật đổ.",
+     "After the February Revolution of 1917, the Tsar's absolute monarchy was overthrown."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng nỗi khổ cực vẫn đè nặng lên các tầng lớp nhân dân, đặc biệt là nông dân và công nhân.",
+     "Yet hardship still weighed on ordinary people, especially peasants and workers."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI CHÍNH QUYỀN SONG SONG",
+   "y": [
+    "Chính phủ tư sản lâm thời",
+    "Các xô viết đại biểu công nhân, binh lính",
+    "Đại diện cho các giai cấp có lợi ích đối lập → không thể cùng tồn tại"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Nga khi ấy diễn ra một tình hình chính trị chưa từng có: hai chính quyền song song tồn tại.",
+     "Russia then faced an unprecedented situation: two governments existing side by side."
+    ],
+    [
+     "Nhật Minh",
+     "Một bên là Chính phủ tư sản lâm thời, một bên là các xô viết đại biểu công nhân, binh lính.",
+     "On one side, the bourgeois Provisional Government; on the other, the soviets of workers' and soldiers' deputies."
+    ],
+    [
+     "Hân Hân",
+     "Hai chính quyền đại diện cho các giai cấp có lợi ích đối lập nhau, nên không thể cùng tồn tại.",
+     "They represented classes with opposing interests, so they could not coexist."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "TƯ LIỆU · LÊ-NIN",
+   "y": [
+    "“Đặc điểm của tình hình hiện nay ở Nga là... phải đem lại chính quyền cho giai cấp vô sản, những tầng lớp nghèo và cho nông dân.”"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lê-nin viết: phải đem lại chính quyền cho giai cấp vô sản, những tầng lớp nghèo và cho nông dân.",
+     "Lenin wrote that power must be given to the proletariat, the poorest strata and the peasants."
+    ],
+    [
+     "Hân Hân",
+     "Trước tình hình đó, V. I. Lê-nin và Đảng Bôn-sê-vích Nga chuẩn bị kế hoạch tiếp tục làm cách mạng, lật đổ Chính phủ tư sản lâm thời.",
+     "So V. I. Lenin and Russia's Bolshevik Party prepared a plan to continue the revolution and overthrow the Provisional Government."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: cuộc biểu tình trên đại lộ ở Pê-tơ-rô-grát bị giải tán tháng 7 – 1917",
+    "tim": "July Days 1917 Petrograd Nevsky Prospect photograph",
+    "yeu_cau": "ảnh tư liệu năm 1917, phạm vi công cộng, ghi nguồn; tránh cận cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: Pê-tơ-rô-grát tháng 7 – 1917",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1917, Chính phủ tư sản lâm thời công khai đàn áp các phong trào quần chúng, khủng bố các xô viết.",
+     "In July 1917, the Provisional Government openly cracked down on popular movements and terrorised the soviets."
+    ],
+    [
+     "Nhật Minh",
+     "Đảng Bôn-sê-vích lãnh đạo giai cấp công nhân, nông dân, binh lính chuẩn bị đấu tranh vũ trang giành chính quyền.",
+     "The Bolshevik Party led workers, peasants and soldiers to prepare an armed struggle for power."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau Cách mạng tháng Hai năm 1917, ở Nga tồn tại tình trạng gì?",
+    "lua_chon": [
+     "Hai chính quyền song song",
+     "Nga hoàng trở lại ngai vàng",
+     "Nước Nga bị chia đôi lãnh thổ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sau Cách mạng tháng Hai năm 1917, ở Nga tồn tại tình trạng gì?",
+     "Pause! After the February Revolution of 1917, what situation existed in Russia?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: hai chính quyền song song cùng tồn tại!",
+     "The answer is A: two parallel governments!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: đội vũ trang khởi nghĩa (Hồng vệ binh) trên đường phố Pê-tơ-rô-grát tháng 10 – 1917",
+    "tim": "Red Guards Petrograd October 1917 photograph",
+    "yeu_cau": "ảnh tư liệu năm 1917, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: quân khởi nghĩa ở Pê-tơ-rô-grát (10 – 1917)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đêm 24 tháng 10, tức ngày 6 tháng 11 theo dương lịch, quân khởi nghĩa chiếm được Pê-tơ-rô-grát, nay là Xanh Pê-téc-bua.",
+     "On the night of 24 October, that is 6 November in the Gregorian calendar, the insurgents took Petrograd, today's Saint Petersburg."
+    ],
+    [
+     "Hân Hân",
+     "Họ bao vây Cung điện Mùa Đông, nơi ẩn náu cuối cùng của chính quyền tư sản.",
+     "They surrounded the Winter Palace, the bourgeois government's last refuge."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tư liệu như Hình 12.5 SGK: cuộc tấn công vào Cung điện Mùa Đông (ảnh hoặc tranh tư liệu)",
+    "tim": "storming of the Winter Palace 1917 archival",
+    "yeu_cau": "ảnh, phim hoặc tranh tư liệu thuộc phạm vi công cộng, ghi rõ nguồn và loại tư liệu (ảnh chụp hay tranh dựng lại)"
+   },
+   "hinh": "Tư liệu: cuộc tấn công vào Cung điện Mùa Đông (như Hình 12.5 SGK)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đêm 25 tháng 10, tức ngày 7 tháng 11, Cung điện Mùa Đông bị chiếm. Chính phủ tư sản lâm thời sụp đổ.",
+     "On the night of 25 October, 7 November, the Winter Palace was taken. The Provisional Government collapsed."
+    ],
+    [
+     "Nhật Minh",
+     "Đến đầu năm 1918, Cách mạng xã hội chủ nghĩa tháng Mười đã giành thắng lợi hoàn toàn.",
+     "By early 1918, the October Socialist Revolution had won complete victory."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cung điện Mùa Đông bị quân khởi nghĩa chiếm vào đêm nào?",
+    "lua_chon": [
+     "24 – 10 (6 – 11)",
+     "25 – 10 (7 – 11)",
+     "Tháng 7 – 1917"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Cung điện Mùa Đông bị quân khởi nghĩa chiếm vào đêm nào?",
+     "Quick test! On which night did the insurgents take the Winter Palace?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: đêm 25 tháng 10, tức ngày 7 tháng 11 theo dương lịch!",
+     "The answer is B: the night of 25 October, which is 7 November in the Gregorian calendar!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁCH MẠNG THÁNG MƯỜI NGA",
+   "moc": [
+    [
+     "2 – 1917",
+     "Cách mạng tháng Hai lật đổ Nga hoàng"
+    ],
+    [
+     "7 – 1917",
+     "Chuẩn bị đấu tranh vũ trang"
+    ],
+    [
+     "24 – 10 (6 – 11)",
+     "Chiếm Pê-tơ-rô-grát"
+    ],
+    [
+     "25 – 10 (7 – 11)",
+     "Chiếm Cung điện Mùa Đông"
+    ],
+    [
+     "Đầu 1918",
+     "Thắng lợi hoàn toàn"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Tháng 2 năm 1917, Cách mạng tháng Hai lật đổ Nga hoàng.",
+     "Recap! February 1917: the February Revolution topples the Tsar."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1917, Đảng Bôn-sê-vích chuẩn bị đấu tranh vũ trang giành chính quyền.",
+     "July 1917: the Bolsheviks prepare for armed struggle."
+    ],
+    [
+     "Nhật Minh",
+     "Đêm 24 tháng 10, chiếm Pê-tơ-rô-grát. Đêm 25 tháng 10, chiếm Cung điện Mùa Đông.",
+     "Night of 24 October: Petrograd is taken. Night of 25 October: the Winter Palace falls."
+    ],
+    [
+     "Hân Hân",
+     "Và đầu năm 1918, cách mạng thắng lợi hoàn toàn.",
+     "And in early 1918, the revolution wins completely."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2,
+    3
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA VÀ TÁC ĐỘNG",
+   "y": [
+    "Đập tan nhà nước cũ của tư sản, địa chủ; lập nhà nước mới của công nhân và nông dân Nga",
+    "Cổ vũ phong trào cách mạng của giai cấp công nhân quốc tế",
+    "Mở ra con đường giải phóng cho các dân tộc bị áp bức",
+    "Chặt đứt một khâu yếu nhất trong hệ thống đế quốc chủ nghĩa"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thắng lợi của Cách mạng tháng Mười đã đập tan bộ máy nhà nước cũ của tư sản và địa chủ, lập nên nhà nước mới của công nhân và nông dân Nga.",
+     "The October victory smashed the old state of the bourgeoisie and landlords and built a new state of Russia's workers and peasants."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng cổ vũ mạnh mẽ phong trào cách mạng của giai cấp công nhân quốc tế,",
+     "It powerfully inspired the international workers' revolutionary movement,"
+    ],
+    [
+     "Hân Hân",
+     "đồng thời mở ra con đường giải phóng cho các dân tộc bị áp bức trên toàn thế giới.",
+     "and opened the road to liberation for oppressed peoples all over the world."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng còn chặt đứt một khâu yếu nhất trong hệ thống đế quốc chủ nghĩa.",
+     "It also broke the weakest link in the imperialist chain."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "TƯ LIỆU · HỒ CHÍ MINH",
+   "y": [
+    "“Giống như Mặt Trời chói lọi, Cách mạng tháng Mười chiếu sáng khắp năm châu, thức tỉnh hàng triệu, hàng triệu người bị áp bức, bóc lột trên Trái Đất.”"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Chủ tịch Hồ Chí Minh đã đánh giá: Giống như Mặt Trời chói lọi, Cách mạng tháng Mười chiếu sáng khắp năm châu, thức tỉnh hàng triệu, hàng triệu người bị áp bức, bóc lột trên Trái Đất.",
+     "President Hồ Chí Minh wrote: Like a brilliant Sun, the October Revolution lit up all five continents, awakening millions upon millions of oppressed and exploited people on Earth."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong thư viện trường FPT hôm nay, ngồi bên bàn gỗ, Hân Hân cầm một cuốn sách dày bìa đỏ sẫm đã sờn, Nhật Minh tò mò ghé nhìn; ánh nắng chiều qua cửa sổ",
+   "am_thanh": "thư viện yên tĩnh, tiếng lật sách",
+   "loi": [
+    [
+     "Hân Hân",
+     "Em có biết? Cuốn Mười ngày rung chuyển thế giới của Giôn Rít, người Mỹ, xuất bản năm 1919 tại Niu Oóc, gồm 12 chương, kể lại nguyên nhân và quá trình Cách mạng tháng Mười.",
+     "Did you know? 'Ten Days That Shook the World' by the American John Reed, published in 1919 in New York, has 12 chapters on the causes and course of the October Revolution."
+    ],
+    [
+     "Nhật Minh",
+     "Tác giả muốn ghi lại sự thật bằng con mắt của một người ghi chép có lương tâm. Hay quá, tớ phải mượn đọc mới được!",
+     "The author wanted to record the truth through the eyes of a conscientious chronicler. Cool, I have to borrow it!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Sau Cách mạng tháng Hai, ở Nga có hai chính quyền song song",
+    "Đêm 24 – 10 (6 – 11 – 1917): quân khởi nghĩa chiếm Pê-tơ-rô-grát",
+    "Đêm 25 – 10 (7 – 11): chiếm Cung điện Mùa Đông, Chính phủ tư sản lâm thời sụp đổ",
+    "Đầu năm 1918: cách mạng thắng lợi hoàn toàn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: sau Cách mạng tháng Hai, ở Nga có hai chính quyền song song.",
+     "Remember: after the February Revolution, Russia had two parallel governments."
+    ],
+    [
+     "Hân Hân",
+     "Đêm 24 tháng 10, tức 6 tháng 11 năm 1917, quân khởi nghĩa chiếm Pê-tơ-rô-grát.",
+     "On the night of 24 October, 6 November 1917, the insurgents took Petrograd."
+    ],
+    [
+     "Nhật Minh",
+     "Đêm 25 tháng 10, Cung điện Mùa Đông bị chiếm, Chính phủ tư sản lâm thời sụp đổ.",
+     "On the night of 25 October, the Winter Palace fell and the Provisional Government collapsed."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1918, cách mạng giành thắng lợi hoàn toàn.",
+     "By early 1918, the revolution had fully triumphed."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng ở góc thư viện cạnh quả địa cầu lớn, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "thư viện yên tĩnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tìm hiểu xem Cách mạng tháng Mười Nga năm 1917 có ảnh hưởng như thế nào đối với cách mạng Việt Nam. Bình luận điều cậu tìm được nhé!",
+     "Your challenge: find out how the 1917 Russian October Revolution influenced Việt Nam's revolution. Share what you discover in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Cách mạng tháng Hai năm 1917, hai chính quyền nào song song tồn tại ở Nga?",
+   "dap_an": [
+    "Chính phủ tư sản lâm thời và các xô viết đại biểu công nhân, binh lính",
+    "Nga hoàng và Quốc hội",
+    "Đảng Bôn-sê-vích và Quốc tế thứ hai",
+    "Chính phủ Nga và chính phủ Đức"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Đêm 24 – 10 (6 – 11) năm 1917, quân khởi nghĩa đã chiếm được thành phố nào?",
+   "dap_an": [
+    "Mát-xcơ-va",
+    "Pê-tơ-rô-grát",
+    "Béc-lin",
+    "Pa-ri"
+   ],
+   "dung": 1,
+   "trang": 56
+  },
+  {
+   "hoi": "Cách mạng xã hội chủ nghĩa tháng Mười giành thắng lợi hoàn toàn vào thời gian nào?",
+   "dap_an": [
+    "Tháng 2 – 1917",
+    "Tháng 7 – 1917",
+    "Đầu năm 1918",
+    "Năm 1919"
+   ],
+   "dung": 2,
+   "trang": 56
+  },
+  {
+   "hoi": "Ý nào KHÔNG phải ý nghĩa của Cách mạng tháng Mười Nga?",
+   "dap_an": [
+    "Lập nhà nước mới của công nhân và nông dân Nga",
+    "Mở ra con đường giải phóng cho các dân tộc bị áp bức",
+    "Cổ vũ phong trào công nhân quốc tế",
+    "Đưa nước Nga thành thuộc địa của Đức"
+   ],
+   "dung": 3,
+   "trang": 57
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 55 (Cách mạng tháng Mười đánh dấu bước chuyển lớn), tr. 56 (nguyên nhân, hai chính quyền song song, tư liệu Lê-nin, tháng 7 – 1917, đêm 24 – 10 (6 – 11), đêm 25 – 10 (7 – 11), đầu năm 1918; Hình 12.5), tr. 57 (ý nghĩa, tác động; tư liệu Hồ Chí Minh; Em có biết về cuốn sách của Giôn Rít; câu hỏi vận dụng). Mốc 'tháng 2 – 1917' trên trục thời gian lấy từ tên 'Cách mạng tháng Hai năm 1917' trong SGK. Danh mục: kiến thức chốt khớp SGK; không thêm chi tiết về lịch Nga cũ ngoài cụm 'theo dương lịch' của SGK. SGK không có lược đồ nên không dựng sa bàn (thay bằng trục thời gian, thẻ ghi nhớ). Lịch sử hiện đại: chỉ dùng ảnh/phim tư liệu, Lê-nin và Hồ Chí Minh chỉ được nhắc tên, trích dẫn đọc bởi người dẫn chuyện; không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

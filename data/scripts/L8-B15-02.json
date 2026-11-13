@@ -1,0 +1,507 @@
+{
+ "ma": "L8-B15-02",
+ "ten_tap": "Đông Nam Á: Cuộc chiến chống thực dân",
+ "ten_tap_en": "Southeast Asia: The Struggle Against Colonialism",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 15. Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   68,
+   69,
+   70
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-xe-ri-dan",
+  "bo-ni-pha-xi-o",
+  "sa-min",
+  "nhan-dan-dong-nam-a",
+  "cong-nhan-in-do-ne-xi-a"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, dồn dập ở các mốc khởi nghĩa, trầm lắng ở chi tiết Hô-xê Ri-dan bị xử tử, kết tự hào; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh, tranh tư liệu; sơ đồ, thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 15, tr. 68–70.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (nửa sau thế kỉ XIX – đầu thế kỉ XX): không dùng AI vẽ người thật hay cảnh lịch sử; Hô-xê Ri-dan, Bô-ni-pha-xi-ô chỉ dùng ảnh chụp tư liệu, các thủ lĩnh khác chỉ được nhắc tên; không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo phông, mũ lưỡi trai, ba lô) đứng giữa một quảng trường rộng rợp bóng cây ở Thủ đô Ma-ni-la (Phi-líp-pin) hôm nay, phía sau là đài tưởng niệm trang nghiêm, lá cờ Phi-líp-pin tung bay, gia đình đi dạo, trời nắng nhiệt đới",
+   "am_thanh": "phố đông vui, chim, gió nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là quảng trường Hô-xê Ri-dan ở Thủ đô Ma-ni-la, được xây dựng tại nơi ông bị thực dân Tây Ban Nha xử tử.",
+     "This is Rizal Park in Manila, built where José Rizal was executed by the Spanish colonisers."
+    ],
+    [
+     "Nhật Minh",
+     "Câu chuyện của ông là một phần của phong trào chống thực dân khắp Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX. Cùng xem nhé!",
+     "His story is part of the anti-colonial movement across Southeast Asia from the late 19th to the early 20th century. Let's take a look!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XIX",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐÔNG NAM Á NỬA SAU THẾ KỈ XIX",
+   "y": [
+    "Xiêm vẫn giữ được nền độc lập tương đối",
+    "Miến Điện (1885), Mã Lai (đầu thế kỉ XX): thuộc địa của Anh",
+    "Phi-líp-pin: Tây Ban Nha thống trị; năm 1898 bị Mỹ xâm lược",
+    "Việt Nam, Cam-pu-chia, rồi Lào: thuộc địa của Pháp (cuối thế kỉ XIX)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nửa sau thế kỉ XIX, ngoài Xiêm vẫn giữ được nền độc lập tương đối, các nước Đông Nam Á khác đều trở thành thuộc địa của các nước tư bản phương Tây.",
+     "In the late 19th century, apart from Siam, which kept relative independence, every Southeast Asian country became a colony of a Western capitalist power."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1885, Anh hoàn thành xâm chiếm Miến Điện. Đầu thế kỉ XX, Mã Lai cũng thành thuộc địa của Anh.",
+     "In 1885 Britain completed its conquest of Burma. In the early 20th century, Malaya also became a British colony."
+    ],
+    [
+     "Nhật Minh",
+     "Phi-líp-pin dưới ách Tây Ban Nha, đến năm 1898 lại bị đế quốc Mỹ xâm lược.",
+     "The Philippines lay under Spain, then in 1898 was invaded by the United States."
+    ],
+    [
+     "Hân Hân",
+     "Còn Việt Nam, Cam-pu-chia và sau đó là Lào trở thành thuộc địa của thực dân Pháp.",
+     "And Việt Nam, Cambodia and later Laos became French colonies."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh hoặc tranh tư liệu về cuộc chiến ở vùng A-chê (In-đô-nê-xi-a) những năm 1870",
+    "tim": "Aceh War 1873 photograph lithograph",
+    "yeu_cau": "tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Tư liệu: cuộc chiến ở vùng A-chê (In-đô-nê-xi-a) thế kỉ XIX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự xâm lược và đô hộ ấy dẫn tới phong trào đấu tranh mạnh mẽ của nhân dân Đông Nam Á.",
+     "That invasion and rule triggered powerful resistance by the peoples of Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Ở In-đô-nê-xi-a, tháng 10 năm 1873, nhân dân A-chê anh dũng chiến đấu chống 3 000 quân Hà Lan đổ bộ lên vùng này.",
+     "In Indonesia, in October 1873, the people of Aceh fought bravely against 3,000 Dutch troops who landed there."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    69
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "IN-ĐÔ-NÊ-XI-A · NỬA SAU THẾ KỈ XIX",
+   "moc": [
+    [
+     "10 – 1873",
+     "Nhân dân A-chê chống quân Hà Lan"
+    ],
+    [
+     "1873 – 1909",
+     "Khởi nghĩa ở Tây Xu-ma-tơ-ra"
+    ],
+    [
+     "1878 – 1907",
+     "Khởi nghĩa của người Ba Tắc (Bắc Xu-ma-tơ-ra)"
+    ],
+    [
+     "1884 – 1886",
+     "Khởi nghĩa ở Ca-li-man-tan"
+    ],
+    [
+     "1890",
+     "Khởi nghĩa do Sa-min lãnh đạo"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1873 đến năm 1909, khởi nghĩa nổ ra ở Tây Xu-ma-tơ-ra.",
+     "From 1873 to 1909, uprisings broke out in West Sumatra."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1878 đến năm 1907 là khởi nghĩa của người Ba Tắc ở Bắc Xu-ma-tơ-ra.",
+     "From 1878 to 1907 came the Batak uprising in North Sumatra."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1884 đến năm 1886, khởi nghĩa nổ ra ở Ca-li-man-tan.",
+     "From 1884 to 1886, revolt erupted in Kalimantan."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 1890, nổ ra cuộc khởi nghĩa do Sa-min lãnh đạo.",
+     "And in 1890, an uprising led by Samin broke out."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2,
+    3
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đầu thế kỉ XX: công nhân đường sắt ở In-đô-nê-xi-a bên đầu máy xe lửa",
+    "tim": "Dutch East Indies railway workers 1900s photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nhân đường sắt In-đô-nê-xi-a đầu thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu thế kỉ XX, phong trào đấu tranh của công nhân In-đô-nê-xi-a phát triển.",
+     "In the early 20th century, the Indonesian workers' movement grew."
+    ],
+    [
+     "Nhật Minh",
+     "Hiệp hội công nhân đường sắt ra đời năm 1905, Hiệp hội công nhân xe lửa năm 1908, và Đảng Cộng sản In-đô-nê-xi-a năm 1920.",
+     "The railway workers' union was founded in 1905, the train workers' union in 1908, and the Communist Party of Indonesia in 1920."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1890, ở In-đô-nê-xi-a nổ ra cuộc khởi nghĩa do ai lãnh đạo?",
+    "lua_chon": [
+     "Sa-min",
+     "Hô-xê Ri-dan",
+     "Pha-ca-đuốc"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1890, ở In-đô-nê-xi-a nổ ra cuộc khởi nghĩa do ai lãnh đạo?",
+     "Pause! In 1890, who led the uprising that broke out in Indonesia?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Sa-min!",
+     "The answer is A: Samin!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh hoặc ảnh tư liệu thế kỉ XIX về thành phố Ca-vi-tô (Phi-líp-pin)",
+    "tim": "Cavite 19th century photograph engraving",
+    "yeu_cau": "tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: thành phố Ca-vi-tô (Phi-líp-pin) thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sang Phi-líp-pin. Năm 1872, nhân dân thành phố Ca-vi-tô nổi dậy chống thực dân Tây Ban Nha, làm chủ thành phố trong 3 ngày.",
+     "Now the Philippines. In 1872, the people of Cavite rose against the Spanish and held the city for 3 days."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng cuối cùng, cuộc khởi nghĩa thất bại.",
+     "But in the end, the uprising failed."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Hô-xê Ri-dan (như Hình 15.4 SGK)",
+    "tim": "José Rizal portrait photograph",
+    "yeu_cau": "ảnh chụp tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Hô-xê Ri-dan (1861 – 1896)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối thế kỉ XIX, phong trào ở Phi-líp-pin xuất hiện hai xu hướng. Xu hướng cải cách gắn với Hô-xê Ri-dan, người lãnh đạo Liên minh Phi-líp-pin.",
+     "In the late 19th century, two trends emerged in the Philippines. The reform trend was led by José Rizal, head of the Philippine League."
+    ],
+    [
+     "Nhật Minh",
+     "Ông bị thực dân Tây Ban Nha bắt giam và xử tử năm 1896.",
+     "He was imprisoned and executed by the Spanish in 1896."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Bô-ni-pha-xi-ô (Andrés Bonifacio)",
+    "tim": "Andres Bonifacio photograph",
+    "yeu_cau": "ảnh chụp tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Bô-ni-pha-xi-ô",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xu hướng thứ hai là bạo động, gắn với Bô-ni-pha-xi-ô.",
+     "The second trend was armed revolt, led by Bonifacio."
+    ],
+    [
+     "Hân Hân",
+     "Cả hai xu hướng đều khơi dậy ý thức dân tộc, chuẩn bị tiền đề cho cao trào cách mạng sau này.",
+     "Both trends awakened national consciousness and laid the groundwork for the revolutionary upsurge that followed."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu về cách mạng Phi-líp-pin 1896 – 1898 (nghĩa quân Phi-líp-pin, cờ cách mạng)",
+    "tim": "Philippine Revolution 1896 1898 photograph revolutionaries",
+    "yeu_cau": "ảnh chụp 1896 – 1898, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: cách mạng Phi-líp-pin (1896 – 1898)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1896 đến năm 1898, cuộc cách mạng bùng nổ, lật đổ ách thống trị của thực dân Tây Ban Nha, đưa đến sự ra đời nước Cộng hoà Phi-líp-pin.",
+     "From 1896 to 1898, revolution broke out, overthrew Spanish rule and gave birth to the Philippine Republic."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng sau đó, Phi-líp-pin lại bị Mỹ thôn tính.",
+     "But afterwards, the Philippines was swallowed up by the United States."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    69
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuối thế kỉ XIX, phong trào giải phóng dân tộc ở Phi-líp-pin có hai xu hướng nào?",
+    "lua_chon": [
+     "Cải cách và bạo động",
+     "Quân chủ và cộng hoà",
+     "Đông du và Duy tân"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Cuối thế kỉ XIX, phong trào ở Phi-líp-pin có hai xu hướng nào?",
+     "Quick test! Which two trends appeared in the Philippine movement in the late 19th century?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: cải cách của Hô-xê Ri-dan và bạo động của Bô-ni-pha-xi-ô!",
+     "The answer is A: Rizal's reform and Bonifacio's armed revolt!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "BA NƯỚC ĐÔNG DƯƠNG",
+   "y": [
+    "Việt Nam: phong trào Cần vương (1885 – 1896), khởi nghĩa Yên Thế (1884 – 1913)",
+    "Cam-pu-chia: A-cha Xoa (1863 – 1866), Pu-côm-bô (1866 – 1867), Si-vô-tha (1861 – 1892)",
+    "Lào: Pha-ca-đuốc ở Xa-van-na-khét (1901 – 1903), Ong Kẹo ở Bô-lô-ven (1901 – 1907)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Việt Nam, kháng chiến chống Pháp nổ ra từ giữa thế kỉ XIX, nổi bật là phong trào Cần vương và khởi nghĩa nông dân Yên Thế.",
+     "In Việt Nam, resistance to France began in the mid-19th century, most notably the Cần vương movement and the Yên Thế peasant uprising."
+    ],
+    [
+     "Hân Hân",
+     "Ở Cam-pu-chia có các cuộc khởi nghĩa của A-cha Xoa, nhà sư Pu-côm-bô, và đặc biệt là khởi nghĩa do Hoàng thân Si-vô-tha đứng đầu.",
+     "Cambodia saw uprisings led by Achar Sva, the monk Pou Kombo, and above all Prince Sivotha."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Lào, tiêu biểu là khởi nghĩa ở Xa-van-na-khét do Pha-ca-đuốc lãnh đạo và khởi nghĩa của Ong Kẹo ở cao nguyên Bô-lô-ven.",
+     "In Laos, notable were Pha Ka Duok's uprising in Savannakhet and Ong Kẹo's revolt on the Bolaven Plateau."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Nửa sau thế kỉ XIX: trừ Xiêm, các nước Đông Nam Á đều thành thuộc địa",
+    "In-đô-nê-xi-a: A-chê (1873), Ba Tắc, Sa-min (1890); đầu thế kỉ XX phong trào công nhân phát triển",
+    "Phi-líp-pin: hai xu hướng cải cách – bạo động; cách mạng 1896 – 1898 lập Cộng hoà nhưng bị Mỹ thôn tính",
+    "Ba nước Đông Dương: nhiều cuộc khởi nghĩa chống Pháp"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nửa sau thế kỉ XIX, trừ Xiêm, các nước Đông Nam Á đều trở thành thuộc địa.",
+     "Remember: by the late 19th century, all of Southeast Asia except Siam had been colonised."
+    ],
+    [
+     "Hân Hân",
+     "In-đô-nê-xi-a có khởi nghĩa ở A-chê, của người Ba Tắc, của Sa-min; đầu thế kỉ XX, phong trào công nhân phát triển.",
+     "Indonesia had the Aceh, Batak and Samin uprisings; in the early 20th century, its workers' movement grew."
+    ],
+    [
+     "Nhật Minh",
+     "Phi-líp-pin có hai xu hướng cải cách và bạo động; cách mạng 1896 – 1898 lập nên nước Cộng hoà nhưng rồi bị Mỹ thôn tính.",
+     "The Philippines had reform and revolt; the 1896–1898 revolution created a republic, later taken over by the US."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở ba nước Đông Dương, nhiều cuộc khởi nghĩa chống Pháp đã nổ ra.",
+     "And across the three Indochinese countries, many uprisings against France broke out."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi trên bậc thềm trong quảng trường Hô-xê Ri-dan ở Ma-ni-la lúc hoàng hôn, trời cam tím; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "gió chiều, sóng biển xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: kể tên một cuộc đấu tranh tiêu biểu ở mỗi nước In-đô-nê-xi-a, Phi-líp-pin, Việt Nam, Lào, Cam-pu-chia, kèm thời gian diễn ra. Bình luận nhé!",
+     "Your challenge: name one key struggle each in Indonesia, the Philippines, Việt Nam, Laos and Cambodia, with its dates. Post them in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vào nửa sau thế kỉ XIX, nước nào ở Đông Nam Á vẫn giữ được nền độc lập tương đối?",
+   "dap_an": [
+    "Miến Điện",
+    "Xiêm",
+    "Phi-líp-pin",
+    "Mã Lai"
+   ],
+   "dung": 1,
+   "trang": 68
+  },
+  {
+   "hoi": "Tháng 10 – 1873, nhân dân A-chê (In-đô-nê-xi-a) chiến đấu chống quân của nước nào?",
+   "dap_an": [
+    "Anh",
+    "Pháp",
+    "Hà Lan",
+    "Tây Ban Nha"
+   ],
+   "dung": 2,
+   "trang": 69
+  },
+  {
+   "hoi": "Năm 1898, Phi-líp-pin bị nước nào xâm lược và biến thành thuộc địa?",
+   "dap_an": [
+    "Mỹ",
+    "Anh",
+    "Nhật Bản",
+    "Pháp"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Cuộc khởi nghĩa của Ong Kẹo diễn ra ở nước nào?",
+   "dap_an": [
+    "Cam-pu-chia",
+    "Lào",
+    "Miến Điện",
+    "In-đô-nê-xi-a"
+   ],
+   "dung": 1,
+   "trang": 70
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 68 (tình hình Đông Nam Á nửa sau thế kỉ XIX), tr. 69 (Hình 15.2, 15.3 – đã đối chiếu ảnh trang vì OCR xáo trộn các ô; năm 1872 Ca-vi-tô lấy từ ảnh trang; Em có biết về Hô-xê Ri-dan, Hình 15.4), tr. 70 (ba nước Đông Dương). Danh mục: kiến thức chốt khớp SGK; tên thủ lĩnh viết đúng SGK. SGK không có lược đồ cho mục này nên dùng trục thời gian và thẻ ghi nhớ thay sa bàn. Thời kì đã có ảnh chụp: chỉ dùng ảnh/tranh tư liệu, không vẽ Hô-xê Ri-dan, Bô-ni-pha-xi-ô, Sa-min; không lời thoại dựng. Nội dung liên minh chiến đấu ba nước Đông Dương để dành cho tập L8-B15-03.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

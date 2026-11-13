@@ -1,0 +1,562 @@
+{
+ "ma": "L8-B16-05",
+ "ten_tap": "Khẳng định chủ quyền biển đảo",
+ "ten_tap_en": "Asserting Sovereignty over the Islands",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+  "trang": [
+   75,
+   76
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-anh",
+  "minh-mang",
+  "pham-huu-nhat",
+  "doi-hoang-sa-va-bac-hai",
+  "quan-bo-cong"
+ ],
+ "nhac": {
+  "tam_trang": "khoáng đạt, sóng biển, trang trọng; hào hùng nhẹ ở cảnh treo cờ và dựng dấu; kết tự hào, thiêng liêng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện (lời Phạm Hữu Nhật đọc dòng chữ khắc theo tư liệu Đại Nam thực lục trong SGK); hình ảnh minh hoạ; bản đồ định vị vẽ bằng code, luôn thể hiện quần đảo Hoàng Sa, Trường Sa của Việt Nam. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 16, tr. 75–76.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo phao cam, mũ) đứng trên boong một con tàu đang rẽ sóng giữa Biển Đông xanh thẳm hôm nay, lá cờ đỏ sao vàng bay phần phật trên cột cờ, đàn hải âu lượn, chân trời rộng mở",
+   "am_thanh": "sóng biển, gió mạnh, tiếng hải âu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa Biển Đông bao la có hai quần đảo của Việt Nam: quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "In the vast East Sea lie two archipelagos of Việt Nam: Hoàng Sa and Trường Sa."
+    ],
+    [
+     "Nhật Minh",
+     "Hơn hai trăm năm trước, nhà Nguyễn đã thực thi chủ quyền ở hai quần đảo này như thế nào? Cùng tìm hiểu nhé!",
+     "Over two hundred years ago, how did the Nguyễn dynasty exercise sovereignty over these islands? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Nguyễn",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Bản đồ định vị Biển Đông: quần đảo Hoàng Sa và quần đảo Trường Sa của Việt Nam lần lượt được khoanh sáng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là quần đảo Hoàng Sa, còn đây là quần đảo Trường Sa.",
+     "Here is the Hoàng Sa archipelago, and here is the Trường Sa archipelago."
+    ],
+    [
+     "Hân Hân",
+     "Thời Gia Long, cả hai quần đảo thuộc phủ Quảng Nghĩa.",
+     "Under Emperor Gia Long, both archipelagos belonged to Quảng Nghĩa prefecture."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-anh",
+    "doi-hoang-sa-va-bac-hai"
+   ],
+   "hinh": "Sân điện triều Nguyễn đầu thế kỉ XIX: vua Gia Long (vẽ theo tranh tư liệu, long bào vàng) ngồi trên ngai; dưới thềm, hàng binh lính mặc áo nẹp, đội nón dấu xếp hàng trước lá cờ hiệu của hai đội Hoàng Sa và Bắc Hải",
+   "am_thanh": "trống lệnh, nhã nhạc cung đình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Triều đình lập lại hai đội Hoàng Sa và Bắc Hải, biên chế nằm trong lực lượng quân đội.",
+     "The court re-established the Hoàng Sa and Bắc Hải flotillas as part of the army."
+    ],
+    [
+     "Nguyễn Ánh",
+     "Hai đội hãy thực thi chủ quyền của nước ta trên cả hai quần đảo!",
+     "Both flotillas shall uphold our nation's sovereignty over both archipelagos!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "gia_long",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Bản đồ: thuyền đội Hoàng Sa rời bờ biển miền Trung tiến về quần đảo Hoàng Sa (hải trình minh hoạ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiệm vụ của hai đội là thực thi chủ quyền của Việt Nam trên cả quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "Their mission was to uphold Việt Nam's sovereignty over both the Hoàng Sa and Trường Sa archipelagos."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "doi-hoang-sa-va-bac-hai"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên bãi cát trắng của một hòn đảo nhỏ giữa biển, sau bụi cây thấp; ngoài kia những chiếc thuyền buồm gỗ của đội Hoàng Sa đang hạ buồm cập đảo, binh lính lội nước khiêng hòm, dựng lều",
+   "am_thanh": "sóng vỗ bờ, gió, tiếng hô nhịp nhàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn kìa, thuyền của đội Hoàng Sa đang cập đảo!",
+     "Look, the Hoàng Sa flotilla's boats are landing!"
+    ],
+    [
+     "Hân Hân",
+     "Họ là binh lính của triều đình, vượt sóng gió ra tận đây để giữ gìn chủ quyền biển đảo.",
+     "They're soldiers of the court, crossing rough seas all the way here to guard our islands."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "doi-hoang-sa-va-bac-hai"
+   ],
+   "hinh": "Trên một hòn đảo san hô giữa biển xanh, binh lính triều Nguyễn dựng cột cờ bằng gỗ, kéo lên lá cờ lớn tung bay trong gió; thuyền buồm neo gần bờ, trời quang đãng",
+   "am_thanh": "trống lệnh, cờ bay phần phật, sóng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1833, Giám mục Ta-be xác nhận: quần đảo mà người Việt gọi là Cát Vàng hay Hoàng Sa đã được người Việt xứ Đàng Trong chiếm cứ.",
+     "In 1833, Bishop Taberd confirmed that the islands the Vietnamese called Cát Vàng, or Hoàng Sa, had been occupied by the Vietnamese of Đàng Trong."
+    ],
+    [
+     "Nhật Minh",
+     "Theo ông, năm 1816, Hoàng đế Gia Long đã long trọng treo tại đó lá cờ của xứ Đàng Trong.",
+     "According to him, in 1816 Emperor Gia Long solemnly raised the flag of Đàng Trong there."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "nam_1816",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Bản đồ: dấu mốc năm 1816 ở quần đảo Hoàng Sa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1816: dấu mốc treo cờ khẳng định chủ quyền ở quần đảo Hoàng Sa.",
+     "1816: the flag-raising that asserted sovereignty over Hoàng Sa."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Giám mục Ta-be, vua Gia Long cho treo cờ ở quần đảo Hoàng Sa vào năm nào?",
+    "lua_chon": [
+     "Năm 1816",
+     "Năm 1836",
+     "Năm 1838"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Theo Giám mục Ta-be, vua Gia Long cho treo cờ ở quần đảo Hoàng Sa vào năm nào?",
+     "Pause! According to Bishop Taberd, in what year did Gia Long have the flag raised on Hoàng Sa?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 1816!",
+     "The answer is A: 1816!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "minh-mang",
+    "quan-bo-cong"
+   ],
+   "hinh": "Trong điện triều Nguyễn, vua Minh Mạng (vẽ theo tranh tư liệu, long bào vàng) ngồi trên ngai; một vị quan Bộ Công quỳ dâng tấu sớ, phía sau quan lại đứng hai hàng; cột đỏ, hoành phi sơn son",
+   "am_thanh": "không gian cung điện trang nghiêm",
+   "loi": [
+    [
+     "Quan Bộ Công",
+     "Tâu bệ hạ, cương giới mặt biển nước ta có đảo Hoàng Sa rất là hiểm yếu. Hằng năm nên phái người đi dò xét cho thuộc đường biển.",
+     "Your Majesty, Hoàng Sa is a vital point on our sea frontier. We should send men each year to survey it and learn the sea routes."
+    ],
+    [
+     "Minh Mạng",
+     "Chuẩn tấu. Sai Phạm Hữu Nhật đem binh thuyền đi, mang theo bài gỗ để dựng làm dấu.",
+     "Approved. Send Phạm Hữu Nhật with soldiers and boats, carrying wooden markers to set up there."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "pham-huu-nhat",
+    "doi-hoang-sa-va-bac-hai"
+   ],
+   "hinh": "Trên đảo Hoàng Sa, suất đội Phạm Hữu Nhật (vẽ theo trang phục thuỷ quân triều Nguyễn: áo nẹp, nón dấu, đai lưng) đặt một tấm bài gỗ khắc chữ Hán dựng đứng trên cát; binh lính căng dây đo đạc, một người ghi chép; biển xanh phía sau",
+   "am_thanh": "sóng, gió, tiếng búa gỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thời Minh Mạng, việc thực thi chủ quyền ở hai quần đảo tiếp tục được đẩy mạnh. Năm 1836, Phạm Hữu Nhật đem binh thuyền ra Hoàng Sa.",
+     "Under Minh Mạng, sovereignty over both archipelagos was pressed further. In 1836, Phạm Hữu Nhật sailed with troops to Hoàng Sa."
+    ],
+    [
+     "Phạm Hữu Nhật",
+     "Minh Mạng thứ 17, năm Bính Thân, Thuỷ quân Chánh đội trưởng Suất đội Phạm Hữu Nhật, vâng mệnh đi Hoàng Sa trông nom đo đạc, đến đây lưu dấu để ghi nhớ.",
+     "In the 17th year of Minh Mạng, the year Bính Thân, Navy Captain Phạm Hữu Nhật, by royal order, came to Hoàng Sa to inspect and survey, and left this mark in remembrance."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "nam_1836",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Bản đồ: hải trình năm 1836 của Phạm Hữu Nhật ra quần đảo Hoàng Sa (minh hoạ), dấu mốc đo đạc, dựng dấu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ mang theo mười bài gỗ để dựng làm dấu, ghi khắc rõ năm tháng và tên người được giao nhiệm vụ.",
+     "They brought ten wooden markers to set up as signs, carved with the date and the name of the officer on duty."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "doi-hoang-sa-va-bac-hai"
+   ],
+   "hinh": "Binh lính triều Nguyễn dựng một ngôi miếu nhỏ mái ngói trên đảo cát, người khác trồng những hàng cây xanh non; một người ngồi vẽ bản đồ đường bờ đảo trên giấy dó",
+   "am_thanh": "gió biển, tiếng cuốc đất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Việc đo đạc kết hợp với vẽ bản đồ được quan tâm thực hiện.",
+     "Surveying went hand in hand with map-making."
+    ],
+    [
+     "Hân Hân",
+     "Nhà vua còn cho dựng miếu thờ và trồng cây xanh ở quần đảo Hoàng Sa.",
+     "The emperor also had a shrine built and green trees planted on Hoàng Sa."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 14,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Bản đồ cổ Đại Nam nhất thống toàn đồ (khoảng năm 1838), như Hình 16.7 SGK, có ghi Hoàng Sa và Vạn lí Trường Sa",
+    "tim": "Đại Nam nhất thống toàn đồ 1838",
+    "yeu_cau": "ảnh chụp bản đồ cổ thuộc phạm vi công cộng (tư liệu triều Nguyễn), ghi nguồn; giữ nguyên, không chỉnh sửa nội dung bản đồ"
+   },
+   "hinh": "Tư liệu: Đại Nam nhất thống toàn đồ (khoảng 1838)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoảng năm 1838, Quốc sử quán Triều Nguyễn cho vẽ Đại Nam nhất thống toàn đồ.",
+     "Around 1838, the Nguyễn National History Office had the Đại Nam nhất thống toàn đồ map drawn."
+    ],
+    [
+     "Nhật Minh",
+     "Tấm bản đồ thể hiện quần đảo Hoàng Sa, quần đảo Trường Sa thuộc lãnh thổ Việt Nam.",
+     "It shows the Hoàng Sa and Trường Sa archipelagos as Vietnamese territory."
+    ]
+   ],
+   "nguon_trang": [
+    75,
+    76
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1836, vua Minh Mạng sai ai đem binh thuyền ra Hoàng Sa đo đạc, dựng dấu?",
+    "lua_chon": [
+     "Nguyễn Hữu Cảnh",
+     "Phạm Hữu Nhật",
+     "Đào Duy Từ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Năm 1836, vua Minh Mạng sai ai đem binh thuyền ra Hoàng Sa?",
+     "Quick test! In 1836, whom did Minh Mạng send with troops and boats to Hoàng Sa?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: suất đội Phạm Hữu Nhật!",
+     "The answer is B: Captain Phạm Hữu Nhật!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "toan_do",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Bản đồ định vị: cả quần đảo Hoàng Sa và quần đảo Trường Sa của Việt Nam cùng được khoanh sáng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thời Gia Long đến thời Minh Mạng, nhà Nguyễn đã thực thi chủ quyền một cách có tổ chức ở cả hai quần đảo.",
+     "From Gia Long to Minh Mạng, the Nguyễn exercised sovereignty in an organised way over both archipelagos."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · THỰC THI CHỦ QUYỀN THỜI NGUYỄN",
+   "moc": [
+    [
+     "Thời Gia Long",
+     "Lập lại đội Hoàng Sa và Bắc Hải"
+    ],
+    [
+     "1816",
+     "Treo cờ ở Hoàng Sa"
+    ],
+    [
+     "1833",
+     "Giám mục Ta-be xác nhận"
+    ],
+    [
+     "1836",
+     "Phạm Hữu Nhật đo đạc, dựng dấu"
+    ],
+    [
+     "Khoảng 1838",
+     "Đại Nam nhất thống toàn đồ"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Thời Gia Long, triều đình lập lại hai đội Hoàng Sa và Bắc Hải.",
+     "Recap! Under Gia Long, the court re-established the Hoàng Sa and Bắc Hải flotillas."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1816, cờ được treo ở Hoàng Sa, như Giám mục Ta-be xác nhận năm 1833.",
+     "In 1816 the flag was raised on Hoàng Sa, as Bishop Taberd confirmed in 1833."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1836, Phạm Hữu Nhật ra Hoàng Sa đo đạc, dựng dấu.",
+     "In 1836, Phạm Hữu Nhật surveyed Hoàng Sa and set up markers."
+    ],
+    [
+     "Nhật Minh",
+     "Và khoảng năm 1838, Đại Nam nhất thống toàn đồ thể hiện hai quần đảo thuộc lãnh thổ Việt Nam.",
+     "And around 1838, the Đại Nam nhất thống toàn đồ showed both archipelagos as Vietnamese territory."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    3
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 19,
+   "lop": "ghi_nho",
+   "y": [
+    "Thời Gia Long: Hoàng Sa, Trường Sa thuộc phủ Quảng Nghĩa; lập lại đội Hoàng Sa và Bắc Hải",
+    "Năm 1816: treo cờ ở quần đảo Hoàng Sa (Giám mục Ta-be xác nhận)",
+    "Năm 1836: Phạm Hữu Nhật đo đạc, dựng dấu; thời Minh Mạng dựng miếu, trồng cây",
+    "Khoảng 1838: Đại Nam nhất thống toàn đồ thể hiện hai quần đảo thuộc Việt Nam"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: thời Gia Long, hai quần đảo thuộc phủ Quảng Nghĩa, triều đình lập lại đội Hoàng Sa và Bắc Hải.",
+     "Remember: under Gia Long, both archipelagos belonged to Quảng Nghĩa, and the Hoàng Sa and Bắc Hải flotillas were re-established."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1816, cờ được treo ở quần đảo Hoàng Sa.",
+     "In 1816, the flag was raised on Hoàng Sa."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1836, Phạm Hữu Nhật ra đo đạc, dựng dấu; nhà vua cho dựng miếu, trồng cây xanh.",
+     "In 1836 Phạm Hữu Nhật surveyed and set up markers; the emperor had a shrine built and trees planted."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng năm 1838, Đại Nam nhất thống toàn đồ thể hiện Hoàng Sa, Trường Sa thuộc lãnh thổ Việt Nam.",
+     "Around 1838, the Đại Nam nhất thống toàn đồ showed Hoàng Sa and Trường Sa as Vietnamese territory."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng ở mũi tàu lúc hoàng hôn trên Biển Đông, lá cờ đỏ sao vàng tung bay phía sau, mặt biển vàng óng; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "sóng biển, gió chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: hãy nêu cảm nghĩ của cậu về quá trình thực thi chủ quyền của nhà Nguyễn đối với quần đảo Hoàng Sa và quần đảo Trường Sa. Bình luận nhé!",
+     "Your challenge: share your thoughts on how the Nguyễn dynasty upheld sovereignty over the Hoàng Sa and Trường Sa archipelagos. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Gia Long, quần đảo Hoàng Sa và quần đảo Trường Sa thuộc đơn vị hành chính nào?",
+   "dap_an": [
+    "Phủ Quảng Nghĩa",
+    "Phủ Gia Định",
+    "Phủ Thừa Thiên",
+    "Trấn Sơn Nam"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Hai đội nào được nhà Nguyễn lập lại để thực thi chủ quyền ở Hoàng Sa, Trường Sa?",
+   "dap_an": [
+    "Đội Hoàng Sa và đội Bắc Hải",
+    "Đội Trường Sa và đội Nam Hải",
+    "Đội Thuỷ quân và đội Bộ binh",
+    "Đội Bắc Hải và đội Nam Hải"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Dưới thời Minh Mạng, nhà vua đã cho làm gì ở quần đảo Hoàng Sa?",
+   "dap_an": [
+    "Dựng miếu thờ và trồng cây xanh",
+    "Xây kinh thành mới",
+    "Mở cảng buôn bán với phương Tây",
+    "Lập phủ Gia Định"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Đại Nam nhất thống toàn đồ được vẽ vào khoảng năm nào?",
+   "dap_an": [
+    "1816",
+    "1833",
+    "1838",
+    "1858"
+   ],
+   "dung": 2,
+   "trang": 75
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 75 (mục 3: thời Gia Long, phủ Quảng Nghĩa, lập lại đội Hoàng Sa và Bắc Hải; tư liệu 2 – Giám mục Ta-be 1833 và năm 1816; thời Minh Mạng đo đạc, vẽ bản đồ, dựng miếu, trồng cây; tư liệu 3 – Đại Nam thực lục, Phạm Hữu Nhật, mười bài gỗ, dòng chữ khắc năm Bính Thân 1836; khoảng 1838 Đại Nam nhất thống toàn đồ), tr. 76 (Hình 16.7; câu hỏi vận dụng về cảm nghĩ). Sửa kiến thức chốt danh mục: (1) SGK ghi 'lập lại' hai đội Hoàng Sa và Bắc Hải; (2) việc treo cờ năm 1816 là theo lời xác nhận của Giám mục Ta-be (tư liệu 2), lời dẫn nói rõ nguồn; (3) năm 1836 Phạm Hữu Nhật dựng dấu bằng bài gỗ (không phải 'bia'), còn việc dựng miếu, trồng cây là chủ trương chung thời Minh Mạng – đã tách đúng ý SGK. Lời quan Bộ Công và vua Minh Mạng diễn đạt lại tư liệu 3; lời Phạm Hữu Nhật đọc đúng dòng chữ khắc trong SGK; lời vua Gia Long (giọng 'Nguyễn Ánh') diễn đạt nhiệm vụ hai đội theo SGK. 'Hơn hai trăm năm trước' là suy ra từ năm 1816. Bản đồ 'hoang-sa-truong-sa' là bản đồ định vị vẽ bằng code (không phải bản đồ cổ), luôn có hai quần đảo ghi rõ (Việt Nam); hải trình là minh hoạ.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

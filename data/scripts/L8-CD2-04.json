@@ -1,0 +1,352 @@
+{
+ "ma": "L8-CD2-04",
+ "ten_tap": "Bảo vệ chủ quyền bằng luật pháp quốc tế",
+ "ten_tap_en": "Defending Sovereignty Through International Law",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+  "trang": [
+   166,
+   167,
+   168
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "điềm tĩnh, vững vàng, tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có nhân vật lịch sử, không có cảnh tái hiện. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 2, tr. 166–168.",
+ "chinh_sach_hinh": "Nội dung pháp lí đương đại: không dùng AI vẽ người thật, hội nghị hay sự kiện có thật; văn bản, mốc thời gian thể hiện bằng thẻ ghi nhớ, trục thời gian dựng bằng code; bản đồ dùng lại sa bàn 'duong-co-so' (luôn có quần đảo Hoàng Sa, Trường Sa thuộc Việt Nam). Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Phòng câu lạc bộ Hùng biện của trường hôm nay: Nhật Minh và Hân Hân đứng bên bục, sau lưng là màn chiếu có tấm bản đồ Biển Đông với dòng chữ 'Biển đảo Việt Nam'; Hân Hân ôm một tập tài liệu dày ghi 'Luật Biển', Nhật Minh cầm micro",
+   "am_thanh": "tiếng vỗ tay nhỏ, tiếng micro",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bảo vệ chủ quyền biển đảo thì cần những gì nhỉ?",
+     "What does it take to protect our sovereignty at sea?"
+    ],
+    [
+     "Hân Hân",
+     "Một công cụ rất quan trọng chính là luật pháp! Cùng tìm hiểu nhé!",
+     "One very important tool is the law! Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "CÔNG ƯỚC LIÊN HỢP QUỐC VỀ LUẬT BIỂN 1982 (UNCLOS)",
+   "y": [
+    "Cơ sở pháp lí để các quốc gia xác định phạm vi các vùng biển",
+    "Thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia",
+    "Việt Nam kí kết ngay trong năm 1982"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Công ước của Liên hợp quốc về Luật Biển năm 1982, gọi tắt là UNCLOS, là cơ sở pháp lí để các quốc gia xác định phạm vi các vùng biển,",
+     "The 1982 United Nations Convention on the Law of the Sea, UNCLOS, is the legal basis for countries to define their maritime zones,"
+    ],
+    [
+     "Nhật Minh",
+     "thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia.",
+     "under national sovereignty, sovereign rights and jurisdiction."
+    ],
+    [
+     "Hân Hân",
+     "Cùng năm đó, Việt Nam đã kí kết Công ước, và được nhiều quốc gia trên thế giới ủng hộ trong đấu tranh thực thi Công ước trên Biển Đông.",
+     "That same year, Việt Nam signed the Convention, and many countries have supported its efforts to apply it in the East Sea."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Công ước của Liên hợp quốc về Luật Biển (UNCLOS) ra đời năm nào?",
+    "lua_chon": [
+     "Năm 2003",
+     "Năm 1982",
+     "Năm 2012"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Công ước của Liên hợp quốc về Luật Biển ra đời năm nào?",
+     "Pause! In what year was the UN Convention on the Law of the Sea adopted?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 1982!",
+     "The answer is B: 1982!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "VIỆT NAM XÂY DỰNG CƠ SỞ PHÁP LÍ",
+   "moc": [
+    [
+     "1982",
+     "Kí kết Công ước của Liên hợp quốc về Luật Biển"
+    ],
+    [
+     "1992",
+     "Thoả thuận khai thác chung thềm lục địa chồng lấn với Ma-lai-xi-a"
+    ],
+    [
+     "2000",
+     "Hiệp định Phân định vịnh Bắc Bộ với Trung Quốc"
+    ],
+    [
+     "2003",
+     "Luật Biên giới Quốc gia; Hiệp định phân định thềm lục địa với In-đô-nê-xi-a"
+    ],
+    [
+     "2012",
+     "Luật Biển Việt Nam"
+    ]
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1982, Việt Nam kí kết Công ước về Luật Biển.",
+     "1982: Việt Nam signed the Law of the Sea Convention."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1992, kí thoả thuận hợp tác khai thác chung vùng thềm lục địa chồng lấn với Ma-lai-xi-a.",
+     "1992: an agreement with Malaysia to jointly exploit an overlapping continental shelf area."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2000, Hiệp định Phân định vịnh Bắc Bộ với Trung Quốc.",
+     "2000: the Gulf of Tonkin Delimitation Agreement with China."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2003, Luật Biên giới Quốc gia ra đời, cùng năm kí Hiệp định phân định ranh giới thềm lục địa với In-đô-nê-xi-a.",
+     "2003: the National Border Law, and an agreement with Indonesia on their continental shelf boundary."
+    ],
+    [
+     "Nhật Minh",
+     "Và năm 2012, Luật Biển Việt Nam.",
+     "And 2012: the Law of the Sea of Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    165,
+    167
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "toan_canh",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Sa bàn toàn cảnh vùng biển Việt Nam: đường cơ sở, đường phân định vịnh Bắc Bộ, quần đảo Hoàng Sa, Trường Sa (Việt Nam)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hệ thống luật ấy, xây dựng trên cơ sở Công ước năm 1982, là nền tảng để bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam trên Biển Đông, nơi có quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "Built on the 1982 Convention, these laws are the foundation for protecting Việt Nam's sovereignty, rights and legitimate interests in the East Sea, home to the Hoàng Sa and Trường Sa archipelagos."
+    ]
+   ],
+   "nguon_trang": [
+    166,
+    167
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "BỘ QUY TẮC ỨNG XỬ Ở BIỂN ĐÔNG (COC)",
+   "y": [
+    "Việt Nam tích cực tham gia xây dựng COC",
+    "Kí các thoả thuận, hiệp định phân định và hợp tác trên biển với các nước láng giềng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Việt Nam còn tích cực tham gia xây dựng Bộ Quy tắc ứng xử ở Biển Đông, viết tắt là COC, và kí nhiều thoả thuận hợp tác trên biển với các nước láng giềng.",
+     "Việt Nam also actively helps build the Code of Conduct in the East Sea, the COC, and has signed maritime cooperation agreements with its neighbours."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "KHÓ KHĂN",
+   "y": [
+    "Có quốc gia đưa ra yêu sách phi lí, biến vùng biển không tranh chấp thành có tranh chấp",
+    "Chồng lấn vùng biển đảo giữa nhiều quốc gia dẫn đến tranh chấp",
+    "Ảnh hưởng tới an ninh trên Biển Đông"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng vẫn còn khó khăn. Lớn nhất là có quốc gia đưa ra yêu sách phi lí, biến vùng biển không có tranh chấp thành có tranh chấp.",
+     "But challenges remain. The biggest is that one country makes unreasonable claims, turning undisputed waters into disputed ones."
+    ],
+    [
+     "Nhật Minh",
+     "Ngoài ra, vùng biển đảo của nhiều quốc gia chồng lấn nhau cũng dẫn đến tranh chấp, ảnh hưởng tới an ninh trên Biển Đông.",
+     "Overlapping maritime areas between several countries also lead to disputes, affecting security in the East Sea."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "NGUYÊN TẮC",
+   "y": [
+    "Giải quyết các tranh chấp trên biển bằng các biện pháp hoà bình"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì thế, việc giải quyết các tranh chấp trên biển phải được tiến hành bằng các biện pháp hoà bình.",
+     "That's why maritime disputes must be settled by peaceful means."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, các tranh chấp trên biển phải được giải quyết bằng cách nào?",
+    "lua_chon": [
+     "Bằng yêu sách đơn phương",
+     "Bằng các biện pháp hoà bình",
+     "Bằng sức mạnh quân sự"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Các tranh chấp trên biển phải được giải quyết bằng cách nào?",
+     "Quick question! How must maritime disputes be settled?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: bằng các biện pháp hoà bình!",
+     "The answer is B: by peaceful means!"
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại phòng câu lạc bộ Hùng biện hôm nay: Nhật Minh và Hân Hân ngồi trên bục, tập tài liệu đặt bên cạnh, Hân Hân giơ tay về phía người xem như mời tranh luận",
+   "am_thanh": "tiếng trống trường xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao giải quyết tranh chấp bằng luật pháp và các biện pháp hoà bình lại có lợi cho Việt Nam và cho cả khu vực? Bình luận nhé!",
+     "Your challenge: why does settling disputes through law and peaceful means benefit Việt Nam and the whole region? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Công ước của Liên hợp quốc về Luật Biển năm 1982 có vai trò gì?",
+   "dap_an": [
+    "Là cơ sở pháp lí để các quốc gia xác định phạm vi các vùng biển",
+    "Là hiệp định thương mại giữa các nước",
+    "Là luật riêng của Việt Nam",
+    "Là bản đồ hàng hải quốc tế"
+   ],
+   "dung": 0,
+   "trang": 167
+  },
+  {
+   "hoi": "Luật nào dưới đây được Việt Nam xây dựng trên cơ sở Công ước năm 1982?",
+   "dap_an": [
+    "Luật Biển Việt Nam năm 2012",
+    "Hoàng Việt luật lệ",
+    "Luật Gia Long",
+    "Hiệp ước Pa-tơ-nốt"
+   ],
+   "dung": 0,
+   "trang": 167
+  },
+  {
+   "hoi": "Việt Nam tích cực tham gia xây dựng văn bản nào ở Biển Đông?",
+   "dap_an": [
+    "Hiệp ước Nhâm Tuất",
+    "Bộ Quy tắc ứng xử ở Biển Đông (COC)",
+    "Hiệp ước Tân Sửu",
+    "Hiệp ước Nam Kinh"
+   ],
+   "dung": 1,
+   "trang": 167
+  },
+  {
+   "hoi": "Khó khăn lớn nhất hiện nay đối với bảo vệ chủ quyền của Việt Nam ở Biển Đông là gì?",
+   "dap_an": [
+    "Thiếu tài nguyên biển",
+    "Có quốc gia đưa ra yêu sách phi lí, biến vùng biển không có tranh chấp thành có tranh chấp",
+    "Không có luật về biển",
+    "Không có quốc gia nào ủng hộ"
+   ],
+   "dung": 1,
+   "trang": 168
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 167 (UNCLOS 1982; Việt Nam kí cùng năm; Luật Biên giới Quốc gia 2003, Luật Biển Việt Nam 2012; COC; thoả thuận với Ma-lai-xi-a 1992, Hiệp định với In-đô-nê-xi-a 2003), tr. 168 (khó khăn; giải quyết tranh chấp bằng biện pháp hoà bình), tr. 165 (Hiệp định Phân định vịnh Bắc Bộ 25 – 12 – 2000), tr. 166 (Hoàng Sa, Trường Sa trong vùng biển Việt Nam). Danh mục: 'Việt Nam tích cực xây dựng COC' diễn đạt theo SGK 'tích cực tham gia xây dựng'. Dùng lại sa bàn 'duong-co-so' (pha toan_canh). Phương án nhiễu Hoàng Việt luật lệ, Luật Gia Long, Hiệp ước Nhâm Tuất, Tân Sửu, Nam Kinh có trong SGK LSĐL 8; Hiệp ước Pa-tơ-nốt (tr. 84).",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

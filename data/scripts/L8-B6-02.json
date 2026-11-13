@@ -1,0 +1,373 @@
+{
+ "ma": "L8-B6-02",
+ "ten_tap": "Xây dựng vùng đất mới",
+ "ten_tap_en": "Building the New Southern Lands",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+  "trang": [
+   28,
+   29,
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-huu-canh",
+  "luu-dan-khai-hoang",
+  "thuong-nhan",
+  "nguyen-hoang"
+ ],
+ "nhac": {
+  "tam_trang": "khoáng đạt, sông nước Nam Bộ; nhịp lao động hăng say ở cảnh khai hoang; tấp nập ở cảnh thương cảng; kết ấm áp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của Nguyễn Hữu Cảnh mang tính tái hiện; hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 6, tr. 28–30.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng bên bờ một dòng sông lớn ở Nam Bộ hôm nay, phía sau là thành phố hiện đại với cầu và nhà cao tầng soi bóng xuống nước, ghe xuồng qua lại; buổi chiều nắng vàng",
+   "am_thanh": "tiếng sóng, còi tàu, phố xá xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vùng đất Nam Bộ trù phú hôm nay từng là vùng đất hoang sơ. Ông cha ta đã khai phá và xây dựng nơi đây như thế nào?",
+     "Today's thriving southern region was once a wild land. How did our ancestors open it up and build it?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng ngược dòng về các thế kỉ XVI đến XVIII nhé!",
+     "Let's go back to the 16th to 18th centuries!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1558",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "KHAI PHÁ VÙNG ĐẤT PHÍA NAM",
+   "moc": [
+    [
+     "1558",
+     "Nguyễn Hoàng vào trấn thủ Thuận Hoá"
+    ],
+    [
+     "1611",
+     "Lập phủ Phú Yên"
+    ],
+    [
+     "1653",
+     "Lập dinh Thái Khang"
+    ],
+    [
+     "1693",
+     "Đặt trấn Thuận Thành (sau là phủ Bình Thuận)"
+    ],
+    [
+     "1698",
+     "Lập phủ Gia Định"
+    ],
+    [
+     "1757",
+     "Hoàn thiện chính quyền ở Nam Bộ"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1558, Nguyễn Hoàng vào trấn thủ Thuận Hoá. Năm 1611, ông lập phủ Phú Yên, nay thuộc tỉnh Đắk Lắk.",
+     "In 1558, Nguyễn Hoàng went to govern Thuận Hoá. In 1611, he set up Phú Yên prefecture, now part of Đắk Lắk."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1653, dinh Thái Khang được thành lập, nay thuộc tỉnh Khánh Hoà. Năm 1693, đặt trấn Thuận Thành, sau đổi là phủ Bình Thuận.",
+     "In 1653, Thái Khang garrison was founded, now in Khánh Hoà. In 1693, Thuận Thành was set up, later renamed Bình Thuận prefecture."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1698, phủ Gia Định được thành lập. Đến năm 1757, chúa Nguyễn hoàn thiện hệ thống chính quyền trên vùng đất Nam Bộ tương đương như ngày nay.",
+     "In 1698, Gia Định prefecture was founded. By 1757, the Nguyễn lords had completed their administration over a southern region roughly equal to today's."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    28,
+    29
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-huu-canh"
+   ],
+   "hinh": "Năm 1698, bên bờ sông rộng giữa vùng đất Đồng Nai – Sài Gòn xưa: Nguyễn Hữu Cảnh (vẽ theo tượng thờ: võ tướng, áo giáp, khăn đầu rìu, tay cầm cuộn bản đồ) đứng trước dinh trại mới dựng, quan quân và dân chúng tụ họp, cờ hiệu tung bay",
+   "am_thanh": "trống lệnh, tiếng sông nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1698, chúa Nguyễn cử Nguyễn Hữu Cảnh xuống kinh lí vùng Đông Phố, đặt phủ Gia Định.",
+     "In 1698, the Nguyễn lord sent Nguyễn Hữu Cảnh to administer the Đông Phố region and establish Gia Định prefecture."
+    ],
+    [
+     "Nguyễn Hữu Cảnh",
+     "Lấy xứ Đồng Nai làm huyện Phước Long, dựng dinh Trấn Biên. Lấy xứ Sài Gòn làm huyện Tân Bình, dựng dinh Phiên Trấn!",
+     "Make Đồng Nai the district of Phước Long, with Trấn Biên garrison. Make Sài Gòn the district of Tân Bình, with Phiên Trấn garrison!"
+    ],
+    [
+     "Hân Hân",
+     "Dinh Trấn Biên là vùng đất thuộc tỉnh Đồng Nai và Thành phố Hồ Chí Minh ngày nay; dinh Phiên Trấn thuộc Thành phố Hồ Chí Minh và tỉnh Tây Ninh ngày nay.",
+     "Trấn Biên covered parts of today's Đồng Nai and Hồ Chí Minh City; Phiên Trấn covered parts of today's Hồ Chí Minh City and Tây Ninh."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1698, ai được chúa Nguyễn cử vào kinh lí, đặt phủ Gia Định?",
+    "lua_chon": [
+     "Nguyễn Hoàng",
+     "Nguyễn Hữu Cảnh",
+     "Đào Duy Từ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1698, ai được chúa Nguyễn cử vào kinh lí, đặt phủ Gia Định?",
+     "Pause! In 1698, whom did the Nguyễn lord send to set up Gia Định prefecture?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Nguyễn Hữu Cảnh!",
+     "The answer is B: Nguyễn Hữu Cảnh!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "luu-dan-khai-hoang"
+   ],
+   "hinh": "Những đoàn lưu dân khai hoang phát quang lau sậy, đắp bờ, cấy lúa trên vùng đất mới; một viên quan phát cuốc, cày cho dân; làng xóm mới với nhà lá mọc lên bên kênh",
+   "am_thanh": "tiếng cuốc đất, tiếng hò lao động",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở vùng đất mới, các chúa Nguyễn tổ chức đơn vị hành chính, bộ máy cai trị, quản lí dân đinh, ruộng đất, đặt ra các loại thuế.",
+     "In the new lands, the Nguyễn lords set up administrative units, a government, registers of people and land, and taxes."
+    ],
+    [
+     "Hân Hân",
+     "Các chúa Nguyễn còn khuyến khích khai hoang: cấp công cụ sản xuất, miễn giảm thuế, cho dân được sở hữu ruộng đất khai khẩn được.",
+     "They also encouraged land clearing: handing out tools, cutting taxes, and letting people own the land they cleared."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ đó, diện tích canh tác mở rộng, làng xóm mới hình thành, dân cư đông đúc hơn.",
+     "As a result, farmland expanded, new villages appeared, and the population grew."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Một thương cảng tấp nập ở Nam Bộ thế kỉ XVIII: thuyền buôn trong nước và thuyền buôn nước ngoài neo đậu, kênh đào dẫn vào chợ đông đúc, kho hàng, phu khuân vác",
+   "am_thanh": "tiếng chợ, mái chèo, tiếng gọi hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Để buôn bán phát triển, các chúa Nguyễn cho đào kênh, lập thương cảng, cho phép thuyền buôn nước ngoài đến giao thương.",
+     "To boost trade, the Nguyễn lords dug canals, built trading ports and welcomed foreign merchant ships."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều trung tâm giao thương phát triển như Nông Nại Đại Phố, Gia Định, Bến Nghé, Hà Tiên.",
+     "Trading centres flourished, such as Nông Nại Đại Phố, Gia Định, Bến Nghé and Hà Tiên."
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chính sách nào được các chúa Nguyễn dùng để khuyến khích khai hoang?",
+    "lua_chon": [
+     "Cấp công cụ, miễn giảm thuế, cho sở hữu ruộng khai khẩn",
+     "Cấm buôn bán với nước ngoài",
+     "Bắt dân phải đi lính"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Chính sách nào khuyến khích nhân dân khai hoang?",
+     "Quick test! Which policy encouraged people to clear new land?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cấp công cụ, miễn giảm thuế, cho sở hữu ruộng đất khai khẩn được!",
+     "The answer is A: tools, tax cuts, and ownership of the land they cleared!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "1558: Nguyễn Hoàng vào trấn thủ Thuận Hoá, mở đầu công cuộc khai phá",
+    "1698: Nguyễn Hữu Cảnh đặt phủ Gia Định; 1757: hoàn thiện chính quyền ở Nam Bộ",
+    "Chính sách: cấp công cụ, miễn giảm thuế, cho sở hữu ruộng khai khẩn",
+    "Trung tâm giao thương: Nông Nại Đại Phố, Gia Định, Bến Nghé, Hà Tiên"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1558, Nguyễn Hoàng vào trấn thủ Thuận Hoá.",
+     "Remember: in 1558, Nguyễn Hoàng went to govern Thuận Hoá."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1698, Nguyễn Hữu Cảnh đặt phủ Gia Định; đến năm 1757, chính quyền ở Nam Bộ được hoàn thiện.",
+     "In 1698 Nguyễn Hữu Cảnh set up Gia Định; by 1757 the southern administration was complete."
+    ],
+    [
+     "Nhật Minh",
+     "Các chúa Nguyễn khuyến khích khai hoang bằng nhiều chính sách,",
+     "The Nguyễn lords encouraged land clearing through many policies,"
+    ],
+    [
+     "Hân Hân",
+     "và nhiều trung tâm giao thương ra đời: Nông Nại Đại Phố, Gia Định, Bến Nghé, Hà Tiên.",
+     "and trading centres arose: Nông Nại Đại Phố, Gia Định, Bến Nghé, Hà Tiên."
+    ]
+   ],
+   "nguon_trang": [
+    28,
+    29
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân bên bờ sông lúc hoàng hôn, đèn thành phố lên, nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "gió sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tìm hiểu xem vì sao Thành phố Hồ Chí Minh thường tổ chức lễ dâng hương tại đền thờ Lễ thành hầu Nguyễn Hữu Cảnh. Việc làm đó có ý nghĩa gì? Bình luận nhé!",
+     "Your challenge: find out why Hồ Chí Minh City holds incense-offering ceremonies at the temple of Nguyễn Hữu Cảnh. What does that mean? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phủ Gia Định được thành lập vào năm nào?",
+   "dap_an": [
+    "1558",
+    "1611",
+    "1698",
+    "1757"
+   ],
+   "dung": 2,
+   "trang": 29
+  },
+  {
+   "hoi": "Năm 1611, Nguyễn Hoàng lập phủ nào?",
+   "dap_an": [
+    "Phủ Phú Yên",
+    "Phủ Gia Định",
+    "Phủ Bình Thuận",
+    "Dinh Thái Khang"
+   ],
+   "dung": 0,
+   "trang": 29
+  },
+  {
+   "hoi": "Năm 1698, xứ Sài Gòn được lấy làm huyện nào?",
+   "dap_an": [
+    "Huyện Phước Long",
+    "Huyện Tân Bình",
+    "Huyện Bến Nghé",
+    "Huyện Hà Tiên"
+   ],
+   "dung": 1,
+   "trang": 29
+  },
+  {
+   "hoi": "Trung tâm giao thương nào KHÔNG được nhắc tới ở vùng đất phía Nam thời chúa Nguyễn?",
+   "dap_an": [
+    "Nông Nại Đại Phố",
+    "Bến Nghé",
+    "Hà Tiên",
+    "Phố Hiến"
+   ],
+   "dung": 3,
+   "trang": 29
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 28 (1558, Thuận – Quảng), tr. 29 (Hình 6.2 – đã đối chiếu ảnh trang các mốc 1558, 1611, 1653, 1693, 1698, 1757 và địa danh ngày nay; tư liệu 1 về năm 1698; Em có biết về dinh Trấn Biên, Phiên Trấn; chính sách khai hoang; trung tâm giao thương), tr. 30 (câu hỏi vận dụng về đền thờ Nguyễn Hữu Cảnh). Danh mục: kiến thức chốt khớp SGK; bản đồ động 1611 – 1653 – 1698 trong danh mục được thể hiện bằng trục thời gian theo đúng sơ đồ Hình 6.2 (SGK không có lược đồ cho mục này). Lời Nguyễn Hữu Cảnh diễn đạt lại tư liệu 1 SGK. 'Phố Hiến' chỉ là đáp án nhiễu (trung tâm ở Đàng Ngoài, SGK Bài 9).",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

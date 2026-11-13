@@ -1,0 +1,356 @@
+{
+ "ma": "L8-B14-01",
+ "ten_tap": "Trung Quốc trước sự xâm lược của các nước đế quốc",
+ "ten_tap_en": "China Under Attack by the Imperialist Powers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 14. Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   62,
+   63
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "căng thẳng, nặng nề, u buồn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có lời thoại của nhân vật lịch sử. Các cảnh năm 1840 – 1842 là minh hoạ chung (thương nhân, quan lại, chiến thuyền không xác định danh tính). Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 14, tr. 62–63.",
+ "chinh_sach_hinh": "Cảnh năm 1840 – 1842 (trước thời kì ảnh chụp chiến sự) được vẽ minh hoạ chung, không có nhân vật có tên. Từ nửa sau thế kỉ XIX, đặc biệt Hiệp ước Tân Sửu năm 1901: không dùng AI vẽ cảnh có thật, chỉ dùng ảnh tư liệu phạm vi công cộng, ghi nguồn. Sự phân chia vùng ảnh hưởng thể hiện bằng thẻ ghi nhớ dựng bằng code. Minh – Hân chỉ quan sát ở cảnh du hành, không có lời thoại dựng cho nhân vật lịch sử.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Cảng biển hiện đại hôm nay lúc hoàng hôn: Nhật Minh và Hân Hân đứng trên kè đá nhìn những con tàu container lớn ra vào, cần cẩu xếp hàng; Hân Hân mở trên điện thoại tấm bản đồ châu Á",
+   "am_thanh": "còi tàu, sóng vỗ, gió biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày nay tàu bè các nước ra vào buôn bán là chuyện bình thường. Nhưng giữa thế kỉ XIX, những con tàu nước ngoài từng mang đến cho Trung Quốc cả chiến tranh.",
+     "Today, foreign ships coming to trade is normal. But in the mid-19th century, foreign ships brought war to China."
+    ],
+    [
+     "Hân Hân",
+     "Khi ấy, Trung Quốc trở thành miếng mồi cho các nước đế quốc chia nhau xâu xé. Cùng xem chuyện gì đã xảy ra!",
+     "Back then, China became prey for the imperialist powers to carve up. Let's see what happened!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 1840",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng nép bên một bờ biển Trung Quốc năm 1840, quan sát binh lính nhà Thanh (áo dài, mũ có chóp) khiêng những hòm gỗ thuốc phiện ra hố lớn để thiêu huỷ, khói bốc lên; xa xa ngoài khơi là thuyền buồm của thương nhân Anh; hai bạn chỉ quan sát",
+   "am_thanh": "tiếng lửa, tiếng hô của binh lính, sóng biển",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính quyền Mãn Thanh tịch thu và thiêu huỷ toàn bộ thuốc phiện của thương nhân Anh.",
+     "The Manchu Qing government seized and destroyed all the British merchants' opium."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1840, thực dân Anh lấy đó làm cớ để gây chiến với Trung Quốc. Cuộc chiến này thường được gọi là Chiến tranh thuốc phiện.",
+     "In 1840, the British colonialists used this as a pretext to wage war on China. It is usually called the Opium War."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng trên một mỏm đá xa, quan sát những chiến thuyền buồm có đại bác của Anh nã pháo vào pháo đài ven biển của nhà Thanh, khói súng mù mịt; hai bạn chỉ quan sát, vẻ lo lắng",
+   "am_thanh": "đại bác nổ, sóng, gió",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh thuốc phiện kéo dài đến năm 1842. Kết cục, chính quyền Mãn Thanh phải kí Hiệp ước Nam Kinh, đầu hàng và chấp nhận những điều khoản có lợi cho thực dân Anh.",
+     "The Opium War lasted until 1842. In the end, the Qing government had to sign the Treaty of Nanjing, surrendering and accepting terms that favoured the British."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "HIỆP ƯỚC NAM KINH",
+   "y": [
+    "Mở năm cửa biển cho thương nhân Anh vào buôn bán",
+    "Bồi thường chiến tranh",
+    "Nhượng cho Anh vùng đất Hồng Công"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo Hiệp ước Nam Kinh, Trung Quốc phải mở năm cửa biển cho thương nhân Anh vào buôn bán.",
+     "Under the Treaty of Nanjing, China had to open five seaports to British traders."
+    ],
+    [
+     "Nhật Minh",
+     "Phải bồi thường chiến tranh.",
+     "It had to pay war reparations."
+    ],
+    [
+     "Hân Hân",
+     "Và phải nhượng cho Anh vùng đất Hồng Công.",
+     "And it had to cede Hong Kong to Britain."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Hiệp ước Nam Kinh, Trung Quốc phải nhượng cho Anh vùng đất nào?",
+    "lua_chon": [
+     "Sơn Đông",
+     "Hồng Công",
+     "Vân Nam"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Theo Hiệp ước Nam Kinh, Trung Quốc phải nhượng cho Anh vùng đất nào?",
+     "Pause! Under the Treaty of Nanjing, which territory did China cede to Britain?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Hồng Công!",
+     "The answer is B: Hong Kong!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Nửa sau thế kỉ XIX",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "CÁC NƯỚC ĐẾ QUỐC XÂU XÉ TRUNG QUỐC",
+   "y": [
+    "Đức: vùng Sơn Đông",
+    "Anh: vùng châu thổ sông Dương Tử",
+    "Nga, Nhật Bản: vùng Đông Bắc",
+    "Pháp: vùng Vân Nam, Quảng Tây, Quảng Đông"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nửa sau thế kỉ XIX, các nước đế quốc từng bước nhảy vào xâu xé Trung Quốc. Đức chiếm vùng Sơn Đông.",
+     "In the second half of the 19th century, the imperialist powers moved in step by step to carve up China. Germany took Shandong."
+    ],
+    [
+     "Hân Hân",
+     "Anh chiếm vùng châu thổ sông Dương Tử.",
+     "Britain took the Yangtze delta."
+    ],
+    [
+     "Nhật Minh",
+     "Nga và Nhật Bản chiếm vùng Đông Bắc.",
+     "Russia and Japan took the Northeast."
+    ],
+    [
+     "Hân Hân",
+     "Còn Pháp chiếm vùng Vân Nam, Quảng Tây, Quảng Đông.",
+     "And France took Yunnan, Guangxi and Guangdong."
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nước đế quốc nào chiếm vùng Sơn Đông của Trung Quốc?",
+    "lua_chon": [
+     "Anh",
+     "Pháp",
+     "Đức"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử trí nhớ nhé! Nước nào chiếm vùng Sơn Đông?",
+     "Memory test! Which power took Shandong?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Đức!",
+     "The answer is C: Germany!"
+    ]
+   ],
+   "nguon_trang": [
+    62
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu năm 1901: lễ kí Hiệp ước Tân Sửu giữa nhà Thanh và các nước đế quốc",
+    "tim": "Boxer Protocol signing 1901 photograph",
+    "yeu_cau": "ảnh chụp năm 1901, phạm vi công cộng, ghi nguồn; không vẽ lại bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: lễ kí Hiệp ước Tân Sửu, năm 1901",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1901, sau khi kí Hiệp ước Tân Sửu với các nước đế quốc, Trung Quốc trở thành một nước phong kiến, nửa thuộc địa.",
+     "In 1901, after signing the Boxer Protocol with the imperialist powers, China became a semi-feudal, semi-colonial country."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRUNG QUỐC BỊ XÂU XÉ",
+   "moc": [
+    [
+     "1840 – 1842",
+     "Chiến tranh thuốc phiện; kết cục: Hiệp ước Nam Kinh"
+    ],
+    [
+     "Nửa sau thế kỉ XIX",
+     "Đức, Anh, Nga, Nhật Bản, Pháp chia nhau xâu xé"
+    ],
+    [
+     "1901",
+     "Hiệp ước Tân Sửu: nước phong kiến, nửa thuộc địa"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhìn lại nhé: từ năm 1840 đến năm 1842 là Chiến tranh thuốc phiện, kết thúc bằng Hiệp ước Nam Kinh.",
+     "Looking back: from 1840 to 1842 came the Opium War, ending with the Treaty of Nanjing."
+    ],
+    [
+     "Hân Hân",
+     "Nửa sau thế kỉ XIX, các nước đế quốc chia nhau xâu xé. Năm 1901, Hiệp ước Tân Sửu biến Trung Quốc thành nước phong kiến, nửa thuộc địa.",
+     "In the late 19th century, the powers carved China up. In 1901, the Boxer Protocol made China semi-feudal and semi-colonial."
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    63
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại cảng biển hôm nay lúc đã lên đèn: Nhật Minh và Hân Hân ngồi trên bậc kè, Hân Hân giơ điện thoại có hình bản đồ châu Á về phía người xem",
+   "am_thanh": "sóng vỗ, còi tàu xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi khó cho cậu: thuốc phiện chỉ là cái cớ. Vậy theo cậu, thực chất của Chiến tranh thuốc phiện là gì? Bình luận nhé!",
+     "A tough one: the opium was just a pretext. So what do you think the Opium War was really about? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    63
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thực dân Anh lấy cớ gì để gây chiến với Trung Quốc năm 1840?",
+   "dap_an": [
+    "Nhà Thanh tịch thu và thiêu huỷ thuốc phiện của thương nhân Anh",
+    "Nhà Thanh ra Sắc lệnh Quốc hữu hoá đường sắt",
+    "Nhà Thanh từ chối kí Hiệp ước Tân Sửu",
+    "Nhà Thanh chiếm Hồng Công"
+   ],
+   "dung": 0,
+   "trang": 62
+  },
+  {
+   "hoi": "Hiệp ước Nam Kinh quy định Trung Quốc phải mở bao nhiêu cửa biển cho thương nhân Anh?",
+   "dap_an": [
+    "Ba cửa biển",
+    "Năm cửa biển",
+    "Bảy cửa biển",
+    "Mười cửa biển"
+   ],
+   "dung": 1,
+   "trang": 62
+  },
+  {
+   "hoi": "Vùng Đông Bắc Trung Quốc bị những nước nào chiếm?",
+   "dap_an": [
+    "Anh, Pháp",
+    "Đức, Anh",
+    "Nga, Nhật Bản",
+    "Pháp, Đức"
+   ],
+   "dung": 2,
+   "trang": 62
+  },
+  {
+   "hoi": "Sau khi kí hiệp ước nào, Trung Quốc trở thành một nước phong kiến, nửa thuộc địa?",
+   "dap_an": [
+    "Hiệp ước Nam Kinh",
+    "Hiệp ước Tân Sửu",
+    "Hoà ước Pa-ri",
+    "Sắc lệnh Quốc hữu hoá đường sắt"
+   ],
+   "dung": 1,
+   "trang": 63
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 8 tr. 62 (Chiến tranh thuốc phiện 1840 – 1842, Hiệp ước Nam Kinh, các nước xâu xé nửa sau thế kỉ XIX), tr. 63 (Hiệp ước Tân Sửu 1901; Hình 14.1). Danh mục: bỏ ý 'Hiệp ước Nam Kinh là hiệp ước bất bình đẳng đầu tiên' và 'mở đầu cho sự xâm lược' vì SGK không nêu; thay bằng các điều khoản của Hiệp ước theo SGK. SGK không ghi năm kí Hiệp ước Nam Kinh nên kịch bản chỉ nói 'kết cục' của cuộc chiến. Hình 14.1 là lược đồ vùng ảnh hưởng (không phải trận đánh, chiến dịch hay tuyến đường) và chạm Biển Đông; dùng thẻ ghi nhớ thay bản đồ. Phương án nhiễu Hoà ước Pa-ri (Bài 1, tr. 10) và Sắc lệnh Quốc hữu hoá đường sắt (tr. 63) lấy từ SGK.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

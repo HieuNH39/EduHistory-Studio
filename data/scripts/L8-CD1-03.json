@@ -1,0 +1,530 @@
+{
+ "ma": "L8-CD1-03",
+ "ten_tap": "Sông Cửu Long: Sống chung với lũ",
+ "ten_tap_en": "The Mekong: Living with the Floods",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 1. Văn minh châu thổ sông Hồng và sông Cửu Long",
+  "trang": [
+   157,
+   158,
+   160,
+   161
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-nam-bo",
+  "minh-mang",
+  "cu-dan-phu-nam"
+ ],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, sông nước miền Tây (đàn kìm, đàn tranh), khoáng đạt ở cảnh mùa lũ, chắc khoẻ ở cảnh đào kênh, kết ấm áp, tự hào",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của vua Minh Mạng mang tính tái hiện; hình ảnh minh hoạ; bản đồ định vị vẽ bằng code, có quần đảo Hoàng Sa, Trường Sa. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 1, tr. 157–161.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Bình minh trên một chợ nổi miền Tây hôm nay: hàng chục ghe xuồng chở đầy trái cây, rau củ neo san sát trên dòng sông rộng, cây bẹo treo hàng hoá, người mua bán gọi nhau; Nhật Minh và Hân Hân ngồi trên một chiếc xuồng nhỏ, cầm ly nước mía",
+   "am_thanh": "tiếng máy ghe, tiếng mua bán, sóng nước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chợ họp ngay trên sông luôn! Đây là một cách người dân Đồng bằng sông Cửu Long thích ứng với môi trường sông nước.",
+     "The market is right on the river! It's one way people of the Mekong Delta have adapted to life on the water."
+    ],
+    [
+     "Nhật Minh",
+     "Ở đây không có hệ thống đê lớn như sông Hồng. Vậy người dân sống chung với lũ ra sao? Cùng tìm hiểu nhé!",
+     "There's no big dyke system here like on the Red River. So how do people live with the floods? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    158,
+    161
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "sa_ban",
+   "sa_ban": "chau-tho-cuu-long",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Bản đồ định vị Việt Nam (có quần đảo Hoàng Sa, Trường Sa) thu dần vào châu thổ sông Cửu Long với sông Tiền, sông Hậu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hệ thống sông Mê Công là một trong những hệ thống sông lớn ở châu Á và thế giới. Phần chảy trên lãnh thổ Việt Nam là sông Cửu Long, dài hơn 230 ki-lô-mét, với hai nhánh chính là sông Tiền và sông Hậu.",
+     "The Mekong is one of the great river systems of Asia and the world. Its stretch in Việt Nam, the Cửu Long, runs over 230 kilometres, with two main branches: the Tiền and the Hậu."
+    ],
+    [
+     "Hân Hân",
+     "Đồng bằng châu thổ sông Cửu Long là đồng bằng châu thổ lớn nhất nước ta, rộng hơn 40 nghìn ki-lô-mét vuông, gồm cả bán đảo Cà Mau.",
+     "The Mekong Delta is our country's largest delta, over 40 thousand square kilometres, including the Cà Mau peninsula."
+    ]
+   ],
+   "nguon_trang": [
+    157
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "SÔNG CỬU LONG",
+   "y": [
+    "Tổng lượng dòng chảy khoảng 507 tỉ m³/năm, chiếm 60,4% tổng lượng nước sông ngòi Việt Nam",
+    "Hàm lượng phù sa không cao nhưng tổng lượng phù sa rất lớn",
+    "Hai nhánh chính sông Tiền, sông Hậu cùng hệ thống kênh rạch chằng chịt"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tổng lượng dòng chảy của hệ thống sông Cửu Long đạt 507 tỉ mét khối mỗi năm, chiếm 60,4 phần trăm tổng lượng nước của tất cả sông ngòi Việt Nam.",
+     "The Cửu Long system carries 507 billion cubic metres a year, 60.4 percent of all the water in Việt Nam's rivers."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thế, tuy hàm lượng phù sa không cao, tổng lượng phù sa của sông vẫn rất lớn.",
+     "So although its silt content is not high, the total amount of silt is still huge."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    157
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "chau-tho-cuu-long",
+   "pha": "mua_lu",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Bản đồ: vùng ngập lũ chủ yếu ở Đồng Tháp Mười và Tứ giác Long Xuyên được khoanh dần",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Do không có hệ thống đê ven sông như ở châu thổ sông Hồng, khi mùa lũ đến, nước sông dâng tràn ngập một vùng rộng khoảng 10 nghìn ki-lô-mét vuông,",
+     "Without riverside dykes like the Red River Delta's, flood water spreads over an area of about 10 thousand square kilometres,"
+    ],
+    [
+     "Hân Hân",
+     "chủ yếu ở Đồng Tháp Mười và Tứ giác Long Xuyên, bồi đắp phù sa cho bề mặt châu thổ.",
+     "mainly in Đồng Tháp Mười and the Long Xuyên Quadrangle, laying fresh silt over the delta."
+    ]
+   ],
+   "nguon_trang": [
+    158
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "tieu_de": "CHẾ ĐỘ NƯỚC SÔNG CỬU LONG",
+   "y": [
+    "Đơn giản và điều hoà, chia hai mùa",
+    "Mùa lũ: 5 tháng (tháng 7 – tháng 11), khoảng 80% lưu lượng cả năm; lũ lên và rút đều chậm",
+    "Mùa cạn: 7 tháng (tháng 12 – tháng 6 năm sau), khoảng 20% lưu lượng",
+    "Vùng hạ lưu chịu tác động rất mạnh của thuỷ triều"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Chế độ nước sông Cửu Long đơn giản và điều hoà, chia thành hai mùa.",
+     "The Cửu Long's water regime is simple and even, with two seasons."
+    ],
+    [
+     "Nhật Minh",
+     "Mùa lũ dài 5 tháng, từ tháng 7 đến tháng 11, chiếm khoảng 80 phần trăm lưu lượng cả năm. Lũ lên và rút đều diễn ra chậm.",
+     "The flood season lasts 5 months, July to November, with about 80 percent of the year's flow. Floods rise and fall slowly."
+    ],
+    [
+     "Hân Hân",
+     "Mùa cạn dài 7 tháng, từ tháng 12 đến tháng 6 năm sau, chiếm khoảng 20 phần trăm. Đặc biệt, vùng hạ lưu chịu tác động rất mạnh của thuỷ triều.",
+     "The dry season lasts 7 months, December to June, with about 20 percent. And the lower delta is strongly affected by the tides."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    158
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "chau-tho-cuu-long",
+   "pha": "ton_le_sap",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Bản đồ: hồ Tôn-lê Sáp (Cam-pu-chia) và dòng Mê Công chảy về châu thổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao lũ lên và rút chậm? Vì lưu vực sông Mê Công dài, có dạng lông chim, và nước lũ được điều tiết bởi hồ Tôn-lê Sáp ở Cam-pu-chia.",
+     "Why do floods rise and fall slowly? Because the Mekong basin is long and feather-shaped, and flood water is regulated by Tonle Sap lake in Cambodia."
+    ]
+   ],
+   "nguon_trang": [
+    158
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mùa lũ của sông Cửu Long kéo dài từ tháng nào đến tháng nào?",
+    "lua_chon": [
+     "Tháng 6 đến tháng 10",
+     "Tháng 7 đến tháng 11",
+     "Tháng 12 đến tháng 6"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mùa lũ của sông Cửu Long kéo dài từ tháng nào đến tháng nào?",
+     "Pause! When does the Mekong's flood season run?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: từ tháng 7 đến tháng 11. Còn sông Hồng thì từ tháng 6 đến tháng 10 đấy!",
+     "The answer is B: July to November. The Red River's runs from June to October!"
+    ]
+   ],
+   "nguon_trang": [
+    156,
+    158
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng trên bờ biển vùng bán đảo Cà Mau hôm nay, phía trước là rừng ngập mặn và một đoạn bờ đất bị sóng xói lở, rễ cây trơ ra; trời gió",
+   "am_thanh": "sóng biển, gió",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước đây, hằng năm châu thổ sông Cửu Long tiến ra biển ở khu vực bán đảo Cà Mau tới hàng trăm mét.",
+     "In the past, the delta advanced into the sea around the Cà Mau peninsula by hundreds of metres a year."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng hiện nay, do biến đổi khí hậu, nước biển dâng và phù sa trong nước sông giảm, nhiều nơi ven biển của châu thổ bị sạt lở.",
+     "But now, due to climate change, rising seas and less silt in the river, many coastal stretches of the delta are eroding."
+    ]
+   ],
+   "nguon_trang": [
+    158
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ I",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Nam Bộ thời Vương quốc Phù Nam: những cánh đồng lúa nước rộng bên kênh rạch, nhà sàn, thuyền buôn tấp nập ở một thương cảng cổ, cư dân mặc trang phục cổ (theo tinh thần di tích văn hoá Óc Eo)",
+   "am_thanh": "nước chảy, tiếng thuyền buôn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vùng đất Nam Bộ sớm được khai khẩn và trở thành một trung tâm nông nghiệp lúa nước thời Vương quốc Phù Nam.",
+     "The southern lands were cleared early and became a wet-rice farming centre under the Kingdom of Funan."
+    ],
+    [
+     "Hân Hân",
+     "Gắn với văn hoá Óc Eo, Vương quốc Phù Nam đã để lại dấu ấn đặc sắc trong lịch sử Đông Nam Á từ thế kỉ I đến đầu thế kỉ VII.",
+     "Linked with the Óc Eo culture, Funan left a distinctive mark on Southeast Asian history from the 1st to the early 7th century."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [],
+   "hinh": "Vùng đất thấp Nam Bộ xưa bị nước mặn tràn vào: đầm lầy, rừng ngập mặn, ruộng bỏ hoang, không bóng người, trời u ám",
+   "am_thanh": "gió, nước mặn vỗ, chim kêu xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thế kỉ IV, ở Nam Bộ xuất hiện tình trạng biển tiến cục bộ, nước mặn dâng cao, làm toàn bộ vùng đất thấp bị ngập mặn, ảnh hưởng nghiêm trọng đến nghề trồng lúa.",
+     "By the 4th century, the sea advanced locally in the south; salt water rose and flooded the lowlands, badly hurting rice farming."
+    ],
+    [
+     "Hân Hân",
+     "Cho đến thế kỉ XIII, Nam Bộ vẫn còn là vùng đất tương đối hoang vu.",
+     "Until the 13th century, the south remained a fairly wild land."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "cu-dan-nam-bo"
+   ],
+   "hinh": "Từ thế kỉ XVII: những đoàn cư dân từ phía bắc chèo xuồng vào kênh rạch, cùng cư dân tại chỗ phát quang, đào kênh, dựng nhà, cấy lúa; trẻ em vui đùa bên bờ kênh",
+   "am_thanh": "tiếng cuốc, tiếng hò, nước chảy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ khoảng thế kỉ XVII, việc khai hoang, phục hoá được đẩy mạnh, nhiều dòng kênh lớn được đào và đưa vào khai thác.",
+     "From around the 17th century, land clearing sped up and many large canals were dug and put to use."
+    ],
+    [
+     "Nhật Minh",
+     "Các cộng đồng cư dân từ phía bắc cùng những nhóm cư dân có mặt từ trước đã sát cánh khai phá, phát triển Nam Bộ thành một trung tâm kinh tế của đất nước.",
+     "Settlers from the north worked side by side with the people already there, turning the south into one of the country's economic centres."
+    ]
+   ],
+   "nguon_trang": [
+    161
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "minh-mang",
+    "cu-dan-nam-bo"
+   ],
+   "hinh": "Đầu thế kỉ XIX: hàng nghìn dân phu đào một con kênh thẳng tắp xuyên qua vùng đất thấp, đất đắp hai bên bờ; trên lầu mát dựng tạm, một vị quan triều Nguyễn mở cuộn chiếu chỉ của vua Minh Mạng; khung cảnh xen hình ảnh vua Minh Mạng trong cung (vẽ theo tranh tư liệu) phê chuẩn",
+   "am_thanh": "tiếng cuốc xẻng, hò đào kênh",
+   "loi": [
+    [
+     "Minh Mạng",
+     "Kênh Vĩnh Tế phải được đào tiếp cho xong, nối liền Châu Đốc với Hà Tiên!",
+     "The Vĩnh Tế Canal must be finished, linking Châu Đốc with Hà Tiên!"
+    ],
+    [
+     "Nhật Minh",
+     "Kênh Vĩnh Tế dài gần 90 ki-lô-mét, nối liền Châu Đốc và Hà Tiên, hai trung tâm kinh tế lớn ở miền Tây Nam Bộ lúc bấy giờ.",
+     "The Vĩnh Tế Canal, nearly 90 kilometres long, linked Châu Đốc and Hà Tiên, two major economic centres of the southwest at the time."
+    ],
+    [
+     "Hân Hân",
+     "Kênh được đào từ đầu thế kỉ XIX, trải qua ba đời vua: Gia Long, Minh Mạng, Thiệu Trị.",
+     "It was dug from the early 19th century, over the reigns of three emperors: Gia Long, Minh Mạng and Thiệu Trị."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 14,
+   "lop": "sa_ban",
+   "sa_ban": "chau-tho-cuu-long",
+   "pha": "vinh_te",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Bản đồ: kênh Vĩnh Tế nối Châu Đốc – Hà Tiên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây cũng là công trình hiếm hoi được khắc trên Cửu đỉnh, một Bảo vật quốc gia.",
+     "It's also one of the rare works carved on the Nine Dynastic Urns, a National Treasure."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kênh Vĩnh Tế nối liền hai trung tâm kinh tế nào?",
+    "lua_chon": [
+     "Châu Đốc và Hà Tiên",
+     "Mỹ Tho và Cần Thơ",
+     "Hà Tiên và Cà Mau"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Kênh Vĩnh Tế nối liền hai trung tâm kinh tế nào?",
+     "Quick test! Which two economic centres did the Vĩnh Tế Canal connect?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Châu Đốc và Hà Tiên!",
+     "The answer is A: Châu Đốc and Hà Tiên!"
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại chợ nổi lúc trưa, phía sau là dãy nhà nổi trên bè gỗ dọc bờ sông, chậu hoa trước hiên, ghe xuồng qua lại",
+   "am_thanh": "sông nước, tiếng gọi hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuộc sống gần sông nước đã tạo nên một nền văn hoá đậm chất sông nước. Chợ nổi, nhà nổi là những cách thích ứng độc đáo của cư dân nơi đây.",
+     "Life by the water created a culture steeped in rivers. Floating markets and floating houses are the locals' unique ways of adapting."
+    ],
+    [
+     "Nhật Minh",
+     "Nếu khai khẩn châu thổ sông Hồng gắn với đắp đê trị thuỷ, thì khai khẩn đồng bằng sông Cửu Long là quá trình thích ứng với tự nhiên.",
+     "If settling the Red River Delta meant building dykes to tame the river, settling the Mekong Delta meant adapting to nature."
+    ]
+   ],
+   "nguon_trang": [
+    160,
+    161
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Châu thổ sông Cửu Long lớn nhất nước ta, hơn 40 nghìn km²; sông Tiền, sông Hậu, kênh rạch chằng chịt",
+    "Mùa lũ tháng 7 – 11 (khoảng 80%), lũ lên và rút chậm; mùa cạn tháng 12 – 6; hạ lưu chịu tác động mạnh của thuỷ triều",
+    "Kênh Vĩnh Tế (gần 90 km) nối Châu Đốc – Hà Tiên, đào đầu thế kỉ XIX",
+    "Thích ứng với tự nhiên: chợ nổi, nhà nổi, văn hoá sông nước"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: châu thổ sông Cửu Long lớn nhất nước ta, với sông Tiền, sông Hậu và kênh rạch chằng chịt.",
+     "Remember: the Mekong Delta is our largest, with the Tiền and Hậu rivers and a dense web of canals."
+    ],
+    [
+     "Hân Hân",
+     "Mùa lũ từ tháng 7 đến tháng 11, lũ lên và rút chậm; vùng hạ lưu chịu tác động mạnh của thuỷ triều.",
+     "Floods come from July to November, rising and falling slowly; the lower delta feels strong tides."
+    ],
+    [
+     "Nhật Minh",
+     "Kênh Vĩnh Tế dài gần 90 ki-lô-mét, nối Châu Đốc với Hà Tiên.",
+     "The Vĩnh Tế Canal, nearly 90 kilometres long, links Châu Đốc and Hà Tiên."
+    ],
+    [
+     "Hân Hân",
+     "Và cư dân nơi đây thích ứng với tự nhiên bằng chợ nổi, nhà nổi, tạo nên văn hoá sông nước.",
+     "And people here adapted to nature with floating markets and houses, creating a river culture."
+    ]
+   ],
+   "nguon_trang": [
+    157,
+    158,
+    160,
+    161
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi trên xuồng lúc hoàng hôn, mặt sông vàng óng, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "sóng nước, tiếng côn trùng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: chế độ nước của sông Hồng và sông Cửu Long khác nhau như thế nào? Nêu hai điểm khác nhau ở phần bình luận nhé!",
+     "Your challenge: how do the water regimes of the Red River and the Mekong differ? Name two differences in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    161
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đồng bằng châu thổ sông Cửu Long có diện tích khoảng bao nhiêu?",
+   "dap_an": [
+    "Khoảng 15 nghìn km²",
+    "Hơn 40 nghìn km²",
+    "Khoảng 10 nghìn km²",
+    "Hơn 100 nghìn km²"
+   ],
+   "dung": 1,
+   "trang": 157
+  },
+  {
+   "hoi": "Vì sao lũ sông Cửu Long lên và rút chậm?",
+   "dap_an": [
+    "Vì có hệ thống đê cao hai bên bờ",
+    "Vì lưu vực dài, dạng lông chim và được hồ Tôn-lê Sáp điều tiết",
+    "Vì sông rất ngắn",
+    "Vì không có thuỷ triều"
+   ],
+   "dung": 1,
+   "trang": 158
+  },
+  {
+   "hoi": "Kênh Vĩnh Tế được đào qua mấy đời vua triều Nguyễn?",
+   "dap_an": [
+    "Một",
+    "Hai",
+    "Ba",
+    "Bốn"
+   ],
+   "dung": 2,
+   "trang": 160
+  },
+  {
+   "hoi": "Hình thức nào là cách thích ứng với môi trường sông nước của cư dân Đồng bằng sông Cửu Long?",
+   "dap_an": [
+    "Đắp đê quai vạc",
+    "Chợ nổi, nhà nổi",
+    "Ruộng bậc thang",
+    "Thổ nhô"
+   ],
+   "dung": 1,
+   "trang": 161
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8, Chủ đề chung 1, tr. 157 (khái quát sông Mê Công, Cửu Long hơn 230 km, châu thổ hơn 40 nghìn km², 507 tỉ m³/năm, 60,4%), tr. 158 (không có đê, ngập khoảng 10 000 km² ở Đồng Tháp Mười, Tứ giác Long Xuyên; tiến ra biển, sạt lở hiện nay; chế độ nước, hồ Tôn-lê Sáp, thuỷ triều), tr. 160 (Phù Nam, Óc Eo; biển tiến thế kỉ IV; hoang vu đến thế kỉ XIII; Em có biết về kênh Vĩnh Tế; thích ứng với tự nhiên), tr. 161 (khai hoang từ thế kỉ XVII, chợ nổi, nhà nổi; câu hỏi vận dụng). Danh mục: kiến thức chốt khớp SGK; mô tả 'kênh Vĩnh Tế là công trình tiêu biểu thời Nguyễn' giữ đúng ý SGK (đào qua ba đời vua, được khắc trên Cửu đỉnh). Lời vua Minh Mạng là lời dựng, chỉ diễn đạt nội dung SGK (kênh nối Châu Đốc – Hà Tiên, đào qua nhiều đời vua). Bản đồ 'chau-tho-cuu-long' là bản đồ định vị vẽ bằng code, vùng ngập lũ chỉ khoanh vị trí; có quần đảo Hoàng Sa, Trường Sa.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

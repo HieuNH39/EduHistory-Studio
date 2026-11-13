@@ -10,12 +10,12 @@ EU = {
  "vung_mau": g.dat([-30, 25, 70, 75]),
  "dia_danh": [
   {"ten": "Xta-lin-grát", "vi_tri": P(44.5, 48.7), "kieu": "diem", "nhan": P(48.6, 49.6), "dam": True},
-  {"ten": "Mát-xcơ-va", "vi_tri": P(37.6, 55.75), "kieu": "diem", "nhan": P(37.6, 56.6)},
+  {"ten": "Mát-xcơ-va", "vi_tri": P(37.6, 55.75), "kieu": "diem", "nhan": P(40.6, 55.2)},
   {"ten": "Béc-lin", "vi_tri": P(13.4, 52.5), "kieu": "diem", "nhan": P(13.4, 53.4), "dam": True},
   {"ten": "Noóc-măng-đi", "vi_tri": P(-0.6, 49.3), "kieu": "diem", "nhan": P(-3.6, 48.3), "dam": True},
   {"ten": "Pa-ri", "vi_tri": P(2.35, 48.86), "kieu": "diem", "nhan": P(3.6, 48.2)},
   {"ten": "Luân Đôn", "vi_tri": P(-0.12, 51.5), "kieu": "diem", "nhan": P(-1.6, 52.2)},
-  {"ten": "LIÊN XÔ", "vi_tri": P(42, 58.5), "lon": True}, {"ten": "ĐỨC", "vi_tri": P(10.5, 50.8), "lon": True},
+  {"ten": "LIÊN XÔ", "vi_tri": P(33, 55.5), "lon": True}, {"ten": "ĐỨC", "vi_tri": P(10.5, 50.8), "lon": True},
   {"ten": "PHÁP", "vi_tri": P(3.2, 46.6), "lon": True}, {"ten": "ANH", "vi_tri": P(-2.0, 54.2), "lon": True}
  ],
  "chu_giai": [{"loai": "mui_ten_ta", "nhan": "Quân Đồng minh phản công"}, {"loai": "rut_chay", "nhan": "Quân phát xít rút chạy"}, {"loai": "sao", "nhan": "Thắng lợi quyết định"}],

@@ -1,0 +1,561 @@
+{
+ "ma": "L8-B7-02",
+ "ten_tap": "Những thủ lĩnh áo vải lừng danh",
+ "ten_tap_en": "Famous Peasant Leaders of the 18th Century",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 7. Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+  "trang": [
+   31,
+   32,
+   33,
+   34
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hoang-cong-chat",
+  "nguyen-danh-phuong",
+  "nguyen-huu-cau",
+  "nghia-quan-nong-dan",
+  "nong-dan-dang-ngoai",
+  "quan-trinh"
+ ],
+ "nhac": {
+  "tam_trang": "mộc mạc, dân gian (sáo, trống cơm) ở đầu; hào hùng ở các cảnh khởi nghĩa; trầm lắng khi kể kết cục; kết tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 7, tr. 31–34.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác, ba lô) đứng trước đền thờ nhỏ mái ngói đỏ trong khu Di tích Thành Bản Phủ ở tỉnh Điện Biên hôm nay: tường thành đất phủ cỏ, cổng đá, cây cổ thụ, cánh đồng lúa Mường Thanh xanh rì phía xa",
+   "am_thanh": "gió cánh đồng, tiếng chim",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Di tích Thành Bản Phủ ở tỉnh Điện Biên, nơi có đền thờ Hoàng Công Chất.",
+     "This is the Bản Phủ Citadel relic in Điện Biên province, home to a temple honouring Hoàng Công Chất."
+    ],
+    [
+     "Nhật Minh",
+     "Ông là một trong những thủ lĩnh nông dân lừng danh ở Đàng Ngoài thế kỉ XVIII. Hôm nay mình gặp ông và hai thủ lĩnh khác nữa nhé!",
+     "He was one of the famous peasant leaders of 18th-century Đàng Ngoài. Today we'll meet him and two other leaders!"
+    ]
+   ],
+   "nguon_trang": [
+    31,
+    33
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVIII",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-dang-ngoai"
+   ],
+   "hinh": "Khung hình chia đôi: bên trái, trong phủ chúa đèn đuốc sáng trưng, mâm cao cỗ đầy, ca múa tưng bừng; bên phải, cánh đồng nứt nẻ, đê vỡ, nhà ngập nước, người nông dân gầy gò dắt díu nhau đi tìm cái ăn",
+   "am_thanh": "nhạc yến tiệc lẫn với gió hoang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giữa thế kỉ XVIII, chính quyền Đàng Ngoài khủng hoảng sâu sắc. Vua Lê chỉ còn là “cái bóng mờ”, phủ chúa giữ mọi quyền hành, quanh năm hội hè, yến tiệc.",
+     "In the mid-18th century, the government of Đàng Ngoài was in deep crisis. The Lê king was just 'a faint shadow'; the lord's palace held all power and feasted all year round."
+    ],
+    [
+     "Hân Hân",
+     "Còn nông dân thì bị lấn chiếm ruộng đất, mất mùa liên tiếp, đê sông Hồng, sông Mã nhiều năm bị vỡ. Cuộc sống khó khăn mọi mặt thúc đẩy họ vùng lên khởi nghĩa.",
+     "Farmers lost their land, harvests failed year after year, and the Red and Mã River dykes kept bursting. Hardship on every front drove them to rise up."
+    ]
+   ],
+   "nguon_trang": [
+    31,
+    32
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "nong-dan-dang-ngoai",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn Việt Nam (có quần đảo Hoàng Sa, Trường Sa) thu dần vào Đàng Ngoài; lửa khởi nghĩa bùng lên ở nhiều trấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa thế kỉ XVIII, phong trào nông dân Đàng Ngoài bùng nổ ở khắp các trấn đồng bằng và vùng Thanh – Nghệ.",
+     "In the mid-18th century, the peasant movement exploded across the delta provinces and the Thanh – Nghệ region."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay mình theo chân ba cuộc khởi nghĩa tiêu biểu: của Hoàng Công Chất, Nguyễn Danh Phương và Nguyễn Hữu Cầu.",
+     "Today we'll follow three notable uprisings: those of Hoàng Công Chất, Nguyễn Danh Phương and Nguyễn Hữu Cầu."
+    ]
+   ],
+   "nguon_trang": [
+    31,
+    32
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "hoang-cong-chat",
+    "nghia-quan-nong-dan"
+   ],
+   "hinh": "Sân đình làng vùng đồng bằng Sơn Nam lúc chạng vạng: Hoàng Công Chất (vẽ theo tượng thờ: trung niên, khăn vấn, áo nâu, dáng cương nghị) đứng trên bậc đình, giơ tay kêu gọi; những người nông dân nghèo áo vá, cầm gậy tầm vông, giáo tre tụ họp đông dần",
+   "am_thanh": "trống đình, tiếng người xôn xao",
+   "loi": [
+    [
+     "Hoàng Công Chất",
+     "Bà con nghèo khổ ơi! Không thể cam chịu mãi, hãy cùng ta đứng lên!",
+     "Poor folk, friends! We can't bear this forever. Rise up with me!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1739, Hoàng Công Chất tập hợp dân nghèo ở trấn Sơn Nam khởi nghĩa.",
+     "In 1739, Hoàng Công Chất gathered the poor of Sơn Nam province and rose in revolt."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "nong-dan-dang-ngoai",
+   "pha": "hoang_cong_chat",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn: nghĩa quân Hoàng Công Chất từ Sơn Nam mở rộng lên thượng du Thanh Hoá, rồi rút lên xây dựng căn cứ Mường Thanh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân mở rộng hoạt động lên vùng thượng du Thanh Hoá, rồi rút lên xây dựng căn cứ ở Mường Thanh, nay thuộc tỉnh Điện Biên.",
+     "The rebels spread into the uplands of Thanh Hoá, then withdrew to build a base at Mường Thanh, in today's Điện Biên province."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "hoang-cong-chat",
+    "nghia-quan-nong-dan"
+   ],
+   "hinh": "Cánh đồng lòng chảo Mường Thanh rộng lớn giữa núi rừng Tây Bắc: Hoàng Công Chất cùng nghĩa quân và người dân các dân tộc Tây Bắc (trang phục truyền thống) cùng dựng luỹ, cày cấy; trẻ em chạy theo, không khí yên bình",
+   "am_thanh": "khèn, gió núi, tiếng cười",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở đây, nghĩa quân được nhân dân Tây Bắc hết lòng ủng hộ. Hoàng Công Chất có công bảo vệ vùng biên giới và giúp dân ổn định cuộc sống.",
+     "Here the rebels had the wholehearted support of the people of the Northwest. Hoàng Công Chất helped protect the border region and brought stability to people's lives."
+    ],
+    [
+     "Hân Hân",
+     "Sau khi ông mất, con trai ông tiếp tục chỉ huy. Cuộc khởi nghĩa kéo dài đến năm 1769 thì bị dập tắt.",
+     "After his death, his son took command. The uprising lasted until 1769, when it was crushed."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hoàng Công Chất xây dựng căn cứ ở đâu?",
+    "lua_chon": [
+     "Tam Đảo",
+     "Mường Thanh",
+     "Đồ Sơn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hoàng Công Chất xây dựng căn cứ ở đâu?",
+     "Pause! Where did Hoàng Công Chất build his base?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Mường Thanh, nay thuộc tỉnh Điện Biên!",
+     "The answer is B: Mường Thanh, now in Điện Biên province!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-danh-phuong",
+    "nghia-quan-nong-dan"
+   ],
+   "hinh": "Núi rừng Tam Đảo mây phủ: Nguyễn Danh Phương (vẽ theo tranh tư liệu: dáng nho nhã mà rắn rỏi, khăn đóng, áo dài nâu, đeo gươm) đứng trước doanh trại nghĩa quân dựng trên sườn núi, chỉ tay về phía đồng bằng; cờ nghĩa quân bay",
+   "am_thanh": "gió núi, tiếng hô luyện quân",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1740, Nguyễn Danh Phương tập hợp nghĩa quân, xây dựng căn cứ ở Tam Đảo, nay thuộc tỉnh Phú Thọ.",
+     "In 1740, Nguyễn Danh Phương gathered rebels and built a base at Tam Đảo, now in Phú Thọ province."
+    ],
+    [
+     "Nguyễn Danh Phương",
+     "Từ núi Tam Đảo, ta sẽ tiến ra khắp các trấn!",
+     "From Tam Đảo we will push out across the provinces!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "nong-dan-dang-ngoai",
+   "pha": "nguyen_danh_phuong",
+   "thoi_luong_toi_thieu": 11,
+   "hinh": "Sa bàn: căn cứ Tam Đảo, các mũi tên mở rộng ra Sơn Tây, Thái Nguyên, Tuyên Quang",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghĩa quân mở rộng hoạt động ra các trấn Sơn Tây, Thái Nguyên, Tuyên Quang. Uy thế ngày một lên cao.",
+     "The rebels spread into Sơn Tây, Thái Nguyên and Tuyên Quang, and their strength kept growing."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng năm 1751, trước sự tấn công ồ ạt của quân Trịnh, Nguyễn Danh Phương bị bắt. Khởi nghĩa thất bại.",
+     "But in 1751, under a massive Trịnh assault, Nguyễn Danh Phương was captured. The uprising failed."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "nguyen-huu-cau"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) ngồi nép sau mỏm đá trên bờ biển Đồ Sơn thế kỉ XVIII, sóng bạc đầu; ngoài khơi, một người đàn ông vạm vỡ đang bơi băng băng giữa sóng lớn về phía những chiếc thuyền nghĩa quân",
+   "am_thanh": "sóng lớn, gió biển, tiếng hò reo từ thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn kìa! Người đang bơi giữa sóng lớn chính là Nguyễn Hữu Cầu đấy.",
+     "Look! The man swimming through those big waves is Nguyễn Hữu Cầu."
+    ],
+    [
+     "Nhật Minh",
+     "Ông bơi lội rất giỏi, nên người dân ví ông với cá he, một loài cá có sức mạnh và không bao giờ làm hại người đi biển. Vì thế ông còn được gọi là Quận He!",
+     "He was such a strong swimmer that people compared him to the 'he' fish, a powerful fish that never harms seafarers. That's why he was called Quận He!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-huu-cau",
+    "nghia-quan-nong-dan"
+   ],
+   "hinh": "Nguyễn Hữu Cầu (vẽ theo tranh tư liệu: vạm vỡ, da rám nắng, khăn quấn đầu, áo cộc, tay cầm giáo) đứng trên mũi thuyền nghĩa quân giữa vùng biển nhiều đảo đá, phía sau là đoàn thuyền và nghĩa quân giương cờ",
+   "am_thanh": "sóng, mái chèo, tiếng hô",
+   "loi": [
+    [
+     "Nguyễn Hữu Cầu",
+     "Anh em! Tiến lên Kinh Bắc, cho phủ chúa biết sức mạnh của chúng ta!",
+     "Brothers! On to Kinh Bắc, and let the lord's palace feel our strength!"
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1741, địa bàn hoạt động chính của nghĩa quân Nguyễn Hữu Cầu là ở Đồ Sơn, nay thuộc thành phố Hải Phòng, và Vân Đồn, nay thuộc tỉnh Quảng Ninh.",
+     "From 1741, Nguyễn Hữu Cầu's rebels operated mainly around Đồ Sơn, now in Hải Phòng city, and Vân Đồn, now in Quảng Ninh province."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 13,
+   "lop": "sa_ban",
+   "sa_ban": "nong-dan-dang-ngoai",
+   "pha": "nguyen_huu_cau",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn: căn cứ Đồ Sơn, Vân Đồn; mũi tên đánh lên Kinh Bắc, hướng về Thăng Long; rồi xuống Sơn Nam, vào Thanh Hoá, Nghệ An",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau đó, nghĩa quân đánh lên Kinh Bắc, uy hiếp kinh thành Thăng Long, rồi mở rộng hoạt động xuống trấn Sơn Nam, vào Thanh Hoá, Nghệ An.",
+     "Then the rebels struck north to Kinh Bắc, threatening the capital Thăng Long, before spreading south to Sơn Nam, Thanh Hoá and Nghệ An."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc khởi nghĩa được nhân dân ủng hộ đông đảo và gây cho quân Trịnh nhiều phen khốn đốn. Nhưng năm 1751, quân Trịnh tấn công dồn dập, khởi nghĩa thất bại.",
+     "The uprising had broad popular support and gave the Trịnh army plenty of trouble. But in 1751, relentless Trịnh attacks defeated it."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Nguyễn Hữu Cầu còn được gọi là Quận He?",
+    "lua_chon": [
+     "Vì ông bơi lội rất giỏi",
+     "Vì ông quê ở làng He",
+     "Vì ông làm nghề đánh cá he"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Vì sao Nguyễn Hữu Cầu còn được gọi là Quận He?",
+     "Quick test! Why was Nguyễn Hữu Cầu also called Quận He?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vì ông bơi lội rất giỏi, được người dân ví với cá he!",
+     "The answer is A: because he swam so well that people likened him to the 'he' fish!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nong-dan-dang-ngoai"
+   ],
+   "hinh": "Những người nông dân Đàng Ngoài trở về làng cũ, dựng lại nhà, khai hoang đồng ruộng dưới bầu trời hửng sáng; phía xa, bóng phủ chúa uy nghi nhưng có vết nứt chạy dọc tường (hình ảnh ẩn dụ)",
+   "am_thanh": "nhạc trầm lắng chuyển dần sang hi vọng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phong trào nông dân Đàng Ngoài kéo dài hàng chục năm nhưng cuối cùng đều thất bại. Nhiều thủ lĩnh bị bắt, bị xử tử.",
+     "The peasant movement in Đàng Ngoài lasted decades but ultimately failed. Many leaders were captured and executed."
+    ],
+    [
+     "Hân Hân",
+     "Dù vậy, phong trào thể hiện ý chí đấu tranh chống áp bức, bất công, buộc chúa Trịnh phải khuyến khích khai hoang, đưa nông dân lưu tán về quê làm ăn.",
+     "Even so, it showed the will to fight oppression and injustice, and forced the Trịnh lords to encourage land clearing and bring displaced farmers home."
+    ],
+    [
+     "Nhật Minh",
+     "Phong trào còn đẩy chính quyền Lê – Trịnh lún sâu vào khủng hoảng, chuẩn bị “mảnh đất” thuận lợi cho phong trào Tây Sơn phát triển ra Đàng Ngoài.",
+     "It also pushed the Lê – Trịnh regime deeper into crisis, preparing fertile 'ground' for the Tây Sơn movement to sweep into Đàng Ngoài."
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 16,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · BA THỦ LĨNH ÁO VẢI",
+   "moc": [
+    [
+     "1739",
+     "Hoàng Công Chất khởi nghĩa ở Sơn Nam"
+    ],
+    [
+     "1740",
+     "Nguyễn Danh Phương lập căn cứ Tam Đảo"
+    ],
+    [
+     "1741",
+     "Nguyễn Hữu Cầu khởi nghĩa (Đồ Sơn, Vân Đồn)"
+    ],
+    [
+     "1751",
+     "Khởi nghĩa Nguyễn Danh Phương, Nguyễn Hữu Cầu thất bại"
+    ],
+    [
+     "1769",
+     "Khởi nghĩa Hoàng Công Chất bị dập tắt"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1739, Hoàng Công Chất khởi nghĩa. Năm 1740, Nguyễn Danh Phương. Năm 1741, Nguyễn Hữu Cầu.",
+     "Recap! 1739: Hoàng Công Chất rises up. 1740: Nguyễn Danh Phương. 1741: Nguyễn Hữu Cầu."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1751, hai cuộc khởi nghĩa của Nguyễn Danh Phương và Nguyễn Hữu Cầu thất bại.",
+     "1751: the uprisings of Nguyễn Danh Phương and Nguyễn Hữu Cầu are defeated."
+    ],
+    [
+     "Hân Hân",
+     "Và năm 1769, khởi nghĩa Hoàng Công Chất bị dập tắt.",
+     "And in 1769, the Hoàng Công Chất uprising is crushed."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "Hoàng Công Chất (1739 – 1769): từ Sơn Nam lên căn cứ Mường Thanh (Điện Biên)",
+    "Nguyễn Danh Phương (1740 – 1751): căn cứ Tam Đảo, hoạt động ở Sơn Tây, Thái Nguyên, Tuyên Quang",
+    "Nguyễn Hữu Cầu – Quận He (1741 – 1751): Đồ Sơn, Vân Đồn; uy hiếp kinh thành Thăng Long",
+    "Thất bại nhưng thể hiện ý chí chống áp bức, chuẩn bị “mảnh đất” cho phong trào Tây Sơn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Hoàng Công Chất khởi nghĩa từ Sơn Nam, xây dựng căn cứ Mường Thanh.",
+     "Remember: Hoàng Công Chất rose in Sơn Nam and built his base at Mường Thanh."
+    ],
+    [
+     "Hân Hân",
+     "Nguyễn Danh Phương lập căn cứ Tam Đảo, hoạt động ở Sơn Tây, Thái Nguyên, Tuyên Quang.",
+     "Nguyễn Danh Phương based himself at Tam Đảo and fought across Sơn Tây, Thái Nguyên and Tuyên Quang."
+    ],
+    [
+     "Nhật Minh",
+     "Nguyễn Hữu Cầu, tức Quận He, hoạt động ở Đồ Sơn, Vân Đồn, từng uy hiếp kinh thành Thăng Long.",
+     "Nguyễn Hữu Cầu, known as Quận He, operated around Đồ Sơn and Vân Đồn and even threatened Thăng Long."
+    ],
+    [
+     "Hân Hân",
+     "Các cuộc khởi nghĩa thất bại, nhưng thể hiện ý chí chống áp bức và chuẩn bị “mảnh đất” cho phong trào Tây Sơn.",
+     "They failed, but showed the will to resist oppression and prepared the ground for the Tây Sơn movement."
+    ]
+   ],
+   "nguon_trang": [
+    33,
+    34
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại khu Di tích Thành Bản Phủ lúc hoàng hôn, cánh đồng Mường Thanh vàng rực phía sau; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "gió chiều, tiếng chuông xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: quê cậu có di tích hay lễ hội nào gắn với một thủ lĩnh khởi nghĩa nông dân thế kỉ XVIII không? Giới thiệu ngắn gọn ở phần bình luận nhé!",
+     "Your challenge: is there a relic or festival in your hometown linked to an 18th-century peasant leader? Tell us about it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    34
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vào giữa thế kỉ XVIII, phong trào nông dân Đàng Ngoài bùng nổ ở đâu?",
+   "dap_an": [
+    "Khắp các trấn đồng bằng và vùng Thanh – Nghệ",
+    "Chỉ ở vùng Tây Bắc",
+    "Chỉ ở kinh thành Thăng Long",
+    "Ở vùng Gia Định"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Căn cứ của nghĩa quân Nguyễn Danh Phương ở đâu?",
+   "dap_an": [
+    "Mường Thanh",
+    "Tam Đảo",
+    "Đồ Sơn",
+    "Vân Đồn"
+   ],
+   "dung": 1,
+   "trang": 33
+  },
+  {
+   "hoi": "Nghĩa quân của thủ lĩnh nào đã đánh lên Kinh Bắc, uy hiếp kinh thành Thăng Long?",
+   "dap_an": [
+    "Hoàng Công Chất",
+    "Nguyễn Danh Phương",
+    "Nguyễn Hữu Cầu",
+    "Lê Duy Mật"
+   ],
+   "dung": 2,
+   "trang": 33
+  },
+  {
+   "hoi": "Phong trào nông dân Đàng Ngoài đã buộc chúa Trịnh phải làm gì?",
+   "dap_an": [
+    "Khuyến khích khai hoang, đưa nông dân lưu tán về quê làm ăn",
+    "Nhường ngôi cho vua Lê",
+    "Bãi bỏ mọi loại thuế",
+    "Mở cửa buôn bán với phương Tây"
+   ],
+   "dung": 0,
+   "trang": 34
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 31 (bối cảnh), tr. 32 (bùng nổ khắp các trấn đồng bằng và Thanh – Nghệ; Hình 7.1 lược đồ), tr. 33 (bảng tóm tắt ba cuộc khởi nghĩa; Em có biết về Quận He; Hình 7.2 Di tích Thành Bản Phủ, đền thờ Hoàng Công Chất), tr. 34 (kết quả, ý nghĩa, tác động; câu hỏi vận dụng về di tích, lễ hội). Năm bắt đầu 1739, 1740, 1741 lấy theo cột thời gian của bảng tóm tắt. Danh mục: kiến thức chốt đúng SGK, bổ sung địa danh ngày nay đúng như SGK chú thích (Tam Đảo – tỉnh Phú Thọ; Đồ Sơn – thành phố Hải Phòng; Vân Đồn – tỉnh Quảng Ninh). Lời ba thủ lĩnh là lời dựng, không thêm sự kiện. Sa bàn 'nong-dan-dang-ngoai' vẽ lại, giản lược theo Hình 7.1 (pha mở đầu có quần đảo Hoàng Sa, Trường Sa); hướng mũi tên minh hoạ theo bảng tóm tắt tr. 33.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

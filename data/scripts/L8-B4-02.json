@@ -1,0 +1,336 @@
+{
+ "ma": "L8-B4-02",
+ "ten_tap": "Bản đồ thuộc địa: Ai đã đến đâu?",
+ "ten_tap_en": "The Colonial Map: Who Went Where?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 4. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+  "trang": [
+   19,
+   20,
+   21,
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuc-dan-bo-dao-nha",
+  "thuc-dan-ha-lan",
+  "thuc-dan-tay-ban-nha",
+  "thuc-dan-anh",
+  "nong-dan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, sóng biển ở đầu; nặng nề dần khi kể về ách đô hộ; kết suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh minh hoạ; không có lời thoại dựng cho nhân vật lịch sử. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 4, tr. 19–22.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo phông, ba lô) đứng trước một bảo tàng hàng hải hình con tàu buồm gỗ khổng lồ ở Ma-lắc-ca (Ma-lai-xi-a) hôm nay, du khách xếp hàng, trời nắng (như Hình 4.2 SGK)",
+   "am_thanh": "tiếng du khách, sóng biển xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bảo tàng Hàng hải Ma-lắc-ca này mô phỏng theo con tàu của Bồ Đào Nha đến xâm lược Ma-lắc-ca năm 1511.",
+     "This Melaka Maritime Museum is modelled on the Portuguese ship that came to conquer Melaka in 1511."
+    ],
+    [
+     "Nhật Minh",
+     "Sau đó, các nước thực dân phương Tây lần lượt kéo đến Đông Nam Á. Ai đã đến đâu? Cùng xem nhé!",
+     "After that, one Western power after another came to Southeast Asia. Who went where? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuc-dan-bo-dao-nha"
+   ],
+   "hinh": "Những con tàu buồm lớn kiểu châu Âu thế kỉ XVI cập một hải cảng nhiệt đới đông đúc thuyền buôn bản địa; hàng hoá gia vị chất đống trên bến, rừng xanh phía sau",
+   "am_thanh": "sóng, cánh buồm, tiếng chợ cảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đông Nam Á có vị trí địa lí quan trọng, lại giàu tài nguyên khoáng sản, nên sớm trở thành mục tiêu xâm lược của các nước tư bản phương Tây.",
+     "With its key location and rich mineral resources, Southeast Asia soon became a target for Western capitalist powers."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "IN-ĐÔ-NÊ-XI-A VÀ PHI-LÍP-PIN",
+   "y": [
+    "In-đô-nê-xi-a: thế kỉ XVI Bồ Đào Nha chiếm một số đảo phía đông; sau đó Hà Lan, Tây Ban Nha, Anh xâm nhập",
+    "Giữa thế kỉ XIX: Hà Lan hoàn thành việc xâm chiếm In-đô-nê-xi-a",
+    "Phi-líp-pin: giữa thế kỉ XVI, Tây Ban Nha xâm chiếm hầu hết quần đảo, thống trị suốt 350 năm"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở In-đô-nê-xi-a, thế kỉ XVI, Bồ Đào Nha chiếm một số đảo ở phía đông. Sau đó, Hà Lan, Tây Ban Nha, Anh cũng xâm nhập.",
+     "In Indonesia, in the 16th century, Portugal took some eastern islands. Later the Dutch, Spanish and British moved in too."
+    ],
+    [
+     "Nhật Minh",
+     "Đến giữa thế kỉ XIX, Hà Lan hoàn thành việc xâm chiếm nước này.",
+     "By the mid-19th century, the Dutch had completed their conquest."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở Phi-líp-pin, từ giữa thế kỉ XVI, thực dân Tây Ban Nha xâm chiếm hầu hết quần đảo và áp đặt ách thống trị suốt 350 năm.",
+     "In the Philippines, from the mid-16th century, Spain seized most of the islands and ruled for 350 years."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thực dân Tây Ban Nha áp đặt ách thống trị ở Phi-líp-pin trong bao lâu?",
+    "lua_chon": [
+     "50 năm",
+     "100 năm",
+     "350 năm"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Thực dân Tây Ban Nha thống trị Phi-líp-pin trong bao lâu?",
+     "Pause! How long did Spain rule the Philippines?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: suốt 350 năm!",
+     "The answer is C: for 350 years!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "tieu_de": "MÃ LAI, MIẾN ĐIỆN, ĐÔNG DƯƠNG, XIÊM",
+   "y": [
+    "Mã Lai, Miến Điện: từ nửa sau thế kỉ XVI, Anh, Hà Lan, Pháp tranh chấp ảnh hưởng",
+    "Ba nước Đông Dương: từ thế kỉ XVI, Bồ Đào Nha, Tây Ban Nha, Anh, Pháp tranh giành phạm vi ảnh hưởng",
+    "Xiêm: thế kỉ XVI thương nhân châu Âu xâm nhập; giữa thế kỉ XIX thực dân Anh bắt đầu xâm nhập"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Mã Lai và Miến Điện, từ nửa sau thế kỉ XVI, thực dân Anh, Hà Lan, Pháp tranh chấp ảnh hưởng.",
+     "In Malaya and Burma, from the late 16th century, the British, Dutch and French competed for influence."
+    ],
+    [
+     "Hân Hân",
+     "Ở ba nước Đông Dương, từ thế kỉ XVI, Bồ Đào Nha, Tây Ban Nha, Anh, Pháp tìm mọi cách tranh giành phạm vi ảnh hưởng.",
+     "In the three Indochinese countries, from the 16th century, Portugal, Spain, Britain and France all fought for spheres of influence."
+    ],
+    [
+     "Nhật Minh",
+     "Còn Xiêm: thế kỉ XVI, thương nhân châu Âu xâm nhập. Giữa thế kỉ XIX, sau khi chiếm Ấn Độ, một phần Mã Lai và Miến Điện, thực dân Anh bắt đầu xâm nhập vào Xiêm.",
+     "And Siam: European merchants arrived in the 16th century. In the mid-19th century, after taking India and parts of Malaya and Burma, Britain began moving into Siam."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuc-dan-anh",
+    "nong-dan-dong-nam-a"
+   ],
+   "hinh": "Trong một văn phòng thuộc địa thế kỉ XIX, các quan chức châu Âu mặc áo trắng, đội mũ cối cúi bên tấm bản đồ lớn, dùng bút kẻ những đường chia cắt vùng đất; ngoài cửa sổ, người dân bản xứ gánh hàng đi qua",
+   "am_thanh": "tiếng bút sột soạt, quạt trần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính quyền thực dân thường chia một nước thành nhiều vùng với các hình thức cai trị khác nhau, tạo ra mâu thuẫn giữa dân cư để dễ bề cai trị.",
+     "Colonial rulers often split a country into regions governed in different ways, creating rifts among the people to rule them more easily."
+    ],
+    [
+     "Nhật Minh",
+     "Ví dụ, thực dân Anh đã hoà trộn Ma-lai-xi-a, Xin-ga-po, Bru-nây vào nhau, rồi chia thành bốn khu vực mới với chế độ cai trị khác nhau.",
+     "For example, the British merged Malaysia, Singapore and Brunei, then split them into four new zones with different rule."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến giữa thế kỉ XIX, nước nào hoàn thành việc xâm chiếm In-đô-nê-xi-a?",
+    "lua_chon": [
+     "Hà Lan",
+     "Anh",
+     "Pháp"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Đến giữa thế kỉ XIX, nước nào hoàn thành việc xâm chiếm In-đô-nê-xi-a?",
+     "Quick test! By the mid-19th century, which country had completed the conquest of Indonesia?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Hà Lan!",
+     "The answer is A: the Netherlands!"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Đông Nam Á có vị trí quan trọng, giàu tài nguyên nên sớm bị xâm lược",
+    "In-đô-nê-xi-a: Hà Lan hoàn thành xâm chiếm giữa thế kỉ XIX",
+    "Phi-líp-pin: Tây Ban Nha thống trị suốt 350 năm",
+    "Mã Lai, Miến Điện, Đông Dương, Xiêm: nhiều nước thực dân tranh giành ảnh hưởng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Đông Nam Á có vị trí quan trọng, giàu tài nguyên, nên sớm bị thực dân phương Tây nhòm ngó.",
+     "Remember: Southeast Asia's location and resources made it an early colonial target."
+    ],
+    [
+     "Hân Hân",
+     "In-đô-nê-xi-a rơi vào tay Hà Lan; Phi-líp-pin chịu ách Tây Ban Nha suốt 350 năm.",
+     "Indonesia fell to the Dutch; the Philippines lived under Spain for 350 years."
+    ],
+    [
+     "Nhật Minh",
+     "Ở các nơi khác, nhiều nước thực dân tranh giành phạm vi ảnh hưởng.",
+     "Elsewhere, several colonial powers competed for influence."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng trước bảo tàng hình con tàu lúc hoàng hôn, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "sóng biển, gió chiều",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: có ý kiến cho rằng các nước tư bản phương Tây đến Đông Nam Á là để giúp những nước này thoát khỏi nghèo nàn, lạc hậu. Cậu có đồng ý không? Vì sao? Bình luận nhé!",
+     "Your challenge: some say Western powers came to Southeast Asia to lift it out of poverty and backwardness. Do you agree? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao Đông Nam Á sớm trở thành mục tiêu xâm lược của thực dân phương Tây?",
+   "dap_an": [
+    "Có vị trí địa lí quan trọng, giàu tài nguyên khoáng sản",
+    "Có nền công nghiệp hiện đại",
+    "Không có người sinh sống",
+    "Đã là thuộc địa của Trung Quốc"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Thế kỉ XVI, nước nào chiếm một số đảo ở phía đông In-đô-nê-xi-a?",
+   "dap_an": [
+    "Bồ Đào Nha",
+    "Hà Lan",
+    "Anh",
+    "Pháp"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Ở Mã Lai và Miến Điện, từ nửa sau thế kỉ XVI, những nước nào tranh chấp ảnh hưởng?",
+   "dap_an": [
+    "Anh, Hà Lan, Pháp",
+    "Tây Ban Nha, Bồ Đào Nha",
+    "Mỹ, Nhật Bản",
+    "Đức, I-ta-li-a"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Giữa thế kỉ XIX, thực dân Anh bắt đầu xâm nhập vào nước nào sau khi đã chiếm Ấn Độ, một phần Mã Lai và Miến Điện?",
+   "dap_an": [
+    "Phi-líp-pin",
+    "Xiêm",
+    "In-đô-nê-xi-a",
+    "Việt Nam"
+   ],
+   "dung": 1,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 19 (lí do Đông Nam Á bị xâm lược), tr. 20 (Hình 4.2 – Bảo tàng Hàng hải Ma-lắc-ca, năm 1511; bảng tóm tắt quá trình xâm nhập), tr. 21 (tư liệu về chính sách chia để trị của thực dân), tr. 22 (câu hỏi vận dụng). Sửa kiến thức chốt danh mục: 'Anh, Pháp, Bồ Đào Nha tranh giành các khu vực còn lại' chuẩn lại đúng bảng SGK – Mã Lai, Miến Điện: Anh, Hà Lan, Pháp; ba nước Đông Dương: Bồ Đào Nha, Tây Ban Nha, Anh, Pháp; Xiêm: thương nhân châu Âu (thế kỉ XVI), Anh (giữa thế kỉ XIX). SGK không có lược đồ cho mục này (chỉ có bảng) nên thay bản đồ cắm cờ trong danh mục bằng thẻ ghi nhớ theo bảng SGK. Không có lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "ma": "L8-B18-02",
+ "ten_tap": "Hương Khê - Ngọn cờ đầu phong trào Cần vương",
+ "ten_tap_en": "Hương Khê: The Leading Uprising of the Cần Vương Movement",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 18. Phong trào chống Pháp trong những năm 1885 – 1896",
+  "trang": [
+   84,
+   85,
+   86
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phan-dinh-phung",
+  "ham-nghi",
+  "ton-that-thuyet"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, bi tráng, núi rừng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có cảnh tái hiện, không có lời thoại của nhân vật lịch sử; hình ảnh lịch sử là ảnh tư liệu. Hướng tấn công trên sa bàn là minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 18, tr. 84–86.",
+ "chinh_sach_hinh": "Thời kì đã có ảnh chụp (1885 – 1896): không dùng AI vẽ Phan Đình Phùng, vua Hàm Nghi, Tôn Thất Thuyết, Cao Thắng hay cảnh khởi nghĩa có thật; chỉ dùng ảnh tư liệu phạm vi công cộng, ghi nguồn. Cao Thắng chỉ được nhắc tên. Không có lời thoại dựng cho nhân vật lịch sử. Diễn biến thể hiện bằng sa bàn 'can-vuong' (vẽ theo Hình 18.4 SGK), trục thời gian và thẻ ghi nhớ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Phố Phan Đình Phùng ở Hà Nội hôm nay, mùa thu: hàng cây cổ thụ rợp bóng, lá vàng rơi; Nhật Minh và Hân Hân dắt xe đạp, dừng lại dưới tấm biển tên phố màu xanh, Hân Hân chỉ tay lên biển",
+   "am_thanh": "lá xào xạc, tiếng xe cộ xa, chuông xe đạp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Hà Nội có cả một con phố mang tên Phan Đình Phùng. Cậu biết ông là ai không?",
+     "Hà Nội has a whole street named after Phan Đình Phùng. Do you know who he was?"
+    ],
+    [
+     "Nhật Minh",
+     "Ông là lãnh tụ của cuộc khởi nghĩa Hương Khê! Cùng tìm hiểu nhé!",
+     "He led the Hương Khê uprising! Let's find out more!"
+    ]
+   ],
+   "nguon_trang": [
+    84,
+    85
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu vua Hàm Nghi và Tôn Thất Thuyết (như Hình 18.2, 18.3 SGK)",
+    "tim": "Hàm Nghi photograph; Tôn Thất Thuyết photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX – đầu XX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: vua Hàm Nghi và Tôn Thất Thuyết",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau cuộc phản công quân Pháp ở kinh thành Huế không thành, ngày 5 tháng 7 năm 1885, Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở, tỉnh Quảng Trị.",
+     "After the failed counterattack on the French at the Huế citadel on 5 July 1885, Tôn Thất Thuyết took Emperor Hàm Nghi to Tân Sở in Quảng Trị."
+    ],
+    [
+     "Hân Hân",
+     "Lấy danh nghĩa vua Hàm Nghi, ông ban bố Dụ Cần vương, kêu gọi văn thân, sĩ phu và nhân dân cả nước giúp vua cứu nước.",
+     "In Hàm Nghi's name, he issued the Cần Vương edict, calling on scholars, gentry and people across the country to help the king save the nation."
+    ]
+   ],
+   "nguon_trang": [
+    84
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "can-vuong",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn: Tân Sở sáng lên với mốc 13 – 7 – 1885; ngọn lửa khởi nghĩa bùng lên nhiều nơi; Bãi Sậy, Ba Đình, Hương Khê được đánh dấu; quần đảo Hoàng Sa, Trường Sa (Việt Nam)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trên lược đồ, Dụ Cần vương được ban ở Tân Sở ngày 13 tháng 7 năm 1885.",
+     "On the map, the Cần Vương edict was issued at Tân Sở on 13 July 1885."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào Cần vương bùng nổ, kéo dài đến cuối thế kỉ XIX, với những cuộc khởi nghĩa tiêu biểu như Bãi Sậy, Ba Đình và Hương Khê.",
+     "The Cần Vương movement erupted and lasted until the end of the 19th century, with notable uprisings at Bãi Sậy, Ba Đình and Hương Khê."
+    ]
+   ],
+   "nguon_trang": [
+    84,
+    85
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "can-vuong",
+   "pha": "huong_khe",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn phóng to vùng Thanh – Nghệ – Tĩnh – Quảng Trị: căn cứ Hương Khê, vòng đỏ khoanh địa bàn hoạt động của nghĩa quân",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khởi nghĩa Hương Khê kéo dài từ năm 1885 đến năm 1896. Căn cứ chính được xây dựng ở vùng rừng núi Hương Khê, tỉnh Hà Tĩnh.",
+     "The Hương Khê uprising lasted from 1885 to 1896. Its main base was built in the forested mountains of Hương Khê, in Hà Tĩnh province."
+    ],
+    [
+     "Hân Hân",
+     "Nghĩa quân hoạt động trên một vùng rộng lớn ở miền Tây Thanh Hoá, Nghệ An, Hà Tĩnh và Quảng Trị.",
+     "The insurgents operated over a vast area in western Thanh Hoá, Nghệ An, Hà Tĩnh and Quảng Trị."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Phan Đình Phùng (như Hình 18.6 SGK)",
+    "tim": "Phan Đình Phùng photograph",
+    "yeu_cau": "ảnh chụp thế kỉ XIX, phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Phan Đình Phùng (1847 – 1895)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lãnh đạo cao nhất của cuộc khởi nghĩa là Phan Đình Phùng, sống từ năm 1847 đến năm 1895.",
+     "The uprising's top leader was Phan Đình Phùng, who lived from 1847 to 1895."
+    ],
+    [
+     "Nhật Minh",
+     "Bên ông có nhiều tướng lĩnh tài ba, tiêu biểu là Cao Thắng.",
+     "He was supported by many talented commanders, most notably Cao Thắng."
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai là lãnh đạo cao nhất của khởi nghĩa Hương Khê?",
+    "lua_chon": [
+     "Nguyễn Thiện Thuật",
+     "Phan Đình Phùng",
+     "Đinh Công Tráng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai là lãnh đạo cao nhất của khởi nghĩa Hương Khê?",
+     "Pause! Who was the top leader of the Hương Khê uprising?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Phan Đình Phùng!",
+     "The answer is B: Phan Đình Phùng!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "HAI GIAI ĐOẠN CỦA KHỞI NGHĨA HƯƠNG KHÊ",
+   "moc": [
+    [
+     "1885 – 1888",
+     "Xây dựng lực lượng, căn cứ; tổ chức quy củ; chế tạo súng trường theo mẫu của Pháp"
+    ],
+    [
+     "1888 – 1896",
+     "Chiến đấu quyết liệt, chỉ huy thống nhất; đẩy lui nhiều cuộc càn quét"
+    ]
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1885 đến năm 1888 là giai đoạn xây dựng lực lượng và căn cứ. Nghĩa quân được tổ chức quy củ, còn chế tạo thành công súng trường theo mẫu của Pháp!",
+     "From 1885 to 1888, they built up forces and bases. The insurgents were well organised and even managed to make rifles modelled on French ones!"
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1888 đến năm 1896, nghĩa quân chiến đấu quyết liệt, chỉ huy thống nhất và tương đối chặt chẽ, đẩy lui nhiều cuộc hành quân càn quét của địch.",
+     "From 1888 to 1896, they fought fiercely under unified, fairly tight command, repelling many enemy sweeps."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong giai đoạn 1885 – 1888, nghĩa quân Hương Khê chế tạo thành công gì?",
+    "lua_chon": [
+     "Súng trường theo mẫu của Pháp",
+     "Tàu thuỷ chạy bằng hơi nước",
+     "Đầu máy xe lửa"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhé! Giai đoạn đầu, nghĩa quân Hương Khê chế tạo thành công thứ gì?",
+     "Quiz time! In the first stage, what did the Hương Khê insurgents manage to make?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: súng trường theo mẫu của Pháp!",
+     "The answer is A: rifles modelled on French ones!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "can-vuong",
+   "pha": "ngan_truoi",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn: Ngàn Trươi được đánh dấu, mũi tên quân Pháp từ nhiều hướng siết vòng vây (minh hoạ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thực dân Pháp phải tập trung binh lực bao vây, cô lập nghĩa quân, mở nhiều cuộc tấn công quy mô vào Ngàn Trươi, căn cứ chính của cuộc khởi nghĩa.",
+     "The French had to mass their forces to encircle and isolate the insurgents, launching large attacks on Ngàn Trươi, the uprising's main base."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1895, chủ tướng Phan Đình Phùng mất. Khởi nghĩa suy yếu dần rồi tan rã.",
+     "In December 1895, the leader Phan Đình Phùng died. The uprising gradually weakened and then broke up."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "GHI NHỚ",
+   "y": [
+    "Khởi nghĩa Hương Khê (1885 – 1896), căn cứ chính ở Hương Khê (Hà Tĩnh)",
+    "Lãnh đạo: Phan Đình Phùng; tướng tiêu biểu: Cao Thắng",
+    "Tuy thất bại, là cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần vương"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuy thất bại, Hương Khê là cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần vương.",
+     "Although it failed, Hương Khê was the most outstanding uprising of the Cần Vương movement."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại phố Phan Đình Phùng hôm nay: Nhật Minh và Hân Hân ngồi trên ghế đá dưới hàng cây, Hân Hân giơ cuốn sổ có hình lược đồ tự vẽ về phía người xem",
+   "am_thanh": "lá rơi, chim sẻ ríu rít",
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi cho cậu: dựa vào những gì vừa xem, vì sao Hương Khê được coi là cuộc khởi nghĩa tiêu biểu nhất của phong trào Cần vương? Bình luận nhé!",
+     "Question for you: based on what you've seen, why is Hương Khê considered the most outstanding uprising of the Cần Vương movement? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Dụ Cần vương được ban bố dưới danh nghĩa vị vua nào?",
+   "dap_an": [
+    "Gia Long",
+    "Minh Mạng",
+    "Hàm Nghi",
+    "Tự Đức"
+   ],
+   "dung": 2,
+   "trang": 84
+  },
+  {
+   "hoi": "Địa bàn hoạt động của nghĩa quân Hương Khê gồm những vùng nào?",
+   "dap_an": [
+    "Vùng Bãi Sậy (Hưng Yên)",
+    "Miền Tây Thanh Hoá, Nghệ An, Hà Tĩnh, Quảng Trị",
+    "Ba làng Mậu Thịnh, Thượng Thọ, Mĩ Khê",
+    "Vùng Yên Thế"
+   ],
+   "dung": 1,
+   "trang": 85
+  },
+  {
+   "hoi": "Căn cứ chính bị thực dân Pháp tấn công quy mô trong khởi nghĩa Hương Khê là",
+   "dap_an": [
+    "Ngàn Trươi (Hà Tĩnh)",
+    "Mã Cao",
+    "Hố Chuối",
+    "Tân Sở"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Khởi nghĩa Hương Khê có vị trí như thế nào trong phong trào Cần vương?",
+   "dap_an": [
+    "Là cuộc khởi nghĩa đầu tiên",
+    "Là cuộc khởi nghĩa tiêu biểu nhất",
+    "Là cuộc khởi nghĩa giành thắng lợi hoàn toàn",
+    "Là cuộc khởi nghĩa của nông dân Yên Thế"
+   ],
+   "dung": 1,
+   "trang": 86
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 8 tr. 84 (Phố Phan Đình Phùng; phản công ở kinh thành Huế 5 – 7 – 1885; Tân Sở; Dụ Cần vương), tr. 85 (Hình 18.4; Hương Khê 1885 – 1896, căn cứ, địa bàn, Phan Đình Phùng, Cao Thắng), tr. 86 (hai giai đoạn; súng trường theo mẫu của Pháp; Ngàn Trươi; Phan Đình Phùng mất 12 – 1895; tiêu biểu nhất). Mốc 13 – 7 – 1885 ở Tân Sở lấy từ chú giải Hình 18.4 (OCR không đọc được, đã kiểm tra trên ảnh trang). Danh mục: bỏ ý 'kéo dài nhất' vì SGK chỉ nêu 'tiêu biểu nhất'; 'tự chế tạo súng trường kiểu Pháp' giữ theo SGK 'chế tạo thành công súng trường theo mẫu của Pháp'. Sa bàn mới 'can-vuong' vẽ theo Hình 18.4; vùng hoạt động và hướng tấn công Ngàn Trươi là minh hoạ theo lời văn SGK. Phương án nhiễu (Nguyễn Thiện Thuật, Đinh Công Tráng, Mã Cao, Hố Chuối, Yên Thế, Bãi Sậy) lấy từ SGK Bài 18.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

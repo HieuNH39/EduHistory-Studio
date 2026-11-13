@@ -1,0 +1,191 @@
+{
+ "ma": "L8-B3-01",
+ "ten_tap": "Tại sao Anh là cái nôi của Cách mạng công nghiệp?",
+ "ten_tap_en": "Why Was Britain the Cradle of the Industrial Revolution?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+  "trang": [
+   15
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan-anh-the-ki-xviii"
+ ],
+ "nhac": {
+  "tam_trang": "nhịp máy, hăng hái",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh xưởng kéo sợi ở Anh thế kỉ XVIII là minh hoạ chung (máy kéo sợi Gien-ni vẽ theo tham chiếu Hình 3.1 SGK), Minh – Hân chỉ quan sát; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 3, tr. 15.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh kéo căng sợi chỉ từ cuộn len trong giờ thủ công ở trường hôm nay, Hân Hân cầm điện thoại có hình chiếc máy kéo sợi cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kéo sợi bằng tay thế này thì chậm lắm!",
+     "Spinning by hand like this is so slow!"
+    ],
+    [
+     "Hân Hân",
+     "Thế nên ở Anh, một cỗ máy kéo sợi đã mở màn cho cả cuộc cách mạng công nghiệp!",
+     "That's why in Britain, a spinning machine kicked off the whole Industrial Revolution!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "GIỮA THẾ KỈ XVIII, ANH CÓ ĐỦ",
+   "y": [
+    "Vốn (tư bản)",
+    "Nhân công",
+    "Sự phát triển kĩ thuật"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa thế kỉ XVIII, nước Anh hội tụ đủ tiền đề: vốn,",
+     "By the mid-18th century, Britain had all the preconditions: capital,"
+    ],
+    [
+     "Nhật Minh",
+     "nhân công,",
+     "labour,"
+    ],
+    [
+     "Hân Hân",
+     "và sự phát triển kĩ thuật. Vì vậy, cách mạng công nghiệp diễn ra đầu tiên ở Anh.",
+     "and advancing technology. So the Industrial Revolution happened first in Britain."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "cong-nhan-anh-the-ki-xviii"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng nép ở cửa một căn nhà gỗ ở nước Anh năm 1764, nhìn người thợ quay bánh xe chiếc máy kéo sợi Gien-ni có nhiều cọc sợi cùng lúc; hai bạn chỉ quan sát, mắt tròn xoe",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cách mạng bắt đầu trước hết trong ngành dệt, với máy kéo sợi Gien-ni năm 1764, rồi lan ra giao thông vận tải, luyện kim.",
+     "It began first in textiles, with the spinning jenny in 1764, then spread to transport and metallurgy."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Cách mạng công nghiệp ở Anh diễn ra trước hết trong ngành nào?",
+    "lua_chon": [
+     "Luyện kim",
+     "Dệt",
+     "Giao thông vận tải"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cách mạng công nghiệp ở Anh diễn ra trước hết trong ngành nào?",
+     "Pause! Which industry did Britain's Industrial Revolution start in?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngành dệt!",
+     "The answer is B: textiles!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Hân Hân và Nhật Minh giơ cuộn len về phía người xem trong phòng thủ công hôm nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong ba tiền đề vốn, nhân công, kĩ thuật, cậu thấy cái nào quan trọng nhất? Bình luận nhé!",
+     "Of capital, labour and technology, which mattered most? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao cách mạng công nghiệp diễn ra đầu tiên ở Anh?",
+   "dap_an": [
+    "Anh hội tụ đủ vốn, nhân công và sự phát triển kĩ thuật",
+    "Anh có nhiều thuộc địa nhất",
+    "Anh có dân số đông nhất",
+    "Anh không có chiến tranh"
+   ],
+   "dung": 0,
+   "trang": 15
+  },
+  {
+   "hoi": "Máy kéo sợi Gien-ni ra đời năm nào?",
+   "dap_an": [
+    "1764",
+    "1769",
+    "1784",
+    "1807"
+   ],
+   "dung": 0,
+   "trang": 15
+  },
+  {
+   "hoi": "Năm 1784, Giêm Oát đã phát minh ra",
+   "dap_an": [
+    "máy kéo sợi Gien-ni",
+    "máy hơi nước",
+    "máy kéo sợi chạy bằng sức nước",
+    "đầu máy xe lửa"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Từ ngành dệt, cách mạng công nghiệp ở Anh lan ra các ngành nào?",
+   "dap_an": [
+    "Giao thông vận tải, luyện kim",
+    "Nông nghiệp lúa nước",
+    "Ngân hàng",
+    "Du lịch"
+   ],
+   "dung": 0,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 15 (tiền đề vốn, nhân công, kĩ thuật giữa thế kỉ XVIII; ngành dệt, máy kéo sợi Gien-ni 1764; lan ra giao thông vận tải, luyện kim; Ác-rai 1769, Giêm Oát 1784). Danh mục: 'Máy kéo sợi Gien-ni (1764) là khởi đầu' diễn đạt theo SGK 'trước hết là trong ngành dệt với sự ra đời của máy kéo sợi Gien-ni'. SGK không nêu tên người chế tạo máy Gien-ni nên kịch bản không nêu.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

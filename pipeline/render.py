@@ -339,19 +339,7 @@ def scene_source(spec, sc, W, H, n):
     if lop in ("truc_thoi_gian", "ghi_nho"):
         import effects
         items = sc["moc"] if lop == "truc_thoi_gian" else sc["y"]
-        b = sc.get("bounds") or []
-        if sc.get("hien_luc"): times = sc["hien_luc"]
-        elif sc.get("hien_luc_theo_cau") and b and len(b) >= len(sc.get("loi", [])):
-            # mỗi mục gắn với một câu thoại; nhiều mục cùng một câu thì chia đều trong câu đó
-            from collections import Counter
-            idx = sc["hien_luc_theo_cau"]; cnt = Counter(idx); seen = Counter(); times = []
-            for j in idx:
-                a0, a1 = b[j]; times.append(a0 + 0.1 + (a1 - a0) * seen[j] / cnt[j]); seen[j] += 1
-        elif len(b) == len(items): times = [x[0] + 0.1 for x in b]
-        elif b:
-            a0, a1 = b[0][0], b[-1][1]; m = len(items)
-            times = [a0 + 0.1 + k * (a1 - a0) / m for k in range(m)]
-        else: times = None
+        times = thoi_diem_muc(sc)   # dùng chung với âm thanh mô phỏng (tiếng tích/bóp đúng lúc mục hiện)
         fn = effects.truc_thoi_gian if lop == "truc_thoi_gian" else effects.ghi_nho
         return fn(W, H, n, items, FPS, times=times, **({"title": sc["tieu_de"]} if sc.get("tieu_de") else {}))
     base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
@@ -389,6 +377,135 @@ def has_audio(path):
         return bool(out.strip())
     except Exception: return False
 
+# ---------------------------------------------------------------- mốc thời gian dùng chung (render.py + tools/lam_lai_am_thanh.py)
+def thoi_diem_muc(sc):
+    """Thời điểm (giây, tính từ đầu cảnh) hiện từng mục của thẻ trục thời gian / ghi nhớ; None = để effects tự chia đều."""
+    items = sc.get("moc") if sc.get("lop") == "truc_thoi_gian" else sc.get("y")
+    items = items or []
+    b = sc.get("bounds") or []
+    if sc.get("hien_luc"): return sc["hien_luc"]
+    if sc.get("hien_luc_theo_cau") and b and len(b) >= len(sc.get("loi", [])):
+        # mỗi mục gắn với một câu thoại; nhiều mục cùng một câu thì chia đều trong câu đó
+        from collections import Counter
+        idx = sc["hien_luc_theo_cau"]; cnt = Counter(idx); seen = Counter(); times = []
+        for j in idx:
+            a0, a1 = b[j]; times.append(a0 + 0.1 + (a1 - a0) * seen[j] / cnt[j]); seen[j] += 1
+        return times
+    if len(b) == len(items): return [x[0] + 0.1 for x in b]
+    if b:
+        a0, a1 = b[0][0], b[-1][1]; m = len(items)
+        return [a0 + 0.1 + k * (a1 - a0) / m for k in range(m)]
+    return None
+
+def clip_canh(spec, sc):
+    """Clip video của cảnh (cùng quy tắc với scene_source) – để lấy tiếng hiện trường mà không cần dựng hình."""
+    if sc.get("lop") in ("sa_ban", "chuyen_canh", "cau_hoi", "mo_phong", "truc_thoi_gian", "ghi_nho"): return None
+    base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
+    vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
+    return (vid if os.path.isabs(vid) else os.path.join(ROOT, vid)) if vid else None
+
+def tinh_moc_canh(spec):
+    """Giọng đọc từng cảnh (có bộ nhớ đệm) → độ dài cảnh → mốc bắt đầu. Trả về (scenes, starts, total, intro, outro).
+    Dùng chung cho render() và tools/lam_lai_am_thanh.py để âm thanh làm lại khớp đúng hình đã dựng."""
+    vertical = spec.get("huong") == "doc"
+    scenes = []
+    for sc in spec["canh"]:
+        lines = sc.get("loi", [])
+        pauses = {"0": 3.4} if sc.get("lop") == "cau_hoi" else sc.get("nghi_sau_cau")
+        wav, bounds = voice_for(lines, pauses=pauses) if lines else (None, [])
+        speech = dur(wav) if wav else sc.get("thoi_luong", 3.0)
+        length = max(speech + (SCENE_PAD if wav else 0), sc.get("thoi_luong_toi_thieu", 0)) + XFADE
+        s = dict(sc, wav=wav, bounds=bounds, speech=speech, length=length)
+        cp = clip_canh(spec, s)
+        if cp: s["_clip"] = cp
+        scenes.append(s)
+    intro = 0 if vertical else 2.6
+    outro = (2.6 if vertical else 3.0) + (1.2 if spec.get("ghi_chu_tai_hien") else 0)
+    starts = []; cur = intro
+    for s in scenes:
+        starts.append(cur); cur += s["length"] - XFADE
+    total = cur + XFADE + outro
+    return scenes, starts, total, intro, outro
+
+# ---------------------------------------------------------------- âm thanh: lời đọc + tiếng hiện trường clip + âm thanh mô phỏng + nhạc
+def dung_am_thanh(spec, scenes, starts, total, intro, outro, work, log=None, tach=False):
+    """Dựng work/mix.wav (tach=True: ghi thêm các lớp tách riêng để đo mức – xem tools/qa_am_thanh.py). Nhóm nền = nhạc + tiếng clip (hạ mạnh khi có lời, như cũ) và sfx_nen (hạ êm ~4–5 dB);
+    sfx_ui (tiếng giao diện) không hạ; cộng lời đọc → loudnorm −14 LUFS. Đặt TP −2 vì mã hoá AAC làm đỉnh thật
+    tăng ~0.3–0.4 dB → tệp MP4 cuối đạt ≤ −1.5 dBTP."""
+    voice = os.path.join(work, "voice.wav")
+    inputs = []; filt = []
+    for k, s in enumerate(scenes):
+        if s["wav"]:
+            inputs += ["-i", s["wav"]]
+            filt.append(f"[{len(inputs)//2 - 1}]adelay={int(starts[k]*1000 + 150)}|{int(starts[k]*1000 + 150)},aresample=48000[a{k}]")
+    labels = "".join(f"[a{k}]" for k, s in enumerate(scenes) if s["wav"])
+    cnt = sum(1 for s in scenes if s["wav"])
+    run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex",
+         ";".join(filt) + f";{labels}amix=inputs={cnt}:normalize=0,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[v]",
+         "-map", "[v]", "-ac", "2", "-ar", "48000", voice])
+    mix = os.path.join(work, "mix.wav")
+    music = spec.get("nhac")
+    # tiếng động hiện trường có sẵn trong clip (Gemini/Kling có âm thanh): đặt đúng mốc cảnh, nhỏ dưới lời đọc
+    amb = None; ai = []; af = []
+    for k, s in enumerate(scenes):
+        cp = s.get("_clip")
+        s["_clip_co_tieng"] = bool(cp and has_audio(cp))
+        if not s["_clip_co_tieng"]: continue
+        L = s["length"]; j = len(ai) // 4
+        ai += ["-stream_loop", "-1", "-i", cp]
+        d = int(starts[k] * 1000)
+        af.append(f"[{j}:a]atrim=0:{L:.2f},asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,"
+                  f"volume={float(s.get('am_hien_truong', 0.5)):.2f},afade=t=in:d=0.4,afade=t=out:st={max(L-0.6, 0):.2f}:d=0.6,adelay={d}|{d}[b{j}]")
+    if ai:
+        amb = os.path.join(work, "amb.wav"); m = len(af)
+        run(["ffmpeg", "-y", "-loglevel", "error", *ai, "-filter_complex",
+             ";".join(af) + ";" + "".join(f"[b{j}]" for j in range(m)) +
+             f"amix=inputs={m}:normalize=0,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[o]", "-map", "[o]", "-ac", "2", "-ar", "48000", amb])
+    # âm thanh mô phỏng (pipeline/am_thanh): lỗi ở đây không được làm hỏng cả tập → trộn như cũ
+    sfx_nen = sfx_ui = None
+    if os.environ.get("EDU_KHONG_SFX") != "1" and spec.get("am_thanh_mo_phong", True) is not False:
+        try:
+            t_sfx = time.time()
+            for s in scenes:
+                if s.get("lop") in ("truc_thoi_gian", "ghi_nho"): s["_hien_luc"] = thoi_diem_muc(s)
+            from am_thanh import tron
+            sfx_nen, sfx_ui, tk, ghi = tron.tao_sfx(spec, scenes, starts, total, intro, outro, work, voice, FPS)
+            open(os.path.join(work, "am_thanh.txt"), "w").write("\n".join(ghi) + "\n")
+            if log is not None: log["am_thanh"] = {k: v for k, v in tk.items() if k != "loi"}; log["khau"]["sfx_s"] = round(time.time() - t_sfx, 1)
+            if tk.get("loi"): print("âm thanh mô phỏng – cảnh báo:", tk["loi"][:5], file=sys.stderr)
+        except Exception as ex:
+            import traceback; traceback.print_exc()
+            print("âm thanh mô phỏng lỗi, trộn không có SFX:", ex, file=sys.stderr); sfx_nen = sfx_ui = None
+    has_music = bool(music and os.path.exists(os.path.join(ROOT, music)))
+    if has_music or amb or sfx_nen:
+        ins = ["-i", voice]; parts = []; bg = []; ni = 1     # ni = số tệp vào (đếm riêng: -stream_loop thêm 4 phần tử vào ins)
+        if has_music:
+            ins += ["-stream_loop", "-1", "-i", os.path.join(ROOT, music)]
+            parts.append(f"[{ni}]atrim=0:{total:.2f},volume=0.22,afade=t=in:d=1.5,afade=t=out:st={total-2.5:.2f}:d=2.5,aresample=48000[m]"); bg.append("[m]"); ni += 1
+        if amb:
+            ins += ["-i", amb]; bg.append(f"[{ni}]"); ni += 1
+        keys = 1 + (1 if bg else 0) + (1 if sfx_nen else 0)
+        g = [f"[0]asplit={keys}" + "".join(f"[v{i}]" for i in range(1, keys + 1))]
+        final = ["[v1]"]; ki = 2
+        if bg:
+            g.append(f"{''.join(bg)}amix=inputs={len(bg)}:normalize=0[bg]" if len(bg) > 1 else f"{bg[0]}anull[bg]")
+            g.append(f"[bg][v{ki}]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md]"); final.append("[md]"); ki += 1
+        if sfx_nen:
+            ins += ["-i", sfx_nen]; g.append(f"[{ni}][v{ki}]{tron.DUCK_SFX_STR}[sd]"); final.append("[sd]"); ni += 1
+            ins += ["-i", sfx_ui]; final.append(f"[{ni}]"); ni += 1
+        outs = ["-map", "[o]", "-ar", "48000", mix]
+        if tach and sfx_nen:   # lớp tách để đo: sfx sau khi hạ, nhạc+clip sau khi hạ, bản trộn trước loudnorm
+            g[-1] = g[-1].replace("[sd]", "[sd0]") + ";[sd0]asplit=2[sd][sdx]"; outs += ["-map", "[sdx]", os.path.join(work, "tach_sfx_ha.wav")]
+            if bg: g = [x.replace("[md]", "[md0]") if "sidechaincompress=threshold=0.03:ratio=8" in x else x for x in g] + ["[md0]asplit=2[md][mdx]"]; outs += ["-map", "[mdx]", os.path.join(work, "tach_nhac_ha.wav")]
+            g.append(f"{''.join(final)}amix=inputs={len(final)}:normalize=0,asplit=2[pre][prex]"); outs += ["-map", "[prex]", os.path.join(work, "tach_truoc_loudnorm.wav")]
+            g.append("[pre]loudnorm=I=-14:TP=-2:LRA=11[o]")
+        else:
+            g.append(f"{''.join(final)}amix=inputs={len(final)}:normalize=0,loudnorm=I=-14:TP=-2:LRA=11[o]")
+        run(["ffmpeg", "-y", "-loglevel", "error", *ins, "-filter_complex", ";".join(parts + g), *outs])
+    else:
+        run(["ffmpeg", "-y", "-loglevel", "error", "-i", voice, "-af", "loudnorm=I=-14:TP=-2:LRA=11", "-ar", "48000", mix])
+    return mix
+
 def render(spec_path, out_dir=None):
     spec = load_spec(spec_path)
     vertical = spec.get("huong") == "doc"
@@ -398,23 +515,8 @@ def render(spec_path, out_dir=None):
     log = {"id": spec["id"], "bat_dau": time.time(), "khau": {}}
 
     t0 = time.time()
-    scenes = []
-    for sc in spec["canh"]:
-        lines = sc.get("loi", [])
-        pauses = {"0": 3.4} if sc.get("lop") == "cau_hoi" else sc.get("nghi_sau_cau")
-        wav, bounds = voice_for(lines, pauses=pauses) if lines else (None, [])
-        speech = dur(wav) if wav else sc.get("thoi_luong", 3.0)
-        length = max(speech + (SCENE_PAD if wav else 0), sc.get("thoi_luong_toi_thieu", 0)) + XFADE
-        scenes.append(dict(sc, wav=wav, bounds=bounds, speech=speech, length=length))
+    scenes, starts, total, intro, outro = tinh_moc_canh(spec)   # giọng đọc + mốc thời gian (dùng chung)
     log["khau"]["giong_doc_s"] = round(time.time() - t0, 1)
-
-    intro = 0 if vertical else 2.6
-    outro = (2.6 if vertical else 3.0) + (1.2 if spec.get("ghi_chu_tai_hien") else 0)
-    # mốc thời gian
-    starts = []; cur = intro
-    for s in scenes:
-        starts.append(cur); cur += s["length"] - XFADE
-    total = cur + XFADE + outro
 
     # ---- hình
     t0 = time.time()
@@ -446,51 +548,9 @@ def render(spec_path, out_dir=None):
     ff.stdin.close(); ff.wait()
     log["khau"]["dung_hinh_s"] = round(time.time() - t0, 1)
 
-    # ---- âm thanh: lời đọc đặt đúng mốc + nhạc nền tự hạ
+    # ---- âm thanh: lời đọc đặt đúng mốc + tiếng hiện trường + âm thanh mô phỏng + nhạc nền tự hạ
     t0 = time.time()
-    voice = os.path.join(work, "voice.wav")
-    inputs = []; filt = []
-    for k, s in enumerate(scenes):
-        if s["wav"]:
-            inputs += ["-i", s["wav"]]
-            filt.append(f"[{len(inputs)//2 - 1}]adelay={int(starts[k]*1000 + 150)}|{int(starts[k]*1000 + 150)},aresample=48000[a{k}]")
-    labels = "".join(f"[a{k}]" for k, s in enumerate(scenes) if s["wav"])
-    cnt = sum(1 for s in scenes if s["wav"])
-    run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex",
-         ";".join(filt) + f";{labels}amix=inputs={cnt}:normalize=0,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[v]",
-         "-map", "[v]", "-ac", "2", "-ar", "48000", voice])
-    mix = os.path.join(work, "mix.wav")
-    music = spec.get("nhac")
-    # tiếng động hiện trường có sẵn trong clip (Gemini/Kling có âm thanh): đặt đúng mốc cảnh, nhỏ dưới lời đọc
-    amb = None; ai = []; af = []
-    for k, s in enumerate(scenes):
-        cp = s.get("_clip")
-        if not cp or not has_audio(cp): continue
-        L = s["length"]; j = len(ai) // 4
-        ai += ["-stream_loop", "-1", "-i", cp]
-        d = int(starts[k] * 1000)
-        af.append(f"[{j}:a]atrim=0:{L:.2f},asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,"
-                  f"volume={float(s.get('am_hien_truong', 0.5)):.2f},afade=t=in:d=0.4,afade=t=out:st={max(L-0.6, 0):.2f}:d=0.6,adelay={d}|{d}[b{j}]")
-    if ai:
-        amb = os.path.join(work, "amb.wav"); m = len(af)
-        run(["ffmpeg", "-y", "-loglevel", "error", *ai, "-filter_complex",
-             ";".join(af) + ";" + "".join(f"[b{j}]" for j in range(m)) +
-             f"amix=inputs={m}:normalize=0,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[o]", "-map", "[o]", "-ac", "2", "-ar", "48000", amb])
-    has_music = bool(music and os.path.exists(os.path.join(ROOT, music)))
-    if has_music or amb:
-        ins = ["-i", voice]; parts = []; bg = []
-        if has_music:
-            ins += ["-stream_loop", "-1", "-i", os.path.join(ROOT, music)]
-            parts.append(f"[{len(ins)//2 - 1}]atrim=0:{total:.2f},volume=0.22,afade=t=in:d=1.5,afade=t=out:st={total-2.5:.2f}:d=2.5,aresample=48000[m]"); bg.append("[m]")
-        if amb:
-            ins += ["-i", amb]; bg.append(f"[{len(ins)//2 - 1}]")
-        bgmix = (f"{''.join(bg)}amix=inputs={len(bg)}:normalize=0[bg];" if len(bg) > 1 else f"{bg[0]}anull[bg];")
-        run(["ffmpeg", "-y", "-loglevel", "error", *ins, "-filter_complex",
-             (";".join(parts) + ";" if parts else "") + bgmix +
-             f"[0]asplit=2[v1][v2];[bg][v2]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
-             f"[v1][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[o]", "-map", "[o]", "-ar", "48000", mix])
-    else:
-        run(["ffmpeg", "-y", "-loglevel", "error", "-i", voice, "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-ar", "48000", mix])
+    mix = dung_am_thanh(spec, scenes, starts, total, intro, outro, work, log)
     log["khau"]["am_thanh_s"] = round(time.time() - t0, 1)
 
     # ---- phụ đề

@@ -42,3 +42,48 @@ Mỗi mục có thể đối chiếu với lịch sử commit của kho mã.
 | 31 | Trục thời gian 6–8 mốc | Ngày tháng bị ngắt giữa (“16, 17 –” / “8”, “9 – 5 –” / “1945”) | Tự giảm cỡ chữ cho vừa một dòng; nếu vẫn dài thì chỉ ngắt ở dấu gạch nối gần giữa nhất |
 | 32 | Nhân vật phải chuyển động (yêu cầu GVHD): tạo clip Kling từ ảnh cảnh bằng Claude in Chrome | Tài khoản Kling chưa có gói: chỉ chạy 1 clip/lần, xếp hàng 5–15 phút, clip có dấu “KlingAI” (không được cắt/che theo điều khoản) | Báo GVHD; GVHD chọn giữ dấu cho một số tập chất lượng cao; chọn Kling 2.5 Turbo 720p (30 credit/10 giây – rẻ nhất có chất lượng tốt); tải clip trực tiếp bằng đường dẫn video trên trang; ghi nhật ký prompt/credit |
 | 33 | Chuyển động bằng code cho các tập còn lại (`pipeline/dong2.py`): độ sâu (Depth Anything V2), khẩu hình theo giọng, nháy mắt, lửa – nước – lá – cờ | Không dò được khuôn mặt trong tranh khổ lớn (mặt quá nhỏ); hiệu ứng nước tạo vân “đá cẩm thạch” cả lên tay nhân vật; mặt trời phản chiếu trên sông bị nhận nhầm là lửa; miệng tô đen đè lên miệng vẽ sẵn đang cười | Dò mặt theo ô cửa sổ nhiều cỡ; loại vùng nhân vật bằng mặt nạ giãn + độ sâu; chỉ bật lửa khi mô tả cảnh có lửa/nến/đuốc; khẩu hình dùng độ mở sẵn có của tranh (khép bớt khi im lặng, mở khi nói) |
+
+## Phiên 2 – 13/11/2026: Âm thanh mô phỏng (SFX) cho video
+
+**Yêu cầu của GVHD:** “Âm thanh mô phỏng rất quan trọng, nhớ thêm âm thanh kĩ lưỡng vào nhé.”
+
+**AI làm:** viết thư viện `pipeline/am_thanh/` tổng hợp thuần bằng numpy/scipy (48 kHz stereo, không dùng mẫu thu âm ngoài – xem `assets/sfx/NGUON.md`):
+19 loại âm nền lặp liền mạch (sông, biển, gió, mưa, rừng, côn trùng đêm, lửa, chiến trận vọng xa – bản cổ/trung đại và bản hiện đại, đám đông, chợ, cung điện, doanh trại, hang đá…),
+34 tiếng sự kiện (trống trận/trống dồn, trống đồng, cồng chiêng, tù và, loạt tên, đoàn quân tiến, vó ngựa/kỵ binh, thuyền rẽ nước, mái chèo, thân thuyền cót két, đóng cọc, gỗ vỡ, nước bắn, lửa bùng, gươm giáo nhẹ, pháo/nổ chỉ cho thời cận – hiện đại…)
+và 11 tiếng giao diện (tích theo nốt ngũ cung cho trục thời gian, bóp cho thẻ ghi nhớ, tích tắc khi dừng hình hỏi, chuông lật đáp án, vút chuyển cảnh, nhạc hiệu logo bằng trống đồng + đàn tranh).
+`thiet_ke.py` tự chọn âm cho từng cảnh từ mô tả hình, gợi ý `am_thanh` trong kịch bản và lời thoại; với sa bàn thì đọc tệp `specs/*.json` để đặt tiếng đúng lúc mũi tên chạy, thuyền đi, cọc hiện, thuyền mắc cọc, lửa bùng, sao chiến thắng.
+`render.py` trộn thêm hai kênh: nền + sự kiện (tự hạ nhẹ ~4–5 dB khi có lời) và giao diện (không hạ). Công cụ `tools/lam_lai_am_thanh.py` làm lại riêng âm thanh cho video đã dựng (chép nguyên hình, ~25 giây/tập); `tools/qa_am_thanh.py` đo độ to và vẽ ảnh phổ vì AI không tự nghe được.
+
+| # | AI làm | Lỗi / vấn đề phát hiện khi kiểm tra (bằng số đo, ảnh phổ) | Cách xử lý |
+| --- | --- | --- | --- |
+| 1 | Tạo 64 mẫu âm thanh, chạy thử từng mẫu | 3 tiếng lỗi độ dài mảng; tiếng thuyền cót két ra NaN (luỹ thừa số âm rất nhỏ) | Sửa cách cộng tiếng vào mảng; kẹp đường bao về [0, 1] trước khi luỹ thừa |
+| 2 | Chuẩn các vòng lặp nền theo RMS | 5 vòng lặp chạm 0 dBFS (giọt nước, chim, trống xa có hệ số đỉnh lớn) | Chuẩn theo độ to cảm nhận LUFS (bộ lọc K của ITU-R BS.1770) + bộ nén đỉnh kiểu hạ khuếch đại |
+| 3 | Ghép vào khâu trộn của `render.py` | ffmpeg báo “Invalid file index”: cách đánh số tệp vào `len(ins)//2 − 1` sai khi có `-stream_loop -1` (4 phần tử/tệp) – lỗi tiềm ẩn từ trước | Đếm số tệp vào bằng biến riêng |
+| 4 | Đặt mức theo mục tiêu (nền −30…−26 dBFS RMS dưới lời, sự kiện đỉnh ~−16 dBFS) | Lần đầu nền dưới lời chỉ −32 dBFS, đỉnh lên −4.7 dBFS; nền bị hạ 6 dB khi có lời nên lúc lặng lại to vọt | Đo lời đọc để tự hiệu chỉnh; bộ hạ âm riêng cho kênh SFX nhẹ hơn nhạc (tỉ số 2); bộ giới hạn đỉnh không làm méo; đo từng cảnh: cảnh nền tổng hợp đạt −27…−30 dBFS RMS khi có lời |
+| 5 | Chọn âm nền theo từ khoá | Cảnh sông có “sóng vỗ” bị thêm tiếng biển; cảnh hôm nay ở bờ sông bị thêm “chiến trận” vì lời thoại nhắc trận đánh; câu “Đánh!” làm trống dồn kêu hai lần | Sông thắng biển khi điểm cao hơn; lời thoại chỉ củng cố, không tự quyết nền; hiệu lệnh trong lời thoại thay cho trống theo từ khoá |
+| 6 | Kiểm tra đỉnh thật (true peak) của MP4 | Tệp ra +1.8 dBTP dù bản trộn chỉ −2.0: giọng TTS có bước nhảy rất sắc, bộ mã AAC ở 192 kbps vọt đỉnh +3.8 dB | Dùng 160 kbps như `render.py` (đã thử: −1.9 dBTP), loudnorm đặt TP −2 để bù độ vọt của AAC |
+| 7 | Soi phổ từng tiếng | “Đoàn quân tiến” có 98 % năng lượng dưới 25 Hz (không nghe được nhưng chiếm hết khoảng đỉnh), tiếng sấm gần như câm; nhạc hiệu có độ lệch DC | Cắt tiếng ồn màu dưới 20 Hz ngay từ nguồn, dao động riêng bắt đầu từ pha 0, chặn DC mọi tiếng |
+| 8 | Ảnh phổ có một vạch ngang ~750 Hz suốt tập | Nghi có tiếng ù | Đo phổ Welch từng kênh: không có âm đơn → lỗi hiển thị của showspectrumpic, không phải âm thanh |
+| 9 | Làm lại âm thanh cho tập đã dựng | Clip Kling cảnh 5 tập L7-B14-04 được thêm SAU khi dựng video → nếu lấy tiếng clip sẽ không khớp hình | Công cụ bỏ tiếng của clip mới hơn video và báo lại |
+| 10 | Chạy bộ thiết kế âm thanh trên toàn bộ 206 kịch bản để soát từ khoá | Bắt nhầm nghĩa: “giáo” trong “Phật giáo”, “kiếm” trong “tìm kiếm” → tiếng gươm; “Hồ” trong “Hồ Chí Minh” → tiếng sông; “Điện” trong “Điện Biên Phủ” → không gian cung điện; “chèo” (hát chèo) → mái chèo; “pháo hoa” → đại bác; cảnh hôm nay trong bảo tàng có xe tăng → tiếng nổ | Viết lại mẫu từ khoá theo cụm từ đủ nghĩa (“thanh kiếm”, “giáo mác”, “mặt hồ”, “cung điện”…), loại trừ “pháo hoa/pháo đài”; cảnh dẫn chuyện hiện tại chỉ có tiếng chiến trận khi kịch bản ghi rõ trong trường `am_thanh` |
+
+**Kết quả đo** (tệp MP4 cuối): L8-B8-02 −14.3 LUFS, −1.8 dBTP; L7-B14-04 −14.2 LUFS, −1.8 dBTP; lời đọc −16.4 dBFS RMS, nền mô phỏng dưới lời −27…−31 dBFS RMS theo cảnh. Ghi chú từng cảnh: `tmp/qa/<mã tập>_am_thanh.md`. Mẫu nghe duyệt: `tmp/qa/sfx/`.
+
+## Phiên 3 – 13/11/2026: Kho học liệu số (website, bước 5)
+
+**Yêu cầu:** website học liệu cho học sinh: chọn lớp → bài → tập, tìm kiếm, lọc theo thời lượng và tình trạng; trang tập có video, trang SGK, ghi nhớ, câu hỏi tự chấm; chạy được khi mở thẳng tệp (file://) và trên GitHub Pages; không đăng nhập, không cookie, không tải gì từ bên ngoài; công cụ tự tạo lại khi có kịch bản, video mới.
+
+**AI làm:** `web/_cong-cu/tao_thu_vien.py` đọc danh mục, kịch bản, video đã dựng, mô phỏng và `web/du-lieu/lien-ket.json`, sinh trang tĩnh: `web/index.html`, `web/tap/<MA>.html`, `web/gioi-thieu.html`, `web/du-lieu/thu-vien.json`. CSS/JS dùng chung ở `web/chung/` (cùng màu, phông với `web/mo-phong`; thêm Playfair Display cho tiêu đề như thẻ năm trong video). Video đưa vào `web/videos/` bằng liên kết cứng, không chép, không chuyển mã. Hướng dẫn: `web/_cong-cu/README.md`.
+
+| # | AI làm | Lỗi / vấn đề phát hiện khi kiểm tra | Cách xử lý |
+| --- | --- | --- | --- |
+| 1 | Viết "giải thích" sau mỗi câu hỏi bằng cách tìm câu thuyết minh có chứa đáp án | Bản đầu ghép sai: câu "Năm 2026 thuộc thiên niên kỉ nào?" lấy câu nói về "thiên niên kỉ III **trước Công nguyên**"; đáp án "3" (mấy chiến dịch) khớp nhầm "tháng 3"; câu "Năm nay đánh giặc nhàn" lấy một câu không liên quan | Bắt buộc câu giải thích có từ của câu hỏi (không tính từ của đáp án); đáp án là số phải đi liền danh từ trong câu hỏi ("ba phân khu"); câu hỏi dạng "KHÔNG phải" chỉ ghi số trang. Kết quả: khoảng 84 % câu có giải thích, còn lại chỉ ghi trang SGK |
+| 2 | Ảnh bìa lấy 1 khung hình video | Khung hình có phụ đề gắn sẵn | Ưu tiên ảnh cảnh dẫn chuyện/tái hiện của dự án (cắt đúng 16:9); chỉ tập bản đồ/tư liệu mới dùng khung hình. Không dùng trực tiếp ảnh tư liệu (cần ghi nguồn, giấy phép) |
+| 3 | Đọc dữ liệu câu hỏi bằng `fetch` | Trình duyệt chặn đọc tệp JSON khi mở bằng file:// | Sinh trang tĩnh; dữ liệu câu hỏi nằm ngay trong trang; tắt JavaScript vẫn đọc được câu hỏi và xem đáp án |
+| 4 | Nhúng video YouTube (cho bản đăng công khai) | YouTube từ chối nhúng khi mở bằng file://; nhúng sẵn thì trang tự kết nối YouTube | Nút "Phát video từ YouTube": chỉ tải trình phát (youtube-nocookie.com) sau khi bấm; ở file:// thì mở YouTube thẻ mới. Kiểm tra bằng cách chặn mọi yêu cầu ra ngoài: không có yêu cầu nào trước khi bấm |
+| 5 | Đưa video vào website | Tập L7-B14-04 nặng 103 MB, quá giới hạn 100 MB/tệp của GitHub | `web/videos/` bỏ qua trong git, dùng liên kết cứng tới `renders/v1`; bản công khai dùng link YouTube trong `lien-ket.json`; trang tự báo khi không có tệp video |
+| 6 | Chạy công cụ trong lúc máy đang dựng video | Gặp tệp L9-B8-04.mp4 đang ghi dở | Bỏ qua video sửa trong 2 phút gần nhất và tệp `ffprobe` không đọc được; chạy lại sau là có |
+| 7 | Chụp màn hình bằng Chrome không giao diện (1366 px, 390 px, 1920 px máy chiếu) | Chữ số kiểu cũ của Playfair làm "Bài 1" trông như "Bài ı"; trên điện thoại, khung chờ video dọc 9:16 chiếm cả màn hình và ô "Bài học trong SGK" bị đẩy xuống cuối trang | Dùng chữ số thẳng hàng; khung chờ 16:10; xếp lưới để ô SGK đứng ngay sau video trên điện thoại, cột phải trên máy tính |
+| 8 | Viết trang Giới thiệu | Bản đầu ghi "giáo viên hướng dẫn là người duyệt cuối cùng" như việc đã làm, trong khi kịch bản ghi duyệt theo uỷ quyền | Viết thành nguyên tắc của dự án; tập chưa có kịch bản chỉ hiện tên tập (nội dung nháp của danh mục không đưa lên web) |
+
+**Kiểm tra:** 202 trang, 0 liên kết hỏng, 0 lỗi console, 0 yêu cầu ra ngoài (file:// và http://); tìm không dấu ("bach dang"), lọc, chọn lớp, nhảy tới bài, làm câu hỏi và làm lại đều chạy; bàn phím: phím Tab đầu tiên tới "Bỏ qua, tới nội dung chính"; độ tương phản chữ ≥ 4,6 : 1.

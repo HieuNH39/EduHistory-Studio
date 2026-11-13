@@ -1,0 +1,371 @@
+{
+ "ma": "L8-B1-04",
+ "ten_tap": "Hợp chúng quốc Mỹ ra đời",
+ "ten_tap_en": "The Birth of the United States",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 1. Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+  "trang": [
+   10,
+   11
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nhan-dan-13-thuoc-dia",
+  "tang-lop-chu-no",
+  "giai-cap-tu-san",
+  "thuc-dan-anh"
+ ],
+ "nhac": {
+  "tam_trang": "hào hứng, trống hành quân ở các trận đánh; trang trọng ở cảnh Tuyên ngôn Độc lập; kết tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh minh hoạ; không có lời thoại dựng cho nhân vật lịch sử. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 1, tr. 10–11.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong lớp học FPT hôm nay, trên màn hình lớn là ảnh một văn bản cổ viết tay trên giấy da ngả vàng với dòng tiêu đề lớn (như Hình 1.5 SGK – Tuyên ngôn Độc lập của Hợp chúng quốc Mỹ, 1776)",
+   "am_thanh": "lớp học yên tĩnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là Tuyên ngôn Độc lập của Hợp chúng quốc Mỹ năm 1776. Nó ra đời giữa một cuộc chiến tranh giành độc lập.",
+     "This is the United States Declaration of Independence of 1776. It was born in the middle of a war of independence."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc chiến của 13 thuộc địa Anh ở Bắc Mỹ! Cùng xem nó diễn ra thế nào nhé!",
+     "The war of Britain's 13 North American colonies! Let's see how it unfolded!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1775",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nhan-dan-13-thuoc-dia",
+    "thuc-dan-anh"
+   ],
+   "hinh": "Cánh đồng và hàng rào gỗ ở Bắc Mỹ thế kỉ XVIII: dân quân thuộc địa mặc áo thường, mũ ba góc, cầm súng hoả mai nấp sau bờ rào; phía xa đội hình lính Anh áo đỏ tiến tới; khói súng (không cảnh thương vong)",
+   "am_thanh": "trống hành quân, súng hoả mai nổ xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến đầu thế kỉ XVIII, thực dân Anh đã thành lập 13 thuộc địa ở Bắc Mỹ. Kinh tế tư bản chủ nghĩa phát triển làm mâu thuẫn giữa thuộc địa và chính quốc ngày càng sâu sắc.",
+     "By the early 18th century, Britain had founded 13 colonies in North America. Capitalist growth deepened the conflict between the colonies and the mother country."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 4 năm 1775, chiến tranh bùng nổ giữa thực dân Anh và 13 thuộc địa.",
+     "In April 1775, war broke out between Britain and the 13 colonies."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "tang-lop-chu-no",
+    "giai-cap-tu-san"
+   ],
+   "hinh": "Một hội trường gạch đỏ thế kỉ XVIII ở Bắc Mỹ: các đại biểu thuộc địa mặc áo choàng dài, tóc buộc, đứng quanh chiếc bàn phủ khăn xanh, lần lượt kí vào văn bản lớn trên giấy da (không cận mặt nhân vật cụ thể)",
+   "am_thanh": "tiếng bút lông, chuông nhà thờ xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1776, Hợp chúng quốc Mỹ được thành lập.",
+     "In July 1776, the United States of America was founded."
+    ],
+    [
+     "Nhật Minh",
+     "Tuyên ngôn Độc lập viết: mọi người sinh ra đều có quyền bình đẳng; tạo hoá ban cho họ những quyền không thể tước bỏ, trong đó có quyền được sống, quyền được tự do và quyền mưu cầu hạnh phúc.",
+     "The Declaration says all men are created equal, endowed with rights that cannot be taken away, among them life, liberty and the pursuit of happiness."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nhan-dan-13-thuoc-dia",
+    "thuc-dan-anh"
+   ],
+   "hinh": "Rừng thu lá đỏ ở Bắc Mỹ: quân thuộc địa reo mừng giương cờ, phía bên kia đội quân áo đỏ của Anh hạ vũ khí (viễn cảnh)",
+   "am_thanh": "tiếng reo hò, kèn chiến thắng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1777, chiến thắng Xa-ra-tô-ga là bước ngoặt của cuộc chiến tranh.",
+     "In October 1777, the victory at Saratoga was the war's turning point."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "thuc-dan-anh",
+    "nhan-dan-13-thuoc-dia"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng trên một ngọn đồi cỏ, nhìn xuống cánh đồng nơi hàng dài lính Anh áo đỏ đang đặt súng xuống đất trước quân thuộc địa; cờ bay, trời thu trong",
+   "am_thanh": "trống chậm, gió",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn kìa! Tháng 10 năm 1781, quân Anh thua trận ở I-oóc-tao.",
+     "Look! In October 1781, the British are defeated at Yorktown."
+    ],
+    [
+     "Nhật Minh",
+     "Chiến thắng I-oóc-tao đã kết thúc cuộc chiến tranh!",
+     "The Yorktown victory ends the war!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến thắng nào đã kết thúc Chiến tranh giành độc lập của 13 thuộc địa?",
+    "lua_chon": [
+     "Xa-ra-tô-ga (10 – 1777)",
+     "I-oóc-tao (10 – 1781)",
+     "Bô-xtơn (12 – 1773)"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chiến thắng nào đã kết thúc cuộc chiến tranh?",
+     "Pause! Which victory ended the war?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chiến thắng I-oóc-tao, tháng 10 năm 1781!",
+     "The answer is B: Yorktown, October 1781!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "thuc-dan-anh"
+   ],
+   "hinh": "Một phòng họp sang trọng ở Pa-ri thế kỉ XVIII: các nhà ngoại giao mặc áo nhung, đội tóc giả, ngồi quanh bàn gỗ, chấm bút lông kí văn bản hoà ước; ánh nến (không cận mặt nhân vật cụ thể)",
+   "am_thanh": "tiếng bút, nhạc cổ điển nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1783, Hoà ước Pa-ri được kí kết. Anh công nhận nền độc lập của 13 thuộc địa.",
+     "In September 1783, the Treaty of Paris was signed. Britain recognised the independence of the 13 colonies."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "SƠ ĐỒ SỰ KIỆN · CHIẾN TRANH GIÀNH ĐỘC LẬP",
+   "moc": [
+    [
+     "12 – 1773",
+     "Sự kiện chè Bô-xtơn"
+    ],
+    [
+     "4 – 1775",
+     "Chiến tranh bùng nổ"
+    ],
+    [
+     "7 – 1776",
+     "Hợp chúng quốc Mỹ thành lập"
+    ],
+    [
+     "10 – 1777",
+     "Xa-ra-tô-ga, bước ngoặt"
+    ],
+    [
+     "10 – 1781",
+     "I-oóc-tao, chiến tranh kết thúc"
+    ],
+    [
+     "9 – 1783",
+     "Hoà ước Pa-ri"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng nhìn lại nhé! Tháng 12 năm 1773, nhân dân cảng Bô-xtơn tấn công ba tàu chở chè của Anh. Tháng 4 năm 1775, chiến tranh bùng nổ.",
+     "Recap! December 1773: Boston's people attack three British tea ships. April 1775: war breaks out."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 7 năm 1776, Hợp chúng quốc Mỹ thành lập. Tháng 10 năm 1777, chiến thắng Xa-ra-tô-ga.",
+     "July 1776: the United States is founded. October 1777: victory at Saratoga."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1781, chiến thắng I-oóc-tao. Tháng 9 năm 1783, Hoà ước Pa-ri.",
+     "October 1781: victory at Yorktown. September 1783: the Treaty of Paris."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "KẾT QUẢ – TÍNH CHẤT – ĐẶC ĐIỂM",
+   "y": [
+    "Lật đổ ách thống trị của thực dân Anh, thành lập Hợp chúng quốc Mỹ",
+    "Mở đường cho kinh tế tư bản chủ nghĩa phát triển; mang tính chất một cuộc cách mạng tư sản",
+    "Do tầng lớp chủ nô và tư sản lãnh đạo, hình thức chiến tranh giải phóng, thiết lập chế độ cộng hoà tổng thống"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh đã lật đổ ách thống trị của thực dân Anh, đưa đến sự thành lập Hợp chúng quốc Mỹ, mở đường cho kinh tế tư bản chủ nghĩa phát triển.",
+     "The war overthrew British rule, created the United States and opened the way for capitalism to develop."
+    ],
+    [
+     "Nhật Minh",
+     "Nó mang tính chất một cuộc cách mạng tư sản. Lê-nin gọi đây là cuộc chiến tranh “thực sự giải phóng, thực sự cách mạng”.",
+     "It was in essence a bourgeois revolution. Lenin called it a war 'truly of liberation, truly revolutionary'."
+    ],
+    [
+     "Hân Hân",
+     "Đặc điểm chính: do tầng lớp chủ nô và tư sản lãnh đạo, diễn ra dưới hình thức chiến tranh giải phóng, thiết lập chế độ cộng hoà tổng thống.",
+     "Key features: led by slave-owners and the bourgeoisie, fought as a war of liberation, and establishing a presidential republic."
+    ]
+   ],
+   "nguon_trang": [
+    10,
+    11
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trong lớp học, Hân Hân chỉ lên màn hình có văn bản Tuyên ngôn Độc lập cổ, hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "lớp học",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tìm hiểu xem câu nào trong Tuyên ngôn Độc lập của Hợp chúng quốc Mỹ đã được Chủ tịch Hồ Chí Minh trích dẫn trong Tuyên ngôn Độc lập ngày 2 tháng 9 năm 1945. Bình luận nhé!",
+     "Your challenge: find out which sentence of the US Declaration of Independence President Hồ Chí Minh quoted in Việt Nam's Declaration of Independence on 2 September 1945. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hợp chúng quốc Mỹ được thành lập vào thời gian nào?",
+   "dap_an": [
+    "12 – 1773",
+    "4 – 1775",
+    "7 – 1776",
+    "9 – 1783"
+   ],
+   "dung": 2,
+   "trang": 10
+  },
+  {
+   "hoi": "Chiến thắng nào được coi là bước ngoặt của Chiến tranh giành độc lập?",
+   "dap_an": [
+    "Xa-ra-tô-ga (10 – 1777)",
+    "I-oóc-tao (10 – 1781)",
+    "Bô-xtơn (12 – 1773)",
+    "Hoà ước Pa-ri (9 – 1783)"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Chế độ chính trị được thiết lập sau Chiến tranh giành độc lập là",
+   "dap_an": [
+    "Quân chủ lập hiến",
+    "Quân chủ chuyên chế",
+    "Cộng hoà tổng thống",
+    "Chuyên chính Gia-cô-banh"
+   ],
+   "dung": 2,
+   "trang": 11
+  },
+  {
+   "hoi": "Lực lượng lãnh đạo Chiến tranh giành độc lập của 13 thuộc địa là",
+   "dap_an": [
+    "Quý tộc mới và tư sản",
+    "Tầng lớp chủ nô và tư sản",
+    "Công nhân và nông dân",
+    "Vua và quý tộc"
+   ],
+   "dung": 1,
+   "trang": 11
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 10 (nguyên nhân; 12 – 1773; 4 – 1775; Hình 1.4 – các mốc 7 – 1776, 10 – 1777, 10 – 1781, 9 – 1783 đối chiếu ảnh trang vì OCR bỏ sót; kết quả), tr. 11 (tư liệu Lê-nin, trích Tuyên ngôn Độc lập 1776, tính chất, đặc điểm, Hình 1.5, câu hỏi vận dụng về lời trích của Chủ tịch Hồ Chí Minh). Danh mục: kiến thức chốt khớp SGK. Danh mục có nhân vật G. Oa-sinh-tơn nhưng SGK chỉ in chân dung (Hình 1.2), không nêu vai trò, nên kịch bản không gán việc làm cho ông. SGK chỉ có lược đồ định vị chung ở tr. 7 (không có lược đồ trận đánh) nên dùng sơ đồ thời gian thay sa bàn. Các cảnh trận đánh là minh hoạ chung, không cận mặt nhân vật cụ thể.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

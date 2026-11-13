@@ -1,0 +1,563 @@
+{
+ "ma": "L8-B5-02",
+ "ten_tap": "Chiến tranh Nam – Bắc triều",
+ "ten_tap_en": "The Southern and Northern Courts War",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 5. Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+  "trang": [
+   23,
+   24,
+   25
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "mac-dang-dung",
+  "nguyen-kim",
+  "nguyen-binh-khiem",
+  "quan-nam-trieu",
+  "quan-bac-trieu",
+  "nhan-dan-dai-viet"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, cổ kính ở đầu; căng thẳng, trống trận ở các cảnh giao tranh; buồn, lắng ở đoạn hậu quả và bài thơ Thương loạn; kết suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện (lời Nguyễn Bỉnh Khiêm trích bài thơ Thương loạn theo SGK); hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 5, tr. 23–25.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (áo khoác, ba lô) leo lên một ngọn đồi ở Cao Bằng hôm nay, dừng trước những đoạn tường thành đá cổ phủ rêu xanh của di tích thành nhà Mạc; xa xa là núi đá vôi và ruộng bậc thang, mây trắng lững lờ",
+   "am_thanh": "gió núi, chim rừng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là di tích thành nhà Mạc ở tỉnh Cao Bằng. Vì sao một vương triều lại lập thành ở vùng núi xa xôi thế này nhỉ?",
+     "This is the Mạc citadel relic in Cao Bằng province. Why would a dynasty build a citadel in such remote mountains?"
+    ],
+    [
+     "Nhật Minh",
+     "Câu trả lời nằm trong một cuộc xung đột kéo dài gần 60 năm: Nam – Bắc triều. Tụi mình cùng về thế kỉ XVI nhé!",
+     "The answer lies in a conflict that lasted nearly 60 years: the Southern and Northern Courts. Let's go back to the 16th century!"
+    ]
+   ],
+   "nguon_trang": [
+    23,
+    25
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1527",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "mac-dang-dung"
+   ],
+   "hinh": "Triều đình nhà Lê đầu thế kỉ XVI: các phe quan lại đứng hai bên điện chỉ trỏ, tranh cãi gay gắt; ở giữa, võ quan Mạc Đăng Dung (vẽ theo tranh tư liệu: dáng khoẻ mạnh, mũ cánh chuồn, áo võ quan) đứng điềm tĩnh, ánh mắt sắc; ngai vàng phía trên tối và trống trải",
+   "am_thanh": "tiếng tranh cãi xì xào trong điện",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến đầu thế kỉ XVI, nhà Lê lâm vào khủng hoảng. Các phe phái phong kiến tranh chấp ngày càng quyết liệt, khởi nghĩa nông dân nổ ra ở nhiều nơi.",
+     "By the early 16th century, the Lê dynasty was in crisis. Feudal factions fought ever more bitterly, and peasant uprisings broke out in many places."
+    ],
+    [
+     "Hân Hân",
+     "Mạc Đăng Dung, một võ quan trong Triều Lê, đã lợi dụng xung đột giữa các phe phái để tiêu diệt các thế lực đối địch và thâu tóm mọi quyền hành.",
+     "Mạc Đăng Dung, a military official at the Lê court, used the factional strife to destroy his rivals and seize all power."
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "mac-dang-dung"
+   ],
+   "hinh": "Mạc Đăng Dung mặc hoàng bào bước lên ngai vàng trong điện rộng, quan lại hai bên cúi đầu; cờ mới được dựng lên (không cảnh bạo lực)",
+   "am_thanh": "tiếng chiêng trống lễ đăng quang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhận thấy sự bất lực của nhà Lê, năm 1527, Mạc Đăng Dung ép vua Lê nhường ngôi, lập ra Triều Mạc.",
+     "Seeing how powerless the Lê were, in 1527 Mạc Đăng Dung forced the Lê king to give up the throne and founded the Mạc dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-kim",
+    "quan-nam-trieu"
+   ],
+   "hinh": "Vùng núi đồi Thanh Hoá: quan võ Nguyễn Kim (vẽ theo tranh tư liệu: áo giáp, khăn đầu rìu) đứng trên gò cao giữa doanh trại dựng tạm, giơ cao kiếm trước đông đảo binh sĩ; bên cạnh là một người trẻ trong áo vàng được rước lên ghế cao (người con của vua Lê); cờ xí bay",
+   "am_thanh": "tiếng hô vang của binh sĩ, trống dồn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng một bộ phận quan lại vẫn trung thành với Triều Lê, ra sức chống lại để khôi phục vương triều.",
+     "But some officials stayed loyal to the Lê and fought to restore the dynasty."
+    ],
+    [
+     "Nguyễn Kim",
+     "Phù Lê, diệt Mạc! Lập lại cơ nghiệp nhà Lê!",
+     "Support the Lê, destroy the Mạc! Restore the Lê dynasty!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1533, Nguyễn Kim vào Thanh Hoá, lấy danh nghĩa “phù Lê diệt Mạc”, đưa một người con của vua Lê lên ngôi.",
+     "In 1533, Nguyễn Kim went to Thanh Hoá and, in the name of 'supporting the Lê and destroying the Mạc', put a son of the Lê king on the throne."
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 6,
+   "lop": "sa_ban",
+   "sa_ban": "nam-bac-trieu",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 13,
+   "hinh": "Sa bàn Việt Nam (có quần đảo Hoàng Sa, Trường Sa) thu dần về miền Bắc: kinh đô Bắc triều Đông Kinh, kinh đô Nam triều Tây Đô",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử cũ gọi vương triều mà Nguyễn Kim lập lại là Nam triều, để phân biệt với Bắc triều của nhà Mạc ở phía bắc.",
+     "Old chronicles called the court Nguyễn Kim restored the Southern Court, to tell it apart from the Mạc's Northern Court."
+    ],
+    [
+     "Nhật Minh",
+     "Trên lược đồ, kinh đô Bắc triều là Đông Kinh, còn kinh đô Nam triều là Tây Đô. Mâu thuẫn giữa hai triều dẫn đến cuộc xung đột gần 60 năm, từ năm 1533 đến năm 1592.",
+     "On the map, the Northern capital is Đông Kinh and the Southern capital is Tây Đô. Their rivalry led to nearly 60 years of conflict, from 1533 to 1592."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "sa_ban",
+   "sa_ban": "nam-bac-trieu",
+   "pha": "cam_cu",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn miền Bắc: mũi tên quân Nam triều từ Tây Đô đánh ra vùng Sơn Nam và trung du, rồi lại rút về",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn đầu, từ năm 1533 đến năm 1570, là giai đoạn hai bên cầm cự.",
+     "In the first phase, from 1533 to 1570, the two sides were locked in stalemate."
+    ],
+    [
+     "Hân Hân",
+     "Nam triều xây dựng căn cứ ở vùng Thanh – Nghệ, tấn công vùng Sơn Nam, trung du và đồng bằng Bắc Bộ, nhưng không thay đổi được tình thế.",
+     "The Southern Court built its base in Thanh – Nghệ and attacked Sơn Nam, the midlands and the northern delta, but could not change the situation."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nguyễn Kim lấy danh nghĩa gì để lập Nam triều?",
+    "lua_chon": [
+     "“Phù Lê diệt Mạc”",
+     "“Phù Mạc diệt Lê”",
+     "“Phù Trịnh diệt Nguyễn”"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nguyễn Kim lấy danh nghĩa gì để lập Nam triều?",
+     "Pause! In whose name did Nguyễn Kim set up the Southern Court?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: “phù Lê diệt Mạc”, tức giúp nhà Lê, diệt nhà Mạc!",
+     "The answer is A: 'support the Lê, destroy the Mạc'!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quan-bac-trieu",
+    "nhan-dan-dai-viet"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) nấp sau rặng tre trên một gò đất ven biển miền Thanh – Nghệ; phía dưới, đoàn quân đông đảo cầm giáo, cờ xí rầm rập hành quân về phía nam; dân làng gồng gánh, bế con chạy loạn, khói bốc lên từ xóm xa (không cảnh thương vong)",
+   "am_thanh": "tiếng bước quân, tiếng trẻ khóc xa, gió biển",
+   "loi": [
+    [
+     "Hân Hân",
+     "Suỵt… Từ năm 1570 đến năm 1583, quân Bắc triều nhiều lần đánh vào đất Thanh – Nghệ.",
+     "Shh… Between 1570 and 1583, the Northern Court's army struck into Thanh – Nghệ again and again."
+    ],
+    [
+     "Nhật Minh",
+     "Người dân ở đây lại phải bỏ nhà chạy loạn rồi…",
+     "The people here have to flee their homes once more…"
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "nam-bac-trieu",
+   "pha": "bac_trieu_tien",
+   "thoi_luong_toi_thieu": 10,
+   "hinh": "Sa bàn: mũi tên quân Bắc triều đánh vào Thanh – Nghệ, lửa cháy dọc vùng bờ biển từ Thanh Hoá đến Thuận Hoá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cả vùng bờ biển từ Thanh Hoá đến Thuận Hoá trở thành chiến trường khốc liệt.",
+     "The whole coast from Thanh Hoá to Thuận Hoá became a brutal battlefield."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "quan-nam-trieu"
+   ],
+   "hinh": "Đại quân Nam triều (cờ vàng, giáo dài, voi chiến, kị binh) rời doanh trại Thanh Hoá, nối nhau tiến ra phía bắc trên con đường đất giữa đồng ruộng bỏ hoang, bình minh",
+   "am_thanh": "trống hành quân, voi rống, vó ngựa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1583, sau khi củng cố lực lượng, quân Nam triều đánh ra Bắc.",
+     "From 1583, having built up its strength, the Southern Court's army marched north."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 12,
+   "lop": "sa_ban",
+   "sa_ban": "nam-bac-trieu",
+   "pha": "ra_bac",
+   "thoi_luong_toi_thieu": 12,
+   "hinh": "Sa bàn: mũi tên quân Nam triều tiến về Đông Kinh, ngôi sao ở Đông Kinh, nhà Mạc rút chạy lên Cao Bằng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1592, quân Nam triều tổng phản công ra Bắc, chiếm được Thăng Long, khi ấy gọi là Đông Kinh. Nhà Mạc chạy lên Cao Bằng.",
+     "In 1592, the Southern army launched a general counter-offensive, taking Thăng Long, then called Đông Kinh. The Mạc fled to Cao Bằng."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc xung đột Nam – Bắc triều chấm dứt.",
+     "The war between the Southern and Northern Courts was over."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nhan-dan-dai-viet"
+   ],
+   "hinh": "Một làng quê đồng bằng sau chiến tranh: nhà tranh đổ nát, ruộng đồng cỏ mọc um tùm không người cày cấy, khung cửi bỏ dở; một người mẹ bế con đứng nhìn theo đoàn trai làng bị bắt đi lính, đi phu (không cảnh thương vong)",
+   "am_thanh": "gió heo may, tiếng sáo buồn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuộc xung đột khiến đất nước bị chia cắt. Cả vùng Thanh – Nghệ và đồng bằng Bắc Bộ đều là chiến trường.",
+     "The conflict split the country. Thanh – Nghệ and the northern delta were both battlefields."
+    ],
+    [
+     "Hân Hân",
+     "Làng mạc bị tàn phá, sản xuất nông nghiệp, thủ công nghiệp đình trệ, buôn bán giữa các vùng gặp nhiều khó khăn.",
+     "Villages were destroyed, farming and crafts stalled, and trade between regions became very hard."
+    ],
+    [
+     "Nhật Minh",
+     "Nhân dân khốn cùng vì nạn đói, vì bị bắt đi lính, đi phu. Nhiều gia đình phải li tán.",
+     "People fell into misery from famine and from being forced into soldiering and labour. Many families were torn apart."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-binh-khiem"
+   ],
+   "hinh": "Nhà thơ Nguyễn Bỉnh Khiêm (vẽ theo tranh, tượng thờ: cụ già râu tóc bạc, khăn xếp, áo the) ngồi bên án thư dưới ánh đèn dầu trong ngôi nhà gỗ đơn sơ, cầm bút lông viết lên giấy dó, ngoài cửa sổ là cánh đồng hoang vắng",
+   "am_thanh": "đêm tĩnh, tiếng dế, đàn bầu trầm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà thơ Nguyễn Bỉnh Khiêm đã ghi lại cảnh ấy trong bài thơ Thương loạn.",
+     "The poet Nguyễn Bỉnh Khiêm captured those scenes in his poem 'Grieving the Chaos'."
+    ],
+    [
+     "Nguyễn Bỉnh Khiêm",
+     "Cả một vùng từ đông sang tây, đồng ruộng chẳng có gì cày cấy. Chiến tranh cứ nối tiếp nhau, tai hoạ thật là cùng cực.",
+     "From east to west across the land, no field is left to plough. War follows war without an end; the misery is beyond all measure."
+    ]
+   ],
+   "nguon_trang": [
+    25
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1592, quân Nam triều chiếm được Thăng Long, nhà Mạc chạy lên đâu?",
+    "lua_chon": [
+     "Thanh Hoá",
+     "Thuận Hoá",
+     "Cao Bằng"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Năm 1592, khi quân Nam triều chiếm được Thăng Long, nhà Mạc chạy lên đâu?",
+     "Quick test! In 1592, when the Southern army took Thăng Long, where did the Mạc flee?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: Cao Bằng, nơi ngày nay vẫn còn di tích thành nhà Mạc!",
+     "The answer is C: Cao Bằng, where a Mạc citadel relic still stands today!"
+    ]
+   ],
+   "nguon_trang": [
+    23,
+    25
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · NAM – BẮC TRIỀU",
+   "moc": [
+    [
+     "1527",
+     "Mạc Đăng Dung lập Triều Mạc"
+    ],
+    [
+     "1533",
+     "Nguyễn Kim lập Nam triều, xung đột bắt đầu"
+    ],
+    [
+     "1533 – 1570",
+     "Hai bên cầm cự"
+    ],
+    [
+     "1570 – 1583",
+     "Bắc triều đánh vào Thanh – Nghệ"
+    ],
+    [
+     "1583 – 1592",
+     "Nam triều đánh ra Bắc"
+    ],
+    [
+     "1592",
+     "Chiếm Thăng Long, xung đột chấm dứt"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhé! Năm 1527, Mạc Đăng Dung lập Triều Mạc.",
+     "Recap! 1527: Mạc Đăng Dung founds the Mạc dynasty."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1533, Nguyễn Kim lập Nam triều, xung đột bắt đầu. Đến năm 1570, hai bên cầm cự.",
+     "1533: Nguyễn Kim sets up the Southern Court and the war begins. Until 1570, a stalemate."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1570 đến năm 1583, Bắc triều nhiều lần đánh vào Thanh – Nghệ.",
+     "1570 to 1583: the Northern Court repeatedly attacks Thanh – Nghệ."
+    ],
+    [
+     "Nhật Minh",
+     "Sau đó Nam triều đánh ra Bắc, và năm 1592 chiếm được Thăng Long. Xung đột chấm dứt.",
+     "Then the South marches north, and in 1592 takes Thăng Long. The war ends."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    3,
+    3
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 18,
+   "lop": "ghi_nho",
+   "y": [
+    "1527: Mạc Đăng Dung ép vua Lê nhường ngôi, lập Triều Mạc (Bắc triều)",
+    "1533: Nguyễn Kim “phù Lê diệt Mạc”, lập lại nhà Lê (Nam triều)",
+    "Xung đột gần 60 năm (1533 – 1592), kết thúc khi Nam triều chiếm Thăng Long",
+    "Hệ quả: đất nước chia cắt, làng mạc tàn phá, nhân dân khốn cùng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1527, Mạc Đăng Dung lập Triều Mạc, sử gọi là Bắc triều.",
+     "Remember: in 1527 Mạc Đăng Dung founded the Mạc dynasty, the Northern Court."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1533, Nguyễn Kim lấy danh nghĩa “phù Lê diệt Mạc”, lập Nam triều.",
+     "In 1533 Nguyễn Kim, in the name of the Lê, set up the Southern Court."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc xung đột kéo dài gần 60 năm, đến năm 1592 thì chấm dứt.",
+     "The conflict lasted nearly 60 years and ended in 1592."
+    ],
+    [
+     "Hân Hân",
+     "Hệ quả là đất nước bị chia cắt, làng mạc bị tàn phá, nhân dân khốn cùng.",
+     "It left the country divided, villages ruined and the people in misery."
+    ]
+   ],
+   "nguon_trang": [
+    24,
+    25
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại bên tường thành đá của di tích thành nhà Mạc ở Cao Bằng lúc hoàng hôn, mây vàng phủ núi; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "gió núi nhẹ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: giả sử cậu là một người dân sống ở thế kỉ XVI, hãy đưa ra ít nhất một lí do để phản đối cuộc xung đột Nam – Bắc triều. Bình luận nhé!",
+     "Your challenge: imagine you lived in the 16th century. Give at least one reason to oppose the Southern–Northern Courts war. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1527, ai đã ép vua Lê nhường ngôi, lập ra Triều Mạc?",
+   "dap_an": [
+    "Nguyễn Kim",
+    "Mạc Đăng Dung",
+    "Trịnh Kiểm",
+    "Nguyễn Hoàng"
+   ],
+   "dung": 1,
+   "trang": 24
+  },
+  {
+   "hoi": "Cuộc xung đột Nam – Bắc triều kéo dài trong khoảng thời gian nào?",
+   "dap_an": [
+    "1527 – 1533",
+    "1533 – 1592",
+    "1545 – 1592",
+    "1627 – 1672"
+   ],
+   "dung": 1,
+   "trang": 25
+  },
+  {
+   "hoi": "Giai đoạn 1570 – 1583, vùng nào trở thành chiến trường khốc liệt?",
+   "dap_an": [
+    "Vùng bờ biển từ Thanh Hoá đến Thuận Hoá",
+    "Vùng Cao Bằng, Lạng Sơn",
+    "Vùng Gia Định",
+    "Vùng Tây Nguyên"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Hệ quả nào KHÔNG phải của cuộc xung đột Nam – Bắc triều?",
+   "dap_an": [
+    "Đất nước bị chia cắt",
+    "Sản xuất bị đình trệ",
+    "Nhiều gia đình li tán",
+    "Kinh tế cả nước phát triển mạnh"
+   ],
+   "dung": 3,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 23 (khủng hoảng nhà Lê, Mạc Đăng Dung thâu tóm quyền hành; di tích thành nhà Mạc tỉnh Cao Bằng), tr. 24 (năm 1527 lập Triều Mạc; năm 1533 Nguyễn Kim, Nam triều – Bắc triều; Hình 5.2 kinh đô Bắc triều Đông Kinh, kinh đô Nam triều Tây Đô), tr. 25 (gần 60 năm 1533 – 1592; Hình 5.3; hệ quả; thơ Thương loạn), tr. 27 (câu hỏi vận dụng dùng cho thử thách). Các mốc 1570 và 1583 lấy từ ảnh trang 25 (Hình 5.3, OCR bỏ sót) – đã kiểm tra trên ảnh. Sửa kiến thức chốt danh mục: SGK không nói 'nhân dân lầm than' mà nêu cụ thể 'đời sống nhân dân khốn cùng vì nạn đói, bị bắt đi lính, đi phu, nhiều gia đình li tán' → dùng đúng ý SGK. Lời Nguyễn Kim là lời dựng theo khẩu hiệu 'phù Lê diệt Mạc' trong SGK; lời Nguyễn Bỉnh Khiêm là 4 câu thơ dịch trích đúng SGK. Sa bàn 'nam-bac-trieu' vẽ lại, giản lược theo Hình 5.2, 5.3 (có quần đảo Hoàng Sa, Trường Sa); hướng mũi tên là minh hoạ theo nội dung sơ đồ.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

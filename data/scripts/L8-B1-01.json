@@ -1,0 +1,188 @@
+{
+ "ma": "L8-B1-01",
+ "ten_tap": "Tại sao nước Anh bùng nổ cách mạng?",
+ "ten_tap_en": "Why Did Revolution Break Out in England?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 1. Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+  "trang": [
+   8,
+   9
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quy-toc-moi",
+  "nong-dan",
+  "giai-cap-tu-san"
+ ],
+ "nhac": {
+  "tam_trang": "nhanh, tò mò, căng dần",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh nước Anh đầu thế kỉ XVII là minh hoạ chung (không có nhân vật có tên), Minh – Hân chỉ quan sát; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 1, tr. 8–9.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Hân Hân giơ chiếc áo len trước gương mặt ngạc nhiên của Nhật Minh trong lớp học hôm nay; trên bảng có chữ 'Bài 1'",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có tin không: những đàn cừu đã góp phần châm ngòi cho cách mạng ở nước Anh!",
+     "Would you believe it: flocks of sheep helped spark a revolution in England!"
+    ],
+    [
+     "Nhật Minh",
+     "Cừu á? Đầu thế kỉ XVII, kinh tế Anh phát triển nhất châu Âu cơ mà!",
+     "Sheep? But in the early 17th century, England had Europe's most developed economy!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "quy-toc-moi",
+    "nong-dan"
+   ],
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân đứng bên bờ rào gỗ mới dựng ở vùng quê nước Anh thế kỉ XVII, nhìn đàn cừu trắng trên đồng cỏ; phía xa một gia đình nông dân rời nhà, gánh đồ đạc ra đi; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công nghiệp len dạ phát triển khiến nuôi cừu có lợi nhất. Nhiều quý tộc vừa và nhỏ kinh doanh theo lối tư bản, đuổi tá điền, rào đất làm đồng cỏ.",
+     "The booming wool industry made sheep farming most profitable. Many lesser nobles ran their estates capitalist-style, evicting tenants and fencing land for pasture."
+    ],
+    [
+     "Nhật Minh",
+     "Họ trở thành tầng lớp quý tộc mới. Còn nông dân mất đất, sống vô cùng khổ cực.",
+     "They became the new nobility. Peasants lost their land and lived in great hardship."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI PHE ĐỐI LẬP",
+   "y": [
+    "Vua và các thế lực phong kiến phản động",
+    "Tư sản, quý tộc mới, nông dân, bình dân thành thị"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xã hội chia thành hai phe. Mâu thuẫn gay gắt giữa tư sản, quý tộc mới với chế độ quân chủ chuyên chế đã dẫn tới cách mạng.",
+     "Society split into two camps. Sharp conflict between the bourgeoisie and new nobility and the absolute monarchy led to revolution."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Quý tộc chuyển sang kinh doanh theo lối tư bản chủ nghĩa ở Anh được gọi là",
+    "lua_chon": [
+     "Quý tộc mới",
+     "Tá điền",
+     "Bình dân thành thị"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Những quý tộc kinh doanh theo lối tư bản được gọi là gì?",
+     "Pause! What were the nobles who ran capitalist-style businesses called?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: quý tộc mới!",
+     "The answer is A: the new nobility!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh khoác chiếc áo len, Hân Hân chỉ tay về phía người xem, phía sau là bảng lớp hôm nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, người nông dân mất đất sẽ đứng về phe nào? Bình luận nhé!",
+     "Which side do you think the landless peasants joined? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đầu thế kỉ XVII, kinh tế nước Anh có đặc điểm gì?",
+   "dap_an": [
+    "Lạc hậu nhất châu Âu",
+    "Phát triển nhất châu Âu",
+    "Chỉ dựa vào trồng lúa mì",
+    "Phụ thuộc vào Pháp"
+   ],
+   "dung": 1,
+   "trang": 8
+  },
+  {
+   "hoi": "Vì sao nghề nuôi cừu ở Anh trở nên có lợi nhất?",
+   "dap_an": [
+    "Vì công nghiệp len dạ phát triển",
+    "Vì nhà vua ra lệnh",
+    "Vì mất mùa lúa mì",
+    "Vì xuất khẩu thịt cừu"
+   ],
+   "dung": 0,
+   "trang": 8
+  },
+  {
+   "hoi": "Phe nào đối lập với vua và các thế lực phong kiến phản động?",
+   "dap_an": [
+    "Tư sản, quý tộc mới, nông dân, bình dân thành thị",
+    "Chủ nô và nô lệ",
+    "Thực dân Anh",
+    "Giáo hội"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Mâu thuẫn nào dẫn tới Cách mạng tư sản Anh?",
+   "dap_an": [
+    "Giữa tư sản, quý tộc mới với chế độ quân chủ chuyên chế",
+    "Giữa Anh với Pháp",
+    "Giữa thuộc địa với chính quốc",
+    "Giữa công nhân với tư sản"
+   ],
+   "dung": 0,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 8 (kinh tế Anh đầu thế kỉ XVII; len dạ, nuôi cừu; quý tộc mới; nông dân khổ cực), tr. 9 (hai phe đối lập; mâu thuẫn dẫn tới cách mạng). Danh mục: 'mâu thuẫn với chế độ phong kiến' sửa theo SGK thành 'với chế độ quân chủ chuyên chế'.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

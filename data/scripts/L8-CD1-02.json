@@ -1,0 +1,554 @@
+{
+ "ma": "L8-CD1-02",
+ "ten_tap": "Sông Hồng: Mùa lũ và những con đê huyền thoại",
+ "ten_tap_en": "The Red River: Flood Seasons and Legendary Dykes",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 1. Văn minh châu thổ sông Hồng và sông Cửu Long",
+  "trang": [
+   155,
+   156,
+   157,
+   159,
+   160,
+   161
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-nhan-tong",
+  "ha-de-su",
+  "nguyen-cong-tru",
+  "nguyen-anh",
+  "nong-dan-dai-viet",
+  "cu-dan-thoi-hung-vuong"
+ ],
+ "nhac": {
+  "tam_trang": "êm, khoáng đạt bên dòng sông; dồn dập ở cảnh lũ lên; cổ kính, chắc khoẻ ở các cảnh đắp đê qua các triều đại; kết ấm áp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện (lời vua Gia Long diễn đạt lại tờ chiếu trong SGK); hình ảnh minh hoạ. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 1, tr. 155–161.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT, xe đạp dựng bên cạnh) đứng trên mặt một con đê lớn ven sông Hồng hôm nay: một bên là dòng sông rộng nước nâu đỏ nặng phù sa, bãi bồi xanh; bên kia là nhà cửa, đồng ruộng thấp hơn hẳn mặt đê; trời chiều",
+   "am_thanh": "gió sông, tiếng xe máy xa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhật Minh nhìn này: nhà cửa, ruộng đồng bên trong thấp hơn mặt đê rất nhiều. Vì sao ông cha ta phải đắp đê cao thế nhỉ?",
+     "Look, Nhat Minh: the houses and fields inside are much lower than the dyke. Why did our ancestors build the dykes so high?"
+    ],
+    [
+     "Nhật Minh",
+     "Vì con sông Hồng này có những mùa lũ dữ dội! Hôm nay mình cùng tìm hiểu dòng sông và những con đê nhé!",
+     "Because the Red River has fierce flood seasons! Today let's explore the river and its dykes!"
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "HỆ THỐNG SÔNG HỒNG",
+   "y": [
+    "Dòng chính bắt nguồn từ Trung Quốc, chảy theo hướng tây bắc – đông nam, đổ ra vịnh Bắc Bộ",
+    "Châu thổ rộng khoảng 15 000 km², dạng tam giác, đỉnh ở Thanh Miếu (tỉnh Phú Thọ)",
+    "Tổng lượng dòng chảy khoảng 112 tỉ m³/năm",
+    "Phù sa rất phong phú: khoảng 120 triệu tấn/năm"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hệ thống sông Hồng là một trong hai hệ thống sông lớn nhất Việt Nam. Dòng chính bắt nguồn từ Trung Quốc, chảy theo hướng tây bắc – đông nam rồi đổ ra vịnh Bắc Bộ.",
+     "The Red River system is one of Việt Nam's two largest. Its main stream rises in China, flows northwest to southeast and empties into the Gulf of Tonkin."
+    ],
+    [
+     "Hân Hân",
+     "Châu thổ sông Hồng rộng khoảng 15 nghìn ki-lô-mét vuông, có dạng tam giác, đỉnh ở Thanh Miếu, tỉnh Phú Thọ.",
+     "The Red River Delta covers about 15 thousand square kilometres, a triangle with its tip at Thanh Miếu in Phú Thọ."
+    ],
+    [
+     "Nhật Minh",
+     "Mỗi năm, hệ thống sông chở khoảng 112 tỉ mét khối nước và khoảng 120 triệu tấn phù sa!",
+     "Each year the system carries about 112 billion cubic metres of water and about 120 million tonnes of silt!"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    155
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân ngồi trên một chiếc thuyền máy nhỏ gần cửa sông Hồng đổ ra biển hôm nay, nước sông đỏ phù sa hoà vào biển xanh tạo thành vệt màu rõ rệt; bãi bồi mới nhô lên, cò trắng bay",
+   "am_thanh": "sóng nhẹ, máy thuyền, chim",
+   "loi": [
+    [
+     "Hân Hân",
+     "Châu thổ sông Hồng hình thành nhờ phù sa của hệ thống sông, kết hợp với tác động của thuỷ triều và sóng biển. Phù sa lắng đọng ở cửa sông, tạo nên châu thổ.",
+     "The delta was built by the river's silt, together with tides and waves. Silt settles at the river mouth and forms the delta."
+    ],
+    [
+     "Nhật Minh",
+     "Châu thổ cứ thế tiến dần ra biển. Một số nơi ở Ninh Bình, Hưng Yên tiến ra biển tới hàng chục mét mỗi năm!",
+     "So the delta keeps growing out to sea. In parts of Ninh Bình and Hưng Yên it advances by tens of metres a year!"
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHẾ ĐỘ NƯỚC SÔNG HỒNG",
+   "y": [
+    "Mùa lũ: 5 tháng (tháng 6 – tháng 10), khoảng 75% lưu lượng cả năm, lũ lên nhanh và đột ngột",
+    "Mùa cạn: 7 tháng (tháng 11 – tháng 5 năm sau), khoảng 25% lưu lượng cả năm",
+    "Phụ lưu lớn nhất: sông Đà, sông Lô; mạng lưới hình nan quạt",
+    "Các hồ chứa ở thượng lưu làm chế độ nước điều hoà hơn"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chế độ nước sông Hồng khá đơn giản: một mùa lũ và một mùa cạn rõ rệt.",
+     "The Red River's regime is fairly simple: one clear flood season and one clear dry season."
+    ],
+    [
+     "Hân Hân",
+     "Mùa lũ kéo dài 5 tháng, từ tháng 6 đến tháng 10, chiếm khoảng 75 phần trăm lưu lượng cả năm, với những đợt lũ lên nhanh và đột ngột.",
+     "The flood season lasts 5 months, June to October, carrying about 75 percent of the year's flow, with floods that rise fast and suddenly."
+    ],
+    [
+     "Nhật Minh",
+     "Mùa cạn kéo dài 7 tháng, từ tháng 11 đến tháng 5 năm sau, chỉ chiếm khoảng 25 phần trăm, mực nước hạ thấp rõ rệt.",
+     "The dry season lasts 7 months, November to May, with only about 25 percent, and the water level drops sharply."
+    ],
+    [
+     "Hân Hân",
+     "Các phụ lưu, lớn nhất là sông Đà và sông Lô, hợp với dòng chính thành mạng lưới hình nan quạt. Từ khi có các hồ chứa ở thượng lưu, chế độ nước đã điều hoà hơn.",
+     "Its tributaries, the largest being the Đà and the Lô, join the main stream in a fan shape. Since reservoirs were built upstream, the flow has become more even."
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mùa lũ của sông Hồng kéo dài từ tháng nào đến tháng nào?",
+    "lua_chon": [
+     "Tháng 6 đến tháng 10",
+     "Tháng 7 đến tháng 11",
+     "Tháng 11 đến tháng 5"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Mùa lũ của sông Hồng kéo dài từ tháng nào đến tháng nào?",
+     "Pause! When does the Red River's flood season run?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: từ tháng 6 đến tháng 10, tức 5 tháng!",
+     "The answer is A: from June to October, 5 months!"
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Hùng Vương",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "cu-dan-thoi-hung-vuong"
+   ],
+   "hinh": "Vùng Phong Châu thời Hùng Vương: cư dân Việt cổ đóng khố, búi tóc, gánh đất bằng sọt tre đổ lên bờ ruộng, tôn cao mặt ruộng bên dòng sông đang lên; nhà sàn mái cong phía xa",
+   "am_thanh": "tiếng nước chảy, tiếng hò lao động",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo các chuyên gia về thuỷ lợi, đê điều, đê đã có từ thời Hùng Vương, xuất hiện ở Phong Châu, nay thuộc tỉnh Phú Thọ.",
+     "According to irrigation and dyke experts, dykes date back to the Hùng kings, first appearing at Phong Châu in today's Phú Thọ."
+    ],
+    [
+     "Hân Hân",
+     "Khi lũ lên ngập ruộng, người dân đổ đất tôn ruộng lên cao, mỗi năm thêm một chút. Cách làm đó gọi là “thổ nhô”.",
+     "When floods covered the fields, people piled up earth to raise them a little more each year. This was called 'thổ nhô'."
+    ]
+   ],
+   "nguon_trang": [
+    159
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ly-nhan-tong",
+    "nong-dan-dai-viet"
+   ],
+   "hinh": "Năm 1108 bên bờ sông gần kinh thành Thăng Long: vua Lý Nhân Tông (vẽ theo tranh tư liệu, áo bào vàng, mũ miện) đứng trên gò cao cùng quan lại, chỉ tay về phía dòng sông; hàng nghìn dân phu gánh đất, đầm đất đắp con đê dài",
+   "am_thanh": "tiếng đầm đất, hò dô ta",
+   "loi": [
+    [
+     "Lý Nhân Tông",
+     "Đắp đê Cơ Xá cho vững, giữ kinh thành Thăng Long khỏi ngập lụt!",
+     "Build the Cơ Xá dyke strong, to keep Thăng Long safe from floods!"
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1108, vua Lý Nhân Tông cho xây dựng đê Cơ Xá để bảo vệ kinh thành Thăng Long. Đó là tuyến đê đầu tiên.",
+     "In 1108, King Lý Nhân Tông had the Cơ Xá dyke built to protect Thăng Long. It was the first dyke line."
+    ],
+    [
+     "Hân Hân",
+     "Nhà vua còn ra lệnh đắp đê trên sông Như Nguyệt, tức sông Cầu bây giờ, dài 30 ki-lô-mét. Từ thế kỉ XI, thời Lý đã cho đắp đê dọc theo hầu hết các con sông lớn.",
+     "He also ordered a 30-kilometre dyke on the Như Nguyệt River, today's Cầu River. From the 11th century, the Lý built dykes along almost all major rivers."
+    ]
+   ],
+   "nguon_trang": [
+    156,
+    159,
+    160
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "ha-de-su",
+    "nong-dan-dai-viet"
+   ],
+   "hinh": "Thời Trần: một vị quan Hà đê sứ (áo quan màu chàm, mũ quan, tay cầm cuộn sổ) đi dọc mặt đê cao bên sông Hồng mùa nước lên, chỉ vào đoạn đê bị thấm nước; dân phu khiêng đất, cọc tre gia cố",
+   "am_thanh": "nước sông cuồn cuộn, gió mạnh",
+   "loi": [
+    [
+     "Hà đê sứ",
+     "Đoạn đê này xung yếu, phải gia cố ngay trước khi lũ lớn về!",
+     "This stretch is weak. Shore it up before the big flood comes!"
+    ],
+    [
+     "Hân Hân",
+     "Thời Trần, triều đình cho gia cố các đoạn đê xung yếu ở hai bên bờ sông Hồng, từ đầu nguồn tới biển, gọi là đê quai vạc.",
+     "Under the Trần, the court reinforced weak stretches on both banks of the Red River from source to sea: the 'quai vạc' dykes."
+    ],
+    [
+     "Nhật Minh",
+     "Triều đình còn đặt ra chức quan Hà đê sứ, chuyên trông coi việc bồi đắp và bảo vệ đê điều.",
+     "It also created the post of Hà đê sứ, an official dedicated to building up and protecting the dykes."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Triều đại nào đặt ra chức quan Hà đê sứ trông coi đê điều?",
+    "lua_chon": [
+     "Nhà Lý",
+     "Nhà Trần",
+     "Nhà Nguyễn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Triều đại nào đặt ra chức quan Hà đê sứ?",
+     "Quick test! Which dynasty created the post of Hà đê sứ?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: nhà Trần!",
+     "The answer is B: the Trần dynasty!"
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-cong-tru",
+    "nong-dan-dai-viet"
+   ],
+   "hinh": "Vùng bãi bồi ven biển thời Nguyễn: Doanh điền sứ Nguyễn Công Trứ (vẽ theo tranh tư liệu: áo the, khăn xếp, dáng nhanh nhẹn) đứng trên con đê mới đắp chạy dài ra phía biển, phía trong là ruộng mới khai phá, người dân cấy lúa",
+   "am_thanh": "sóng biển xa, tiếng người làm đồng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sang thế kỉ XV, nhà Lê bắt đầu quai đê lấn biển để khai thác bãi bồi vùng cửa sông.",
+     "In the 15th century, the Lê dynasty began building sea dykes to reclaim the tidal flats at the river mouths."
+    ],
+    [
+     "Nguyễn Công Trứ",
+     "Quai đê lấn biển, biến bãi bồi thành ruộng lúa cho dân!",
+     "Push the dykes into the sea, and turn these flats into rice fields for the people!"
+    ],
+    [
+     "Nhật Minh",
+     "Thời Nguyễn, việc này được đẩy mạnh ở vùng ven biển các tỉnh Hưng Yên, Ninh Bình ngày nay, gắn với tên tuổi Doanh điền sứ Nguyễn Công Trứ.",
+     "Under the Nguyễn this work was stepped up along the coast of today's Hưng Yên and Ninh Bình, linked to the land-reclamation commissioner Nguyễn Công Trứ."
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "nhan_vat": [
+    "nguyen-anh"
+   ],
+   "hinh": "Trong điện triều Nguyễn, vua Gia Long (vẽ theo tranh tư liệu, long bào vàng) ngồi trên ngai, một viên quan đứng tuyên đọc tờ chiếu trên giấy vàng trước các quan quỳ hai bên",
+   "am_thanh": "không gian cung điện trang nghiêm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vua Gia Long từng ban chiếu hỏi ý kiến về chuyện đê điều.",
+     "Emperor Gia Long once issued an edict asking for views on the dykes."
+    ],
+    [
+     "Nguyễn Ánh",
+     "Đê ven sông Hồng hễ đến mùa lụt thì vỡ lở, lúa ruộng ngập, người và vật đều bị hại. Đắp đê hay bỏ đê, cách nào lợi, cách nào hại, cứ bày tỏ. Lời bàn nào thực hành được sẽ được thưởng!",
+     "The Red River dykes burst whenever the floods come; fields drown, people and animals suffer. Keep the dykes or abandon them: which way helps, which harms? Speak freely. Any workable proposal shall be rewarded!"
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ],
+   "chuyen_dong": "kling",
+   "dung": true
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân trở lại mặt đê sông Hồng hôm nay lúc hoàng hôn, nhìn con đê chạy dài tít tắp ven sông",
+   "am_thanh": "gió sông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Qua bao đời, ông cha ta đã xây dựng hệ thống đê dài hàng nghìn ki-lô-mét dọc hai bên bờ sông để mở rộng nơi sinh sống, sản xuất và phòng chống lũ lụt.",
+     "Over generations, our ancestors built thousands of kilometres of dykes along both banks to make room to live and farm and to fight floods."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cũng vì có đê, bề mặt châu thổ không còn được phù sa bồi đắp thường xuyên nữa.",
+     "But because of the dykes, the delta's surface no longer gets regular deposits of silt."
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 14,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · ĐẮP ĐÊ TRỊ THUỶ SÔNG HỒNG",
+   "moc": [
+    [
+     "Thời Hùng Vương",
+     "“Thổ nhô” ở Phong Châu"
+    ],
+    [
+     "1108",
+     "Đê Cơ Xá (vua Lý Nhân Tông)"
+    ],
+    [
+     "Thời Trần",
+     "Đê quai vạc, chức Hà đê sứ"
+    ],
+    [
+     "Thế kỉ XV",
+     "Nhà Lê quai đê lấn biển"
+    ],
+    [
+     "Thời Nguyễn",
+     "Nguyễn Công Trứ quai đê lấn biển"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Thời Hùng Vương có cách “thổ nhô”. Năm 1108, vua Lý Nhân Tông cho đắp đê Cơ Xá.",
+     "Recap! The Hùng era had 'thổ nhô'. In 1108, King Lý Nhân Tông built the Cơ Xá dyke."
+    ],
+    [
+     "Hân Hân",
+     "Thời Trần có đê quai vạc và chức Hà đê sứ. Thế kỉ XV, nhà Lê quai đê lấn biển.",
+     "The Trần built the 'quai vạc' dykes and created the Hà đê sứ post. In the 15th century, the Lê began reclaiming land from the sea."
+    ],
+    [
+     "Nhật Minh",
+     "Và thời Nguyễn, Nguyễn Công Trứ đẩy mạnh quai đê lấn biển.",
+     "And under the Nguyễn, Nguyễn Công Trứ pushed sea-dyke reclamation further."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    159,
+    160
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Sông Hồng: mùa lũ tháng 6 – 10 (khoảng 75% lưu lượng), mùa cạn tháng 11 – 5 (khoảng 25%)",
+    "Châu thổ hình thành nhờ phù sa, thuỷ triều, sóng biển; tiến dần ra biển",
+    "Năm 1108: đê Cơ Xá; thời Trần: đê quai vạc, Hà đê sứ",
+    "Nhà Lê, nhà Nguyễn quai đê lấn biển (Nguyễn Công Trứ)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: sông Hồng có mùa lũ từ tháng 6 đến tháng 10 và mùa cạn từ tháng 11 đến tháng 5.",
+     "Remember: the Red River floods from June to October and runs low from November to May."
+    ],
+    [
+     "Hân Hân",
+     "Châu thổ hình thành nhờ phù sa, thuỷ triều và sóng biển, và vẫn tiến dần ra biển.",
+     "The delta was built by silt, tides and waves, and is still growing seaward."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1108 có đê Cơ Xá; thời Trần có đê quai vạc và chức Hà đê sứ.",
+     "1108 brought the Cơ Xá dyke; the Trần added the 'quai vạc' dykes and the Hà đê sứ."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Lê rồi nhà Nguyễn quai đê lấn biển, gắn với tên tuổi Nguyễn Công Trứ.",
+     "The Lê and then the Nguyễn reclaimed land from the sea, especially under Nguyễn Công Trứ."
+    ]
+   ],
+   "nguon_trang": [
+    156,
+    159,
+    160
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng trên mặt đê lúc chạng vạng, đèn đường dọc đê vừa sáng, nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "gió nhẹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, ngày nay việc chế ngự chế độ nước của sông Hồng có còn cần thiết không? Vì sao? Bình luận nhé!",
+     "Your challenge: do you think controlling the Red River's floods is still necessary today? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    161
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Châu thổ sông Hồng có dạng hình gì, đỉnh ở đâu?",
+   "dap_an": [
+    "Hình tam giác, đỉnh ở Thanh Miếu (Phú Thọ)",
+    "Hình tròn, tâm ở Hà Nội",
+    "Hình chữ nhật, đỉnh ở Nam Định",
+    "Hình nan quạt, đỉnh ở Hải Phòng"
+   ],
+   "dung": 0,
+   "trang": 155
+  },
+  {
+   "hoi": "Mùa lũ của sông Hồng chiếm khoảng bao nhiêu phần trăm lưu lượng dòng chảy cả năm?",
+   "dap_an": [
+    "25%",
+    "50%",
+    "75%",
+    "90%"
+   ],
+   "dung": 2,
+   "trang": 156
+  },
+  {
+   "hoi": "Tuyến đê Cơ Xá được xây dựng năm 1108 dưới thời vua nào?",
+   "dap_an": [
+    "Lý Thái Tổ",
+    "Lý Nhân Tông",
+    "Trần Nhân Tông",
+    "Gia Long"
+   ],
+   "dung": 1,
+   "trang": 159
+  },
+  {
+   "hoi": "Việc quai đê lấn biển thời Nguyễn gắn với tên tuổi của ai?",
+   "dap_an": [
+    "Nguyễn Công Trứ",
+    "Nguyễn Tri Phương",
+    "Nguyễn Hữu Cảnh",
+    "Nguyễn Trường Tộ"
+   ],
+   "dung": 0,
+   "trang": 160
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8, Chủ đề chung 1, tr. 155 (khái quát hệ thống sông Hồng, 15 000 km², 112 tỉ m³/năm, 120 triệu tấn phù sa), tr. 156 (hình thành châu thổ, hệ thống đê hàng nghìn km, tuyến đê đầu tiên 1108; chế độ nước: lũ tháng 6 – 10 ~75%, cạn tháng 11 – 5 ~25%, hồ chứa), tr. 159 (thổ nhô thời Hùng Vương; đê Cơ Xá 1108; đê sông Như Nguyệt 30 km), tr. 160 (thời Lý, Trần, Lê, Nguyễn; tư liệu chiếu vua Gia Long), tr. 161 (câu hỏi vận dụng). Sửa kiến thức chốt danh mục: 'Thời Lý bắt đầu đắp đê' chuẩn lại đúng SGK – theo các chuyên gia, đê đã có từ thời Hùng Vương ('thổ nhô'); tuyến đê đầu tiên được xây dựng năm 1108 thời Lý Nhân Tông; 'thời Nguyễn chú trọng trị thuỷ' cụ thể hoá theo SGK (đẩy mạnh quai đê lấn biển, Nguyễn Công Trứ; chiếu của Gia Long hỏi ý kiến đắp hay bỏ đê). Lời Lý Nhân Tông, Hà đê sứ, Nguyễn Công Trứ là lời dựng; lời vua Gia Long (giọng 'Nguyễn Ánh') diễn đạt lại tờ chiếu trong SGK. Không có lược đồ trong SGK (Hình 1.1 là ảnh) và chưa có mô phỏng biểu đồ lưu lượng trong pipeline nên dùng thẻ ghi nhớ và trục thời gian.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

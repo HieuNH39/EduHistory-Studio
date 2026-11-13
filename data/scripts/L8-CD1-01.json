@@ -1,0 +1,371 @@
+{
+ "ma": "L8-CD1-01",
+ "ten_tap": "Hai dòng sông mẹ của Việt Nam",
+ "ten_tap_en": "Việt Nam's Two Mother Rivers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 1. Văn minh châu thổ sông Hồng và sông Cửu Long",
+  "trang": [
+   155,
+   156,
+   157,
+   158
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "bao la, êm đềm, sông nước",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có nhân vật lịch sử. Cảnh cửa sông thời xa xưa là minh hoạ quá trình bồi đắp; sa bàn 'hai-chau-tho' vẽ bằng code, phạm vi châu thổ và mũi tên tiến ra biển là minh hoạ theo lời văn SGK. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 1, tr. 155–158.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Trên một chiếc thuyền máy nhỏ ở cửa sông hôm nay: Nhật Minh và Hân Hân mặc áo phao, chỉ tay xuống ranh giới rõ rệt giữa dòng nước sông màu nâu đỏ phù sa và nước biển xanh; xa xa là bãi bồi với rừng ngập mặn",
+   "am_thanh": "tiếng máy thuyền, sóng vỗ, chim biển",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhìn kìa! Nước sông đỏ nặng phù sa đang đổ ra biển.",
+     "Look! The river water, heavy with red silt, is pouring into the sea."
+    ],
+    [
+     "Nhật Minh",
+     "Chính phù sa của hệ thống sông Hồng và hệ thống sông Mê Công đã bồi đắp nên hai đồng bằng châu thổ lớn nhất nước ta!",
+     "It's the silt of the Red River and Mekong systems that built our country's two largest deltas!"
+    ]
+   ],
+   "nguon_trang": [
+    155
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "sa_ban",
+   "sa_ban": "hai-chau-tho",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Sa bàn Việt Nam: châu thổ sông Hồng ở phía bắc và châu thổ sông Cửu Long ở phía nam lần lượt được khoanh sáng; quần đảo Hoàng Sa, Trường Sa (Việt Nam)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là đồng bằng châu thổ sông Hồng ở phía bắc, còn đây là đồng bằng châu thổ sông Cửu Long ở phía nam.",
+     "Here is the Red River Delta in the north, and here is the Mekong Delta in the south."
+    ]
+   ],
+   "nguon_trang": [
+    155
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "tieu_de": "HỆ THỐNG SÔNG HỒNG",
+   "y": [
+    "Một trong hai hệ thống sông lớn nhất Việt Nam",
+    "Bắt nguồn từ Trung Quốc, chảy hướng tây bắc – đông nam, đổ ra vịnh Bắc Bộ",
+    "Tổng lượng dòng chảy 112 tỉ m³/năm; phù sa khoảng 120 triệu tấn/năm"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hệ thống sông Hồng là một trong hai hệ thống sông lớn nhất Việt Nam.",
+     "The Red River system is one of Việt Nam's two largest river systems."
+    ],
+    [
+     "Hân Hân",
+     "Dòng chính bắt nguồn từ Trung Quốc, chảy vào nước ta theo hướng tây bắc – đông nam rồi đổ ra vịnh Bắc Bộ.",
+     "Its main stream rises in China, flows into Việt Nam from northwest to southeast, then empties into the Gulf of Tonkin."
+    ],
+    [
+     "Nhật Minh",
+     "Tổng lượng dòng chảy lên tới 112 tỉ mét khối mỗi năm, phù sa khoảng 120 triệu tấn mỗi năm!",
+     "Its total flow reaches 112 billion cubic metres a year, carrying about 120 million tonnes of silt a year!"
+    ]
+   ],
+   "nguon_trang": [
+    155
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "hinh": "Nhật Minh và Hân Hân đứng trên một gò cao nhìn xuống cửa sông thời xa xưa, chưa có làng mạc: dòng sông nâu đỏ đổ ra biển, phù sa lắng đọng thành những bãi bồi mới, sóng biển và thuỷ triều vỗ vào bãi; hai bạn chỉ quan sát",
+   "am_thanh": "sóng biển, gió, nước chảy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi đổ ra biển, phù sa lắng đọng ở cửa sông. Cùng với tác động của thuỷ triều và sóng biển, châu thổ dần hình thành.",
+     "Reaching the sea, the silt settles at the river mouth. Together with tides and waves, the delta gradually forms."
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "hai-chau-tho",
+   "pha": "song_hong",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn phóng to châu thổ sông Hồng: tam giác với đỉnh Thanh Miếu, đáy từ nơi giáp giới Hải Phòng – Quảng Ninh đến cửa sông Đáy; mũi tên tiến ra biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Châu thổ sông Hồng rộng khoảng 15 000 ki-lô-mét vuông, có dạng tam giác. Đỉnh ở Thanh Miếu, tỉnh Phú Thọ.",
+     "The Red River Delta covers about 15,000 square kilometres and is triangular, with its apex at Thanh Miếu in Phú Thọ."
+    ],
+    [
+     "Hân Hân",
+     "Đáy là đường bờ biển từ nơi giáp giới Hải Phòng và Quảng Ninh đến cửa sông Đáy, tỉnh Ninh Bình. Châu thổ ngày càng tiến ra biển, có nơi tới hàng chục mét mỗi năm!",
+     "Its base is the coastline from the Hải Phòng–Quảng Ninh border to the Đáy river mouth in Ninh Bình. The delta keeps advancing into the sea, in places by tens of metres a year!"
+    ]
+   ],
+   "nguon_trang": [
+    155,
+    156
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Châu thổ sông Hồng có dạng hình gì?",
+    "lua_chon": [
+     "Tam giác",
+     "Lông chim",
+     "Nan quạt"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Châu thổ sông Hồng có dạng hình gì?",
+     "Pause! What shape is the Red River Delta?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tam giác!",
+     "The answer is A: a triangle!"
+    ]
+   ],
+   "nguon_trang": [
+    155,
+    156
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "ĐÊ SÔNG HỒNG",
+   "y": [
+    "Hệ thống đê dài hàng nghìn ki-lô-mét dọc hai bên bờ sông",
+    "Mở rộng nơi sinh sống, sản xuất, phòng chống lũ lụt",
+    "Bề mặt châu thổ không còn được bồi đắp thường xuyên"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để mở rộng nơi sinh sống, sản xuất và phòng chống lũ lụt, ông cha ta đã đắp hệ thống đê dài hàng nghìn ki-lô-mét dọc hai bên bờ sông.",
+     "To expand living and farming space and guard against floods, our ancestors built thousands of kilometres of dykes along both banks."
+    ],
+    [
+     "Hân Hân",
+     "Vì thế, bề mặt châu thổ không còn được phù sa bồi đắp thường xuyên.",
+     "As a result, the delta's surface no longer receives silt regularly."
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "SÔNG CỬU LONG",
+   "y": [
+    "Hệ thống sông Mê Công: một trong những hệ thống sông lớn ở châu Á và thế giới",
+    "Đoạn chảy trên lãnh thổ Việt Nam dài hơn 230 km, hai nhánh chính: sông Tiền, sông Hậu",
+    "Tổng lượng dòng chảy 507 tỉ m³/năm, chiếm 60,4% lượng nước sông ngòi Việt Nam"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn phía nam, hệ thống sông Mê Công là một trong những hệ thống sông lớn ở châu Á và thế giới.",
+     "In the south, the Mekong is one of the great river systems of Asia and the world."
+    ],
+    [
+     "Nhật Minh",
+     "Đoạn chảy trên lãnh thổ Việt Nam, gọi là sông Cửu Long, dài hơn 230 ki-lô-mét, với hai nhánh chính là sông Tiền và sông Hậu.",
+     "The stretch in Việt Nam, called the Cửu Long, is over 230 kilometres long, with two main branches, the Tiền and the Hậu."
+    ],
+    [
+     "Hân Hân",
+     "Tổng lượng dòng chảy đạt 507 tỉ mét khối mỗi năm, chiếm 60,4 phần trăm lượng nước sông ngòi cả nước, nên tổng lượng phù sa vẫn rất lớn.",
+     "Its flow is 507 billion cubic metres a year, 60.4 percent of all Việt Nam's river water, so its total silt load is huge."
+    ]
+   ],
+   "nguon_trang": [
+    157
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "sa_ban",
+   "sa_ban": "hai-chau-tho",
+   "pha": "cuu_long",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn phóng to châu thổ sông Cửu Long: sông Tiền, sông Hậu, bán đảo Cà Mau; mũi tên tiến ra biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Châu thổ sông Cửu Long rộng hơn 40 nghìn ki-lô-mét vuông, là đồng bằng châu thổ lớn nhất nước ta, gồm cả những vùng như bán đảo Cà Mau.",
+     "The Mekong Delta covers more than 40,000 square kilometres, our country's largest delta, including areas like the Cà Mau peninsula."
+    ],
+    [
+     "Hân Hân",
+     "Vì không có đê ven sông, mùa lũ nước tràn ngập khoảng 10 000 ki-lô-mét vuông, bồi đắp phù sa cho châu thổ. Trước đây, châu thổ tiến ra biển ở bán đảo Cà Mau tới hàng trăm mét mỗi năm.",
+     "With no riverside dykes, floodwater spreads over about 10,000 square kilometres, depositing silt. In the past, the delta advanced into the sea at Cà Mau by hundreds of metres a year."
+    ]
+   ],
+   "nguon_trang": [
+    157,
+    158
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp hiện nay: bờ biển châu thổ sông Cửu Long bị sạt lở, rừng ngập mặn đổ ngã",
+    "tim": "Mekong Delta coastal erosion Ca Mau photo",
+    "yeu_cau": "ảnh chụp thực tế, có giấy phép sử dụng (Creative Commons hoặc nguồn báo chí được phép), ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu hiện nay: bờ biển bị sạt lở ở châu thổ sông Cửu Long",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng hiện nay, do biến đổi khí hậu, nước biển dâng và phù sa trong nước sông giảm, nhiều nơi ven biển của châu thổ đang bị sạt lở.",
+     "But today, due to climate change, rising seas and less silt in the river, many coastal areas of the delta are eroding."
+    ]
+   ],
+   "nguon_trang": [
+    158
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao mùa lũ, nước sông Cửu Long tràn ngập và bồi đắp phù sa cho bề mặt châu thổ?",
+    "lua_chon": [
+     "Vì không có hệ thống đê ven sông",
+     "Vì có đê dài hàng nghìn ki-lô-mét",
+     "Vì sông chảy hướng tây bắc – đông nam"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Vì sao mùa lũ, nước sông Cửu Long tràn vào bồi đắp phù sa cho châu thổ?",
+     "Quick question! Why does Mekong floodwater spread across the delta and deposit silt?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vì không có hệ thống đê ven sông như ở châu thổ sông Hồng!",
+     "The answer is A: because there are no riverside dykes like in the Red River Delta!"
+    ]
+   ],
+   "nguon_trang": [
+    158
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Thuyền máy quay về bến lúc chiều: Nhật Minh và Hân Hân ngồi ở mũi thuyền, sau lưng là cửa sông nâu đỏ và hoàng hôn trên biển; Hân Hân quay về phía người xem",
+   "am_thanh": "sóng, máy thuyền chậm dần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: đê giúp châu thổ sông Hồng tránh lũ, nhưng lại làm bề mặt châu thổ không được bồi đắp thường xuyên. Theo cậu, đó là được hay mất? Bình luận nhé!",
+     "Your challenge: dykes protect the Red River Delta from floods but stop it from getting regular silt. Is that a gain or a loss? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    156
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Châu thổ sông Hồng được hình thành từ quá trình nào?",
+   "dap_an": [
+    "Bồi đắp phù sa của hệ thống sông Hồng, kết hợp tác động của thuỷ triều và sóng biển",
+    "Hoạt động của núi lửa",
+    "Băng tan ở vùng núi cao",
+    "Con người đổ đất lấn biển"
+   ],
+   "dung": 0,
+   "trang": 156
+  },
+  {
+   "hoi": "Đỉnh của tam giác châu thổ sông Hồng ở đâu?",
+   "dap_an": [
+    "Cửa sông Đáy (Ninh Bình)",
+    "Thanh Miếu (Phú Thọ)",
+    "Bán đảo Cà Mau",
+    "Đồng Tháp Mười"
+   ],
+   "dung": 1,
+   "trang": 155
+  },
+  {
+   "hoi": "Đồng bằng châu thổ lớn nhất nước ta là",
+   "dap_an": [
+    "châu thổ sông Hồng",
+    "châu thổ sông Cửu Long",
+    "châu thổ sông Đáy",
+    "châu thổ sông Đà"
+   ],
+   "dung": 1,
+   "trang": 157
+  },
+  {
+   "hoi": "Hiện nay, nhiều nơi ven biển châu thổ sông Cửu Long bị sạt lở do đâu?",
+   "dap_an": [
+    "Do có quá nhiều đê ven sông",
+    "Do biến đổi khí hậu, nước biển dâng và phù sa trong nước sông giảm",
+    "Do lượng mưa quá ít",
+    "Do sông chảy quá chậm"
+   ],
+   "dung": 1,
+   "trang": 158
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 155 (hai châu thổ; hệ thống sông Hồng; diện tích khoảng 15 000 km², dạng tam giác, đỉnh Thanh Miếu, đáy; 112 tỉ m³/năm; khoảng 120 triệu tấn phù sa/năm), tr. 156 (hình thành châu thổ; tiến ra biển hàng chục mét/năm; hệ thống đê; mạng lưới phụ lưu hình nan quạt), tr. 157 (sông Mê Công, Cửu Long dài hơn 230 km, sông Tiền, sông Hậu, hơn 40 nghìn km², 507 tỉ m³/năm, 60,4%), tr. 158 (không có đê, lũ tràn khoảng 10 000 km²; trước đây tiến ra biển hàng trăm mét/năm; sạt lở hiện nay; lưu vực dạng lông chim). Danh mục: sửa ý 'Địa hình châu thổ liên tục tiến ra biển' theo SGK: châu thổ sông Hồng ngày càng tiến ra biển; châu thổ sông Cửu Long trước đây tiến ra biển nhưng hiện nay nhiều nơi ven biển bị sạt lở. Tên tỉnh (Phú Thọ, Ninh Bình, Hải Phòng, Quảng Ninh) theo SGK. Sa bàn mới 'hai-chau-tho'. Tuyến đê đầu tiên năm 1108 đã nêu ở tập L8-CD1-02 nên tập này không nhắc lại.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

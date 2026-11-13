@@ -1,0 +1,181 @@
+{
+ "ma": "L8-B1-03",
+ "ten_tap": "Bắc Mỹ: Ngọn lửa độc lập bùng cháy",
+ "ten_tap_en": "North America: The Flame of Independence",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 1. Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+  "trang": [
+   10
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nhan-dan-13-thuoc-dia",
+  "thuc-dan-anh"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, quyết liệt",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Cảnh cảng Bô-xtơn năm 1773 là minh hoạ chung, Minh – Hân chỉ quan sát, không có lời thoại của nhân vật lịch sử; khung dọc 9:16. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 1, tr. 10.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Nhật Minh rót trà vào cốc trong căng tin trường hôm nay, Hân Hân giơ ngón tay ra hiệu 'khoan đã', vẻ bí ẩn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoan uống đã! Có lần, những thùng chè đã châm ngòi cho cả một cuộc chiến tranh giành độc lập đấy!",
+     "Hold that cup! Once, crates of tea sparked a whole war of independence!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "nhan_vat": [
+    "nhan-dan-13-thuoc-dia"
+   ],
+   "hinh": "Khung dọc 9:16: Đêm tháng 12 năm 1773 ở cảng Bô-xtơn: Nhật Minh và Hân Hân nấp sau những thùng hàng trên cầu tàu, nhìn đám đông người dân trèo lên ba con tàu buồm, quăng các hòm chè xuống biển; hai bạn chỉ quan sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XVIII, thực dân Anh đã lập 13 thuộc địa ở Bắc Mỹ. Mâu thuẫn giữa thuộc địa và chính quốc ngày càng sâu sắc.",
+     "By the early 18th century, Britain had set up 13 colonies in North America. Conflict between the colonies and the mother country kept deepening."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1773, phản đối chế độ thuế vô lí, nhân dân cảng Bô-xtơn tấn công ba tàu chở chè của Anh!",
+     "In December 1773, protesting unfair taxes, the people of Boston attacked three British tea ships!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 6,
+   "cau_hoi": {
+    "hoi": "Tháng 12 – 1773, nhân dân cảng Bô-xtơn đã làm gì?",
+    "lua_chon": [
+     "Tấn công ba tàu chở chè của Anh",
+     "Kí Hoà ước Pa-ri",
+     "Thành lập Hợp chúng quốc Mỹ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tháng 12 năm 1773, nhân dân cảng Bô-xtơn đã làm gì?",
+     "Pause! What did the people of Boston do in December 1773?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: tấn công ba tàu chở chè của Anh!",
+     "The answer is A: they attacked three British tea ships!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "CHIẾN TRANH BÙNG NỔ",
+   "y": [
+    "Đại biểu các thuộc địa đòi xoá bỏ các luật cấm vô lí",
+    "Vua Anh từ chối, đe trừng trị",
+    "Tháng 4 – 1775: chiến tranh bùng nổ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đại biểu các thuộc địa đòi vua Anh xoá bỏ các luật cấm vô lí, nhưng vua từ chối. Tháng 4 năm 1775, chiến tranh bùng nổ.",
+     "Colonial delegates demanded the king scrap the unfair laws, but he refused. In April 1775, war broke out."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "hinh": "Khung dọc 9:16: Hân Hân nâng cốc trà về phía người xem, Nhật Minh cười, căng tin trường hôm nay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, vì sao chuyện thuế má lại khiến người dân thuộc địa nổi dậy? Bình luận nhé!",
+     "Why do you think taxes drove the colonists to rise up? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đến đầu thế kỉ XVIII, thực dân Anh đã lập bao nhiêu thuộc địa ở Bắc Mỹ?",
+   "dap_an": [
+    "10",
+    "13",
+    "15",
+    "21"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Nhân dân cảng Bô-xtơn tấn công tàu chở chè của Anh nhằm mục đích gì?",
+   "dap_an": [
+    "Phản đối chế độ thuế vô lí của thực dân Anh",
+    "Cướp chè để bán",
+    "Ủng hộ vua Anh",
+    "Mở rộng buôn bán"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Chiến tranh giữa thực dân Anh và 13 thuộc địa bùng nổ khi nào?",
+   "dap_an": [
+    "Tháng 12 – 1773",
+    "Tháng 4 – 1775",
+    "Tháng 10 – 1777",
+    "Tháng 10 – 1781"
+   ],
+   "dung": 1,
+   "trang": 10
+  },
+  {
+   "hoi": "Vua Anh phản ứng thế nào trước yêu cầu của đại biểu các thuộc địa?",
+   "dap_an": [
+    "Chấp nhận xoá bỏ các luật cấm",
+    "Không chấp nhận và tuyên bố sẽ trừng trị",
+    "Trao trả độc lập",
+    "Giảm thuế chè"
+   ],
+   "dung": 1,
+   "trang": 10
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 10 (13 thuộc địa đầu thế kỉ XVIII; mâu thuẫn; sự kiện Bô-xtơn 12 – 1773; đại biểu các thuộc địa; chiến tranh bùng nổ 4 – 1775; Hình 1.4). Danh mục khớp SGK; mốc 10 – 1777, 10 – 1781 trong câu hỏi cuối video lấy từ Hình 1.4 (đã đối chiếu ảnh trang ở tập L8-B1-04).",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

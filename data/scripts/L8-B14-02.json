@@ -1,0 +1,487 @@
+{
+ "ma": "L8-B14-02",
+ "ten_tap": "Cách mạng Tân Hợi: Bước ngoặt lịch sử",
+ "ten_tap_en": "The 1911 Xinhai Revolution: A Historic Turning Point",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 14. Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   62,
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ton-trung-son",
+  "vien-the-khai",
+  "quan-cach-mang-tan-hoi",
+  "nhan-dan-trung-quoc"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, căng thẳng ở phần sắc lệnh đường sắt, sôi nổi ở cảnh khởi nghĩa Vũ Xương, trầm tư ở phần hạn chế; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ, thẻ ghi nhớ dựng bằng code. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 14, tr. 62–64.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; lãnh tụ chỉ được nhắc tên, không vẽ chân dung (chỉ dùng ảnh chụp tư liệu như Hình 14.2 SGK); chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Phòng câu lạc bộ Lịch sử của trường FPT Bắc Giang hôm nay: trên tường là dải trục thời gian thế giới thế kỉ XX dán đầy ảnh, giấy nhớ màu; Nhật Minh và Hân Hân (đồng phục FPT) đứng trước mốc 1911, Hân Hân cầm bút chỉ vào",
+   "am_thanh": "phòng học yên tĩnh, tiếng quạt trần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mốc năm 1911 này đánh dấu một cuộc cách mạng đã kết thúc nền thống trị mấy nghìn năm của chế độ phong kiến Trung Quốc.",
+     "This 1911 marker stands for a revolution that ended thousands of years of feudal rule in China."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng Tân Hợi! Cuộc cách mạng ấy bắt đầu từ đâu? Cùng mở tư liệu ra xem nhé!",
+     "The Xinhai Revolution! So how did it start? Let's open the archives!"
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    64
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1911",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: đường phố, bến cảng Trung Quốc đầu thế kỉ XX có tàu thuyền và cờ của các nước phương Tây",
+    "tim": "China early 1900s treaty port photograph",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: một thương cảng Trung Quốc đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ giữa thế kỉ XIX, Trung Quốc trở thành “miếng mồi” cho các nước đế quốc phân chia, xâu xé.",
+     "From the mid-19th century, China became 'prey' for the imperialist powers to carve up."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1901, sau khi kí Hiệp ước Tân Sửu với các nước đế quốc, Trung Quốc trở thành một nước phong kiến, nửa thuộc địa.",
+     "In 1901, after signing the Boxer Protocol with the imperialist powers, China became a feudal, semi-colonial country."
+    ]
+   ],
+   "nguon_trang": [
+    62,
+    63
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: tuyến đường sắt và đoàn tàu hơi nước ở Trung Quốc đầu thế kỉ XX",
+    "tim": "China railway 1900s 1910s photograph steam train",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: đường sắt ở Trung Quốc đầu thế kỉ XX",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 5 năm 1911, chính quyền Mãn Thanh ra Sắc lệnh “Quốc hữu hoá đường sắt”.",
+     "In May 1911, the Manchu Qing government issued the 'Railway Nationalisation' decree."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng thực chất, sắc lệnh này trao quyền kinh doanh đường sắt cho các nước đế quốc, bán rẻ quyền lợi dân tộc. Làn sóng căm phẫn bùng lên trong nhân dân, châm ngòi cho Cách mạng Tân Hợi.",
+     "But in reality it handed railway rights to the imperialist powers, selling out the nation's interests. A wave of anger swept the people, sparking the Xinhai Revolution."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sự kiện nào châm ngòi cho Cách mạng Tân Hợi?",
+    "lua_chon": [
+     "Sắc lệnh “Quốc hữu hoá đường sắt”",
+     "Hiệp ước Nam Kinh",
+     "Chiến tranh thuốc phiện"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sự kiện nào châm ngòi cho Cách mạng Tân Hợi?",
+     "Pause! What event sparked the Xinhai Revolution?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Sắc lệnh “Quốc hữu hoá đường sắt” của chính quyền Mãn Thanh, tháng 5 năm 1911!",
+     "The answer is A: the Qing government's 'Railway Nationalisation' decree of May 1911!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chân dung tư liệu Tôn Trung Sơn (như Hình 14.2 SGK)",
+    "tim": "Sun Yat-sen portrait photograph",
+    "yeu_cau": "ảnh chụp tư liệu thuộc phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Tôn Trung Sơn (1866 – 1925)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người đứng đầu cuộc cách mạng là Tôn Trung Sơn. Ông sinh ra trong một gia đình nông dân ở Quảng Đông.",
+     "The revolution's leader was Sun Yat-sen, born into a peasant family in Guangdong."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 13 tuổi, ông được người anh là tư sản Hoa kiều cho đi du học ở Nhật Bản, Mỹ, Anh, nên sớm được tiếp xúc với tư tưởng dân chủ Âu – Mỹ.",
+     "At 13, his elder brother, an overseas Chinese businessman, sent him to study in Japan, the US and Britain, so he met Western democratic ideas early on."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "CƯƠNG LĨNH CỦA TÔN TRUNG SƠN",
+   "y": [
+    "Dân tộc độc lập",
+    "Dân quyền tự do",
+    "Dân sinh hạnh phúc",
+    "→ Tiến tới một nước Trung Hoa dân chủ, phát triển theo con đường tư bản chủ nghĩa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cách mạng do giai cấp tư sản lãnh đạo, đứng đầu là Tôn Trung Sơn, với cương lĩnh: Dân tộc độc lập, dân quyền tự do, dân sinh hạnh phúc.",
+     "The revolution was led by the bourgeoisie, headed by Sun Yat-sen, with a programme of national independence, civil liberty and the people's well-being."
+    ],
+    [
+     "Hân Hân",
+     "Mục tiêu là tiến tới một nước Trung Hoa dân chủ, phát triển theo con đường tư bản chủ nghĩa. Vì thế, cách mạng được đông đảo các tầng lớp nhân dân tham gia.",
+     "The goal was a democratic China developing along capitalist lines. So people from all walks of life joined in."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: quân cách mạng ở Vũ Xương tháng 10 – 1911",
+    "tim": "Wuchang Uprising 1911 revolutionary army photograph",
+    "yeu_cau": "ảnh chụp năm 1911, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: quân cách mạng ở Vũ Xương (1911)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 10 tháng 10 năm 1911, với mục tiêu lật đổ chính quyền Mãn Thanh, cách mạng bùng nổ và giành thắng lợi ở Vũ Xương.",
+     "On 10 October 1911, aiming to overthrow the Manchu Qing, the revolution broke out and triumphed at Wuchang."
+    ],
+    [
+     "Hân Hân",
+     "Sau đó, cách mạng lan rộng ra các tỉnh miền Nam và miền Trung.",
+     "It then spread to the southern and central provinces."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày 10 – 10 – 1911, Cách mạng Tân Hợi bùng nổ và giành thắng lợi ở đâu?",
+    "lua_chon": [
+     "Bắc Kinh",
+     "Vũ Xương",
+     "Thượng Hải"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử tài nhanh! Ngày 10 tháng 10 năm 1911, cách mạng bùng nổ và giành thắng lợi ở đâu?",
+     "Quick test! Where did the revolution break out and win on 10 October 1911?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Vũ Xương!",
+     "The answer is B: Wuchang!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: Tôn Trung Sơn cùng các thành viên chính phủ lâm thời Trung Hoa Dân quốc (1911 – 1912)",
+    "tim": "Provisional Government Republic of China 1912 Sun Yat-sen photograph",
+    "yeu_cau": "ảnh chụp năm 1911 – 1912, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: chính phủ lâm thời Trung Hoa Dân quốc (1911 – 1912)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối tháng 12 năm 1911, Trung Hoa Dân quốc được thành lập. Tôn Trung Sơn được bầu làm Tổng thống lâm thời.",
+     "In late December 1911, the Republic of China was founded, and Sun Yat-sen was elected provisional president."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · CÁCH MẠNG TÂN HỢI",
+   "moc": [
+    [
+     "5 – 1911",
+     "Sắc lệnh “Quốc hữu hoá đường sắt”"
+    ],
+    [
+     "10 – 10 – 1911",
+     "Cách mạng bùng nổ, thắng lợi ở Vũ Xương"
+    ],
+    [
+     "Cuối 12 – 1911",
+     "Trung Hoa Dân quốc thành lập"
+    ],
+    [
+     "2 – 1912",
+     "Viên Thế Khải nhậm chức Tổng thống, cách mạng chấm dứt"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng xem lại sơ đồ diễn biến nhé! Tháng 5 năm 1911, Sắc lệnh “Quốc hữu hoá đường sắt” châm ngòi cho cách mạng.",
+     "Let's review! May 1911: the railway decree sparks the revolution."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 10 tháng 10 năm 1911, cách mạng bùng nổ và thắng lợi ở Vũ Xương. Cuối tháng 12, Trung Hoa Dân quốc ra đời.",
+     "10 October 1911: the uprising wins at Wuchang. Late December: the Republic of China is born."
+    ],
+    [
+     "Nhật Minh",
+     "Sau khi vua Thanh thoái vị, tháng 2 năm 1912, Tôn Trung Sơn buộc phải từ chức, Viên Thế Khải tuyên thệ nhậm chức Tổng thống. Cách mạng chấm dứt.",
+     "After the Qing emperor abdicated, in February 1912 Sun Yat-sen was forced to resign and Yuan Shikai was sworn in as president. The revolution was over."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA",
+   "y": [
+    "Kết thúc nền thống trị mấy nghìn năm của chế độ phong kiến Trung Quốc",
+    "Mở đường cho chủ nghĩa tư bản ở Trung Quốc phát triển",
+    "Có ảnh hưởng nhất định đến nhiều nước Đông Nam Á, trong đó có Việt Nam"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng Tân Hợi đã kết thúc nền thống trị mấy nghìn năm của chế độ phong kiến Trung Quốc, mở đường cho chủ nghĩa tư bản ở nước này phát triển.",
+     "The Xinhai Revolution ended thousands of years of feudal rule in China and opened the way for capitalism to develop there."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc cách mạng và nhất là tư tưởng của Tôn Trung Sơn còn có ảnh hưởng nhất định đến nhiều nước Đông Nam Á, trong đó có Việt Nam.",
+     "The revolution, and especially Sun Yat-sen's ideas, also had some influence on many Southeast Asian countries, including Việt Nam."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "tieu_de": "HẠN CHẾ",
+   "y": [
+    "Không xoá bỏ giai cấp địa chủ phong kiến",
+    "Không giải quyết được vấn đề ruộng đất cho nông dân",
+    "Không chống lại các nước đế quốc xâm lược"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuy nhiên, cuộc cách mạng này còn hạn chế: không xoá bỏ giai cấp địa chủ phong kiến,",
+     "Still, the revolution had limits: it didn't abolish the feudal landlord class,"
+    ],
+    [
+     "Hân Hân",
+     "không giải quyết được vấn đề ruộng đất cho nông dân, và không chống lại các nước đế quốc xâm lược.",
+     "didn't solve the land question for peasants, and didn't stand up to the invading imperialist powers."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân trực tiếp: Sắc lệnh “Quốc hữu hoá đường sắt” (5 – 1911) bán rẻ quyền lợi dân tộc",
+    "10 – 10 – 1911: bùng nổ, thắng lợi ở Vũ Xương; cuối 12 – 1911: Trung Hoa Dân quốc ra đời",
+    "Lãnh đạo: giai cấp tư sản, đứng đầu là Tôn Trung Sơn",
+    "Ý nghĩa: kết thúc chế độ phong kiến; hạn chế: không chống đế quốc, không giải quyết ruộng đất"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Sắc lệnh “Quốc hữu hoá đường sắt” bán rẻ quyền lợi dân tộc, châm ngòi cho cách mạng.",
+     "Remember: the railway decree sold out national interests and sparked the revolution."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 10 tháng 10 năm 1911, cách mạng thắng lợi ở Vũ Xương; cuối tháng 12, Trung Hoa Dân quốc ra đời.",
+     "On 10 October 1911 it triumphed at Wuchang; in late December, the Republic of China was born."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng do giai cấp tư sản lãnh đạo, đứng đầu là Tôn Trung Sơn.",
+     "It was led by the bourgeoisie, headed by Sun Yat-sen."
+    ],
+    [
+     "Hân Hân",
+     "Cách mạng kết thúc chế độ phong kiến, nhưng không chống đế quốc và chưa giải quyết ruộng đất cho nông dân.",
+     "It ended feudalism, but did not resist imperialism or solve the peasants' land problem."
+    ]
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng trước dải trục thời gian trên tường phòng câu lạc bộ Lịch sử, dán thêm một tờ giấy nhớ màu cam vào mốc 1911; hai bạn nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "am_thanh": "nhạc nhẹ kết",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nói Cách mạng Tân Hợi là cuộc cách mạng chưa triệt để? Nêu một lí do ở phần bình luận nhé!",
+     "Your challenge: why do we say the Xinhai Revolution was incomplete? Give one reason in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Hiệp ước Tân Sửu (1901), Trung Quốc trở thành",
+   "dap_an": [
+    "Một nước độc lập",
+    "Một nước phong kiến, nửa thuộc địa",
+    "Thuộc địa của Nhật Bản",
+    "Một nước tư bản chủ nghĩa"
+   ],
+   "dung": 1,
+   "trang": 63
+  },
+  {
+   "hoi": "Cương lĩnh của Tôn Trung Sơn là gì?",
+   "dap_an": [
+    "Dân tộc độc lập, dân quyền tự do, dân sinh hạnh phúc",
+    "Phù Lê diệt Mạc",
+    "Quốc hữu hoá đường sắt",
+    "Khai dân trí, chấn dân khí, hậu dân sinh"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Ai được bầu làm Tổng thống lâm thời khi Trung Hoa Dân quốc thành lập (cuối 12 – 1911)?",
+   "dap_an": [
+    "Viên Thế Khải",
+    "Tôn Trung Sơn",
+    "Mút-su-hi-tô",
+    "Na-pô-lê-ông III"
+   ],
+   "dung": 1,
+   "trang": 63
+  },
+  {
+   "hoi": "Hạn chế nào thuộc về Cách mạng Tân Hợi?",
+   "dap_an": [
+    "Không lật đổ được chính quyền Mãn Thanh",
+    "Không chống lại các nước đế quốc xâm lược",
+    "Không thành lập được Trung Hoa Dân quốc",
+    "Không được nhân dân tham gia"
+   ],
+   "dung": 1,
+   "trang": 64
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 62 ('miếng mồi' cho các nước đế quốc), tr. 63 (Hiệp ước Tân Sửu 1901; Sắc lệnh 5 – 1911; Hình 14.2; Hình 14.3 sơ đồ diễn biến – đã đối chiếu ảnh trang; Em có biết về Tôn Trung Sơn; nguyên nhân thắng lợi), tr. 64 (cương lĩnh – phần cuối, tư liệu 1 về ý nghĩa, hạn chế). Sửa kiến thức chốt danh mục: 'không xoá bỏ được địa chủ và đế quốc' chuẩn lại đúng SGK là 'không xoá bỏ giai cấp địa chủ phong kiến, không giải quyết vấn đề ruộng đất, không chống lại các nước đế quốc xâm lược'; mục tiêu ghi đúng SGK 'lật đổ chính quyền Mãn Thanh' và cương lĩnh 'tiến tới một nước Trung Hoa dân chủ'. Không dùng tên địa danh ngày nay cho Vũ Xương (SGK không nêu). Hình 14.3 là sơ đồ thời gian (không phải lược đồ) nên dùng trục thời gian, không dựng sa bàn. Lịch sử hiện đại: chỉ ảnh tư liệu, lãnh tụ chỉ nhắc tên, không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

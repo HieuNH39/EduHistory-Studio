@@ -1,0 +1,357 @@
+{
+ "ma": "L8-CD2-02",
+ "ten_tap": "Giải mã đường cơ sở và vịnh Bắc Bộ",
+ "ten_tap_en": "Decoding the Baseline and the Gulf of Tonkin",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+  "trang": [
+   162,
+   163,
+   164,
+   165,
+   166
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khoáng đạt, tự hào, biển cả",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Không có nhân vật lịch sử, không có cảnh tái hiện. Bản đồ vẽ theo toạ độ trong SGK; điểm 0 không có toạ độ trong Bảng 2.1 nên sa bàn vẽ từ A1 như Hình 2.1. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 2, tr. 162–166.",
+ "chinh_sach_hinh": "Nội dung pháp lí, địa lí đương đại: không dùng AI vẽ cảnh có thật hay người thật; bản đồ là sa bàn 'duong-co-so' vẽ bằng code theo toạ độ Bảng 2.1, 2.2 SGK, luôn thể hiện quần đảo Hoàng Sa, Trường Sa thuộc Việt Nam. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Trên boong một con tàu ra đảo hôm nay, trời xanh biển lặng: Nhật Minh và Hân Hân đứng cạnh lan can, Hân Hân trải tấm bản đồ biển có những chấm đỏ đánh số dọc bờ biển, gió làm bản đồ bay phấp phới, Nhật Minh giữ một góc",
+   "am_thanh": "gió biển, sóng rẽ mũi tàu, hải âu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những chấm đỏ đánh số A1, A2 trên bản đồ này là gì vậy?",
+     "What are these red dots numbered A1, A2 on this map?"
+    ],
+    [
+     "Hân Hân",
+     "Đó là các điểm xác định đường cơ sở của Việt Nam! Cùng giải mã nhé!",
+     "They're the points that define Việt Nam's baseline! Let's decode them!"
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "tieu_de": "LUẬT BIỂN VIỆT NAM NĂM 2012",
+   "y": [
+    "Nội thuỷ",
+    "Lãnh hải",
+    "Vùng tiếp giáp lãnh hải",
+    "Vùng đặc quyền kinh tế",
+    "Thềm lục địa"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo Luật Biển Việt Nam năm 2012, vùng biển Việt Nam trong Biển Đông gồm nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+     "Under the 2012 Law of the Sea of Việt Nam, Vietnamese waters in the East Sea include internal waters, the territorial sea, the contiguous zone, the exclusive economic zone and the continental shelf."
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn: đường cơ sở được vẽ dần dọc bờ biển Việt Nam, các mốc A1, A2, A3 – A5, A6, A10, A11, A24 hiện lên; quần đảo Hoàng Sa, Trường Sa (Việt Nam)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đường cơ sở là căn cứ để xác định phạm vi, chiều rộng lãnh hải của lục địa Việt Nam và các vùng biển khác.",
+     "The baseline is what we use to fix the extent and breadth of the territorial sea of mainland Việt Nam and the other maritime zones."
+    ],
+    [
+     "Hân Hân",
+     "Đó là một đường thẳng gãy khúc, nối liền các điểm từ 0 đến A24.",
+     "It's a broken straight line connecting the points from 0 to A24."
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "phia_nam",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Sa bàn phía nam: các điểm A1 Hòn Nhạn, A2 Hòn Đá Lẻ, A3 – A5 Côn Đảo, A6 Hòn Hải đến A10 Lý Sơn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Điểm A1 ở Hòn Nhạn, quần đảo Thổ Chu, tỉnh An Giang. A2 ở Hòn Đá Lẻ, tỉnh Cà Mau. Ba điểm A3 đến A5 ở Côn Đảo.",
+     "Point A1 is at Hòn Nhạn in the Thổ Chu islands, An Giang. A2 is at Hòn Đá Lẻ, Cà Mau. Points A3 to A5 are on Côn Đảo."
+    ],
+    [
+     "Hân Hân",
+     "Rồi A6 ở Hòn Hải, nhóm đảo Phú Quý, cứ thế đi lên tới A10 ở đảo Lý Sơn, tỉnh Quảng Ngãi.",
+     "Then A6 at Hòn Hải in the Phú Quý group, and on up to A10 on Lý Sơn island, Quảng Ngãi."
+    ]
+   ],
+   "nguon_trang": [
+    163
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "phia_bac",
+   "thoi_luong_toi_thieu": 8,
+   "hinh": "Sa bàn phía bắc: các điểm A11 Cồn Cỏ đến A24 ở vùng biển Quảng Ninh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phía bắc có A11 ở đảo Cồn Cỏ, tỉnh Quảng Trị, lần lượt đến các đảo ở Hải Phòng, Quảng Ninh.",
+     "In the north, there's A11 on Cồn Cỏ island in Quảng Trị, then on to islands off Hải Phòng and Quảng Ninh."
+    ],
+    [
+     "Hân Hân",
+     "Điểm cuối A24 chính là điểm số 1 của Hiệp định phân định vịnh Bắc Bộ.",
+     "The last point, A24, is point number 1 of the Gulf of Tonkin delimitation agreement."
+    ]
+   ],
+   "nguon_trang": [
+    162,
+    163
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đường cơ sở để tính chiều rộng lãnh hải của lục địa Việt Nam nối liền các điểm nào?",
+    "lua_chon": [
+     "Từ điểm 0 đến A24",
+     "Từ điểm số 1 đến điểm số 21",
+     "Từ A1 đến A10"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đường cơ sở nối liền các điểm nào?",
+     "Pause! Which points does the baseline connect?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: từ điểm 0 đến A24!",
+     "The answer is A: from point 0 to A24!"
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI VỊNH BIỂN QUAN TRỌNG",
+   "y": [
+    "Vịnh Thái Lan: bờ biển Việt Nam, Thái Lan, Cam-pu-chia, Ma-lai-xi-a",
+    "Vịnh Bắc Bộ: bờ biển Việt Nam và Trung Quốc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vùng biển nước ta có hai vịnh quan trọng: vịnh Thái Lan, bao bọc bởi bờ biển Việt Nam, Thái Lan, Cam-pu-chia, Ma-lai-xi-a; và vịnh Bắc Bộ, bao bọc bởi bờ biển Việt Nam và Trung Quốc.",
+     "Our waters include two important gulfs: the Gulf of Thailand, bordered by Việt Nam, Thailand, Cambodia and Malaysia; and the Gulf of Tonkin, bordered by Việt Nam and China."
+    ]
+   ],
+   "nguon_trang": [
+    165
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "vinh_bac_bo",
+   "thoi_luong_toi_thieu": 9,
+   "hinh": "Sa bàn vịnh Bắc Bộ: đường phân định được vẽ dần qua 21 điểm, từ điểm số 1 đến điểm số 21",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 25 tháng 12 năm 2000, Việt Nam và Trung Quốc kí Hiệp định Phân định vịnh Bắc Bộ, xác định biên giới lãnh hải, thềm lục địa và vùng đặc quyền kinh tế giữa hai nước.",
+     "On 25 December 2000, Việt Nam and China signed the Gulf of Tonkin Delimitation Agreement, setting the boundary of their territorial seas, continental shelves and exclusive economic zones."
+    ],
+    [
+     "Nhật Minh",
+     "Đường phân định đi qua 21 điểm, nối tuần tự với nhau bằng các đoạn thẳng.",
+     "The boundary runs through 21 points, joined one after another by straight segments."
+    ]
+   ],
+   "nguon_trang": [
+    165,
+    166
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đường phân định vịnh Bắc Bộ giữa Việt Nam và Trung Quốc được xác định qua bao nhiêu điểm?",
+    "lua_chon": [
+     "13 điểm",
+     "24 điểm",
+     "21 điểm"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu hỏi nhanh! Đường phân định vịnh Bắc Bộ đi qua bao nhiêu điểm?",
+     "Quick question! How many points does the Gulf of Tonkin boundary pass through?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: 21 điểm!",
+     "The answer is C: 21 points!"
+    ]
+   ],
+   "nguon_trang": [
+    165
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "sa_ban",
+   "sa_ban": "duong-co-so",
+   "pha": "toan_canh",
+   "thoi_luong_toi_thieu": 7,
+   "hinh": "Sa bàn toàn cảnh: đường cơ sở, đường phân định vịnh Bắc Bộ, quần đảo Hoàng Sa, Trường Sa (Việt Nam); dòng chữ: Vùng biển Việt Nam khoảng 1 triệu km²",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vùng biển Việt Nam rộng khoảng 1 triệu ki-lô-mét vuông, gấp hơn ba lần diện tích đất liền, với hàng nghìn hòn đảo lớn nhỏ, trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "Việt Nam's waters cover about one million square kilometres, more than three times its land area, with thousands of islands, including the Hoàng Sa and Trường Sa archipelagos."
+    ]
+   ],
+   "nguon_trang": [
+    164,
+    166
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "EM CÓ BIẾT?",
+   "y": [
+    "Nước ta có 13 đặc khu",
+    "Hoàng Sa (thành phố Đà Nẵng)",
+    "Trường Sa (tỉnh Khánh Hoà)",
+    "Côn Đảo (Thành phố Hồ Chí Minh), Lý Sơn (tỉnh Quảng Ngãi)..."
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Em có biết? Nước ta có 13 đặc khu, trong đó có đặc khu Hoàng Sa thuộc thành phố Đà Nẵng và đặc khu Trường Sa thuộc tỉnh Khánh Hoà.",
+     "Did you know? Việt Nam has 13 special zones, including Hoàng Sa under Đà Nẵng city and Trường Sa under Khánh Hoà province."
+    ]
+   ],
+   "nguon_trang": [
+    166
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "hinh": "Trở lại boong tàu hôm nay, hoàng hôn trên biển: Nhật Minh và Hân Hân gấp tấm bản đồ, phía xa là một hòn đảo nhỏ có ngọn hải đăng; Hân Hân quay về phía người xem",
+   "am_thanh": "sóng, gió, còi tàu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: tra Bảng 2.1 trong sách, tìm điểm A gần quê cậu nhất và cho biết nó nằm ở đảo nào. Bình luận nhé!",
+     "Your challenge: check Table 2.1 in the textbook, find the A point closest to your hometown and tell us which island it's on. Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    163
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo Luật Biển Việt Nam năm 2012, vùng biển Việt Nam trong Biển Đông KHÔNG bao gồm vùng nào dưới đây?",
+   "dap_an": [
+    "Nội thuỷ",
+    "Lãnh hải",
+    "Thềm lục địa",
+    "Vùng biển quốc tế"
+   ],
+   "dung": 3,
+   "trang": 162
+  },
+  {
+   "hoi": "Điểm A1 của đường cơ sở nằm ở đâu?",
+   "dap_an": [
+    "Hòn Nhạn, quần đảo Thổ Chu, tỉnh An Giang",
+    "Đảo Lý Sơn, tỉnh Quảng Ngãi",
+    "Đảo Cồn Cỏ, tỉnh Quảng Trị",
+    "Đảo Trà Cổ, tỉnh Quảng Ninh"
+   ],
+   "dung": 0,
+   "trang": 163
+  },
+  {
+   "hoi": "Hiệp định Phân định vịnh Bắc Bộ giữa Việt Nam và Trung Quốc được kí vào ngày nào?",
+   "dap_an": [
+    "25 – 12 – 2000",
+    "25 – 12 – 2012",
+    "1 – 1 – 2000",
+    "2 – 9 – 2000"
+   ],
+   "dung": 0,
+   "trang": 165
+  },
+  {
+   "hoi": "Vùng biển Việt Nam có diện tích khoảng bao nhiêu?",
+   "dap_an": [
+    "Khoảng 100 nghìn km²",
+    "Khoảng 1 triệu km²",
+    "Khoảng 15 nghìn km²",
+    "Khoảng 40 nghìn km²"
+   ],
+   "dung": 1,
+   "trang": 164
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR + ảnh trang SGK LSĐL 8 tr. 162 (Luật Biển Việt Nam 2012; đường cơ sở nối các điểm từ 0 đến A24), tr. 163 (Bảng 2.1: toạ độ, vị trí A1 – A24, đã đọc lại trên ảnh trang vì OCR sai nhiều số), tr. 164 (Hình 2.1; vùng biển khoảng 1 triệu km², gấp hơn ba lần đất liền), tr. 165 (hai vịnh; Hiệp định 25 – 12 – 2000; 21 điểm), tr. 166 (Bảng 2.2 toạ độ 21 điểm, đã đọc trên ảnh trang; hàng nghìn đảo; 13 đặc khu). Danh mục: 'Hiệp định phân định vịnh Bắc Bộ ký năm 2000' bổ sung ngày 25 – 12 – 2000 theo SGK; 'đường phân định gồm 21 điểm nối tiếp' diễn đạt theo SGK 'nối tuần tự bằng các đoạn thẳng'. Sa bàn mới 'duong-co-so' vẽ theo đúng toạ độ hai bảng; điểm 0 không có toạ độ trong SGK nên không vẽ. Phương án nhiễu 'Vùng biển quốc tế' và các ngày, diện tích nhiễu trong câu hỏi cuối video là phương án sai có chủ đích.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

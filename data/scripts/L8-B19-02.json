@@ -1,0 +1,529 @@
+{
+ "ma": "L8-B19-02",
+ "ten_tap": "Hai chí sĩ, hai con đường",
+ "ten_tap_en": "Two Patriots, Two Paths",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 19. Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+  "trang": [
+   70,
+   89,
+   90,
+   91,
+   92
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "phan-boi-chau",
+  "phan-chau-trinh",
+  "thanh-nien-yeu-nuoc"
+ ],
+ "nhac": {
+  "tam_trang": "trầm tư, sâu lắng; nhịp tiến bước ở phần Đông du và Duy tân; trang trọng ở phần so sánh; không dùng nhạc vui nhộn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh lịch sử là ảnh tư liệu; sơ đồ, thẻ ghi nhớ dựng bằng code; không có lời thoại dựng. Nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 19, tr. 89–92 (và tr. 70).",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; Phan Bội Châu, Phan Châu Trinh chỉ dùng ảnh chụp tư liệu (như Hình 19.3, 19.4 SGK), không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép); không có lời thoại dựng. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân (đồng phục FPT) đứng ở một ngã ba đường làng quê hôm nay, con đường đất chia hai nhánh: một nhánh dẫn ra phía biển xa, một nhánh dẫn về phía làng có mái trường; cột biển chỉ đường bằng gỗ, nắng sớm",
+   "am_thanh": "gió đồng, chim sẻ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu thế kỉ XX, có hai nhà yêu nước cùng mong cứu nước, nhưng lại chọn hai con đường khác nhau.",
+     "In the early 20th century, two patriots shared the dream of saving their country but chose two different paths."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là Phan Bội Châu và Phan Châu Trinh. Hôm nay tụi mình cùng so sánh hai con đường ấy nhé!",
+     "They were Phan Bội Châu and Phan Châu Trinh. Today let's compare their two paths!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ],
+   "chuyen_dong": "kling"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu thế kỉ XX",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đầu thế kỉ XX: công nhân khai mỏ ở Việt Nam (như Hình 19.2 SGK)",
+    "tim": "công nhân mỏ than Bắc Kì đầu thế kỉ XX ảnh tư liệu",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: công nhân khai mỏ ở Việt Nam đầu thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XX, dưới ách thống trị của thực dân Pháp, xã hội Việt Nam phân hoá sâu sắc.",
+     "In the early 20th century, under French rule, Vietnamese society was deeply divided."
+    ],
+    [
+     "Hân Hân",
+     "Tư tưởng dân chủ tư sản châu Âu và trào lưu duy tân ở phương Đông, trong đó có Nhật Bản, tác động mạnh tới các nhà yêu nước. Những trí thức Nho học tiến bộ hăng hái cứu nước theo khuynh hướng mới.",
+     "European bourgeois-democratic ideas and the reform wave in the East, including Japan, deeply influenced patriots. Progressive Confucian scholars threw themselves into saving the nation in new ways."
+    ]
+   ],
+   "nguon_trang": [
+    89,
+    90
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Phan Bội Châu (như Hình 19.3 SGK)",
+    "tim": "Phan Bội Châu ảnh tư liệu",
+    "yeu_cau": "ảnh chụp tư liệu thuộc phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Phan Bội Châu (1867 – 1940)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phan Bội Châu quê ở làng Đan Nhiễm, huyện Nam Đàn, nay là xã Vạn An, tỉnh Nghệ An. Ông từng đỗ đầu kì thi Hương.",
+     "Phan Bội Châu came from Đan Nhiễm village in Nam Đàn, today Vạn An commune, Nghệ An province. He came top in the provincial exam."
+    ],
+    [
+     "Nhật Minh",
+     "Khi phong trào Cần vương bị dập tắt, ông tìm người cùng chí hướng “xuất dương cầu ngoại viện”, tức ra nước ngoài tìm sự giúp đỡ, để khôi phục nước Việt Nam, lập ra một chính phủ độc lập.",
+     "After the Cần vương movement was crushed, he sought comrades to 'go abroad for foreign aid', to restore Việt Nam and set up an independent government."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu: thanh niên Việt Nam du học tại Nhật Bản trong phong trào Đông du (khoảng 1905 – 1909)",
+    "tim": "phong trào Đông du lưu học sinh Việt Nam Nhật Bản ảnh tư liệu",
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: lưu học sinh Việt Nam trong phong trào Đông du",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1904, Phan Bội Châu cùng các nhà yêu nước thành lập Hội Duy tân, nhằm lập nên nước Việt Nam độc lập. Đầu năm 1905, ông sang Nhật Bản nhờ giúp đỡ khí giới, tiền bạc để đánh Pháp.",
+     "In 1904, Phan Bội Châu and other patriots founded the Reformation Society to build an independent Việt Nam. In early 1905, he went to Japan to seek weapons and money to fight France."
+    ],
+    [
+     "Hân Hân",
+     "Hội Duy tân phát động phong trào Đông du, đưa thanh niên yêu nước sang Nhật Bản học tập. Đến năm 1909, Phan Bội Châu bị trục xuất khỏi Nhật Bản, phong trào tan rã.",
+     "The society launched the Đông du movement, sending young patriots to study in Japan. In 1909, Phan Bội Châu was expelled from Japan and the movement fell apart."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Đông du đưa thanh niên Việt Nam sang nước nào học tập?",
+    "lua_chon": [
+     "Pháp",
+     "Nhật Bản",
+     "Trung Quốc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phong trào Đông du đưa thanh niên Việt Nam sang nước nào học tập?",
+     "Pause! The Đông du movement sent young Vietnamese to study in which country?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Nhật Bản!",
+     "The answer is B: Japan!"
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "tieu_de": "VIỆT NAM QUANG PHỤC HỘI (1912)",
+   "y": [
+    "Thành lập năm 1912 tại Quảng Đông (Trung Quốc)",
+    "Mục đích: “Đánh đuổi giặc Pháp, khôi phục Việt Nam, thành lập Cộng hoà Dân quốc Việt Nam”",
+    "Đầu năm 1913: đưa người về nước ám sát thực dân đầu sỏ, tay sai nhưng thất bại",
+    "Phan Bội Châu bị bắt, bị cầm tù ở Quảng Đông"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1912, tại Quảng Đông, Trung Quốc, Phan Bội Châu thành lập Việt Nam Quang phục hội, nhằm đánh đuổi giặc Pháp, khôi phục Việt Nam, thành lập Cộng hoà Dân quốc Việt Nam.",
+     "In 1912, in Guangdong, China, Phan Bội Châu founded the Vietnam Restoration League, aiming to drive out the French, restore Việt Nam and found a Republic of Việt Nam."
+    ],
+    [
+     "Hân Hân",
+     "Đầu năm 1913, Quang phục hội đưa người về nước ám sát một số tên thực dân đầu sỏ và tay sai, nhưng thất bại.",
+     "In early 1913 the League sent men home to assassinate leading colonial officials and collaborators, but failed."
+    ],
+    [
+     "Nhật Minh",
+     "Phan Bội Châu bị bắt, bị cầm tù ở Quảng Đông. Giai đoạn hoạt động sôi nổi nhất của ông chấm dứt.",
+     "Phan Bội Châu was arrested and imprisoned in Guangdong. The most active phase of his struggle was over."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chụp tư liệu Phan Châu Trinh (như Hình 19.4 SGK)",
+    "tim": "Phan Châu Trinh ảnh tư liệu",
+    "yeu_cau": "ảnh chụp tư liệu thuộc phạm vi công cộng, ghi nguồn; chỉ dùng ảnh thật, không vẽ lại"
+   },
+   "hinh": "Ảnh tư liệu: Phan Châu Trinh (1872 – 1926)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn Phan Châu Trinh quê ở làng Tây Lộc, phủ Tam Kỳ, tỉnh Quảng Nam, nay là xã Tây Hồ, thành phố Đà Nẵng.",
+     "Phan Châu Trinh came from Tây Lộc village, Tam Kỳ prefecture, Quảng Nam, today Tây Hồ commune, Đà Nẵng city."
+    ],
+    [
+     "Nhật Minh",
+     "Ông từng đỗ Phó bảng, được bổ làm quan, nhưng chỉ sau một thời gian ngắn đã từ quan về quê, dốc lòng hoạt động cứu nước.",
+     "He passed the Phó bảng exam and was made an official, but soon resigned and went home to devote himself to saving the country."
+    ]
+   ],
+   "nguon_trang": [
+    90
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "tieu_de": "CUỘC VẬN ĐỘNG DUY TÂN (1906)",
+   "y": [
+    "Dựa vào Pháp để cải cách: “khai dân trí, chấn dân khí, hậu dân sinh”",
+    "Mở mang công thương nghiệp, phát triển sản xuất",
+    "Mở trường học kiểu mới, tổ chức diễn thuyết",
+    "Đả phá hủ tục; hô hào cắt tóc ngắn, mặc áo ngắn"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1906, Phan Châu Trinh cùng nhóm sĩ phu tiến bộ mở cuộc vận động Duy tân ở Trung Kì, chủ trương dựa vào Pháp để cải cách nhằm “khai dân trí, chấn dân khí, hậu dân sinh”.",
+     "In 1906, Phan Châu Trinh and progressive scholars launched the Duy tân reform campaign in Trung Kì, relying on France to carry out reforms to 'enlighten the people, raise their spirit and improve their livelihood'."
+    ],
+    [
+     "Nhật Minh",
+     "Ông tuyên truyền mở mang công thương nghiệp, phát triển sản xuất, mở trường học kiểu mới, tổ chức diễn thuyết,",
+     "He promoted trade and industry, new-style schools and public talks,"
+    ],
+    [
+     "Hân Hân",
+     "đả phá hủ tục lạc hậu, hô hào cắt tóc ngắn, mặc áo ngắn.",
+     "attacked outdated customs, and urged people to cut their hair short and wear short tunics."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu năm 1908 về phong trào chống sưu thuế của nhân dân Trung Kì (đoàn người kéo đến công đường)",
+    "tim": "phong trào chống thuế Trung Kì 1908 ảnh tư liệu",
+    "yeu_cau": "ảnh chụp năm 1908, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Ảnh tư liệu: phong trào chống sưu thuế ở Trung Kì (1908)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuộc vận động Duy tân đã châm ngòi cho phong trào chống sưu thuế của nhân dân Trung Kì năm 1908.",
+     "The Duy tân campaign sparked the anti-tax movement of the people of Trung Kì in 1908."
+    ],
+    [
+     "Hân Hân",
+     "Thực dân Pháp thẳng tay đàn áp, bắt bớ nhiều nhà yêu nước, trong đó có Phan Châu Trinh. Phong trào tan rã.",
+     "The French cracked down hard, arresting many patriots including Phan Châu Trinh. The movement collapsed."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chủ trương “khai dân trí, chấn dân khí, hậu dân sinh” gắn với nhà yêu nước nào?",
+    "lua_chon": [
+     "Phan Bội Châu",
+     "Phan Châu Trinh",
+     "Nguyễn Tất Thành"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử tài nhanh! Chủ trương “khai dân trí, chấn dân khí, hậu dân sinh” gắn với nhà yêu nước nào?",
+     "Quick test! Whose motto was 'enlighten the people, raise their spirit, improve their livelihood'?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Phan Châu Trinh, trong cuộc vận động Duy tân!",
+     "The answer is B: Phan Châu Trinh, in the Duy tân campaign!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "tieu_de": "HAI CON ĐƯỜNG CỨU NƯỚC",
+   "y": [
+    "Phan Bội Châu: ra nước ngoài cầu viện, đánh Pháp giành độc lập (Đông du, Quang phục hội) – xu hướng bạo động",
+    "Phan Châu Trinh: dựa vào Pháp để cải cách, nâng cao dân trí, dân khí, dân sinh (Duy tân) – xu hướng cải cách",
+    "Điểm chung: trí thức Nho học tiến bộ, cứu nước theo khuynh hướng mới",
+    "Cả hai phong trào đều tan rã"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "So sánh nhé! Phan Bội Châu chọn ra nước ngoài cầu viện để đánh Pháp, giành độc lập. Đó là xu hướng bạo động.",
+     "Let's compare! Phan Bội Châu went abroad for aid to fight France and win independence: the path of armed struggle."
+    ],
+    [
+     "Nhật Minh",
+     "Phan Châu Trinh chọn dựa vào Pháp để cải cách, nâng cao dân trí, dân khí, dân sinh. Đó là xu hướng cải cách.",
+     "Phan Châu Trinh chose to work through France for reform, raising the people's knowledge, spirit and livelihood: the path of reform."
+    ],
+    [
+     "Hân Hân",
+     "Điểm chung: cả hai đều là trí thức Nho học tiến bộ, cứu nước theo khuynh hướng mới. Và cả hai phong trào cuối cùng đều tan rã.",
+     "In common: both were progressive Confucian scholars who sought new ways to save the nation, and both movements ultimately collapsed."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    70,
+    90,
+    91
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRỤC THỜI GIAN · HAI CHÍ SĨ",
+   "moc": [
+    [
+     "1904",
+     "Hội Duy tân thành lập"
+    ],
+    [
+     "1905",
+     "Phan Bội Châu sang Nhật, phong trào Đông du"
+    ],
+    [
+     "1906",
+     "Phan Châu Trinh mở cuộc vận động Duy tân"
+    ],
+    [
+     "1908",
+     "Chống sưu thuế ở Trung Kì"
+    ],
+    [
+     "1909",
+     "Phan Bội Châu bị trục xuất khỏi Nhật"
+    ],
+    [
+     "1912",
+     "Việt Nam Quang phục hội"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhé! Năm 1904, Hội Duy tân thành lập. Năm 1905, Phan Bội Châu sang Nhật Bản, mở đầu phong trào Đông du.",
+     "Recap! 1904: the Reformation Society is founded. 1905: Phan Bội Châu goes to Japan and the Đông du movement begins."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1906, Phan Châu Trinh mở cuộc vận động Duy tân. Năm 1908, phong trào chống sưu thuế nổ ra ở Trung Kì.",
+     "1906: Phan Châu Trinh launches the Duy tân campaign. 1908: the anti-tax movement erupts in Trung Kì."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1909, Phan Bội Châu bị trục xuất khỏi Nhật Bản. Năm 1912, ông lập Việt Nam Quang phục hội.",
+     "1909: Phan Bội Châu is expelled from Japan. 1912: he founds the Vietnam Restoration League."
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "nguon_trang": [
+    90,
+    91
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Phan Bội Châu: Hội Duy tân (1904), phong trào Đông du (1905 – 1909), Việt Nam Quang phục hội (1912)",
+    "Phan Châu Trinh: cuộc vận động Duy tân (1906), “khai dân trí, chấn dân khí, hậu dân sinh”",
+    "Hai xu hướng: bạo động và cải cách",
+    "Các phong trào đều tan rã, đặt ra yêu cầu tìm con đường cứu nước mới"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Phan Bội Châu với Hội Duy tân, phong trào Đông du và Việt Nam Quang phục hội.",
+     "Remember: Phan Bội Châu, with the Reformation Society, the Đông du movement and the Restoration League."
+    ],
+    [
+     "Hân Hân",
+     "Phan Châu Trinh với cuộc vận động Duy tân: khai dân trí, chấn dân khí, hậu dân sinh.",
+     "Phan Châu Trinh, with the Duy tân campaign: enlighten the people, raise their spirit, improve their lives."
+    ],
+    [
+     "Nhật Minh",
+     "Hai xu hướng: bạo động và cải cách. Các phong trào đều tan rã.",
+     "Two trends: armed struggle and reform. Both movements collapsed."
+    ],
+    [
+     "Hân Hân",
+     "Sau đó, người thanh niên Nguyễn Tất Thành đã quyết định tìm một con đường cứu nước mới. Hẹn gặp cậu ở tập về bến Nhà Rồng nhé!",
+     "After them, the young Nguyễn Tất Thành decided to seek a new path to save the nation. See you in our episode about Nhà Rồng wharf!"
+    ]
+   ],
+   "nguon_trang": [
+    70,
+    90,
+    91
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "hinh": "Nhật Minh và Hân Hân đứng ở ngã ba đường làng lúc hoàng hôn, mỗi bạn đặt tay lên một cánh tay của cột biển chỉ đường bằng gỗ; hai bạn nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "am_thanh": "gió chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: chủ trương cứu nước của Phan Bội Châu và Phan Châu Trinh có điểm gì giống và khác nhau? Bình luận nhé!",
+     "Your challenge: how were the approaches of Phan Bội Châu and Phan Châu Trinh alike, and how did they differ? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    92
+   ],
+   "chuyen_dong": "kling"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1904, Phan Bội Châu cùng các nhà yêu nước thành lập tổ chức nào?",
+   "dap_an": [
+    "Việt Nam Quang phục hội",
+    "Hội Duy tân",
+    "Đồng minh những người cộng sản",
+    "Hội những người Việt Nam yêu nước"
+   ],
+   "dung": 1,
+   "trang": 90
+  },
+  {
+   "hoi": "Phong trào Đông du tan rã khi nào?",
+   "dap_an": [
+    "Năm 1905",
+    "Năm 1908",
+    "Năm 1909, khi Phan Bội Châu bị trục xuất khỏi Nhật Bản",
+    "Năm 1913"
+   ],
+   "dung": 2,
+   "trang": 90
+  },
+  {
+   "hoi": "Phan Châu Trinh chủ trương cứu nước bằng cách nào?",
+   "dap_an": [
+    "Dựa vào Pháp để cải cách",
+    "Nhờ Nhật Bản giúp khí giới",
+    "Ám sát thực dân đầu sỏ",
+    "Khởi nghĩa vũ trang ở miền núi"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Cuộc vận động Duy tân đã châm ngòi cho phong trào nào?",
+   "dap_an": [
+    "Phong trào Cần vương",
+    "Phong trào chống sưu thuế ở Trung Kì (1908)",
+    "Khởi nghĩa Yên Thế",
+    "Phong trào Đông du"
+   ],
+   "dung": 1,
+   "trang": 91
+  }
+ ],
+ "kiem_tra": {
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 70 (đầu thế kỉ XX phong trào ở Việt Nam có hai xu hướng chính là bạo động và cải cách), tr. 89 (tác động khai thác thuộc địa, Hình 19.2), tr. 90 (bối cảnh; Phan Bội Châu: quê, Hội Duy tân 1904, sang Nhật đầu 1905, Đông du, trục xuất 1909, Quang phục hội 1912, ám sát đầu 1913, bị bắt; Phan Châu Trinh: quê, đỗ Phó bảng, từ quan), tr. 91 (cuộc vận động Duy tân 1906, chống sưu thuế 1908), tr. 92 (câu hỏi so sánh). Địa danh hiện nay theo đúng SGK (xã Vạn An, tỉnh Nghệ An; xã Tây Hồ, thành phố Đà Nẵng). Sửa kiến thức chốt danh mục: 'cả hai phong trào đều thất bại trước sự đàn áp' chuẩn lại đúng SGK – phong trào Đông du tan rã khi Phan Bội Châu bị trục xuất khỏi Nhật (1909), Quang phục hội ám sát thất bại, ông bị bắt (1913); cuộc vận động Duy tân tan rã khi Pháp đàn áp phong trào chống sưu thuế (1908). Lịch sử hiện đại: chỉ ảnh tư liệu, không vẽ chân dung, không lời thoại dựng.",
+  "viet": "Claude",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}
