@@ -231,14 +231,15 @@
    "tu_lieu": {
     "mo_ta": "Ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn ngày 19 – 8 – 1945 (như Hình 8.4 SGK)",
     "tim": "mít tinh Nhà hát Lớn Hà Nội 19 8 1945 ảnh tư liệu",
-    "yeu_cau": "ảnh tư liệu công khai (tác phẩm nhiếp ảnh công bố năm 1945, đã hết thời hạn bảo hộ theo Luật SHTT), ghi nguồn"
+    "yeu_cau": "ảnh tư liệu công khai (tác phẩm nhiếp ảnh công bố năm 1945, đã hết thời hạn bảo hộ theo Luật SHTT), ghi nguồn",
+    "ghi_chu": "Ảnh trên Wikimedia Commons ghi ngày 17-8-1945 (cuộc mít tinh ở Nhà hát Lớn trước khởi nghĩa 19-8); vì vậy lời dẫn chỉ nói 'tháng 8 năm 1945' để không ghi sai ngày."
    },
-   "hinh": "Ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn (19 – 8 – 1945)",
+   "hinh": "Ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn (tháng 8 – 1945)",
    "loi": [
     [
      "Hân Hân",
-     "Đây là ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn, ngày 19 tháng 8 năm 1945.",
-     "This archive photo shows the people of Hà Nội rallying at the Opera House square on 19 August 1945."
+     "Đây là ảnh tư liệu: nhân dân Hà Nội mít tinh tại quảng trường Nhà hát Lớn trong những ngày tháng 8 năm 1945.",
+     "This archive photo shows the people of Hà Nội rallying at the Opera House square in August 1945."
     ]
    ],
    "nguon_trang": [

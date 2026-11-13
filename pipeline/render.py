@@ -238,7 +238,7 @@ def video_frames(path, W, H, nframes, max_cham=1.3):
     chiếu chậm lại tối đa max_cham lần (nội suy pha trộn khung), phần còn thiếu chạy lùi nhẹ (ping-pong) – không đứng hình."""
     tmp = os.path.join(CACHE, "vclip_" + hashlib.sha1(f"{path}{W}{H}{time.time()}".encode()).hexdigest()[:10] + ".rgb")
     run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-an", "-vf",
-         f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
+         f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.45:5:5:0,fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
     try:
         frames = np.memmap(tmp, dtype=np.uint8, mode="r").reshape(-1, H, W, 3)
         L = len(frames)
@@ -357,7 +357,17 @@ def scene_source(spec, sc, W, H, n):
     base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
     vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
     img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)
-    if vid: return video_frames(rp(vid), W, H, n)
+    if vid:
+        sc["_clip"] = rp(vid)
+        return video_frames(rp(vid), W, H, n)
+    if sc.get("lop") in ("dan_chuyen", "du_hanh") and (sc.get("ve_code") or not img):
+        try:   # hai bạn dẫn chuyện vẽ & diễn hoàn toàn bằng code khi chưa có tranh (hoặc kịch bản yêu cầu ve_code)
+            sys.path.insert(0, os.path.join(ROOT, "pipeline"))
+            import nhan_vat_code, itertools
+            g = nhan_vat_code.frames(sc, W, H, n, FPS)
+            return itertools.chain([next(g)], g)
+        except Exception as ex:
+            print("nhan_vat_code lỗi, dùng khung chờ:", ex, file=sys.stderr)
     if img:
         if sc.get("lop") in ("dan_chuyen", "tai_hien", "du_hanh") and sc.get("chuyen_dong") != "tinh":
             try:   # chuyển động bằng code (độ sâu, khẩu hình, nháy mắt, môi trường) khi chưa có clip Kling
@@ -371,6 +381,13 @@ def scene_source(spec, sc, W, H, n):
         return still_frames(load_rgb(rp(img)), W, H, n, sc.get("chuyen_dong") if sc.get("chuyen_dong") in ("vao", "ra", "trai", "phai", "len", "xuong") else "vao")
     import effects
     return effects.cho(W, H, n, sc)
+
+def has_audio(path):
+    try:
+        out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index", "-of", "csv=p=0", path],
+                             capture_output=True, text=True).stdout
+        return bool(out.strip())
+    except Exception: return False
 
 def render(spec_path, out_dir=None):
     spec = load_spec(spec_path)
@@ -444,10 +461,33 @@ def render(spec_path, out_dir=None):
          "-map", "[v]", "-ac", "2", "-ar", "48000", voice])
     mix = os.path.join(work, "mix.wav")
     music = spec.get("nhac")
-    if music and os.path.exists(os.path.join(ROOT, music)):
-        run(["ffmpeg", "-y", "-loglevel", "error", "-i", voice, "-stream_loop", "-1", "-i", os.path.join(ROOT, music), "-filter_complex",
-             f"[1]atrim=0:{total:.2f},volume=0.22,afade=t=in:d=1.5,afade=t=out:st={total-2.5:.2f}:d=2.5,aresample=48000[m];"
-             f"[0]asplit=2[v1][v2];[m][v2]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
+    # tiếng động hiện trường có sẵn trong clip (Gemini/Kling có âm thanh): đặt đúng mốc cảnh, nhỏ dưới lời đọc
+    amb = None; ai = []; af = []
+    for k, s in enumerate(scenes):
+        cp = s.get("_clip")
+        if not cp or not has_audio(cp): continue
+        L = s["length"]; j = len(ai) // 4
+        ai += ["-stream_loop", "-1", "-i", cp]
+        d = int(starts[k] * 1000)
+        af.append(f"[{j}:a]atrim=0:{L:.2f},asetpts=PTS-STARTPTS,aresample=48000,aformat=channel_layouts=stereo,"
+                  f"volume={float(s.get('am_hien_truong', 0.5)):.2f},afade=t=in:d=0.4,afade=t=out:st={max(L-0.6, 0):.2f}:d=0.6,adelay={d}|{d}[b{j}]")
+    if ai:
+        amb = os.path.join(work, "amb.wav"); m = len(af)
+        run(["ffmpeg", "-y", "-loglevel", "error", *ai, "-filter_complex",
+             ";".join(af) + ";" + "".join(f"[b{j}]" for j in range(m)) +
+             f"amix=inputs={m}:normalize=0,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[o]", "-map", "[o]", "-ac", "2", "-ar", "48000", amb])
+    has_music = bool(music and os.path.exists(os.path.join(ROOT, music)))
+    if has_music or amb:
+        ins = ["-i", voice]; parts = []; bg = []
+        if has_music:
+            ins += ["-stream_loop", "-1", "-i", os.path.join(ROOT, music)]
+            parts.append(f"[{len(ins)//2 - 1}]atrim=0:{total:.2f},volume=0.22,afade=t=in:d=1.5,afade=t=out:st={total-2.5:.2f}:d=2.5,aresample=48000[m]"); bg.append("[m]")
+        if amb:
+            ins += ["-i", amb]; bg.append(f"[{len(ins)//2 - 1}]")
+        bgmix = (f"{''.join(bg)}amix=inputs={len(bg)}:normalize=0[bg];" if len(bg) > 1 else f"{bg[0]}anull[bg];")
+        run(["ffmpeg", "-y", "-loglevel", "error", *ins, "-filter_complex",
+             (";".join(parts) + ";" if parts else "") + bgmix +
+             f"[0]asplit=2[v1][v2];[bg][v2]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
              f"[v1][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[o]", "-map", "[o]", "-ar", "48000", mix])
     else:
         run(["ffmpeg", "-y", "-loglevel", "error", "-i", voice, "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-ar", "48000", mix])
