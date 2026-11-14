@@ -387,7 +387,11 @@ def thoi_diem_muc(sc):
     if sc.get("hien_luc_theo_cau") and b and len(b) >= len(sc.get("loi", [])):
         # mỗi mục gắn với một câu thoại; nhiều mục cùng một câu thì chia đều trong câu đó
         from collections import Counter
-        idx = sc["hien_luc_theo_cau"]; cnt = Counter(idx); seen = Counter(); times = []
+        idx = sc["hien_luc_theo_cau"]
+        if idx is True:   # true = mục thứ k hiện ở câu thứ k (nhiều mục hơn câu thì chia theo tỉ lệ)
+            n_m, n_c = len(items), len(b)
+            idx = [min(k * n_c // max(n_m, 1), n_c - 1) for k in range(n_m)]
+        cnt = Counter(idx); seen = Counter(); times = []
         for j in idx:
             a0, a1 = b[j]; times.append(a0 + 0.1 + (a1 - a0) * seen[j] / cnt[j]); seen[j] += 1
         return times
