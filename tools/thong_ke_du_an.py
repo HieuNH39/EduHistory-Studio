@@ -20,7 +20,8 @@ def dur(p):
 
 
 def main():
-    tk = {"thoi_diem": datetime.datetime.now().strftime("%d/%m/%Y %H:%M")}
+    from zoneinfo import ZoneInfo
+    tk = {"thoi_diem": datetime.datetime.now(ZoneInfo("Asia/Ho_Chi_Minh")).strftime("%d/%m/%Y %H:%M")}   # giờ Việt Nam (máy dựng chạy giờ UTC)
     # ---- danh mục ----
     cat = J("data/catalog/episodes.json")
     eps = cat["tap"]

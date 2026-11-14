@@ -815,7 +815,7 @@ CU_CHI = {
     "nhin_ban":      dict(turn_rel=0.34, lx_rel=0.85),
 }
 
-_K_VIEWER = ("dừng hình", "thử thách", "bình luận", "các bạn", "bạn có biết", "bạn nghĩ", "bạn đoán", "theo bạn")
+_K_VIEWER = ("dừng hình", "hỏi bạn", "thử thách", "bình luận", "các bạn", "bạn có biết", "bạn nghĩ", "bạn đoán", "theo bạn")
 
 
 def chon_cu_chi(text, line_idx=0):
