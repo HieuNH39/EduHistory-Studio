@@ -57,10 +57,10 @@ def main():
     hsts = sum(1 for p in specs if "Hoàng Sa" in open(p, encoding="utf-8").read())
     tk["sa_ban"] = {"so_ban_do": len(specs), "ban_do_co_hoang_sa_truong_sa": hsts}
     # ---- tài nguyên hình ----
-    imgs = glob.glob(os.path.join(ROOT, "assets/episodes/*/canh-*.jpg"))
-    clips = glob.glob(os.path.join(ROOT, "assets/episodes/*/canh-*.mp4"))
+    imgs = glob.glob(os.path.join(ROOT, "assets/episodes/L*/canh-*.jpg"))  # chỉ tập bài học, bỏ DEMO-*
+    clips = glob.glob(os.path.join(ROOT, "assets/episodes/L*/canh-*.mp4"))
     tl = 0
-    for p in glob.glob(os.path.join(ROOT, "assets/episodes/*/nguon_tu_lieu.json")): tl += len(json.load(open(p)))
+    for p in glob.glob(os.path.join(ROOT, "assets/episodes/L*/nguon_tu_lieu.json")): tl += len(json.load(open(p)))
     kl = [json.loads(l) for l in open(os.path.join(ROOT, "data/kling/nhat_ky_kling.jsonl")) if l.strip()]
     gm = [json.loads(l) for l in open(os.path.join(ROOT, "data/gemini/nhat_ky_video.jsonl")) if l.strip()] if os.path.exists(os.path.join(ROOT, "data/gemini/nhat_ky_video.jsonl")) else []
     sheets = glob.glob(os.path.join(ROOT, "brand/characters/lich-su/nhap/*.jpg"))
@@ -73,7 +73,7 @@ def main():
     tk["video"] = {"so_video_v1": len(vids), "tong_giay": round(sum(ds.values()), 1), "danh_sach": ds}
     # ---- thời gian sản xuất (nhật ký máy dựng) ----
     logs = [json.loads(l) for l in open(os.path.join(ROOT, "data/logs/san-xuat.jsonl")) if l.strip()]
-    real = [l for l in logs if not l["id"].startswith("TEST") and l.get("tong_s") and l.get("thoi_luong_video_s")]
+    real = [l for l in logs if l["id"].startswith("L") and l.get("tong_s") and l.get("thoi_luong_video_s")]
     last = {}
     for l in real: last[l["id"]] = l
     if last:

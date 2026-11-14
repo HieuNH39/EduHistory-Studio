@@ -365,42 +365,93 @@ def doc_mo_phong():
     return out
 
 
+def _cat_ti_le(im, tl, lech_y=0.5):
+    """Cắt ảnh theo tỉ lệ rộng/cao tl; lech_y: vị trí theo chiều dọc (0 = trên, 0.5 = giữa)."""
+    if im.width / im.height > tl:
+        cw = round(im.height * tl)
+        return im.crop(((im.width - cw) // 2, 0, (im.width - cw) // 2 + cw, im.height))
+    ch_ = round(im.width / tl)
+    y0 = int((im.height - ch_) * lech_y)
+    return im.crop((0, y0, im.width, y0 + ch_))
+
+
+def _bia_thuong_hieu(ma, dich, kt):
+    """Bìa thương hiệu cho tập không có tranh cảnh: nền xanh đêm, mặt trống đồng mờ, số bài lớn màu đồng
+    (tên tập đã ghi ngay dưới ảnh nên không lặp lại trên bìa; chừa trống góc dưới cho nhãn thời lượng)."""
+    from PIL import Image, ImageDraw, ImageFont
+    import math
+    W, H = kt; im = Image.new("RGB", (W, H), (11, 26, 49)); d = ImageDraw.Draw(im, "RGBA")
+    ox, oy, R = W * .80, H * .42, min(W, H) * .78
+    for fr, wd in [(1.0, 4), (.88, 2), (.74, 3), (.6, 2), (.46, 2)]:
+        r = R * fr; d.ellipse([ox - r, oy - r, ox + r, oy + r], outline=(201, 139, 43, 64), width=wd)
+    for j in range(72):
+        a = j * 2 * math.pi / 72; r1, r2 = R * .74, R * .86
+        d.line([ox + r1 * math.cos(a), oy + r1 * math.sin(a), ox + r2 * math.cos(a), oy + r2 * math.sin(a)], fill=(201, 139, 43, 40), width=2)
+    for j in range(14):
+        a = j * 2 * math.pi / 14; r = R * .40
+        d.polygon([(ox + r * .25 * math.cos(a), oy + r * .25 * math.sin(a)), (ox + r * math.cos(a), oy + r * math.sin(a)),
+                   (ox + r * .25 * math.cos(a + .45), oy + r * .25 * math.sin(a + .45))], fill=(201, 139, 43, 70))
+    fd = os.path.join(ROOT, "assets", "fonts")
+    m = re.match(r"L(\d)-(B|CD)(\d+)", ma)
+    lop, loai, so = (m.group(1), m.group(2), m.group(3)) if m else ("", "B", "")
+    nhan = ("Bài " if loai == "B" else "Chủ đề ") + so
+    f_big = ImageFont.truetype(os.path.join(fd, "be-vietnam-pro-900-normal.ttf"), int(min(W, H) * (.26 if W > H else .2)))
+    f_sm = ImageFont.truetype(os.path.join(fd, "be-vietnam-pro-700-normal.ttf"), int(min(W, H) * .075))
+    x = W * .08; y = H * (.22 if W > H else .30)
+    d.text((x, y), "Edu", font=f_sm, fill=(255, 246, 230)); d.text((x + d.textlength("Edu", font=f_sm), y), "History", font=f_sm, fill=(242, 107, 29))
+    y += f_sm.size * 1.5
+    d.text((x, y), nhan, font=f_big, fill=(233, 182, 92)); y += f_big.size * 1.12
+    d.text((x, y), f"Lớp {lop}", font=f_sm, fill=(255, 255, 255))
+    im.save(dich, "JPEG", quality=84, optimize=True, progressive=True)
+
+
 def tao_anh_bia(ma, kb, video, kiem_tra):
-    """Ảnh bìa 640 px: ưu tiên ảnh cảnh dẫn chuyện/tái hiện của dự án (không có phụ đề), sau đó 1 khung hình video.
-    Không ghi đè ảnh đã có (giáo viên có thể tự thay ảnh bìa)."""
-    dich = os.path.join(WEB, "du-lieu", "anh-bia", ma + ".jpg")
-    if os.path.exists(dich):
-        return True
+    """Ảnh bìa từ tranh cảnh của dự án (không phụ đề, không thẻ chữ): ưu tiên cảnh TÁI HIỆN (tranh lịch sử),
+    rồi DU HÀNH, DẪN CHUYỆN; dự phòng 1 khung hình video. Luôn có bản 16:9 (<MA>.jpg, 800×450) cho lưới video;
+    tập video dọc có thêm bản 9:16 (<MA>-doc.jpg) làm ảnh chờ của trình phát.
+    Ảnh do giáo viên tự đặt: đặt tên <MA>.thay.jpg – công cụ dùng ảnh đó và không ghi đè."""
+    thu_muc = os.path.join(WEB, "du-lieu", "anh-bia")
+    dich = os.path.join(thu_muc, ma + ".jpg"); dich_doc = os.path.join(thu_muc, ma + "-doc.jpg")
+    doc = (kb or {}).get("huong") == "doc"
     if kiem_tra:
-        return False
-    os.makedirs(os.path.dirname(dich), exist_ok=True)
-    loai_canh = {c.get("so"): c.get("lop") for c in (kb or {}).get("canh", [])}
-    for p in sorted(glob.glob(os.path.join(ROOT, "assets", "episodes", ma, "canh-*.jpg"))):
-        m = re.search(r"canh-(\d+)\.jpg$", p)
-        if m and loai_canh.get(int(m.group(1))) in ("dan_chuyen", "du_hanh", "tai_hien"):
-            try:
-                from PIL import Image
-                im = Image.open(p).convert("RGB")
-                doc = (kb or {}).get("huong") == "doc"
-                w, h = (360, 640) if doc else (640, 360)
-                # cắt giữa ảnh cho đúng tỉ lệ khung video rồi thu nhỏ
-                tl = w / h
-                if im.width / im.height > tl:
-                    cw = round(im.height * tl)
-                    im = im.crop(((im.width - cw) // 2, 0, (im.width - cw) // 2 + cw, im.height))
-                else:
-                    ch_ = round(im.width / tl)
-                    im = im.crop((0, (im.height - ch_) // 2, im.width, (im.height - ch_) // 2 + ch_))
-                im.resize((w, h), Image.LANCZOS).save(dich, "JPEG", quality=80, optimize=True, progressive=True)
-                return True
-            except Exception as ex:
-                bao(f"Không tạo được ảnh bìa từ {os.path.relpath(p, ROOT)}: {ex}")
-                break
+        return os.path.exists(dich)
+    os.makedirs(thu_muc, exist_ok=True)
+    from PIL import Image
+    tu_dat = os.path.join(thu_muc, ma + ".thay.jpg")
+    nguon = None
+    if os.path.exists(tu_dat):
+        nguon = tu_dat
+    else:
+        uu_tien = {"tai_hien": 0, "du_hanh": 1, "dan_chuyen": 2, "tu_lieu": 3}
+        ung = []
+        for c in (kb or {}).get("canh", []):
+            lop_c = c.get("lop")
+            if lop_c not in uu_tien: continue
+            p = os.path.join(ROOT, c["anh"]) if c.get("anh") else os.path.join(ROOT, "assets", "episodes", ma, f"canh-{int(c.get('so', 0)):02d}.jpg")
+            if os.path.exists(p): ung.append((uu_tien[lop_c], int(c.get("so", 0)), p))
+        if ung:
+            nguon = sorted(ung)[0][2]
+    if nguon:
+        try:
+            im = Image.open(nguon).convert("RGB")
+            _cat_ti_le(im, 16 / 9, 0.38 if im.height > im.width else 0.5).resize((800, 450), Image.LANCZOS).save(
+                dich, "JPEG", quality=82, optimize=True, progressive=True)
+            if doc:
+                _cat_ti_le(im, 9 / 16).resize((450, 800), Image.LANCZOS).save(dich_doc, "JPEG", quality=82, optimize=True, progressive=True)
+            return True
+        except Exception as ex:
+            bao(f"Không tạo được ảnh bìa từ {os.path.relpath(nguon, ROOT)}: {ex}")
+    try:   # không có tranh cảnh (tập dẫn chuyện vẽ bằng code): bìa thương hiệu có tên tập
+        _bia_thuong_hieu(ma, dich, (800, 450))
+        if doc: _bia_thuong_hieu(ma, dich_doc, (450, 800))
+        return True
+    except Exception as ex:
+        bao(f"Không vẽ được bìa thương hiệu cho {ma}: {ex}")
     if video:
         src = os.path.join(WEB, video["tep"])
         t = max(1.0, video["thoi_luong"] * 0.25)
         r = subprocess.run(["nice", "-n", "19", "ffmpeg", "-v", "error", "-y", "-ss", f"{t:.1f}", "-i", src,
-                            "-frames:v", "1", "-vf", "scale=640:-2", "-q:v", "5", dich],
+                            "-frames:v", "1", "-vf", "scale=800:-2", "-q:v", "5", dich],
                            capture_output=True, text=True, timeout=120)
         if r.returncode == 0 and os.path.exists(dich):
             return True
@@ -584,6 +635,8 @@ def dong_tap(x, goc=""):
 # ---------------------------------------------------------------- trang chủ (thư viện)
 def trang_index(bai_ds, ds, cap_nhat):
     lop_ds = [6, 7, 8, 9]
+    THOI_KY = {6: "Từ thời nguyên thuỷ đến thế kỉ X", 7: "Thời trung đại, đến thế kỉ XVI",
+               8: "Thế kỉ XVI – đầu thế kỉ XX", 9: "Từ năm 1918 đến nay"}
     o_lop = []
     for l in lop_ds:
         tl = [x for x in ds if x["lop"] == l]
@@ -595,21 +648,25 @@ def trang_index(bai_ds, ds, cap_nhat):
                  f'<i class="k" style="width:{100 * dk / n:.1f}%"></i></span>')
         o_lop.append(f'<li><a class="o-lop" href="#lop-{l}" data-lop="{l}">{trong_dong()}'
                      f'<span class="so-lop" aria-hidden="true">{l}</span><span class="ten-lop">Lớp {l}</span>'
+                     f'<span class="thoi-ky">{THOI_KY[l]}</span>'
                      f'<span class="dem">{nb} bài, {len(tl)} tập</span>{thanh}'
                      f'<span class="dem-phu">{dv} video, {dk + dv} tập có câu hỏi ôn tập</span></a></li>')
     the_video = []
     for x in [x for x in ds if x["trang_thai"] == "co-video"]:
         b = next(bb for bb in bai_ds if bb["id"] == x["bai"])
-        anh = (f'<img src="{e(x["anh_bia"])}" alt="" width="640" height="360" loading="lazy">' if x["anh_bia"]
+        anh = (f'<img src="{e(x["anh_bia"])}" alt="" width="800" height="450" loading="lazy">' if x["anh_bia"]
                else trong_dong("anh-thay"))
         tl = f'<span class="thoi-luong">{phut_giay(x["video"]["thoi_luong"])}</span>' if x["video"] else ""
+        if x["huong"] == "doc":
+            tl += '<span class="nhan-doc">Video dọc</span>'
+        tl += '<span class="nut-phat-nho" aria-hidden="true"></span>'
         the_video.append(f'<li><a class="the-video" href="tap/{x["ma"]}.html"><span class="khung-anh">{anh}{tl}</span>'
                          f'<span class="lop-bai">Lớp {x["lop"]}, {e(nhan_bai(b["ma"]))}</span>'
                          f'<span class="ten">{e(x["ten_tap"])}</span></a></li>')
     ke_video = ""
     if the_video:
         ke_video = (f'<section class="ke-video" aria-labelledby="tieu-de-video"><div class="rong">'
-                    f'<h2 id="tieu-de-video">Video đã hoàn thành</h2><ul class="luoi-video">{"".join(the_video)}</ul></div></section>')
+                    f'<div class="dau-muc"><h2 id="tieu-de-video">Video bài học</h2><p>{len(the_video)} video đã hoàn thành, xem ngay trên trình duyệt.</p></div><ul class="luoi-video">{"".join(the_video)}</ul></div></section>')
     # thư viện theo lớp – chương – bài – tập
     khoi = []
     for l in lop_ds:
@@ -640,17 +697,20 @@ def trang_index(bai_ds, ds, cap_nhat):
     nut = lambda nhom, gt, chu, chon=False: (f'<button type="button" class="chip" data-nhom="{nhom}" data-gt="{gt}" '
                                             f'aria-pressed="{"true" if chon else "false"}">{chu}</button>')
     than = f"""<section class="bia" aria-labelledby="tieu-de-trang">
-<div class="rong">
-  <h1 id="tieu-de-trang">Kho học liệu số Lịch sử 6–9</h1>
-  <p class="dan">Video bài học, ghi nhớ và câu hỏi ôn tập theo SGK <i>Lịch sử và Địa lí</i> (bộ sách dùng chung). Chọn lớp để xem từng bài, hoặc tìm theo tên bài, nhân vật, sự kiện.</p>
+<div class="rong bia-luoi">
+ <div class="bia-chu">
+  <h1 id="tieu-de-trang">Lịch sử 6–9, kể bằng những thước phim</h1>
+  <p class="dan">Kho học liệu số theo SGK <i>Lịch sử và Địa lí</i> (bộ sách dùng chung): video bài học, ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Chọn lớp, hoặc tìm theo tên bài, nhân vật, sự kiện.</p>
   <div class="o-tim" role="search">
-    <label for="tim">Tìm trong thư viện</label>
-    <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Ví dụ: Bạch Đằng, Lê Lợi, 1945" aria-describedby="goi-y-tim">
+    <label for="tim" class="an-chu">Tìm trong thư viện</label>
+    <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện… (Bạch Đằng, Lê Lợi, 1945)" aria-describedby="goi-y-tim">
     <p id="goi-y-tim" class="goi-y">Gõ có dấu hay không dấu đều được.</p>
   </div>
-  <ul class="chon-lop" aria-label="Chọn lớp">{"".join(o_lop)}</ul>
-  <dl class="so-lieu"><div><dt>Video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>Tập có câu hỏi ôn tập</dt><dd>{n_k}</dd></div><div><dt>Tập trong kế hoạch</dt><dd>{len(ds)}</dd></div></dl>
+  <dl class="so-lieu"><div><dt>video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>tập có câu hỏi ôn tập</dt><dd>{n_k}</dd></div><div><dt>tập trong kế hoạch</dt><dd>{len(ds)}</dd></div></dl>
+ </div>
+ <div class="bia-trong" aria-hidden="true">{trong_dong("trong-lon")}</div>
 </div>
+<div class="rong"><ul class="chon-lop" aria-label="Chọn lớp">{"".join(o_lop)}</ul></div>
 </section>
 {ke_video}
 <section class="thu-vien" id="thu-vien" aria-label="Danh sách bài học và tập video">
@@ -677,7 +737,10 @@ def trang_index(bai_ds, ds, cap_nhat):
 def khoi_video(x, goi_y="Trong lúc chờ, em hãy đọc phần ghi nhớ và làm câu hỏi ôn tập bên dưới."):
     ma, doc = x["ma"], x["huong"] == "doc"
     lop_khung = "khung-video doc" if doc else "khung-video"
-    anh = f' poster="../{e(x["anh_bia"])}"' if x["anh_bia"] else ""
+    bia = x["anh_bia"]
+    if bia and doc and os.path.exists(os.path.join(WEB, bia.replace(".jpg", "-doc.jpg"))):
+        bia = bia.replace(".jpg", "-doc.jpg")
+    anh = f' poster="../{e(bia)}"' if bia else ""
     yt = ""
     if x["youtube_id"]:
         yt = (f'<div class="yt"{" hidden" if x["video"] else ""} data-yt="{e(x["youtube_id"])}" data-ten="{e(x["ten_tap"])}">'
@@ -820,9 +883,10 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
                   + (f'<p>{e(ghi_chu)}</p>' if ghi_chu else "") + "</section>")
     trc = (f'<a class="tap-truoc" href="{truoc["ma"]}.html"><span>Tập trước</span>{e(truoc["ten_tap"])}</a>' if truoc else "<span></span>")
     sau_ = (f'<a class="tap-sau" href="{sau["ma"]}.html"><span>Tập sau</span>{e(sau["ten_tap"])}</a>' if sau else "<span></span>")
-    than = (f'<article class="trang-tap" data-trang="tap" data-ma="{ma}"><div class="rong">{dau}'
-            f'<div class="luoi-tap"><div class="vung-video">{video}</div><aside class="cot-ben" aria-label="Thông tin bài học">{"".join(ben)}</aside>'
-            f'<div class="cot-chinh">{"".join(muc)}</div></div>'
+    than = (f'<article class="trang-tap" data-trang="tap" data-ma="{ma}">'
+            f'<section class="rap{" rap-doc" if x["huong"] == "doc" else ""}" aria-label="Video và thông tin bài học"><div class="rong">{dau}'
+            f'<div class="luoi-tap"><div class="vung-video">{video}</div><aside class="cot-ben" aria-label="Thông tin bài học">{"".join(ben)}</aside></div>'
+            f'</div></section><div class="rong"><div class="cot-chinh">{"".join(muc)}</div>'
             f'{nguon_dong}<nav class="truoc-sau" aria-label="Tập khác">{trc}{sau_}</nav></div></article>')
     mo_ta = f"Lịch sử lớp {lop}, {nb}. {bai['ten']}: {x['ten_tap']}."
     if gn:

@@ -61,61 +61,131 @@ def cho(W, H, n, sc):
     arr = np.asarray(img)
     for i in range(n): yield arr
 
+NHAN_CAU_HOI = ("Edu", "History", " hỏi bạn")   # nhãn khung câu hỏi (thầy chốt 15/11: "EduHistory hỏi bạn")
+_NAVY, _NAVY2, _GOLD, _ORANGE, _CREAM, _GREEN = (16, 35, 63), (10, 22, 42), (201, 139, 43), (242, 107, 29), (250, 244, 230), (34, 150, 82)
+
+def _nen_thuong_hieu(W, H):
+    """Nền thương hiệu cho thẻ dựng bằng code: xanh đêm chuyển sắc + hoa văn vành trống đồng mờ (vàng đồng ~7%)."""
+    yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
+    cx, cy = W * .5, H * .42
+    r = np.sqrt(((xx - cx) / W) ** 2 + ((yy - cy) / H) ** 2) / .75
+    k = np.clip(r, 0, 1)[..., None]
+    arr = np.array(_NAVY, np.float32) * (1 - k) + np.array(_NAVY2, np.float32) * k
+    img = Image.fromarray(arr.astype(np.uint8))
+    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(lay)
+    R0 = max(W, H) * .62; ox, oy = W * (.86 if W > H else .92), H * (.80 if W > H else .70)
+    for k2, (fr, wd) in enumerate([(1.0, 3), (.93, 2), (.80, 2), (.72, 3), (.58, 2), (.50, 2)]):
+        rr = R0 * fr; d.ellipse([ox - rr, oy - rr, ox + rr, oy + rr], outline=(*_GOLD, 20), width=wd)
+    for j in range(72):   # vạch khắc giữa hai vành
+        a = j * 2 * math.pi / 72; r1, r2 = R0 * .80, R0 * .88
+        d.line([ox + r1 * math.cos(a), oy + r1 * math.sin(a), ox + r2 * math.cos(a), oy + r2 * math.sin(a)], fill=(*_GOLD, 16), width=2)
+    for j in range(14):   # tia mặt trời giữa trống
+        a = j * 2 * math.pi / 14; rr = R0 * .42
+        d.polygon([(ox, oy), (ox + rr * math.cos(a - .09), oy + rr * math.sin(a - .09)), (ox + rr * 1.0 * math.cos(a), oy + rr * math.sin(a)),
+                   (ox + rr * math.cos(a + .09), oy + rr * math.sin(a + .09))], fill=(*_GOLD, 8))
+    img.paste(lay, (0, 0), lay)
+    return img
+
 def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
-    """Câu hỏi dừng hình: hiện câu hỏi + 3 lựa chọn A/B/C, đếm ngược 3-2-1 sau khi đọc xong câu hỏi, rồi lật đáp án đúng.
-    Khung dọc (60 s): chữ theo bề ngang màn hình, câu hỏi và đáp án rộng hết thẻ, đồng hồ đếm ngược đặt dưới các lựa chọn."""
+    """Thẻ câu hỏi tương tác "EduHistory hỏi bạn" (thiết kế 15/11): nền thương hiệu, câu hỏi chữ trắng vừa phải,
+    ba lựa chọn dạng thanh kem có huy hiệu chữ cái, đồng hồ đếm ngược NHỎ ở góc trên phải của khung.
+    Đọc câu hỏi → đếm 3-2-1 → thanh đúng chuyển xanh lá có dấu tích, các thanh còn lại mờ đi.
+    Chừa trống dải dưới cho phụ đề kính mờ và góc trên phải cho logo."""
     vertical = H > W
-    s = (W / 1080 * 1.12) if vertical else H / 1080
-    f_q = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(52 * s))
-    f_o = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int(42 * s))
-    f_c = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-900-normal.ttf"), int(120 * s))
-    f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-700-normal.ttf"), int(34 * s))
-    def wrap(d, text, font, maxw):
-        out, cur = [], ""
-        for w in text.split():
-            if cur and d.textlength((cur + " " + w).strip(), font=font) > maxw: out.append(cur); cur = w
-            else: cur = (cur + " " + w).strip()
-        return out + ([cur] if cur else [])
-    x_l, x_r = (W * .1, W * .9) if vertical else (W * .1, W * .66)
-    q_w = (x_r - x_l) if vertical else W * .62
+    s = W / 1080 if vertical else H / 1080
+    F = lambda w, z: ImageFont.truetype(os.path.join(FONT_DIR, f"be-vietnam-pro-{w}-normal.ttf"), int(z * s))
+    f_lab = F(800, 34 if vertical else 30); f_q = F(700, 48 if vertical else 46); f_o = F(600, 38 if vertical else 34)
+    f_badge = F(800, 32 if vertical else 30); f_timer = F(800, 34 if vertical else 30)
     _d = ImageDraw.Draw(Image.new("RGB", (8, 8)))
-    # lựa chọn dài thì giảm cỡ chữ cho vừa một dòng trong ô
-    sz = 42
-    while sz > 28 and max(_d.textlength(f"A.  {o}", font=f_o) for o in q["lua_chon"]) > (x_r - x_l) - 40 * s:
-        sz -= 2; f_o = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int(sz * s))
-    q_lines = wrap(_d, q["hoi"], f_q, q_w)
-    top = .15 if not vertical else .14
-    card_h = (.69 * H) if not vertical else (110 * s + len(q_lines) * 66 * s + 18 * s + 3 * 96 * s + 2 * 120 * s + 80 * s)
+    # khung
+    if vertical: px0, px1 = 56 * s, W - 56 * s
+    else: px0, px1 = W * .17, W * .83
+    pad = 48 * s; x0, x1 = px0 + pad, px1 - pad
+    q_lines = _wrap(_d, q["hoi"], f_q, x1 - x0)
+    lh_q = f_q.size * 1.32
+    bar_h = (92 if vertical else 78) * s; bar_gap = (20 if vertical else 16) * s
+    head_h = 64 * s
+    oz = f_o.size
+    while oz > 24 * s and max(_d.textlength(o, font=f_o) for o in q["lua_chon"]) > (x1 - x0) - (bar_h + 40 * s):
+        oz -= 2 * s; f_o = ImageFont.truetype(f_o.path, int(oz))
+    body_h = head_h + 28 * s + len(q_lines) * lh_q + 34 * s + 3 * bar_h + 2 * bar_gap
+    ph = body_h + 2 * pad
+    cy_panel = H * (.43 if vertical else .44)
+    py0 = cy_panel - ph / 2; py1 = py0 + ph
+    if vertical: py0 = max(py0, H * .16); py1 = py0 + ph
+    else: py0 = max(py0, H * .09); py1 = py0 + ph
+    R = int(34 * s)
+    base = _nen_thuong_hieu(W, H)
+    # lớp khung (bóng + kính tối + viền vàng đồng + nhãn + câu hỏi)
+    panel = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    sh = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ImageDraw.Draw(sh).rounded_rectangle([px0, py0 + 14 * s, px1, py1 + 14 * s], radius=R, fill=(0, 0, 0, 120))
+    panel = Image.alpha_composite(panel, sh.filter(ImageFilter.GaussianBlur(int(26 * s))))
+    dp = ImageDraw.Draw(panel)
+    dp.rounded_rectangle([px0, py0, px1, py1], radius=R, fill=(24, 46, 82, 236), outline=(*_GOLD, 150), width=max(2, int(2.5 * s)))
+    dp.rounded_rectangle([px0 + 7 * s, py0 + 7 * s, px1 - 7 * s, py1 - 7 * s], radius=R - int(7 * s), outline=(*_GOLD, 46), width=max(1, int(1.5 * s)))
+    # nhãn: [biểu tượng] EduHistory hỏi bạn
+    icon = Image.open(os.path.join(ROOT, CFG["logo"]["icon"])).convert("RGBA")
+    isz = int(54 * s); icon = icon.resize((isz, isz), Image.LANCZOS)
+    hy = py0 + pad; panel.alpha_composite(icon, (int(x0), int(hy + (head_h - isz) / 2)))
+    tx = x0 + isz + 16 * s; ty = hy + (head_h - f_lab.size) / 2 - 6 * s
+    for part, col in zip(NHAN_CAU_HOI, [(255, 246, 230), _ORANGE, (255, 246, 230)]):
+        dp.text((tx, ty), part, font=f_lab, fill=col); tx += dp.textlength(part, font=f_lab)
+    dp.line([x0, hy + head_h + 14 * s, x1, hy + head_h + 14 * s], fill=(*_GOLD, 70), width=max(1, int(2 * s)))
+    y = hy + head_h + 28 * s
+    for ln in q_lines:
+        dp.text((x0, y), ln, font=f_q, fill=(255, 255, 255)); y += lh_q
+    y_opts = y + 34 * s - (lh_q - f_q.size) * .3
+    # đồng hồ nhỏ góc trên phải khung
+    tr = 30 * s; tcx = x1 - tr; tcy = hy + head_h / 2
+    def thanh(k, state):   # state: 0 thường, 1 đúng, 2 mờ
+        L = Image.new("RGBA", (int(x1 - x0) + 2, int(bar_h) + 2), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
+        fill = {0: (*_CREAM, 255), 1: (*_GREEN, 255), 2: (*_CREAM, 90)}[state]
+        d.rounded_rectangle([0, 0, x1 - x0, bar_h], radius=int(bar_h / 2), fill=fill)
+        br = bar_h * .34; bcx = bar_h * .52; bcy = bar_h / 2
+        bfill = {0: (*_NAVY, 255), 1: (255, 255, 255, 255), 2: (*_NAVY, 90)}[state]
+        d.ellipse([bcx - br, bcy - br, bcx + br, bcy + br], fill=bfill)
+        lt = "ABC"[k]; lc = {0: _GOLD, 1: _GREEN, 2: (*_GOLD, 120)}[state]
+        d.text((bcx - d.textlength(lt, font=f_badge) / 2, bcy - f_badge.size * .62), lt, font=f_badge, fill=lc)
+        tc = {0: (*_NAVY, 255), 1: (255, 255, 255, 255), 2: (*_NAVY, 110)}[state]
+        d.text((bar_h * 1.06, bcy - f_o.size * .64), q["lua_chon"][k], font=f_o, fill=tc)
+        if state == 1:   # dấu tích bên phải
+            cx2 = x1 - x0 - bar_h * .5; r2 = bar_h * .26
+            d.line([cx2 - r2 * .9, bcy, cx2 - r2 * .2, bcy + r2 * .7, cx2 + r2, bcy - r2 * .75], fill=(255, 255, 255, 255), width=max(3, int(6 * s)), joint="curve")
+        return L
+    bars = [[thanh(k, st) for st in (0, 1, 2)] for k in range(3)]
+    base_rgba = base.convert("RGBA")
     for i in range(n):
         t = i / fps
-        img = Image.new("RGB", (W, H), (16, 35, 63)); d = ImageDraw.Draw(img)
-        d.rounded_rectangle([W * .06, H * top, W * .94, H * top + card_h], radius=int(30 * s), fill=(250, 244, 230))
-        d.text((x_l, H * top + 40 * s), "DỪNG HÌNH – THỬ TÀI", font=f_t, fill=(242, 107, 29))
-        y = H * top + 110 * s
-        for line in q_lines:
-            d.text((x_l, y), line, font=f_q, fill=(22, 33, 52)); y += 66 * s
-        y += 18 * s
-        for k, opt in enumerate(q["lua_chon"]):
-            ok = k == q["dung"] and t >= reveal
-            dim = t >= reveal and not ok
-            box = [x_l, y, x_r, y + 78 * s]
-            d.rounded_rectangle(box, radius=int(16 * s), fill=(46, 160, 87) if ok else ((225, 220, 210) if dim else (255, 255, 255)), outline=(200, 190, 170), width=3)
-            d.text((x_l + 20 * s, y + (78 * s - f_o.size) / 2 - 4 * s), f"{'ABC'[k]}.  {opt}", font=f_o, fill=(255, 255, 255) if ok else ((150, 145, 140) if dim else (22, 33, 52)))
-            y += 96 * s
-        if vertical: cx, cy, r = W * .5, y + 20 * s + 110 * s, 105 * s
-        else: cx, cy, r = W * .8, H * (top + .36), 120 * s
-        if q_end <= t < reveal:   # đồng hồ đếm ngược
-            left = max(1, int(math.ceil(reveal - t))) if reveal - t <= 3.2 else 3
-            frac = (reveal - t) / max(0.1, reveal - q_end)
-            d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(16, 35, 63))
-            d.arc([cx - r, cy - r, cx + r, cy + r], start=-90, end=-90 + 360 * frac, fill=(242, 107, 29), width=int(16 * s))
-            txt = str(left); tw = d.textlength(txt, font=f_c)
-            d.text((cx - tw / 2, cy - 80 * s), txt, font=f_c, fill=(255, 255, 255))
+        a_in = _ease(t / .45); dy = (1 - a_in) * 36 * s
+        fr = base_rgba.copy()
+        if a_in < 1:
+            P = panel.copy(); P.putalpha(P.split()[3].point(lambda p: int(p * a_in)))
+            fr.alpha_composite(P, (0, int(dy)))
+        else: fr.alpha_composite(panel)
+        d = ImageDraw.Draw(fr)
+        # đồng hồ
+        if t < q_end: frac = 1.0; lab = "?"
+        elif t < reveal: frac = max(0, (reveal - t) / max(.1, reveal - q_end)); lab = str(max(1, int(math.ceil((reveal - t) / max(.1, reveal - q_end) * 3))))
+        else: frac = 0; lab = None
+        al = int(255 * a_in)
+        d.ellipse([tcx - tr, tcy - tr + dy, tcx + tr, tcy + tr + dy], fill=(*_NAVY2, al), outline=(*_GOLD, int(90 * a_in)), width=max(2, int(3 * s)))
         if t >= reveal:
-            msg = "Đáp án đúng!"
-            if vertical: d.text((cx - d.textlength(msg, font=f_q) / 2, cy - 36 * s), msg, font=f_q, fill=(46, 160, 87))
-            else: d.text((W * .7, H * (top + .32)), msg, font=f_q, fill=(46, 160, 87))
-        yield np.asarray(img)
+            d.ellipse([tcx - tr, tcy - tr + dy, tcx + tr, tcy + tr + dy], fill=(*_GREEN, al))
+            d.line([tcx - tr * .42, tcy + dy, tcx - tr * .1, tcy + tr * .33 + dy, tcx + tr * .45, tcy - tr * .35 + dy], fill=(255, 255, 255, al), width=max(3, int(5 * s)), joint="curve")
+        else:
+            if frac < 1: d.arc([tcx - tr, tcy - tr + dy, tcx + tr, tcy + tr + dy], start=-90, end=-90 + 360 * frac, fill=(*_ORANGE, al), width=max(3, int(6 * s)))
+            d.text((tcx - d.textlength(lab, font=f_timer) / 2, tcy - f_timer.size * .64 + dy), lab, font=f_timer, fill=(255, 246, 230, al))
+        # ba thanh lựa chọn (hiện lần lượt), lật đáp án
+        rv = _ease((t - reveal) / .3) if t >= reveal else 0
+        for k in range(3):
+            ak = _ease((t - .25 - .12 * k) / .35)
+            if ak <= 0: continue
+            yk = y_opts + k * (bar_h + bar_gap) + dy; xk = x0 - (1 - ak) * 30 * s
+            if rv <= 0: B = bars[k][0]
+            else: B = Image.blend(bars[k][0], bars[k][1 if k == q["dung"] else 2], rv)
+            if ak < 1: B = B.copy(); B.putalpha(B.split()[3].point(lambda p: int(p * ak)))
+            fr.alpha_composite(B, (int(xk), int(yk)))
+        yield np.asarray(fr.convert("RGB"))
 
 def _wrap(d, text, font, maxw):
     out, cur = [], ""

@@ -253,9 +253,10 @@ def trang_html(tap, cfg):
 <body class="loai-{HUONG[cfg['loai']]}" data-ma="{ma}">
 <a class="bo-qua" href="#mo-phong">Bỏ qua, tới mô phỏng</a>
 <header class="dau-trang">
-  <a class="thuong-hieu" href="index.html"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Mô phỏng tương tác</small></span></a>
-  <a class="ve-danh-sach" href="index.html">Tất cả mô phỏng</a>
+  <a class="thuong-hieu" href="../index.html" title="Về trang chính EduHistory"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số Lịch sử 6–9</small></span></a>
+  <nav class="dieu-huong-mp" aria-label="Điều hướng chính"><ul><li><a href="../index.html">Thư viện</a></li><li><a href="index.html" aria-current="page">Mô phỏng</a></li><li><a href="../gioi-thieu.html">Giới thiệu</a></li></ul></nav>
 </header>
+<nav class="ve-lai" aria-label="Quay lại"><a class="nut-ve" href="../tap/{ma}.html">Về video của tập này</a><a class="nut-ve phu" href="index.html">Tất cả mô phỏng</a><a class="nut-ve phu" href="../index.html">Trang chính EduHistory</a></nav>
 <main class="khung">
   <section class="mo-dau">
     <p class="nhan-bai"><span class="the-lop">Lớp {tap['lop']}</span> {E(tap['bai'])}. {E(tap['ten_bai'])} <span class="ma-tap">{ma}</span></p>
@@ -308,8 +309,10 @@ def index_html(ds):
 </head>
 <body class="trang-thu-vien">
 <header class="dau-trang">
-  <a class="thuong-hieu" href="index.html"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Mô phỏng tương tác</small></span></a>
+  <a class="thuong-hieu" href="../index.html" title="Về trang chính EduHistory"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số Lịch sử 6–9</small></span></a>
+  <nav class="dieu-huong-mp" aria-label="Điều hướng chính"><ul><li><a href="../index.html">Thư viện</a></li><li><a href="index.html" aria-current="page">Mô phỏng</a></li><li><a href="../gioi-thieu.html">Giới thiệu</a></li></ul></nav>
 </header>
+<nav class="ve-lai" aria-label="Quay lại"><a class="nut-ve" href="../index.html">Về trang chính EduHistory</a></nav>
 <main class="khung">
   <section class="mo-dau">
     <p class="nhan-bai">Đợt 1 · {len(ds)} mô phỏng</p>

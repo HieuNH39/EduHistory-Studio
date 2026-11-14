@@ -564,25 +564,11 @@ def render(spec_path, out_dir=None):
     mix = dung_am_thanh(spec, scenes, starts, total, intro, outro, work, log)
     log["khau"]["am_thanh_s"] = round(time.time() - t0, 1)
 
-    # ---- phụ đề
-    cues = []
-    for k, s in enumerate(scenes):
-        if not s["wav"]: continue
-        for (a, b), ln in zip(s["bounds"], s["loi"]):
-            cues.append((starts[k] + 0.15 + a, starts[k] + 0.15 + b, ln[1], ln[2] if len(ln) > 2 else ""))
-    ass = os.path.join(work, "subs.ass"); open(ass, "w").write(build_ass(cues, W, H, vertical))
-
-    # ---- ghép cuối: logo góc + phụ đề + âm thanh
+    # ---- ghép cuối: phụ đề song ngữ khung kính mờ + logo góc + âm thanh (pipeline/hoan_thien.py, từ 15/11)
     t0 = time.time()
-    wm = os.path.join(ROOT, CFG["logo"]["watermark"])
-    wm_w = int(W * (0.30 if vertical else 0.17)); margin = int(W * 0.025)
+    import hoan_thien
     out = os.path.join(out_dir, f"{spec['id']}.mp4")
-    run(["ffmpeg", "-y", "-loglevel", "error", "-i", silent, "-i", mix, "-i", wm, "-filter_complex",
-         f"[2]scale={wm_w}:-1,format=rgba,colorchannelmixer=aa=0.92[w];"
-         f"[0][w]overlay=W-w-{margin}:{margin}:enable='between(t,{intro:.2f},{total-outro:.2f})'[v1];"
-         f"[v1]ass={ass}:fontsdir={FONT_DIR}[v]",
-         "-map", "[v]", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p",
-         "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", "-shortest", out])
+    hoan_thien.ghep(spec, scenes, starts, total, intro, outro, silent, mix, out, va_cau_hoi=False)
     log["khau"]["ghep_cuoi_s"] = round(time.time() - t0, 1)
     log["tong_s"] = round(time.time() - log["bat_dau"], 1); log["thoi_luong_video_s"] = round(total, 1)
     os.makedirs(os.path.join(ROOT, "data/logs"), exist_ok=True)

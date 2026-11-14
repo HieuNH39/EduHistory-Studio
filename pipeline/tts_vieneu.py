@@ -18,7 +18,7 @@ def engine():
     return _tts
 
 # đọc đúng một số từ viết tắt / số liệu hay gặp
-_REPL = [(r"\bTCN\b", "trước Công nguyên"), (r"\bSGK\b", "sách giáo khoa"), (r"(\d)\s*km\b", r"\1 ki-lô-mét"), (r"(\d)\s*m\b", r"\1 mét")]
+_REPL = [(r"\bEduHistory\b", "Ét-đu Hít-tơ-ri"), (r"\bTCN\b", "trước Công nguyên"), (r"\bSGK\b", "sách giáo khoa"), (r"(\d)\s*km\b", r"\1 ki-lô-mét"), (r"(\d)\s*m\b", r"\1 mét")]
 def normalize(text):
     for a, b in _REPL: text = re.sub(a, b, text)
     return text

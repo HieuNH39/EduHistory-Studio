@@ -269,3 +269,21 @@ input[type="range"]::-moz-range-thumb { width: 18px; height: 18px; border-radius
 .am-thanh input[type="range"] { width: 110px; }
 .am-thanh .am-goi-y { font-size: .76rem; color: var(--chu-phu); margin-right: auto; }
 @media (max-width: 600px) { .am-thanh .am-goi-y { display: none; } .am-thanh input[type="range"] { width: 90px; } }
+
+/* ---------- điều hướng chung với kho học liệu + nút quay lại (15/11) */
+.dieu-huong-mp ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 2px; }
+.dieu-huong-mp a { display: block; color: #fff; text-decoration: none; font-weight: 600; font-size: .92rem; padding: 8px 12px; border-radius: 999px; }
+.dieu-huong-mp a:hover { background: rgba(255,255,255,.12); }
+.dieu-huong-mp a[aria-current="page"] { background: rgba(233,182,92,.18); color: #f6d9a6; }
+.ve-lai { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; max-width: 1180px; margin: 14px auto 0; padding: 0 16px; }
+.nut-ve { display: inline-flex; align-items: center; gap: 8px; min-height: 42px; padding: 8px 16px 8px 12px; border-radius: 999px; font-weight: 700; font-size: .92rem;
+  text-decoration: none; color: #fff; background: var(--cam, #F26B1D); box-shadow: 0 6px 16px -8px rgba(242,107,29,.7); }
+.nut-ve:hover { filter: brightness(1.06); color: #fff; }
+.nut-ve::before { content: ""; width: 8px; height: 8px; border-left: 2.5px solid currentColor; border-bottom: 2.5px solid currentColor; transform: rotate(45deg); margin: 0 2px 0 4px; }
+.nut-ve.phu { background: #fff; color: var(--navy, #10233F); border: 1px solid rgba(16,35,63,.18); box-shadow: none; font-weight: 600; }
+.nut-ve.phu:hover { border-color: var(--navy, #10233F); color: var(--navy, #10233F); }
+@media (max-width: 640px) { .dieu-huong-mp a { padding: 6px 8px; font-size: .84rem; } .dieu-huong-mp li:first-child { display: none; } .nut-ve { min-height: 40px; font-size: .86rem; } }
+/* đồng bộ màu nền với kho học liệu (thiết kế 2, 15/11) */
+:root { --giay: #EEF1F6; --giay-2: #E3E8F0; --trang: #FFFFFF; }
+.dau-trang { background: rgba(11, 26, 49, .9); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); border-bottom: 1px solid rgba(233, 182, 92, .28); }
+.chan-trang { background: #0B1A31; }

@@ -14,6 +14,7 @@ mkdir -p "$OUT/site/videos"
 # 2) video: nén 720p (ngang 1280×720, dọc 720×1280), giữ tiếng, faststart để phát ngay khi đang tải
 for v in web/videos/*.mp4; do
   [ -e "$v" ] || continue
+  [ -n "$NHANH" ] && continue   # NHANH=1: đăng nhanh, chưa nén video mới
   ma=$(basename "$v" .mp4); dich="$OUT/site/videos/$ma.mp4"
   if [ -f "$dich" ] && [ "$dich" -nt "$v" ]; then continue; fi
   h=$(ffprobe -v error -select_streams v -show_entries stream=height -of csv=p=0 "$v")
