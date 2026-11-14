@@ -1,0 +1,220 @@
+{
+ "ma": "L7-B14-01",
+ "ten_tap": "Đế chế Mông Cổ và lời thách thức",
+ "ten_tap_en": "The Mongol Empire and Its Challenge",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+  "trang": [
+   68,
+   69
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quan-mong-co",
+  "quan-doi-nha-tran"
+ ],
+ "nhac": {
+  "tam_trang": "căng thẳng, dồn dập như trống trận; mở ở cuối để gợi tò mò",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Khung dọc 9:16; nội dung theo SGK Lịch sử và Địa lí 7, Bài 14, tr. 68–69.",
+ "chinh_sach_hinh": "Không tạo ảnh mới cho tập này: cảnh tái hiện chỉ dùng lại ảnh đã duyệt của L7-B14-02, L7-B14-04 (trường \"anh\", khung dọc cắt giữa ảnh); hai bạn dẫn chuyện, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "nen": "thu_vien",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Hân Hân kể, Nhật Minh tò mò suy nghĩ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XIII, đế chế Mông Cổ liên tiếp xâm lược và thống trị nhiều nước ở khắp lục địa Á – Âu.",
+     "In the 13th century, the Mongol Empire kept invading and ruled many lands across Asia and Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Đại Việt cũng nằm trên con đường chinh phạt ấy. Nhà Trần sẽ làm gì nhỉ?",
+     "Đại Việt also lay on its path of conquest. What would the Trần do?"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-04/canh-03.jpg",
+   "nhan_vat": [
+    "quan-mong-co"
+   ],
+   "hinh": "Dùng lại ảnh L7-B14-04 cảnh 3 (khung dọc cắt giữa ảnh): đoàn quân Mông Cổ đông nghịt, kỵ binh và bộ binh nối nhau hành quân giữa vùng núi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ cuối năm 1257, quân Mông Cổ chuẩn bị xâm lược Đại Việt. Chiến thuật quen thuộc của chúng là áp sát biên giới để uy hiếp, rồi cử sứ giả đến dụ hàng.",
+     "From late 1257, the Mongols prepared to invade Đại Việt. Their usual tactic: mass troops at the border to intimidate, then send envoys demanding surrender."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-02/canh-03.jpg",
+   "nhan_vat": [
+    "quan-doi-nha-tran",
+    "quan-mong-co"
+   ],
+   "hinh": "Dùng lại ảnh L7-B14-02 cảnh 3 (khung dọc cắt giữa ảnh): cổng thành Thăng Long, lính nhà Trần cầm giáo canh giữ, bên cạnh là sứ giả Mông Cổ áo choàng viền lông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước khi tiến vào Đại Việt, quân Mông Cổ ba lần cử sứ giả đến Thăng Long. Cả ba lần, sứ giả đều bị nhà Trần bắt giữ!",
+     "Before marching into Đại Việt, the Mongols sent envoys to Thăng Long three times. All three times, the Trần held them!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "tieu_de": "NHÀ TRẦN ĐỐI PHÓ VỚI QUÂN MÔNG CỔ",
+   "y": [
+    "Chủ động tăng cường phòng thủ ở biên giới",
+    "Chuẩn bị lực lượng, vũ khí",
+    "Ba lần bắt giữ sứ giả đến dụ hàng"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhà Trần chủ động đề ra kế hoạch đối phó: tăng cường phòng thủ ở biên giới, chuẩn bị lực lượng, vũ khí.",
+     "The Trần drew up a plan in advance: strengthen the border defences, prepare troops and weapons."
+    ],
+    [
+     "Nhật Minh",
+     "Còn sứ giả dụ hàng thì bị bắt giữ, cả ba lần!",
+     "And the envoys demanding surrender were held, all three times!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quân Mông Cổ đã mấy lần cử sứ giả đến Thăng Long dụ hàng?",
+    "lua_chon": [
+     "Một lần",
+     "Hai lần",
+     "Ba lần"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Quân Mông Cổ đã mấy lần cử sứ giả đến Thăng Long dụ hàng?",
+     "Pause! How many times did the Mongols send envoys to Thăng Long demanding surrender?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: ba lần!",
+     "The answer is C: three times!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "nen": "studio",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem; Nhật Minh báo tin quân giặc kéo sang, Hân Hân mời bình luận dự đoán",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 1 năm 1258, 3 vạn quân Mông Cổ tiến vào Đại Việt.",
+     "In January 1258, 30,000 Mongol troops marched into Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Theo cậu, nhà Trần sẽ đánh giặc thế nào? Bình luận dự đoán nhé!",
+     "How do you think the Trần will fight back? Comment your guess!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vào thế kỉ XIII, đế chế nào liên tiếp xâm lược và thống trị nhiều nước ở khắp lục địa Á – Âu?",
+   "dap_an": [
+    "Đế chế Mông Cổ",
+    "Nhà Tống",
+    "Đế quốc La Mã",
+    "Vương quốc Chăm-pa"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Chiến thuật quen thuộc của quân Mông Cổ trước khi xâm lược là gì?",
+   "dap_an": [
+    "Đánh thẳng vào kinh thành ngay từ đầu",
+    "Áp sát biên giới để uy hiếp, rồi cử sứ giả đến dụ hàng",
+    "Chỉ tấn công bằng đường biển",
+    "Xin cầu hoà rồi rút quân"
+   ],
+   "dung": 1,
+   "trang": 68
+  },
+  {
+   "hoi": "Khi quân Mông Cổ chuẩn bị xâm lược, nhà Trần đã chủ động",
+   "dap_an": [
+    "Dời đô về phía nam",
+    "Tăng cường phòng thủ ở biên giới, chuẩn bị lực lượng, vũ khí",
+    "Cử sứ giả sang xin hàng",
+    "Giải tán quân đội"
+   ],
+   "dung": 1,
+   "trang": 68
+  },
+  {
+   "hoi": "Sứ giả Mông Cổ đến Thăng Long dụ hàng đã bị nhà Trần xử lí thế nào?",
+   "dap_an": [
+    "Được tiếp đón và đồng ý đầu hàng",
+    "Bị bắt giữ",
+    "Được cử đi cùng sứ giả Đại Việt",
+    "Được tiếp đãi rồi cho về nước"
+   ],
+   "dung": 1,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 68 (phần mở đầu: thế kỉ XIII đế chế Mông Cổ xâm lược, thống trị nhiều nước khắp Á – Âu, Đại Việt nằm trên con đường chinh phạt; mục 1: từ cuối năm 1257 quân Mông Cổ chuẩn bị xâm lược, nhà Trần chủ động đối phó – tăng cường phòng thủ biên giới, chuẩn bị lực lượng, vũ khí; chiến thuật áp sát biên giới, cử sứ giả dụ hàng; ba lần cử sứ giả đến Thăng Long đều bị bắt giữ) và tr. 69 (tháng 1 – 1258, 3 vạn quân Mông Cổ tiến vào Đại Việt – chỉ dùng làm câu gợi mở cuối tập, diễn biến để tập 02). Kiến thức chốt của danh mục khớp SGK. Không có lời nhân vật lịch sử dựng. Không tạo ảnh mới: cảnh 2 dùng lại L7-B14-04/canh-03.jpg (đoàn quân Mông – Nguyên hành quân, dùng như hình minh hoạ chung quân Mông Cổ), cảnh 3 dùng lại L7-B14-02/canh-03.jpg (sứ giả Mông Cổ bị giữ trước cổng Thăng Long); khung dọc chỉ thấy phần giữa ảnh, đã xem trước khung cắt. Không dùng bản đồ thế giới (bộ vẽ the_gioi chỉ hỗ trợ hành trình tàu biển) – thay bằng dẫn chuyện + thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (14/11/2026)"
+ }
+}

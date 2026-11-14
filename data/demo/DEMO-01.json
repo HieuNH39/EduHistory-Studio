@@ -1,0 +1,309 @@
+{
+ "id": "DEMO-01",
+ "ten_tap": "EduHistory Studio – Giới thiệu sản phẩm",
+ "ten_tap_en": "EduHistory Studio – Product Demo",
+ "huong": "ngang",
+ "khung": "demo",
+ "muc_dich": "Video demo 2–3 phút giới thiệu sản phẩm cho Ban Giám khảo FPT School STEMPETITION 2027 (báo cáo dự án 18/11/2026). Không thuộc danh mục 359 tập.",
+ "nhac": {
+  "tam_trang": "điện tử nhẹ, hiện đại, có chất liệu Việt",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "nguon_so_lieu": "data/thong_ke/du_an.json (chạy lại tools/thong_ke_du_an.py ngay trước khi dựng)",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "nen": "studio",
+   "nhan_vat": [
+    "Nhật Minh",
+    "Hân Hân"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng thu, chào người xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Xin chào thầy cô và các bạn! Mình là Hân Hân, còn đây là Nhật Minh.",
+     "Hello, teachers and friends! I'm Hân Hân, and this is Nhật Minh."
+    ],
+    [
+     "Nhật Minh",
+     "Tụi mình xin giới thiệu EduHistory Studio, dự án của đội ChronoVibe, Trường Tiểu học, Trung học cơ sở và Trung học phổ thông FPT Bắc Giang.",
+     "We'd like to present EduHistory Studio, a project by team ChronoVibe from FPT Bắc Giang Primary, Lower and Upper Secondary School."
+    ],
+    [
+     "Hân Hân",
+     "EduHistory Studio biến bài học Lịch sử lớp 6 đến lớp 9 thành video hoạt hình, mô phỏng tương tác và một kho học liệu số.",
+     "It turns grade 6 to 9 History lessons into animated videos, interactive simulations and a digital learning library."
+    ]
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "man_hinh",
+   "hinh": "Ảnh chụp màn hình trang chủ kho học liệu số, bản máy tính và điện thoại",
+   "chuyen_dong": "vao",
+   "am_thanh": {
+    "nen": []
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là kho học liệu số. Các bạn chọn lớp, rồi chọn bài và từng tập video; gõ tìm kiếm có dấu hay không dấu đều được.",
+     "This is the digital library. Choose a grade, then a lesson and an episode; search works with or without Vietnamese accents."
+    ],
+    [
+     "Hân Hân",
+     "Website không cần đăng nhập, không dùng cookie, mở từ máy tính vẫn chạy được khi không có mạng.",
+     "No login, no cookies, and opened from a computer it still works without an internet connection."
+    ]
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "man_hinh",
+   "hinh": "Ảnh chụp màn hình trang một tập video: cuộn trang, rồi phần luyện tập đã chấm",
+   "chuyen_dong": "vao",
+   "am_thanh": {
+    "nen": []
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Trang của một tập gồm video, số trang SGK, phần ghi nhớ và mốc thời gian.",
+     "An episode page holds the video, textbook page numbers, key points and a timeline."
+    ],
+    [
+     "Nhật Minh",
+     "Câu hỏi luyện tập được chấm ngay, kèm lời giải thích và trang SGK để xem lại.",
+     "Practice questions are marked instantly, with an explanation and the textbook page to review."
+    ]
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1288",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "trich_doan",
+   "hinh": "Trích đoạn tập L7-B14-04: cảnh tái hiện thuyền giặc mắc cọc, thuyền lửa (clip AI giữ nguyên dấu KlingAI và dấu công cụ AI; phần hình sạch, chưa phụ đề, logo)",
+   "am_thanh": {
+    "tat": true
+   },
+   "am_hien_truong": 1.6,
+   "nguon_clip": "renders/_cache/L7-B14-04/video.mp4",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là trích đoạn tập Bạch Đằng 1288. Cảnh tái hiện do AI vẽ minh hoạ, dấu của công cụ AI được giữ nguyên.",
+     "Here is a clip from the episode Bạch Đằng 1288. Re-enactments are illustrated by AI, and the AI tool's watermark is kept."
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "trich_doan",
+   "hinh": "Trích đoạn tập L7-B14-04: sa bàn động pha kế hoả công (phần hình sạch, chưa phụ đề, logo)",
+   "am_thanh": {
+    "tat": true
+   },
+   "am_hien_truong": 1.6,
+   "nguon_clip": "renders/_cache/L7-B14-04/video.mp4",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sa bàn động được vẽ bằng code, minh hoạ theo mô tả trong SGK; lời kể bám sát từng trang sách.",
+     "The animated battle map is drawn with code to illustrate the textbook's description; the narration follows the textbook page by page."
+    ]
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "trich_doan",
+   "hinh": "Video dọc 60 giây L6-B20-01 (bản hoàn chỉnh) đặt giữa nền mờ 16:9",
+   "am_thanh": {
+    "tat": true
+   },
+   "am_hien_truong": 0.55,
+   "nguon_clip": "renders/v1/L6-B20-01.mp4",
+   "thoi_luong_toi_thieu": 9.6,
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngoài ra còn có video dọc 60 giây, dự kiến đăng lên TikTok và YouTube Shorts để ôn bài ngoài giờ.",
+     "There are also 60-second vertical videos, planned for TikTok and YouTube Shorts for review outside class."
+    ]
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "man_hinh",
+   "hinh": "Ảnh chụp màn hình danh mục mô phỏng tương tác và bản đồ động Xuân 1975",
+   "chuyen_dong": "vao",
+   "am_thanh": {
+    "nen": []
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Phần mô phỏng tương tác có 17 trang: bản đồ động, mô hình 3D và trục thời gian kéo thả.",
+     "The interactive section has 17 simulations: animated maps, 3D models and drag-and-drop timelines."
+    ],
+    [
+     "Nhật Minh",
+     "Bản đồ Việt Nam luôn có quần đảo Hoàng Sa và Trường Sa.",
+     "Maps of Vietnam always include the Hoàng Sa and Trường Sa archipelagos."
+    ]
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "man_hinh",
+   "hinh": "Ảnh chụp màn hình mô phỏng bản đồ động Bạch Đằng 1288 và mô hình 3D thành Cổ Loa",
+   "chuyen_dong": "vao",
+   "am_thanh": {
+    "nen": []
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các bạn tự bấm từng bước trận Bạch Đằng, hay xoay mô hình 3D thành Cổ Loa.",
+     "You can step through the Battle of Bạch Đằng yourself, or rotate a 3D model of Cổ Loa citadel."
+    ],
+    [
+     "Hân Hân",
+     "Trang nào cũng có âm thanh, nút tắt tiếng và câu hỏi kiểm tra.",
+     "Every page has sound, a mute button and quiz questions."
+    ]
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "DÂY CHUYỀN DỰNG VIDEO TỰ ĐỘNG",
+   "moc": [
+    [
+     "Kịch bản",
+     "Đối chiếu SGK, ghi số trang từng cảnh"
+    ],
+    [
+     "Giọng đọc",
+     "Giọng riêng cho dẫn chuyện và nhân vật"
+    ],
+    [
+     "Hình",
+     "Tranh AI, clip, sa bàn vẽ bằng code"
+    ],
+    [
+     "Phụ đề",
+     "Việt trên, Anh dưới, logo dự án"
+    ],
+    [
+     "Âm thanh",
+     "Nhạc, tiếng mô phỏng, chuẩn -14 LUFS"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mỗi video được dựng tự động từ một tệp kịch bản, đã đối chiếu SGK và ghi số trang cho từng cảnh.",
+     "Each video is built automatically from one script file, checked against the textbook, with page numbers for every scene."
+    ],
+    [
+     "Hân Hân",
+     "Máy tự đọc lời thoại, rồi ghép tranh AI, clip và sa bàn vẽ bằng code.",
+     "The machine reads the lines aloud, then combines AI pictures, clips and code-drawn battle maps."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối cùng là phụ đề Việt – Anh, nhạc nền, âm thanh mô phỏng và chuẩn hoá âm lượng.",
+     "Finally come Vietnamese–English subtitles, music, sound effects and loudness normalisation."
+    ]
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "tieu_de": "GIỮ ĐÚNG KIẾN THỨC SGK",
+   "y": [
+    "Công cụ tự soát số trang, số liệu, đáp án trước khi dựng",
+    "Không dùng AI vẽ chân dung lãnh tụ; nhân vật hiện đại dùng ảnh tư liệu thật, ghi nguồn",
+    "Phần mềm của dự án làm bằng phương pháp Vibe Coding"
+   ],
+   "hien_luc_theo_cau": true,
+   "loi": [
+    [
+     "Hân Hân",
+     "Để giữ đúng kiến thức, công cụ tự soát kiểm tra số trang, số liệu và đáp án trước khi dựng.",
+     "To keep the facts right, a checking tool verifies page numbers, figures and answers before rendering."
+    ],
+    [
+     "Nhật Minh",
+     "Tụi mình không dùng AI vẽ chân dung lãnh tụ; nhân vật lịch sử hiện đại chỉ dùng ảnh tư liệu thật, có ghi nguồn.",
+     "We never use AI to draw portraits of national leaders; modern historical figures appear only in real archival photos, with credits."
+    ],
+    [
+     "Hân Hân",
+     "Phần mềm của dự án được làm bằng Vibe Coding: mô tả yêu cầu cho trợ lí AI lập trình, chạy thử rồi sửa lỗi.",
+     "The project's software is made with Vibe Coding: describing what we need to an AI coding assistant, testing, then fixing bugs."
+    ]
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "man_hinh",
+   "hinh": "Thẻ số liệu dự án dựng bằng code: kế hoạch và phần đã hoàn thành",
+   "chuyen_dong": "vao",
+   "am_thanh": {
+    "nen": []
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo kế hoạch, chuỗi video có 359 tập cho 85 bài, khoảng 919 phút.",
+     "The plan: 359 episodes for 85 lessons, about 919 minutes."
+    ],
+    [
+     "Hân Hân",
+     "Đến hôm nay đã viết xong 219 kịch bản, dựng xong {SO_VIDEO} video và 17 mô phỏng tương tác.",
+     "So far, 219 scripts are written, {SO_VIDEO} videos are rendered and 17 interactive simulations are done."
+    ]
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "nen": "thu_vien",
+   "nhan_vat": [
+    "Nhật Minh",
+    "Hân Hân"
+   ],
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, vẫy tay chào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cảm ơn thầy cô và các bạn đã theo dõi phần giới thiệu EduHistory Studio!",
+     "Thank you, teachers and friends, for watching this introduction to EduHistory Studio!"
+    ],
+    [
+     "Nhật Minh",
+     "Hẹn gặp lại các bạn ở các tập tiếp theo nhé!",
+     "See you in the next episodes!"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "nguon": "Sinh tự động bởi web/_cong-cu/tao_thu_vien.py từ data/catalog, data/scripts, video đã dựng, web/mo-phong, web/du-lieu/lien-ket.json",
- "cap_nhat": "13/11/2026",
+ "cap_nhat": "14/11/2026",
  "bai": [
   {
    "id": "L6-B1",
@@ -1222,14 +1222,19 @@
    "ten_tap_en": "The Time-Travelling Computer",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     9
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 46.4,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L6-B1-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B1-01.jpg",
    "trang": "tap/L6-B1-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -1306,16 +1311,21 @@
    "ten_tap_en": "History Detectives: Who Are You?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     11,
     12,
     13
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 47.1,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L6-B2-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B2-01.jpg",
    "trang": "tap/L6-B2-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -2857,15 +2867,20 @@
    "ten_tap_en": "The Ancient Kingdom of the South",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     91,
     92
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 51.5,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L6-B20-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B20-01.jpg",
    "trang": "tap/L6-B20-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4103,10 +4118,10 @@
    "lop": 7,
    "so": 1,
    "ten_tap": "Đế chế Mông Cổ và lời thách thức",
-   "ten_tap_en": "",
+   "ten_tap_en": "The Mongol Empire and Its Challenge",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "ke-hoach",
+   "trang_thai": "co-kich-ban",
    "trang_sgk": [
     68,
     69
@@ -4115,9 +4130,9 @@
    "youtube": null,
    "tiktok": null,
    "anh_bia": null,
-   "trang": null,
+   "trang": "tap/L7-B14-01.html",
    "mo_phong": null,
-   "so_cau_hoi": 0
+   "so_cau_hoi": 4
   },
   {
    "ma": "L7-B14-02",
@@ -4197,12 +4212,15 @@
    "lop": 7,
    "so": 5,
    "ten_tap": "Vì sao Đại Việt chiến thắng?",
-   "ten_tap_en": "",
+   "ten_tap_en": "Why Did Đại Việt Win?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "ke-hoach",
+   "trang_thai": "co-kich-ban",
    "trang_sgk": [
     68,
+    69,
+    70,
+    71,
     72,
     73
    ],
@@ -4210,9 +4228,9 @@
    "youtube": null,
    "tiktok": null,
    "anh_bia": null,
-   "trang": null,
+   "trang": "tap/L7-B14-05.html",
    "mo_phong": null,
-   "so_cau_hoi": 0
+   "so_cau_hoi": 4
   },
   {
    "ma": "L7-B15-01",
@@ -4749,15 +4767,20 @@
    "ten_tap_en": "Why Did Revolution Break Out in England?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     8,
     9
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 50.4,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B1-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B1-01.jpg",
    "trang": "tap/L8-B1-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4794,14 +4817,19 @@
    "ten_tap_en": "North America: The Flame of Independence",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     10
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 52.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B1-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B1-03.jpg",
    "trang": "tap/L8-B1-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5055,15 +5083,20 @@
    "ten_tap_en": "Why Was Southeast Asia in the Crosshairs?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     19,
     20
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 48.2,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B4-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B4-01.jpg",
    "trang": "tap/L8-B4-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5328,15 +5361,20 @@
    "ten_tap_en": "Why Did the Peasants of Đàng Ngoài Rise Up?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     31,
     32
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 50.8,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B7-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B7-01.jpg",
    "trang": "tap/L8-B7-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5577,14 +5615,19 @@
    "ten_tap_en": "What Is Imperialism?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     47
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 52.3,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B10-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B10-01.jpg",
    "trang": "tap/L8-B10-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6655,16 +6698,21 @@
    "ten_tap_en": "Defending Sovereignty Through International Law",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     166,
     167,
     168
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 139.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-CD2-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-CD2-04.jpg",
    "trang": "tap/L8-CD2-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7213,15 +7261,20 @@
    "ten_tap_en": "In Search of the Nation's Shape",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     26,
     27
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 54.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B6-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B6-01.jpg",
    "trang": "tap/L9-B6-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7278,15 +7331,20 @@
    "ten_tap_en": "The Unification Conference: A Historic Turning Point",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     28,
     29
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 274.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B6-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B6-04.jpg",
    "trang": "tap/L9-B6-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7300,14 +7358,19 @@
    "ten_tap_en": "Why Did the Nghệ–Tĩnh Soviets Erupt?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     30
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 50.1,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B7-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B7-01.jpg",
    "trang": "tap/L9-B7-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7321,15 +7384,20 @@
    "ten_tap_en": "The Peak: the Nghệ–Tĩnh Soviets",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     30,
     31
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 165.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B7-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B7-02.jpg",
    "trang": "tap/L9-B7-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7387,15 +7455,20 @@
    "ten_tap_en": "Vietnam in the French–Japanese Pincer",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     34,
     35
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 58.2,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B8-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B8-01.jpg",
    "trang": "tap/L9-B8-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7528,16 +7601,21 @@
    "ten_tap_en": "What Was the Cold War?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     41,
     42,
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 52.9,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B9-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B9-01.jpg",
    "trang": "tap/L9-B9-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7908,16 +7986,21 @@
    "ten_tap_en": "Vietnam 1945: Hanging by a Thread",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     61,
     63,
     64
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 51.5,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B13-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B13-01.jpg",
    "trang": "tap/L9-B13-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7999,15 +8082,20 @@
    "ten_tap_en": "Why Did We Have to Take Up Arms?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     67,
     68
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 57.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B14-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B14-01.jpg",
    "trang": "tap/L9-B14-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8066,15 +8154,20 @@
    "ten_tap_en": "The Border Campaign: A Historic Turning Point",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     71,
     72
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 226.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B14-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B14-04.jpg",
    "trang": "tap/L9-B14-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8131,15 +8224,20 @@
    "ten_tap_en": "The Navarre Plan and the Winter–Spring Offensive",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     75,
     76
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 230.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B15-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B15-02.jpg",
    "trang": "tap/L9-B15-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8830,15 +8928,20 @@
    "ten_tap_en": "Vietnam in the Technology Stream",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     113,
     114
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 129.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B21-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B21-02.jpg",
    "trang": "tap/L9-B21-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9115,10 +9218,10 @@
    "lop": 9,
    "so": 2,
    "ten_tap": "Dấu ấn chủ quyền thời hiện đại",
-   "ten_tap_en": "",
+   "ten_tap_en": "Marks of Sovereignty in Modern Times",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "ke-hoach",
+   "trang_thai": "co-kich-ban",
    "trang_sgk": [
     232,
     233
@@ -9127,9 +9230,9 @@
    "youtube": null,
    "tiktok": null,
    "anh_bia": null,
-   "trang": null,
+   "trang": "tap/L9-CD3-02.html",
    "mo_phong": null,
-   "so_cau_hoi": 0
+   "so_cau_hoi": 4
   },
   {
    "ma": "L9-CD3-03",
@@ -9158,20 +9261,21 @@
    "lop": 9,
    "so": 4,
    "ten_tap": "Tuyến phòng thủ và kho báu đại dương",
-   "ten_tap_en": "",
+   "ten_tap_en": "Line of Defence and Ocean Treasure",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "ke-hoach",
+   "trang_thai": "co-kich-ban",
    "trang_sgk": [
-    234
+    234,
+    235
    ],
    "video": null,
    "youtube": null,
    "tiktok": null,
    "anh_bia": null,
-   "trang": null,
+   "trang": "tap/L9-CD3-04.html",
    "mo_phong": null,
-   "so_cau_hoi": 0
+   "so_cau_hoi": 4
   },
   {
    "ma": "L9-CD3-05",

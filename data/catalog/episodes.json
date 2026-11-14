@@ -6521,19 +6521,20 @@
    "lop": 7,
    "ten_bai": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
    "so": 3,
-   "ten_tap": "Hào khí Đông A và Hội nghị Diên Hồng",
-   "noi_dung": "Tập trung vào năm 1285, sự chuẩn bị của nhà Trần qua Hội nghị Bình Than, Diên Hồng và tinh thần Sát Thát của quân dân Đại Việt.",
+   "ten_tap": "Hào khí Đông A và kháng chiến năm 1285",
+   "noi_dung": "Cuộc kháng chiến năm 1285: nhà Trần chuẩn bị (Hội nghị Bình Than, Diên Hồng, Trần Quốc Tuấn làm Quốc công tiết chế, tinh thần Sát Thát) và diễn biến trên sa bàn theo Lược đồ Hình 2 SGK: rút về Vạn Kiếp, Thiên Trường; phá kế hoạch hội quân; phản công Tây Kết, Hàm Tử, Chương Dương (SGK LS7 tr. 69–71).",
    "kien_thuc_chot": [
-    "Hội nghị Bình Than, Diên Hồng",
-    "Trần Quốc Tuấn làm Quốc công tiết chế",
-    "Tinh thần Sát Thát"
+    "Hội nghị Bình Than, Diên Hồng; Trần Quốc Tuấn làm Quốc công tiết chế",
+    "Kế sách \"vườn không nhà trống\", rút về Thiên Trường",
+    "Tháng 5-1285 phản công: Tây Kết, Hàm Tử, Chương Dương, giải phóng Thăng Long"
    ],
    "khung": "2-3p",
    "huong": "ngang",
    "mo_phong": null,
    "trang_sgk": [
     69,
-    72
+    70,
+    71
    ],
    "uu_tien": "P1",
    "trang_thai": "nhap",

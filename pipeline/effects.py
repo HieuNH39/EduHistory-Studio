@@ -179,8 +179,9 @@ def truc_thoi_gian(W, H, n, items, fps, times=None, title="TRỤC THỜI GIAN"):
                     d.text((x + 40 * s, yy), ln, font=f_l, fill=(235, 238, 245)); yy += 48 * s
         yield np.asarray(img)
 
-def ghi_nho(W, H, n, bullets, fps, times=None, title="GHI NHỚ"):
-    """Thẻ ghi nhớ kiến thức chốt, từng ý hiện theo lời đọc."""
+def ghi_nho(W, H, n, bullets, fps, times=None, title="GHI NHỚ", dau="check"):
+    """Thẻ ghi nhớ kiến thức chốt, từng ý hiện theo lời đọc.
+    dau="trich": thẻ tư liệu / em có biết – mỗi ý có vạch cam (trích dẫn) thay cho dấu tích xanh (tránh hiểu là \"đúng\")."""
     vertical = H > W; s = (W / 1080 * 1.12) if vertical else H / 1080
     f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-800-normal.ttf"), int(46 * s))
     f_b = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int((46 if not vertical else 44) * s))
@@ -204,8 +205,11 @@ def ghi_nho(W, H, n, bullets, fps, times=None, title="GHI NHỚ"):
             lines = _wrap(d, b, f_b, (box[2] - box[0]) - 170 * s)
             if a > 0:
                 cx, cy, r = box[0] + 70 * s, y + LH * .45, 24 * s
-                d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(46, 160, 87))
-                d.line([cx - 10 * s, cy, cx - 2 * s, cy + 9 * s, cx + 12 * s, cy - 9 * s], fill=(255, 255, 255), width=int(5 * s))
+                if dau == "trich":
+                    d.rounded_rectangle([cx - 5 * s, y + 6 * s, cx + 5 * s, y + LH * len(lines) - 10 * s], radius=int(5 * s), fill=(242, 107, 29))
+                else:
+                    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(46, 160, 87))
+                    d.line([cx - 10 * s, cy, cx - 2 * s, cy + 9 * s, cx + 12 * s, cy - 9 * s], fill=(255, 255, 255), width=int(5 * s))
                 col = tuple(int(c * a + 250 * (1 - a)) for c in (22, 33, 52))
                 yy = y
                 for ln in lines:

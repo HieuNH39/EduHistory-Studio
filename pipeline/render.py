@@ -266,22 +266,23 @@ def ident_frames(W, H, seconds=2.6, title=None, note=None):
     f_big = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-900-normal.ttf"), int(size * 0.34))
     f_small = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-600-normal.ttf"), int(size * 0.13))
     n = int(seconds * FPS)
+    cyf = 0.38 if (title and note) else 0.42   # có cả tên tập và ghi chú tái hiện: dời cụm logo lên để ghi chú không đè tên tập
     for i in range(n):
         t = i / n
         bg = Image.new("RGB", (W, H), (16, 35, 63))
         # vòng sáng mờ
         glow = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(glow)
         r = int(size * (0.62 + 0.08 * math.sin(t * math.pi)))
-        d.ellipse([W // 2 - r, int(H * 0.42) - r, W // 2 + r, int(H * 0.42) + r], fill=(201, 139, 43, int(40 * ease(t * 2))))
+        d.ellipse([W // 2 - r, int(H * cyf) - r, W // 2 + r, int(H * cyf) + r], fill=(201, 139, 43, int(40 * ease(t * 2))))
         bg.paste(glow, (0, 0), glow)
         k = ease(min(t / 0.45, 1)); s = max(int(size * (0.6 + 0.4 * k)), 2)
         ic = icon.rotate(-90 * (1 - k), resample=Image.BICUBIC).resize((s, s), Image.LANCZOS)
         a = ic.split()[3].point(lambda p: int(p * k)); ic.putalpha(a)
-        bg.paste(ic, (W // 2 - s // 2, int(H * 0.42) - s // 2), ic)
+        bg.paste(ic, (W // 2 - s // 2, int(H * cyf) - s // 2), ic)
         kt = ease(min(max((t - 0.35) / 0.35, 0), 1))
         if kt > 0:
             txt = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(txt)
-            y = int(H * 0.42 + size * 0.62 + (1 - kt) * 30)
+            y = int(H * cyf + size * 0.62 + (1 - kt) * 30)
             w1 = d.textlength("Edu", font=f_big); w2 = d.textlength("History", font=f_big)
             x = W // 2 - int((w1 + w2) / 2)
             d.text((x, y), "Edu", font=f_big, fill=(255, 246, 230, int(255 * kt)))
@@ -295,7 +296,9 @@ def ident_frames(W, H, seconds=2.6, title=None, note=None):
             if note:
                 f_n = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-400-italic.ttf"), int(size * 0.075))
                 wn = d.textlength(note, font=f_n)
-                d.text((W // 2 - wn / 2, H - int(size * 0.32)), note, font=f_n, fill=(220, 210, 190, int(220 * kt)))
+                yn = H - int(size * 0.32)
+                if title: yn = max(yn, y + int(size * 0.68) + int(size * 0.12 * 1.35) + 12)
+                d.text((W // 2 - wn / 2, yn), note, font=f_n, fill=(220, 210, 190, int(220 * kt)))
             bg.paste(txt, (0, 0), txt)
         fade = min(1, (n - i) / (0.35 * FPS))
         arr = np.asarray(bg).astype(np.float32) * fade
@@ -341,7 +344,11 @@ def scene_source(spec, sc, W, H, n):
         items = sc["moc"] if lop == "truc_thoi_gian" else sc["y"]
         times = thoi_diem_muc(sc)   # dùng chung với âm thanh mô phỏng (tiếng tích/bóp đúng lúc mục hiện)
         fn = effects.truc_thoi_gian if lop == "truc_thoi_gian" else effects.ghi_nho
-        return fn(W, H, n, items, FPS, times=times, **({"title": sc["tieu_de"]} if sc.get("tieu_de") else {}))
+        kw = {"title": sc["tieu_de"]} if sc.get("tieu_de") else {}
+        if lop == "ghi_nho":
+            td = (sc.get("tieu_de") or "").upper()
+            kw["dau"] = sc.get("dau") or ("trich" if td.startswith(("TƯ LIỆU", "EM CÓ BIẾT")) else "check")
+        return fn(W, H, n, items, FPS, times=times, **kw)
     base = os.path.join(ROOT, "assets/episodes", spec["id"], f"canh-{int(sc.get('so', 0)):02d}")
     vid = sc.get("video") or (base + ".mp4" if os.path.exists(base + ".mp4") else None)
     img = sc.get("anh") or next((base + e for e in (".png", ".jpg", ".webp") if os.path.exists(base + e)), None)

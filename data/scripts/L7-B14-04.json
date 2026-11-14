@@ -46,7 +46,11 @@
    ],
    "nguon_trang": [
     72
-   ]
+   ],
+   "mat_noi": {
+    "Nhật Minh": 0,
+    "Hân Hân": 2
+   }
   },
   {
    "so": 2,
@@ -102,7 +106,11 @@
    "dung": true,
    "nguon_trang": [
     71
-   ]
+   ],
+   "mat_noi": {
+    "Trần Nhân Tông": 2,
+    "Trần Quốc Tuấn": 3
+   }
   },
   {
    "so": 5,

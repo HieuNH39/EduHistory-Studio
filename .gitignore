@@ -12,3 +12,7 @@ node_modules/
 .DS_Store
 assets/episodes/*/canh-*.jpg
 assets/episodes/*/canh-*.mp4
+
+# Hồ sơ dự thi (có tên học sinh) – chỉ giữ trên máy, không đưa lên kho công khai
+docs/ho-so/
+data/demo/*.wav

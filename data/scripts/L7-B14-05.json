@@ -1,0 +1,417 @@
+{
+ "ma": "L7-B14-05",
+ "ten_tap": "Vì sao Đại Việt chiến thắng?",
+ "ten_tap_en": "Why Did Đại Việt Win?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 14. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+  "trang": [
+   68,
+   69,
+   70,
+   71,
+   72,
+   73
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tran-hung-dao",
+  "tran-nhan-tong",
+  "tran-thai-tong",
+  "tran-thu-do",
+  "quan-mong-co",
+  "o-ma-nhi",
+  "quan-doi-nha-tran"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào; hùng tráng ở phần trục thời gian, lắng dịu ở phần bài học",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử theo tư liệu trích trong SGK; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 14, tr. 68–73.",
+ "chinh_sach_hinh": "Không tạo ảnh mới cho tập này: cảnh có hình chỉ dùng lại ảnh đã duyệt của L7-B14-02, L7-B14-04 (trường \"anh\"); trục thời gian, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "anh": "assets/episodes/L7-B14-04/canh-01.jpg",
+   "mat_noi": {
+    "Nhật Minh": 0,
+    "Hân Hân": 2
+   },
+   "hinh": "Dùng lại ảnh L7-B14-04 cảnh 1: Nhật Minh và Hân Hân ở khu di tích Bạch Đằng Giang, phía sau là tượng Quốc công tiết chế Hưng Đạo Đại vương Trần Quốc Tuấn (mặt tượng là khuôn mặt số 1 – mat_noi giữ cho tượng không mấp máy môi)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tụi mình trở lại khu di tích Bạch Đằng Giang, nơi có tượng Quốc công tiết chế Hưng Đạo Đại vương Trần Quốc Tuấn.",
+     "We're back at the Bạch Đằng Giang historical site, home to the statue of Supreme Commander Trần Quốc Tuấn."
+    ],
+    [
+     "Nhật Minh",
+     "Ba lần quân Mông – Nguyên xâm lược, ba lần Đại Việt chiến thắng. Vì sao Đại Việt thắng được một đế chế lớn như thế?",
+     "Three Mongol–Yuan invasions, three victories for Đại Việt. How could Đại Việt defeat such a great empire?"
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    72
+   ]
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1258 – 1288",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "BA LẦN KHÁNG CHIẾN CHỐNG MÔNG – NGUYÊN",
+   "moc": [
+    [
+     "1258",
+     "3 vạn quân Mông Cổ · “vườn không nhà trống” · thắng ở Đông Bộ Đầu"
+    ],
+    [
+     "1285",
+     "Hơn 50 vạn quân Nguyên · phản công thắng ở Tây Kết, Hàm Tử, Chương Dương"
+    ],
+    [
+     "1287 – 1288",
+     "50 vạn quân Nguyên · thắng ở Vân Đồn – Cửa Lục, đại thắng Bạch Đằng"
+    ]
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lần thứ nhất, tháng 1 năm 1258: 3 vạn quân Mông Cổ. Nhà Trần thi hành kế sách “vườn không nhà trống”, rồi tấn công quyết định ở Đông Bộ Đầu.",
+     "First, January 1258: 30,000 Mongols. The Trần used 'empty gardens, empty houses', then struck decisively at Đông Bộ Đầu."
+    ],
+    [
+     "Hân Hân",
+     "Lần thứ hai, năm 1285: hơn 50 vạn quân Nguyên do Thoát Hoan chỉ huy. Tháng 5, quân Trần phản công, thắng ở Tây Kết, Hàm Tử, Chương Dương, giải phóng Thăng Long.",
+     "Second, 1285: over 500,000 Yuan troops under Toghan. In May the Trần counter-attacked, winning at Tây Kết, Hàm Tử and Chương Dương and freeing Thăng Long."
+    ],
+    [
+     "Nhật Minh",
+     "Lần thứ ba, năm 1287 – 1288: 50 vạn quân Nguyên. Quân Trần thắng ở Vân Đồn – Cửa Lục, rồi đại thắng Bạch Đằng đầu tháng 4 năm 1288.",
+     "Third, 1287–1288: 500,000 Yuan troops. The Trần won at Vân Đồn – Cửa Lục, then a great victory at Bạch Đằng in early April 1288."
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-04/canh-04.jpg",
+   "mat_noi": {
+    "Trần Quốc Tuấn": 3
+   },
+   "nhan_vat": [
+    "tran-hung-dao",
+    "tran-nhan-tong"
+   ],
+   "hinh": "Dùng lại ảnh L7-B14-04 cảnh 4: trong cung điện nhà Trần, nhà vua ngồi trên ngai, Trần Quốc Tuấn mặc giáp đứng phía trước, các quan đứng hai bên (Trần Quốc Tuấn là khuôn mặt số 3)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nguyên nhân thứ nhất: lòng yêu nước, tinh thần đoàn kết, ý chí độc lập tự chủ và quyết tâm đánh giặc của quân dân Đại Việt.",
+     "Reason one: the patriotism, unity, will for independence and determination to fight of Đại Việt's army and people."
+    ],
+    [
+     "Nhật Minh",
+     "Trần Quốc Tuấn đã tổng kết:",
+     "Trần Quốc Tuấn summed it up:"
+    ],
+    [
+     "Trần Quốc Tuấn",
+     "Vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức.",
+     "King and subjects of one mind, brothers in harmony, the whole country contributing."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-02/du-phong/kinh-thanh-bo-trong.jpg",
+   "nhan_vat": [
+    "quan-mong-co"
+   ],
+   "hinh": "Dùng lại ảnh dự phòng của L7-B14-02 (kinh-thanh-bo-trong.jpg): tướng và kỵ binh Mông Cổ đi giữa phố phường Thăng Long bỏ trống, cửa nhà mở toang, rơm rạ vương vãi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyên nhân thứ hai: nhà Trần đề ra kế sách đánh giặc đúng đắn và sáng tạo: chủ động chuẩn bị kháng chiến, tránh chỗ mạnh, đánh chỗ yếu.",
+     "Reason two: the Trần devised a sound and creative strategy: prepare in advance, avoid the enemy's strength, strike where it is weak."
+    ],
+    [
+     "Hân Hân",
+     "Cả ba lần, nhà Trần đều thực hiện kế sách “vườn không nhà trống”: giặc chiếm được Thăng Long nhưng lâm vào tình cảnh khó khăn.",
+     "All three times the Trần used 'empty gardens, empty houses': the enemy took Thăng Long but fell into ever greater difficulty."
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    70,
+    72
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-02/canh-07.jpg",
+   "mat_noi": {
+    "Trần Thủ Độ": 2,
+    "Trần Thái Tông": 1
+   },
+   "nhan_vat": [
+    "tran-thai-tong",
+    "tran-thu-do"
+   ],
+   "hinh": "Dùng lại ảnh L7-B14-02 cảnh 7: trên thuyền ngự, vua Trần Thái Tông (áo vàng) ngồi lo lắng, Thái sư Trần Thủ Độ (áo đỏ) đứng đặt tay lên ngực, nét mặt cương nghị (Trần Thủ Độ là khuôn mặt số 2)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyên nhân thứ ba: sự lãnh đạo, chỉ huy tài ba của các vua và danh tướng nhà Trần.",
+     "Reason three: the brilliant leadership and command of the Trần kings and generals."
+    ],
+    [
+     "Hân Hân",
+     "Sau trận Bình Lệ Nguyên năm 1258, vua Trần Thái Tông lo lắng hỏi ý kiến. Thái sư Trần Thủ Độ trả lời:",
+     "After Bình Lệ Nguyên in 1258, a worried King Trần Thái Tông asked for advice. Grand Chancellor Trần Thủ Độ replied:"
+    ],
+    [
+     "Trần Thủ Độ",
+     "Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo.",
+     "As long as my head has not fallen to the ground, Your Majesty need not worry."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    69,
+    72
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Trần đã đề ra kế sách đánh giặc như thế nào?",
+    "lua_chon": [
+     "Chờ giặc đến rồi mới đối phó",
+     "Chủ động chuẩn bị, tránh chỗ mạnh, đánh chỗ yếu",
+     "Dồn hết quân giữ chặt kinh thành"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nhà Trần đã đề ra kế sách đánh giặc như thế nào?",
+     "Pause! What strategy did the Trần devise?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: chủ động chuẩn bị kháng chiến, tránh chỗ mạnh, đánh chỗ yếu!",
+     "The answer is B: prepare in advance, avoid the enemy's strength, strike where it is weak!"
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "tieu_de": "NGUYÊN NHÂN THẮNG LỢI",
+   "y": [
+    "Lòng yêu nước, đoàn kết, ý chí độc lập tự chủ, quyết tâm đánh giặc của quân dân",
+    "Kế sách đúng đắn, sáng tạo: chủ động chuẩn bị, tránh chỗ mạnh, đánh chỗ yếu",
+    "Lãnh đạo tài ba: Trần Thái Tông, Trần Thánh Tông, Trần Nhân Tông, Trần Thủ Độ, Trần Quốc Tuấn, Trần Quang Khải…"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ ba nguyên nhân: lòng yêu nước, tinh thần đoàn kết, ý chí độc lập tự chủ và quyết tâm đánh giặc của quân dân.",
+     "Remember the three reasons: patriotism, unity, the will for independence and the people's determination to fight."
+    ],
+    [
+     "Hân Hân",
+     "Kế sách đánh giặc đúng đắn, sáng tạo.",
+     "A sound and creative strategy."
+    ],
+    [
+     "Nhật Minh",
+     "Và tài lãnh đạo của vua Trần Thái Tông, Thượng hoàng Trần Thánh Tông, vua Trần Nhân Tông cùng các danh tướng Trần Thủ Độ, Trần Quốc Tuấn, Trần Quang Khải.",
+     "And the leadership of King Trần Thái Tông, Retired Emperor Trần Thánh Tông, King Trần Nhân Tông and the great generals Trần Thủ Độ, Trần Quốc Tuấn and Trần Quang Khải."
+    ]
+   ],
+   "nguon_trang": [
+    72
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "anh": "assets/episodes/L7-B14-04/canh-16.jpg",
+   "nhan_vat": [
+    "o-ma-nhi",
+    "quan-doi-nha-tran"
+   ],
+   "hinh": "Dùng lại ảnh L7-B14-04 cảnh 16: tướng giặc Ô Mã Nhi bị quân Trần trói giải lên bờ; phía sau thuyền giặc vỡ, mắc kẹt giữa bãi cọc, khói đã tàn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thắng lợi ấy đã đập tan tham vọng và ý chí xâm lược của quân Mông – Nguyên, bảo vệ vững chắc nền độc lập dân tộc.",
+     "That victory crushed the Mongol–Yuan ambition to conquer and firmly protected the nation's independence."
+    ],
+    [
+     "Nhật Minh",
+     "Quân dân nhà Trần đã đánh bại đế chế hùng mạnh nhất thế giới thời bấy giờ!",
+     "The Trần army and people defeated the mightiest empire in the world at that time!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "tieu_de": "Ý NGHĨA LỊCH SỬ",
+   "y": [
+    "Bảo vệ vững chắc nền độc lập dân tộc",
+    "Góp vào truyền thống, nghệ thuật quân sự Việt Nam",
+    "Ngăn chặn quân Nguyên xâm lược Nhật Bản, Đông Nam Á",
+    "Bài học: chăm lo sức dân, đoàn kết dân tộc, phát huy sức mạnh toàn dân"
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    2
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ ý nghĩa lịch sử: bảo vệ vững chắc nền độc lập, đóng góp vào truyền thống và nghệ thuật quân sự Việt Nam.",
+     "Remember the significance: independence firmly protected, and a contribution to Vietnam's military tradition and art."
+    ],
+    [
+     "Nhật Minh",
+     "Chiến thắng còn ngăn chặn cuộc xâm lược của quân Nguyên đối với Nhật Bản và các nước Đông Nam Á.",
+     "The victory also stopped the Yuan from invading Japan and the countries of Southeast Asia."
+    ],
+    [
+     "Hân Hân",
+     "Và để lại bài học quý: chăm lo sức dân, củng cố khối đoàn kết dân tộc, phát huy sức mạnh toàn dân.",
+     "And it left a precious lesson: care for the people, strengthen national unity, unleash the strength of the whole nation."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hôm nay",
+   "thoi_luong": 1.6
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "anh": "assets/episodes/L7-B14-04/canh-22.jpg",
+   "hinh": "Dùng lại ảnh L7-B14-04 cảnh 22: Nhật Minh và Hân Hân bên sông Bạch Đằng lúc hoàng hôn, nhìn về phía người xem; Nhật Minh giơ tay, Hân Hân ôm cuốn sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: bài học từ ba lần chiến thắng Mông – Nguyên có ý nghĩa gì với việc bảo vệ Tổ quốc hôm nay? Bình luận nhé!",
+     "Your challenge: what do the lessons of the three victories over the Mongol–Yuan mean for defending our homeland today? Tell us in the comments!"
+    ],
+    [
+     "Nhật Minh",
+     "Hẹn gặp lại các bạn ở bài sau!",
+     "See you in the next lesson!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thắng lợi của ba lần kháng chiến chống quân xâm lược Mông – Nguyên là kết quả của",
+   "dap_an": [
+    "Lòng yêu nước, tinh thần đoàn kết, ý chí độc lập tự chủ và quyết tâm đánh giặc của quân dân Đại Việt",
+    "Sự giúp đỡ của các nước láng giềng",
+    "Việc quân Mông – Nguyên tự rút về nước",
+    "Thời tiết thuận lợi"
+   ],
+   "dung": 0,
+   "trang": 72
+  },
+  {
+   "hoi": "Câu “vua tôi đồng lòng, anh em hoà thuận, cả nước góp sức” là lời tổng kết nguyên nhân thắng lợi của ai?",
+   "dap_an": [
+    "Trần Thủ Độ",
+    "Trần Nhân Tông",
+    "Trần Quốc Tuấn",
+    "Trần Khánh Dư"
+   ],
+   "dung": 2,
+   "trang": 72
+  },
+  {
+   "hoi": "Ý nào KHÔNG phải là ý nghĩa lịch sử của ba lần kháng chiến chống quân xâm lược Mông – Nguyên?",
+   "dap_an": [
+    "Bảo vệ vững chắc nền độc lập dân tộc",
+    "Ngăn chặn cuộc xâm lược của quân Nguyên đối với Nhật Bản và các nước Đông Nam Á",
+    "Mở rộng lãnh thổ Đại Việt lên phương Bắc",
+    "Đóng góp vào truyền thống và nghệ thuật quân sự Việt Nam"
+   ],
+   "dung": 2,
+   "trang": 73
+  },
+  {
+   "hoi": "Tháng 5 – 1285, quân Trần phản công, đánh bại quân giặc ở những nơi nào?",
+   "dap_an": [
+    "Tây Kết, Hàm Tử, Chương Dương",
+    "Bình Lệ Nguyên",
+    "Vân Đồn – Cửa Lục",
+    "Quy Hoá"
+   ],
+   "dung": 0,
+   "trang": 71
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7, đối chiếu thêm ảnh trang: tr. 68 (câu hỏi mở đầu 'Vì sao Đại Việt lại ba lần giành thắng lợi trước một đế chế lớn như thế?'), tr. 69 (tháng 1 – 1258, 3 vạn quân, 'vườn không nhà trống', Đông Bộ Đầu; tư liệu 1 – lời Trần Thủ Độ sau trận Bình Lệ Nguyên), tr. 70 (tháng 1 – 1285, hơn 50 vạn quân Nguyên do Thoát Hoan chỉ huy, tiếp tục 'vườn không nhà trống'), tr. 71 (tháng 5 – 1285 phản công: Tây Kết, Hàm Tử, Chương Dương, giải phóng Thăng Long; 1287 – 1288: 50 vạn quân, hai đường thuỷ bộ), tr. 72 (Vân Đồn – Cửa Lục; đầu năm 1288 quân Nguyên chiếm Thăng Long, trúng kế 'vườn không nhà trống', lâm vào tình cảnh khó khăn; đầu tháng 4 – 1288 Bạch Đằng; mục 4a nguyên nhân thắng lợi, tư liệu 5; Hình 4 tượng Trần Quốc Tuấn ở khu di tích Bạch Đằng Giang), tr. 73 (mục 4b ý nghĩa lịch sử; Vận dụng câu 3 – dùng làm thử thách cuối tập). Kiến thức chốt của danh mục khớp SGK. Lời Trần Quốc Tuấn và Trần Thủ Độ đúng nguyên văn tư liệu 5 và tư liệu 1 SGK (trích ngắn). Mốc '1287 – 1288' trên trục thời gian: SGK ghi 'cuối năm 1287' quân Nguyên tiến vào. Không tạo ảnh mới: ảnh dùng lại đã mở xem và khớp lời; mat_noi gán khẩu hình đúng người nói (ảnh L7-B14-04/canh-01 có mặt tượng là khuôn mặt thứ 2 trong 3, ảnh L7-B14-04/canh-04 có 6 khuôn mặt, ảnh L7-B14-02/canh-07 có 4 khuôn mặt – theo bộ nhớ đệm dò khuôn mặt của dong2).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (14/11/2026)"
+ }
+}
