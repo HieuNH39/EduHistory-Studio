@@ -4152,7 +4152,7 @@
     69
    ],
    "video": {
-    "thoi_luong": 62.8,
+    "thoi_luong": 63.8,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L7-B14-01.mp4"
@@ -4179,7 +4179,7 @@
     69
    ],
    "video": {
-    "thoi_luong": 145.8,
+    "thoi_luong": 146.9,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L7-B14-02.mp4"
@@ -4200,7 +4200,7 @@
    "ten_tap_en": "The Spirit of Đông A and the 1285 Resistance",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     69,
     70,
@@ -4208,10 +4208,15 @@
     73,
     74
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 216.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B14-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B14-03.jpg",
    "trang": "tap/L7-B14-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4262,7 +4267,7 @@
     73
    ],
    "video": {
-    "thoi_luong": 176.6,
+    "thoi_luong": 178.0,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L7-B14-05.mp4"

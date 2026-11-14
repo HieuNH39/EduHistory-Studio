@@ -20,7 +20,7 @@ for v in web/videos/*.mp4; do
   h=$(ffprobe -v error -select_streams v -show_entries stream=height -of csv=p=0 "$v")
   w=$(ffprobe -v error -select_streams v -show_entries stream=width -of csv=p=0 "$v")
   if [ "$h" -gt "$w" ]; then sc="scale=720:-2"; else sc="scale=-2:720"; fi
-  nice -n 19 ffmpeg -v error -y -threads 1 -i "$v" -vf "$sc" -c:v libx264 -preset veryfast -crf 27 \
+  nice -n 19 ffmpeg -v error -y -threads 2 -i "$v" -vf "$sc" -c:v libx264 -preset veryfast -crf 27 \
        -c:a aac -b:a 112k -movflags +faststart "$dich.tmp.mp4" && mv "$dich.tmp.mp4" "$dich"
   echo "nén $ma: $(du -h "$dich" | cut -f1)"
 done

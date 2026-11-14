@@ -129,9 +129,9 @@
    "am_thanh": {
     "tat": true
    },
-   "am_hien_truong": 0.55,
+   "am_hien_truong": 0.45,
    "nguon_clip": "renders/v1/L6-B20-01.mp4",
-   "thoi_luong_toi_thieu": 9.6,
+   "thoi_luong_toi_thieu": 10.0,
    "loi": [
     [
      "Nhật Minh",
@@ -277,8 +277,8 @@
     ],
     [
      "Hân Hân",
-     "Đến hôm nay đã viết xong 219 kịch bản, dựng xong {SO_VIDEO} video và 17 mô phỏng tương tác.",
-     "So far, 219 scripts are written, {SO_VIDEO} videos are rendered and 17 interactive simulations are done."
+     "Đến hôm nay đã viết xong 221 kịch bản, dựng xong 30 video và 17 mô phỏng tương tác.",
+     "So far, 221 scripts are written, 30 videos are rendered and 17 interactive simulations are done."
     ]
    ]
   },
@@ -305,5 +305,6 @@
     ]
    ]
   }
- ]
+ ],
+ "so_lieu_luc": "14/11/2026 16:54"
 }
