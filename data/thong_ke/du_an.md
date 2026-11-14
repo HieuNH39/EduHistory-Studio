@@ -1,5 +1,5 @@
 # Thống kê dự án EduHistory Studio
-Cập nhật 15/11/2026 03:14 (tự động từ kho mã, tools/thong_ke_du_an.py)
+Cập nhật 15/11/2026 04:54 (tự động từ kho mã, tools/thong_ke_du_an.py)
 
 ## danh_muc
 - so_tap: 359
@@ -37,14 +37,14 @@ Cập nhật 15/11/2026 03:14 (tự động từ kho mã, tools/thong_ke_du_an.p
 
 ## video
 - so_video_v1: 41
-- tong_giay: 4453.0
+- tong_giay: 4479.1
 
 ## san_xuat
-- so_lan_dung_ghi_nhat_ky: 87
+- so_lan_dung_ghi_nhat_ky: 112
 - so_tap_ghi: 51
-- phut_may_tren_phut_video: 2.27
-- giay_may_trung_binh_moi_tap: 273.9
-- phan_bo_khau_s: {'giong_doc_s': 2656.7, 'dung_hinh_s': 8492.6, 'am_thanh_s': 428.4, 'ghep_cuoi_s': 2389.5, 'sfx_s': 153.6}
+- phut_may_tren_phut_video: 2.08
+- giay_may_trung_binh_moi_tap: 252.0
+- phan_bo_khau_s: {'giong_doc_s': 1571.9, 'dung_hinh_s': 7909.0, 'sfx_s': 157.0, 'am_thanh_s': 442.0, 'ghep_cuoi_s': 2931.3}
 
 ## am_thanh
 - hieu_ung_su_kien: 34
@@ -65,7 +65,7 @@ Cập nhật 15/11/2026 03:14 (tự động từ kho mã, tools/thong_ke_du_an.p
 - js_dong: 3650
 - js_tep: 54
 - html_css_dong: 1840
-- so_commit: 26
+- so_commit: 27
 - so_phien_nhat_ky_vibe_coding: 5
 - so_dong_nhat_ky_loi_va_sua: 68
 

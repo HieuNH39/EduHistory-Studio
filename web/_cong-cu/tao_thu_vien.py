@@ -703,8 +703,8 @@ def trang_index(bai_ds, ds, cap_nhat):
   <p class="dan">Kho học liệu số theo SGK <i>Lịch sử và Địa lí</i> (bộ sách dùng chung): video bài học, ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Chọn lớp, hoặc tìm theo tên bài, nhân vật, sự kiện.</p>
   <div class="o-tim" role="search">
     <label for="tim" class="an-chu">Tìm trong thư viện</label>
-    <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện… (Bạch Đằng, Lê Lợi, 1945)" aria-describedby="goi-y-tim">
-    <p id="goi-y-tim" class="goi-y">Gõ có dấu hay không dấu đều được.</p>
+    <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện…" aria-describedby="goi-y-tim">
+    <p id="goi-y-tim" class="goi-y">Ví dụ: Bạch Đằng, Lê Lợi, 1945. Gõ có dấu hay không dấu đều được.</p>
   </div>
   <dl class="so-lieu"><div><dt>video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>tập có câu hỏi ôn tập</dt><dd>{n_k}</dd></div><div><dt>tập trong kế hoạch</dt><dd>{len(ds)}</dd></div></dl>
  </div>
