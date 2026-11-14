@@ -148,7 +148,7 @@ def main():
         fig.tight_layout(); fig.savefig(os.path.join(OUT, "bieu_do/cau_truc_canh.png")); plt.close(fig)
         # 3. thời gian máy dựng mỗi khâu
         if "san_xuat" in tk:
-            k = tk["san_xuat"]["phan_bo_khau_s"]; lab = {"giong_doc_s": "Giọng đọc (TTS)", "dung_hinh_s": "Dựng hình & chuyển động",
+            k = tk["san_xuat"]["phan_bo_khau_s"]; lab = {"sfx_s": "Hiệu ứng âm thanh", "giong_doc_s": "Giọng đọc (TTS)", "dung_hinh_s": "Dựng hình & chuyển động",
                                                       "am_thanh_s": "Âm thanh", "ghep_cuoi_s": "Phụ đề, logo, ghép"}
             fig, ax = plt.subplots(figsize=(6, 3.4), dpi=200)
             ax.pie(list(k.values()), labels=[lab.get(a, a) for a in k], colors=C[:len(k)], autopct="%1.0f%%", startangle=90,

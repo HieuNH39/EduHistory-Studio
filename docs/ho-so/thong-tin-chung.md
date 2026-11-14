@@ -36,9 +36,12 @@ Cập nhật: 14/11/2026. Số liệu định lượng LUÔN lấy từ `data/th
 - Chính: Học tập bằng chuỗi video trực quan hoá + mô phỏng tương tác của EduHistory Studio có giúp HS THCS ghi nhớ mốc sự kiện, hiểu bản chất diễn biến lịch sử và hứng thú học tập hơn so với học bằng SGK/bài giảng thông thường không?
 - Phụ: (1) Quy trình AI + Vibe Coding rút ngắn thời gian sản xuất một video chuẩn hoá bao nhiêu? (2) Mức độ chính xác học thuật của video sau bước kiểm chứng đạt ra sao? (3) Mức độ dễ dùng (SUS) của kho học liệu và mô phỏng? (4) Video ngắn trên mạng xã hội tác động thế nào đến việc tự tìm hiểu Lịch sử ngoài giờ?
 
-## Giả thuyết
-- H1: Nhóm thực nghiệm có điểm tiến bộ (hậu – tiền kiểm tra) cao hơn nhóm đối chứng có ý nghĩa thống kê (p < 0,05), điểm hậu kiểm tra cao hơn ít nhất 15 %.
-- H2: Điểm hứng thú (Likert) của nhóm thực nghiệm cao hơn; H3: SUS ≥ 68 (mức "tốt"); H4: thời gian sản xuất giảm > 70 % so với làm thủ công.
+## Giả thuyết (thống nhất với bộ công cụ thực nghiệm)
+- H1: Điểm tiến bộ (hậu – tiền kiểm tra) của nhóm thực nghiệm cao hơn nhóm đối chứng có ý nghĩa thống kê (p < 0,05); điểm hậu kiểm tra cao hơn ít nhất 15 %.
+- H2: Sau 7 ngày, nhóm thực nghiệm giữ lại kiến thức tốt hơn (mức giảm điểm ít hơn).
+- H3: Điểm hứng thú (phiếu 12 câu Likert) của nhóm thực nghiệm cao hơn nhóm đối chứng.
+- H4: Điểm SUS của kho học liệu và mô phỏng đạt từ 68 trở lên (mức "tốt").
+- H5 (kỹ thuật): Quy trình AI + Vibe Coding rút ngắn thời gian sản xuất một video chuẩn hoá trên 70 % so với làm thủ công (đo bằng nhật ký máy dựng `data/logs/san-xuat.jsonl` so với ước lượng làm thủ công do GV khảo sát – số liệu so sánh đang thu thập, không tự đặt số).
 
 ## Thiết kế thực nghiệm sư phạm (thống nhất cho mọi tài liệu)
 - Dạng: thực nghiệm nhóm đối chứng không tương đương, có tiền – hậu kiểm tra + kiểm tra duy trì sau 7 ngày.

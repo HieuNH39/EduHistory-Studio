@@ -87,3 +87,18 @@ và 11 tiếng giao diện (tích theo nốt ngũ cung cho trục thời gian, b
 | 8 | Viết trang Giới thiệu | Bản đầu ghi "giáo viên hướng dẫn là người duyệt cuối cùng" như việc đã làm, trong khi kịch bản ghi duyệt theo uỷ quyền | Viết thành nguyên tắc của dự án; tập chưa có kịch bản chỉ hiện tên tập (nội dung nháp của danh mục không đưa lên web) |
 
 **Kiểm tra:** 202 trang, 0 liên kết hỏng, 0 lỗi console, 0 yêu cầu ra ngoài (file:// và http://); tìm không dấu ("bach dang"), lọc, chọn lớp, nhảy tới bài, làm câu hỏi và làm lại đều chạy; bàn phím: phím Tab đầu tiên tới "Bỏ qua, tới nội dung chính"; độ tương phản chữ ≥ 4,6 : 1.
+
+## Phiên 4 – 14/11/2026: Hoàn thiện hồ sơ, sửa lỗi video dọc, bộ công cụ thực nghiệm
+
+**Yêu cầu:** chuẩn bị báo cáo dự án ngày 18/11: số liệu thật cho hồ sơ, slide 5 phút, bộ công cụ thực nghiệm (đề kiểm tra, phiếu, bảng phân tích), dựng tiếp video.
+
+| # | AI làm | Lỗi / vấn đề phát hiện khi kiểm tra | Cách xử lý |
+| --- | --- | --- | --- |
+| 1 | Viết `tools/thong_ke_du_an.py`: đếm số tập, kịch bản, cảnh, bản đồ, video, dòng mã… từ kho mã, vẽ biểu đồ cho hồ sơ | Biểu đồ tròn "thời gian máy theo khâu" hiện nhãn kỹ thuật `sfx_s`; đếm "mục nhật ký" bằng mọi tiêu đề cấp 2–3 nên lệch | Thêm nhãn tiếng Việt cho mọi khâu; đếm riêng số phiên (`## Phiên`) và số dòng lỗi – cách sửa |
+| 2 | Xem lại khung hình video dọc 60 giây vừa dựng | Thẻ ghi nhớ: tiêu đề "BẰNG CHỨNG CỦA NHÀ SỬ HỌC" tràn khỏi thẻ; thẻ câu hỏi: chữ quá to, đồng hồ đếm ngược đè lên câu hỏi. Nguyên nhân: cỡ chữ tính theo chiều cao màn hình (1920 px) thay vì chiều ngang | Khung dọc tính cỡ chữ theo chiều ngang; câu hỏi và lựa chọn rộng hết thẻ, đồng hồ đặt dưới các lựa chọn; tiêu đề dài tự thu nhỏ; xuất ảnh thử cả khung dọc và ngang để so |
+| 3 | Dựng hàng đợi 21 tập | Tập L8-B3-01 dừng với lỗi `'bool' object is not iterable`: kịch bản ghi `"hien_luc_theo_cau": true` (mục thứ k hiện ở câu thứ k) trong khi bộ dựng chỉ hiểu danh sách số | Bộ dựng hiểu cả hai cách ghi; 12 kịch bản lớp 8 dùng cách ghi này không phải sửa |
+| 4 | Dựng bảng tính nhập – phân tích số liệu thực nghiệm (Sheets) | Ghi dòng thử nghiệm bằng một khối có ô trống làm xoá mất công thức chấm điểm ở các ô đó | Chép lại công thức từ dòng bên cạnh; quy tắc mới: dòng thử chỉ ghi vào cột nhập liệu, không ghi đè cột công thức; chạy thử 4 học sinh giả định, so điểm tính tay (5,0 / 6,0 / 5,5 / 4,5) rồi xoá sạch |
+| 5 | Kiểm tra công thức hứng thú có câu đảo (câu 3, 8) và SUS | – | Tính tay một phiếu: (49 điểm sau đảo)/12 = 4,08 khớp bảng; SUS phiếu mẫu = 75 khớp công thức Brooke |
+| 6 | Xem trước slide bằng Chrome không giao diện | Lần đầu treo vì chặn mọi yêu cầu bằng bộ định tuyến khi nạp trang; tiêu đề 3 dòng làm tràn khung 1080 px | Mở trang từ tệp cục bộ, chỉ chặn http/https; giảm cỡ tiêu đề câu hỏi nghiên cứu, cố định chiều cao các ô sơ đồ dây chuyền |
+| 7 | Chạy trình duyệt xem trước trong lúc máy đang dựng video | Tập L8-CD2-02 bị dừng giữa chừng (thiếu bộ nhớ khi hai việc nặng chạy cùng lúc) | Hoàn tất tập từ phần hình đã dựng (`tools/hoan_tat_tu_cache.py`); không chạy trình duyệt nặng khi hàng đợi dựng đang chạy |
+| 8 | Viết `tools/phan_tich_thuc_nghiem.py`: tính lại độc lập bằng SciPy (Welch t, t ghép cặp, Cohen's d, Cronbach's alpha, SUS) từ tệp CSV tải từ bảng tính, vẽ biểu đồ cho báo cáo | Cần chắc bảng tính và script cho cùng kết quả trước khi có số liệu thật | Chạy cả hai trên cùng 4 học sinh giả định (rồi xoá): p = 0,553 / 0,202, d = 2,53, alpha = 0,99, SUS = 75 – khớp nhau. Script không bao giờ tự tạo số liệu: thiếu tệp thì dừng |
