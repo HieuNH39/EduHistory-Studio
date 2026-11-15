@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B18-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts standing beneath the red brick towers of Pô Klong Ga-rai under a bright blue sky. Hân Hân turns her head slightly toward Nhật Minh, speaking with natural lip movement while gesturing gently with one hand toward the historic site. Nhật Minh nods in agreement, looking up at the ancient architecture. In the background, harsh sunlight casts sharp shadows, and roadside cacti sway gently in a warm breeze."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ancient Cham artisans in traditional attire actively work around a rising red-brick tower under warm sunlight. One worker gently places a brick tightly against another without mortar, while another stoked a nearby smoking kiln in the background. The camera slowly pushes in on the meticulous bricklaying process. Dust motes drift softly in the air, and wisps of gray smoke rise steadily from the kiln."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in FPT school uniforms standing by a towering brick structure. Nhật Minh raises his hand to touch the tightly fitted mortar between the bricks with natural finger movement, while Hân Hân tilts her head upward, looking toward the top of the tower with wide, curious eyes. In the soft-lit background, gentle dust motes drift slowly in the sunlight, and distant foliage sways softly in a light breeze."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the dimly lit Cham temple, flickering oil lamp flames sway gently, casting dancing shadows on the stone deity statue and altar. A devout worshipper wearing traditional robes slowly raises a fresh lotus flower offering with both hands, bowing head respectfully. In the background, a Buddhist monk gently opens and closes his mouth in silent prayer, shifting prayer beads smoothly. The camera executes a slow, steady push-in toward the glowing altar."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the Champa artisan meticulously chiseling the goddess bas-relief on a red brick wall, hand tapping a small mallet with subtle stone dust drifting. Beside him, a scribe gently dips a reed pen, writing ancient Champa script onto a palm leaf. In the soft-focus background, majestic red brick temple towers stand atop a rolling green hill under a gentle breeze that sways nearby palm fronds."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures an ancient Cham tower courtyard at night. In the center, graceful Apsara dancers fluidly sway their bodies and intricately gesture with their soft hands. Nearby, musicians rhythmically strike traditional drums and gently sway while playing the Saranai trumpet. Another group of performers gracefully waves colorful silk ribbons and fans, creating gentle ripples in the air. Warm torchlight flickers along the stone walls, casting soft, dancing shadows across the vibrant scene."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle pan right reveals the bustling Champa port. In the background, foreign merchant wooden sailboats gently bob on sparkling blue water with soft waves lapping the wooden dock. In the foreground, Champa merchants actively gesture and trade, handing pottery and spices. A Western traveler in period attire slowly writes in a leather notebook, turning his head slightly. Palm leaves sway softly in the warm sea breeze under bright daylight, maintaining the vibrant 2D animated-film illustration style."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The ancient Po Klong Garai tower stands silently against a warm, orange sunset sky with gentle wind rustling dry grass at the base. Fifteen-year-old Nhat Minh, wearing an orange polo shirt, turns his head slightly toward the viewer, raises his right hand in an inviting gesture to speak, and moves his lips naturally as if presenting a question. The camera executes a very slow push-in toward the pair."
+  }
+ ]
+}

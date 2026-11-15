@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B7-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the animated scene under a bright blue sky. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts and backpacks, turn their heads slightly toward each other with natural smiles, gesturing naturally as they converse with subtle lip movement. In the background, the majestic golden That Luong stupa gleams under the sunlight, while a gentle breeze stirs the surrounding air, making the distant palm fronds sway softly."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In a medium shot, general Fa Ngum stands proudly on an elevated stone platform, holding his sword upright as he gestures authoritatively to the assembled Lao chieftains who bow respectfully. In the background, majestic war elephants shift weight and swing their trunks, while ceremonial parasols and banners flutter vigorously in the wind. The Mekong River flows steadily with gentle ripples, and soft clouds drift across the sky. The camera slowly pushes in closer to Fa Ngum."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the grand Lan Xang royal court. On the ornate dragon throne, the king shifts slightly and gestures deliberately as he speaks with subtle mouth movements, while the viceroy beside him nods in agreement. Below them, seven silk-robed mandarins turn their heads slightly and converse. In the sunlit courtyard outside, the regular guards shift their stance and restless war elephants gently sway their trunks and flick their ears."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle pan tracks across the vibrant animated scene. In the foreground, a Lao farmer methodically harvests rice with a sickle while a weaver’s hands move rhythmically at a traditional wooden loom beneath a stilt house, where chickens peck at the ground and water buffaloes lazily flick their tails. In the midground, a procession of majestic elephants slowly ambles forward, carrying bundles of white beeswax and brass gongs toward a bustling marketplace, as lush tropical leaves sway softly in the warm breeze."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh in FPT orange polo shirts standing at a bustling historical border market. Hân Hân gently turns her head and speaks with natural lip movement while gesturing toward the goods. Nhật Minh nods, listening attentively, then raises his hand slightly to point at nearby traders. In the background, local people bustle around stalls displaying rice, poultry, salt, and bronze pots, while dust motes drift softly in warm sunlight."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures a majestic mountain pass where Lan Xang soldiers and war elephants stand steadfastly in formation, their large banners and flags gently waving in the mountain breeze. In the foreground, two figures representing envoys exchange a ceremonial wooden box of gifts with calm, polite gestures and subtle nods. Sunlight filters softly through drifting mountain mist, while lush green foliage sways gently on the rugged slopes."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Young Lao women in traditional áo dài and sinh skirts gracefully perform the Chăm-pa flower dance in the temple courtyard, their arms swaying fluidly. Inside the open temple hall, a Buddhist monk gently writes curving Lao script onto a dried talipot palm leaf with a stylus. The camera executes a slow, smooth push-in from the dancers toward the monk. Soft sunlight filters through the courtyard trees, casting gentle shadows while leaves drift softly in the warm breeze."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot of Nhật Minh and Hân Hân standing before the glowing golden That Luong stupa at sunset. Nhật Minh turns his head to look directly at the viewer, smiles, and raises one hand in a welcoming gesture as his mouth moves naturally in speech. In the background, warm golden light bathes the stupa, and soft clouds drift lazily across the fading dusk sky."
+  }
+ ]
+}

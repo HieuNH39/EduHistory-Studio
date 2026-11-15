@@ -1,0 +1,24 @@
+{
+ "ma": "L8-B18-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han in orange FPT school uniforms walk together along a leafy sidewalk under gentle morning sunlight, carrying backpacks. They stop beneath the blue street sign reading 'Pho Hoang Hoa Tham', turning to look up at it while chatting with natural lip movement and soft hand gestures. In the background, scooters and cars drive past smoothly, while sun-dappled tree leaves flutter softly in a light breeze. The camera performs a slow push-in toward the students."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh standing atop a lush green midland hill under a golden afternoon light, gazing down at the peaceful village and distant tree lines. A gentle breeze blows, fluttering their orange polo shirts and swaying their hair naturally. Nhật Minh slowly turns his head toward Hân Hân and speaks with subtle, natural lip movement and a warm expression, while Hân Hân smiles and nods gently, gesturing outward to the serene landscape below."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han standing on a midland hill at sunset, facing the viewer with warm smiles. Nhat Minh speaks with natural lip movement while gesturing openly with one hand to invite discussion. Han Han stands beside him, nodding gently and smiling. In the background, tall grass sways softly in the evening breeze under a golden, hazy sky with slowly drifting clouds."
+  }
+ ]
+}

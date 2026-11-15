@@ -1,0 +1,78 @@
+{
+ "ma": "L7-B15-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han standing before the ancient stone gate. Both students in orange polo shirts smile and gesture naturally toward the massive archway while talking with subtle lip movement. Gentle breezes sway the green grass atop the stone walls and ripple through the surrounding lush rice paddies in the distance, under a clear blue sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan right contrasts two scenes. In the opulent mansion, Trần nobles feast at banquet tables, dancing gracefully with fluid arm gestures and turning heads while smiling. In the distant muddy fields outside, impoverished peasants and servants in ragged clothes stand tall, firmly raising makeshift wooden clubs and red banners that wave vigorously in the wind. Dust drifts gently across the horizon under a pale sky, emphasizing the stark social divide."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the tense imperial court. Hồ Quý Ly stands tall in the center wearing a purple robe and winged cap, slowly stroking his long beard and turning his head slightly as he speaks with natural mouth movement. The young king sits on the throne looking visibly anxious, shifting his posture. Surrounding mandarins bow deeply with slight, realistic body sways. Silks of the court banners ripple softly in the background."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan reveals Hồ Quý Ly standing on a dusty parade ground, turning his head slightly as he inspects disciplined soldiers in armor who stand at attention with raised spears. In the background by the river, shirtless craftsmen hammer rhythmically into the wooden hulls of massive war galleys as water ripples gently against the banks. A soft breeze stirs distant banners and wisps of smoke, maintaining the painted 2D animated film style throughout."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hồ Nguyên Trừng in military attire gesturing toward the large divine mechanic cannon on a wooden cart, moving his lips naturally as he speaks. Nearby soldiers turn their heads attentively and shift their stances. Another soldier beside them carefully raises a small handheld gun. In the background, wind gently rustles leaves on trees and sways the soldiers' clothing subtly, creating a dynamic historical atmosphere."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân standing on a dusty mound in FPT school uniforms, looking intently at the construction below. Hân Hân gently gestures forward with an open hand, her lips moving naturally in quiet speech, while Nhật Minh nods thoughtfully and points. In the bustling valley, hundreds of workers pull thick ropes around wooden rollers, hoisting massive stone blocks into a towering arched gateway as dust motes drift in the warm sunlight."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the courtyard scene. The Ho dynasty official stands upright, unrolling a parchment scroll and moving his mouth naturally as he reads the decree. Opposite him, the Tran nobleman frowns deeply, his gaze shifting down to a ledger of land deeds he holds in his hands. In the background, servant retainers stand quietly, their robes fluttering slightly in a gentle breeze."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures a bustling Ho dynasty marketplace. In the foreground, buyers and sellers actively exchange patterned paper currency with subtle hand gestures. Nearby, a mandarin official methodfully uses a wooden measuring ruler and standardizing container to inspect goods, nodding slightly. The background figures gently sway and converse with natural head movements, while soft dust motes drift in the warm sunlight filtering through woven market awnings."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures scholars in traditional black gowns and headwraps sitting at wooden desks inside the examination hall, gently swaying as they concentrate and write with brush and ink. In the foreground, an elderly teacher in a flowing robe holds an ancient scroll, rocking his head slightly as he reads aloud with subtle lip movement. Gentle morning sunlight streams through open pillars, illuminating dust motes dancing in the air, while outside, lush palm fronds sway softly in a light breeze."
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A gentle push-in camera captures the animated scene before the exam gate. Hân Hân and Nhật Minh, in orange FPT uniforms, stand amidst the bustling crowd, turning their heads slightly to look at the golden plaque. Three young scholars in blue robes step forward through the gateway, gesturing proudly. In the background, leaves drift in the breeze and soft dust motes float in the sunlight, while the crowd softly sways with natural ambient movement."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing before the ancient stone blocks of the Citadel's South Gate in late afternoon golden light. Nhật Minh gently turns his head toward Hân Hân, gesturing toward the ancient walls with natural arm movements as he speaks with subtle lip motion. Hân Hân nods softly, smiling, her hair and orange polo shirt collar swaying slightly in a gentle breeze, while warm sunlight glints across the mossy stone surfaces."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the two 15-year-old students standing before the ancient stone gate of Tây Đô. Nhật Minh, wearing an orange polo shirt, turns his head slightly toward the camera, speaks naturally with moving lips, and raises one arm in a welcoming gesture inviting interaction. Hân Hân stands beside him, looking forward with a gentle smile and blinking naturally. Sunlight softly illuminates the scene, and leaves drift lazily in the gentle breeze in the background."
+  }
+ ]
+}

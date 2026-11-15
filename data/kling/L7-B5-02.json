@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B5-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the two students in modern school uniforms inside a bright laboratory. Hân Hân gently gestures toward the tablet screen, turning her head to speak naturally with subtle lip movements. Nhật Minh listens attentively, nods, and points down at the rusty iron nails on the ceramic plate before them. Soft ambient light shifts across the modern lab, and tiny dust particles drift gently in the background air."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the snowy Himalayan hillside. Japanese school students Nhật Minh and Hân Hân, wearing orange FPT polo shirts and dark jackets, stand side by side gazing out at the vast green plains below. Hân Hân turns her head slightly toward Nhật Minh, speaking with natural lip movement and gesturing gently toward the winding rivers. Nhật Minh nods in agreement, pointing forward. In the background, wisps of white clouds drift slowly past the distant mountain peaks."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the ancient stone palace. King Chandra Gupta I, adorned with a golden crown and silk robes, stands majestic and turns his head slightly to address the assembly, his lips moving naturally as he speaks. Surrounding courtiers in traditional attire bow deeply in unison. In the background, torches flicker, casting dancing shadows across the intricately carved stone pillars, while soft incense smoke drifts gently through the grand hall."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A wide, cinematic shot of the Gupta army marching peacefully along the vast Ganges River at sunrise. Majestic war elephants slowly walk forward, adorned with vibrant ceremonial banners and canopies swaying gently in the morning breeze. Soldiers in ancient tunics march in orderly lines alongside. In the golden light, the river water ripples softly, reflecting the orange sky. The camera performs a slow, majestic pan from left to right, capturing the serene scale of the procession without any combat."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan right bridges two scenes. In the first, Indian farmers in traditional tunics guide an iron plow through muddy fields while clear water flows steadily from irrigation canals to nourish crops. In the bustling second scene nearby, merchants with woven turbans eagerly exchange colorful textiles and spice sacks with foreign traders by the stone dock. The camera glides smoothly across the vibrant ancient landscape, capturing lively gestures and natural bustling activity under a warm sun."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures ancient Indian metalworkers in traditional attire operating a glowing red furnace. Sparks drift upward through the warm evening air as several workers strain to hoist a massive iron pillar upright in a temple courtyard. Hân Hân, wearing an orange polo shirt, stands nearby observing the historic scene, her head turning slightly and lips moving naturally as she speaks. Flames flicker intensely, casting dynamic orange light across the animated environment."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on the Buddhist monk in brown robes sitting by an Indian roadside, writing intently in a manuscript with subtle hand movements. In the background, citizens walk leisurely past magnificent domed palaces. Gentle wind drifts through the scene, making the monk's robes sway slightly and leaves flutter softly on the nearby trees, while the warm sunlight remains steady across the historic cityscape."
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han, wearing orange FPT school uniforms, walk forward slowly along a dusty Gupta-era Indian street, turning their heads to observe the surroundings. They stop in front of a domed hospital building, gently gesturing toward the courtyard with mild smiles and natural lip movement as they converse. In the background, local citizens receive care and children play softly. A gentle slow push-in camera moves toward the students, while leaves flutter in the warm breeze."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In a slow push-in, Hân Hân stands beside Nhật Minh in the laboratory, pointing at the tablet screen displaying an iron pillar while speaking with natural lip movement. Nhật Minh holds up a rusty nail, turning his head slightly. Both characters then shift their gaze directly toward the viewer with welcoming expressions. The background lab equipment remains still while soft natural light subtly shifts across the scene."
+  }
+ ]
+}

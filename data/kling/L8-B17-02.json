@@ -1,0 +1,54 @@
+{
+ "ma": "L8-B17-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the sunrise scene as gentle ripples disturb the pink-tinted river surface. Hân Hân sits in the wooden sampan, her hands moving naturally to turn a page of her history book while her head tilts slightly and her lips move as she speaks. Across from her, Nhật Minh turns his head slowly from the distant horizon to look toward Hân Hân, blinking naturally and nodding once. The surrounding water coconut fronds sway softly in a morning breeze."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân hiding behind nipa palm bushes along a wide Southern river in 1867. The children watch intently, turning their heads slightly as French warcrafts chug upstream, billowing smoke from their stacks with soldiers crowding the decks. On the riverbank, local villagers stand with bitter expressions, their clothes gently rustling in the breeze. The water flows steadily, and the palm fronds sway softly in the wind."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Truong Dinh standing majestically in a traditional long tunic and turban before a large banner, speaking with subtle mouth movements and a firm hand gesture. Behind him, the giant flag ripples gently in the breeze. In the marshy foreground and background, numerous rebel soldiers and local villagers wearing period peasant clothing sway slightly, enthusiastically raising spears and bamboo staffs aloft. Reeds rustle softly in the wind across the watery Go Cong base."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow, respectful push-in camera captures the somber sunset over Gò Công base. In the foreground, the tattered rebel flag flutters gently in the evening wind. In the midground, Nhật Minh and Hân Hân stand silently side by side, wearing orange polo shirts. They slowly lower their heads in a solemn commemorative bow. Soft golden hour light bathes the scene, with wisps of smoke drifting slowly across the distant horizon, maintaining the 2D animated style throughout."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the tense night on the Nhat Tao river. Nguyen Trung Truc stands firmly on the prow of a wooden sampan, wearing a traditional dark tunic and headscarf, gesturing forward with a resolute expression. Behind him, rebel fighters energetically row the boat forward. In the background, the French warship Espérance burns intensely, casting roaring red and orange flames and thick, drifting smoke across the glowing, rippling river surface."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow, solemn push-in camera frames Nguyễn Trung Trực standing upright with bound hands, maintaining an unwavering, defiant gaze forward. His chest subtly rises and falls with deep, resolute breathing, and his expression remains stoic and steadfast. In the background, the gloomy Southern Vietnamese sky fills with drifting, heavy gray clouds while a gentle wind stirs his hair and clothing naturally, preserving the dignified animated illustration style without any violent elements."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera frames Nguyễn Hữu Huân calmly seated at a small wooden desk, wearing a traditional khăn đóng and áo the. He gracefully dips a calligraphy brush into ink and writes poetry with steady hand movements, his expression serene and focused. Outside the open doorway, French soldiers in uniform stand rigidly on guard. Sunlight filters through the window, and dust motes drift gently in the air."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the sunlit southern Vietnamese river scene. In the background, green nipa palms sway gently in a soft breeze as shimmering river water ripples around them. Nhật Minh calmly paddles the wooden sampan forward with smooth, rhythmic strokes. Hân Hân sits gracefully near the front, turning her upper body slightly toward the viewer with a warm smile, her mouth moving naturally as she speaks, while her orange polo shirt and hair flutter softly in the wind."
+  }
+ ]
+}

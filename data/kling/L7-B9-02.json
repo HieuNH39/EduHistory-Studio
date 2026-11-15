@@ -1,0 +1,24 @@
+{
+ "ma": "L7-B9-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera frames the vertical scene. Hân Hân, wearing an orange polo shirt, quickly tilts her hands to spill twelve vintage map puzzle pieces onto the wooden desk. Nhật Minh's eyes widen in surprise as he immediately reaches forward, picks up one puzzle piece, and examines it closely with subtle head movements. Soft dust motes drift gently in the warm background light while ambient classroom shadows subtly shift."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A 10th-century Vietnamese chieftain in simple armor firmly plants his banner into the earth atop an earthen rampart, turning his head slightly as he speaks with natural mouth movement. Behind him, armed soldiers with spears shift their stance alertly. In the distant background on an opposite hill, another chieftain erects his flag. The camera executes a slow push-in, while banners flutter gently in the wind and dust motes drift across the sunlit landscape."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a vertical frame, Nhat Minh places the final puzzle piece onto the wooden table, completing the map illustration with a subtle soft glow. Han Han turns her head slightly toward the camera, pointing her finger forward while speaking with natural lip movement and a cheerful expression. The camera executes a slow push-in toward the characters. Soft ambient light glints gently off the table surface, and dust motes drift peacefully in the warm background."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "ma": "L8-B5-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in shot captures the ancient mossy gate under warm afternoon sunlight. Hân Hân and Nhật Minh, wearing orange polo school uniforms, stand side by side in the foreground. Hân Hân turns her head slightly toward Nhật Minh with natural lip movement as if speaking, gesturing gracefully with one hand toward the historic structure. Nhật Minh nods softly, smiling, and looks forward. In the background, lush green trees sway gently in a soft breeze, and sunlight glints off the distant river."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Trịnh Kiểm in detailed armor standing resolutely in the torchlit camp. He slowly raises his hands to respectfully receive the ceremonial seal and sword, his expression firm and focused with natural head movement. Flanking generals in traditional military attire kneel steadily on both sides. In the background, red torch flames flicker continuously, casting warm, shifting light and subtle shadows across the wooden interior walls."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Nguyen Hoang in a blue robe and his entourage slowly walk forward along a coastal path under a golden afternoon sky. Gentle ocean waves ripple against the shore, and distant green mountains stand under drifting clouds. Nguyen Hoang turns his head slightly, gesturing forward with a steady gaze as he leads the group. The camera performs a slow push-in, capturing the historic journey toward the southern land."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera reveals the split-screen historical illustration. On the left, courtiers in the opulent northern Trịnh palace bustle and converse. On the right, southern Nguyễn soldiers vigorously drill with spears. Between them, the faint throne of King Lê flickers subtly. Wisps of incense smoke drift upward across the central division, while distant banners ripple gently in the breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the Trịnh army marching southward along a dusty riverbank. In the center, a general on horseback raises his riding crop, pointing forward with a commanding gesture as his horse steps steadily. Around them, soldiers in traditional armor march alongside war elephants kicking up clouds of dust. On the winding river, wooden war vessels glide forward with oars dipping into the water, while colorful banners and flags wave briskly in the wind."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on Đào Duy Từ in a blue traditional robe and turban, standing on a grassy mound holding a scroll and gesturing forward with his hand. In the background, dozens of soldiers and laborers actively shovel earth, stack gray stones, and drive wooden stakes into the ground along a flowing blue river under gentle wind. Leaves flutter softly on nearby trees, and distant sea waves ripple against the shore."
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the animated scene on the earthen rampart. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, stand side-by-side behind wooden stakes, gently turning their heads to observe the distance while speaking with natural lip movement. Nearby, Nguyen guards in traditional armor pace slowly and hold spears. Across the distant field, Trịnh banners ripple steadily in the wind amid faint, drifting smoke rising from far-off fires under a bright sky."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan right reveals the grand seventeenth-century Trịnh Lord mansion with busy guards in traditional armor and an elephant standing near the multi-layered gates, while the smaller, quieter Lê king’s palace sits nearby. In the foreground, Hân Hân and Nhật Minh in orange polo shirts gently gesture toward the architecture with natural head turns and subtle speaking movements. Sunlight shifts across the courtyard, and leaves drift softly in the gentle breeze."
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the split-frame illustration. On the left, a gentle breeze rustles the scorched thatched roofs, while villagers in dark clothing sway slightly with downcast, mournful expressions. On the right, families actively walk forward, leading water buffaloes and loading wooden boats, as soft sunlight glints off the flowing river. Green leaves tremble on freshly sprouted branches in the new southern settlement, while dust motes drift peacefully in the warm air."
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh standing beside an ancient stone stele near the Nhat Le river at sunset, with shimmering golden water in the background. Nhật Minh gently turns his head toward Hân Hân with a warm smile, while Hân Hân raises her right hand in a welcoming gesture toward the viewer, speaking with natural lip movement. Soft evening wind ripples their orange polo shirts and gently sways the riverside grass."
+  }
+ ]
+}

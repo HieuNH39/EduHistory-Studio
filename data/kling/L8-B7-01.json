@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B7-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera shot of 15-year-old Nhật Minh standing on a Red River dikeside at sunset. His orange polo shirt and dark hair gently flutter in a strong afternoon breeze. He turns his head slightly toward the camera, gesturing with one hand as his mouth moves naturally in speech. In the soft-focus background below, the lush green cornfield sways in waves under a warm, golden sky."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow vertical push-in frames two 15-year-old students in orange polo shirts peering from behind a vermilion wooden pillar in a Trịnh lord's palace. Hân Hân subtly turns her head, her lips moving naturally in quiet speech while gesturing toward the bustling banquet hall. In the background, richly dressed eunuchs stride arrogantly past tables piled high with food, while courtiers celebrate. Dust motes drift gently in the warm torchlight."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing solemnly on a grassy mound, their faces filled with deep sorrow. In the background, muddy floodwaters rush across ruined thatched houses and submerged fields, while thin, weary villagers trudge past carrying meager belongings. Hân Hân slowly raises a trembling hand to point toward the devastation, her lips moving slightly in quiet grief. Gentle wind ripples their orange polo shirts and sways the surrounding tall grass."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Hân Hân sitting on a sunny grass-covered dike next to Nhật Minh, both wearing orange polo shirts. Hân Hân turns her head smoothly to face the camera, smiling warmly and speaking with natural lip movement while gesturing gently with one hand. In the background, green rice paddies sway gently in a soft breeze under a clear blue sky, and a few distant clouds drift slowly across the horizon."
+  }
+ ]
+}

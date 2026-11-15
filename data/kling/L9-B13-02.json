@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B13-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh in FPT orange polo shirts standing before the National Assembly building in bright morning sunlight. Hân Hân gently turns her head to look at Nhật Minh while speaking with natural lip movement, holding her notebook steady. Nhật Minh nods with a friendly smile, gesturing toward the building. In the background, green tree leaves sway softly in a gentle morning breeze, and soft sunlight glints off the modern glass architecture."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow, steady camera push-in frames two 15-year-old students in orange polo shirts standing in front of the National Assembly building. Nhật Minh stands calmly with a slight, friendly smile, turning his head gently toward the viewer. Hân Hân raises her right hand in a welcoming gesture, smiling warmly and speaking naturally with subtle lip movement. In the background, green trees sway gently in a soft breeze under a clear sky."
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ma": "L8-B12-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing inside a brightly lit military museum in front of a vintage riveted steel tank. Hân Hân gently gestures toward the tank with an open hand, her head turning slightly toward Nhật Minh with natural lip movement as she speaks. Nhật Minh nods in agreement, shifting his weight naturally while observing the historical exhibit. In the soft-focus background, other museum visitors slowly walk past."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow camera push-in frames two 15-year-old students in orange polo shirts standing thoughtfully before an old museum tank. Nhật Minh slowly turns his head slightly, maintaining a solemn expression while gazing toward the viewer. Hân Hân gently raises her hand with an inviting palm-up gesture toward the camera as her lips move naturally in speech. Dust motes drift softly in the warm indoor lighting, and the historic tank remains completely still in the background."
+  }
+ ]
+}

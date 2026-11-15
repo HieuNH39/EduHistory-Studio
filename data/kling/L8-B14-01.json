@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B14-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh standing on a stone pier during a warm sunset, gazing out at the bustling modern seaport. Giant container cranes operate rhythmically in the background while cargo ships glide past on gently rippling water. Hân Hân gently raises her smartphone, tapping the screen to display a glowing map of Asia as both teenagers turn their heads slightly toward the device, conversing naturally with subtle expressions."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing quietly by the Chinese coast in 1840, both observing the scene with curious expressions. Qing soldiers in traditional robes and conical hats steadily carry wooden opium chests toward a large burning pit, as thick grey smoke drifts upward into the hazy sky. In the background, British merchant sailing ships gently bob on the moving ocean waves."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on Nhật Minh and Hân Hân standing on a distant rocky cliff in their orange polo shirts, looking out with worried expressions. Nhật Minh turns slightly and gestures toward the horizon while speaking with natural lip movement. In the background, British sailing warships fire cannons toward a coastal Qing fortress, sending thick plumes of dark smoke drifting heavily across the turbulent sea."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures an evening harbor illuminated by soft glowing lights. Hân Hân sits on a concrete embankment beside Nhật Minh, wearing an orange polo shirt, and gently raises her smartphone displaying an illuminated map toward the viewer, speaking with natural lip movement. Nhật Minh turns his head slightly to watch her gesture. In the background, calm water ripples softly beneath the shimmering urban reflections, and a gentle evening breeze stirs nearby foliage."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B14-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the library scene. Hân Hân gently gestures toward an open textbook on the wooden table, her head turning slightly as she speaks with natural lip movement. Beside her, Nhật Minh smiles brightly, nodding enthusiastically and using expressive hand gestures to introduce the video's content. Soft dust motes drift lazily in warm sunlight filtering through the background windows, while the ambient leaves outside sway gently in the breeze."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "In a 2D animated historical hall, Emperor Kublai Khan turns his head slightly and gestures toward a large southern map on the table, while surrounding Mongol generals lean in to observe. Outside the grand courtyard, armed soldiers march rhythmically toward wooden war-galleys docked on gentle, flowing water under drifting smoke. The camera executes a slow, steady push-in toward the emperor and the map."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the historic riverbank scene. On the gently rocking royal dragon boat, King Tran and feudal lords gesture naturally as they converse. On the shore, young Tran Quốc Toản stands gripping an orange, his hand visibly tightening until the fruit crushes, while his tear-filled eyes burn with fierce determination. In the background, the river water flows steadily, banners flutter softly in the wind, and distant trees sway gently."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot focuses on young hero Trần Quốc Toản standing firmly at the prow of a wooden warship, his light armor shifting slightly as he raises a large red banner with six embroidered characters that flutters vigorously in the strong river wind. In the background, numerous family retainers and loyal servants on the deck move with determined energy, hoisting weapons and busily working to secure the boats against the flowing current under bright daylight."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the grand hall. The wise elders with white hair and traditional black turbans nod thoughtfully and murmur in agreement with natural lip movements. In the center, Hân Hân stands among them, listening intently with a respectful expression, subtly turning her head to observe the assembly. The king stands firmly on the elevated platform, gesturing gracefully with one hand as he addresses the crowd. Banners and flags flutter gently in the background breeze."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "In a medium slow push-in, Hân Hân and Nhật Minh stand among the crowd in the courtyard of Diên Hồng Palace, wearing orange FPT school uniforms. Hân Hân looks deeply moved, speaking with natural lip movement and slight hand gestures. Around them, the elderly Vietnamese village elders concurrently raise their hands in unison, shouting with passionate facial expressions. Banners ripple gently in a soft breeze, and subtle dust motes drift through the warm sunlight."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on the solemn throne room. King Tran gently hands an ornate royal seal and sword to General Tran Quoc Tuan, who kneels respectfully in his red robe and armor, his long beard swaying slightly. In the background, soft light flickers across a wooden desk holding an unrolled scroll with visible calligraphy. Dust motes drift lazily through sunbeams filtering in, while subtle fabric folds shift naturally with their slow, dignified movements."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In a steady medium shot, Hân Hân and Nhật Minh stand side-by-side in orange polo shirts, gesturing naturally and speaking with subtle lip movement. In the mid-ground, Trần dynasty warriors roll up their sleeves to reveal freshly tattooed Chinese characters on their forearms. In the distant background of Đông Bộ Đầu field, rows of soldiers march in military drills beneath a vast sky filled with countless waving red flags. The camera slowly pushes in on the students."
+  },
+  {
+   "so": 22,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera moves toward Nhat Minh and Han Han standing in the school library. Nhat Minh, wearing an orange polo shirt, turns his head slightly toward the camera, smiles, and raises his hand in a welcoming gesture to invite comments, with natural mouth movements as if speaking. In the background, soft light filters through tall windows, and dust motes drift gently in the air while Han Han stands beside him listening attentively."
+  }
+ ]
+}

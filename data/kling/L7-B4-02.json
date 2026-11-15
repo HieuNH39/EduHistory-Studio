@@ -1,0 +1,90 @@
+{
+ "ma": "L7-B4-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera shot captures Nhật Minh and Hân Hân sitting in a small rowboat on a calm, glass-like lake. Hân Hân sits in the bow, her arms resting on her lap, gently turning her head to speak with natural lip movement and a soft smile. Nhật Minh sits in the stern, rhythmically pulling the wooden oars to glide forward. In the background, willow tree branches sway softly in the gentle morning breeze under warm sunlight."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Emperor Tang Taizong seated on his ornate throne within a grand imperial hall, his head turning slightly as he speaks with subtle, natural lip movement. Flanked by civil and military officials standing in orderly rows on either side, the emperor gently gestures with one hand. In the background, red pillars and curved tile roofs remain steady while soft incense smoke drifts gently through the air."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures a bustling Tang-era examination courtyard. In the foreground, Hân Hân stands with gentle upper-body movements and natural lip motion as she speaks. In the background, numerous scholars in traditional robes sit diligently writing inside small partitioned cubicles, with one scholar periodically lifting his head to think. An examiner in official attire slowly paces down the aisle between the cubicles, inspecting the work. Above the brick gate, banners and colorful flags flutter briskly in the breeze."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Emperor Taizong stands by the ornate palace railing, gently turning his head to look down at the bustling river with moving boats below. He speaks with natural lip movement while gesturing slightly with one hand to the officials standing attentively behind him. The officials nod respectfully in response. In the background, river water flows steadily and distant sails drift smoothly. A slow push-in camera movement captures the serene historical scene."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A Tang dynasty official stands by a lush green rice field, gesturing authoritatively with his hand to divide abandoned plots among local farmers. Nearby, several Vietnamese peasant families react with joyful expressions, lifting their hoes and gently guiding water buffaloes that flick their tails. The camera slowly pushes in on the central interaction. Soft sunlight filters through swaying trees in the background, creating a gentle breeze that ripples the tall grass and the villagers' traditional garments."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures a Tang dynasty farmer dressed in rustic traditional robes gently sorting ripe golden rice grains in his hands, examining them closely. In the background, a vast field of golden rice ripples softly in a gentle breeze, with distant farm workers busily harvesting. The farmer nods thoughtfully with subtle mouth movements as if explaining the selection process, maintaining the warm, illustrated style of the historical animation."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân in orange FPT school uniforms walking leisurely along a dusty ancient Tang dynasty village road. Hân Hân gestures forward with an animated smile while speaking naturally with subtle lip movements. Nhật Minh turns his head to listen, nodding gently. In the background, cattle graze peacefully through open gates, and distant travelers stroll unhurriedly. Dust motes drift lazily in the warm sunlight, and soft green leaves sway in a gentle breeze."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân stands in the foreground in an orange polo shirt, turning her head slightly and speaking with natural lip movement. In the bustling background, sparks fly intensely from the blazing iron-smelting furnace as molten metal glows red. Nearby by the river, dozens of busy craftsmen actively saw timber, hammer nails, and fit wooden planks onto large hull frames. The camera performs a slow push-in toward Hân Hân while gentle wind ripples the river surface behind her."
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts walking through the bustling Chang'an market. Nhật Minh turns his head to observe the surroundings while gesturing naturally with his hand. Hân Hân walks beside him, gently nodding and speaking with subtle lip movement. In the background, multicultural merchants barter and trade in front of lively silk and pottery shops, while colorful silk banners sway gently in the breeze."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A line of camels laden with silk bales steadily treks across the desert dunes under a warm sunset glow. The lead merchant, wrapped in a headscarf, gestures forward while walking. In the background, the distant city gates stand tall against the fading light. Gentle wind ripples the sand and flutters the merchant's robes. The camera executes a slow, cinematic pan from right to left, following the caravan's journey toward the horizon."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow wide shot pans right across a vast grassland as Tang dynasty troops in dark armor march in disciplined ranks into the distance. Plain blank banners flutter gently in the steady wind. Horses move steadily, kicking up faint dust motes that drift in the sunlight. In the foreground corner, Hân Hân and Nhật Minh in orange polo shirts stand observing, their heads turning slightly to follow the army's movement while they speak with natural, subtle lip motion."
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot of a Tang Dynasty poet in flowing robes gently moving his brush across paper under bright moonlight on a temple porch. In the background, monks rhythmically press wooden blocks to print Buddhist scriptures. Soft lantern light flickers in the gentle breeze, while bamboo leaves sway softly in the upper corner."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân on a small wooden boat on a serene lake. Nhật Minh stops rowing, resting the oars as gentle ripples spread across the water's surface. Hân Hân turns her head slightly toward him, smiling warmly and gesturing with natural hand movements as she speaks with subtle lip motion. A light breeze gently rustles their orange polo shirts and hair, while the background water glimmers softly under the sunlight."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân sitting in a small wooden boat on gentle rippling water. Hân Hân smiles warmly, turning her head slightly toward the viewer as she raises her hand in a welcoming gesture, her lips moving naturally as if speaking. Nhật Minh sits beside her, nodding gently and looking forward with a friendly expression. Soft sunlight glints on the water surface around the boat, and gentle green foliage sways in the background."
+  }
+ ]
+}

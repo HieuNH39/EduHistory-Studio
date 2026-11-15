@@ -1,0 +1,24 @@
+{
+ "ma": "L9-B11-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Nhật Minh and Hân Hân in their FPT orange polo shirts standing before the classroom European map. Hân Hân gestures naturally toward the map with her hand while speaking with subtle lip movement. Nhật Minh turns his head slightly toward her, nodding in agreement, and gently shifts a small euro coin on the desk. Warm morning sunlight streams through the window, making dust motes dance in the air as the tiny blue EU flag flutters softly in a gentle breeze."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the classroom. Hân Hân gently holds up a euro coin, smiling as she turns her head slightly to speak with natural lip movement. Beside her, Nhật Minh points his hand toward a large map of Europe on the wall, nodding and gesturing to explain. In the background, soft light filters through the window while dust motes drift gently in the air, creating a calm, engaging educational atmosphere."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing beside a large classroom map of Europe. Nhật Minh turns his head slightly toward the viewer, raises his hand with an inviting gesture to speak while his lips move naturally in dialogue, and Hân Hân smiles gently, turning her gaze toward him. Soft ambient light illuminates the scene, and dust motes drift peacefully in the background air."
+  }
+ ]
+}

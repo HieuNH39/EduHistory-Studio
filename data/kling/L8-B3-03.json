@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B3-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on the museum interior. Hân Hân, wearing an orange polo shirt, turns her head slightly toward Nhật Minh, smiling and gesturing naturally with her hand toward the vintage steam locomotive as she speaks with subtle lip movement. Nhật Minh stands beside her, nodding in agreement and looking up at the towering black engine with its bright red wheels. In the soft-focused background, museum visitors move gently, lifting phones to take photographs."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the 18th-century English textile workshop. Edmund Cartwright, wearing a dark coat and tied silver wig, stands proudly beside his operating wooden and iron power loom, gesturing toward the machinery while speaking with natural mouth movements. The mechanical shuttle darts rapidly back and forth, and finished fabric rolls out smoothly. In the background, workers look on in awe, whispering among themselves with subtle expressions of wonder."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures George Stephenson, wearing a brown coat with rolled-up sleeves, standing proudly beside his early 19th-century steam locomotive on a short track. He rests one hand gently on the engine's metallic boiler, which puffs steady bursts of white steam into the air. In the background, factory workers cheer enthusiastically, waving their arms with joyful expressions. The warm workshop atmosphere shimmers with drifting smoke, while gears and mechanical parts subtly shift in the background."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures the vibrant scene. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, enthusiastically wave their hands with natural arm gestures. Beside them, 19th-century onlookers in traditional attire cheer and turn their heads. A classic steam locomotive moves slowly from left to right along the tracks, pulling wooden passenger cars while thick white smoke drifts upward into the sky. Leaves sway lightly in the background breeze under soft daylight."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, sweeping camera pan reveals a bustling 19th-century British industrial city. Thick, dark smoke billows steadily from dozens of towering brick factory chimneys into the hazy sky. In the foreground, a vintage steam train with billowing white vapor chugs smoothly across a grand stone viaduct from left to right. Below, the river's water flows gently, and in the busy harbor, cargo ships bob softly on the waves."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures two 15-year-old students in orange polo shirts standing beside a vintage steam locomotive inside a museum. Nhật Minh stands still, smiling faintly while looking forward. Hân Hân turns her head slightly toward the camera, raises her hand in a welcoming gesture to invite attention, and speaks with natural, subtle lip movement. In the background, soft ambient museum lighting glints off the metallic engine parts while dust motes gently drift through the air."
+  }
+ ]
+}

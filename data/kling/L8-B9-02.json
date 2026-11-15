@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B9-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh in the pottery workshop. Hân Hân, with clay-stained hands, smiles and gestures toward a spinning pottery wheel with natural lip movement as she speaks. Beside her, Nhật Minh turns his head, nods in agreement, and gently touches a finished blue-and-white ceramic vase. In the background, visitors shape clay at wooden tables, soft dust motes drift in sunbeams, and warm smoke gently rises from a traditional brick kiln."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow tracking shot moves past bustling 17th-century craft workshops. In the foreground, a potter spins a clay vase on a wheel with gentle hand movements, while a blacksmith rhythmically swings a heavy hammer beside glowing orange forge fire. Nearby, a woman expertly operates a wooden loom, and another person arranges sheets of *dó* paper on bamboo drying racks. In the background, children happily chase each other between the open workshops as soft smoke drifts upward."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow forward tracking shot captures modern students Nhat Minh and Han Han in orange polo shirts walking through the bustling 17th-century Pho Hien trading street. Nhat Minh turns his head to gesture naturally toward the market while speaking with subtle lip movement. Han Han walks beside him, looking around with a gentle smile and nodding. In the background, foreign and local merchants trade goods, silk fabrics flutter in the soft breeze, and river water ripples gently against moored wooden merchant boats."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow panning shot moves across the bustling 17th-century Faifo river port. Merchants from Japan, China, and Europe in diverse traditional attire gesture animatedly while trading colorful silk rolls and timber along the busy docks. In the background, wooden trading ships gently bob on rippling river water. Further away, the covered wooden bridge stands peacefully as soft sunlight filters through light smoke drifting from nearby tiled rooftops."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pans right across a quiet 18th-century Vietnamese harbor. Hân Hân, a 15-year-old student in an orange polo shirt, stands in the foreground, turning her head slightly and speaking with natural lip movement while gesturing gently toward the desolate port. In the background, idle old wooden boats bob slightly on calm, rippling water. Dry leaves drift slowly downward through the still air, landing on the deserted, closed-up riverside street."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han standing inside the pottery workshop. Nhat Minh holds up the newly shaped ceramic vase, turns his head slightly toward the camera, and speaks with natural lip movement while gesturing invitingly with his free hand. Han Han stands beside him, smiling gently and nodding in agreement. Sunlight filters through the open workshop windows, softly illuminating dust motes drifting in the warm air."
+  }
+ ]
+}

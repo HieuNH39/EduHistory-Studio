@@ -1,0 +1,30 @@
+{
+ "ma": "L7-CD2-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh sitting together on a long wooden bench in the schoolyard. Hân Hân gently taps her fingers rhythmically against the wooden seat while turning her head slightly to speak, her mouth moving naturally in conversation. Beside her, Nhật Minh blinks in surprise, his head turning in a slow, bewildered double-take. In the background, green leaves sway softly in the gentle breeze under bright daylight."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures a bustling medieval European fair. In the foreground, the seated merchant gestures politely while speaking with natural lip movement, counting coins on the wooden table. Beside him, Nhật Minh and Hân Hân in orange polo shirts stand observing, turning their heads slightly and nodding as they converse. In the background, townsfolk mill about between colorful market stalls, while banners flutter gently in a soft breeze under warm sunlight."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow pan from left to right across the vertical frame. In the foreground, Hân Hân stands in her orange polo shirt, gently turning her head to speak with natural lip movement and gesturing toward the trade caravan. The merchant carts slowly move forward, passing through the feudal estate gates. Nearby, farmers unload agricultural goods for exchange. In the distant background, gentle ripples move across the harbor water as trading boats bob softly."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on the two students. Hân Hân and Nhật Minh stand up together from the wooden bench against a soft, sunlit schoolyard backdrop. They turn their heads to face the viewer with gentle, welcoming smiles. Nhật Minh naturally raises his right hand with a thumbs-up gesture while speaking with subtle, realistic lip movement. Hân Hân stands beside him with hands clasped politely, nodding lightly. Background leaves sway softly in a gentle breeze."
+  }
+ ]
+}

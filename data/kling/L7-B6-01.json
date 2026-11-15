@@ -1,0 +1,36 @@
+{
+ "ma": "L7-B6-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh in their orange polo shirts standing in front of the map. Hân Hân gently turns her head toward Nhật Minh while speaking with natural lip movement, pointing the ruler at the Indochina peninsula. Nhật Minh listens attentively, his right hand moving to place a colorful pin onto the map. In the background, ceiling fans rotate slowly, and soft light shifts slightly across the classroom."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, majestic pan right across the ancient city of Bagan at sunrise, revealing hundreds of red brick temples and pagodas scattered across the vast Ayeyarwady river plain. Gentle morning mist drifts slowly between the temple spires and over the misty river water. In the golden light, a few distant hot air balloons rise slowly into the hazy sky, while soft river ripples shimmer under the early morning sun, maintaining the peaceful 2D animated illustration style."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A fleet of Mongol war junks and armored cavalry slowly advance across the background. In the foreground, Southeast Asian tribal leaders wearing traditional regional attire gather in a tight circle around a crackling campfire, gesturing animatedly and discussing strategic alliance. Smoke drifts lazily upward from the flames into the night air while distant banners flutter in the wind. The camera executes a slow, steady push-in toward the leaders by the fire."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow forward push-in captures 15-year-old students Nhật Minh and Hân Hân in orange polo shirts walking steadily along a 14th-century Sukhothai brick pathway. Hân Hân gently turns her head, smiling and speaking with natural lip movement while gesturing toward the ancient stone temples and large Buddha statues. In the background, orange-robed monks walk in single-file alms collection. Gentle ripples disturb the reflective pond water, and lush tropical leaves sway softly in a light breeze."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Slow push-in camera. In a bright classroom, Nhật Minh stands before a large Southeast Asia map dotted with colorful pins, wearing an orange polo shirt. He turns his head slightly to face the viewer with a welcoming expression, raises one hand in a polite gesturing motion to invite commentary, and speaks naturally with subtle lip movements. In the background, soft classroom light filters through, and stray papers gently flutter from a light breeze."
+  }
+ ]
+}

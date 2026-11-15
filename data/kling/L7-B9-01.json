@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B9-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh standing in front of the mossy gate of Cổ Loa. Hân Hân gently turns her head toward Nhật Minh, speaking with natural lip movement while gesturing with one hand to the ancient gate. Nhật Minh nods softly, smiling, and looks forward. In the background, sunlight filters through the large ancient tree, its leaves swaying gently in the breeze, while dust motes drift softly in the air."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Ngô Quyền in traditional red robes and helmet standing center in Cổ Loa citadel courtyard, gesturing firmly with both hands as he speaks with natural lip movement. Generals and officials in period attire stand attentively around him, subtle head nods and slight body shifts showing engagement. In the background, red flags flutter briskly against the earthen ramparts atop the citadel walls under a bright sky."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Ngo Quyen seated majestically on a simple wooden throne inside a rustic wooden palace, turning his head slightly to address the court. Civil officials standing on the left gently adjust their posture and nod in agreement, while military officials on the right stand at attention with steady gazes. Soft ambient light filters through the open palace structure, gently swaying the silk banners in the background and creating subtle reflections on the polished wooden floor."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Ngô Quyền at the center, solemnly handing an ornate golden sword to three kneeling generals before him, their heads respectfully bowed. Ngô Quyền’s hands gesture deliberately as he bestows the weapon with natural upper-body movement. Behind them, the vintage hand-drawn map of the provinces flutters slightly in a gentle breeze. Soft cinematic lighting shifts across the historic chamber, while dust motes drift slowly in the warm air."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts walking forward along a sunlit dirt path through a peaceful Ngô-era village. Hân Hân smiles and gestures gracefully toward the scenery, while Nhật Minh turns his head naturally to look around, his lips moving as if speaking. In the background, golden rice paddies gently sway in the breeze, children run and fly paper kites in the blue sky, and villagers happily dance and play bronze drums."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Historian Ngô Sỹ Liên sits at his wooden desk, slowly dipping a brush in ink and writing on parchment with subtle head nods, while the candle flame flickers and casts gentle dancing light across the room. Next to him, fifteen-year-old Nhật Minh in an orange polo shirt stands attentively, turning his head slightly to observe the writing process with a thoughtful expression. The camera performs a slow, subtle push-in toward the historian's desk."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on the two student narrators standing before the Cổ Loa historic site gate. Nhat Minh turns his head toward the camera, speaks naturally with subtle lip movement, and gestures warmly with one hand invitingly toward the viewer. Han Han stands beside him, smiling gently with soft blinking and natural posture. In the background, leafy trees gently sway in the breeze under bright daylight."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B16-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhat Minh and Han Han standing at the Hai Van Pass viewpoint. Their hair and orange polo shirt collars gently flutter in the strong mountain wind. Han Han turns her head slightly toward Nhat Minh, speaking with natural lip movement while gesturing toward the scenery below. Nhat Minh nods, smiling, and points out toward the winding coastal road. In the background, white clouds drift slowly and blue ocean waves ripple gently."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures the tense Lam Mountain base. In the foreground, two 15-year-old students in orange polo shirts stand on a rocky cliff, looking down with anxious expressions; Hân Hân subtly turns her head while speaking with natural lip movement, and Nhật Minh gazes grimly into the distance. In the valley below, numerous enemy flags flutter violently in the harsh wind, while wisps of gray smoke drift upward from hidden camps among the dense, swaying forest trees."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the command tent, General Nguyễn Chích points his finger decisively at the hand-drawn map of Nghệ An, his arm moving with deliberate emphasis. Lê Lợi and the surrounding commanders nod slowly, listening intently with slight head turns and natural expressions of focused concentration. Gentle drafts make the canvas tent walls ripple softly and flicker the candlelight, casting shifting shadows across the group. The camera executes a slow, steady push-in toward the map."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera focuses on the illustrated commander Nguyễn Chích standing firmly on a grassy hilltop, his gaze directed forward with a determined expression, his traditional armor and cape gently fluttering in the wind. Behind him, rows of rebel soldiers raise their banners high, the fabric waving dynamically against the sky. Dust motes drift in the warm sunlight, and distant foliage sways softly in the breeze, creating a solemn and patriotic historical atmosphere."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the Lam Son insurgent army marching across the verdant Nghe An plain. Villagers eagerly step forward, offering bamboo baskets of food and water to the soldiers. Joyful children run alongside the disciplined columns, waving their hands enthusiastically. In the background, a large red insurgent flag flutters atop a captured wooden garrison tower while gentle smoke drifts upward into the sky."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on Nhật Minh and Hân Hân in orange FPT school uniforms standing on a mountain pass. Nhật Minh gently turns his head toward Hân Hân and speaks with natural lip movement while gesturing toward the horizon. Hân Hân nods softly and points down at the coast. Below them, a vast column of Lam Sơn rebel soldiers in traditional armor marches along the winding coastal road, carrying red flags that flutter rhythmically in the ocean breeze."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot of Nhật Minh and Hân Hân standing at the Hải Vân Pass scenic viewpoint against a backdrop of distant mountains and ocean under a breezy sky. Nhật Minh, wearing an orange polo shirt, turns his head slightly toward the camera, smiles, and raises his hand in a welcoming gesture inviting commentary, with natural mouth movements as if speaking. Hân Hân stands beside him with a gentle smile. Soft mountain breeze sways their hair and nearby foliage."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B17-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Slow push-in on the pottery workshop. Hân Hân gently molds wet clay on the spinning wheel, smiling and turning her head slightly to speak with natural lip movement. Standing beside her, Nhật Minh gestures with open hands toward the rows of blue-and-white ceramic vases, nodding as he talks. In the warm background, orange flames flicker steadily inside the brick kiln, and fine dust motes drift lazily through beams of soft sunlight."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on the mandarin official in traditional royal robes standing on the earthen dyke, gesturing gracefully toward the fields while his mouth moves naturally in speech. Below, farmers in conical hats actively guide oxen pulling wooden plows through the muddy paddies. In the background, small groups of settlers raise wooden fence posts to establish a new frontier plantation. A gentle breeze ripples the tall wild grass along the riverbank under a bright daylight sky."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in shot captures the village courtyard where a mandarin and village elders unroll a document, gesturing toward it with subtle nods and natural head turns as they distribute communal land. In the background field, villagers actively shovel earth to build a dyke while others clear an irrigation canal with rhythmic movements. Gentle breezes sway nearby foliage and ripple the water in the canal under soft, warm lighting."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts standing by a golden ripe rice field from the early Lê dynasty. In the background, farmers wearing conical hats rhythmically harvest rice and sway as if singing, while a water buffalo slowly chews cud near a straw stack. Golden stalks ripple gently in the breeze, and dust motes drift in the warm sunlight. Nhật Minh turns his head to smile and gestures gracefully toward the fields, while Hân Hân nods with natural lip movement as she speaks."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in captures a bustling Lê Dynasty pottery workshop. In the foreground, a skilled artisan steadily brushes blue floral patterns onto a ceramic vase with subtle hand movements. Beside him, a foreign merchant in a long robe and wide hat turns his head, inspecting a sample while holding a parchment order document. In the background, thick white smoke billows steadily from the traditional brick kiln, and soft dust motes drift gently through the warm air."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A large 15th-century merchant ship sails forward on choppy turquoise water, its white canvas sails billowing against a darkening sky as distant storm clouds roll in. Inside the wooden cargo hold, rows of blue-and-white glazed ceramic jars packed securely in straw sway gently with the rolling vessel. The camera executes a slow, dramatic push-in toward the stern, capturing the splashing white foam, creaking rigging, and a subtle gust of wind rippling across the open sea."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow horizontal pan reveals the bustling 15th-century Vân Đồn trading port. In the foreground, two teenage students in modern orange polo shirts observe the scene; the male student gestures with his hand while the female student speaks with natural lip movement. In the mid-ground, merchants load silk bales and ceramic jars onto wooden junks rocking gently on rippling blue water. In the background, flags flutter atop bustling shore market stalls as small figures move busily about."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the Le dynasty hall, the official gracefully opens a thick law book, reading aloud with natural head nods and subtle lip movements. The woman and her daughter stand attentively listening, their expressions shifting to gentle relief with soft smiles and slight body relaxations. Dust motes drift lazily in warm shafts of sunlight filtering through paper-screen windows. The camera executes a slow, steady push-in toward the group, maintaining the 2D animated style throughout."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân inside the Bát Tràng pottery workshop, wearing orange polo shirts. Nhật Minh gently turns his head toward Hân Hân with a warm smile. Hân Hân holds a newly fired blue-and-white ceramic vase, raises her free hand in a welcoming gesture to invite comments, and speaks naturally with lip movement. In the background, soft dust motes drift lazily through the warm sunlight filtering into the rustic kiln room."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B5-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh standing on the stone pathway in front of Akbar's Tomb. Hân Hân turns her head slightly toward Nhật Minh, smiling and gesturing naturally with her hand as she speaks with subtle lip movement. Nhật Minh nods, listening attentively, then points forward toward the red sandstone gate. In the background, lush green lawns sway slightly in a gentle afternoon breeze under warm sunlight."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan reveals the grand Delhi city gate as a majestic column of Mughal cavalry and war elephants with fluttering banners marches forward. Along both sides of the dusty road, crowds of townspeople stand and watch, subtly shifting their weight and turning their heads. In the mid-ground, a war elephant slowly swings its trunk, and silk flags ripple gently in the breeze under warm sunlight."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Emperor Akbar seated majestically on his ornate throne in a grand hall, gently turning his head to listen as courtiers of diverse ethnicities bow respectfully. In the foreground, student narrators Hân Hân and Nhật Minh in orange polo shirts stand naturally, gesturing slightly with open hands as they speak with subtle lip movements. Torches flicker along the majestic stone pillars, casting warm, dancing light across the vibrant royal court."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on a detailed historical council scene. In the center, A-cơ-ba gestures broadly over a large parchment map spread across a rustic wooden table, his finger tracing regional borders. Nearby, the king solemnly hands golden imperial seals to bowing mandarins who accept them with respectful nods. To the side, a senior magistrate unrolls a new legal scroll, his lips moving naturally as he reads aloud. Soft ambient light illuminates drifting dust motes."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Vietnamese officials in historical attire measuring fertile fields with ropes and recording data in ledger books. In the background, lush indigo, sugarcane, and green pepper fields sway gently in a soft breeze. Sunlight filters through light clouds, casting a warm glow over the landscape as dust motes drift peacefully in the air."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow, steady push-in captures Nhật Minh and Hân Hân in orange polo shirts walking forward through the bustling Mughal port city. Hân Hân gently turns her head, smiling and speaking with natural lip movement while gesturing toward a weaver working at a wooden loom. Nhật Minh nods in agreement, looking at the artisan. In the background, deep indigo dyed fabrics sway softly in the gentle breeze, sugar cane merchants unpack their goods, and leaves drift slowly down."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes into the lush Mughal palace garden. Emperor Akbar sits regally on a cushioned terrace, nodding appreciatively. Nearby, diverse artists gently stroke their paintbrushes across canvases, musicians strum traditional stringed instruments with subtle hand movements, and poets gesture gracefully as they recite. In the background, commoners at the garden gate smile and converse with natural head turns. Gentle breezes ripple through the vibrant foliage and flutter colorful silk banners overhead."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the Mughal palace at dusk, officials gesture and argue heatedly with subtle head turns and natural lip movement. In the background, through the grand archway, symbolic Western sailing ships drift slowly across the calm, sunlit sea. A gentle breeze sways the hanging tapestries inside the hall. The camera executes a slow, steady push-in toward the debating officials, maintaining the warm, illustrated cinematic lighting throughout the ten-second shot."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures fifteen-year-old students Nhật Minh and Hân Hân standing before the glowing red sandstone gateway of Akbar’s Tomb during a warm sunset, with soft orange light catching their orange polo shirts. Hân Hân smiles warmly while gesturing outward with one hand invitingly toward the viewer, her lips moving naturally in speech. Nhật Minh stands beside her, turning his head slightly with a gentle, welcoming smile as golden dust motes drift softly in the air."
+  }
+ ]
+}

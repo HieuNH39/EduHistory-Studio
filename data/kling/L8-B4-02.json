@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B4-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân standing in front of the giant wooden ship museum under bright sunlight. Hân Hân turns her head to smile and gestures toward the building, her lips moving naturally in speech. Nhật Minh nods, listening attentively, then points forward. In the background, tourists slowly shuffle along the queuing line, leaves drift gently in the breeze, and sunlight glints off the museum's weathered wooden hull."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the bustling tropical harbor. In the foreground, 15-year-old Nhật Minh in an orange polo shirt turns his head slightly and gestures naturally with his right hand as he speaks with subtle lip movement. In the midground, European sailing ships gently bob on rippling blue water, while local wooden boats bustle around them. On the busy dock, merchants move sacks of spices, and in the background, lush green jungle foliage sways softly in the warm breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The European officials in white colonial uniforms lean intently over the large wooden table, slowly tracing boundary lines across the map with pens. One official gestures toward the paper while speaking naturally with subtle mouth movements. Outside the tall window, local villagers carrying bamboo shoulder poles walk steadily past. Sunlight filters softly through the glass, dust motes drift in the air, and the camera executes a very slow push-in toward the map."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân standing side-by-side in orange polo shirts before the ship-shaped museum at sunset. The warm evening wind gently flutters their hair and shirt collars, and clouds slowly drift across the glowing orange sky. Hân Hân turns her head slightly toward the camera with a welcoming smile, raising her hand in a natural gesture to invite viewers, while her lips move naturally as if speaking. Nhật Minh stands calmly beside her, blinking softly and gazing forward."
+  }
+ ]
+}

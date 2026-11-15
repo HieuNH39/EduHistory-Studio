@@ -1,0 +1,48 @@
+{
+ "ma": "L8-B1-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera frames two 15-year-old students in orange polo shirts inside a modern FPT classroom. In the background, the large digital screen displays an old manuscript with a visible title. Hân Hân gently turns her head toward Nhật Minh while speaking with natural lip movement and gesturing slightly with one hand. Nhật Minh nods attentively, smiling, and looks back at the screen. The classroom ambient light shifts softly, and faint dust motes drift in the air."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures colonial militiamen in civilian clothes and tricorn hats crouching behind a rustic wooden fence in a North American field, nervously reloading their muskets with subtle hand movements. In the distance, a neat formation of British redcoats steadily marches forward through wisps of drifting mist. Leaves gently rustle on trees, and faint curls of white smoke drift across the open landscape without any visible violence or casualties."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures the 18th-century red-brick hall. Colonial delegates in long coats and powdered wigs stand around a green-clothed table, naturally gesturing and leaning in to take turns signing a large parchment document with quills. In the background, soft dust motes drift through warm sunlight filtering through tall windows, while outside, tree leaves sway gently in the breeze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A wide, cinematic shot of a red-leafed North American autumn forest as gentle wind drifts amber leaves through the air. Colonial soldiers cheer and energetically raise a flag that flutters briskly. Across the clearing, British redcoat soldiers slowly lower their muskets in defeat. Nhật Minh stands visibly in the foreground, speaking with natural lip movement and gesturing enthusiastically toward the scene. The camera executes a slow push-in toward the central celebration."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Gentle push-in camera movement. On a grassy hill, Nhật Minh and Hân Hân stand in their orange polo uniforms, looking out over the valley. Nhật Minh slowly turns his head toward Hân Hân and gestures with a natural arm movement while speaking with subtle lip motion. Hân Hân nods softly, her hair swaying gently in the breeze. In the background field, the rows of British soldiers lower their muskets to the ground, flags wave softly in the clear autumn wind, and distant clouds drift across the blue sky."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures an 18th-century Parisian boardroom with velvet-clad diplomats seated around a wooden table. In the soft glow of flickering candlelight, one diplomat gently dips a quill and signs a parchment document, while another subtly nods and gestures with an open hand. In the background, heavy velvet curtains sway slightly in a gentle breeze, and the warm candle flames dance, casting soft, shifting shadows across the richly panelled walls."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on two 15-year-old students in orange polo shirts inside a classroom. Hân Hân points upward toward a vintage screen displaying old text, then turns her head to look forward with a gentle smile. Nhật Minh raises his hand outward in a welcoming gesture inviting commentary, his mouth moving naturally as he speaks, before turning his gaze toward the viewer with a warm, inviting expression. Sunlight softly shifts across the classroom background."
+  }
+ ]
+}

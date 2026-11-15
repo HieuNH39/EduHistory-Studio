@@ -1,0 +1,78 @@
+{
+ "ma": "L7-B8-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing by the lake during sunrise, with the stone towers reflected on the water's surface. Hân Hân turns her head slightly toward Nhật Minh with natural lip movement as she speaks, gesturing with one hand toward the temples. Nhật Minh nods, raises a camera to his eye, and clicks a photo. In the background, soft ripples gently move across the lake, and distant tourists slowly raise their cameras to take pictures."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Jayavarman II, depicted in traditional Khmer bas-relief style with a pointed crown and gold jewelry, stands majestically on stone steps, slowly raising one hand in a royal gesture of acknowledgment. Before him, kneeling chieftains bow their heads respectfully. In the background, ceremonial parasols sway gently, ornate banners flutter softly in the wind, and a decorated war elephant shifts its weight slightly. The camera executes a slow, reverent push-in toward the king."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Jayavarman VII gently gestures toward the architectural blueprint with a calm expression, his head turning slightly as he speaks with natural lip movements. Surrounding ministers nod attentively, shifting their weight and gesturing softly in respectful agreement. The camera executes a slow, subtle push-in toward the king, while warm ambient light flickers gently across the stone pillars in the background, creating a serene and focused historical atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts standing on a wide dirt path. Nhật Minh gently turns his head to point toward a thatched-roof rest stop while speaking with natural lip movement. Hân Hân nods softly, smiling, and gestures toward villagers quietly queuing near a traditional healing station in the mid-ground. Dust motes drift lazily in the warm sunlight, and distant palm fronds sway gently in a soft breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow panning camera reveals thousands of Khmer villagers in traditional laborers' garments diligently digging and shaping a massive rectangular reservoir and straight irrigation canals. Men with woven baskets heave dirt uphill, while women use wooden shovels to carve earthen banks. In the background, lush green rice paddies sway gently in a soft breeze under a bright sky. Dust rises subtly from the dry soil, and water gradually fills the channels with natural ripples."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han standing together on the earthen dike. Both students in orange polo shirts turn their heads slightly toward each other, gesturing naturally with their hands as they converse with subtle lip movement. Gentle ripples flow across the vast expanse of the Baray reservoir water, and distant lush green rice paddies sway softly under a gentle breeze."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures an expansive dawn over a vast lake, where a fisherman casts a wide net that gracefully ripples through the mist-kissed water. The camera smoothly pans to a sunlit sandstone temple wall, where a master artisan meticulously carves intricate details into an Apsara bas-relief with a small chisel, dust particles gently floating in the warm morning light."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera executes a slow, wide pan across a flat plain inspired by Bayon temple bas-reliefs. The ancient Khmer procession marches steadily from right to left: majestic war elephants sway rhythmically with large ornate canopies bobbing gently above them, and soldiers carry upright spears that glint in the sunlight. In the background, tall tropical grasses ripple in a soft breeze under a calm, dusty sky, evoking a timeless historical atmosphere without any combat."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures an ancient fleet of wooden war galleys smoothly gliding eastward across calm, sunlit river waters, their colorful oars dipping rhythmically. Armed infantrymen in period armor stand watchful along the decks, their garments gently fluttering in the breeze. In the hazy distance under a warm sky, the iconic red brick towers of Champa rise softly above the horizon. Hân Hân stands on the bow of the lead boat, head turning gracefully as she speaks with natural lip movement and gestures toward the horizon."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the bustling Angkor temple complex during its golden age. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, stand and converse naturally with subtle head nods and lip movements, gesturing toward the majestic architecture. In the midground, ancient stone artisans pull thick ropes to hoist massive sandstone blocks into place. Sunlight glints off the towering central spires while gentle tropical breezes sway lush palm leaves in the background."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow tracking shot follows a Khmer procession migrating southward from the Angkor temple silhouettes toward the gloomy Tonle Sap under a dusky, overcast sky. In the foreground, people in traditional tunics walk alongside a massive elephant carrying supplies and creaking oxcarts laden with baggage. The elephant sways its trunk and plods forward. Oxen move steadily, dust rises from their hooves, and wind gently ripples the travelers' garments and distant tree foliage."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing beside a sunlit ancient lake in front of the Angkor temple complex. Hân Hân stands slightly back, smiling softly and gesturing toward the monument. Nhật Minh, wearing an orange polo shirt, turns his head toward the camera with natural lip movement as if speaking, then raises his hand in an inviting gesture. Sunlight glints on the gentle ripples of the water behind them, and lush green leaves sway softly in a light breeze."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B16-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the bright morning courtyard before the majestic Noon Gate of the Hue Imperial Citadel. In the foreground, Nhật Minh and Hân Hân, wearing conical hats and orange polo shirts, turn their heads to look at each other and gesture naturally toward the palace architecture while speaking with subtle lip movement. In the background, tourists stroll leisurely across the paved courtyard, and soft sunlight gently illuminates the ancient structure under a clear blue sky."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the grand coronation scene at the Hue citadel yard. In the foreground, student narrators Nhat Minh and Han Han in orange polo shirts stand quietly among the crowd, gently turning their heads and moving their lips in natural conversation while observing. In the midground, Emperor Gia Long in a golden royal robe sits majestic on his throne, while two rows of civil and military mandarins in traditional court attire bow in unison. Flags wave gently in the breeze."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the Phu Xuan palace, Emperor Minh Mang sits regally on his throne, slowly turning his head to inspect the large map spread before him while gesturing thoughtfully with one hand. Officials in traditional court robes stand attentively on both sides, softly bowing and shifting their weight. One official steps forward, respectfully presenting a bound ledger with both hands. The camera slowly pushes in toward the emperor. Gentle dust motes drift through the warm palace light."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "As the evening sun casts a golden glow over the Noon Gate of the Hue Citadel, Nhật Minh and Hân Hân sit together on the stone steps. Hân Hân gently taps the tablet screen to scroll across the displayed map. Nhật Minh turns his head toward the viewer, raises his hand to point forward with a natural speaking expression and subtle lip movement. The camera slowly pushes in on the two students while distant clouds drift softly across the sky."
+  }
+ ]
+}

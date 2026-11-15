@@ -1,0 +1,78 @@
+{
+ "ma": "L8-B4-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the festive schoolyard. Colorful ASEAN flags and balloons gently sway in the breeze. In the foreground, Nhật Minh and Hân Hân, wearing orange polo shirts, stand side by side; Hân Hân gestures naturally toward the LED screen with a warm smile, while Nhật Minh nods in agreement, turning his head slightly to speak with natural mouth movements. Behind them, the LED screen vividly displays the image of the warrior monument amidst swaying coconut palms."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A gentle slow push-in shot captures a bustling 16th-century Southeast Asian harbor. In the foreground, Hân Hân and Nhật Minh in orange polo shirts stand on the bustling wooden dock, turning their heads and speaking naturally with subtle lip movement while gesturing toward the horizon. Nearby, local merchants load spice sacks onto traditional wooden boats rocking gently on rippling blue water. In the background, majestic European sailing ships glide slowly inward on the calm sea, their white cloth sails billowing in a soft sea breeze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Under an overcast, gloomy sky, thin Southeast Asian farmers slowly queue to hand over sacks of rice at a tax collection station where colonial soldiers stand guard with rifles. In the middle ground, a group of weary peasants carrying hoes depart from their abandoned fields in the distance. The camera executes a slow, steady pan from right to left across the somber landscape, capturing the heavy atmosphere and subtle, weary movements of the crowd."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts crouching behind swaying coconut fronds on a white sand beach. The tropical breeze flutters their hair and leaves. In the background turquoise sea, European sailing ships bob on gentle waves as small rowboats approach the shore. On the sand, indigenous figures with spears and wooden shields gesture and gather anxiously. Nhật Minh turns his head slightly to speak with natural mouth movements, while Hân Hân looks on, gripping a tree trunk."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Lapu-Lapu, a muscular chieftain in traditional native attire, standing firmly on a sandy tropical beach holding a long shield and a raised broadsword. He vigorously gestures forward, shouting battle commands with natural mouth movements, while his loyal native warriors behind him grip their spears and ready their stances. In the distant blue sea, European wooden boats with white sails glide steadily toward the shore under a gentle breeze."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures a group of Filipino villagers in 19th-century attire gathered beneath swaying coconut trees during a golden sunset, holding muskets and swords with determined postures. Their homemade cloth flags ripple steadily in a gentle evening wind. In the background, tropical foliage and palm fronds sway softly, and thin wisps of smoke drift upward into the warm sky. The camera maintains a medium-wide angle, preserving the animated film illustration style without focusing on any single face."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan across the lush Javanese landscape. In the foreground, Indonesian villagers in traditional sarongs and headwraps stand under a banyan tree, holding spears and curved daggers, shifting their weight and turning their heads alertly. In the distance, a Dutch colonial flag flutters gently atop a stone fortress against a breezy sky. Leaves rustle softly in the wind, and soft sunlight shifts naturally across the terraced rice fields."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A gentle slow push-in captures Prince Diponegoro in a white robe and turban, mounted on a horse, slowly turning his head forward and raising his arm in a sweeping command gesture with subtle natural mouth movements. Behind him, a dense line of rebel troops grips wooden spears tightly while colorful flags wave briskly in the steady hillside wind. Dust drifts softly from the horse's hooves against the sunlit hillside."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures British sailing warships and steam gunboats advancing in formation up the river toward the distant golden pagoda. Thick, dark smoke billows continuously from the black smokestacks of the steamships, drifting across the sky. In the foreground, Hân Hân stands on the riverbank in her orange polo shirt, turning her head slightly and speaking with natural lip movement to narrate the historical event. Gentle ripples move across the river's surface as the fleet passes."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Maha Bandula stands firmly on the wooden fortress rampart, slowly lowering his sword forward with a commanding gesture while turning his head slightly to survey the troops. Behind the bamboo fence, Burmese soldiers move restlessly, raising their matchlock rifles and spears into a ready position. Palm fronds and jungle leaves sway gently in a humid breeze as shafts of sunlight filter through drifting wisps of smoke. The camera executes a slow, dramatic push-in toward Bandula."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures the quiet aftermath of battle under a deep red sunset. A 15-year-old girl in an orange polo shirt stands in the foreground, speaking with natural lip movement and a solemn, respectful facial expression while gesturing gently with one hand. In the background, smoke slowly drifts upward, the tattered flag of Myanmar gently flutters and droops against a ruined wooden barricade, and distant soldiers quietly lower their heads in silent reflection."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh standing at a bustling cultural fair as warm lantern light glows around them and background LED screens softly shimmer. Hân Hân smiles and raises her hand in a welcoming gesture toward the viewer, speaking with natural lip movement. Nhật Minh stands beside her, turning his head slightly toward her with a friendly expression. Gentle evening breeze sways the hanging paper lanterns overhead and rustles their orange polo shirts softly."
+  }
+ ]
+}

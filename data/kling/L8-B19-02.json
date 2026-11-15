@@ -1,0 +1,18 @@
+{
+ "ma": "L8-B19-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A gentle slow push-in shot captures Hân Hân and Nhật Minh in orange polo school uniforms standing at a rural dirt crossroads under warm morning sunlight. Hân Hân gently turns her head to smile, gesturing toward the village path while her lips move in natural speech. Nhật Minh nods, raising his hand to point toward the distant sea. In the background, green leaves rustle softly in a light breeze, and dust motes drift lazily in the golden sunlight."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A gentle camera slowly pushes in on Nhật Minh and Hân Hân standing by the wooden crossroads sign in the warm sunset light. Nhật Minh speaks with natural lip movements while smiling and gesturing toward the viewer, his other hand resting on the signpost alongside Hân Hân’s hand. Hân Hân turns her head slightly to look at Nhật Minh with a friendly expression. In the background, evening wind softly rustles the distant village foliage and drifts light dust particles through the golden air."
+  }
+ ]
+}

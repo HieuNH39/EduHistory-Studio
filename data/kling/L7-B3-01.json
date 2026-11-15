@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B3-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a medium shot, Hân Hân and Nhật Minh, wearing orange polo shirts, stand behind a crowded craft booth at a school fair. Hân Hân smiles and gestures animatedly toward the handmade crafts on the wooden table, her mouth moving naturally as if speaking. Nhật Minh nods, hands a small item to a customer, and points at a handwritten price sign. In the background, other students bustle past, and the camera executes a very slow push-in."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside a bustling Western European textile workshop, numerous artisans move purposefully along the production line, pulling fibers, operating looms, and stirring vats of dye with fluid motions. Piles of finished cloth bales rest steadily in the background. Hân Hân and Nhật Minh stand among the workers, turning their heads slightly as they converse with natural lip movements and gentle hand gestures to explain the process. A slow, steady push-in camera captures the lively industrial scene."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures merchants in velvet robes seated around a large wooden table inside the trading office. One merchant dips a quill and signs a document, while another nods and gestures toward an unfurled maritime map hanging on the wall. Outside the window, waves gently ripple in the bustling harbor as sails billow softly on docked tall ships."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on the grand castle banquet hall. At the high table, nobles and clergymen converse and gesture naturally, turning their heads. At the far end of the room, the wealthy merchant in lavish attire sits rigidly with a displeased expression, his chest heaving slightly in frustration as he glances toward the front. In the background, torch flames flicker softly, casting gentle light across the stone walls without altering the 2D animated illustration style."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In a sunlit study, a Vietnamese bourgeois character slowly folds an old book, places it aside, and opens modern volumes on science, art, and mechanics with gentle hand gestures. Warm morning sunlight streams through the wooden window, casting moving light beams across the room. Dust motes drift softly in the air. The camera executes a slow, smooth push-in toward the open books while subtle ambient motion breathes life into the tranquil scholarly interior."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the medieval Italian square. In the foreground, Nhật Minh and Hân Hân stand in their orange FPT uniforms, turning their heads with smiles and gesturing naturally as they converse with subtle lip movement. In the background, a painter strokes a canvas, a sculptor chips at a marble statue, and a scholar slowly turns a page. Sunlight shifts gently across the historic buildings while a soft breeze flutters distant banners and stray leaves."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures fifteen-year-old students Nhật Minh and Hân Hân standing inside their startup fair booth. Both wear orange polo shirts. Nhật Minh turns his head slightly toward Hân Hân with a friendly smile. Hân Hân looks directly at the camera, smiling warmly as she raises one hand in a welcoming gesture to invite comments, her lips moving naturally as if speaking. In the softly lit background, colorful exhibition banners flutter gently in a light breeze."
+  }
+ ]
+}

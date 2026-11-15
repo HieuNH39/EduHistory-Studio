@@ -41,6 +41,39 @@ TT_CHU = {"co-video": "Đã có video", "co-kich-ban": "Video đang dựng, đã
 MA_TAP = re.compile(r"^L[6-9]-(?:B|CD)\d+-\d+$")
 TZ = datetime.timezone(datetime.timedelta(hours=7))
 e = lambda s: html.escape(str(s), quote=True)
+_GACH = ("–", "-", "—")
+def _hoa(w):
+    w = w.lstrip('("“‘«')
+    return bool(w) and w[0].isupper()
+def _so(w):
+    return bool(re.match(r"^\(?\d|^[IVXLCDM]+[,.:;?!)”]*$", w))
+def ten_nbsp(s):
+    """Tên tập không bị ngắt dòng vô duyên: giữ trọn cụm tên riêng (Rạch Gầm – Xoài Mút, C. Mác, Đại Việt)
+    và số đi liền chữ trước nó (năm 1285, thế kỉ XVIII) bằng dấu cách không ngắt (U+00A0)."""
+    t = str(s).split(" ")
+    out = t[0]
+    for i in range(1, len(t)):
+        p, c = t[i - 1], t[i]
+        noi = False
+        if p in _GACH:
+            noi = False                                           # sau gạch có dấu cách: chỗ ngắt dự phòng khi quá hẹp
+        elif re.match(r"^[A-ZĐ][a-z]?\.$", p):                    # chữ viết tắt tên người: C. Mác, Ph. Ăng-ghen
+            noi = True
+        elif _hoa(p) and not re.search(r"[:;.?!,]$", p) and (_hoa(c) or _so(c)):
+            noi = True                                            # Rạch Gầm, Bạch Đằng 1288
+        elif c in _GACH and _hoa(p):
+            noi = True                                            # Gầm –
+        elif _so(c) and len(c) > 0 and not re.search(r"[:;.?!,]$", p):
+            noi = True                                            # năm 1285, kỉ XVIII
+        out += ("\u00a0" if noi else " ") + c
+    # gạch nối trong một từ (Ăng-ghen, Giéc-man, 1936-1939): thêm U+2060 để trình duyệt không ngắt ngay sau dấu gạch.
+    # Gạch có dấu cách hai bên (Rạch Gầm – Xoài Mút) vẫn cho ngắt sau dấu gạch khi màn hình quá hẹp; tiêu đề đặt
+    # text-wrap: balance nên khi đủ chỗ, cả cụm "Rạch Gầm – Xoài Mút" luôn nằm trọn một dòng.
+    return re.sub(r"(?<=\w)([–\-—])(?=\w)", "\\1\u2060", out)
+et = lambda s: e(ten_nbsp(s))
+def lop_h1(t):
+    n = len(str(t))
+    return ' class="rat-dai"' if n > 52 else (' class="dai"' if n > 36 else "")
 canh_bao = []
 # liên hệ ở chân trang (sửa web/du-lieu/lien-he.json khi có kênh TikTok/YouTube)
 LIEN_HE_TEP = os.path.join(WEB, "du-lieu", "lien-he.json")
@@ -679,9 +712,9 @@ def du_lieu_menu(bai_ds, mo_phong_them):
     for l in (6, 7, 8, 9):
         bs = []
         for b in [b for b in bai_ds if b["lop"] == l]:
-            tap = [{"ma": x["ma"], "ten": x["ten_tap"], "v": 1 if x["trang_thai"] == "co-video" else 0,
+            tap = [{"ma": x["ma"], "ten": ten_nbsp(x["ten_tap"]), "v": 1 if x["trang_thai"] == "co-video" else 0,
                     "tl": phut_giay(x["video"]["thoi_luong"]) if x["video"] else ""} for x in b["tap"] if x["co_trang"]]
-            mp = [{"ten": (x["mo_phong"].get("ten") or x["ten_tap"]), "loai": x["mo_phong"]["loai"], "href": x["mo_phong"]["href"]}
+            mp = [{"ten": ten_nbsp(x["mo_phong"].get("ten") or x["ten_tap"]), "loai": x["mo_phong"]["loai"], "href": x["mo_phong"]["href"]}
                   for x in b["tap"] if x["mo_phong"]]
             mp += [m for m in mo_phong_them if m.get("bai") == b["id"]]
             bs.append({"id": b["id"], "nhan": nhan_bai(b["ma"]), "ten": b["ten"], "tap": tap, "mp": mp,
@@ -707,8 +740,8 @@ def dong_tap(x, goc=""):
     chu_tt = TT_CHU[tt]
     if tt == "co-video" and x["video"]:
         chu_tt += f" ({phut_giay(x['video']['thoi_luong'])})"
-    ten = (f'<a class="ten-tap" href="{goc}tap/{x["ma"]}.html">{e(x["ten_tap"])}</a>' if x["co_trang"]
-           else f'<span class="ten-tap">{e(x["ten_tap"])}</span>')
+    ten = (f'<a class="ten-tap" href="{goc}tap/{x["ma"]}.html">{et(x["ten_tap"])}</a>' if x["co_trang"]
+           else f'<span class="ten-tap">{et(x["ten_tap"])}</span>')
     meta = [f"<span>Tập {x['so']}</span>", f"<span>{e(KHUNG.get(x['khung'], x['khung']))}</span>",
             f'<span class="tt">{e(chu_tt)}</span>']
     if x["mo_phong"]:
@@ -746,7 +779,7 @@ def trang_index(bai_ds, ds, cap_nhat):
         tl += '<span class="nut-phat-nho" aria-hidden="true"></span>'
         the_video.append(f'<li><a class="the-video" href="tap/{x["ma"]}.html"><span class="khung-anh">{anh}{tl}</span>'
                          f'<span class="lop-bai">Lớp {x["lop"]}, {e(nhan_bai(b["ma"]))}</span>'
-                         f'<span class="ten">{e(x["ten_tap"])}</span></a></li>')
+                         f'<span class="ten" title="{e(x["ten_tap"])}">{et(x["ten_tap"])}</span></a></li>')
     ke_video = ""
     if the_video:
         ke_video = (f'<section class="ke-video" aria-labelledby="tieu-de-video"><div class="rong">'
@@ -783,7 +816,7 @@ def trang_index(bai_ds, ds, cap_nhat):
     than = f"""<section class="bia" aria-labelledby="tieu-de-trang">
 <div class="rong bia-luoi">
  <div class="bia-chu">
-  <h1 id="tieu-de-trang">ChronoVibe Team&nbsp;- EduHistory</h1>
+  <h1 id="tieu-de-trang" class="mot-dong">ChronoVibe Team&nbsp;-&nbsp;EduHistory</h1>
   <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
   <div class="o-tim" role="search">
     <label for="tim" class="an-chu">Tìm trong thư viện</label>
@@ -891,7 +924,7 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
         the.append(f'<span class="the">{phut_giay(x["video"]["thoi_luong"])}</span>')
     quay = (f'<a class="nut-quay-lai" href="../index.html#{bai["id"]}" data-quay-lai>{ICON["quay_lai"]}<span>Quay lại</span></a>')
     dau = (f'<div class="dau-tap">{quay}{vi_tri}<p class="bai-cua-tap">{e(nb)}. {e(bai["ten"])}</p>'
-           f'<h1>{e(x["ten_tap"])}</h1>'
+           f'<h1{lop_h1(x["ten_tap"])}>{et(x["ten_tap"])}</h1>'
            + (f'<p class="ten-en" lang="en">{e(x["ten_tap_en"])}</p>' if x["ten_tap_en"] else "")
            + f'<p class="cac-the">{"".join(the)}</p></div>')
     # --- video + ghi chú phụ đề
@@ -994,8 +1027,8 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
     nguon_dong = (f'<section class="nguon-tap" aria-label="Nguồn"><p><b>Nguồn:</b> {e(x["sach"])}, {e(nb)}, '
                   f'{e(trang_chu(x["trang_sgk"]) or "")}. Kịch bản đã đối chiếu với SGK; mỗi ý ghi nhớ và câu hỏi có số trang để em tự kiểm tra.</p>'
                   + (f'<p>{e(ghi_chu)}</p>' if ghi_chu else "") + "</section>")
-    trc = (f'<a class="tap-truoc" href="{truoc["ma"]}.html"><span>Tập trước</span>{e(truoc["ten_tap"])}</a>' if truoc else "<span></span>")
-    sau_ = (f'<a class="tap-sau" href="{sau["ma"]}.html"><span>Tập sau</span>{e(sau["ten_tap"])}</a>' if sau else "<span></span>")
+    trc = (f'<a class="tap-truoc" href="{truoc["ma"]}.html"><span>Tập trước</span>{et(truoc["ten_tap"])}</a>' if truoc else "<span></span>")
+    sau_ = (f'<a class="tap-sau" href="{sau["ma"]}.html"><span>Tập sau</span>{et(sau["ten_tap"])}</a>' if sau else "<span></span>")
     than = (f'<article class="trang-tap" data-trang="tap" data-ma="{ma}">'
             f'<section class="rap{" rap-doc" if x["huong"] == "doc" else ""}" aria-label="Video và thông tin bài học"><div class="rong">{dau}'
             f'<div class="luoi-tap"><div class="vung-video">{video}</div><aside class="cot-ben" aria-label="Thông tin bài học">{"".join(ben)}</aside></div>'
@@ -1030,7 +1063,7 @@ def trang_gioi_thieu(ds, cap_nhat):
                  for i, (t, p) in enumerate(buoc, 1))
     than = f"""<div class="rong gioi-thieu">
 <header class="dau-gt">
-  <h1>ChronoVibe Team&nbsp;- EduHistory</h1>
+  <h1 class="mot-dong">ChronoVibe Team&nbsp;-&nbsp;EduHistory</h1>
   <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
   <p class="dan">EduHistory Studio chuyển bài học Lịch sử lớp 6–9 thành video hoạt hình ngắn, kèm ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Đây là dự án dự thi FPT School STEMPETITION 2027 (bảng THCS, Challenge 3: Smart Education) của đội ChronoVibe, Trường TH, THCS &amp; THPT FPT Bắc Giang.</p>
 </header>

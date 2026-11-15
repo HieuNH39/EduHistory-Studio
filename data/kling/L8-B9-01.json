@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B9-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing amidst a vast golden ripe rice field. Hân Hân gently turns her head toward Nhật Minh while speaking with natural lip movement, holding up a golden rice stalk that sways softly in the breeze. Nhật Minh smiles, nodding as he holds a tablet displaying ancient paintings, his fingers subtly tapping the screen. In the background, a harvester moves slowly across the fields under gentle sunlight."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle pan right across a 17th-century Đàng Ngoài village. In the foreground, a gaunt peasant carries heavy rice baskets across a muddy courtyard toward a tiled landlord's house, shifting his weight wearily. In the midground, floodwaters ripple through broken dikes over overgrown fields. In the background, a weary family carrying simple bundles slowly walks away down a dusty path. Soft, natural breeze rustles tall weeds, while smoke drifts lazily from a distant thatched roof."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in shot captures the lush 17th-century Mekong Delta. In the vast rice fields, migrant farmers in conical hats rhythmically bend to plant rice seedlings and shovel earth to build irrigation dikes. In the foreground, a prosperous landlord stands near a full granary, gesturing broadly toward the harvest with welcoming nods and natural mouth movements as he speaks. Crystal-clear river water flows smoothly, bright green reeds sway gently in the warm breeze, and fluffy white clouds drift slowly across the vibrant blue sky."
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in on the two students standing by the golden rice field at sunset. Nhật Minh stands slightly behind, smiling softly and nodding with subtle head movement. Beside him, Hân Hân looks warmly toward the viewer, raises her hand with a welcoming gesture as if inviting comments, and speaks with natural lip movements. In the background, golden rice stalks sway gently in the evening breeze under a warm, glowing twilight sky."
+  }
+ ]
+}

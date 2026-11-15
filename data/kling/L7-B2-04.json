@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B2-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân inside a brightly lit modern clothing store. Hân Hân gently adjusts her red woolen scarf, smiling warmly as she speaks with natural lip movement. Beside her, Nhật Minh turns his head slightly, holding up a white yarn roll while gesturing with his other hand. In the background, stacked woolen sweaters remain neatly on wooden shelves while soft indoor lighting shimmers subtly across the scene."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on a bustling European port as merchant ships gently bob on shimmering, blue-green water. In the foreground, European nobles and velvet-clad merchants turn their heads, gesture toward cargo crates, and converse with natural lip movements while tallying chests of gold and bundles of spices. In the background, port workers unload wooden logs, gentle sea breezes ripple distant sails, and seagulls soar across the bright sky."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the English countryside. The aristocratic horseman turns his head, gesturing firmly toward the wooden fence as laborers struggle to hammer the posts into the ground. In the mid-ground, a heartbroken serf family clutching tattered bundles slowly walks away from their thatched cottage. Nearby, a flock of sheep grazes calmly on the pasture, their tails twitching, while a gentle breeze rustles the distant trees and tall meadow grass."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts standing by a dirt path, turning their heads slightly with concerned expressions as impoverished peasant families trudge past a wooden fence. Inside the fenced enclosure, white sheep calmly graze and move their heads naturally. In the background, leaves gently sway in the breeze under soft daylight."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera slowly pushes in on the solemn scene. In the background, waves gently roll and lap against the golden coastline under a warm sunset sky, while a large sailing ship rocks softly at anchor. On the sandy shore, the line of figures stands motionless in quiet dignity, their chained hands barely visible. A soft coastal breeze drifts across the beach, subtly swaying their garments as the fading sunlight glimmers on the water's surface."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera frames dispossessed peasants in worn clothing standing in a ragged line outside a textile workshop gate. The overseer in the foreground writes names in a large ledger, making slight hand gestures. In the background, workers move slowly into the workshop entrance. Dust motes drift softly in the air under natural sunlight, while leaves rustle gently on a distant tree, maintaining the 2D animated illustration style."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the weaving workshop, dozens of workers diligently operate wooden looms and spinning wheels with subtle repetitive arm movements. On the elevated platform, the workshop owner in a velvet tunic gestures, turning his head while holding a money pouch and ledger. Gentle dust motes drift through slanting sunbeams, and threads sway slightly. The camera performs a slow push-in toward the scene."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures two 15-year-old students in vibrant orange polo shirts inside a modern clothing store. Hân Hân smoothly unwraps a wool scarf, holding it in her hands as she turns her head to look directly at the viewer with a warm smile. Next to her, Nhật Minh raises one hand in a welcoming, inviting gesture toward the camera. In the background, soft indoor lights gleam, and colorful garments on display racks sway ever so slightly."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B5-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow tracking shot moves alongside Nhật Minh and Hân Hân as they pedal their bicycles down a sunlit coastal village path. Both teenagers, wearing orange polo shirts, turn their heads slightly toward each other with natural, friendly expressions and subtle lip movement as if chatting. In the background, lush green rice paddies ripple in a gentle breeze, fishponds shimmer under a clear blue sky, and bamboo leaves sway softly near a traditional temple roof."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A split-screen historical scene comes to life with subtle motion. On the left, in the royal court, officials angrily gesture and argue, with one guard slowly drawing a gleaming sword from its scabbard. On the right, in the rural village, peasant rebels in traditional clothing raise wooden staves and bamboo spears defiantly into the air, while thick gray smoke drifts upward from a thatched hut in the background. The camera executes a slow, steady push-in toward the center divider."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the bustling martial arts courtyard. In the center, Mạc Đăng Dung, broad-shouldered in martial attire and a headscarf, executes a powerful sweep, tossing his opponent to the ground with dynamic force. Surrounding officials lean forward in wide-eyed astonishment, turning their heads and gesturing with stunned expressions. In the background, large ceremonial banners wave briskly in the wind, while leaves drift gently across the sunlit training ground."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Mac Dang Dung in general's robes standing resolutely in the imperial court, turning his head slightly as he gestures firmly. Flanked court officials bow their heads in submission while background soldiers stand at attention near the city gate. On the throne, the young Le king shifts nervously with anxious expressions. Dust motes drift gently through the sunlit hall, and banners ripple softly in the breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the grand imperial hall. In the center, Mạc Đăng Dung in ornate yellow imperial robes walks with steady strides up the steps toward the dragon throne, turning slightly to sit down with a dignified expression. Below, rows of mandarins in traditional court attire bow deeply in unison, their bodies dipping and rising. In the background through open doors, new flags flutter vigorously in the wind atop the citadel gate, while incense smoke drifts softly."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han standing beside their bicycles near a golden Vietnamese paddy field at sunset. Nhat Minh turns his head toward the camera, smiling warmly, and raises his hand in a welcoming gesture as he speaks with natural lip movement. Han Han stands beside him, gazing gently forward. In the background, tall grass sways softly in the warm evening breeze while distant clouds drift slowly across the glowing orange sky."
+  }
+ ]
+}

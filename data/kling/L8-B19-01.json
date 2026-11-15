@@ -1,0 +1,18 @@
+{
+ "ma": "L8-B19-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân walking slowly along the rusty pedestrian walkway of Long Biên Bridge during a warm sunset. Hân Hân gently turns her head to speak with natural lip movement while gesturing toward the view, and Nhật Minh nods attentively. In the background, a vintage train slowly crosses the center of the iron bridge. Below, the lush green alluvial plains of the Red River gently sway in the evening breeze."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân gently turning her head toward the viewer with a warm smile, her mouth moving naturally as she speaks. Beside her, Nhật Minh leans casually against the bridge railing, occasionally blinking and shifting his weight. In the background, distant city lights shimmer across the Red River while a soft evening breeze gently ripples their hair and clothes against the dusk sky."
+  }
+ ]
+}

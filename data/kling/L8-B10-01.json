@@ -1,0 +1,24 @@
+{
+ "ma": "L8-B10-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow vertical push-in frames the 15-year-old student in an orange polo shirt gleefully sweeping all the property cards across the board game towards himself with a triumphant grin. Across the table, the second student crosses her arms, gently shakes her head with a playful sigh, and speaks with natural lip movement. Sunlight filters softly through the clubroom window, subtly shifting shadows across the tabletop while dust motes drift gently in the background air."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow vertical push-in shot captures Nhật Minh and Hân Hân standing still on an iron bridge. Nhật Minh points forward, his head turning slightly toward Hân Hân as his mouth moves naturally in speech. Hân Hân keeps her hands resting on the railing, looking intently ahead. In the background, thick grey smoke continuously billows from closely packed brick factory chimneys, a steam train chugs steadily across the lower frame, and tiny workers stream out of the factory gates."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow vertical push-in frames the bright club room. Nhật Minh, wearing an orange polo shirt, places wooden game cards back onto a grid board with subtle hand movements while speaking naturally. Beside him, Hân Hân points her finger forward toward the viewer with a friendly, engaging expression, her hair swaying slightly. Soft ambient light filters through the background, keeping the vibrant 2D animated style consistent throughout the scene."
+  }
+ ]
+}

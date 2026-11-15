@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B10-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gestures smoothly toward the world map, her lips moving naturally in gentle dialogue while Nhật Minh nods attentively, turning his head slightly toward her. In the background, soft dust motes drift lazily through slanting library sunlight. On the wooden desk, the calendar page gently flutters as a faint breeze passes. The camera executes a slow, subtle push-in toward the students, maintaining a warm and educational atmosphere throughout the ten-second shot."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In a gentle slow push-in, Hân Hân stands beside Nhật Minh in front of a large world map inside a brightly lit library, wearing orange polo shirts. Hân Hân smiles warmly, turns her head slightly toward the viewer, and gracefully raises one hand in an inviting gesture to encourage commentary, accompanied by natural speaking lip movements. Nhật Minh stands calmly beside her, blinking naturally and gazing forward attentively. Soft ambient light filters through the library windows."
+  }
+ ]
+}

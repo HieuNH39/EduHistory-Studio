@@ -1,0 +1,24 @@
+{
+ "ma": "L9-B12-06",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh in their orange polo shirts inside the sunlit library. Hân Hân gently leans over the Southeast Asian map, gesturing toward a country with her right hand while speaking with natural lip movement. Nhật Minh turns his head attentively toward her, nodding once and pointing at the map with a pencil. In the background, the small ASEAN flag flutters softly in a gentle breeze coming from the open window."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a slow push-in shot, Nhật Minh and Hân Hân stand beside a large Southeast Asian map in a brightly lit library. Nhật Minh gently raises his hand and places his index finger precisely onto Vietnam on the map while speaking with natural lip movement. Hân Hân turns her head slightly toward him, smiling and gesturing open-handedly toward the map. Sunlight filters softly through the background windows, causing dust motes to drift gently in the air."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a slow push-in shot, Hân Hân gently turns her head toward the viewer with a warm smile, raising one hand in a welcoming gesture to invite comments while her lips move naturally as if speaking. Beside her, Nhật Minh listens attentively, nodding slightly and smiling. In the background, the Southeast Asian map illustration and the small ASEAN flag remain stable as a soft, warm breeze gently flutters the fabric of the flag."
+  }
+ ]
+}

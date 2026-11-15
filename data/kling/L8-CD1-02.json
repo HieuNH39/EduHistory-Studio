@@ -1,0 +1,60 @@
+{
+ "ma": "L8-CD1-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh standing on the Red River dike in their orange school uniforms. Hân Hân gently gestures toward the river with her right hand while speaking with natural lip movement. Nhật Minh turns his head slightly to listen, nodding. In the background, the brown-red river water flows steadily, lush green floodplains ripple in the late afternoon breeze, and distant village rooftops sit quietly under the warm, fading sky."
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the motorboat gently rocking on the rippling reddish-brown and blue estuarine water. Nhật Minh and Hân Hân sit side by side in orange polo shirts, naturally turning their heads to look out at the horizon while conversing with subtle, realistic lip movements and gentle hand gestures. In the background, white storks flap their wings and glide away from a newly formed alluvial sandbar under a soft breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan from left to right captures ancient Vietnamese villagers in loincloths and topknots actively carrying bamboo baskets filled with soil and dumping them to raise the paddy field dyke along a gently flowing, rising river. In the background, curved-roof stilt houses remain steady as tropical foliage sways lightly in the breeze. The camera performs a gentle, slow push-in toward the hardworking villagers while sunlight glints softly off the moving water."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Ly Nhan Tong, wearing traditional imperial yellow robes and crown, stands on a high mound and gestures forward with one hand while speaking with natural lip movement. Nearby officials turn their heads to watch. In the background, thousands of laborers along the riverbank actively carry baskets of earth on shoulder poles and pack soil to build a long embankment. A gentle breeze ripples the river water and sways distant trees. A slow push-in camera captures the historical scene."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Hà đê sứ in a dark blue official robe and cap walks slowly along the high earthen dike beside the swirling Red River, gesturing with his scroll toward a damp section of the embankment. Below him, shirtless laborers energetically carry heavy baskets of earth and hammer bamboo stakes into the slope to reinforce the flood wall. The camera slowly pans right following the official. In the background, the swollen river flows steadily under a gray sky with gentle wind rustling distant riverside reeds."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nguyễn Công Trứ standing atop the newly built earthen embankment, gesturing confidently toward the vast sea while turning his head slightly to speak with natural lip movements. In the background, peasants in traditional conical hats bend rhythmically to transplant rice seedlings in the newly reclaimed fields. Gentle sea breezes ripple the coastal water and sway the distant marsh grass under warm sunlight."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the imperial hall. Emperor Gia Long sits majestically on his golden throne, slightly shifting his posture and blinking naturally. Below him, a mandarin in traditional court attire gently unfolds a yellow imperial decree and speaks with subtle lip movement. Flanking the hall, officials kneel in neat rows, bowing their heads respectfully. Incense smoke drifts slowly through the ambient air, casting a serene, solemn atmosphere over the historical scene."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han standing on the Red River dike at sunset, wearing orange polo shirts. Han Han turns her head slightly to smile and speaks with natural lip movement, gesturing toward the horizon. Nhat Minh nods in agreement, looking out across the landscape. In the background, golden sunlight glints off the winding river, gentle evening breezes sway the tall riverside grass, and soft clouds drift slowly across the warm orange sky."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Hân Hân standing on the dike at dusk, wearing an orange polo shirt. Streetlights along the dike glow softly behind her. Hân Hân smiles gently and raises her hand in a welcoming gesture inviting commentary, her mouth moving naturally as if speaking. Next to her, Nhật Minh stands quietly, looking forward. In the background, gentle wind sways the distant grass and leaves under the darkening twilight sky."
+  }
+ ]
+}

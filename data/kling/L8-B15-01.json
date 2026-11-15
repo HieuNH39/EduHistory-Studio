@@ -1,0 +1,24 @@
+{
+ "ma": "L8-B15-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the geography classroom. In the 2D animated style, Nhat Minh slowly spins the large globe with one hand while nodding slightly. Han Han gently places her index finger onto the Indian peninsula on the map, turning her head slightly toward Nhat Minh with a soft, natural smile as they speak with subtle lip movements. Sunlight streams gently through the window, making dust motes dance in the warm air."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A gentle camera slow push-in frames the ancient red stone ramparts. Hân Hân and Nhật Minh stand side-by-side in orange polo shirts, calmly observing the landscape. Nhật Minh gestures toward the distant plains with a subtle arm movement, while Hân Hân turns her head slightly, speaking with natural mouth motion. Below, colorful banners flutter in the wind, war elephants and cavalry units slowly maneuver across the dusty field, and white waves gently lap against anchored European sailing ships in the distant river mouth under drifting clouds."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In a medium shot with a slow push-in, Hân Hân sits at the front desk in her orange polo shirt, smiling warmly and speaking with natural lip movement while gesturing toward the globe. Beside her, the globe gently spins a full rotation. In the background, Nhật Minh uncrosses his arms, turns his head smoothly to face the viewer with a thoughtful expression, and nods slightly. Soft ambient light shifts across the cozy classroom."
+  }
+ ]
+}

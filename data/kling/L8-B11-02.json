@@ -1,0 +1,18 @@
+{
+ "ma": "L8-B11-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A gentle slow push-in frames the library scene. Hân Hân speaks naturally with subtle lip movement, using her highlighter to point at the timeline dates on the open history book. Nhật Minh leans in closely with a curious expression, nodding as he looks down at the page. Outside the window, soft sunlight filters through drifting leaves, while dust motes float peacefully in the warm afternoon air inside the quiet room."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera focuses on Hân Hân in a school library, gently placing the final paper card onto a large hand-drawn timeline. She turns her head slightly toward Nhật Minh, speaking with natural lip movement and a soft smile. Beside her, Nhật Minh gives a thumbs-up gesture directly toward the viewer. In the background, soft dust motes drift in warm sunlight filtering through tall windows, and paper edges flutter slightly in a gentle breeze."
+  }
+ ]
+}

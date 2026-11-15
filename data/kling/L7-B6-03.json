@@ -1,0 +1,24 @@
+{
+ "ma": "L7-B6-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A vertical slow push-in shot captures Hân Hân and Nhật Minh in orange polo shirts inside a brightly lit modern supermarket. Hân Hân gently shakes a glass jar of black peppercorns toward the camera with a cheerful expression, while her lips move naturally in speech. Beside her, Nhật Minh turns his head slightly toward her, smiling and gesturing open-handedly toward the colorful shelves of silk scarves and porcelain behind them. Soft fluorescent lighting gleams on the product displays."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures the bustling 15th-century Malacca market scene. In the background, wooden sailing ships gently bob on rippling water while colorful flags flutter in a soft breeze. In the midground, the turbaned merchant turns his head, smiles, and gestures naturally with his hands while speaking to present a fine porcelain vase. In the foreground, Nhật Minh and Hân Hân stand attentively by sacks of spices, subtly blinking and shifting their weight."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the vertical frame. On a stone bench, Hân Hân and Nhật Minh sit side by side in orange polo shirts, watching a tablet screen that displays animated container ships moving through a narrow strait. Hân Hân gestures slightly toward the screen with natural hand movements. Nhật Minh turns his head smoothly from the tablet to look directly at the camera, speaking with natural lip movements and a warm smile. Soft green tree leaves sway gently in the background breeze."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B13-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A red apple gently falls from the branches above, landing softly in the grass beside Nhat Minh’s shoe. Nhat Minh turns his head down toward the fallen apple, smiling and gesturing toward it with his hand while speaking naturally. Han Han sits beside him, gently turning the page of her open notebook, glancing down at the apple. Golden afternoon sunlight filters dynamically through the swaying apple tree leaves, casting shifting light patterns across both students. The camera performs a very slow, subtle push-in toward the pair."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In a gentle slow push-in, Isaac Newton sits under an apple tree in a 17th-century English garden, his long wavy hair and dark cloak subtly shifting in a soft breeze. He thoughtfully takes a sip from his teacup, sets it down on a small wooden table, and slowly raises his hand to point up at a ripe apple hanging from a leafy branch above. Leaves flutter softly in the background."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this 10-second animation, Mikhail Lomonosov stands by a wooden laboratory table filled with glass flasks, a balance scale, and a small furnace. He turns his head slightly, dips a quill into an inkwell, and writes carefully on parchment. In the background, smoke drifts gently from the furnace. The camera slowly pushes in on Lomonosov. The 2D animated-film art style, white wig, dark blue coat, and historical setting remain entirely unchanged throughout the scene."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han standing beneath a leafy apple tree in a schoolyard. Nhat Minh rhythmically tosses and catches a red apple while turning his head slightly toward the viewer with a gentle smile. Beside him, Han Han raises her hand in an inviting gesture with natural lip movement as if speaking, while leaves softly rustle in the breeze and dappled sunlight shifts across their orange polo shirts."
+  }
+ ]
+}

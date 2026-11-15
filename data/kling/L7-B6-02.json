@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B6-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân in FPT school uniforms at a bright school cafeteria table with steaming trays of food. Hân Hân smiles and naturally turns the pages of an open History 7 textbook, pointing at a Southeast Asia map with her finger. Nhật Minh gently nods, turns his head toward her while speaking with natural lip movement, and gestures toward the book. In the soft-focus background, cafeteria lights subtly shimmer and students walk past."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Southeast Asian tribal leaders in diverse traditional attire standing in a circle around a blazing campfire, vigorously raising their hands upward together in a unified oath. Flames flicker brightly, casting dancing orange light and drifting smoke across their resolute faces. In the distant horizon, the faint, shadowy silhouettes of approaching Mongol-Yuan troops march under a dusty haze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera moves toward the ornate multi-tiered throne room. The Southeast Asian king sits with a gentle, dignified posture, turning his head slightly as he listens. Officials in traditional court attire bow in sequence from highest to lowest rank, respectfully raising memorial tablets and unrolling petitions. Banners sway softly in the gentle breeze filtering through the open palace pillars, and dust motes drift gracefully in the warm shafts of sunlight."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan from left to right transitions between two side-by-side scenes. In the left frame, a Javanese official carefully scratches ancient scripts onto stacked palm leaves with a stylus, his head nodding gently. In the right frame, a Đại Việt official steadily writes on traditional paper with a brush, ink dripping slightly. Ambient dust motes drift lazily in the soft warm light illuminating both scholars."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle pan right reveals the vibrant green terraced rice fields. In the foreground, a farmer bends rhythmically to plant rice seedlings in the flooded paddies, hands moving naturally. Below the hill, traditional wooden merchant junks with white sails glide smoothly across the calm harbor waters, their reflections shimmering. In the mid-ground, Nhật Minh stands visibly, turning his head slightly toward the viewer with natural lip movement as if speaking, while a soft breeze rustles the lush crops."
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow forward camera push captures Nhật Minh and Hân Hân walking through the bustling 15th-century Malacca port market. Nhật Minh turns his head to examine silk rolls while gesturing toward a spice stall, speaking with natural mouth movements. Hân Hân walks beside him, gently touching a pearl display and smiling. In the background, merchants arrange ceramic bowls and sacks of grain, colorful silk fabrics flutter in the soft breeze, and steam gently drifts from spice baskets under warm sunlight."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han in the school cafeteria. Nhat Minh holds a pair of chopsticks and turns his head slightly toward the viewer with a gentle smile. Han Han raises her hand with a welcoming gesture, gesturing toward the viewer as her lips move naturally in conversation. In the background, soft ambient light shifts gently across the room."
+  }
+ ]
+}

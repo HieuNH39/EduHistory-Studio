@@ -1,0 +1,48 @@
+{
+ "ma": "L7-CD1-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the classroom. Hân Hân holds the wooden caravel ship model, gently turning it in her hands while her mouth moves in natural speech. Beside her, Nhật Minh smiles, points his finger at the Caribbean region on a spinning globe, and nods as he speaks. In the background, sunlight shifts softly across the classroom walls, and dust motes drift lazily in the air."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures two 15-year-old student narrators in orange polo shirts standing inside a rustic European trading warehouse. Hân Hân stands on the left, gently gesturing toward a large map on the wall with a serious expression and natural lip movement as she speaks. Nhật Minh stands beside her, crossing his arms and slightly turning his head to inspect the room. In the background, dust motes drift softly through a beam of warm light illuminating the detailed map."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan across the coastal shipyard reveals workers actively fitting a wooden rudder onto a large caravel ship and hoisting massive cloth sails that flutter gently in the sea breeze. Inside the adjacent wooden workshop, two 15-year-old student narrators in orange polo shirts lean over a rustic wooden table; Hân Hân smoothly unrolls an old nautical map while Nhật Minh places a shiny brass magnetic compass down, both looking up and speaking with natural lip movement."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Christopher Columbus, with shoulder-length hair and a dark cloak, stands in the royal Spanish palace, gently turning his head to speak with natural lip movement while gesturing toward a detailed navigational chart. His right hand points westward across the map. The king sits attentively, nodding slightly. In the background, heavy velvet curtains sway subtly in a gentle breeze, and candlelight flickers softly. The camera executes a slow, smooth push-in toward the chart and Columbus's expressive face."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the deck of the ancient ship. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, lean against the railing and point excitedly at the horizon with joyful expressions, their mouths moving naturally as they converse. In the background at the bow, Columbus raises an antique brass spyglass to his eye. Gentle ocean waves ripple against the hull, and a soft sea breeze flutters their hair and clothing."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan right across a bustling European harbor filled with gently bobbing cargo ships. In the foreground, wealthy merchants gesture actively while counting gold coins, their heads turning naturally as they converse. In the quiet corner of the dock, poor peasants in ragged clothes walk slowly past with weary postures. In the distant calm water, a solemn trading ship drifts steadily forward with its sails fluttering gently in the sea breeze."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing beside a globe and a model ship in their orange polo shirts. Nhật Minh turns his head slightly toward the camera, speaking with natural lip movement as he raises one hand in a welcoming gesture to invite comments. Hân Hân stands beside him, smiling gently and looking forward. Soft ambient light illuminates the classroom, with subtle dust motes drifting gently in the air."
+  }
+ ]
+}

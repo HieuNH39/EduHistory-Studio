@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B13-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures a motorized ferry moving forward on a misty early morning river. Gentle river water ripples around the hull, and smoke drifts softly from the ferry's smokestack. In the background, traffic crawls across a distant steel bridge under a pale sky. Nhật Minh, wearing an orange polo shirt, raises his hand to point toward the smokestack while speaking with natural lip movement. Hân Hân stands beside him, turning her head slightly to look where he points with a gentle smile."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures an early 19th-century riverbank. Fulton stands at the bow of the paddle steamer, wearing a dark cape and high white collar, turning his head to smile and waving his hand energetically to the crowd. Thick gray smoke billows steadily from the tall wooden ship’s central chimney while its large side paddle wheels churn the river water into foam. On the grassy shore, the astonished crowd stirs, individuals gesturing and whispering to one another in amazement."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing on a stone pier in an 1836 English harbor. Hân Hân gently turns her head toward Nhật Minh, gesturing with a natural hand movement toward the harbor while her lips move naturally in speech. In the background, dark smoke drifts continuously from the funnels of steamships anchored in the choppy, gently moving water, and clouds slowly drift across the gray sky."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A gentle slow push-in shot captures Nhật Minh and Hân Hân wearing safety helmets while standing on an elevated nineteenth-century metallurgical workshop walkway. In the background, a massive blast furnace pours glowing red molten metal as soot-smudged workers in vests shovel coal. Nhật Minh gently turns his head toward Hân Hân and speaks with natural lip movement while gesturing toward the foundry below, while Hân Hân nods and looks on attentively."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the animated scene. In the foreground, Hân Hân gently turns her head toward Nhật Minh and speaks with natural lip movement while gesturing with one hand toward the fields, while Nhật Minh stands beside her, calmly observing. In the midground, a nineteenth-century steam tractor slowly chugs forward, pulling a multi-blade plow across the golden wheat field. In the distance, a steam-powered harvester operates steadily, with sacks of fertilizer neatly piled on a nearby cart."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot of the ferry deck. The ferry docks smoothly against the pier while cars slowly roll forward onto the shore. Hân Hân smiles and raises her smartphone toward the camera, speaking naturally with subtle lip movement. Standing beside her, Nhật Minh smiles warmly, pointing his finger toward the moving cars with a friendly gesture. The background shows gentle river water ripples and soft sunlight reflecting on the metallic ferry railing."
+  }
+ ]
+}

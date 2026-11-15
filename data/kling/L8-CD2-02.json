@@ -1,0 +1,18 @@
+{
+ "ma": "L8-CD2-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "On the sunny deck of a moving ship with calm blue sea, Hân Hân and Nhật Minh stand by the railing. Gentle sea breeze flutters Hân Hân's orange polo shirt and makes the sea map in her hands flap vigorously. Hân Hân points at the map and speaks with natural mouth movements, while Nhật Minh holds down the corner of the map to steady it, turning his head slightly to look at it. Slow camera push-in."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot on the ship deck at sunset. Nhật Minh and Hân Hân fold a paper map together. Hân Hân looks up, turns toward the camera, and speaks with natural lip movement while gesturing gently. In the background, ocean waves gently rise and fall, and a distant lighthouse flashes its light as sea breeze ripples their orange polo shirts."
+  }
+ ]
+}

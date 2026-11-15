@@ -1,0 +1,30 @@
+{
+ "ma": "L7-B7-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow, gentle push-in camera frames the vertical scene as Hân Hân and Nhật Minh sit in their classroom in FPT polo shirts. Hân Hân smiles and naturally moves her hand to lift one of the small wooden elephants from the neat line on the desk, holding it up slightly toward the camera while speaking with subtle, natural lip movement. Beside her, Nhật Minh turns his head slightly toward her, smiling and gesturing open-handedly toward the wooden procession. Soft ambient light illuminates the room."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the vast Mekong riverbank scene. In the background, water gently ripples and lush tree leaves sway in the breeze. A group of travelers with baggage and livestock arrives, and Laotian Thong villagers step forward to welcome them with polite gestures. In the foreground beneath a leafy canopy, Nhật Minh and Hân Hân stand side by side in orange polo shirts, turning their heads slightly to observe the interaction while speaking with natural lip movement."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, majestic push-in frames Pha Ngừm atop a slowly marching elephant, leading an army forward with a calm, commanding posture. Behind him, local chieftains in traditional Southeast Asian attire kneel respectfully with slight head nods. A large flag waves vigorously in the wind beside the gentle, flowing Mekong River. The camera maintains a medium-wide angle, capturing the steady movement of the procession, rippling water, and swaying foliage in a continuous, cinematic motion."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the vertical frame. Hân Hân and Nhật Minh, wearing orange polo shirts, gently adjust wooden toy elephants into a heart shape on the wooden table. They both look up toward the camera with warm smiles, their lips moving naturally in friendly narration as they gesture invitingly toward the display. In the soft-focused background, warm classroom lights subtly flicker and gentle dust motes drift slowly through the air."
+  }
+ ]
+}

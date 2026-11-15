@@ -1,0 +1,18 @@
+{
+ "ma": "L8-B10-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera focuses on the classroom. Hân Hân stands by the large screen, gesturing with a wooden ruler toward the British and French flags with subtle lip movement as if speaking. Nhật Minh sits beside her, turning his head slightly toward the screen with an engaged expression and a natural nod. In the background, the old globe rotates slowly on its stand, and soft ambient light gently shifts across the room."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the classroom scene. Hân Hân gently raises her right hand with an inviting gesture, smiling warmly and speaking with natural lip movement. Beside her, Nhật Minh turns his head slightly toward her, listening attentively with a subtle nod. In the background, the antique globe slowly rotates on its stand, and soft sunlight drifts across the classroom walls, creating a gentle, natural atmosphere."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ma": "L8-B16-05",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the boat cutting through deep blue waves, with white foam churning at the bow. Nhật Minh and Hân Hân stand side by side on the deck, wearing orange life vests and caps; Hân Hân gently turns her head to smile and speaks with natural lip movement while gesturing toward the horizon. Nhật Minh nods, looking forward. Above them, the red flag with a golden star waves briskly in the wind, and a flock of seagulls circles across the open sky."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Gia Long sits majestically on his ornate golden throne, slowly turning his head to survey the court while gesturing with one hand. Below the raised platform, the imperial soldiers in structured uniforms and conical hats stand in rigid formation, their banners gently fluttering in a soft breeze. The camera executes a slow, dignified push-in toward the emperor, capturing the solemn historical atmosphere."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the scene. In the background, wooden sailing boats arrive at the shore, and soldiers wade through the water carrying wooden chests and setting up tents under gently swaying bushes. In the foreground, Nhat Minh and Han Han stand side by side behind low foliage, wearing orange polo shirts; Nhat Minh gestures calmly toward the ships, while Han Han turns her head slightly and speaks with natural lip movement."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures a coral island under a clear sky. In the foreground, two Vietnamese Nguyen Dynasty soldiers firmly plant a wooden flagpole into the sand, then rhythmically haul a large national flag upward as it unfurls and ripples vigorously in the stiff sea breeze. Nearby, gentle blue ocean waves lap softly against the shore, and a traditional sailing boat rocks slightly at anchor. The warm sunlight casts dynamic lighting across the peaceful historical landscape."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the imperial throne room, Emperor Minh Mạng sits regally upon the golden dragon throne, slowly turning his head to listen as he speaks with natural mouth movements. Below, a Ministry of Works mandarin kneels while respectfully raising a memorial document upward with both hands. Flanked officials stand silently in neat rows behind him, subtly shifting their weight. The camera executes a slow, steady push-in toward the Emperor, while fine dust motes drift gently through warm shafts of sunlight piercing the grand red-columned hall."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the historic scene on a sunny beach. In the foreground, commander Phạm Hữu Nhật, dressed in traditional Nguyễn dynasty naval attire, firmly sets an upright wooden stele inscribed with Chinese characters into the sand, his head turning slightly to check its alignment. Nearby, soldiers actively stretch measuring ropes across the terrain while one actively writes on a scroll. In the background, the blue sea gently ripples with rolling waves under a calm sky."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Nguyen dynasty soldiers in traditional tunics are actively busy on a sandy island: one soldier carefully places roof tiles on a small newly built shrine, another gently plants young green saplings into the sand, and a third sits cross-legged meticulously drawing a coastal map with a brush on traditional do paper. A gentle coastal breeze moves the young tree leaves and soldier headbands. The camera slowly pushes in on the map-drawer."
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the boat deck at sunset. The golden sea ripples softly beneath the hull. In the background, the red flag with a yellow star flutters vividly in the gentle sea breeze. Nhật Minh stands calmly beside Hân Hân, both wearing orange polo shirts and looking forward at the viewer. Hân Hân smiles naturally, turning her head slightly while raising one hand with a welcoming gesture to invite comments, her lips moving as she speaks."
+  }
+ ]
+}

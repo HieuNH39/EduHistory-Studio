@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B6-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the boat gliding across deep blue open water. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, stand on the bow; Hân Hân gently turns her head to smile and speaks with natural lip movement, while Nhật Minh nods and gestures toward the horizon. The red flag with a yellow star flutters briskly in the sea breeze on the mast above them, and a distant green island sways softly in the hazy sunlight."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in captures a fleet of 17th-century wooden sailing boats cutting through choppy white-capped waves under a clear blue sky. Sun-tanned crewmen with headscarves actively pull ropes to hoist canvas sails and rhythmically row with wooden oars. In the lead boat, a young student in an orange polo shirt turns his head slightly and speaks with natural lip movement. Ocean spray splashes against the hulls, and sails ripple dynamically in the ocean wind."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A feudal mandarin solemnly hands a decree scroll to a group of volunteer villagers standing by a bustling wooden boat dock. The villagers nod respectfully and accept the document. In the background, the river water ripples gently against moored fishing boats laden with nets and wicker fish baskets, and soft river mist drifts through the scene. The camera slowly pushes in on the mandarin and the villagers to highlight the historic exchange."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing at the bow of a wooden boat against a vibrant sunset over the South China Sea. The bright red national flag with a yellow star ripples steadily in the sea breeze behind them. Hân Hân smiles warmly and gestures invitingly with her hand toward the camera as she speaks with natural lip movement. Nhật Minh stands beside her, looking ahead with a calm, friendly expression while his hair gently sways in the wind."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "ma": "L8-B1-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in on the 2D animated scene. Hân Hân and Nhật Minh, wearing orange polo shirts and winter coats with red scarves, stand on a cobblestone London street talking animatedly with natural lip movements and gentle hand gestures. In the background, mist slowly drifts around the historic gray stone building with sharp spires, and a iconic red double-decker bus smoothly drives past from left to right."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures King Charles I standing tall on the elevated platform, his head turning slightly and lips moving as if speaking defensively. Below him, the seated delegates in dark coats and wide-brimmed hats shift restlessly, some crossing their arms with stern expressions while others whisper among themselves. Soft dust motes drift slowly through the sunlit air of the historic hall, maintaining the serious 2D animated illustration style throughout the scene."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures King Charles I sitting atop a majestic white horse on a bleak northern English hill, his face serious as he raises his sword forward. The loyal cavalrymen behind him sit tall, their royal banners rippling steadily in the harsh wind. Dark, heavy clouds drift sluggishly across the overcast sky. The horse shifts slightly on its hooves, and the king's cape billows gently in the breeze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot focuses on a 15-year-old student in an orange polo shirt standing quietly in a cold 17th-century English square. He turns his head slightly toward the camera, speaking with natural lip movement. In the softly blurred background, the crowd of bundled citizens stands still under a chilly overcast sky, breath visible in the freezing air, while distant bare tree branches sway gently in the winter wind."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the grand 17th-century English parliament hall, illuminated by warm, flickering candlelight. In the center, elegantly dressed delegates respectfully hand a large rolled parchment document to the new king and queen. The royal couple graciously bows their heads to accept it. In the background, heavy velvet drapes sway softly in a gentle draft, while the ambient glow of numerous candles casts dancing lights across the solemn, historic assembly."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the animated street in England at dusk with softly glowing streetlamps and drifting evening mist. Nhật Minh stands in his orange polo shirt, turning his head gently toward the viewer with a friendly smile and natural lip movement as he speaks. He raises one hand with an open palm in a welcoming gesture inviting comments, while Hân Hân stands beside him, smiling warmly and shifting her weight naturally. Background mist swirls gently around the glowing lights."
+  }
+ ]
+}

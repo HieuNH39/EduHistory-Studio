@@ -1,0 +1,60 @@
+{
+ "ma": "L8-B5-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han standing before the mossy stone walls of the Mac Dynasty citadel. Nhat Minh gestures toward the ruins with a slight smile and speaks with natural lip movement. Han Han turns her head to look at him, nods, and points toward the distant limestone mountains. In the background, white clouds drift lazily across the sky and terraced fields sway gently in the breeze."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in toward the center of the imperial hall. Factional mandarin officials on both sides gesture wildly and argue with heated facial expressions. In the middle, the robust military commander Mac Dang Dung stands completely calm and composed, his sharp eyes fixed forward with subtle head movements. Above them, the empty throne remains shadowy and still. Dust motes drift gently through the dim, dramatic lighting of the ancient court."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Emperor Mạc Đăng Dung in an ornate imperial yellow robe walking with steady steps up the elevated platform to sit upon the grand throne inside a majestic palace hall. On both sides, mandarins in traditional court attire bow deeply with folded hands in respectful submission. In the background, large new ceremonial flags flutter gently in a soft breeze drifting through the open palace doors, while dust motes float peacefully in the warm sunlight."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures general Nguyễn Kim raising his sword high with a resolute expression while addressing the assembled troops, his armor glinting slightly. Beside him, the young Lê prince in a yellow tunic steps gracefully onto an elevated wooden chair, gesturing calmly to the soldiers. In the background, military banners and flags flutter briskly in the mountain wind, and smoke drifts softly from temporary campfires among the rolling Thanh Hoá hills."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts crouching behind bamboo stalks on a coastal mound. Nhật Minh turns his head to speak with natural lip movement while gesturing toward the valley. Hân Hân looks downward with a concerned expression. Below them, a dense army with spears and flags marches steadily southward, villagers carry loads and children while smoke drifts gently from distant thatched roofs, and coastal sea breezes rustle the bamboo leaves."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow tracking camera shot captures the Southern army marching northward at dawn along a dusty dirt road through abandoned fields. Majestic war elephants slowly lumber forward, led by cavalrymen in traditional armor holding long spears. In the background, soldiers carrying yellow banners advance in an orderly column, their flags rippling gently in the morning breeze. Dust rises from beneath marching feet, catching the warm, golden light of the early sunrise while mist drifts low across the grassy plains."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A gentle camera slowly pushes in on the desolate post-war village scene. In the background, tall grass sways rhythmically in a soft wind among ruined thatched huts. In the mid-ground, a mother wearing faded peasant clothes tightly holds her young child, her head turning slowly to follow a distant, out-of-frame departure. Beside them, an abandoned wooden loom slightly trembles as a stray breeze brushes past its hanging threads."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Poet Nguyen Binh Khiem sits at his wooden desk, gently moving his calligraphy brush to write on traditional paper while his lips move naturally in quiet speech. The warm oil lamp flame flickers, casting soft dancing shadows against the rustic wooden wall. Outside the open window, tall wild grass sways gently in the night breeze under a faint moonlight. The camera slowly pushes in closer to the scholar's thoughtful face."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han standing by the ancient stone ramparts of the Mac Dynasty citadel at sunset. Golden clouds drift lazily behind the majestic mountains. Nhat Minh turns his head slightly toward the viewer, raises his hand in a welcoming gesture, and speaks with natural lip movement while smiling warmly. Han Han stands beside him, looking on gently as her hair sways softly in the gentle evening breeze."
+  }
+ ]
+}

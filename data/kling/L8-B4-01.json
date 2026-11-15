@@ -1,0 +1,24 @@
+{
+ "ma": "L8-B4-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow vertical push-in shot captures Hân Hân and Nhật Minh in the school library. Hân Hân, wearing an orange polo shirt, gently spins a colorful globe with one hand, her finger stopping on Southeast Asia as she nods and speaks with natural lip movement. Beside her, Nhật Minh leans in closely, his eyes following her finger with an engaged expression. Soft dust motes drift lazily in a warm beam of sunlight filtering through the background window."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow camera push-in on the 9:16 animated scene. On the Malacca harbor pier, 15-year-old Nhật Minh in an orange polo shirt stands beside Hân Hân, raising his hand to point steadily toward the harbor while speaking with natural lip movement. In the background, a large Portuguese sailing ship glides smoothly into port against gentle rippling water, with armed sailors lining the deck under a soft breeze."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot of the library. Nhật Minh, wearing an orange polo shirt, stands next to a globe and speaks with natural lip movement. He smiles warmly and gestures with one hand toward the viewer. In the background, soft dust motes drift gently through warm sunlight filtering through tall windows, while Hân Hân stands beside him, listening attentively and nodding slightly."
+  }
+ ]
+}

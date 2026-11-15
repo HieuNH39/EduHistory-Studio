@@ -1,0 +1,78 @@
+{
+ "ma": "L7-B3-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera moves toward Nhật Minh and Hân Hân standing in the art studio. Hân Hân gestures naturally toward the large Mona Lisa print on the easel, speaking with subtle lip movement and a warm smile. Nhật Minh turns his head attentively toward her, nodding gently and pointing a hand at the painting in agreement. Dust motes drift softly in the sunlight filtering through the background."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera focuses on the wealthy merchant seated at his desk. He furrows his brow, turns a page of the thick catechism book, and shifts his gaze slightly while gesturing thoughtfully over the stacks of gold coins and ledger books. Outside the window, citizens and carriages move continuously through the bustling street. Dust motes drift gently in the warm indoor light, and the merchant's coat subtly shifts with his shifting posture."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Dante sitting at his wooden desk in the dimly lit Italian room. He pauses his writing, gently dipping his quill into the inkwell before resuming his steady stroke across the parchment. The candle flame flickers softly, casting warm, dancing light on his serious face and long hooded cloak. Outside the arched window, gentle evening wind makes the distant city tile rooftops and unseen foliage sway slightly."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Miguel de Cervantes sits at his wooden desk, gracefully dipping a quill and writing on parchment with natural hand movements. His head turns slightly as he focuses on his work. In the background, a faint translucent shadow of a thin knight riding a horse holding a lance gently sways and glides across the wall. Dust motes drift slowly in the soft ambient light. The camera executes a very slow push-in toward Cervantes."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera focuses on the stage. On the illuminated balcony set, Renaissance actors perform with subtle gestures and natural head turns. In the dimly lit wings, William Shakespeare stands watching intently, his head framed by a classic white ruff collar; he slowly shifts his weight, turning his head slightly while holding a manuscript script in one hand. Soft theatrical lighting flickers gently, and faint dust motes drift lazily through the warm air around the figures."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera moves toward the Renaissance art studio. Leonardo da Vinci stands at his easel, gently turning his head to look at his canvas while his hand moves in a steady sketching motion. Nearby, Nhật Minh and Hân Hân in orange polo shirts stand quietly near the doorway; Nhật Minh gestures softly toward the artist with a curious expression, while Hân Hân nods gently. In the background, papers and sketches flutter slightly in a soft indoor breeze."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Michelangelo lies on his back on a high wooden scaffolding directly beneath the vaulted church ceiling, wearing a paint-spattered tunic, short beard, and his characteristic slightly broken nose. He gently moves his brush across the damp plaster, dipping it into a small palette with delicate wrist motions while turning his head slightly to check the angle. Soft natural sunlight streams diagonally from a high arched window, illuminating swirling dust motes in the air. The camera executes a slow, subtle push-in toward the artist."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Copernicus stands on the high tower under a starry night, wearing a dark red cloak and short hair, gently turning his head to look at the celestial models. The sun model glows softly in the center while the Earth model slowly orbits around it. In the background, stars twinkle gently and a cool night breeze softly ripples his cloak. The camera performs a slow push-in toward Copernicus and the planetary models, maintaining the 2D animated-film style throughout the peaceful, educational scene."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Galileo, an elderly man with a white beard and black robe, stands resolutely before a shadowy tribunal, his head turning slightly as he speaks with natural lip movements. In the foreground, Hân Hân listens attentively with a slight nod. The camera executes a slow push-in toward Galileo's determined face. Soft, dusty light streams through a high window, making faint dust motes drift slowly in the dim room."
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân in FPT school uniforms standing quietly at the back of the courtroom. Both students turn their heads slightly to follow Galileo's receding figure, their facial expressions shifting with deep emotional resonance. Hân Hân gently lifts her hand to her chest while speaking with natural lip movement, and Nhật Minh nods slowly in agreement. Soft dust motes drift lazily through the dramatic shafts of light illuminating the historic room."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a brightly lit art studio, Hân Hân and Nhật Minh stand before a large projected image of the Sistine Chapel ceiling. Hân Hân raises her right arm, pointing directly at the screen with an enthusiastic expression, her lips moving naturally in speech. Nhật Minh turns his head attentively toward her, nodding slightly with a warm smile. Dust motes drift gently in the soft ambient light. The camera executes a slow, subtle push-in toward the two students."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In a bright art room, Hân Hân smiles warmly and speaks with natural lip movement while gently gesturing toward the viewer, raising her paintbrush in an inviting motion. Beside her, Nhật Minh turns his head slightly and nods in agreement, maintaining his friendly expression. In the background, soft light filters through a window, causing dust motes to drift lazily in the air. The camera executes a very slow, subtle push-in to emphasize the welcoming gesture."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ma": "L8-B17-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Slow push-in shot of Nhật Minh and Hân Hân walking barefoot along Da Nang beach at dawn, leaving footprints in the wet sand. In the background, the misty Son Tra Peninsula glows under the rising sun. Hân Hân turns her head slightly toward Nhật Minh, smiling and gesturing gently with one hand as she speaks. Gentle waves lap softly against the shore, and a soft morning breeze ripples through their orange polo shirts and hair."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân crouched behind a coastal rock in Da Nang, their faces tense and observant. Hân Hân cautiously shifts her weight and slightly turns her head, while Nhật Minh gazes intently toward the horizon. In the background, heavy smoke drifts upward from cannon fire, and the sea waves gently ripple against the shore, reflecting the distant French and Spanish warships under a dramatic sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow vertical push-in frames Nguyễn Tri Phương in military robes and white beard, gesturing authoritatively forward with his hand while speaking naturally. In the background, soldiers and villagers actively shovel dirt onto defensive ramparts and heave wooden logs and heavy stones. Gentle wind ripples distant flags and stirs nearby foliage under soft daylight, maintaining the 2D animated style throughout the ten-second scene."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Nhat Minh and Han Han on Da Nang beach under bright morning sunlight. Nhat Minh turns his head smoothly toward the camera, speaking with natural lip movement while gesturing gently with one hand. Han Han stands beside him, smiling softly and looking toward the horizon. In the background, gentle sea waves lap against the shore, and sea breeze softly ripples their orange polo shirts and hair."
+  }
+ ]
+}

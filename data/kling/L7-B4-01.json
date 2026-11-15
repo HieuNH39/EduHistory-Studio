@@ -1,0 +1,42 @@
+{
+ "ma": "L7-B4-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh in FPT school uniforms standing before a large wall photograph of the Forbidden City. Hân Hân gently turns her head toward Nhật Minh, speaking with natural lip movement while gesturing with one hand toward the palace roofs. Nhật Minh nods attentively, shifting his weight slightly and looking at the photo. Subtle lighting shifts across the classroom background, and tiny dust motes drift softly in the air."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, sweeping aerial push-in reveals vast armies with diverse banners deployed across the yellow earth plain. In the mid-ground, a massive, disciplined Qin army in uniform armor steadily advances forward in orderly formations. Dust swirls gently around their marching boots, and colorful battle flags ripple in the wind under a vast sky, capturing a tense, monumental historical buildup without any direct combat."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures Emperor Qin Shi Huang in his traditional black and red imperial robe with a beaded crown, standing sternly atop a palace dais. He slowly raises one hand in a commanding gesture while his head turns slightly to survey the court. Below him, rows of kneeling ministers in ancient court attire gently lower their heads deeper in submission. Wisps of incense smoke drift upward in the background light, and the hanging bead fringe on the emperor's crown sways subtly with his movements."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Liu Bang, dressed in historical armor and a red cloak, sits atop a majestic horse that walks steadily forward through a grand stone gatehouse. Soldiers lining the path hold aloft crimson banners featuring ancient Han characters that ripple gently in the wind. Dust lightly rises from the cobblestone street beneath the horse's hooves. The camera performs a slow push-in toward Liu Bang, capturing the flowing motion of his cloak and beard in the breeze."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, smooth pan to the right across the illustrated scroll. In the background, banners fluttering gently on fragmented citadel walls dissolve as the landscape shifts. A large, unified army carrying bright flags marches steadily forward from left to right across the terrain. Dust rises beneath their marching feet, and flags ripple dynamically in the wind, creating a fluid sense of historical transition and forward momentum."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera shot. In front of a detailed illustration of the Forbidden City, Nhat Minh wearing an orange polo shirt turns his head to look directly at the viewer with a friendly expression. He raises his hand to gesture toward a long arrow drawn on a white board beside him, his lips moving naturally as if speaking. In the background, soft light shifts gently across the historical artwork while leaves in the courtyard tree sway slightly in a mild breeze."
+  }
+ ]
+}

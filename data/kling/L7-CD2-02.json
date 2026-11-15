@@ -1,0 +1,48 @@
+{
+ "ma": "L7-CD2-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera moves toward the wooden desk. Nhật Minh and Hân Hân, wearing orange FPT polo shirts, sit side by side looking at a tablet. Hân Hân raises her right hand and uses two fingers to zoom in on the screen displaying a white city landscape. Nhật Minh turns his head slightly toward her, nodding and gesturing naturally with his hand while speaking. Soft ambient light shifts gently across the room."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân in orange polo shirts standing on a rocky hillside. Hân Hân gently turns her head to smile and speaks with natural lip movement while gesturing toward the coast below. Nhật Minh nods, points out toward the azure bay, and shifts his weight. In the background, calm turquoise water gently laps against the rugged shoreline while distant sailboats sway softly at anchor, and sparse tree branches sway lightly in a soft breeze."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera shot reveals a bustling port workshop. Blacksmiths rhythmically hammer glowing metal at the forge, while artisans arrange pottery near the doorway. In the background, workers steadily carry crates onto wooden sailboats bobbing on gentle harbor waves. In the foreground, Nhật Minh and Hân Hân stand quietly beside a stone pillar; Nhật Minh turns his head slightly toward Hân Hân and speaks with natural lip movement while gesturing thoughtfully at the lively port scene."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the bustling Port of Piraeus with gentle ripples moving across the blue water and ancient sailing ships swaying slightly at the wooden docks. Merchants in traditional tunics actively unload cargo crates from the moored vessels. In the foreground, a Greek merchant in a white draped tunic gestures warmly with his right hand, smiling and nodding to welcome arriving traders, while background figures move naturally about their work."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot focuses on the solemn pier scene. In the background, silhouetted slaves in worn tunics stand in a quiet, orderly queue with lowered heads, waiting patiently. In the foreground, Nhật Minh and Hân Hân stand silently side by side in orange polo shirts, gently turning their heads to watch the scene with respectful, somber expressions. Soft coastal wind subtly ripples their collars and creates gentle movement across the muted background water."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the bustling ancient stone square. In the foreground, two modern students in orange polo shirts, Nhat Minh and Han Han, turn their heads and converse with natural lip movements while observing the surroundings. Around them, citizens passionately gesture during a heated debate, a poet recites verses to an attentive crowd, a sculptor chips at a marble statue, and a scholar draws geometric shapes on a wax tablet. Background flags flutter gently in the breeze."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures two 15-year-old students in orange polo shirts seated beside a glowing tablet displaying modern Athens. Nhật Minh gently turns his head toward the viewer with a slight smile. Hân Hân looks directly at the camera, raising her hand to brightly gesture a peace sign representing a choice, her mouth moving naturally as she speaks. Soft ambient light flickers gently on their faces, and the background remains static."
+  }
+ ]
+}

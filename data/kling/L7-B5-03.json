@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B5-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Nhat Minh and Han Han standing inside the Indian cultural booth. Both students, wearing orange polo shirts, smile warmly and gesture naturally with their hands as they speak to the camera with subtle lip movements. In the background, colorful sari fabrics gently sway, hanging lanterns softly rotate in a mild breeze, and detailed photo collages of Hindu temples and Islamic domes remain static on the decorated display board."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow panning camera tracks a wide landscape of a dry northern Indian plain. A column of Turkish Muslim cavalry wearing turbans and chainmail armor gallops steadily from left to right across the dusty terrain. Vibrant green banners flutter dynamically in the wind above the riders. In the foreground, dry grass sways gently, and dust clouds rise and drift slowly behind the galloping horses under a bright sky."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot focuses on the majestic vaulted Delhi palace. The Muslim king sits upright on his high throne, slowly turning his head to address the court. Nearby generals in turbans gesture respectfully with subtle nods and hand movements. In the distant background, Hindu officials stand motionless with folded hands. Wisps of incense smoke drift gently through the pillars, while the warm interior lighting softly shimmers across the ornate marble floor."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "In this 5-second animated historical scene, the camera executes a slow, majestic push-in toward the center. In the midground, the Delhi army advances southward across the rocky hills, led by heavily armored war elephants swaying rhythmically as they walk. In the background, banners flutter gently in the wind, and distant fortresses of small principalities stand under a hazy sky. Hân Hân, wearing her orange polo shirt, appears in the foreground, turning her head slightly toward the camera with natural lip movement as she speaks, while maintaining her 2D animated style."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on Ba-ran standing on the earthen ridge of a lush green rice field, his white tunic and turban gently fluttering in the warm breeze. He gazes peacefully across the vast, undulating paddies and distant clustered village rooftops under a clear sky. A few tall trees sway softly in the background, and vibrant green rice stalks ripple in rolling waves across the landscape."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "A slow forward push-in shot captures Nhật Minh and Hân Hân in orange polo shirts walking steadily through the bustling Delhi-era Indian seaport. In the background, diverse merchants in traditional tunics gesture animatedly while trading bundles of textiles, spices, and pottery. Several wooden sailing ships rock gently against the stone docks on rippling water. Nhật Minh turns his head slightly toward Hân Hân, both speaking with natural lip movement as they observe the lively port surroundings."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this tense Indian village square, a diverse crowd of villagers angrily raises their fists and gestures toward the magistrate's building in protest. Flags and banners flutter briskly in the wind, and dust swirls around the feet of the restless demonstrators. In the foreground, student narrators Hân Hân and Nhật Minh stand in their orange polo shirts, turning their heads slightly and speaking with natural lip movements to explain the historical context. The camera executes a slow, steady push-in toward the crowd."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan across the bustling Indian marketplace reveals dome-topped mosques and intricately carved Hindu temples under a warm sun. In the midground, diverse townspeople in vibrant traditional garments walk through the crowded street, trading goods and conversing amicably. Banners flutter gently in a light breeze, and dust motes drift softly in shafts of sunlight filtering between buildings, creating a peaceful, harmonious atmosphere."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A gentle slow push-in shot captures Nhật Minh and Hân Hân standing between the Indian temple and mosque photographs. Nhật Minh turns his head slightly toward Hân Hân with a warm smile, gesturing open-palmed toward the exhibits while speaking with natural lip movement. Hân Hân nods softly, her gaze shifting naturally between the camera and the displays. In the background, soft light shifts slightly across the posters as the vibrant festival atmosphere gently hums with subtle ambient motion."
+  }
+ ]
+}

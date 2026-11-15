@@ -1,0 +1,54 @@
+{
+ "ma": "L8-CD1-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures a bustling Mekong Delta floating market at sunrise. Dozens of wooden boats laden with colorful fruits rock gently on the sparkling, flowing river water, with tall bamboo pole signifiers swaying in the breeze. In the foreground, Hân Hân and Nhật Minh sit inside a small wooden sampan; Hân Hân smiles and gestures naturally as she speaks with subtle lip movement, while Nhật Minh turns his head slightly toward her, holding a sugarcane juice glass and nodding in agreement."
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh standing on the Cà Mau coastline. Hân Hân turns her head slightly to speak with natural lip movement, gesturing toward the eroded shore while the wind ripples their orange polo shirts and hair. In the background, mangrove leaves and exposed roots sway gently in the coastal breeze, and distant sea waves lap rhythmically against the muddy bank under a breezy, overcast sky."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures a bustling ancient Funan trading port in southern Vietnam. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, stand together; Hân Hân gestures naturally toward the harbor while speaking with subtle lip movement, and Nhật Minh turns his head to listen, nodding thoughtfully. In the midground, wooden stilthouses and bustling traditional boats drift along the shimmering, rippling canals, while lush water-rice fields sway gently in a soft breeze under a clear sky."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, gentle push-in camera captures a desolate, overcast southern Vietnamese wetland. In the foreground, 15-year-old students Nhật Minh and Hân Hân, wearing orange polo shirts, stand side by side; Hân Hân gently turns her head to speak with natural lip movement while gesturing toward the barren landscape, and Nhật Minh nods thoughtfully with a solemn expression. In the background, murky tidal water slowly ripples across abandoned fields, dense mangrove leaves rustle in a soft breeze, and heavy gray mist drifts low over the marshes."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow pan tracks the historical scene as Vietnamese settlers in traditional 17th-century peasant attire smoothly row wooden canoes along a winding canal. In the background, residents clear brush, spade soil, and build thatched houses. Along the lush grassy bank, young children playfully chase each other and wave. Sunlight gently glints off the flowing water, and soft green leaves sway in a light breeze, maintaining the warm, animated-film illustration style throughout."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures laborers shoveling dirt onto riverbanks along a straight canal with gently flowing water. On the makeshift wooden platform, a Nguyen Dynasty mandarin slowly unfurls an imperial decree while speaking with natural lip movement. In a seamless inset vignette inspired by historical archives, Emperor Minh Mang nods and brushes ink onto a scroll. Flags flutter gently in the breeze against the sunlit landscape."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Nhật Minh and Hân Hân standing on a bustling floating market at noon. In the background, wooden raft houses line the riverbank with vibrant flower pots swaying slightly on porches, while small boats glide gently past on rippling water. Nhật Minh turns his head toward Hân Hân, smiling and gesturing naturally with his hand while speaking. Hân Hân nods in agreement, her mouth moving naturally in conversation as a warm breeze ripples their orange polo shirts."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Slow push-in on a 2D animated film scene at sunset. The wooden boat gently bobs on the golden, shimmering river water. Nhat Minh sits calmly beside Han Han, both wearing orange polo shirts. Han Han turns her head slightly toward the viewer with a warm smile, raising one hand in a welcoming gesture as her lips move naturally in speech. In the background, the river current flows softly while the warm evening breeze gently ripples their hair and clothing."
+  }
+ ]
+}

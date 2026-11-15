@@ -456,7 +456,7 @@ def index_html(ds):
             the.append(f"""<li data-nhom="{nh}" data-lop="{lop}"><a class="the-mp" href="{tap['href'] if tap.get('href') else tap['ma'] + '.html'}">
 <span class="khung-anh">{hinh}<span class="loai loai-{nh}">{E(NHOM[nh])}</span></span>
 <span class="than-the"><span class="bai">Lớp {lop} · {E(tap['bai'])}</span>
-<span class="ten">{E(tap['ten_tap'])}</span>
+<span class="ten">{TV.et(tap['ten_tap'])}</span>
 <span class="mota">{E(cfg['mo_ta'])}</span></span></a></li>""")
         phan.append(f'<section class="nhom-lop" aria-labelledby="lop-{lop}"><h2 id="lop-{lop}"><span class="so-lop">{lop}</span>Lịch sử {lop}</h2><ul class="luoi-the">{"".join(the)}</ul></section>')
     thu_tu = ["tran", "ban", "ba_chieu", "truc_thoi_gian", "so_do"]

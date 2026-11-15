@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B2-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera slowly pushes in on the two students in a classroom. Hân Hân holds the antique bronze compass, turning it slightly in her hands while speaking with natural lip movement. Beside her, Nhật Minh gently spins the large globe with one hand, nodding as he looks at it, then turns his head slightly toward Hân Hân to speak. In the background, soft light filters through the window, and dust motes drift gently in the air."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A 15-year-old female student in an orange polo shirt stands in the foreground, speaking with natural lip movement and gesturing gently with one hand. In the background at a late 15th-century European port, sailors bustle about, carrying wooden barrels across the docks. Three-masted sailing ships sway gently on the harbour water, and historic maritime flags flutter briskly in the sea breeze. The camera performs a slow push-in toward the student."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Bartolomeu Dias, dressed in a 15th-century sailor cloak and cap with a beard, grips a wooden mast tightly as violent storm waves crash over the ship's wooden deck. In the background, distressed sailors frantically pull on thick ropes to secure the tattered sails against the gale. Wind whips furiously through the rigging, tossing spray into the air while lightning flashes in the dark sky. The camera slowly pushes in on Dias’s determined, weather-beaten face."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Christopher Columbus stands firmly on the rolling wooden deck of a 15th-century sailing ship, slowly raising his arm to point toward the distant western horizon against a vibrant sunset. The ship's canvas sails billow gently in the sea breeze, and ocean waves lap against the hull. Nearby sailors turn their heads in awe to follow his gesture. The camera performs a slow push-in toward Columbus, capturing the dramatic lighting and dynamic movement of the sea."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Four sailing ships slowly glide forward across calm harbor waters at dawn, sails billowing gently in the morning breeze. Vasco da Gama stands tall at the bow of the lead vessel, his long beard and dark red cloak swaying softly as he gazes forward with a determined expression, occasionally turning his head slightly. The camera executes a slow, cinematic push-in toward da Gama, while soft ripples spread outward from the wooden hulls and a faint morning mist drifts across the horizon."
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow horizontal pan across the bustling European port illustration. In the foreground, a large wooden sailing ship gently bobs on rippling blue harbor water as docked cargo boxes and treasure chests are unloaded. Nearby, a seated merchant in period attire meticulously writes in a large ledger, moving his quill hand steadily. In the mid-ground, sailors bustle about the docks, and in the distant background, a medieval merchant vessel sails peacefully across the calm sea under a soft sky."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures fifteen-year-old students Nhật Minh and Hân Hân standing inside their classroom, dressed in orange polo shirts. Hân Hân turns her head slightly toward Nhật Minh, gesturing naturally with one hand toward the projector screen behind them while speaking with subtle lip movement. Nhật Minh nods in agreement, looking at the screen which displays a still image of the stone monument. Soft ambient light shifts gently across the room."
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures two 15-year-old students in orange polo shirts looking toward the viewer with friendly expressions. Hân Hân gently holds up an antique brass compass in her hand. Beside her, Nhật Minh smiles and raises one hand in a welcoming gesture to invite commentary, his lips moving naturally as if speaking. The soft-lit classroom background remains still, with subtle ambient lighting shifts."
+  }
+ ]
+}
