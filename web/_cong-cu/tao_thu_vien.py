@@ -827,7 +827,7 @@ def trang_index(bai_ds, ds, cap_nhat):
 <div class="rong bia-luoi">
  <div class="bia-chu">
   <h1 id="tieu-de-trang" class="mot-dong">ChronoVibe Team&nbsp;-&nbsp;EduHistory</h1>
-  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
+  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn&nbsp;tập</p>
   <div class="o-tim" role="search">
     <label for="tim" class="an-chu">Tìm trong thư viện</label>
     <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện…" aria-describedby="goi-y-tim">
@@ -1074,7 +1074,7 @@ def trang_gioi_thieu(ds, cap_nhat):
     than = f"""<div class="rong gioi-thieu">
 <header class="dau-gt">
   <h1 class="mot-dong">ChronoVibe Team&nbsp;-&nbsp;EduHistory</h1>
-  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
+  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn&nbsp;tập</p>
   <p class="dan">EduHistory Studio chuyển bài học Lịch sử lớp 6–9 thành video hoạt hình ngắn, kèm ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Đây là dự án dự thi FPT School STEMPETITION 2027 (bảng THCS, Challenge 3: Smart Education) của đội ChronoVibe, Trường TH, THCS &amp; THPT FPT Bắc Giang.</p>
 </header>
 <dl class="so-lieu so-lieu-gt"><div><dt>Video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>Kịch bản đã đối chiếu SGK</dt><dd>{n_k}</dd></div><div><dt>Câu hỏi ôn tập</dt><dd>{n_cau}</dd></div><div><dt>Mô phỏng tương tác</dt><dd>{n_mp}</dd></div></dl>

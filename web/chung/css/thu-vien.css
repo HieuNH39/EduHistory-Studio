@@ -575,3 +575,6 @@ h1.mot-dong { white-space: nowrap; max-width: none; letter-spacing: -.035em; }
   .rap .dau-tap h1.rat-dai { font-size: 1.2rem; }
   a.ten-tap, span.ten-tap { font-size: .92em; }
 }
+
+/* 15/11 tối: đoạn văn không để một chữ lẻ ở dòng cuối (ví dụ "ôn / tập" ở bìa) */
+.bia p, .dan, .gioi-thieu p, .dau-tap p, .the-mp p, footer p { text-wrap: pretty; }

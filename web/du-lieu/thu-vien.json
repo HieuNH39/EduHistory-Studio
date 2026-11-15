@@ -6074,15 +6074,20 @@
    "ten_tap_en": "China Under Attack by the Imperialist Powers",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     62,
     63
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 131.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B14-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B14-01.jpg",
    "trang": "tap/L8-B14-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6188,15 +6193,20 @@
    "ten_tap_en": "India Under British Colonial Rule",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     67,
     68
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 157.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B15-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B15-01.jpg",
    "trang": "tap/L8-B15-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6210,16 +6220,21 @@
    "ten_tap_en": "Southeast Asia: The Struggle Against Colonialism",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     68,
     69,
     70
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 249.3,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B15-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B15-02.jpg",
    "trang": "tap/L8-B15-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6475,14 +6490,19 @@
    "ten_tap_en": "The Cần Vương Edict: A Call to Save the Nation",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     84
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 50.3,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B18-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B18-01.jpg",
    "trang": "tap/L8-B18-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
