@@ -18,8 +18,17 @@ def engine():
     return _tts
 
 # đọc đúng một số từ viết tắt / số liệu hay gặp
-_REPL = [(r"\bEduHistory\b", "Ét-đu Hít-tơ-ri"), (r"\bTCN\b", "trước Công nguyên"), (r"\bSGK\b", "sách giáo khoa"), (r"(\d)\s*km\b", r"\1 ki-lô-mét"), (r"(\d)\s*m\b", r"\1 mét")]
+_REPL_CU = [(r"\bEduHistory\b", "Ét-đu Hít-tơ-ri"), (r"\bTCN\b", "trước Công nguyên"), (r"\bSGK\b", "sách giáo khoa"), (r"(\d)\s*km\b", r"\1 ki-lô-mét"), (r"(\d)\s*m\b", r"\1 mét")]
+# 15/11/2026: "EduHistory" để nguyên – VieNeu v3 Turbo đọc theo âm tiếng Anh; tên nước ngoài, số La Mã, khoảng năm: doc_chuan
+_REPL = [(r"\bTCN\b", "trước Công nguyên"), (r"\bSGK\b", "sách giáo khoa"), (r"(\d)\s*km\b", r"\1 ki-lô-mét"), (r"(\d)\s*m\b", r"\1 mét")]
+import doc_chuan
+
+def normalize_cu(text):
+    for a, b in _REPL_CU: text = re.sub(a, b, text)
+    return text
+
 def normalize(text):
+    text = doc_chuan.chuan(text)
     for a, b in _REPL: text = re.sub(a, b, text)
     return text
 
@@ -30,10 +39,14 @@ def voice_kw(speaker):
 
 def line_wav(speaker, text):
     v = CFG["tts"]["vieneu_voices"].get(speaker) or CFG["tts"]["vieneu_voices"]["_mac_dinh"]
-    key = hashlib.sha1(json.dumps([speaker, v, text, "v3turbo"], ensure_ascii=False).encode()).hexdigest()[:16]
+    moi = normalize(text)
+    if moi == normalize_cu(text):   # câu không đổi cách đọc → dùng lại bản đã thu
+        key = hashlib.sha1(json.dumps([speaker, v, text, "v3turbo"], ensure_ascii=False).encode()).hexdigest()[:16]
+    else:
+        key = hashlib.sha1(json.dumps([speaker, v, moi, "v3turbo-dc"], ensure_ascii=False).encode()).hexdigest()[:16]
     out = os.path.join(CACHE, f"{key}.wav")
     if not os.path.exists(out):
-        t = engine(); w = t.infer(normalize(text), **voice_kw(speaker))
+        t = engine(); w = t.infer(moi, **voice_kw(speaker))
         sf.write(out, w, t.sample_rate)
     return out
 

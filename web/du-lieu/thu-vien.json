@@ -2544,7 +2544,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L6-B16-01.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L6-B16-01.html",
    "so_cau_hoi": 4
   },
   {
@@ -2721,7 +2721,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L6-B18-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L6-B18-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -3456,7 +3456,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L7-B6-01.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B6-01.html",
    "so_cau_hoi": 4
   },
   {
@@ -3496,7 +3496,7 @@
     37
    ],
    "video": {
-    "thoi_luong": 57.4,
+    "thoi_luong": 57.3,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L7-B6-03.mp4"
@@ -3776,7 +3776,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L7-B9-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B9-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -3824,7 +3824,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L7-B10-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B10-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -3981,7 +3981,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L7-B12-01.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B12-01.html",
    "so_cau_hoi": 4
   },
   {
@@ -4223,7 +4223,7 @@
    "tiktok": null,
    "anh_bia": "du-lieu/anh-bia/L7-B14-03.jpg",
    "trang": "tap/L7-B14-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B14-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -4241,7 +4241,7 @@
     72
    ],
    "video": {
-    "thoi_luong": 231.1,
+    "thoi_luong": 231.4,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L7-B14-04.mp4"
@@ -4436,7 +4436,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L7-B16-04.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L7-B16-04.html",
    "so_cau_hoi": 4
   },
   {
@@ -5286,7 +5286,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B5-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B5-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -5311,7 +5311,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B5-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B5-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -5400,7 +5400,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B6-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B6-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -5472,7 +5472,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B7-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B7-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -6278,7 +6278,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B16-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B16-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -6343,7 +6343,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B16-05.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B16-05.html",
    "so_cau_hoi": 4
   },
   {
@@ -6477,7 +6477,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-B18-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-B18-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -6615,7 +6615,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-CD1-01.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-CD1-01.html",
    "so_cau_hoi": 4
   },
   {
@@ -6665,7 +6665,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L8-CD1-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-CD1-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -6742,7 +6742,7 @@
    "tiktok": null,
    "anh_bia": "du-lieu/anh-bia/L8-CD2-02.jpg",
    "trang": "tap/L8-CD2-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L8-CD2-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -6836,7 +6836,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B1-01.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B1-01.html",
    "so_cau_hoi": 4
   },
   {
@@ -7103,7 +7103,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B3-05.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B3-05.html",
    "so_cau_hoi": 4
   },
   {
@@ -7147,7 +7147,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B4-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B4-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -7739,7 +7739,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B9-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B9-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -7964,7 +7964,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B12-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B12-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -8051,7 +8051,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B12-06.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B12-06.html",
    "so_cau_hoi": 4
   },
   {
@@ -8219,7 +8219,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B14-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B14-03.html",
    "so_cau_hoi": 4
   },
   {
@@ -8246,7 +8246,7 @@
    "tiktok": null,
    "anh_bia": "du-lieu/anh-bia/L9-B14-04.jpg",
    "trang": "tap/L9-B14-04.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B14-04.html",
    "so_cau_hoi": 4
   },
   {
@@ -8316,7 +8316,7 @@
    "tiktok": null,
    "anh_bia": "du-lieu/anh-bia/L9-B15-02.jpg",
    "trang": "tap/L9-B15-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B15-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -8898,7 +8898,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B20-02.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B20-02.html",
    "so_cau_hoi": 4
   },
   {
@@ -8920,7 +8920,7 @@
    "tiktok": null,
    "anh_bia": null,
    "trang": "tap/L9-B20-03.html",
-   "mo_phong": null,
+   "mo_phong": "mo-phong/L9-B20-03.html",
    "so_cau_hoi": 4
   },
   {

@@ -1,6 +1,7 @@
-/* EduHistory Studio – Kho học liệu số: lọc và tìm kiếm thư viện, phát video, câu hỏi luyện tập.
+/* EduHistory Studio – Kho học liệu số: lọc và tìm kiếm thư viện, phát video, câu hỏi luyện tập,
+   mục lục bên trái, thả tim / chia sẻ / tải về / bình luận / sao chép mã video.
    Trang đã có sẵn nội dung (sinh bởi web/_cong-cu/tao_thu_vien.py); tệp này chỉ thêm tương tác.
-   Không gọi mạng, không cookie, không lưu dữ liệu người xem. */
+   Không gọi mạng, không cookie. Tim và bình luận chỉ lưu trong bộ nhớ trình duyệt của chính người xem (localStorage). */
 (function () {
   'use strict';
 
@@ -291,7 +292,230 @@
     ve(false);
   }
 
-  function batDau() { thuVien(); video(); luyenTap(); }
+
+  /* ================================================================ bộ nhớ trên máy người xem (an toàn khi bị chặn) */
+  var KHO = 'eduhistory:';
+  function docKho(k, macDinh) {
+    try { var v = window.localStorage.getItem(KHO + k); return v == null ? macDinh : JSON.parse(v); } catch (e) { return macDinh; }
+  }
+  function ghiKho(k, v) {
+    try { window.localStorage.setItem(KHO + k, JSON.stringify(v)); return true; } catch (e) { return false; }
+  }
+  var goc = (document.body && document.body.getAttribute('data-goc')) || '';
+
+  /* ================================================================ thông báo nhỏ */
+  var henTat = null;
+  function thongBao(chu) {
+    var t = $('.thong-bao');
+    if (!t) return;
+    t.textContent = chu; t.hidden = false; t.classList.add('hien');
+    clearTimeout(henTat);
+    henTat = setTimeout(function () { t.classList.remove('hien'); setTimeout(function () { t.hidden = true; }, 250); }, 2400);
+  }
+  function saoChep(chu, xong) {
+    function duPhong() {
+      var o = el('textarea'); o.value = chu; o.setAttribute('readonly', ''); o.style.position = 'fixed'; o.style.opacity = '0';
+      document.body.appendChild(o); o.select();
+      var ok = false; try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+      document.body.removeChild(o);
+      xong(ok);
+    }
+    if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(chu).then(function () { xong(true); }, duPhong);
+    else duPhong();
+  }
+
+  /* ================================================================ mục lục bên trái */
+  function mucLuc() {
+    var nut = $('.nut-menu'), ngan = document.getElementById('ngan-menu'), nen = $('.nen-menu');
+    if (!nut || !ngan) return;
+    var daNap = false;
+    function veDaThich() {
+      var hop = $('.da-thich', ngan), ul = $('ul', hop), ds = docKho('tim', []), menu = window.EDU_MENU;
+      ul.textContent = '';
+      if (!ds.length || !menu) { hop.hidden = true; return; }
+      var ten = {};
+      menu.lop.forEach(function (l) { l.bai.forEach(function (b) { b.tap.forEach(function (t) { ten[t.ma] = t.ten; }); }); });
+      ds.forEach(function (ma) {
+        if (!ten[ma]) return;
+        var li = el('li'), a = el('a', 'muc-tap co-video', ten[ma]);
+        a.href = goc + 'tap/' + ma + '.html'; li.appendChild(a); ul.appendChild(li);
+      });
+      hop.hidden = !ul.children.length;
+    }
+    function dung() {
+      var cay = $('.cay-menu', ngan), menu = window.EDU_MENU;
+      cay.textContent = '';
+      var tapNay = document.querySelector('[data-trang="tap"]');
+      var maHienTai = tapNay ? tapNay.getAttribute('data-ma') : null;
+      menu.lop.forEach(function (l) {
+        var dl = el('details', 'menu-lop'), sl = el('summary');
+        sl.appendChild(el('span', 'so', String(l.lop)));
+        sl.appendChild(el('span', 'ten', 'Lịch sử ' + l.lop));
+        var dv = 0; l.bai.forEach(function (b) { b.tap.forEach(function (t) { dv += t.v; }); });
+        sl.appendChild(el('span', 'dem', dv + ' video'));
+        dl.appendChild(sl);
+        var ol = el('ol', 'menu-bai');
+        l.bai.forEach(function (b) {
+          var li = el('li'), db = el('details', 'menu-mot-bai'), sb = el('summary');
+          sb.appendChild(el('span', 'nhan', b.nhan));
+          sb.appendChild(el('span', 'ten', b.ten));
+          db.appendChild(sb);
+          var con = el('div', 'menu-con');
+          var cv = b.tap.filter(function (t) { return t.v; });
+          if (cv.length) {
+            con.appendChild(el('p', 'nhom', 'Video'));
+            var u = el('ul');
+            cv.forEach(function (t) {
+              var a = el('a', 'muc-tap co-video'); a.href = goc + 'tap/' + t.ma + '.html';
+              a.appendChild(el('span', 'ten', t.ten)); if (t.tl) a.appendChild(el('span', 'tl', t.tl));
+              if (t.ma === maHienTai) { a.setAttribute('aria-current', 'page'); db.open = true; dl.open = true; }
+              var li2 = el('li'); li2.appendChild(a); u.appendChild(li2);
+            });
+            con.appendChild(u);
+          }
+          if (b.mp.length) {
+            con.appendChild(el('p', 'nhom', 'Mô phỏng'));
+            var u2 = el('ul');
+            b.mp.forEach(function (m) {
+              var a = el('a', 'muc-mp'); a.href = goc + m.href;
+              a.appendChild(el('span', 'ten', m.ten)); a.appendChild(el('span', 'tl', m.loai));
+              if (location.pathname.slice(-m.href.length) === m.href) { a.setAttribute('aria-current', 'page'); db.open = true; dl.open = true; }
+              var li3 = el('li'); li3.appendChild(a); u2.appendChild(li3);
+            });
+            con.appendChild(u2);
+          }
+          var khac = b.tap.filter(function (t) { return !t.v; });
+          if (khac.length) {
+            con.appendChild(el('p', 'nhom', 'Ôn tập (video đang dựng)'));
+            var u3 = el('ul');
+            khac.forEach(function (t) {
+              var a = el('a', 'muc-tap'); a.href = goc + 'tap/' + t.ma + '.html'; a.appendChild(el('span', 'ten', t.ten));
+              if (t.ma === maHienTai) { a.setAttribute('aria-current', 'page'); db.open = true; dl.open = true; }
+              var li4 = el('li'); li4.appendChild(a); u3.appendChild(li4);
+            });
+            con.appendChild(u3);
+          }
+          if (!con.children.length) con.appendChild(el('p', 'trong', 'Bài này đang được viết kịch bản.'));
+          db.appendChild(con); li.appendChild(db); ol.appendChild(li);
+        });
+        dl.appendChild(ol); cay.appendChild(dl);
+      });
+      veDaThich();
+      var dangMo = $('[aria-current="page"]', cay);
+      if (dangMo) setTimeout(function () { dangMo.scrollIntoView({ block: 'center' }); }, 30);
+    }
+    function nap(xong) {
+      if (window.EDU_MENU) { xong(); return; }
+      var sc = document.createElement('script');
+      sc.src = ngan.getAttribute('data-nguon');
+      sc.onload = xong;
+      sc.onerror = function () { $('.cay-menu', ngan).textContent = 'Không tải được mục lục.'; };
+      document.head.appendChild(sc);
+    }
+    function mo() {
+      ngan.hidden = false; nen.hidden = false;
+      requestAnimationFrame(function () { ngan.classList.add('mo'); nen.classList.add('mo'); });
+      nut.setAttribute('aria-expanded', 'true');
+      document.documentElement.classList.add('khoa-cuon');
+      if (!daNap) { daNap = true; nap(dung); } else veDaThich();
+      setTimeout(function () { var d = $('.nut-dong-menu', ngan); if (d) d.focus(); }, 60);
+    }
+    function dong() {
+      ngan.classList.remove('mo'); nen.classList.remove('mo');
+      nut.setAttribute('aria-expanded', 'false');
+      document.documentElement.classList.remove('khoa-cuon');
+      setTimeout(function () { ngan.hidden = true; nen.hidden = true; }, itChuyenDong ? 0 : 240);
+      nut.focus();
+    }
+    nut.addEventListener('click', function () { if (ngan.hidden) mo(); else dong(); });
+    $('.nut-dong-menu', ngan).addEventListener('click', dong);
+    nen.addEventListener('click', dong);
+    document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !ngan.hidden) dong(); });
+  }
+
+  /* ================================================================ trang tập: quay lại, thanh hành động */
+  function quayLai() {
+    $$('[data-quay-lai]').forEach(function (a) {
+      a.addEventListener('click', function (ev) {
+        var cung = false;
+        try { cung = document.referrer && new URL(document.referrer).origin === location.origin && history.length > 1; } catch (e) { cung = false; }
+        if (cung) { ev.preventDefault(); history.back(); }
+      });
+    });
+  }
+
+  function hanhDong() {
+    $$('.hanh-dong').forEach(function (h) {
+      var ma = h.getAttribute('data-ma'), ten = h.getAttribute('data-ten') || ma;
+      // thả tim
+      var tim = $('.hd-tim', h);
+      function veTim() {
+        var co = docKho('tim', []).indexOf(ma) >= 0;
+        tim.setAttribute('aria-pressed', co ? 'true' : 'false');
+        $('span', tim).textContent = co ? 'Đã thích' : 'Thích';
+      }
+      veTim();
+      tim.addEventListener('click', function () {
+        var ds = docKho('tim', []), i = ds.indexOf(ma);
+        if (i >= 0) ds.splice(i, 1); else ds.unshift(ma);
+        if (!ghiKho('tim', ds)) { thongBao('Trình duyệt đang chặn bộ nhớ nên chưa lưu được lượt thích.'); return; }
+        veTim();
+        if (i < 0) { tim.classList.remove('no'); void tim.offsetWidth; tim.classList.add('no'); thongBao('Đã thêm vào “Video em đã thích” trong Mục lục.'); }
+      });
+      // chia sẻ
+      $('.hd-chia-se', h).addEventListener('click', function () {
+        var url = location.href.split('#')[0];
+        var du = { title: ten + ' | EduHistory', text: 'Cùng xem video Lịch sử “' + ten + '” trên EduHistory', url: url };
+        if (navigator.share && /^https?:/.test(location.protocol)) {
+          navigator.share(du).catch(function () { /* người xem huỷ */ });
+        } else {
+          saoChep(url, function (ok) { thongBao(ok ? 'Đã sao chép đường link video để em gửi cho bạn.' : 'Chưa sao chép được, em hãy sao chép địa chỉ trên thanh trình duyệt.'); });
+        }
+      });
+      // sao chép mã
+      $('.hd-ma', h).addEventListener('click', function () {
+        saoChep(ma, function (ok) { thongBao(ok ? 'Đã sao chép mã video ' + ma + '. Dán vào ô tìm kiếm của thư viện để mở lại.' : 'Mã video: ' + ma); });
+      });
+      // tải về: trên file:// trình duyệt có thể mở thay vì tải – vẫn để mặc định
+      var tai = $('.hd-tai', h);
+      if (tai) tai.addEventListener('click', function () { thongBao('Đang tải video ' + ma + ' về máy…'); });
+      // bình luận
+      var nutBl = $('.hd-bl', h), hop = document.getElementById('bl-' + ma);
+      if (!nutBl || !hop) return;
+      var ds = $('.bl-ds', hop), o = $('textarea', hop);
+      function ve() {
+        var bl = docKho('bl:' + ma, []);
+        ds.textContent = '';
+        bl.forEach(function (b, i) {
+          var li = el('li'), tg = new Date(b.t);
+          var dau = el('p', 'bl-dau');
+          dau.appendChild(el('span', 'bl-ai', 'Em'));
+          dau.appendChild(el('time', 'bl-tg', tg.toLocaleString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' })));
+          var x = el('button', 'bl-xoa'); x.type = 'button'; x.setAttribute('aria-label', 'Xoá bình luận này'); x.textContent = 'Xoá';
+          x.addEventListener('click', function () { var b2 = docKho('bl:' + ma, []); b2.splice(i, 1); ghiKho('bl:' + ma, b2); ve(); });
+          dau.appendChild(x);
+          li.appendChild(dau); li.appendChild(el('p', 'bl-chu', b.c)); ds.appendChild(li);
+        });
+        $('span', nutBl).textContent = bl.length ? 'Bình luận (' + bl.length + ')' : 'Bình luận';
+      }
+      ve();
+      nutBl.addEventListener('click', function () {
+        var mo = hop.hidden;
+        hop.hidden = !mo; nutBl.setAttribute('aria-expanded', mo ? 'true' : 'false');
+        if (mo) o.focus();
+      });
+      $('form', hop).addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        var c = o.value.replace(/\s+/g, ' ').trim();
+        if (!c) { o.focus(); return; }
+        var bl = docKho('bl:' + ma, []); bl.unshift({ c: c.slice(0, 500), t: Date.now() });
+        if (!ghiKho('bl:' + ma, bl)) { thongBao('Trình duyệt đang chặn bộ nhớ nên chưa lưu được bình luận.'); return; }
+        o.value = ''; ve(); thongBao('Đã lưu bình luận trên máy của em.');
+      });
+    });
+  }
+
+  function batDau() { mucLuc(); quayLai(); hanhDong(); thuVien(); video(); luyenTap(); }
   if (document.readyState !== 'loading') batDau();
   else document.addEventListener('DOMContentLoaded', batDau);
 })();

@@ -42,6 +42,54 @@ MA_TAP = re.compile(r"^L[6-9]-(?:B|CD)\d+-\d+$")
 TZ = datetime.timezone(datetime.timedelta(hours=7))
 e = lambda s: html.escape(str(s), quote=True)
 canh_bao = []
+# liên hệ ở chân trang (sửa web/du-lieu/lien-he.json khi có kênh TikTok/YouTube)
+LIEN_HE_TEP = os.path.join(WEB, "du-lieu", "lien-he.json")
+LIEN_HE = {"tiktok": "", "youtube": "", "zalo": "0965479188", "ten_kenh": "EduHistory"}
+if os.path.exists(LIEN_HE_TEP):
+    LIEN_HE.update({k: v for k, v in json.load(open(LIEN_HE_TEP, encoding="utf-8")).items() if not k.startswith("_")})
+
+# biểu tượng nét (24×24, nét tròn) – cùng một kiểu cho toàn site
+def _ic(d, cls="ic"):
+    return (f'<svg class="{cls}" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false" fill="none" '
+            f'stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">{d}</svg>')
+ICON = {
+    "tim": _ic('<path d="M12 20.2s-7.6-4.6-7.6-10.1A4.3 4.3 0 0 1 12 7.6a4.3 4.3 0 0 1 7.6 2.5c0 5.5-7.6 10.1-7.6 10.1z"/>'),
+    "chia_se": _ic('<circle cx="18" cy="5.5" r="2.6"/><circle cx="6" cy="12" r="2.6"/><circle cx="18" cy="18.5" r="2.6"/><path d="m8.3 10.8 7.4-4.1M8.3 13.2l7.4 4.1"/>'),
+    "tai_ve": _ic('<path d="M12 3.8v11.4M7.4 10.8 12 15.4l4.6-4.6"/><path d="M4.5 16.6v1.6a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-1.6"/>'),
+    "binh_luan": _ic('<path d="M20 11.4c0 4-3.6 7.1-8 7.1-1.1 0-2.2-.2-3.1-.6L4.4 19.6l1.3-3.6A6.6 6.6 0 0 1 4 11.4C4 7.5 7.6 4.3 12 4.3s8 3.2 8 7.1z"/><path d="M8.6 11.5h.01M12 11.5h.01M15.4 11.5h.01"/>'),
+    "ma": _ic('<rect x="8.4" y="8.4" width="11.6" height="11.6" rx="2.4"/><path d="M15.6 8.4V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v7.6a2 2 0 0 0 2 2h2.4"/>'),
+    "quay_lai": _ic('<path d="M19.5 12H5M11 5.6 4.6 12l6.4 6.4"/>'),
+    "menu": _ic('<path d="M4 6.5h16M4 12h11M4 17.5h16"/>'),
+    "dong": _ic('<path d="M6 6l12 12M18 6 6 18"/>'),
+    "phat": _ic('<path d="M8 5.6v12.8a.8.8 0 0 0 1.2.7l10-6.4a.8.8 0 0 0 0-1.4l-10-6.4A.8.8 0 0 0 8 5.6z"/>'),
+    "mo_phong": _ic('<path d="M12 3.6 20 8v8l-8 4.4L4 16V8z"/><path d="M4 8l8 4.4L20 8M12 12.4v8"/>'),
+    "tiktok": _ic('<path d="M14.5 3.8v10.6a3.9 3.9 0 1 1-3.4-3.9"/><path d="M14.5 3.8c.6 2.4 2.4 4 4.8 4.2"/>'),
+    "youtube": _ic('<rect x="3.2" y="5.6" width="17.6" height="12.8" rx="3.6"/><path d="m10.3 9.4 4.6 2.6-4.6 2.6z"/>'),
+    "zalo": _ic('<path d="M20 11.2c0 3.9-3.6 7-8 7-1 0-2-.2-2.9-.5L4.6 19l1.1-3.3A6.5 6.5 0 0 1 4 11.2c0-3.9 3.6-7 8-7s8 3.1 8 7z"/><path d="M8.4 9.6h3.2l-3.2 3.6h3.2M14 9.6v3.6"/>'),
+    "gui": _ic('<path d="M20 4 9.6 14.4M20 4l-6.4 16-4-5.6L4 10.4z"/>'),
+    "xoa": _ic('<path d="M5 7h14M10 7V5h4v2M7 7l.8 12h8.4L17 7"/>'),
+}
+
+def chan_trang(goc="", cau=None):
+    """Chân trang: liên hệ bên trái, giới thiệu bên phải."""
+    ten = e(LIEN_HE.get("ten_kenh") or "EduHistory")
+    def muc(icon, nhan, url, phu=""):
+        noi = f'{ICON[icon]}<span><b>{nhan}:</b> {ten if icon != "zalo" else e(phu)}</span>'
+        if url:
+            return f'<li><a class="lien-he" href="{e(url)}" target="_blank" rel="noopener noreferrer">{noi}</a></li>'
+        return f'<li><span class="lien-he chua-co" title="Kênh sắp ra mắt">{noi}<small>sắp ra mắt</small></span></li>'
+    z = re.sub(r"\D", "", LIEN_HE.get("zalo") or "")
+    z_hien = f"{z[:4]} {z[4:7]} {z[7:]}" if len(z) == 10 else z
+    cau = cau or ("Hệ thống số hóa bài học Lịch sử thông qua video, mô phỏng, tương tác, câu hỏi ôn tập",
+                  "Chúc các bạn có những giờ phút học tập hiệu quả với EduHistory")
+    return (f'<footer class="chan"><div class="rong chan-luoi">'
+            f'<div class="chan-lien-he"><h2 class="an-chu">Liên hệ</h2><ul>'
+            + muc("tiktok", "TikTok", LIEN_HE.get("tiktok"))
+            + muc("youtube", "YouTube", LIEN_HE.get("youtube"))
+            + (muc("zalo", "Zalo", f"https://zalo.me/{z}", z_hien) if z else "")
+            + f'</ul></div><div class="chan-gt">{trong_dong("chan-trong")}<p class="chan-ten">ChronoVibe Team - EduHistory</p>'
+            f'<p>{e(cau[0])}</p><p class="chan-chuc">{e(cau[1])}</p></div></div></footer>')
+
 
 
 def bao(msg):
@@ -596,24 +644,62 @@ def khuon(tieu_de, mo_ta, than, goc="", dang="", lop_body="", cap_nhat=""):
 <link rel="icon" href="{goc}chung/img/favicon-64.png" type="image/png" sizes="64x64">
 <link rel="apple-touch-icon" href="{goc}chung/img/apple-touch-icon.png">
 <link rel="stylesheet" href="{goc}chung/css/thu-vien.css">
+<link rel="stylesheet" href="{goc}chung/css/khung-chung.css">
 </head>
-<body class="{lop_body}">
+<body class="{lop_body}" data-goc="{goc}">
 <a class="bo-qua" href="#noi-dung">Bỏ qua, tới nội dung chính</a>
 <header class="dau">
-  <a class="thuong-hieu" href="{goc}index.html"><img src="{goc}chung/img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số Lịch sử 6–9</small></span></a>
+  <button type="button" class="nut-menu" aria-controls="ngan-menu" aria-expanded="false">{ICON["menu"]}<span>Mục lục</span></button>
+  <a class="thuong-hieu" href="{goc}index.html"><img src="{goc}chung/img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số môn Lịch sử</small></span></a>
   <nav class="dieu-huong" aria-label="Điều hướng chính"><ul>{li}</ul></nav>
 </header>
+{ngan_menu(goc)}
 <main id="noi-dung" tabindex="-1">
 {than}
 </main>
-<footer class="chan">
-  <p>EduHistory Studio – đội ChronoVibe, Trường TH, THCS &amp; THPT FPT Bắc Giang. Nội dung theo SGK <i>Lịch sử và Địa lí</i> 6–9 (bộ sách dùng chung); số trang ghi kèm từng ý.</p>
-  <p>Không cần đăng nhập, không dùng cookie, không theo dõi người xem.{(" Cập nhật dữ liệu: " + cap_nhat + ".") if cap_nhat else ""}</p>
-</footer>
+{chan_trang(goc)}
+<div class="thong-bao" role="status" aria-live="polite" hidden></div>
 <script src="{goc}chung/js/thu-vien.js"></script>
 </body>
 </html>
 """
+
+
+def ngan_menu(goc=""):
+    """Ngăn mục lục bên trái: Lớp → Bài → video và mô phỏng (dữ liệu nạp từ du-lieu/menu.js khi mở)."""
+    return (f'<div class="nen-menu" hidden></div><nav id="ngan-menu" class="ngan-menu" aria-label="Mục lục bài học" hidden data-nguon="{goc}du-lieu/menu.js">'
+            f'<div class="dau-ngan"><p class="ten-ngan">Mục lục</p><button type="button" class="nut-dong-menu" aria-label="Đóng mục lục">{ICON["dong"]}</button></div>'
+            f'<div class="da-thich" hidden><p class="nhan-ngan">Video em đã thích</p><ul></ul></div>'
+            f'<div class="cay-menu"><p class="dang-tai">Đang tải mục lục…</p></div></nav>')
+
+
+def du_lieu_menu(bai_ds, mo_phong_them):
+    """window.EDU_MENU cho ngăn mục lục: lớp → bài → tập (có trang) + mô phỏng của bài."""
+    lop = []
+    for l in (6, 7, 8, 9):
+        bs = []
+        for b in [b for b in bai_ds if b["lop"] == l]:
+            tap = [{"ma": x["ma"], "ten": x["ten_tap"], "v": 1 if x["trang_thai"] == "co-video" else 0,
+                    "tl": phut_giay(x["video"]["thoi_luong"]) if x["video"] else ""} for x in b["tap"] if x["co_trang"]]
+            mp = [{"ten": (x["mo_phong"].get("ten") or x["ten_tap"]), "loai": x["mo_phong"]["loai"], "href": x["mo_phong"]["href"]}
+                  for x in b["tap"] if x["mo_phong"]]
+            mp += [m for m in mo_phong_them if m.get("bai") == b["id"]]
+            bs.append({"id": b["id"], "nhan": nhan_bai(b["ma"]), "ten": b["ten"], "tap": tap, "mp": mp,
+                       "tong": len(b["tap"])})
+        lop.append({"lop": l, "bai": bs})
+    return "window.EDU_MENU=" + json.dumps({"lop": lop}, ensure_ascii=False, separators=(",", ":")) + ";\n"
+
+
+def doc_mo_phong_them():
+    """Mô phỏng / mô hình 3D không gắn với một tập (web/mo-phong/data/danh-muc-them.json)."""
+    p = os.path.join(WEB, "mo-phong", "data", "danh-muc-them.json")
+    if not os.path.exists(p):
+        return []
+    out = []
+    for m in json.load(open(p, encoding="utf-8")):
+        if os.path.exists(os.path.join(WEB, m["href"])):
+            out.append({"ten": m["ten"], "loai": m["loai"], "href": m["href"], "bai": m.get("bai")})
+    return out
 
 
 def dong_tap(x, goc=""):
@@ -657,8 +743,6 @@ def trang_index(bai_ds, ds, cap_nhat):
         anh = (f'<img src="{e(x["anh_bia"])}" alt="" width="800" height="450" loading="lazy">' if x["anh_bia"]
                else trong_dong("anh-thay"))
         tl = f'<span class="thoi-luong">{phut_giay(x["video"]["thoi_luong"])}</span>' if x["video"] else ""
-        if x["huong"] == "doc":
-            tl += '<span class="nhan-doc">Video dọc</span>'
         tl += '<span class="nut-phat-nho" aria-hidden="true"></span>'
         the_video.append(f'<li><a class="the-video" href="tap/{x["ma"]}.html"><span class="khung-anh">{anh}{tl}</span>'
                          f'<span class="lop-bai">Lớp {x["lop"]}, {e(nhan_bai(b["ma"]))}</span>'
@@ -699,8 +783,8 @@ def trang_index(bai_ds, ds, cap_nhat):
     than = f"""<section class="bia" aria-labelledby="tieu-de-trang">
 <div class="rong bia-luoi">
  <div class="bia-chu">
-  <h1 id="tieu-de-trang">Lịch sử 6–9, kể bằng những thước phim</h1>
-  <p class="dan">Kho học liệu số theo SGK <i>Lịch sử và Địa lí</i> (bộ sách dùng chung): video bài học, ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Chọn lớp, hoặc tìm theo tên bài, nhân vật, sự kiện.</p>
+  <h1 id="tieu-de-trang">ChronoVibe Team&nbsp;- EduHistory</h1>
+  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
   <div class="o-tim" role="search">
     <label for="tim" class="an-chu">Tìm trong thư viện</label>
     <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện…" aria-describedby="goi-y-tim">
@@ -728,7 +812,7 @@ def trang_index(bai_ds, ds, cap_nhat):
   {"".join(khoi)}
 </div>
 </section>"""
-    return khuon("Kho học liệu số Lịch sử 6–9 | EduHistory Studio",
+    return khuon("ChronoVibe Team - EduHistory | Kho học liệu số môn Lịch sử",
                  "Thư viện video bài học Lịch sử lớp 6–9 theo SGK Lịch sử và Địa lí: video, ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác.",
                  than, dang="thu-vien", lop_body="trang-thu-vien", cap_nhat=cap_nhat)
 
@@ -763,6 +847,34 @@ def khoi_video(x, goi_y="Trong lúc chờ, em hãy đọc phần ghi nhớ và l
             f'<span>Video của tập này đang được dựng. {e(goi_y)}</span></p></div>')
 
 
+def thanh_hanh_dong(x):
+    """Thả tim, chia sẻ, tải về, bình luận, sao chép mã – tim và bình luận chỉ lưu trên máy người xem."""
+    if not (x["video"] or x["youtube_id"]):
+        return ""
+    ma = x["ma"]
+    nut = lambda cls, icon, chu, them="": (f'<button type="button" class="hd {cls}"{them}>{ICON[icon]}<span>{chu}</span></button>')
+    tai = ""
+    if x["video"]:
+        ten_tep = f'EduHistory_{ma}.mp4'
+        tai = (f'<a class="hd hd-tai" href="../{e(x["video"]["tep"])}" download="{ten_tep}">{ICON["tai_ve"]}<span>Tải về</span></a>')
+    cong_khai = [(f'<a href="{e(u)}" target="_blank" rel="noopener noreferrer">{t}</a>') for u, t in
+                 ((x["tiktok"], "TikTok"), (x["youtube"], "YouTube")) if u]
+    ngoai = (f'<p class="bl-ngoai">Bình luận công khai trên {" hoặc ".join(cong_khai)}.</p>' if cong_khai else "")
+    return (f'<div class="hanh-dong" data-ma="{ma}" data-ten="{e(x["ten_tap"])}">'
+            + nut("hd-tim", "tim", "Thích", ' aria-pressed="false"')
+            + nut("hd-chia-se", "chia_se", "Chia sẻ")
+            + tai
+            + nut("hd-bl", "binh_luan", "Bình luận", ' aria-expanded="false" aria-controls="bl-' + ma + '"')
+            + nut("hd-ma", "ma", f"Mã {ma}", f' data-ma="{ma}" title="Sao chép mã video"')
+            + '</div>'
+            f'<section class="binh-luan" id="bl-{ma}" hidden aria-label="Bình luận của em">'
+            f'<form class="bl-form"><label for="bl-o-{ma}" class="an-chu">Viết bình luận</label>'
+            f'<textarea id="bl-o-{ma}" rows="2" maxlength="500" placeholder="Em nghĩ gì về video này? Ghi lại điều em nhớ nhất…"></textarea>'
+            f'<button type="submit" class="bl-gui">{ICON["gui"]}<span>Gửi</span></button></form>'
+            f'<p class="bl-ghi-chu">Bình luận và lượt thích được lưu ngay trên máy của em, không gửi đi đâu, không cần đăng nhập.</p>{ngoai}'
+            f'<ol class="bl-ds"></ol></section>')
+
+
 def trang_tap(x, bai, truoc, sau, cap_nhat):
     kb = x["kb"] or {}
     ma, lop = x["ma"], x["lop"]
@@ -773,11 +885,12 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
               f'<li><a href="../index.html#lop-{lop}">Lớp {lop}</a></li>'
               f'<li><a href="../index.html#{bai["id"]}">{e(nb)}</a></li><li aria-current="page">Tập {x["so"]}</li></ol></nav>')
     the = [f'<span class="the the-lop">Lớp {lop}</span>',
-           f'<span class="the">{e(KHUNG.get(x["khung"], x["khung"]))}{", khung dọc" if x["huong"] == "doc" and x["khung"] != "60s" else ""}</span>',
+           f'<span class="the">{e(KHUNG.get(x["khung"], x["khung"]).replace(" dọc", ""))}</span>',
            f'<span class="the tt-{x["trang_thai"]}"><span class="dau-tt" aria-hidden="true"></span>{e(TT_CHU[x["trang_thai"]])}</span>']
     if x["video"]:
         the.append(f'<span class="the">{phut_giay(x["video"]["thoi_luong"])}</span>')
-    dau = (f'<div class="dau-tap">{vi_tri}<p class="bai-cua-tap">{e(nb)}. {e(bai["ten"])}</p>'
+    quay = (f'<a class="nut-quay-lai" href="../index.html#{bai["id"]}" data-quay-lai>{ICON["quay_lai"]}<span>Quay lại</span></a>')
+    dau = (f'<div class="dau-tap">{quay}{vi_tri}<p class="bai-cua-tap">{e(nb)}. {e(bai["ten"])}</p>'
            f'<h1>{e(x["ten_tap"])}</h1>'
            + (f'<p class="ten-en" lang="en">{e(x["ten_tap_en"])}</p>' if x["ten_tap_en"] else "")
            + f'<p class="cac-the">{"".join(the)}</p></div>')
@@ -798,7 +911,7 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
     goi_y = ("Trong lúc chờ, em hãy đọc phần ghi nhớ và làm câu hỏi ôn tập bên dưới." if co_gn and co_cau else
              "Trong lúc chờ, em hãy làm câu hỏi ôn tập bên dưới." if co_cau else
              "Trong lúc chờ, em hãy đọc phần ghi nhớ bên dưới." if co_gn else "Em hãy quay lại sau nhé.")
-    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x, goi_y)}'
+    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x, goi_y)}{thanh_hanh_dong(x)}'
              f'<p class="ghi-chu-phu-de" id="ghi-chu-phu-de"><span class="bieu-tuong-cc" aria-hidden="true">CC</span>{e(phu_de)}</p>{ngoai}</section>')
     # --- cột bên: SGK, mô phỏng
     nguon = kb.get("nguon") or {}
@@ -917,7 +1030,8 @@ def trang_gioi_thieu(ds, cap_nhat):
                  for i, (t, p) in enumerate(buoc, 1))
     than = f"""<div class="rong gioi-thieu">
 <header class="dau-gt">
-  <h1>Về EduHistory Studio</h1>
+  <h1>ChronoVibe Team&nbsp;- EduHistory</h1>
+  <p class="dan dan-lon">Số hóa bài học Lịch sử thông qua hệ thống video bài học, ghi nhớ kiến thức, mô phỏng tương tác, câu hỏi ôn tập</p>
   <p class="dan">EduHistory Studio chuyển bài học Lịch sử lớp 6–9 thành video hoạt hình ngắn, kèm ghi nhớ, câu hỏi ôn tập và mô phỏng tương tác. Đây là dự án dự thi FPT School STEMPETITION 2027 (bảng THCS, Challenge 3: Smart Education) của đội ChronoVibe, Trường TH, THCS &amp; THPT FPT Bắc Giang.</p>
 </header>
 <dl class="so-lieu so-lieu-gt"><div><dt>Video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>Kịch bản đã đối chiếu SGK</dt><dd>{n_k}</dd></div><div><dt>Câu hỏi ôn tập</dt><dd>{n_cau}</dd></div><div><dt>Mô phỏng tương tác</dt><dd>{n_mp}</dd></div></dl>
@@ -948,7 +1062,7 @@ def trang_gioi_thieu(ds, cap_nhat):
 
 <section class="muc-gt" aria-labelledby="h-rieng-tu">
   <h2 id="h-rieng-tu">Quyền riêng tư</h2>
-  <p>Website không cần tài khoản, không dùng cookie, không gửi dữ liệu đi đâu. Kết quả làm câu hỏi chỉ nằm trên trình duyệt và mất khi tải lại trang. Phông chữ và hình ảnh nằm sẵn trong website; trang chỉ kết nối ra ngoài khi em chủ động bấm “Phát video từ YouTube” hoặc mở link TikTok của một tập.</p>
+  <p>Website không cần tài khoản, không dùng cookie, không gửi dữ liệu đi đâu. Kết quả làm câu hỏi chỉ nằm trên trình duyệt và mất khi tải lại trang. Lượt thích và bình luận dưới mỗi video được lưu ngay trên máy của em (bộ nhớ trình duyệt), chỉ em nhìn thấy và có thể xoá bất cứ lúc nào. Phông chữ và hình ảnh nằm sẵn trong website; trang chỉ kết nối ra ngoài khi em chủ động bấm “Phát video từ YouTube” hoặc mở link TikTok của một tập.</p>
 </section>
 
 <section class="muc-gt" aria-labelledby="h-doi">
@@ -962,7 +1076,7 @@ def trang_gioi_thieu(ds, cap_nhat):
   <p class="ghi-chu-so">Website hỗ trợ việc học, không thay thế SGK và bài giảng của thầy cô. Nếu phát hiện chỗ chưa đúng, hãy báo cho giáo viên hướng dẫn kèm mã tập (ví dụ L7-B14-04) và số trang SGK.</p>
 </section>
 </div>"""
-    return khuon("Giới thiệu | EduHistory Studio",
+    return khuon("Giới thiệu | ChronoVibe Team - EduHistory",
                  "EduHistory Studio – dự án STEMPETITION 2027 của đội ChronoVibe: video Lịch sử 6–9 tạo bằng AI, kiểm chứng với SGK, Vibe Coding.",
                  than, dang="gioi-thieu", lop_body="trang-gt", cap_nhat=cap_nhat)
 
@@ -999,6 +1113,9 @@ def main():
             os.remove(p)
     ghi(os.path.join(WEB, "index.html"), trang_index(bai_ds, ds, cap_nhat), args.kiem_tra)
     ghi(os.path.join(WEB, "gioi-thieu.html"), trang_gioi_thieu(ds, cap_nhat), args.kiem_tra)
+    ghi(os.path.join(WEB, "du-lieu", "menu.js"), du_lieu_menu(bai_ds, doc_mo_phong_them()), args.kiem_tra)
+    if not os.path.exists(LIEN_HE_TEP) and not args.kiem_tra:
+        ghi(LIEN_HE_TEP, json.dumps(dict(LIEN_HE, _ghi_chu="Điền link kênh TikTok/YouTube khi có, rồi chạy lại tao_thu_vien.py và tao_trang.py."), ensure_ascii=False, indent=1) + "\n", False)
     # dữ liệu máy đọc được (cho công cụ khác, ứng dụng sau này)
     du_lieu = {
         "nguon": "Sinh tự động bởi web/_cong-cu/tao_thu_vien.py từ data/catalog, data/scripts, video đã dựng, web/mo-phong, web/du-lieu/lien-ket.json",

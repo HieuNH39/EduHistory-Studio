@@ -8,11 +8,77 @@ Ghi (chỉ trong web/mo-phong/):  data/tap/<MA>.js, data/ban-do/<ten>.js, data/g
 Nguyên tắc nội dung: mọi dữ kiện hiển thị lấy từ kịch bản đã đối chiếu SGK (data/scripts) – trang chỉ chứa
 các cảnh, câu hỏi được liệt kê trong CAU_HINH dưới đây; dòng nguồn (số trang) tính từ chính các cảnh/câu hỏi đó.
 Thư mục bắt đầu bằng dấu gạch dưới không được GitHub Pages (Jekyll) xuất bản."""
-import html, json, os, re
+import html, json, os, re, sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
 OUT = os.path.join(ROOT, "web", "mo-phong")
 DAN_CHUYEN = {"Nhật Minh", "Hân Hân"}
+sys.path.insert(0, os.path.join(ROOT, "web", "_cong-cu"))
+import tao_thu_vien as TV   # dùng chung: biểu tượng, ngăn mục lục, chân trang (không chạy main)
+
+# nhóm hiển thị trên trang danh sách
+NHOM = {"tran": "Sơ đồ trận đánh", "ban": "Bản đồ lịch sử", "ba_chieu": "Mô hình 3D", "truc_thoi_gian": "Trục thời gian", "so_do": "Sơ đồ tương tác"}
+TRAN_CO_SAN = {"L6-B18-04", "L7-B14-02", "L7-B14-04", "L7-B16-05", "L8-B8-02", "L8-B8-03", "L9-B15-03", "L9-B17-05"}
+
+# ---------------------------------------------------------------- bản đồ động sinh tự động từ sa bàn đã dựng cho video (15/11/2026)
+# (mã tập dùng sa bàn, tên sa bàn trong pipeline/maps/specs, nhóm) – dữ liệu sa bàn đã được kiểm tra khi dựng video
+TU_DONG = [
+ ("L6-B16-01", "hai-ba-trung-40", "tran"), ("L6-B18-02", "duong-dinh-nghe-931", "tran"), ("L7-B9-03", "12-su-quan", "tran"),
+ ("L7-B10-02", "chong-tong-981", "tran"), ("L7-B12-01", "tien-cong-1075", "tran"), ("L7-B14-03", "khang-chien-1285", "tran"),
+ ("L7-B16-04", "tot-dong-chuc-dong", "tran"), ("L9-B14-03", "viet-bac-1947", "tran"), ("L9-B14-04", "bien-gioi-1950", "tran"),
+ ("L9-B15-02", "dong-xuan-1953", "tran"),
+ ("L7-B6-01", "dong-nam-a-x-xvi", "ban"), ("L8-B5-02", "nam-bac-trieu", "ban"), ("L8-B5-03", "trinh-nguyen", "ban"),
+ ("L8-B6-03", "hoang-sa-chua-nguyen", "ban"), ("L8-B7-02", "nong-dan-dang-ngoai", "ban"), ("L8-B16-02", "hanh-chinh-nguyen", "ban"),
+ ("L8-B16-05", "hoang-sa-truong-sa", "ban"), ("L8-B18-02", "can-vuong", "ban"), ("L8-CD1-01", "hai-chau-tho", "ban"),
+ ("L8-CD1-03", "chau-tho-cuu-long", "ban"), ("L8-CD2-02", "duong-co-so", "ban"), ("L9-B1-01", "nga-xo-viet-1918", "ban"),
+ ("L9-B3-05", "dong-nam-a", "ban"), ("L9-B4-02", "ctgt2-giai-doan-1", "ban"), ("L9-B9-03", "chien-tranh-lanh", "ban"),
+ ("L9-B12-02", "cu-ba", "ban"), ("L9-B12-06", "asean", "ban"), ("L9-B20-02", "bao-ve-bien-gioi", "ban"),
+ ("L9-B20-03", "bien-dao-viet-nam", "ban"),
+]
+NHAN_PHA = {  # nhãn giai đoạn khi sa bàn không có mốc chữ
+ ("khang-chien-1285", "rut_lui"): "Nhà Trần rút khỏi Thăng Long", ("khang-chien-1285", "hoi_quan"): "Toa Đô hội quân với Thoát Hoan",
+ ("khang-chien-1285", "rut_chay"): "Quân Nguyên rút chạy về nước", ("duong-dinh-nghe-931", "dai_la"): "Vây đánh thành Đại La",
+ ("duong-dinh-nghe-931", "tiep_vien"): "Chặn quân tiếp viện Nam Hán", ("duong-dinh-nghe-931", "thang_loi"): "Thắng lợi",
+ ("hai-ba-trung-40", "tien_quan"): "Nghĩa quân tiến về Luy Lâu", ("hai-ba-trung-40", "thang_loi"): "Thắng lợi",
+ ("chien-tranh-lanh", "tong_quan"): "Toàn cảnh", ("cu-ba", "vi_tri"): "Vị trí Cu-ba", ("trinh-nguyen", "thuan_hoa"): "Thuận Hoá",
+ ("trinh-nguyen", "chia_cat"): "Đất nước bị chia cắt", ("hanh-chinh-nguyen", "toan_quoc"): "Toàn quốc",
+ ("hoang-sa-chua-nguyen", "tong_quan"): "Toàn cảnh", ("hoang-sa-truong-sa", "tong_quan"): "Toàn cảnh",
+ ("hoang-sa-truong-sa", "toan_do"): "Toàn đồ", ("dong-nam-a", "tong_quan"): "Toàn cảnh", ("bien-dao-viet-nam", "dac_khu"): "Toàn cảnh biển đảo",
+ ("hai-chau-tho", "tong_quan"): "Toàn cảnh", ("chau-tho-cuu-long", "tong_quan"): "Toàn cảnh",
+}
+
+def cau_hinh_tu_dong(ma, spec, nhom):
+    S = doc(f"pipeline/maps/specs/{spec}.json"); sc = doc(f"data/scripts/{ma}.json")
+    canh_sb = [c for c in sc["canh"] if c.get("sa_ban") == spec]
+    pha = []
+    for k, v in S["pha"].items():
+        moc = v.get("moc") or []
+        nhan = NHAN_PHA.get((spec, k)) or (moc[0]["chu"] if moc else k.replace("_", " ").capitalize())
+        pha.append({"key": k, "nhan": nhan, "canh": [c["so"] for c in canh_sb if c.get("pha") == k]})
+    canh = sorted({c["so"] for c in canh_sb} | {so for p_ in pha for so in p_["canh"]})
+    nq = len(sc.get("cau_hoi", []))
+    ten = S.get("ten") or sc["ten_tap"]
+    mo_ta = (f"{ten}" + (f" – {S['phu_de']}" if S.get("phu_de") else "") + ": "
+             + ("sơ đồ diễn biến từng giai đoạn trên lược đồ, có hoạt hoạ mũi tên tiến công và âm thanh trận đánh."
+                if nhom == "tran" else "bản đồ động theo từng giai đoạn, phóng to các vùng quan trọng."))
+    hd = ["Chọn từng giai đoạn ở hàng nút phía trên " + ("sơ đồ." if nhom == "tran" else "bản đồ."),
+          "Bấm Phát để xem hoạt hoạ; kéo thanh thời gian hoặc bấm nút bước để đi từng bước.",
+          "Đọc lời thuyết minh bên dưới để hiểu diễn biến của giai đoạn đang xem.",
+          "Kéo để di chuyển, cuộn chuột hoặc dùng nút +/− để phóng to."]
+    return dict(loai="ban_do", nhom=nhom, nhan=NHOM[nhom], mo_ta=mo_ta, huong_dan=hd, canh=canh,
+                cau_hoi=[("ds", i) for i in range(min(3, nq))], ban_do=[spec], tu_dong={"spec": spec, "pha": pha})
+
+def js_tu_dong(ma, cfg):
+    t = cfg["tu_dong"]; nhom = cfg["nhom"]
+    pha = [{"key": p["key"], "nhan": p["nhan"], "canh": p["canh"]} for p in t["pha"]]
+    am = ("{ nen: ['gio'], batDau: 'trong', doiTuong: function (id, o) { if (o.loai === 'mui_ten_dich' || o.loai === 'mui_ten_ta') return ['vut_nhe', 'buoc_quan']; "
+          "if (o.loai === 'sao') return 'trong_nho'; if (o.loai === 'nhan') return 'trong_nho'; } }") if nhom == "tran" else \
+         "{ nen: ['gio'], doiTuong: function (id, o) { if (o.loai === 'nhan' || o.loai === 'sao') return 'trong_nho'; } }"
+    return (f"/* {ma} · sinh tự động bởi _cong-cu/tao_trang.py từ sa bàn pipeline/maps/specs/{t['spec']}.json (đã dùng trong video) */\n"
+            "MP.onReady(function () {\n  var W = window.SaBanWeb;\n"
+            f"  new W.MapPlayer(MP.khung(), {{ id: {json.dumps(ma.lower())}, spec: window.MP_BANDO[{json.dumps(t['spec'])}],\n"
+            f"    phases: {js_json(pha)},\n    am: {am} }});\n}});\n")
+
 
 # ---------------------------------------------------------------- cấu hình từng tập
 # loai: ban_do | ba_chieu | truc_thoi_gian (dùng cho nhãn trên thư viện)
@@ -216,7 +282,7 @@ def du_lieu_tap(ma, ep, sc, cfg):
     m = re.match(r"(Bài \d+|Chủ đề chung \d+)\.\s*(.*)", bai)
     tap = {"ma": ma, "ten_tap": sc["ten_tap"], "lop": lop, "so_tap": ep["so"],
            "bai": m.group(1) if m else bai, "ten_bai": m.group(2) if m else "", "sach": sc["nguon"]["sach"],
-           "mo_phong": ep["mo_phong"], "trang": sorted(trang), "canh": ds_canh, "cau_hoi": cau}
+           "mo_phong": ep.get("mo_phong") or cfg.get("mo_ta"), "trang": sorted(trang), "canh": ds_canh, "cau_hoi": cau}
     return tap
 
 HUONG = {"ban_do": "ban-do", "ba_chieu": "ba-chieu", "truc_thoi_gian": "truc-thoi-gian"}
@@ -249,17 +315,15 @@ def trang_html(tap, cfg):
 <meta name="theme-color" content="#10233F">
 <link rel="icon" href="img/logo.svg" type="image/svg+xml">
 <link rel="stylesheet" href="css/mo-phong.css">
+<link rel="stylesheet" href="../chung/css/khung-chung.css">
 </head>
-<body class="loai-{HUONG[cfg['loai']]}" data-ma="{ma}">
+<body class="loai-{HUONG[cfg['loai']]} trang-mp" data-ma="{ma}" data-goc="../">
 <a class="bo-qua" href="#mo-phong">Bỏ qua, tới mô phỏng</a>
-<header class="dau-trang">
-  <a class="thuong-hieu" href="../index.html" title="Về trang chính EduHistory"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số Lịch sử 6–9</small></span></a>
-  <nav class="dieu-huong-mp" aria-label="Điều hướng chính"><ul><li><a href="../index.html">Thư viện</a></li><li><a href="index.html" aria-current="page">Mô phỏng</a></li><li><a href="../gioi-thieu.html">Giới thiệu</a></li></ul></nav>
-</header>
-<nav class="ve-lai" aria-label="Quay lại"><a class="nut-ve" href="../tap/{ma}.html">Về video của tập này</a><a class="nut-ve phu" href="index.html">Tất cả mô phỏng</a><a class="nut-ve phu" href="../index.html">Trang chính EduHistory</a></nav>
+{dau_trang()}
+<nav class="ve-lai" aria-label="Quay lại"><a class="nut-ve" href="../tap/{ma}.html">{TV.ICON["phat"]}<span>Về video của tập này</span></a><a class="nut-ve phu" href="index.html">{TV.ICON["mo_phong"]}<span>Tất cả mô phỏng</span></a><a class="nut-ve phu" href="../index.html">{TV.ICON["quay_lai"]}<span>Trang chính EduHistory</span></a></nav>
 <main class="khung">
   <section class="mo-dau">
-    <p class="nhan-bai"><span class="the-lop">Lớp {tap['lop']}</span> {E(tap['bai'])}. {E(tap['ten_bai'])} <span class="ma-tap">{ma}</span></p>
+    <p class="nhan-bai"><span class="the-lop">Lớp {tap['lop']}</span><span class="the-nhom">{E(NHOM[nhom_cua(tap['ma'], cfg)])}</span> {E(tap['bai'])}. {E(tap['ten_bai'])} <span class="ma-tap">{ma}</span></p>
     <h1>{E(tap['ten_tap'])}</h1>
     <p class="mo-ta">{E(cfg['mo_ta'])}</p>
   </section>
@@ -276,72 +340,126 @@ def trang_html(tap, cfg):
   </section>
   <p class="nguon"><strong>{E(nguon)}</strong>{gc}</p>
 </main>
-<footer class="chan-trang">EduHistory Studio – ChronoVibe, FPT School Bắc Giang</footer>
+{chan_trang_mp()}
+<div class="thong-bao" role="status" aria-live="polite" hidden></div>
+<script src="../chung/js/thu-vien.js"></script>
 {sc_tags}
 </body>
 </html>
 """
 
+def dau_trang():
+    return (f'<header class="dau dau-trang">'
+            f'<button type="button" class="nut-menu" aria-controls="ngan-menu" aria-expanded="false">{TV.ICON["menu"]}<span>Mục lục</span></button>'
+            f'<a class="thuong-hieu" href="../index.html" title="Về trang chính EduHistory"><img src="img/logo.svg" alt="" width="40" height="40">'
+            f'<span>EduHistory Studio<small>Kho học liệu số môn Lịch sử</small></span></a>'
+            f'<nav class="dieu-huong-mp" aria-label="Điều hướng chính"><ul><li><a href="../index.html">Thư viện</a></li>'
+            f'<li><a href="index.html" aria-current="page">Mô phỏng</a></li><li><a href="../gioi-thieu.html">Giới thiệu</a></li></ul></nav>'
+            f'</header>{TV.ngan_menu("../")}')
+
+def chan_trang_mp():
+    return TV.chan_trang("../", ("Hệ thống mô phỏng tương tác môn Lịch sử: sơ đồ trận đánh, bản đồ lịch sử, mô hình 3D, trục thời gian",
+                                 "Chúc các bạn khám phá Lịch sử thật thú vị cùng mô phỏng EduHistory"))
+
+def nhom_cua(ma, cfg):
+    if cfg.get("nhom"): return cfg["nhom"]
+    if cfg["loai"] == "ban_do": return "tran" if ma in TRAN_CO_SAN else "ban"
+    return cfg["loai"]
+
+def sa_ban_holo():
+    """Sa bàn dạng ảnh toàn ký (SVG động) ở đầu trang danh sách – trang trí, không mang dữ kiện."""
+    coc = "".join(f'<line x1="{x}" y1="{y}" x2="{x + 5}" y2="{y - 12}"/>' for x, y in
+                  ((262, 214), (276, 220), (290, 226), (304, 231), (318, 236), (270, 236), (284, 242), (298, 247), (312, 252)))
+    return f"""<svg class="holo" viewBox="0 0 520 420" aria-hidden="true" focusable="false">
+<defs><radialGradient id="hg" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#5ED0FF" stop-opacity=".22"/><stop offset="1" stop-color="#5ED0FF" stop-opacity="0"/></radialGradient>
+<linearGradient id="quet" x1="0" x2="1"><stop offset="0" stop-color="#5ED0FF" stop-opacity="0"/><stop offset="1" stop-color="#5ED0FF" stop-opacity=".35"/></linearGradient></defs>
+<g class="holo-ban" transform="translate(260 215) scale(1 .8) rotate(-10) translate(-260 -215)">
+ <circle cx="260" cy="215" r="196" fill="url(#hg)"/>
+ <g class="luoi" stroke="#5ED0FF" stroke-opacity=".16" fill="none">{"".join(f'<circle cx="260" cy="215" r="{r}"/>' for r in (60, 110, 160, 196))}
+  {"".join(f'<line x1="{260 + 196 * __import__("math").cos(a / 6 * 3.14159)}" y1="{215 + 196 * __import__("math").sin(a / 6 * 3.14159)}" x2="{260 - 196 * __import__("math").cos(a / 6 * 3.14159)}" y2="{215 - 196 * __import__("math").sin(a / 6 * 3.14159)}"/>' for a in range(6))}</g>
+ <path class="song" d="M70 120 C160 150 200 200 260 230 S380 300 470 300" fill="none" stroke="#5ED0FF" stroke-width="16" stroke-opacity=".28" stroke-linecap="round"/>
+ <path class="song2" d="M70 120 C160 150 200 200 260 230 S380 300 470 300" fill="none" stroke="#9BE6FF" stroke-width="2" stroke-dasharray="6 10"/>
+ <g class="coc" stroke="#E9B65C" stroke-width="3" stroke-linecap="round">{coc}</g>
+ <g class="thuyen" fill="#7FA6D9"><path id="thuyen" d="M-14 -4 C-7 -7 9 -7 16 0 C9 7 -7 7 -14 4Z"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto" path="M470 300 C380 300 320 262 290 240"/></path>
+  <path d="M-14 -4 C-7 -7 9 -7 16 0 C9 7 -7 7 -14 4Z"><animateMotion dur="9s" begin="1.6s" repeatCount="indefinite" rotate="auto" path="M480 318 C392 316 330 278 300 252"/></path></g>
+ <path class="mui-ta" d="M150 330 C200 300 230 270 262 246" fill="none" stroke="#FF6A3D" stroke-width="5" stroke-linecap="round"/>
+ <path class="mui-ta mt2" d="M380 150 C350 190 320 214 296 232" fill="none" stroke="#FF6A3D" stroke-width="5" stroke-linecap="round"/>
+ <g class="quet"><path d="M260 215 L456 215 A196 196 0 0 0 398 76 Z" fill="url(#quet)"/></g>
+ <circle class="chop" cx="276" cy="232" r="7" fill="none" stroke="#FFD27A" stroke-width="2"/>
+</g></svg>"""
+
 def index_html(ds):
     nhom = {}
     for tap, cfg in ds: nhom.setdefault(tap["lop"], []).append((tap, cfg))
+    dem = {}
+    for tap, cfg in ds: dem[nhom_cua(tap["ma"], cfg)] = dem.get(nhom_cua(tap["ma"], cfg), 0) + 1
     phan = []
     for lop in sorted(nhom):
         the = []
         for tap, cfg in nhom[lop]:
-            the.append(f"""<li><a class="the-mp" href="{tap['ma']}.html">
-<span class="loai loai-{HUONG[cfg['loai']]}">{E(cfg['nhan'])}</span>
+            nh = nhom_cua(tap["ma"], cfg)
+            anh = f"img/anh/{tap['ma']}.jpg"
+            hinh = (f'<img src="{anh}" alt="" width="640" height="400" loading="lazy">' if os.path.exists(os.path.join(OUT, anh))
+                    else f'<span class="anh-trong">{TV.trong_dong("anh-thay")}</span>')
+            the.append(f"""<li data-nhom="{nh}" data-lop="{lop}"><a class="the-mp" href="{tap['href'] if tap.get('href') else tap['ma'] + '.html'}">
+<span class="khung-anh">{hinh}<span class="loai loai-{nh}">{E(NHOM[nh])}</span></span>
+<span class="than-the"><span class="bai">Lớp {lop} · {E(tap['bai'])}</span>
 <span class="ten">{E(tap['ten_tap'])}</span>
-<span class="bai">Lớp {lop} · {E(tap['bai'])}. {E(tap['ten_bai'])}</span>
-<span class="mota">{E(cfg['mo_ta'])}</span>
-<span class="ma-tap">{tap['ma']}</span></a></li>""")
-        phan.append(f'<section class="nhom-lop" aria-labelledby="lop-{lop}"><h2 id="lop-{lop}">Lớp {lop}</h2><ul class="luoi-the">{"".join(the)}</ul></section>')
+<span class="mota">{E(cfg['mo_ta'])}</span></span></a></li>""")
+        phan.append(f'<section class="nhom-lop" aria-labelledby="lop-{lop}"><h2 id="lop-{lop}"><span class="so-lop">{lop}</span>Lịch sử {lop}</h2><ul class="luoi-the">{"".join(the)}</ul></section>')
+    thu_tu = ["tran", "ban", "ba_chieu", "truc_thoi_gian", "so_do"]
+    so = "".join(f'<div><dt>{E(NHOM[k])}</dt><dd>{dem[k]}</dd></div>' for k in thu_tu if dem.get(k))
+    loc = "".join(f'<button type="button" class="nut-loc" data-loc="{k}" aria-pressed="false">{E(NHOM[k])}</button>' for k in thu_tu if dem.get(k))
+    loc_lop = "".join(f'<button type="button" class="nut-loc" data-lop="{l}" aria-pressed="false">Lớp {l}</button>' for l in sorted(nhom))
     return f"""<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Mô phỏng tương tác Lịch sử 6–9 | EduHistory Studio</title>
-<meta name="description" content="{len(ds)} mô phỏng tương tác Lịch sử lớp 6–9: bản đồ động, mô hình 3D, trục thời gian – EduHistory Studio.">
-<meta name="theme-color" content="#10233F">
+<title>Hệ thống mô phỏng tương tác môn Lịch sử | EduHistory</title>
+<meta name="description" content="{len(ds)} mô phỏng tương tác môn Lịch sử: sơ đồ trận đánh, bản đồ lịch sử, mô hình 3D, trục thời gian – ChronoVibe Team, EduHistory.">
+<meta name="theme-color" content="#07162B">
 <link rel="icon" href="img/logo.svg" type="image/svg+xml">
 <link rel="stylesheet" href="css/mo-phong.css">
+<link rel="stylesheet" href="../chung/css/khung-chung.css">
 </head>
-<body class="trang-thu-vien">
-<header class="dau-trang">
-  <a class="thuong-hieu" href="../index.html" title="Về trang chính EduHistory"><img src="img/logo.svg" alt="" width="40" height="40"><span>EduHistory Studio<small>Kho học liệu số Lịch sử 6–9</small></span></a>
-  <nav class="dieu-huong-mp" aria-label="Điều hướng chính"><ul><li><a href="../index.html">Thư viện</a></li><li><a href="index.html" aria-current="page">Mô phỏng</a></li><li><a href="../gioi-thieu.html">Giới thiệu</a></li></ul></nav>
-</header>
-<nav class="ve-lai" aria-label="Quay lại"><a class="nut-ve" href="../index.html">Về trang chính EduHistory</a></nav>
-<main class="khung">
-  <section class="mo-dau">
-    <p class="nhan-bai">Đợt 1 · {len(ds)} mô phỏng</p>
-    <h1>Mô phỏng tương tác Lịch sử 6 – 9</h1>
-    <p class="mo-ta">Bản đồ động, mô hình 3D và trục thời gian đi kèm các video bài học của EduHistory Studio. Mọi dữ kiện lấy từ kịch bản đã đối chiếu SGK <em>Lịch sử và Địa lí</em> (bộ sách dùng chung), có ghi số trang ở cuối mỗi trang.</p>
-    <div class="loc" role="group" aria-label="Lọc theo loại mô phỏng">
-      <button type="button" class="nut-loc dang-chon" data-loc="tat-ca" aria-pressed="true">Tất cả</button>
-      <button type="button" class="nut-loc" data-loc="ban-do" aria-pressed="false">Bản đồ động</button>
-      <button type="button" class="nut-loc" data-loc="ba-chieu" aria-pressed="false">Mô hình 3D</button>
-      <button type="button" class="nut-loc" data-loc="truc-thoi-gian" aria-pressed="false">Trục thời gian</button>
-    </div>
-  </section>
+<body class="trang-thu-vien trang-mp" data-goc="../">
+<a class="bo-qua" href="#danh-sach">Bỏ qua, tới danh sách mô phỏng</a>
+{dau_trang()}
+<section class="bia-mp" aria-labelledby="tieu-de-mp">
+ <div class="khung bia-mp-luoi">
+  <div class="bia-mp-chu">
+   <h1 id="tieu-de-mp">Hệ thống mô phỏng tương tác môn Lịch sử</h1>
+   <p class="mo-ta">Xem lại trận đánh trên sa bàn, lật từng giai đoạn trên bản đồ, xoay mô hình 3D công trình và vũ khí, kéo các mốc trên trục thời gian.</p>
+   <dl class="so-mp">{so}</dl>
+  </div>
+  <div class="bia-mp-holo">{sa_ban_holo()}</div>
+ </div>
+</section>
+<main class="khung" id="danh-sach">
+  <div class="loc-mp" role="group" aria-label="Lọc mô phỏng">
+    <div class="hang-loc"><span class="nhan-loc">Loại</span><button type="button" class="nut-loc dang-chon" data-loc="tat-ca" aria-pressed="true">Tất cả ({len(ds)})</button>{loc}</div>
+    <div class="hang-loc"><span class="nhan-loc">Lớp</span><button type="button" class="nut-loc dang-chon" data-lop="tat-ca" aria-pressed="true">Tất cả</button>{loc_lop}</div>
+  </div>
   {"".join(phan)}
+  <p class="khong-co" hidden>Chưa có mô phỏng nào khớp bộ lọc.</p>
 </main>
-<footer class="chan-trang">EduHistory Studio – ChronoVibe, FPT School Bắc Giang</footer>
-<script>
-(function(){{var b=document.querySelectorAll('.nut-loc');b.forEach(function(n){{n.addEventListener('click',function(){{
-var l=n.getAttribute('data-loc');b.forEach(function(m){{var on=m===n;m.classList.toggle('dang-chon',on);m.setAttribute('aria-pressed',on?'true':'false');}});
-document.querySelectorAll('.the-mp').forEach(function(a){{var li=a.parentNode;li.hidden=!(l==='tat-ca'||a.querySelector('.loai').classList.contains('loai-'+l));}});
-document.querySelectorAll('.nhom-lop').forEach(function(s){{s.hidden=!s.querySelector('li:not([hidden])');}});}});}});}})();
-</script>
+{chan_trang_mp()}
+<div class="thong-bao" role="status" aria-live="polite" hidden></div>
+<script src="../chung/js/thu-vien.js"></script>
+<script src="js/danh-sach.js"></script>
 </body>
 </html>
 """
 
 def main():
     cat = doc("data/catalog/episodes.json")
-    eps = {e["ma"]: e for e in cat["tap"] if e.get("dot") == 1}
-    assert set(eps) == set(CAU_HINH), set(eps) ^ set(CAU_HINH)
+    tat_ca = {e["ma"]: e for e in cat["tap"]}
+    for ma, spec, nhom in TU_DONG:
+        assert ma not in CAU_HINH, ma
+        CAU_HINH[ma] = cau_hinh_tu_dong(ma, spec, nhom)
+        ghi(f"js/mp/{ma}.js", js_tu_dong(ma, CAU_HINH[ma]))
+    eps = {ma: tat_ca[ma] for ma in CAU_HINH}
     ban_do = sorted({b for c in CAU_HINH.values() for b in c.get("ban_do", [])})
     for b in ban_do: tao_ban_do(b)
     tao_geo()

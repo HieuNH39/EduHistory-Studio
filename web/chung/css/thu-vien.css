@@ -502,3 +502,59 @@ h1, h2, h3 { letter-spacing: -.018em; }
 .trang-gt .so-lieu-gt { background: var(--dem-2); border-radius: 18px; box-shadow: var(--bong); margin-top: 26px; }
 .trang-gt .ghi-chu-so { color: var(--chu-phu); }
 .muc-gt > h2 { font-family: var(--than); font-weight: 800; }
+
+/* =====================================================================================================
+   THIẾT KẾ 3 (15/11/2026 chiều): mục lục ngăn kéo bên trái, thanh hành động dưới video,
+   nút quay lại, chân trang hai cột (liên hệ trái – giới thiệu phải), tiêu đề "ChronoVibe Team - EduHistory".
+   ===================================================================================================== */
+.dau { justify-content: flex-start; }
+.dau .dieu-huong { margin-left: auto; }
+/* nút quay lại (trang tập) */
+.nut-quay-lai { display: inline-flex; align-items: center; gap: 6px; margin: 0 0 12px; padding: 6px 14px 6px 10px; border-radius: 999px; text-decoration: none;
+  color: #fff; font-weight: 700; font-size: .88rem; background: rgba(255, 255, 255, .08); border: 1px solid rgba(255, 255, 255, .2); }
+.nut-quay-lai .ic { width: 18px; height: 18px; color: var(--dong-sang); }
+.nut-quay-lai:hover { background: rgba(233, 182, 92, .18); color: #fff; }
+
+/* thanh hành động dưới video */
+.hanh-dong { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 4px; }
+.hd { display: inline-flex; align-items: center; gap: 7px; min-height: 42px; padding: 6px 15px 6px 11px; border-radius: 999px; cursor: pointer; text-decoration: none;
+  font: 700 .88rem/1 var(--than); color: #fff; background: rgba(255, 255, 255, .07); border: 1px solid rgba(255, 255, 255, .16);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); transition: background .15s ease, border-color .15s ease; }
+.hd .ic { color: var(--dong-sang); }
+.hd:hover { color: #fff; background: rgba(233, 182, 92, .16); border-color: rgba(233, 182, 92, .5); }
+.hd-tim[aria-pressed="true"] { background: rgba(242, 107, 29, .22); border-color: rgba(242, 107, 29, .7); }
+.hd-tim[aria-pressed="true"] .ic { color: #FF6A3D; fill: currentColor; }
+.hd-tim.no .ic { animation: tim-no .45s ease; }
+@keyframes tim-no { 0% { transform: scale(1); } 40% { transform: scale(1.35); } 100% { transform: scale(1); } }
+.hd-tai { background: var(--cam); border-color: var(--cam); }
+.hd-tai .ic { color: #fff; }
+.hd-tai:hover { background: #ff7a2e; border-color: #ff7a2e; }
+.hd-bl[aria-expanded="true"] { background: rgba(233, 182, 92, .18); border-color: rgba(233, 182, 92, .6); }
+.hd-ma { font-variant-numeric: tabular-nums; }
+.binh-luan { margin: 10px 0 6px; padding: 14px; border-radius: 16px; background: rgba(255, 255, 255, .06); border: 1px solid rgba(255, 255, 255, .14); }
+.bl-form { display: flex; gap: 8px; align-items: flex-end; }
+.bl-form textarea { flex: 1; min-height: 52px; resize: vertical; border-radius: 12px; border: 1px solid rgba(255, 255, 255, .22); background: rgba(5, 14, 30, .5);
+  color: #fff; font: 500 .95rem/1.5 var(--than); padding: 10px 12px; }
+.bl-form textarea::placeholder { color: rgba(243, 230, 204, .5); }
+.bl-gui { display: inline-flex; align-items: center; gap: 6px; min-height: 46px; padding: 8px 16px; border-radius: 12px; border: 0; cursor: pointer;
+  background: var(--cam); color: #fff; font: 800 .9rem/1 var(--than); }
+.bl-gui .ic { width: 18px; height: 18px; }
+.bl-ghi-chu, .bl-ngoai { margin: 8px 2px 0; font-size: .8rem; color: rgba(243, 230, 204, .66); }
+.bl-ngoai a { color: var(--dong-sang); }
+.bl-ds { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 8px; }
+.bl-ds li { padding: 10px 12px; border-radius: 12px; background: rgba(5, 14, 30, .45); }
+.bl-dau { display: flex; align-items: center; gap: 8px; margin: 0 0 2px; font-size: .78rem; color: rgba(243, 230, 204, .7); }
+.bl-ai { font-weight: 800; color: var(--dong-sang); }
+.bl-xoa { margin-left: auto; background: none; border: 0; color: rgba(243, 230, 204, .7); cursor: pointer; font: 600 .78rem var(--than); text-decoration: underline; }
+.bl-chu { margin: 0; color: #fff; white-space: pre-wrap; overflow-wrap: anywhere; }
+
+/* tiêu đề trang chủ */
+.bia h1 { font-size: clamp(2.3rem, 5.6vw, 4.1rem); }
+.bia .dan-lon, .trang-gt .dan-lon { font-size: clamp(1.08rem, 1.9vw, 1.32rem); font-weight: 600; line-height: 1.5; color: rgba(243, 230, 204, .94); max-width: 40ch; }
+
+@media (max-width: 620px) {
+  .nut-menu span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .nut-menu { padding: 6px 10px; }
+  .hd { padding: 6px 12px 6px 9px; font-size: .84rem; }
+}
+@media (prefers-reduced-motion: reduce) { .ngan-menu, .nen-menu, .thong-bao { transition: none; } .hd-tim.no .ic { animation: none; } }

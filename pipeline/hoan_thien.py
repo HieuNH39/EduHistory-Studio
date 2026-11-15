@@ -180,7 +180,7 @@ def ghep(spec, scenes, starts, total, intro, outro, silent, mix, out, va_cau_hoi
     dec = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-i", silent, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
     enc = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS),
                             "-i", "-", "-i", mix, "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "19",
-                            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", "-shortest", out],
+                            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-aac_is", "0", "-aac_pns", "0", "-movflags", "+faststart", "-shortest", out],
                            stdin=subprocess.PIPE)
     fsz = W * H * 3; i = 0; e_i = 0; gens = {}
     while True:

@@ -94,8 +94,8 @@ def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
     vertical = H > W
     s = W / 1080 if vertical else H / 1080
     F = lambda w, z: ImageFont.truetype(os.path.join(FONT_DIR, f"be-vietnam-pro-{w}-normal.ttf"), int(z * s))
-    f_lab = F(800, 34 if vertical else 30); f_q = F(700, 48 if vertical else 46); f_o = F(600, 38 if vertical else 34)
-    f_badge = F(800, 32 if vertical else 30); f_timer = F(800, 34 if vertical else 30)
+    f_lab = F(800, 38 if vertical else 30); f_q = F(700, 56 if vertical else 46); f_o = F(600, 44 if vertical else 34)
+    f_badge = F(800, 36 if vertical else 30); f_timer = F(800, 38 if vertical else 30)
     _d = ImageDraw.Draw(Image.new("RGB", (8, 8)))
     # khung
     if vertical: px0, px1 = 56 * s, W - 56 * s
@@ -103,16 +103,17 @@ def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
     pad = 48 * s; x0, x1 = px0 + pad, px1 - pad
     q_lines = _wrap(_d, q["hoi"], f_q, x1 - x0)
     lh_q = f_q.size * 1.32
-    bar_h = (92 if vertical else 78) * s; bar_gap = (20 if vertical else 16) * s
-    head_h = 64 * s
+    bar_h = (116 if vertical else 78) * s; bar_gap = (30 if vertical else 16) * s
+    head_h = (76 if vertical else 64) * s
     oz = f_o.size
-    while oz > 24 * s and max(_d.textlength(o, font=f_o) for o in q["lua_chon"]) > (x1 - x0) - (bar_h + 40 * s):
+    while oz > 24 * s and max(_d.textlength(o, font=f_o) for o in q["lua_chon"]) > (x1 - x0) - bar_h * 1.06 - bar_h * .8:
         oz -= 2 * s; f_o = ImageFont.truetype(f_o.path, int(oz))
     body_h = head_h + 28 * s + len(q_lines) * lh_q + 34 * s + 3 * bar_h + 2 * bar_gap
     ph = body_h + 2 * pad
     cy_panel = H * (.43 if vertical else .44)
     py0 = cy_panel - ph / 2; py1 = py0 + ph
-    if vertical: py0 = max(py0, H * .16); py1 = py0 + ph
+    if vertical:   # video dọc: khung kéo dài gần hết chiều cao (dưới logo, trên dải phụ đề) – yêu cầu GVHD 15/11
+        py0 = H * .135; py1 = max(H * .805, py0 + ph); ph = py1 - py0
     else: py0 = max(py0, H * .09); py1 = py0 + ph
     R = int(34 * s)
     base = _nen_thuong_hieu(W, H)
@@ -132,9 +133,25 @@ def cau_hoi(W, H, n, q, fps, q_end=3.0, reveal=6.5):
         dp.text((tx, ty), part, font=f_lab, fill=col); tx += dp.textlength(part, font=f_lab)
     dp.line([x0, hy + head_h + 14 * s, x1, hy + head_h + 14 * s], fill=(*_GOLD, 70), width=max(1, int(2 * s)))
     y = hy + head_h + 28 * s
-    for ln in q_lines:
-        dp.text((x0, y), ln, font=f_q, fill=(255, 255, 255)); y += lh_q
-    y_opts = y + 34 * s - (lh_q - f_q.size) * .3
+    if vertical:   # ba lựa chọn neo đáy khung, câu hỏi nằm giữa khoảng trống phía trên
+        y_opts = py1 - pad - (3 * bar_h + 2 * bar_gap)
+        qh = len(q_lines) * lh_q
+        y = max(y, y + (y_opts - 40 * s - y - qh) / 2)
+        # hoạ tiết vân trống đồng mờ phía sau câu hỏi
+        cxw, cyw, rw = (px0 + px1) / 2, y + qh / 2, (px1 - px0) * .42
+        M = Image.new("RGBA", (W, H), (0, 0, 0, 0)); dm = ImageDraw.Draw(M)
+        for k, rr in enumerate((1.0, .8, .62, .44, .26)):
+            dm.ellipse([cxw - rw * rr, cyw - rw * rr, cxw + rw * rr, cyw + rw * rr], outline=(*_GOLD, 26 if k else 34), width=max(1, int(2 * s)))
+        for k in range(14):
+            a = 2 * math.pi * k / 14
+            dm.line([cxw + rw * .28 * math.cos(a), cyw + rw * .28 * math.sin(a), cxw + rw * .42 * math.cos(a), cyw + rw * .42 * math.sin(a)], fill=(*_GOLD, 30), width=max(1, int(2 * s)))
+        panel = Image.alpha_composite(panel, M); dp = ImageDraw.Draw(panel)
+        for ln in q_lines:
+            dp.text(((px0 + px1) / 2 - dp.textlength(ln, font=f_q) / 2, y), ln, font=f_q, fill=(255, 255, 255)); y += lh_q
+    else:
+        for ln in q_lines:
+            dp.text((x0, y), ln, font=f_q, fill=(255, 255, 255)); y += lh_q
+        y_opts = y + 34 * s - (lh_q - f_q.size) * .3
     # đồng hồ nhỏ góc trên phải khung
     tr = 30 * s; tcx = x1 - tr; tcy = hy + head_h / 2
     def thanh(k, state):   # state: 0 thường, 1 đúng, 2 mờ
