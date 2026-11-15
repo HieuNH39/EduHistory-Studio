@@ -72,6 +72,13 @@ def dung(ma, so, mo_ta, out, noi_dung=None, chi_dan=None, nhan=None):
     noi_dung = noi_dung or nd0
     noi_dung = re.sub(r"\b(năm|ngày|tháng|thế kỉ) (?=[\dXVI])", "\\1\u00a0", noi_dung)
     chi_dan = cd0 if chi_dan is None else (chi_dan or None)
+    t = noi_dung.split(" ")   # giữ cụm tên riêng (Niu Oóc, Đồng Lộc) và không để một chữ lẻ ở dòng cuối
+    hoa = lambda w: w[:1].isupper()
+    ghep = t[0]
+    for i in range(1, len(t)):
+        noi = (hoa(t[i - 1]) and hoa(t[i]) and not t[i - 1].endswith((",", ")"))) or i == len(t) - 1
+        ghep += ("\u00a0" if noi else " ") + t[i]
+    noi_dung = ghep
     img = effects._nen_thuong_hieu(W, H).convert("RGB"); d = ImageDraw.Draw(img)
     # vùng nội dung: chừa dải phụ đề dưới và góc logo trên phải; khối nội dung canh giữa theo chiều dọc
     top, bot = (H * .12, H * .68) if doc else (H * .10, H * .76)

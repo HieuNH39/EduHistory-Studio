@@ -1425,15 +1425,20 @@
    "ten_tap_en": "Why Does History Need Time?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     14,
     15
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 49.1,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L6-B3-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B3-01.jpg",
    "trang": "tap/L6-B3-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5161,7 +5166,7 @@
     20
    ],
    "video": {
-    "thoi_luong": 49.7,
+    "thoi_luong": 49.1,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L8-B4-01.mp4"
@@ -5439,7 +5444,7 @@
     32
    ],
    "video": {
-    "thoi_luong": 51.9,
+    "thoi_luong": 52.2,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L8-B7-01.mp4"
@@ -5736,15 +5741,20 @@
    "ten_tap_en": "Germany and the USA: Two Giants on the Rise",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     48,
     49
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 146.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B10-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B10-03.jpg",
    "trang": "tap/L8-B10-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5780,16 +5790,21 @@
    "ten_tap_en": "Karl Marx and Friedrich Engels: The Men Who Changed the World",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     51,
     52,
     53
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 173.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B11-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B11-02.jpg",
    "trang": "tap/L8-B11-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5803,16 +5818,21 @@
    "ten_tap_en": "The Paris Commune: 72 Remarkable Days",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     50,
     51,
     52
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 219.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B11-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B11-03.jpg",
    "trang": "tap/L8-B11-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5848,16 +5868,21 @@
    "ten_tap_en": "Why Did the World Go to War?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     54,
     55,
     57
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 145.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B12-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B12-01.jpg",
    "trang": "tap/L8-B12-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5892,15 +5917,20 @@
    "ten_tap_en": "On the Eve of the Russian October Revolution",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     55,
     56
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 110.3,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B12-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B12-03.jpg",
    "trang": "tap/L8-B12-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6733,7 +6763,7 @@
     166
    ],
    "video": {
-    "thoi_luong": 139.4,
+    "thoi_luong": 139.3,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L8-CD2-02.mp4"
@@ -6782,7 +6812,7 @@
     168
    ],
    "video": {
-    "thoi_luong": 139.9,
+    "thoi_luong": 139.8,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L8-CD2-04.mp4"
@@ -7165,7 +7195,7 @@
     20
    ],
    "video": {
-    "thoi_luong": 200.7,
+    "thoi_luong": 195.7,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B4-03.mp4"
@@ -7344,7 +7374,7 @@
     27
    ],
    "video": {
-    "thoi_luong": 55.3,
+    "thoi_luong": 54.0,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B6-01.mp4"
@@ -7414,7 +7444,7 @@
     29
    ],
    "video": {
-    "thoi_luong": 275.3,
+    "thoi_luong": 276.3,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B6-04.mp4"
@@ -7440,7 +7470,7 @@
     30
    ],
    "video": {
-    "thoi_luong": 51.3,
+    "thoi_luong": 51.5,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B7-01.mp4"
@@ -7467,7 +7497,7 @@
     31
    ],
    "video": {
-    "thoi_luong": 166.1,
+    "thoi_luong": 166.9,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B7-02.mp4"
@@ -7538,7 +7568,7 @@
     35
    ],
    "video": {
-    "thoi_luong": 59.2,
+    "thoi_luong": 58.8,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B8-01.mp4"
@@ -7609,7 +7639,7 @@
     38
    ],
    "video": {
-    "thoi_luong": 225.6,
+    "thoi_luong": 225.9,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B8-04.mp4"
@@ -7685,7 +7715,7 @@
     43
    ],
    "video": {
-    "thoi_luong": 53.9,
+    "thoi_luong": 53.7,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B9-01.mp4"
@@ -8070,7 +8100,7 @@
     64
    ],
    "video": {
-    "thoi_luong": 52.4,
+    "thoi_luong": 52.5,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B13-01.mp4"
@@ -8165,7 +8195,7 @@
     68
    ],
    "video": {
-    "thoi_luong": 58.7,
+    "thoi_luong": 57.8,
     "rong": 1080,
     "cao": 1920,
     "tep": "videos/L9-B14-01.mp4"
@@ -8237,7 +8267,7 @@
     72
    ],
    "video": {
-    "thoi_luong": 226.9,
+    "thoi_luong": 227.6,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B14-04.mp4"
@@ -8307,7 +8337,7 @@
     76
    ],
    "video": {
-    "thoi_luong": 231.6,
+    "thoi_luong": 232.6,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B15-02.mp4"
@@ -8334,7 +8364,7 @@
     77
    ],
    "video": {
-    "thoi_luong": 230.0,
+    "thoi_luong": 228.8,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B15-03.mp4"
@@ -8607,7 +8637,7 @@
     91
    ],
    "video": {
-    "thoi_luong": 216.9,
+    "thoi_luong": 216.7,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B17-05.mp4"
@@ -9011,7 +9041,7 @@
     114
    ],
    "video": {
-    "thoi_luong": 130.9,
+    "thoi_luong": 130.7,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L9-B21-02.mp4"

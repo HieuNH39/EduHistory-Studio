@@ -49,6 +49,13 @@ def dung(src, out, nguon, giay_phep, chu_thich=None):
     if k > 1.4:   # ảnh gốc nhỏ: làm nét nhẹ sau khi phóng
         ph_img = ph_img.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
     x, y = (W - pw) // 2, top + (maxh - ph) // 2
+    if not DOC and x + pw > W * 0.78 and y < H * 0.17:   # góc trên phải là chỗ logo: hạ khung ảnh xuống dưới logo
+        top = int(H * 0.17); maxh = bottom - top
+        k = min(maxw / im.width, maxh / im.height)
+        pw, ph = int(im.width * k), int(im.height * k)
+        ph_img = im.resize((pw, ph), Image.LANCZOS)
+        if k > 1.4: ph_img = ph_img.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
+        x, y = (W - pw) // 2, top + (maxh - ph) // 2
     b = max(6, W // 400)
     sh = Image.new("L", (W, H), 0); d = ImageDraw.Draw(sh)
     d.rectangle((x - b + 14, y - b + 18, x + pw + b + 14, y + ph + b + 18), fill=170)
