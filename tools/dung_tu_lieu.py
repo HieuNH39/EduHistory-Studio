@@ -26,6 +26,8 @@ for key, c in chon.items():
         duoi = ".jpg" if fn.lower().endswith((".tif", ".tiff")) else ""
         urls = [f"{th}/{w}px-{fn}{duoi}" for w in (1920, 1280, 960) if w < rong]
     urls.append(goc)
+    if "/commons/" in goc:   # ảnh gốc bị chặn: lấy bản thu nhỏ chuẩn nhỏ hơn (vẫn đủ cho khung tư liệu)
+        urls += [f"{th}/{w}px-{fn}{duoi}" for w in (500,) if w < rong]
     ext = os.path.splitext(urls[0])[1].lower() or ".jpg"
     src = f"{OUT}/goc_{ma}_{so:02d}{ext}"
     if not os.path.exists(src):
