@@ -17,8 +17,10 @@ for v in web/videos/*.mp4; do
   [ -n "$NHANH" ] && continue   # NHANH=1: đăng nhanh, chưa nén video mới
   ma=$(basename "$v" .mp4); dich="$OUT/site/videos/$ma.mp4"
   if [ -f "$dich" ] && [ "$dich" -nt "$v" ]; then continue; fi
-  h=$(ffprobe -v error -select_streams v -show_entries stream=height -of csv=p=0 "$v")
-  w=$(ffprobe -v error -select_streams v -show_entries stream=width -of csv=p=0 "$v")
+  # tệp đang dựng dở (chưa đọc được) thì bỏ qua lần này, giữ bản nén cũ
+  h=$(ffprobe -v error -select_streams v -show_entries stream=height -of csv=p=0 "$v") || { echo "bỏ qua $ma (đang ghi)"; continue; }
+  w=$(ffprobe -v error -select_streams v -show_entries stream=width -of csv=p=0 "$v") || continue
+  [ -n "$h" ] && [ -n "$w" ] || { echo "bỏ qua $ma (đang ghi)"; continue; }
   if [ "$h" -gt "$w" ]; then sc="scale=720:-2"; else sc="scale=-2:720"; fi
   nice -n 19 ffmpeg -v error -y -threads 2 -i "$v" -vf "$sc" -c:v libx264 -preset veryfast -crf 27 \
        -c:a aac -b:a 128k -aac_is 0 -aac_pns 0 -movflags +faststart "$dich.tmp.mp4" && mv "$dich.tmp.mp4" "$dich"

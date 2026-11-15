@@ -73,15 +73,15 @@ for f in sorted(glob.glob(f"{ROOT}/data/scripts/L*.json")):
 rows.sort(key=lambda r: r["ord"])
 NHOM = {"A": "A · Đã có ảnh, chỉ cần Kling", "B": "B · Tái hiện: cần ảnh + Kling", "C": "C · Dẫn chuyện/du hành (không bắt buộc)"}
 wb = Workbook(); ws = wb.active; ws.title = "Danh sách Kling"
-H = ["STT", "Mã tập", "Cảnh", "Trạng thái", "Khung", "Thời lượng (giây)", "Ảnh khung đầu", "Lời nhắc tạo ảnh (Gemini)",
+H = ["STT", "Mã tập", "Cảnh", "Trạng thái", "Khung", "Thời lượng (giây)", "Ảnh khung đầu", "Lời nhắc tạo ảnh (Gemini hoặc ChatGPT)",
      "Lời nhắc chuyển động (Kling)", "Negative prompt (Kling)", "Ảnh tham chiếu đính kèm khi tạo ảnh", "Tên file ảnh (lưu vào Tải về)",
-     "Tên file video (lưu vào Tải về)", "Nhóm", "Loại cảnh", "Tên tập", "Trang SGK"]
+     "Tên file video (lưu vào Tải về)", "Nhóm", "Loại cảnh", "Tên tập", "Trang SGK", "Công cụ tạo ảnh", "Ghi chú"]
 ws.append(H)
 for i, r in enumerate(rows, 1):
     ws.append([i, r["ma"], r["so"], "Chưa làm", r["khung"], r["dur"], r["anh"], r["loi_anh"], r["kling"] or "(chưa có – Claude bổ sung)", NEG,
                r["tham"] or "—", f"{r['ma']}_canh-{r['so']:02d}.jpg" if r["anh"] == "Cần tạo" else f"Có sẵn trong tệp nén: anh-khung-dau-nhom-A/{r['ma']}_canh-{r['so']:02d}.jpg", f"{r['ma']}_canh-{r['so']:02d}.mp4",
-               NHOM[r["nhom"]], r["loai"], r["ten"], r["trang"]])
-W = [6, 11, 6, 14, 7, 9, 10, 60, 60, 30, 32, 26, 26, 30, 14, 34, 10]
+               NHOM[r["nhom"]], r["loai"], r["ten"], r["trang"], "" if r["anh"] == "Cần tạo" else "(ảnh có sẵn)", ""])
+W = [6, 11, 6, 14, 7, 9, 10, 60, 60, 30, 32, 26, 26, 30, 14, 34, 10, 16, 30]
 for j, w in enumerate(W): ws.column_dimensions[chr(65 + j)].width = w
 hdr = PatternFill("solid", fgColor="0B1A31"); bd = Side(style="thin", color="C9D3E3")
 for c in ws[1]:
@@ -93,12 +93,16 @@ for row in ws.iter_rows(min_row=2):
 ws.freeze_panes = "D2"
 dv = DataValidation(type="list", formula1='"Chưa làm,Đã có ảnh,Đã có video,Lỗi – làm lại,Bỏ qua"', allow_blank=True)
 ws.add_data_validation(dv); dv.add(f"D2:D{len(rows)+1}")
+dv2 = DataValidation(type="list", formula1='"Gemini,ChatGPT"', allow_blank=True)
+ws.add_data_validation(dv2); dv2.add(f"R2:R{len(rows)+1}")
 # Hướng dẫn
 g = wb.create_sheet("Hướng dẫn")
 from collections import Counter
 cn = Counter(r["nhom"] for r in rows)
 L = [["Cách làm một dòng (theo số thứ tự từ 1)"], [""],
  ["1", "Tạo ảnh khung đầu (chỉ khi cột Ảnh khung đầu ghi “Cần tạo”): mở Gemini (gói Pro), đính kèm các ảnh ở cột “Ảnh tham chiếu”, dán “Lời nhắc tạo ảnh”, chọn đúng khung (16:9 hoặc 9:16). Ảnh sai đồng phục, có chữ lạ, tay chân dị dạng thì tạo lại."],
+ ["1b", "Gemini hết lượt tạo ảnh: chuyển sang ChatGPT, dùng đúng lời nhắc và ảnh tham chiếu đó. Nếu ChatGPT không cho chọn đúng 16:9 hoặc 9:16 thì chọn khung ngang (hoặc dọc) gần nhất và dặn thêm “để nhân vật chính ở giữa, chừa khoảng trống phía trên và dưới”: Claude sẽ cắt về đúng khung khi dựng. Ghi công cụ đã dùng vào cột “Công cụ tạo ảnh” để nhật ký nguồn ảnh đúng."],
+ ["1c", "Cần thêm ảnh tham chiếu về trang phục, vũ khí, kiến trúc thì tìm trên Pinterest và đính kèm cùng lời nhắc. Ảnh Pinterest chỉ dùng làm tham chiếu cho AI vẽ lại, không đưa thẳng vào video. Muốn dùng nguyên ảnh (ảnh tư liệu thật) thì phải lần ra nguồn gốc, chỉ dùng khi thuộc phạm vi công cộng hoặc giấy phép mở, và ghi nguồn vào cột “Ghi chú”."],
  ["2", "Tải ảnh về, đổi tên đúng cột “Tên file ảnh”, để trong thư mục Tải về (Downloads) của máy Mac."],
  ["3", "Mở KlingAI → Image to Video: tải ảnh khung đầu lên (nhóm A: ảnh có sẵn trong thư mục anh-khung-dau-nhom-A của tệp nén Claude gửi kèm), dán “Lời nhắc chuyển động”, dán “Negative prompt” nếu Kling có ô này, chọn thời lượng theo cột “Thời lượng”."],
  ["4", "Tải video về (giữ nguyên dấu nước Kling, không cắt), đổi tên đúng cột “Tên file video”, để trong thư mục Tải về."],
@@ -116,7 +120,7 @@ for x in L: g.append(x)
 g.column_dimensions["A"].width = 6; g.column_dimensions["B"].width = 110
 for rr in g.iter_rows():
     for c in rr: c.font = Font(name="Arial", size=11); c.alignment = Alignment(wrap_text=True, vertical="top")
-for r_ in (1, 9, 14): g.cell(r_, 1).font = Font(name="Arial", size=13, bold=True, color="0B1A31")
+for r_ in (1, 11, 16): g.cell(r_, 1).font = Font(name="Arial", size=13, bold=True, color="0B1A31")
 t2 = wb.create_sheet("Không làm AI")
 t2.append(["Mã tập", "Cảnh", "Tên tập", "Nhân vật dùng ảnh tư liệu", "Mô tả cảnh"])
 for x in tu_lieu: t2.append(x)

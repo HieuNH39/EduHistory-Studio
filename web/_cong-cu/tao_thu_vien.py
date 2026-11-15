@@ -347,6 +347,12 @@ def tim_video(ch, cac_ma, kiem_tra):
     if not kiem_tra:
         os.makedirs(thu_muc, exist_ok=True)
     out = {}
+    # video đang dựng dở: giữ thông tin của lần sinh trang trước (để trang tập không mất video giữa chừng)
+    truoc = {}
+    try:
+        truoc = {x["ma"]: x["video"] for x in doc_json(os.path.join(WEB, "du-lieu", "thu-vien.json"))["tap"] if x.get("video")}
+    except Exception:
+        pass
     for ma in sorted(cac_ma):
         dich = os.path.join(thu_muc, ma + ".mp4")
         nguon = None
@@ -357,9 +363,13 @@ def tim_video(ch, cac_ma, kiem_tra):
                 break
         if nguon:
             if time.time() - os.path.getmtime(nguon) < 120:
+                if ma in truoc:
+                    out[ma] = truoc[ma]; bao(f"{ma}.mp4 đang dựng – giữ thông tin video của lần trước"); continue
                 bao(f"{ma}.mp4 vừa được ghi (< 2 phút) – có thể đang dựng; bỏ qua lần này, chạy lại sau")
                 nguon = None
             elif not ffprobe(nguon):
+                if ma in truoc:
+                    out[ma] = truoc[ma]; bao(f"{ma}.mp4 đang ghi dở – giữ thông tin video của lần trước"); continue
                 bao(f"{os.path.relpath(nguon, ROOT)} không đọc được (tệp dở dang?) – bỏ qua")
                 nguon = None
         if nguon and ch["cach_dua_video"] != "khong" and not kiem_tra:
