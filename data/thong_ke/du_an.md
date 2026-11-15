@@ -1,5 +1,5 @@
 # Thống kê dự án EduHistory Studio
-Cập nhật 15/11/2026 18:00 (tự động từ kho mã, tools/thong_ke_du_an.py)
+Cập nhật 15/11/2026 18:27 (tự động từ kho mã, tools/thong_ke_du_an.py)
 
 ## danh_muc
 - so_tap: 359
@@ -29,22 +29,22 @@ Cập nhật 15/11/2026 18:00 (tự động từ kho mã, tools/thong_ke_du_an.p
 
 ## hinh_anh
 - anh_canh: 52
-- anh_tu_lieu_that: 148
+- anh_tu_lieu_that: 149
 - clip_ai: 17
 - clip_kling_da_tai: 17
 - clip_gemini: 1
 - bang_thiet_ke_nhan_vat: 10
 
 ## video
-- so_video_v1: 48
-- tong_giay: 5444.3
+- so_video_v1: 51
+- tong_giay: 5901.7
 
 ## san_xuat
-- so_lan_dung_ghi_nhat_ky: 166
-- so_tap_ghi: 58
-- phut_may_tren_phut_video: 2.39
-- giay_may_trung_binh_moi_tap: 294.8
-- phan_bo_khau_s: {'giong_doc_s': 2955.1, 'dung_hinh_s': 9581.5, 'sfx_s': 211.5, 'am_thanh_s': 549.4, 'ghep_cuoi_s': 4010.3}
+- so_lan_dung_ghi_nhat_ky: 169
+- so_tap_ghi: 61
+- phut_may_tren_phut_video: 2.43
+- giay_may_trung_binh_moi_tap: 302.9
+- phan_bo_khau_s: {'giong_doc_s': 3423.4, 'dung_hinh_s': 10012.5, 'sfx_s': 226.1, 'am_thanh_s': 582.4, 'ghep_cuoi_s': 4456.0}
 
 ## am_thanh
 - hieu_ung_su_kien: 34
@@ -60,12 +60,12 @@ Cập nhật 15/11/2026 18:00 (tự động từ kho mã, tools/thong_ke_du_an.p
 - so_trang_tap: 221
 
 ## ma_nguon
-- python_dong: 13403
+- python_dong: 13410
 - python_tep: 85
 - js_dong: 4936
 - js_tep: 156
-- html_css_dong: 3885
-- so_commit: 35
+- html_css_dong: 3888
+- so_commit: 36
 - so_phien_nhat_ky_vibe_coding: 6
 - so_dong_nhat_ky_loi_va_sua: 87
 
