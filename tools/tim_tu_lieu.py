@@ -5,7 +5,7 @@ import json, glob, os, re, sys, io, time, urllib.request, urllib.parse, html
 from PIL import Image, ImageDraw, ImageFont
 ROOT = "/home/claude/eduhistory-studio"; OUT = f"{ROOT}/tmp/tl"; os.makedirs(OUT, exist_ok=True)
 API = "https://commons.wikimedia.org/w/api.php"
-UA = {"User-Agent": "EduHistoryStudio/1.0 (school project; contact via github.com/HieuNH39)"}
+UA = {"User-Agent": "EduHistoryStudio/1.0 (https://github.com/HieuNH39/EduHistory-Studio; school project) python-urllib/3"}
 OK = re.compile(r"public domain|^pd|cc0|cc[- ]by(?![- ]n)", re.I)
 def get(params):
     q = API + "?" + urllib.parse.urlencode({**params, "format": "json"})

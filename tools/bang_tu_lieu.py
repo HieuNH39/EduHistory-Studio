@@ -2,7 +2,7 @@
 import json, os, sys, io, urllib.request, textwrap
 from PIL import Image, ImageDraw, ImageFont
 ROOT = "/home/claude/eduhistory-studio"; OUT = f"{ROOT}/tmp/tl"
-UA = {"User-Agent": "EduHistoryStudio/1.0 (school project)"}
+UA = {"User-Agent": "EduHistoryStudio/1.0 (https://github.com/HieuNH39/EduHistory-Studio; school project) python-urllib/3"}
 F = lambda s: ImageFont.truetype(f"{ROOT}/assets/fonts/be-vietnam-pro-600-normal.ttf", s)
 kq = json.load(open(f"{OUT}/ung_vien.json"))
 chon = {}

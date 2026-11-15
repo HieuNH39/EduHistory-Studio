@@ -2,7 +2,7 @@
 chon.json: {"MA/so": {"i": số thứ tự ứng viên (1-8), "chu_thich": "..."}  hoặc  "MA/so": "khong" (chưa có ảnh phù hợp)}"""
 import json, os, subprocess, urllib.request, urllib.parse, re, time
 ROOT = "/home/claude/eduhistory-studio"; OUT = f"{ROOT}/tmp/tl"
-UA = {"User-Agent": "EduHistoryStudio/1.0 (school project; github.com/HieuNH39)"}
+UA = {"User-Agent": "EduHistoryStudio/1.0 (https://github.com/HieuNH39/EduHistory-Studio; school project) python-urllib/3"}
 kq = {f"{x['ma']}/{x['so']}": x for x in json.load(open(f"{OUT}/ung_vien.json"))}
 chon = json.load(open(f"{OUT}/chon.json"))
 def tai(url, dst):
