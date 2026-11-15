@@ -1,0 +1,24 @@
+{
+ "ma": "L9-CD3-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently points her finger toward the intricate wave carvings on the bronze Cửu Đỉnh, her lips moving naturally as she speaks to Nhật Minh. Nhật Minh turns his head slightly to follow her gesture, nodding in engaged conversation. In the background, soft sunlight glints off the golden tiled roofs while a gentle breeze causes the nearby tree leaves to sway slightly. The camera performs a slow, smooth push-in toward the students, keeping their expressions lively and natural throughout."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the bustling Van Don harbor. In the foreground, Hân Hân and Nhật Minh stand near the shore, turning their heads to observe the scene while speaking with natural lip movements and subtle hand gestures. Behind them, brown-sailed merchant ships glide smoothly toward the wooden pier. Waves lap rhythmically against the limestone cliffs, while silk banners flutter in the sea breeze. Workers carefully arrange ceramic goods on the dock, their movements steady and fluid."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand beside the Cửu Đỉnh, looking toward the viewer with friendly expressions. Nhật Minh gently raises his right hand in a welcoming gesture while his lips move naturally as if speaking to the audience. Beside him, Hân Hân nods slightly and smiles. In the background, soft sunlight filters through the trees, causing leaves to sway gently. The camera performs a slow, steady push-in, focusing on the students as they engage the viewer."
+  }
+ ]
+}

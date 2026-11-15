@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B4-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands at the whiteboard, her hand moving fluidly to draw a new branch on the mind map while she speaks with natural lip movements. Beside her, Nhật Minh turns his head slightly toward her, nodding in agreement as he holds his history textbook. The camera performs a slow, gentle push-in toward the whiteboard. Sunlight filters through the classroom window, causing soft dust motes to dance in the air, maintaining the warm, 2D animated aesthetic throughout."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand still, smiling warmly at the camera. Nhật Minh gently raises his right hand in an inviting gesture toward the mind map while his lips move naturally as if speaking to the audience. Hân Hân nods slightly in agreement, her expression bright and attentive. In the background, soft light shifts across the whiteboard. The camera performs a slow, steady push-in, focusing on the students to create an engaging, classroom-friendly atmosphere."
+  }
+ ]
+}

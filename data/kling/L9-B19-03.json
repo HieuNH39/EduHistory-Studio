@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B19-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh leans forward, carefully adjusting the magnifying glass over the semiconductor chip while his eyes track the details. Hân Hân stands beside him, subtly shifting her weight and tapping her smartphone screen with her thumb as she speaks with natural lip movements. In the background, soft light flickers across computer monitors. The camera performs a slow, gentle push-in toward the chip, capturing the students' focused expressions and the subtle, rhythmic movement of their conversation."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In this 2D animated scene, Nhat Minh and Han Han sit at their computer desks, looking directly toward the viewer with friendly expressions. Han Han raises her hand in a gentle, inviting gesture while her lips move naturally as if speaking to the audience. Nhat Minh nods slightly in agreement, his gaze shifting softly. In the background, sunlight filters through the window, causing subtle dust motes to drift. The camera executes a slow, smooth push-in toward the students."
+  }
+ ]
+}

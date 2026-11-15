@@ -1,0 +1,24 @@
+{
+ "ma": "L9-B15-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the hill, turning their heads slightly to look out over the lush Mường Thanh valley. Hân Hân gestures toward the landscape while speaking with natural lip movements, then Nhật Minh nods in agreement, smiling as he points at the historic tank. Gentle wind rustles the grass and the students' orange polo shirts. The camera performs a slow, smooth push-in toward the valley, keeping the students in the foreground as the scene remains serene."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh and Hân Hân stand side-by-side, looking forward with solemn expressions before turning their heads slightly to look at each other and nod in agreement. They speak with natural lip movements as if narrating. In the background, the large flag atop the monument ripples steadily in the wind, while soft, golden sunlight filters across the scene, causing the surrounding lush green foliage to sway rhythmically."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside the Victory Monument, both smiling warmly. Han Han turns her head slightly toward the camera, her lips moving naturally as she speaks, then she raises her right hand in a welcoming gesture to invite comments. Nhat Minh stands beside her, nodding gently in agreement. In the background, soft sunlight filters through nearby trees, causing leaves to sway slightly in the breeze. The camera performs a slow, steady push-in toward the two students."
+  }
+ ]
+}

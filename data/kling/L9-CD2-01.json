@@ -1,0 +1,30 @@
+{
+ "ma": "L9-CD2-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân stands on the left, turning her head slightly toward Nhật Minh while gesturing naturally with her hand as she speaks with fluid lip movements. Nhật Minh listens attentively, nodding his head and smiling. In the background, sunlight filters through the leaves of the ancient trees, causing them to sway softly in the breeze. Dust motes dance in the morning light, and the atmosphere remains calm and educational."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The artisan rhythmically shapes a clay vase on the spinning wheel, his hands moving with fluid precision. Nhật Minh and Hân Hân stand nearby, nodding and gesturing toward the pottery with curious expressions, their lips moving naturally as they speak. In the background, dust motes dance in soft sunlight filtering through the workshop. The camera performs a slow, gentle push-in toward the spinning vase, capturing the warm, focused atmosphere of the Bát Tràng pottery studio."
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the boat. Hân Hân and Nhật Minh sit side-by-side, nodding rhythmically to the music while smiling. Hân Hân turns her head to speak to Nhật Minh with natural lip movements, then gestures toward the performers. The Quan họ singers sway gracefully; the male singer in an áo the khăn xếp gently waves his fan, while the female singer in an áo mớ ba mớ bảy rotates her nón quai thao. The pond water ripples softly."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân smiles warmly, her lips moving naturally as she speaks, while she gracefully raises her right hand in a welcoming gesture toward the viewer. Nhật Minh stands beside her, nodding slightly with a friendly expression. In the background, the ancient gate of the Temple of Literature remains steady, while soft sunlight filters through the trees, causing the leaves to sway gently in the breeze."
+  }
+ ]
+}

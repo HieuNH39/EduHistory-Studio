@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B21-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gestures enthusiastically toward the robotic arm as she speaks with natural lip movements, while Nhật Minh nods in agreement, glancing briefly at the laptop screen before turning his gaze back to the robot. The robotic arm smoothly pivots to lift the toy strawberry. In the background, the 3D printer’s nozzle shifts slightly, and soft light flickers on the laptop. A slow, gentle camera push-in focuses on the students' interaction, maintaining the vibrant 2D animated style throughout."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand beside the mechanical robotic arm, both looking directly at the viewer with friendly expressions. Han Han gestures gracefully with her right hand toward the camera, inviting comments, while her lips move naturally as she speaks. Nhat Minh stands beside her, nodding slightly in agreement. The robotic arm subtly shifts its joints. The camera performs a slow, gentle push-in, maintaining the 2D animated style throughout the five-second sequence."
+  }
+ ]
+}

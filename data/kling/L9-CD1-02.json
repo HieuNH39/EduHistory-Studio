@@ -1,0 +1,24 @@
+{
+ "ma": "L9-CD1-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the rooftop, gently turning their heads to look at each other while speaking with natural lip movements and subtle hand gestures. In the background, the city traffic flows steadily, and soft clouds drift slowly across the golden sunset sky. A gentle breeze causes their school uniforms to sway slightly. The camera performs a slow, cinematic push-in toward the two students, maintaining a warm, nostalgic atmosphere throughout the ten-second clip."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the stone bridge, gently turning their heads to observe the industrial landscape while engaging in a natural conversation with subtle lip movements and expressive hand gestures. In the background, thick dark smoke billows steadily from factory chimneys, and the murky river flows slowly beneath the bridge. Below, groups of workers in coarse clothing walk rhythmically along the riverbank. The camera performs a slow, smooth push-in toward the students, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand on the modern rooftop, looking directly at the camera with friendly expressions. Han Han gently raises her right hand in a welcoming gesture, her lips moving naturally as she speaks. Nhat Minh nods slightly in agreement, his gaze remaining steady. In the background, soft clouds drift slowly across the sky, and a gentle breeze rustles their hair. The camera performs a slow, smooth push-in toward the two students, maintaining the vibrant 2D animated style."
+  }
+ ]
+}

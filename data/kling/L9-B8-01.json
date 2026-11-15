@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B8-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh stands in the classroom, gesturing with both hands pressed together to mimic a pincer movement while speaking with natural lip synchronization. Hân Hân stands beside him, listening attentively with a gentle nod and a soft smile. In the background, sunlight filters through the window, causing dust motes to drift slowly in the air. The camera performs a slow, steady push-in toward Nhật Minh to emphasize his explanation, maintaining the consistent 2D animated art style throughout."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand side-by-side, maintaining a solemn and respectful expression. Han Han gently raises her right hand in a welcoming gesture toward the viewer, her lips moving naturally as she speaks. Meanwhile, Nhat Minh stands still with a calm, attentive posture. The background remains steady, while a subtle, slow push-in camera move gradually brings the focus closer to the students, enhancing the intimate and engaging atmosphere of the history lesson."
+  }
+ ]
+}

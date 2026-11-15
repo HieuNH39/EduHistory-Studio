@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B3-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand by the globe, their expressions bright and engaged. Hân Hân gently rotates the globe with her hand, pointing toward the Asia-Pacific region as she speaks with natural lip movements. Nhật Minh nods in agreement, gesturing toward the open atlas on the table. Sunlight filters through the library windows, causing soft dust motes to dance in the air. The camera performs a slow, steady push-in toward the students, capturing their enthusiastic academic discussion."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand beside a spinning globe in a sunlit library. Nhat Minh turns his head toward the camera, gestures with an open hand in a welcoming motion, and speaks with natural lip movements. Han Han smiles gently, nodding in agreement while her hair sways slightly. Dust motes drift through soft light beams in the background. The camera performs a slow, steady push-in, focusing on the students as the globe rotates smoothly on its axis."
+  }
+ ]
+}

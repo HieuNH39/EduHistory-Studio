@@ -1,0 +1,18 @@
+{
+ "ma": "L9-CD2-05",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan from right to left across the sun-drenched landscape. Hân Hân and Nhật Minh stand on the canal bank, turning their heads slightly toward each other while speaking with natural lip movements and subtle, friendly hand gestures. In the background, the tall grass and distant trees sway softly in a light breeze. The water in the canal ripples gently, while heat haze shimmers faintly above the cracked, dry soil of the rice fields."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the grassy canal bank as golden sunlight filters through the swaying rice stalks. Han Han smiles warmly, gesturing with her hand toward the viewer as if inviting a conversation, her lips moving naturally to speak. Nhat Minh stands beside her, nodding slightly and looking toward the camera. A gentle breeze ripples the canal water and rustles the leaves, while a slow camera push-in brings the duo closer into focus."
+  }
+ ]
+}

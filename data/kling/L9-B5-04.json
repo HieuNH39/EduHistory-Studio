@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B5-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly along the riverside promenade, their bodies swaying naturally with each step. Han Han turns her head toward Nhat Minh, her lips moving as she speaks, while Nhat Minh nods in agreement, gesturing toward the river. In the background, the river water ripples gently, distant boats glide across the surface, and sunlight flickers through the trees. The camera performs a slow, smooth push-in, focusing on the students as they continue their conversation."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand by the riverside railing as the golden sunset light flickers on the water. Nhat Minh turns his head slightly toward the camera, smiles, and raises his hand in a welcoming gesture as he speaks with natural lip movements. Han Han stands beside him, gently swaying and looking toward the viewer with a friendly expression. The camera performs a slow, steady push-in toward the pair while soft wind ripples their shirts."
+  }
+ ]
+}

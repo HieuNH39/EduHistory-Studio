@@ -1,0 +1,24 @@
+{
+ "ma": "L9-CD2-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân and Nhật Minh sit in the small wooden boat, turning their heads slightly to observe the bustling market while gesturing naturally toward the produce. They speak with synchronized, natural lip movements. In the background, the river water ripples softly, a merchant on a nearby boat rhythmically rows, and the colorful fruits on the surrounding boats sway gently as the morning mist drifts across the scene."
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. In the foreground, the craftsman rhythmically bends a wooden plank, sending thin shavings drifting to the floor. Nhật Minh and Hân Hân stand nearby, turning their heads to watch the process with curious expressions. They gesture naturally toward the boat frame while speaking with synchronized lip movements. Sunlight filters through the workshop, catching dust motes in the air as the canal water ripples softly in the background."
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "In the warm glow of sunset, the musicians gently pluck their traditional instruments, their hands moving rhythmically. Beside them, Nhật Minh and Hân Hân sit on the wooden porch, swaying slightly to the melody. Nhật Minh turns his head toward the camera, his lips moving as he speaks, then he raises his hand in a friendly gesture to invite comments. Meanwhile, the canal water ripples softly, and leaves on nearby trees sway in a light breeze. A slow, gentle push-in camera move."
+  }
+ ]
+}

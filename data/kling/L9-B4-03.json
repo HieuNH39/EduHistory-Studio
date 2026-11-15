@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B4-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the wall map, their orange polo shirts bright in the warm afternoon light. Hân Hân gestures toward a continent on the map, her lips moving as she speaks, while Nhật Minh nods attentively, turning his head to look at her. Dust motes dance in the golden sunlight streaming through the window. The camera performs a slow, gentle push-in, focusing on their engaged expressions as the scene remains tranquil and scholarly."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently rotates the globe in her hands, her lips moving naturally as she speaks to the camera with a friendly expression. Beside her, Nhật Minh smiles and raises his hand in a welcoming gesture toward the viewer. In the background, soft light filters through the library, and dust motes drift slowly in the air. The camera performs a slow, steady push-in toward the two students, maintaining the warm, 2D animated aesthetic throughout the scene."
+  }
+ ]
+}

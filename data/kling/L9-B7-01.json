@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B7-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand still in their orange school uniforms. Nhat Minh turns his head slightly toward Han Han, gesturing with his right hand as he speaks with natural lip movements. Beside them, the red flag with a yellow star waves gently in the breeze. In the background, soft white clouds drift across the bright blue sky. The camera performs a slow, smooth push-in toward the students to emphasize their historical reflection."
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand still in front of the monument. Han Han smiles and gestures naturally with her right hand, inviting viewers to comment, while her lips move in sync with a friendly, welcoming speech. Nhat Minh looks toward the camera with a gentle, attentive expression. In the background, soft sunlight filters through the trees, causing leaves to sway slightly in the breeze. The camera performs a slow, smooth push-in toward the students, maintaining their 2D animated style throughout."
+  }
+ ]
+}

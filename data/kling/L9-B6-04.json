@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B6-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand side-by-side, smiling warmly at the camera. Hân Hân gestures toward the calendar with a graceful hand movement while speaking with natural lip synchronization. Nhật Minh nods in agreement, occasionally turning his head slightly to look at the decorated bulletin board. In the background, the fabric of the red flag gently ripples as if caught in a soft breeze. The camera performs a slow, steady push-in, focusing on the students as they share their history lesson."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand side-by-side, looking directly at the viewer with friendly smiles. Hân Hân speaks with natural lip movements, gesturing slightly with her hands. Nhật Minh then turns his head slightly toward her, nods in agreement, and raises his right hand in a welcoming gesture to invite comments. The background calendar remains steady while soft, ambient light shifts gently across their faces. The camera performs a slow, subtle push-in to focus on their engaging expressions."
+  }
+ ]
+}

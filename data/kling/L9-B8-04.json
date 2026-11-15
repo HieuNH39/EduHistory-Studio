@@ -1,0 +1,18 @@
+{
+ "ma": "L9-B8-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân stands on the left, turning her head slightly toward Nhật Minh while gesturing with her hand as she speaks with natural lip movements. Nhật Minh listens attentively, nodding occasionally, then turns to look toward the historic communal house. In the background, sunlight filters through the leaves of the ancient trees, causing soft, dappled shadows to sway gently across the grass and the wooden pillars of the building."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh stands calmly, smiling slightly while shifting his weight. Hân Hân turns her head to face the camera, her expression bright and welcoming; she raises her hand in a natural, inviting gesture toward the viewer. Her lips move in sync with a friendly greeting. In the background, the leaves of the trees sway softly in the breeze, and sunlight filters through the branches."
+  }
+ ]
+}

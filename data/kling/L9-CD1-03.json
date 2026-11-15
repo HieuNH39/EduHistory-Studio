@@ -1,0 +1,18 @@
+{
+ "ma": "L9-CD1-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gestures toward the smart city model while her lips move in natural speech, then she taps her tablet screen. Beside her, Nhật Minh turns his head to look at the model, nodding in agreement as he speaks. The LED lights on the miniature buildings pulse with a soft glow. In the background, green leaves on the model’s rooftops sway gently. The camera performs a slow, smooth push-in toward the students and the model."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand beside the detailed smart city model. Nhat Minh turns his head toward the camera, smiles, and gestures with his right hand in a welcoming motion while his lips move naturally as he speaks. Han Han nods slightly, looking at the model with an engaged expression. In the background, soft light glimmers on the city structures. The camera performs a slow, gentle push-in to focus on the students' inviting interaction."
+  }
+ ]
+}

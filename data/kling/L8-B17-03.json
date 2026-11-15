@@ -1,0 +1,84 @@
+{
+ "ma": "L8-B17-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the sidewalk, gesturing naturally with their hands as they engage in conversation with subtle, synchronized lip movements. In the background, a steady stream of motorbikes flows along the street while leaves on the trees sway gently in the breeze. The camera performs a slow, smooth push-in toward the two students, capturing their friendly expressions and the vibrant, bustling atmosphere of the late afternoon city scene."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Small French warships gently bob on the rippling river water as soldiers in dark blue uniforms and kepi hats disembark onto the muddy riverbank, their rifles held firmly. In the foreground, Hân Hân and Nhật Minh stand side-by-side, Hân Hân gestures toward the river while Nhật Minh nods in agreement, both speaking with natural lip movements. A light breeze rustles nearby foliage, and the camera performs a slow, steady push-in toward the historic scene unfolding at the riverfront."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Nguyen Tri Phuong stands firmly on the ramparts, his white beard flowing slightly as he draws his sword and points forward with a commanding gesture. Nearby, the two students, Nhat Minh and Han Han, look on with focused expressions, their lips moving as they speak. Thick, grey smoke drifts slowly across the background, partially obscuring the distant horizon. The camera executes a slow, dramatic push-in toward the General, capturing the tense atmosphere of the historic defense."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, solemn push-in toward Nguyễn Tri Phương. He lies on the mat, his bandaged arm resting still. With a steady, determined expression, he slowly pushes the wooden rice bowl aside with his free hand. Nearby, the flickering candle flame casts soft, dancing shadows against the dark walls, while thin wisps of smoke drift gently upward. Hân Hân stands slightly in the background, her lips moving naturally as she speaks with a respectful, hushed tone."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the center of the scene. The brown-clad soldiers stand firm, gently shifting their weight and adjusting their spears. Above them, the bamboo leaves sway rhythmically in a light breeze, while the red flags flutter vigorously. Nhật Minh and Hân Hân stand in the foreground, turning their heads slightly to observe the troops, their lips moving naturally as they speak in unison, maintaining a focused and respectful expression throughout."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the bamboo stalks, their heads turning slightly as they whisper to each other with natural lip movements. Nearby, hidden soldiers in the bushes shift position subtly while their folded black flags flutter gently in the cold winter breeze. Dry leaves drift slowly across the dusty path. The camera performs a slow, steady push-in toward the two students, capturing the tense, quiet atmosphere of the historical landscape."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow push-in toward the center of the road. From both sides, Black Flag soldiers and imperial troops emerge, waving large black flags vigorously. The French soldiers in the center scramble and retreat in confusion, their formation breaking apart. Thick clouds of gray smoke and swirling dust drift across the scene, obscuring the background. In the foreground, Nhật Minh and Hân Hân stand calmly, gesturing toward the action while speaking with natural, synchronized lip movements."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, solemn push-in toward the center of the table. The Vietnamese officials sit with heavy, slumped postures, their heads bowing further in synchronized defeat. Across from them, the French representatives remain rigid. Sunlight filters through wooden lattices, casting shifting shadows across the room. Hân Hân and Nhật Minh, standing in the foreground, turn their heads slightly toward the table while their lips move naturally as they narrate the historical gravity of the scene."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hoàng Diệu stands firm, his gaze fixed forward as he slowly tightens his grip on the ultimatum scroll. His lips move naturally as he speaks with a resolute expression. Behind him, the officials shift slightly, their faces reflecting deep anxiety. Outside the open windows, sunlight filters through, and dust motes drift gently in the air. The camera performs a slow, steady push-in toward Hoàng Diệu’s face, emphasizing his stoic determination amidst the tense atmosphere of the Hanoi citadel."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hoàng Diệu stands motionless under the ancient tree, his gaze fixed on the distant, smoking citadel gate. Gentle orange sunset light flickers across his traditional robes as leaves sway softly in the breeze. Beside him, Hân Hân and Nhật Minh stand respectfully, turning their heads slightly to observe the horizon with somber expressions. Their lips move naturally as they narrate the history. The camera performs a slow, cinematic push-in toward the distant smoke, maintaining a solemn, reflective atmosphere throughout."
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this scene, Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at the battlefield while gesturing toward the action with natural lip movements as they narrate. In the background, Vietnamese soldiers emerge from the bamboo thickets and rice paddies, charging forward with momentum. French soldiers scatter in confusion, retreating quickly across the field. Smoke drifts slowly from antique muskets, and the tall grass ripples in the wind. A slow push-in camera move intensifies the historical tension."
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The French warships in the distance emit thick, dark smoke that drifts slowly across the horizon, while faint flashes of cannon fire spark from their sides. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly toward the sea with concerned expressions. They speak with natural lip movements as they gesture toward the horizon. The camera performs a slow, somber push-in toward the distant, gloomy imperial palace under the overcast sky."
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "As the streetlights flicker to life, casting a warm glow on the Cầu Giấy street, the two students stand side-by-side. Nhật Minh turns his head toward the camera, smiles, and gestures with his hand in an inviting motion toward the viewer while his lips move naturally as if speaking. Hân Hân stands beside him, nodding gently. In the background, soft light glows from shop windows and a slow, steady camera push-in brings the pair into closer focus."
+  }
+ ]
+}

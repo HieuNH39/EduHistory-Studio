@@ -65,8 +65,15 @@ def dung(src, out, nguon, giay_phep, chu_thich=None):
         fs -= 2; f = font(fs); tw = d.textlength(line, font=f)
     d.text((x + pw - tw, y + ph + b + 10), line, font=f, fill=(232, 222, 205))
     if chu_thich:
-        fc = font(34, bold=True)
-        d.text((x, y + ph + b + 8), chu_thich, font=fc, fill=(255, 246, 230)) if d.textlength(chu_thich, font=fc) + tw + 60 < pw else None
+        fc = font(34 if not DOC else 30, bold=True)
+        if d.textlength(chu_thich, font=fc) + tw + 60 < pw:
+            d.text((x, y + ph + b + 8), chu_thich, font=fc, fill=(255, 246, 230))
+        else:   # không đủ chỗ cạnh dòng nguồn: đặt giữa, dòng riêng phía dưới (vẫn trên vùng phụ đề)
+            cs = 34 if not DOC else 30
+            while d.textlength(chu_thich, font=fc) > W * 0.86 and cs > 22:
+                cs -= 2; fc = font(cs, bold=True)
+            cw = d.textlength(chu_thich, font=fc)
+            d.text(((W - cw) / 2, y + ph + b + 10 + fs + 12), chu_thich, font=fc, fill=(255, 246, 230))
     bg.save(out, quality=93)
     return (pw, ph, k)
 
