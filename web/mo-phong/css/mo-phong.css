@@ -384,3 +384,19 @@ input[type="range"]::-moz-range-thumb { width: 18px; height: 18px; border-radius
 .trang-mp .nguon strong { color: #fff; }
 @media (prefers-reduced-motion: reduce) { .holo *, .trang-mp .the-mp, .trang-mp .the-mp img { animation: none !important; transition: none !important; } }
 .trang-mp .nut-ve::before { content: none; display: none; }
+/* sơ đồ bộ máy nhà nước A-ten, trò bỏ phiếu vỏ sò (L6-B10-02) */
+.cay-bo-may { display: grid; justify-items: center; gap: 6px; margin: 8px 0; }
+.o-bm { display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 150px; padding: 10px 14px; border-radius: 12px; cursor: pointer;
+  border: 2px solid var(--navy-2, #1d3a63); background: #fff; color: var(--chu); font: inherit; text-align: center; }
+.o-bm b { font-size: .95rem; } .o-bm span { font-size: .78rem; color: var(--chu-phu); }
+.o-bm.goc { background: var(--navy-2, #1d3a63); color: #fff; } .o-bm.goc span { color: #f3d6a8; }
+.o-bm.dang-chon { border-color: var(--cam); box-shadow: 0 0 0 3px rgba(242, 107, 29, .25); }
+.bau { font-size: .8rem; font-weight: 700; color: var(--chu-phu); position: relative; padding: 10px 0; }
+.bau::before { content: ""; position: absolute; left: 50%; top: 0; bottom: 0; border-left: 2px dashed var(--vien); }
+.hang-bm { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.tin-bo-may { margin: 6px 0 0; padding: 10px 12px; border-radius: 10px; background: #fff; border: 1px solid var(--vien); }
+.thanh-phieu { height: 16px; border-radius: 999px; background: var(--giay-2, #e3e8f0); overflow: hidden; margin: 8px 0 4px; }
+.thanh-phieu i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--vang, #C98B2B), var(--cam)); transition: width .4s ease; }
+.so-phieu { font-weight: 800; font-variant-numeric: tabular-nums; margin: 0 0 6px; }
+.ket-qua-phieu { font-weight: 600; color: var(--do, #b8261e); }
+.trang-mp .so-do-aten, .trang-mp .vo-so { color: var(--chu); }

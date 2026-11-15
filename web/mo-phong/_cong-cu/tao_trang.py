@@ -47,6 +47,58 @@ NHAN_PHA = {  # nhãn giai đoạn khi sa bàn không có mốc chữ
  ("hai-chau-tho", "tong_quan"): "Toàn cảnh", ("chau-tho-cuu-long", "tong_quan"): "Toàn cảnh",
 }
 
+# ---------------------------------------------------------------- mô hình 3D mới (15/11/2026): kiến trúc, hiện vật, phương tiện
+MO_HINH_MOI = {
+ "L6-B18-03": dict(loai="ba_chieu", nhan="Mô hình 3D",
+   mo_ta="Bãi cọc Bạch Đằng 3D: kéo mực nước triều lên xuống để thấy cọc ngầm chìm rồi nhô lên, thuyền giặc mắc cọc khi triều rút.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay, cuộn chuột/chụm hai ngón để phóng to.",
+              "Kéo thanh “Mực nước triều” để nâng, hạ mặt nước; cột đo trên bờ cho biết mức chênh.",
+              "Bấm “Triều lên” để thuyền giặc tiến vào bãi cọc, rồi “Triều rút” để xem thuyền giặc mắc cọc.",
+              "Bật “Nhìn sát mặt nước” để thấy rõ đầu cọc bịt sắt dưới nước."],
+   canh=[6, 7, 8, 9, 11], cau_hoi=[("canh", 10), ("ds", 2), ("ds", 3)],
+   ghi_chu=["Mô hình 3D minh hoạ theo mô tả trong SGK, giản lược; số cọc, khoảng cách và kích thước thuyền không theo tỉ lệ."]),
+ "L6-B2-02": dict(loai="ba_chieu", nhan="Mô hình 3D",
+   mo_ta="Trống đồng Ngọc Lũ 3D: xoay trống, soi từng vành hoa văn trên mặt trống – mái nhà cong, thuyền, người giã gạo, người múa hát.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay, cuộn chuột/chụm hai ngón để phóng to.",
+              "Bấm các nút “Soi hoạ tiết” để máy quay bay tới từng vành hoa văn.",
+              "Chạm vào mặt trống để xem hoạ tiết ở vị trí đó cho biết điều gì về đời sống người Việt cổ.",
+              "Bật “Xoay chậm” để xem trống từ mọi phía."],
+   canh=[2, 4, 5, 10], cau_hoi=[("canh", 6), ("ds", 0), ("ds", 2)],
+   ghi_chu=["Mô hình 3D minh hoạ, giản lược hoa văn của trống đồng Đông Sơn; không phải bản sao chính xác của trống Ngọc Lũ."]),
+ "L7-B18-02": dict(loai="ba_chieu", nhan="Mô hình 3D",
+   mo_ta="Tháp Chăm 3D: xếp từng lớp gạch nung để dựng tháp, tách lớp để thấy các viên gạch gắn kết không dùng vữa.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay, cuộn chuột/chụm hai ngón để phóng to.",
+              "Bấm “Xây tháp từ móng” để xem tháp được dựng lên từng lớp gạch.",
+              "Kéo thanh “Tách lớp gạch” để thấy giữa các lớp không có vữa.",
+              "Chạm vào một viên gạch để xem thông tin."],
+   canh=[1, 3, 4, 7, 12], cau_hoi=[("canh", 5), ("ds", 1), ("ds", 0)],
+   ghi_chu=["Mô hình 3D minh hoạ kiểu tháp Chăm (gạch nung, nhiều tầng thu nhỏ dần), giản lược, không theo tỉ lệ của tháp Pô Klong Ga-rai."]),
+ "L7-CD1-02": dict(loai="ba_chieu", nhan="Mô hình 3D",
+   mo_ta="Tàu Ca-ra-ven 3D: tàu dài có bánh lái và hệ thống buồm lớn; đổi hướng gió để xem buồm và bánh lái giúp tàu vượt đại dương.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay, cuộn chuột/chụm hai ngón để phóng to.",
+              "Kéo thanh “Hướng gió” để xem buồm xoay theo gió.",
+              "Bấm tên từng bộ phận (bánh lái, buồm, la bàn) để máy quay bay tới bộ phận đó.",
+              "Bấm “Ra khơi” để tàu lướt sóng."],
+   canh=[1, 4, 7, 13], cau_hoi=[("ds", 1), ("ds", 2), ("ds", 0)],
+   ghi_chu=["Mô hình 3D minh hoạ một tàu ca-ra-ven thế kỉ XV, giản lược, không theo tỉ lệ."]),
+ "L6-B13-04": dict(loai="ba_chieu", nhan="Mô hình 3D",
+   mo_ta="Đền Bô-rô-bu-đua 3D: kì quan Phật giáo xây dựng vào thế kỉ VIII – dựng từng tầng nền vuông, tầng tròn và các tháp chuông.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay, cuộn chuột/chụm hai ngón để phóng to.",
+              "Kéo thanh “Dựng từng tầng” hoặc bấm “Xây từ nền” để xem các tầng chồng lên nhau.",
+              "Chọn góc nhìn “Từ trên xuống” để thấy mặt bằng hình mạn-đà-la.",
+              "Đọc thẻ “Theo SGK” để biết vì sao kiến trúc Đông Nam Á chịu ảnh hưởng Ấn Độ."],
+   canh=[4, 5, 9, 10], cau_hoi=[("canh", 12), ("ds", 2), ("ds", 0)],
+   ghi_chu=["Mô hình 3D minh hoạ, giản lược số tầng, số tháp và phù điêu; không theo tỉ lệ."]),
+ "L6-B10-02": dict(loai="ba_chieu", nhan="Mô hình 3D + sơ đồ",
+   mo_ta="Đền Pác-tê-nông 3D trên đồi cao của A-ten, kèm sơ đồ bộ máy nhà nước A-ten và trò bỏ phiếu bằng vỏ sò.",
+   huong_dan=["Kéo (hoặc vuốt) để xoay mô hình đền Pác-tê-nông; bấm “Dựng hàng cột” để xem đền được dựng lên.",
+              "Trong sơ đồ bộ máy nhà nước, chạm vào từng cơ quan để xem Đại hội nhân dân bầu ra những cơ quan nào.",
+              "Trò “Bỏ phiếu bằng vỏ sò”: thả phiếu và theo dõi khi nào đủ 6 000 phiếu.",
+              "Làm câu hỏi “Thử nhanh” ở cuối trang."],
+   canh=[5, 7, 9, 11, 12], cau_hoi=[("canh", 6), ("ds", 1), ("ds", 2)],
+   ghi_chu=["Mô hình 3D minh hoạ, giản lược số cột và chi tiết trang trí; không theo tỉ lệ."]),
+}
+
 def cau_hinh_tu_dong(ma, spec, nhom):
     S = doc(f"pipeline/maps/specs/{spec}.json"); sc = doc(f"data/scripts/{ma}.json")
     canh_sb = [c for c in sc["canh"] if c.get("sa_ban") == spec]
@@ -293,7 +345,7 @@ def trang_html(tap, cfg):
     if cfg.get("geo"): scripts.append("data/geo/dat-lien-110m.js")
     scripts += ["js/am-thanh.js", "js/chung.js"]
     if cfg.get("ban_do") and ma not in ("L6-B14-03", "L7-CD1-03"): scripts.append("js/saban.js")
-    if cfg["loai"] == "ba_chieu": scripts += ["vendor/three.min.js", "js/ba-chieu.js"]
+    if cfg["loai"] == "ba_chieu": scripts += ["vendor/three.min.js", "js/ba-chieu.js", "js/mo-hinh-chung.js"]
     scripts.append(f"js/mp/{ma}.js")
     nguon = f"Theo SGK {tap['sach'].replace('(bộ sách dùng chung)', '(bộ sách dùng chung)')}, tr. {trang_chu(tap['trang'])}."
     ghi_chu = list(cfg.get("ghi_chu", []))
@@ -455,6 +507,9 @@ def index_html(ds):
 def main():
     cat = doc("data/catalog/episodes.json")
     tat_ca = {e["ma"]: e for e in cat["tap"]}
+    for ma, cfg in MO_HINH_MOI.items():
+        if os.path.exists(os.path.join(OUT, "js", "mp", ma + ".js")):   # chỉ đưa vào khi đã có mã mô hình
+            CAU_HINH[ma] = cfg
     for ma, spec, nhom in TU_DONG:
         assert ma not in CAU_HINH, ma
         CAU_HINH[ma] = cau_hinh_tu_dong(ma, spec, nhom)
