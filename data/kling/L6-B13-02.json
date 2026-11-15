@@ -1,0 +1,42 @@
+{
+ "ma": "L6-B13-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân sit on the sofa, their orange polo shirts vibrant. Hân Hân gestures toward the TV with a gentle smile while speaking, her lips moving naturally. On the screen, water splashes rhythmically as festival participants move in the background. Nhật Minh watches the screen, his head turning slightly before he breaks into a genuine, joyful laugh. A slow, gentle camera push-in captures their relaxed expressions as soft, ambient light shifts subtly across the room."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand still, turning their heads slightly to observe the scene while speaking with natural lip movements. In the background, villagers gently bow their heads in prayer near offerings on the cracked earth. Inside the stilt house, a family member rhythmically waves incense smoke toward the altar. Dust motes drift slowly in the dry air, and the camera performs a slow, steady push-in toward the students to capture their thoughtful expressions."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Hindu priests and Buddhist monks gracefully step off the wooden sailboat onto the sandy shore, clutching ancient scrolls and small statues. Local villagers approach with gentle smiles, offering lotus flowers to the travelers. Nhật Minh stands in the foreground, turning his head slightly toward the camera while his lips move naturally as he narrates. In the background, the river water ripples softly, and a slow, steady push-in camera move captures the serene, welcoming atmosphere of the historic harbor."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the king. The king stands regally, slowly turning his head to survey the temple while his golden robes flutter slightly. Below, the kneeling courtiers and monks gently sway in rhythmic prayer. Wisps of incense smoke drift upward through shafts of soft light, and flickering candlelight casts dancing shadows against the ancient brick walls. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other while speaking with natural, synchronized lip movements."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the stone pillars, their eyes tracking the procession. Hân Hân whispers to Nhật Minh with natural lip movements, while Nhật Minh nods in agreement. In the background, the royal procession moves steadily; the colorful umbrellas sway rhythmically, and the crowd bows low in unison. Smoke from incense drifts gently through the air. The camera performs a slow, subtle push-in toward the students, maintaining focus on their curious expressions amidst the historical scene."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han walk into the living room, their movements fluid and natural. They turn their heads to face the viewer with friendly expressions. Han Han gestures gracefully with her hand, inviting the audience to comment while her lips move in sync with natural speech. In the background, the television screen displays vibrant, flickering water festival scenes. The camera performs a gentle, slow push-in, maintaining focus on the students as the ambient light subtly shifts."
+  }
+ ]
+}

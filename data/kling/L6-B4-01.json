@@ -1,0 +1,42 @@
+{
+ "ma": "L6-B4-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand before the statues, gesturing naturally toward the exhibits as they speak with synchronized lip movements. Hân Hân points to the early hominid, while Nhật Minh nods in agreement, turning his head slightly to look at the modern human statue. In the background, soft ambient light shifts across the museum floor. The camera performs a slow, smooth push-in toward the students, capturing their engaged expressions and the educational atmosphere of the modern gallery."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The prehistoric hominids move with a natural, hunched gait, with one figure slowly reaching up to pluck a fruit from a tree branch while another sits and inspects a stone tool. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the landscape as they speak with fluid, synchronized lip movements. The tall savanna grass sways gently in a warm breeze, and the camera performs a slow, steady push-in to focus on the interaction."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The group of early humans stands on the grassy savanna, shifting their weight naturally while gripping stones and branches. A few individuals turn their heads to observe the horizon, their movements slightly jerky and primitive. In the foreground, Hân Hân and Nhật Minh stand in their orange polo shirts, gesturing naturally toward the group while their lips move in sync with a narration. The tall grass sways gently in the wind, and a slow, steady camera push-in focuses on the group."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind a large rock, their heads turning slightly as they observe the scene. Nearby, a group of early humans sits around a stone hearth, rhythmically striking stones together to create sharp edges, with tiny stone shards realistically scattering outward. The camera performs a slow, subtle push-in toward the group. Hân Hân and Nhật Minh move their lips naturally as they whisper to each other, maintaining their curious expressions throughout the 10-second clip."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The family of Homo sapiens stands near the cave entrance, their postures upright and refined. The central figure carefully threads seashells onto a string, their fingers moving with delicate precision. Nearby, Hân Hân and Nhật Minh, wearing orange polo shirts, stand slightly to the side, gesturing naturally toward the family while their lips move in synchronized speech. Soft smoke drifts from a nearby hearth, and leaves sway gently in the breeze. A slow camera push-in captures the scene."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand still beside the three historical statues, maintaining their friendly expressions. Han Han turns her head slightly toward the camera, raises her hand in a welcoming gesture, and speaks with natural, synchronized lip movements. Meanwhile, Nhat Minh nods gently in agreement. The camera performs a slow, steady push-in toward the pair. Soft, ambient light flickers subtly across the museum hall, keeping the 2D animated style consistent and fluid throughout the ten-second duration."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "ma": "L6-B8-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân holds the open book, gently pointing at the pyramid diagram while her lips move naturally as she speaks. Nhật Minh turns his head toward her, nodding in agreement with a subtle smile. Golden afternoon sunlight shifts softly across the library shelves, and dust motes dance in the air. The camera performs a slow, smooth push-in toward the map and the book, capturing the students' engaged expressions and the peaceful, studious atmosphere of the classroom."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the ancient Indus city. In the foreground, Hân Hân and Nhật Minh stand together, turning their heads slightly toward each other while speaking with natural lip movements. In the background, Dravidian workers rhythmically carry clay bricks and carefully stack them to form sturdy walls. On the nearby river, a small wooden boat glides smoothly over the flowing water, while dust particles drift softly in the warm, golden sunlight."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Aryan travelers move steadily across the mountain pass, with horses trotting rhythmically and wooden cart wheels rotating as they descend toward the plains. Dust swirls gently around the horses' hooves. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the landscape while gesturing toward the horizon. They speak with natural, synchronized lip movements. A slow push-in camera move gradually brings the travelers into sharper focus against the clear, expansive sky."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand still, occasionally shifting their weight and glancing at each other with contemplative expressions. Hân Hân turns her head slightly to whisper to Nhật Minh, her lips moving naturally in speech. In the background, diverse groups of people walk steadily across the frame without interacting. Dust motes drift in the sunbeams, and light fabric on the passersby flutters gently. The camera performs a slow, subtle push-in toward the two students to emphasize their thoughtful observation."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Brahman priests sit in solemn stillness, their white robes gently fluttering in a light river breeze. Thin wisps of fragrant smoke drift upward from the sacred fire altar, swirling gracefully into the air. Hân Hân, standing to the side, turns her head slightly toward the priests, her lips moving naturally as she speaks with a respectful expression. The camera performs a slow, steady push-in toward the altar, emphasizing the serene, historical atmosphere of the riverside ritual."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, steady push-in toward the center of the hall. Nhật Minh stands in the foreground, gesturing naturally with his hands as he speaks with realistic lip movements. In the background, the Ksa-tri-a nobles subtly shift their posture and turn their heads to listen, while the guards stand tall, their spears remaining perfectly still. Soft, golden light flickers across the carved pillars, creating a sense of historical grandeur and focused attention."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "In this vibrant ancient village scene, Hân Hân stands in the foreground, turning her head slightly to smile and gesturing naturally with her hands as she speaks with fluid lip movements. In the background, a farmer leads an ox across the field, a potter rhythmically shapes clay, and a merchant adjusts colorful fabrics. Gentle wind rustles the nearby crops, while the camera executes a slow, smooth push-in, capturing the lively, bustling atmosphere of the marketplace and surrounding fields."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The sun shines brightly as the laborers move rhythmically, their shoulders swaying slightly under the weight of the heavy bamboo carrying poles. Sweat glistens on their tanned skin as they walk steadily along the dusty riverbank. In the foreground, Hân Hân and Nhật Minh turn their heads to observe the scene, their lips moving naturally as they speak. The river water ripples gently in the background, and a slow, smooth camera push-in captures the poignant, patient expressions of the workers."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the group. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward the villagers with empathetic expressions, their lips moving naturally as they narrate. In the background, the villagers shift their weight subtly, their worn clothing fluttering softly in a light evening breeze. Dust motes drift through the golden sunset light, and the distant trees sway rhythmically, maintaining a somber, dignified atmosphere throughout the scene."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han sit at the wooden library table, their expressions thoughtful as they gaze down at the open book. Han Han gently gestures toward the pyramid diagram with her hand while speaking, her lips moving naturally. Nhat Minh nods slowly in agreement, occasionally glancing at the pages. Soft dust motes drift through a sunbeam in the background, and the camera performs a slow, steady push-in toward the open book, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand still in the library. Nhat Minh smiles and gestures with his right hand toward the viewer, his lips moving naturally as if speaking to the audience. Han Han tilts her head slightly, maintaining a friendly expression. In the background, soft dust motes drift slowly through the light filtering across the bookshelves. The camera performs a gentle, slow push-in toward the students, keeping the focus on their inviting and engaging presence."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "ma": "L6-B19-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân turns her head slightly toward Nhật Minh, smiling and gesturing with her hand as if explaining the history of the site, her lips moving naturally in speech. Nhật Minh nods in agreement, looking toward the ancient brick towers. In the background, soft morning sunlight filters through the valley, leaves on the surrounding trees sway gently in a light breeze, and dust motes dance slowly in the warm air."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The scribe sits calmly, his hand moving rhythmically as he carefully etches elegant scripts onto the palm leaf with a stylus. He occasionally glances at the Indian manuscript template beside him, his head turning slightly. The oil lamp flickers, casting soft, dancing shadows against the wooden walls. Outside the window, tropical leaves sway gently in the breeze. The camera performs a slow, cinematic push-in toward the scribe’s focused face, capturing the serene atmosphere of the ancient study."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Cham stone carver rhythmically strikes the chisel with his hammer, sending fine particles of stone dust drifting into the air. He leans slightly forward, focusing intently on the Sanskrit inscriptions. In the foreground, Hân Hân and Nhật Minh stand side-by-side, nodding gently as they observe the craftsmanship, their lips moving naturally as they narrate. The camera performs a slow, steady push-in toward the carving, capturing the intricate details of the stone and the subtle movement of the dust."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan from the distant brick tower toward the foreground. Hân Hân and Nhật Minh stand respectfully, their orange polo shirts fluttering slightly in a coastal breeze. Hân Hân gestures gracefully toward the rising sun while speaking with natural lip movements. Beside her, Nhật Minh bows his head slightly in reverence. In the background, golden rice stalks sway rhythmically, and soft sunlight glimmers across the distant blue sea, creating a peaceful, atmospheric scene."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "In this scene, Hân Hân stands in the foreground, gesturing naturally toward the tower while her lips move as she narrates. Behind her, Champa artisans are busy: one worker rhythmically places red bricks, another pulls a basket of bricks up a sturdy bamboo scaffold, and a master craftsman carefully carves intricate floral patterns into a brick surface. Dust particles drift in the sunlight, and the camera performs a slow, steady push-in toward the rising tower."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand behind the tree, gently shifting their weight and turning their heads to observe the scene with curious expressions. Hân Hân gestures toward the temples while speaking with natural lip movements, and Nhật Minh nods in agreement. In the background, the Champa procession walks rhythmically toward the towers, while wisps of incense smoke drift slowly upward. The camera performs a slow, cinematic push-in toward the vibrant red brick temples, capturing the serene atmosphere."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Champa artisan rhythmically chisels the stone altar, his hand moving with steady precision as dust particles dance in the warm torchlight. Nearby, Hân Hân and Nhật Minh stand observing, gently nodding and gesturing toward the intricate carvings of dancing figures. Their lips move naturally as they converse. In the background, the orange flame of the torch flickers, casting soft, shifting shadows across the stone. The camera performs a slow, smooth push-in toward the detailed relief carvings."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Champa villagers celebrate joyfully in front of the ancient temple. The drummer rhythmically strikes his drum while the musician plays the horn. A young woman in traditional attire performs a graceful dance, her silk scarf flowing gently. Nearby, villagers sway to the music, and incense smoke drifts slowly into the air. Hân Hân and Nhật Minh stand in the foreground, turning their heads to smile and gesture toward the festivities. The camera performs a slow, smooth push-in."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In this scene, the camera performs a slow, gentle orbit around the two students. Nhật Minh and Hân Hân stand respectfully, turning their heads slightly to observe the procession. Hân Hân speaks with natural lip movements, gesturing toward the Chăm people. In the background, Chăm individuals in traditional white attire walk gracefully toward the temple, carrying offerings. Sunlight filters through nearby trees, causing leaves to sway gently, while the atmosphere remains vibrant and serene, capturing the rhythmic movement of the festival."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân and Nhật Minh sit on the weathered stone steps, their orange polo shirts vibrant against the red brick ruins. Hân Hân turns her head to look at Nhật Minh with a proud smile, her lips moving naturally as she speaks. Nhật Minh nods in agreement, gesturing toward the ancient towers. Golden sunlight filters through the scene, while dust motes drift slowly in the warm, late afternoon air."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh stands still with a friendly, attentive smile, looking toward the viewer. Hân Hân turns her head slightly to face the camera, gestures with an open palm toward the viewer as if inviting a response, and speaks with natural, synchronized lip movements. In the background, soft sunlight flickers across the ancient red brick tower, and lush green leaves gently sway in a light breeze."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B18-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly along the narrow, red-laterite stone path of Duong Lam village. Han Han turns her head toward Nhat Minh, gesturing naturally with her hand while speaking with fluid lip movements; Nhat Minh nods in agreement, smiling. In the background, ancient mossy walls remain still, while sunlight filters through the banyan tree leaves, creating gentle swaying shadows. The camera performs a slow, steady push-in toward the two students, capturing their rhythmic, natural walking pace."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The young Ngô Quyền stands still, his bright eyes scanning the horizon as a gentle breeze rustles the nearby banyan leaves. As the scene transitions, the adult Ngô Quyền walks forward with a powerful, rhythmic stride, his muscles tensed. He effortlessly lifts a heavy bronze cauldron high above his head while villagers in the background nod in admiration. A slow camera push-in captures his determined expression, while soft dust motes drift through the warm, golden sunlight."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Dương Đình Nghệ gently places his hand on Ngô Quyền’s shoulder, looking at him with a steady, trusting gaze while Ngô Quyền nods respectfully. In the background, other generals shift slightly, nodding in agreement. Nhật Minh stands to the side, his lips moving naturally as he speaks with a calm, informative expression. Dust motes drift slowly through the sunlit barracks, and the camera performs a slow, steady push-in toward the two leaders to emphasize their bond."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic split-screen pan. On the left, the Southern Han fleet surges forward, with waves crashing against wooden hulls and flags fluttering in the sea breeze as Hoằng Tháo stands firm at the prow. On the right, Ngô Quyền leans over a flickering map in his tent, his head nodding slightly as he gestures to the river mouth. Torches cast dancing shadows while smoke drifts gently upward. The scene maintains a steady, rhythmic pace."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the riverbank. Nhật Minh and Hân Hân stand on the mound, turning their heads slightly to gaze out at the vast, muddy riverbed. Hân Hân gestures toward the distant reeds with her hand while speaking with natural lip movements. Nearby, tall reeds sway rhythmically in a soft breeze, and the river water flows steadily in the background. The sunlight glints off the receding tide, creating a serene, educational atmosphere."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ngô Quyền stands firmly on the riverbank, gesturing decisively toward the water with his hand. Nearby, soldiers rhythmically lift and drive sharpened, iron-tipped wooden stakes into the riverbed as the tide recedes. Hân Hân stands beside him, turning her head to listen intently while her lips move naturally in speech. The river water flows gently around the stakes, and a soft breeze rustles the nearby foliage. The camera performs a slow, steady push-in toward Ngô Quyền’s determined face."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Ngô Quyền stands tall at the prow, slowly turning his head to survey the horizon with a proud expression. Behind him, soldiers rhythmically raise and lower their flags, their bodies swaying slightly in celebration. Hân Hân and Nhật Minh stand in the foreground, gesturing toward the river while speaking with natural lip movements. The river water ripples gently under the golden morning light, and the camera performs a slow, cinematic push-in toward the distant, peaceful riverbank."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand calmly before the ancient Duong Lam village gate as the golden afternoon light shifts. Nhat Minh turns his head slightly toward the camera, gesturing with a welcoming open-palm motion as he speaks with natural, synchronized lip movements. Meanwhile, Han Han smiles gently, nodding in agreement. In the background, soft leaves sway in a light breeze, and the village atmosphere remains peaceful. The camera performs a slow, steady push-in toward the students."
+  }
+ ]
+}

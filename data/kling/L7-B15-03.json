@@ -1,0 +1,30 @@
+{
+ "ma": "L7-B15-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Nhật Minh slowly raises his hand to touch the weathered stone wall, his fingers tracing the surface with curiosity. Hân Hân stands beside him, tilting her head upward to admire the massive stone blocks, her hair swaying slightly in a soft breeze. Both students turn their heads to look at each other, their lips moving naturally as they engage in a quiet, educational conversation about the ancient architecture."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the landscape. In the foreground, Hân Hân and Nhật Minh turn their heads slightly to look at the scene, their lips moving naturally as they narrate. In the background, a dense Ming army marches forward with fluttering banners and glinting spears. Beyond the mountain pass, thick grey smoke drifts slowly upward from a distant stone fortress, while soldiers in traditional armor retreat steadily toward the citadel walls under a hazy sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hồ Nguyên Trừng stands center, slowly turning his head to survey the room with a contemplative, furrowed expression while his lips move as if delivering a strategic command. Nearby, Hân Hân and Nhật Minh listen intently, nodding slightly with natural, subtle gestures. Oil lamps flicker, casting dancing shadows against the palace walls. The camera executes a slow, steady push-in toward Hồ Nguyên Trừng, emphasizing the gravity of the historical moment within the dimly lit, atmospheric royal hall."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân turns her head to look directly at the viewer with a friendly smile, her lips moving naturally as she speaks. Beside her, Nhật Minh gestures with his hands while talking, his head nodding slightly. In the background, soft golden sunlight shifts across the stone steps, while a few leaves drift slowly through the air, maintaining the warm, peaceful atmosphere of the 2D animated scene."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B11-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the lush green rice field bank, gently swaying in the breeze. Hân Hân turns her head toward Nhật Minh, smiling and gesturing as she speaks with natural lip movements. Nhật Minh nods in agreement, looking toward the horizon. In the distance, the farmer on the tractor moves slowly across the field, trailing light dust. The camera performs a slow, smooth push-in toward the students while the vibrant rice stalks ripple rhythmically in the wind."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The king sits regally on the throne as the young prince stands attentively by his side. On both sides, civil and military officials bow slightly in unison. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the court while their lips move in sync with their narration. Outside the palace pillars, soft sunlight filters through, and banners gently flutter in the breeze. The camera performs a slow, cinematic push-in toward the king, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Ly dynasty official gestures towards the hand-drawn map, his finger tracing the borders of the provinces. Beside him, local officials nod respectfully and bow slightly to acknowledge the orders. In the background, village trees sway gently in the breeze. Hân Hân and Nhật Minh stand in the foreground, turning their heads to observe the scene while speaking with natural lip movements and subtle hand gestures. The camera performs a slow, steady push-in toward the detailed map."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Inside the grand hall, officials gracefully move their brushes across long scrolls, their heads nodding rhythmically. The king slowly unfurls a scroll, his lips moving naturally as he reads aloud. Outside the palace doors, a crowd of villagers gently sways and looks toward the hall with attentive expressions. Soft sunlight filters through the pillars, and dust motes dance in the air. The camera performs a slow, steady push-in toward the king, capturing the serene atmosphere of the royal decree."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand at the training ground edge, turning their heads slightly to observe the scene while their lips move in natural conversation. In the background, imperial guards in traditional armor perform rhythmic martial arts drills. Further away, soldiers transition to farmers, lifting plows onto their shoulders and leading water buffaloes slowly toward the village. The camera performs a slow, gentle push-in toward the students. Sunlight filters through light dust, and banners above the citadel gate flutter softly in the breeze."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The young soldier gently leans his spear against the bamboo grove, then rolls up his trousers and steps into the muddy field to plow alongside his family. In the village communal house, a hand turns the pages of the ledger containing the soldiers' names. A gentle breeze rustles the bamboo leaves and ripples the water in the field. The camera performs a slow, smooth pan from the field toward the village hall, maintaining the warm, 2D animated aesthetic throughout."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Ly princess sits gracefully inside the ornate palanquin, gently turning her head to smile at the villagers. Villagers in traditional highland attire dance rhythmically, their colorful scarves fluttering in the breeze. In the background, a procession of envoys walks steadily along a winding mountain path. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the scene while speaking with fluid lip movements. The camera performs a slow, cinematic push-in toward the vibrant wedding procession."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The King rhythmically pushes the plow through the soil, his movements steady and deliberate. Nearby, Hân Hân and Nhật Minh stand in their orange polo shirts, turning their heads slightly toward each other while their lips move in natural, synchronized speech. In the background, villagers gesture toward the fields, a buffalo slowly grazes, and distant workers move rhythmically as they pack earth onto a dike. A gentle breeze ripples the grass. The camera performs a slow, smooth push-in toward the King."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand in the lush green rice field, looking directly at the camera with friendly smiles. Nhật Minh gently raises his right hand in a welcoming gesture toward the viewer, his lips moving naturally as if speaking an invitation. Hân Hân stands beside him, nodding slightly with a warm expression. In the background, the rice stalks sway softly in a light breeze. The camera performs a slow, steady push-in toward the two students."
+  }
+ ]
+}

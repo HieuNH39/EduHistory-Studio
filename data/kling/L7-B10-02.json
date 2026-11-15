@@ -1,0 +1,42 @@
+{
+ "ma": "L7-B10-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the grassy riverbank, gently turning their heads to look out at the vast Bach Dang river. Han Han gestures toward the horizon while speaking with natural lip movements, and Nhat Minh nods in agreement, his gaze following her hand. In the background, small motorboats glide steadily across the water, smoke drifts faintly from distant vessels, and tall grass sways in the breeze. A slow, cinematic push-in focuses on the students."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The young King Dinh Toan sits motionless on the grand throne, his expression solemn. Beside him, Le Hoan stands with a protective, upright posture, his gaze fixed forward. In the background, court officials lean toward each other, whispering with anxious gestures and subtle head tilts. White mourning banners sway gently in a soft breeze. The camera performs a slow, steady push-in toward the King, capturing the somber atmosphere of the palace as the characters maintain their historical dignity."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lê Hoàn stands regally on the stone platform, his head turning slowly to survey his troops as his golden armor catches the sunlight. Behind him, large red flags ripple vigorously in the wind. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the scene while speaking with synchronized lip movements. The camera performs a slow, cinematic push-in toward Lê Hoàn, capturing the majestic atmosphere as dust motes drift gently through the warm air."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The court officials kneel in unison, slowly lifting the golden dragon robe toward Lê Hoàn with reverent gestures. Lê Hoàn stands tall and firm, his expression resolute as he turns his head slightly to gaze forward, his lips moving as he speaks with authority. In the background, incense smoke drifts gently through the hall. The camera performs a slow, steady push-in toward Lê Hoàn’s face, capturing the solemn atmosphere while the officials’ robes sway subtly in the air."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Le Hoan stands firmly at the prow of his wooden warship, gesturing forward with a commanding sweep of his arm as he speaks with natural lip movements. Nearby, Nhat Minh listens intently, nodding slightly. Around them, the river water churns rhythmically against the hulls while other Vietnamese boats emerge swiftly from the mist. In the distance, Song dynasty ships sway unsteadily in the current. A slow, cinematic push-in captures the tense, heroic atmosphere of the historic naval battle."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand on the grassy riverbank at sunset. Nhat Minh turns his head slightly toward the camera, gestures with his right hand in a welcoming invitation, and speaks with natural lip movements. Han Han smiles softly, looking toward the horizon. In the background, the river water flows gently, and tall reeds sway in the breeze. The camera performs a slow, steady push-in toward the two students, maintaining the 2D animated illustration style throughout."
+  }
+ ]
+}

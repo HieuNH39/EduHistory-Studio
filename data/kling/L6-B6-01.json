@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B6-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently turns her head toward Nhật Minh, her lips moving naturally as she speaks while holding the copper wire. Nhật Minh nods in agreement, gesturing with the cast-iron pan in his hand. In the background, the hanging kitchen utensils sway slightly. The camera performs a slow, steady push-in toward the two students, capturing their engaged expressions. The lighting remains soft and consistent, maintaining the vibrant 2D animated style throughout the ten-second sequence."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the center of the group. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at the glowing object with expressions of wonder. In the center, a prehistoric person carefully sifts through warm, drifting gray ash, lifting a shimmering, dark-red metallic lump. The surrounding group leans in closely, their faces illuminated by the faint, pulsing ember-glow. Wisps of smoke rise slowly into the morning air."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The blacksmith rhythmically strikes the glowing iron bar against the stone anvil, causing bright orange sparks to shower outward and drift slowly through the air. He moves with steady, practiced precision. Beside him, the finished iron hoe and axe remain still. Nhật Minh stands nearby, gesturing naturally with his hands as he speaks with synchronized lip movements. The camera performs a slow, gentle push-in toward the blacksmith’s work, capturing the flickering heat haze and the dynamic motion of the sparks."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the landscape while speaking with fluid lip movements. Behind them, an ancient farmer rhythmically swings a bronze axe into a tree, while another uses a hoe to till the soil. In the distance, a farmer leads an ox pulling a wooden plow across the field, and cattle graze peacefully. Leaves sway gently in the breeze. The camera performs a slow, steady push-in toward the working farmers."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, smooth pan across the bustling ancient village. In the foreground, the bronze smith rhythmically pumps the bellows as smoke gently drifts from the furnace. Nearby, the weaver’s hands move fluidly across the loom, while the potter’s wheel spins steadily. Nhật Minh and Hân Hân stand to the side, gesturing naturally toward the workshops while speaking with synchronized lip movements. In the background, leaves sway softly in the breeze, completing the vibrant, peaceful scene."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The father stands in the center, gesturing with his hands as he speaks with natural lip movements, while the mother and children nod in agreement. Nearby, smoke drifts gently from a clay hearth, and the thatched roof of the granary sways slightly in the breeze. In the background, leaves on the trees rustle softly. The camera performs a slow, gentle push-in toward the father, maintaining the 2D animated style throughout the ten-second sequence."
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy dike, gently turning their heads to observe the bustling community below. They gesture toward the workers with natural, fluid arm movements while their lips move in sync with a friendly conversation. In the background, villagers rhythmically dig the canal and carry baskets of soil. Dust motes drift in the warm air, and the river water flows steadily. The camera executes a slow, smooth push-in toward the students."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand in the rustic kitchen. Nhat Minh slowly lifts a vintage iron knife, inspecting its edge with a curious expression before turning his head to gaze directly at the camera. Han Han smiles warmly, gesturing with her hand toward the viewers as if inviting them to comment. Her lips move naturally as she speaks. Soft sunlight filters through the window, and the camera performs a gentle, slow push-in toward the two students."
+  }
+ ]
+}

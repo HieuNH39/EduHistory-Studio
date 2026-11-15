@@ -1,0 +1,24 @@
+{
+ "ma": "L6-B2-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh leans forward, carefully moving his magnifying glass across the ceramic fragment while his eyes follow the lens. He speaks with natural lip movements, gesturing slightly toward the artifact. Beside him, Han Han stands with arms crossed, nodding gently as she smiles and speaks back to him. In the background, soft dust motes drift through the library light. The camera performs a slow, steady push-in toward the ceramic piece to emphasize the discovery."
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân holds the yellowed, handwritten notebook steady, gently turning a page while her lips move in natural speech. Beside her, Nhật Minh leans in, carefully adjusting his magnifying glass over the paper with a focused, excited expression. Sunlight filters softly through the background, causing dust motes to dance in the air. The camera performs a slow, gentle push-in toward the notebook, highlighting the intricate details of the aged pages as the students interact."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh gently hands the detective hat to Han Han, who accepts it with a bright smile. Both students turn their heads to look directly at the camera, their lips moving naturally as they speak to the audience. Han Han then raises her hand in a welcoming gesture, inviting viewers to comment. In the background, soft sunlight filters through leaves, creating subtle, gentle movement. The camera performs a slow, steady push-in to focus on their engaging expressions."
+  }
+ ]
+}

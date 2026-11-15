@@ -1,0 +1,84 @@
+{
+ "ma": "L7-B1-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly along the bustling street, their bodies swaying naturally with each step. Han Han turns her head to smile at Nhat Minh while gesturing toward a flower stall, her lips moving as she speaks. Nhat Minh nods in agreement, looking forward. In the background, colorful flowers gently sway in the breeze, and shoppers move rhythmically. The camera performs a slow, smooth push-in, focusing on the students as they continue their pleasant conversation."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the workshop. In the foreground, Hân Hân and Nhật Minh stand together, turning their heads slightly toward each other while speaking with natural lip movements and subtle hand gestures. In the background, the blacksmith rhythmically hammers glowing iron, sending faint sparks drifting, while the weaver’s loom moves steadily back and forth. Nearby, a potter rotates a clay vase on a wheel, and dust motes dance softly in the warm, filtered sunlight."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The artisan on the left walks slowly away from the gate, his satchel swaying gently as he glances back once. On the right, the second artisan hands a small pouch to the manager, who nods and passes a parchment in return. In the background, morning mist drifts across the scene. Hân Hân stands in the foreground, gesturing naturally while speaking with fluid lip movements. The camera performs a slow, steady push-in toward the center of the frame."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this 2D animated scene, Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other and speaking with natural lip movements as they gesture toward the bustling riverbank. In the background, artisans move rhythmically, constructing wooden stalls. As time passes, houses rapidly emerge, and stone walls with arched gates rise. Smoke drifts gently from small chimneys, and the river flows steadily. The camera performs a slow, smooth push-in toward the evolving town center."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân walk slowly forward, gesturing naturally as they converse with synchronized lip movements. In the background, a blacksmith hammers glowing metal, a weaver works at a loom, and merchants gesture while bargaining. Wooden cart wheels rotate slowly over the cobblestone street. Smoke drifts gently from a nearby hearth, and fabric banners sway in a soft breeze. The camera performs a slow, steady push-in, focusing on the students as they explore the bustling medieval market."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The feudal lord stands firmly on the stone ramparts, slowly turning his head to survey the construction site with a confident expression. Beside him, workers rhythmically lift and place heavy stones onto the ancient foundation. In the background, dust drifts gently in the warm light, and banners flutter in a soft breeze. Nhật Minh stands in the foreground, gesturing naturally toward the wall while his lips move in sync with his narration. A slow push-in camera move emphasizes the historical reconstruction."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy hill, gently turning their heads to look at each other while speaking with natural lip movements and expressive hand gestures. In the background, the medieval city’s red-tiled roofs remain still, while the river below flows steadily and soft clouds drift slowly across the sky. The camera performs a slow, smooth push-in toward the two students, capturing their curious expressions as they admire the historic landscape."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this bustling marketplace, Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the stalls while their lips move as if narrating. Nearby, a merchant rhythmically unfolds a bolt of colorful fabric while a farmer leans forward to exchange a handful of copper coins. In the background, wheat stalks sway gently in the breeze. The camera performs a slow, smooth push-in, focusing on the lively interactions and the vibrant movement of the busy crowd."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the bustling square. Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other and engaging in natural, animated conversation with realistic lip movements. Nearby, well-dressed townspeople gesture warmly while chatting, and children skip joyfully around the fountain. The water in the fountain flows rhythmically, while soft sunlight filters through the scene, creating a vibrant, lively atmosphere as the background characters move gracefully through the plaza."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan across the bustling town square. In the foreground, Nhật Minh stands and gestures naturally with his hands as he speaks, his lips moving in sync with his narration. Nearby, townspeople and merchants turn their heads to converse with one another, while in the background, flags atop the city hall and the distant royal palace flutter softly in the breeze. The scene maintains a lively, peaceful atmosphere throughout the five-second duration."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The teacher gestures expressively with his hands while his lips move in a natural speaking rhythm. Hân Hân and Nhật Minh sit attentively at their wooden desks, occasionally nodding and turning their heads slightly toward the teacher. Sunlight filters through the arched window, with dust motes dancing in the beams. The pages of the thick leather books flutter gently in a soft breeze. The camera performs a slow, steady push-in toward the teacher, maintaining the warm, illustrated aesthetic throughout."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "As the golden afternoon sun bathes the bustling street, Hân Hân gently raises a vibrant bouquet of flowers toward the sky with a joyful smile. Beside her, Nhật Minh turns his head to look at her, nodding as he speaks with natural lip movements. In the background, pedestrians walk leisurely, leaves on the trees sway softly in the breeze, and light dust motes dance in the warm glow. The camera performs a slow, cinematic push-in toward the two students."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand on a vibrant, modern Vietnamese street. Nhật Minh smiles warmly, turning his head slightly toward the camera while raising his right hand in a welcoming gesture as if inviting viewers to comment. His lips move naturally as he speaks. Hân Hân stands beside him, nodding gently with a friendly expression. Sunlight filters through tree leaves, creating soft shadows. The camera performs a slow, steady push-in toward the pair, maintaining their 2D animated style throughout."
+  }
+ ]
+}

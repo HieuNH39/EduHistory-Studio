@@ -1,0 +1,30 @@
+{
+ "ma": "L6-B19-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân turns her head slightly toward Nhật Minh with a bright smile, her lips moving naturally as she speaks. Nhật Minh stands beside her, looking out at the horizon with a calm expression. In the background, the ocean waves rhythmically roll onto the shore, while a soft morning breeze causes their orange polo shirts and hair to sway gently. The distant green mountains remain still under the sunrise."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the village square. In the foreground, Hân Hân and Nhật Minh stand still, their lips moving naturally as they narrate the scene. In the background, a Han official gestures sternly while holding a scroll, as villagers in traditional tunics bow their heads with subtle, resentful shifts in their eyes. Sea breeze gently ripples the villagers' clothing and stirs the nearby palm leaves, while smoke drifts slowly from a distant thatched roof."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Khu Liên stands firmly on the rock, slowly raising his spear toward the sky with a determined expression while his lips move as if delivering a rallying cry. Behind him, the crowd rhythmically waves their spears and bows, their movements synchronized. Several unadorned flags flutter vigorously in the wind. In the foreground, Nhật Minh turns his head slightly to look at the scene with awe. The camera performs a slow, cinematic push-in toward Khu Liên, capturing the intense, historic atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân smiles warmly and gestures with her right hand toward the viewer, her lips moving naturally as she speaks to invite comments. Beside her, Nhật Minh turns his head slightly toward Hân Hân with an attentive expression, nodding in agreement. In the background, the ocean waves roll rhythmically onto the sand, while a light breeze causes their hair and the fabric of their orange polo shirts to sway softly."
+  }
+ ]
+}

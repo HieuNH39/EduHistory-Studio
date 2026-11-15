@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B12-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh gently places a small paper boat onto the river depicted on the map, his fingers lingering briefly. Hân Hân leans in slightly, turning her head toward him with a warm, engaged smile as she speaks with natural lip movements. The paper boat subtly shifts as if caught in a gentle current. Sunlight filters through the classroom window, causing soft dust motes to drift in the air. The camera performs a slow, smooth push-in toward the map."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the village center. In the foreground, Nhật Minh and Hân Hân stand side-by-side, turning their heads slightly to gesture toward the bustling village while their lips move in natural, synchronized speech. Behind them, the tribal leader raises a wooden staff, prompting the crowd to bow rhythmically. In the background, golden rice stalks sway gently in the breeze, river water flows steadily, and thin wisps of smoke drift peacefully from the brick temple chimneys."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "The wooden boat glides smoothly down the wide Irrawaddy River. Nhật Minh and Hân Hân sit side-by-side, turning their heads to smile and wave at the passing riverbanks. Hân Hân speaks with natural lip movements while gesturing toward the ancient pagodas. In the background, villagers on the shore wave back, and lush foliage sways gently in the breeze. The camera performs a slow, steady push-in, capturing the serene journey as the water ripples softly around the boat."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh stands in the foreground, gesturing naturally toward the landscape while his lips move in sync with his narration. In the background, the Mon boatman rhythmically rows his wooden boat across the shimmering canal, carrying golden rice bundles. Gentle ripples flow through the water, and lush green rice stalks sway softly in the breeze. The camera performs a slow, cinematic push-in toward the distant earthen-walled settlement, capturing the serene atmosphere of the ancient Chao Phraya plains."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân stands in the foreground, turning her head slightly toward the camera with a friendly smile, her lips moving naturally as if narrating. In the background, a majestic elephant slowly walks along the riverbank carrying timber. The Mekong River flows gently with subtle ripples, and lush green rice paddies sway rhythmically in a soft breeze. The camera performs a slow, smooth push-in toward Hân Hân, maintaining the vibrant 2D animated style throughout the scene."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the bustling ancient Sumatran coastline. In the foreground, Hân Hân and Nhật Minh stand together, turning their heads slightly to observe the scene while speaking with natural, synchronized lip movements. In the background, Malay merchants rhythmically carry wooden chests and spice sacks toward a wooden junk ship. Sunlight glints off the calm, rippling turquoise water, while palm leaves sway softly in the warm tropical breeze under a bright, golden sky."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, smooth pan from the misty Javanese volcanic landscape, where villagers walk near stone temples, to the lush Northern Vietnamese plains. In the foreground, Hân Hân and Nhật Minh stand near a riverbank, gesturing naturally toward the scenery as they speak with synchronized lip movements. Behind them, rice stalks sway gently in the breeze, and small wooden boats glide steadily across the calm river water under a bright, peaceful sky."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand in the classroom, smiling warmly. The paper boat glides smoothly across the Southeast Asian map on the table. Han Han turns her head slightly toward the camera, her lips moving naturally as she speaks, then she raises her hand in a welcoming gesture to invite comments. Nhat Minh nods gently beside her. The camera performs a slow, steady push-in, focusing on the students as soft, ambient light shifts across the classroom walls."
+  }
+ ]
+}

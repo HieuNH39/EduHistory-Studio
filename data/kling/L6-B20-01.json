@@ -1,0 +1,24 @@
+{
+ "ma": "L6-B20-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the glass display case. Hân Hân leans slightly closer to the glass, her eyes scanning the artifacts, while Nhật Minh nods in agreement, his lips moving naturally as if explaining the history of the ceramic vase. Soft, warm light flickers subtly across their faces. In the background, faint dust motes drift slowly through the golden light, adding a quiet, contemplative atmosphere to the museum setting."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han sit in a small wooden boat gently rocking on the canal. Nhat Minh turns his head toward Han Han, gesturing with his hand as he speaks with natural lip movements. In the background, water ripples softly, smoke drifts from the thatched-roof stilt houses, and other merchant boats glide slowly by. The camera performs a slow, steady push-in toward the two students, maintaining the 2D animated style throughout the scene."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand side-by-side in front of the museum display case. Nhật Minh smiles warmly, his lips moving naturally as he speaks to the audience, then he raises his right hand in a welcoming gesture toward the exhibit. Hân Hân nods slightly, maintaining a friendly expression. In the background, soft light glints off the glass, and dust motes drift slowly in the air. The camera performs a gentle, slow push-in toward the two students."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "ma": "L7-B12-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the statue, smiling and gesturing naturally as they engage in conversation with subtle, synchronized lip movements. Hân Hân points toward the statue while Nhật Minh nods in agreement, his gaze shifting slightly toward the monument. In the background, soft clouds drift slowly across the clear blue sky, and gentle breezes cause the students' polo shirts to flutter slightly. A slow, cinematic push-in camera move gradually focuses on the students and the majestic statue."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The King slowly leans forward, extending the ornate sword towards Lý Thường Kiệt, who remains kneeling with a respectful, steady posture. The court officials on both sides gently shift their weight and nod in silent approval. Sunlight filters through the pillars, causing dust motes to dance in the air. As the King speaks, his lips move naturally, and the camera performs a slow, cinematic push-in toward the exchange, focusing on the solemnity of the moment."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the first scene, Ngô Tuấn sits by a flickering oil lamp, his head tilting slightly as he reads, then transitions to the courtyard where he fluidly practices sword movements with rhythmic, graceful swings. The scene shifts to the royal court, where Lý Thường Kiệt stands tall, his long beard swaying gently as he bows respectfully to receive his appointment. The camera performs a slow push-in toward the General, while soft sunlight filters through the palace pillars, creating a majestic atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Ly Thuong Kiet stands firmly, his hand striking the map with a decisive gesture. He turns his head to look at the generals, his lips moving as he speaks with authority. Nearby, Nhat Minh nods in focused agreement, his expression mirroring the determination of the group. Torchlight flickers, casting dancing shadows on the tent walls. The camera performs a slow, steady push-in toward the map, capturing the intense, concentrated atmosphere of the war council."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand on the hill, turning their heads slightly to gaze at the horizon with expressions of awe. Hân Hân gestures toward the distance while her lips move as if narrating. Below, the infantry’s torches flicker rhythmically as they march through the mountain pass, while the distant warship sails glide smoothly across the dark, rippling water. A gentle camera push-in focuses on the students, capturing the soft, atmospheric glow of the torches reflecting on their faces."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand before the Ly Thuong Kiet statue, both smiling warmly at the camera. Han Han gently raises her right hand in a welcoming gesture toward the viewer, her lips moving naturally as she speaks. Meanwhile, Nhat Minh nods slightly in agreement, his expression attentive. Soft sunlight filters through the trees, causing leaves to sway gently in the breeze. The camera performs a slow, smooth push-in, focusing on the students’ friendly engagement."
+  }
+ ]
+}

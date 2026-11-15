@@ -1,0 +1,30 @@
+{
+ "ma": "L7-B10-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gently moves her wooden pointer across the paper-mâché limestone mountains, while Nhật Minh stands beside her, nodding attentively. Both students engage in natural conversation with subtle lip movements and soft facial expressions. In the background, the paper landscape remains steady, while a gentle breeze causes the edges of their orange polo shirts to sway slightly. The camera performs a slow, smooth push-in toward the center of the model to highlight the terrain."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this scene, Đinh Bộ Lĩnh stands majestically on the stone platform, slowly raising his hand in a dignified gesture while his lips move as if delivering a proclamation. Below, the crowd of officials and citizens gently bow their heads in unison. Banners and flags flutter rhythmically in the mountain breeze, while mist drifts softly between the limestone peaks. The camera performs a slow, steady push-in toward Đinh Bộ Lĩnh, capturing the solemn atmosphere of the historic coronation."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the valley, revealing the intricate citadel architecture. Hân Hân and Nhật Minh stand on the rocky peak, gently turning their heads to look at each other while gesturing toward the palace below. They speak with natural lip movements, their orange polo shirts fluttering slightly in the breeze. In the background, wisps of white smoke drift from the village chimneys, and the lush green trees sway rhythmically, bringing the ancient landscape to life."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân turns her head slightly toward the camera, her lips moving naturally as she speaks, while her hands gesture gracefully to explain the limestone model. Beside her, Nhật Minh remains standing with his arms crossed, his eyes shifting thoughtfully between the model and the viewer. In the background, soft light shifts subtly across the classroom walls, maintaining the vibrant 2D animated style throughout the five-second duration."
+  }
+ ]
+}

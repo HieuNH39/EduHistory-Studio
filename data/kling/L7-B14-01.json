@@ -1,0 +1,30 @@
+{
+ "ma": "L7-B14-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands in the library, gesturing naturally with her hands as she speaks with fluid lip movements, her head tilting slightly to engage Nhật Minh. Beside her, Nhật Minh listens intently, his expression shifting into a thoughtful gaze as he taps his chin. In the background, dust motes drift slowly through soft sunlight filtering between bookshelves. The camera performs a gentle, slow push-in toward the two students, maintaining focus on their expressive faces throughout the scene."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A vast Mongol army marches through a rugged mountain pass. Cavalry riders on horseback move steadily forward while infantry soldiers follow in dense, rhythmic columns. Dust rises slightly from the dry earth under their feet, and distant banners flutter gently in the mountain breeze. In the foreground, Nhật Minh stands, turning his head slightly to gesture toward the horizon while his lips move naturally as he speaks. The camera performs a slow, cinematic push-in toward the marching troops."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, steady push-in toward the gate. The Tran dynasty soldiers stand tall, their spears swaying slightly in the wind. The Mongol envoy turns his head slowly to look at the soldiers with a stern expression, his fur-trimmed cloak rippling gently. Hân Hân appears in the foreground, gesturing naturally with her hand as she speaks with fluid, synchronized lip movements. Dust particles drift through the air, and banners atop the citadel flutter rhythmically."
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand side-by-side, looking directly at the viewer. Nhat Minh gestures with his hand as he speaks with natural lip movements, his expression serious as he reports the enemy’s arrival. Han Han nods, then turns her head slightly toward the camera, gesturing with an inviting hand motion to encourage viewer comments. The camera performs a slow, gentle push-in, while soft light shifts across their orange polo shirts to enhance the animated depth."
+  }
+ ]
+}

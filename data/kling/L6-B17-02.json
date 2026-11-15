@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B17-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the table. Hân Hân and Nhật Minh turn their heads slightly toward each other, their lips moving naturally as they share a cheerful conversation. The grandmother’s hands move rhythmically, folding a bright green dong leaf around the sticky rice. In the background, soft steam drifts upward from a nearby pot, while the betel leaves on the plate sway almost imperceptibly, creating a warm, cozy atmosphere of a traditional Vietnamese Tet preparation."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan from the village entrance toward the center. At the gate, a northern official gestures firmly while posting a scroll. Near the ancient banyan tree and communal well, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the camera, their lips moving naturally as they speak. In the background, villagers walk calmly, leaves on the banyan tree sway in a soft breeze, and water ripples gently in the well."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the group. Hân Hân and Nhật Minh sit quietly, turning their heads slightly to listen with engaged expressions. The mother rhythmically rocks her child, while the grandmother gestures softly as she speaks with natural lip movements. Thin wisps of incense smoke drift upward from the altar, swirling gently in the dim light. Outside the stilt house, tree leaves sway slowly in the evening breeze, creating a peaceful, nostalgic atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle orbit around the bustling village courtyard. In the foreground, two young women with traditional hair buns smile, their teeth stained black, as they gracefully offer betel leaves to each other. Nearby, elderly women rhythmically pound sticky rice for cakes, while joyful children dart playfully between them. Nhật Minh stands to the side, turning his head toward the camera, speaking with natural lip movements as his expression remains warm and engaging."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The young men push the wooden boat into the shimmering river, their muscles tensing as the vessel slides smoothly into the water. Gentle ripples radiate outward while sunlight glints off the surface. In the foreground, Hân Hân and Nhật Minh stand on the riverbank, turning their heads slightly to observe the activity. They speak with natural lip movements and expressive gestures, pointing toward the boat. A slow, steady push-in camera move captures the scene as soft wind rustles the nearby foliage."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, smooth push-in. On the river, the boatman rhythmically rows his wooden sampan through gentle, rippling water while a swimmer gracefully glides alongside. The scene transitions to the interior where Nhật Minh and Hân Hân sit cross-legged on a mat. Hân Hân gestures warmly toward a traditional betel nut tray, her lips moving naturally as she speaks, while Nhật Minh nods respectfully, his expression attentive and welcoming. Soft light filters through, highlighting the serene atmosphere."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Steam rises in soft, swirling plumes from the large boiling pot of banh chung in the background. Nhật Minh stands still with a friendly smile, while Hân Hân turns her head slightly toward him, then gestures with an open hand toward the viewer. Her lips move naturally as she speaks, and she maintains a warm, inviting expression throughout the scene. The atmosphere remains lively and festive."
+  }
+ ]
+}

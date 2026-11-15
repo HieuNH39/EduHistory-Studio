@@ -1,0 +1,30 @@
+{
+ "ma": "L7-B13-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân stands in the foreground, gently turning her head toward Nhật Minh while her lips move as if speaking, her hand holding the notebook slightly shifting. Nhật Minh nods in agreement, his gaze fixed on the temple. Wisps of incense smoke drift slowly upward from the courtyard. The camera performs a slow, gentle push-in toward the two students, capturing the serene atmosphere of the ancient temple as the sunlight subtly shifts across the tiled ground."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the palace while their lips move in sync with a steady, engaging dialogue. Behind them, the ancient palace roof tiles shimmer under soft light as banners held by the Trần soldiers flutter rhythmically in the breeze. In the distance, small fishing boats gently bob on the flowing river. The camera performs a slow, cinematic push-in toward the palace gates, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lý Chiêu Hoàng slowly removes her golden imperial robe, gently draping it over Trần Cảnh’s shoulders. Trần Cảnh bows his head respectfully while Trần Thủ Độ stands stoically in the background. Nearby, court officials bow in unison. Hân Hân and Nhật Minh stand at the edges, gesturing naturally as they speak with synchronized lip movements. Soft incense smoke drifts through the hall, and the camera performs a slow, cinematic push-in toward the central exchange of the robe."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han sit side-by-side on the stone steps, maintaining their positions. Han Han turns her head slightly toward Nhat Minh, then looks back at the camera with a friendly smile, her lips moving naturally as she speaks. Nhat Minh gestures gently with his hand while listening. In the background, soft sunlight filters through swaying tree leaves, casting dappled shadows. The camera performs a slow, subtle push-in toward the students, keeping the focus on their expressive faces."
+  }
+ ]
+}

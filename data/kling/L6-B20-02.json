@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B20-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand by the canal, gently turning their heads toward each other while speaking with natural lip movements and expressive hand gestures. In the background, the lush green rice stalks sway rhythmically in a light breeze, and the water in the canal flows softly. A traditional wooden boat bobs slightly on the surface. The camera performs a slow, smooth push-in toward the students, maintaining the vibrant 2D animated style throughout the scene."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan across the vibrant Mekong Delta landscape. In the foreground, Nhật Minh turns his head slightly toward the camera, speaking with natural lip movements as he gestures toward the fields. Nearby, farmers rhythmically plant rice seedlings in the mud, while a fisherman on a wooden boat pulls a heavy, shimmering net from the water. In the background, water buffalo graze peacefully, chickens roam the grassy banks, and the river ripples under the warm sun."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the center of the workshop. The potter rhythmically shapes a clay vessel on a spinning wheel, while the jeweler carefully polishes a gold ring with precise hand movements. Nearby, a craftsman tilts a crucible, pouring molten metal into a stone mold with glowing embers drifting upward. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe, speaking with natural lip movements and subtle, engaging gestures."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The small wooden boat gently rocks as it glides through the bustling canal. Nhật Minh and Hân Hân sit in the center, turning their heads to observe the surroundings while speaking with natural lip movements and expressive hand gestures. In the background, water ripples softly, smoke drifts from thatched roofs, and merchants on nearby boats exchange goods. A slow, gentle push-in camera move captures the vibrant atmosphere of the ancient port, highlighting the students' curious expressions amidst the lively historical scene."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Chinese envoy sits at a wooden table, rhythmically moving his brush across a scroll while occasionally glancing up. Opposite him, the Funan merchant gestures warmly toward the shimmering gold, silver, and silk fabrics laid out on the dock. In the background, the harbor water gently ripples, and palm leaves sway in the breeze. The camera performs a slow, smooth push-in toward the exchange, capturing the natural, focused expressions of the characters as they interact in the vibrant, historical setting."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, sweeping aerial pan across the bustling Funan settlement. Below, the water ripples gently as several wooden boats navigate the narrow canals. Thin wisps of white smoke drift steadily from the thatched roofs of the stilt houses. In the foreground, Nhật Minh and Hân Hân stand on a wooden platform; they turn their heads toward each other, gesturing naturally while their lips move in sync as if narrating, maintaining their bright, focused expressions."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the canal bank as the sunset glows. Han Han turns her head slightly toward the camera, smiles, and gestures with an open hand toward the viewer to invite comments, her lips moving naturally as if speaking. In the background, a small wooden boat glides slowly across the shimmering water. The camera performs a slow, gentle push-in, while soft evening light flickers across the scene and reeds sway rhythmically in the breeze."
+  }
+ ]
+}

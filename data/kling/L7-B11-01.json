@@ -1,0 +1,54 @@
+{
+ "ma": "L7-B11-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân stands on the left, gesturing naturally toward the statue while her lips move as if speaking, then she turns her head to smile at Nhật Minh. Nhật Minh nods in agreement, his gaze shifting from the statue to Hân Hân. In the background, the leaves of the trees sway softly in the breeze, and the water in the lake ripples with subtle, rhythmic movement."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The monks and court officials slowly bow their heads in reverence while one official gracefully presents the golden imperial robe toward Lý Công Uẩn. In the background, the imperial guards stand perfectly still, their banners fluttering gently in a soft breeze. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe the scene while speaking with natural lip movements. A slow push-in camera move gradually focuses on the solemn exchange of the robe."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the temple, young Ly Cong Uan sits cross-legged, nodding slightly as he listens to Monk Van Hanh, who gently gestures toward an open scroll. Outside the Hoa Lư citadel, the adult Ly Cong Uan in ornate armor stands tall, firmly pointing his sword forward to command his troops. Banners flutter in the breeze, and dust swirls near the gate. The camera performs a slow push-in toward Ly Cong Uan’s determined face, maintaining the consistent 2D animated style throughout."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Ly Cong Uan stands regally, his hands slowly unfurling the ancient scroll as his lips move in a rhythmic, dignified speech. Beside him, student Nhat Minh nods respectfully while observing. In the background, the court officials remain in a deep, stationary bow. Soft sunlight filters through the palace pillars, causing dust motes to dance in the air. A slow, steady camera push-in focuses on the King’s determined expression, capturing the gravity of the historic proclamation."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, majestic push-in over the lush Đại La landscape. In the foreground, Nhật Minh and Hân Hân stand on a grassy ridge; they turn their heads slightly toward each other and gesture naturally toward the winding river while speaking with fluid lip movements. Below, the river flows steadily, smoke drifts gently from distant village rooftops, and the lush green trees sway softly in a light breeze under a bright, clear sky."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the swaying reeds, their heads turning slightly as they observe the river. Hân Hân gestures toward the approaching dragon boats while her lips move in natural speech, followed by Nhật Minh nodding in agreement. Below, the river water ripples gently against the boats. Above, golden clouds slowly swirl into a majestic dragon shape, drifting across the sky. The camera performs a slow, steady push-in toward the river scene."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, majestic push-in toward the central palace. In the foreground, Hân Hân and Nhật Minh stand on a balcony, gesturing toward the city while speaking with natural lip movements and subtle head turns. Below, the bustling market streets teem with tiny figures moving rhythmically. Within the palace grounds, colorful flags flutter gently in the breeze, while wisps of smoke rise steadily from incense burners, bringing the vibrant, historic Thăng Long citadel to life."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand before the King Ly Thai To statue, maintaining their positions. Han Han turns her head slightly toward the camera, smiles, and gestures with her right hand in an inviting motion toward the viewer as her lips move naturally to speak. Meanwhile, Nhat Minh stands beside her, nodding gently in agreement. In the background, soft sunlight filters through the trees, causing leaves to sway rhythmically. The camera performs a slow, steady push-in toward the two students."
+  }
+ ]
+}

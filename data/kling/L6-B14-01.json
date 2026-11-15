@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B14-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the bustling temple path. A colorful procession carries an ornate palanquin, while vibrant festival flags wave rhythmically in the breeze. In the foreground, Hân Hân turns her head toward Nhật Minh, her lips moving naturally as she recites poetry. Nhật Minh listens attentively, nodding slightly with a warm smile. Nearby, a crowd of people walks steadily uphill, their movements fluid and lively, while soft sunlight filters through the surrounding trees."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The farmer rhythmically pushes the bronze plow through the wet soil, while the blacksmith strikes glowing metal on an anvil, sending faint sparks upward. Nearby, the artisan carefully pours molten bronze into a clay mold. In the background, the lush rice stalks sway gently in a soft breeze. Nhật Minh stands in the foreground, gesturing naturally with his hands as he speaks with synchronized lip movements. The camera performs a slow, cinematic push-in toward the bustling village activity."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan to the right, following the students' gaze. Nhật Minh and Hân Hân stand on the grassy dike, turning their heads slightly to observe the scene while speaking with natural lip movements and subtle hand gestures. In the background, villagers in traditional clothing rhythmically shovel earth and carry baskets, while water flows steadily through a newly dug canal. Soft wind causes the nearby trees and tall grasses to sway gently in the sunlight."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The ancient Vietnamese warriors stand firm, gripping their bronze spears and axes with subtle, rhythmic chest movements as if breathing. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at the warriors while speaking with natural, synchronized lip movements. In the background, smoke drifts slowly from the stilt houses, and the bronze drum glints under shifting sunlight. The camera performs a slow, cinematic push-in toward the warriors, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "King Hùng Vương sits regally, slowly turning his head to acknowledge his subjects while his feathered headdress sways gently. The Lạc Hầu and Lạc Tướng stand with dignified posture, occasionally shifting their weight and gesturing respectfully. In the background, colorful banners wave softly in a light breeze. Hân Hân and Nhật Minh stand in the foreground, speaking with natural, synchronized lip movements and subtle hand gestures. The camera performs a slow, cinematic push-in toward the central throne."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the riverbank. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly toward each other with natural smiles and engaging in rhythmic, realistic lip movement as they narrate. In the background, the river water flows gently, small wooden boats sway on the current, and smoke from the stilt houses drifts slowly into the morning sky. Golden sunlight shimmers across the lush rice paddies."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand amidst the vibrant Hung Temple festival atmosphere. Nhật Minh turns his head slightly toward Hân Hân before looking directly at the camera, gesturing with his right hand in a welcoming motion as he speaks with natural lip movements. Hân Hân smiles warmly, nodding gently. In the background, colorful festival flags wave slowly in the breeze and soft sunlight filters through the trees. The camera performs a slow, steady push-in toward the two students."
+  }
+ ]
+}

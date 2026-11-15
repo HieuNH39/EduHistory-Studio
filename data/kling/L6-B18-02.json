@@ -1,0 +1,36 @@
+{
+ "ma": "L6-B18-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh stands on the left, turning his head slightly to listen as he gestures toward the river with his hand. Hân Hân stands beside him, nodding and speaking with natural lip movements. In the background, the Mã River flows steadily, sunlight glimmers on the water’s surface, and the lush green leaves of nearby trees sway softly in a light breeze under the warm afternoon sun."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Southern Han army in traditional armor marches rhythmically across the dusty border pass, their blank flags fluttering steadily in the wind. In the foreground, Nhật Minh and Hân Hân stand side-by-side, turning their heads slightly to observe the scene with concerned expressions; Hân Hân gestures toward the horizon while Nhật Minh nods in agreement, their lips moving naturally as they speak. The camera performs a slow, cinematic push-in toward the approaching troops, while dust swirls gently around the soldiers' feet."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Dương Đình Nghệ stands firmly on the stone steps, slowly raising his sword toward the sky with a commanding expression. Beside him, Hân Hân turns her head slightly to look at the crowd, her lips moving naturally as if speaking. In the courtyard, the gathered warriors shift their positions, adjusting their spears and bows. Behind them, numerous plain flags flutter vigorously in the wind. The camera performs a slow, cinematic push-in toward Dương Đình Nghệ, capturing the determined atmosphere of the historic gathering."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the hillside. Nhật Minh and Hân Hân crouch in the grass, their heads turning slightly as they observe the distance. Hân Hân gestures toward the riverbank, her lips moving as she speaks, while Nhật Minh nods in agreement. Below, the Nam Hán troops march along the winding river as soldiers emerge from the foliage. Flags wave gently in the breeze, and the river water flows steadily, capturing the tension of the ambush."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "As the sun sets over the Mã River, the water ripples gently while golden light reflects off the surface. Nhật Minh stands still, looking toward the viewer with a friendly smile. Beside him, Hân Hân turns her head slightly toward the camera, raises her hand in a welcoming gesture, and speaks with natural lip movement. The camera executes a slow, steady push-in, focusing on their expressions as the soft breeze causes their polo shirts and nearby foliage to sway subtly."
+  }
+ ]
+}

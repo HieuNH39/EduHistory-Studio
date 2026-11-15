@@ -1,0 +1,42 @@
+{
+ "ma": "L7-B16-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures Hân Hân and Nhật Minh in orange polo school uniforms standing by a lush suburban Hanoi rice field. Hân Hân gently turns her head toward Nhật Minh, speaking with natural lip movement while gesturing warmly with her hand toward the horizon. Nhật Minh nods in agreement, smiling softly. In the background, tall reeds sway in a gentle breeze, ripples move across the pond's surface, and distant traffic flows smoothly on the modern highway under a bright sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Inside the Lam Son military camp, Le Loi in armor gestures firmly toward the map while speaking with natural lip movement. Surrounding commanders raise their fists in unison to show eager support. Torches flicker slightly, casting dancing shadows on the rustic wooden walls. The camera executes a slow push-in toward Le Loi and the map, maintaining the 2D animated style throughout the five-second scene."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures the animated scene. In the foreground, Hân Hân and Nhật Minh in orange polo shirts wave enthusiastically with natural arm movements. In the midground, Lam Sơn insurgent soldiers march steadily past along the dusty village path, carrying spears and banners that gently ripple in the wind. Villagers on the roadside offer bamboo trays of rice balls and green tea. Children bounce on their toes, cheering with animated mouth movements."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot of a vast Ming reinforcement army in gleaming armor marching through the grand gates of Dong Quan fortress. At the forefront, General Vuong Thong, wearing ornate armor with a red-tasselled helmet, rides a powerful horse, smoothly drawing his sword and pointing it forward with a commanding gesture. Soldiers with spears march in rhythm behind him, banners ripple in the gentle breeze, and dust rises softly from the stone ground under the horse's hooves."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera captures early morning mist drifting lazily across the swamp and tall reeds. In the foreground, Lam Sơn insurgent soldiers hide tightly behind muddy field banks and tall grass, gripping their spears and machetes with tense hands. In the center, a Lam Sơn commander slowly raises his hand with a palm forward gesture to signal silence, his expression calm and focused. The reeds sway gently in the cold breeze."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A gentle slow push-in shot captures Nhat Minh and Han Han standing beside a suburban Hanoi rice paddy at sunset. Nhat Minh turns his head slightly toward Han Han with a soft smile. Han Han looks directly at the viewer, her right arm and hand gesturing upward in an inviting motion to speak, while her lips move naturally as if presenting commentary. In the background, tall rice stalks sway gently in the warm evening breeze under a glowing golden-orange sky."
+  }
+ ]
+}

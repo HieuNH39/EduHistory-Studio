@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B7-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy dike, gently swaying as they talk to the camera with natural lip movements and expressive hand gestures. In the background, the lush green rice fields ripple under a soft breeze, while a small cargo boat slowly glides along the river. Wispy clouds drift across the sky. The camera performs a slow, smooth push-in toward the two students, maintaining the vibrant 2D animated style throughout the five-second sequence."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the center of the river. The Nile flows steadily with gentle ripples, while small sailboats glide smoothly in both directions. On the lush green banks, palm leaves sway softly in the breeze. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the landscape. They gesture toward the river with natural arm movements, their lips moving in sync as they speak to each other."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand by the Nile, gently turning their heads toward each other while speaking with natural lip movements. In the background, Egyptian farmers rhythmically scatter seeds across the dark, fertile silt. Lush green crops sway in a soft breeze near the desert edge, while the river water flows steadily. The camera performs a slow, cinematic push-in toward the students, capturing their expressions of wonder as they observe the ancient landscape coming to life."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera executes a slow, sweeping pan from the northern mountains down toward the coastal bay, capturing the vast landscape. Below, the two rivers flow steadily with gentle ripples, while the lush green fields sway slightly in a soft breeze. In the foreground, Nhật Minh and Hân Hân stand together; they turn their heads toward each other, gesturing naturally toward the rivers while their lips move in sync with a friendly, educational conversation, maintaining their bright, animated expressions."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The muddy river water flows steadily, swirling with silt as it expands across the lowlands toward the horizon. Hân Hân and Nhật Minh stand on the grassy mound, gently turning their heads to observe the landscape. Hân Hân gestures toward the river while speaking with natural lip movements, and Nhật Minh nods in agreement, his expression thoughtful. The camera performs a slow, smooth push-in toward the pair, capturing the serene atmosphere of the ancient spring landscape."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The farmer steadily guides the oxen forward as they pull the wooden plow through the soil, with the animals’ muscles subtly shifting. In the background, the laborers rhythmically shovel earth to reinforce the dike and deepen the irrigation canal. Water gently ripples as it flows into the newly opened channels. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to gesture toward the fields while speaking with natural lip movements. A slow push-in camera move captures the scene."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the bustling riverbank. In the foreground, Hân Hân and Nhật Minh stand together, turning their heads slightly toward each other while speaking with natural lip movements and subtle hand gestures. In the background, boatmen rhythmically row wooden vessels toward the wooden pier, while laborers gracefully carry baskets of grain and ceramic jars. The river water ripples softly, flags on the boats flutter in a light breeze, and dust motes drift in the warm sunlight."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand on the grassy riverbank, gently swaying in the breeze. Han Han turns her head slightly toward the camera, her lips moving naturally as she speaks, then she raises her hand in a welcoming gesture toward the viewer. Nhat Minh smiles softly, looking forward. Behind them, the river water flows steadily, and tall grass ripples in the wind. The camera performs a slow, smooth push-in, focusing on the students' inviting expressions."
+  }
+ ]
+}

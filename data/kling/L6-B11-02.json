@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B11-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The colorful ASEAN flags gently flutter in the breeze above the schoolyard. Nhật Minh and Hân Hân stand before the golden rice display, smiling warmly. Hân Hân gestures gracefully toward the rice bundles while speaking with natural lip movements. Nhật Minh nods in agreement, turning his head slightly to look at the display. Sunlight filters through the scene as dust motes dance in the air. The camera performs a slow, smooth push-in toward the two students to highlight their friendly interaction."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow, sweeping aerial pan glides across the vast, shimmering blue waters of Southeast Asia. Several ancient wooden sailboats with weathered sails drift gracefully across the frame, moving from the western sea toward the eastern horizon between the lush, verdant islands. Gentle waves ripple continuously around the hulls. In the foreground, Nhật Minh and Hân Hân stand side-by-side, turning their heads slightly to gaze at the horizon, their lips moving naturally as they engage in a calm, educational conversation."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the lush green rice paddies toward the distant forested islands. A light tropical breeze causes the rice stalks to sway rhythmically like waves. Nearby, leaves on the cinnamon and star anise trees flutter softly. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at each other while engaging in natural, friendly conversation with synchronized lip movements and subtle, expressive hand gestures."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân walk slowly along the muddy path, gesturing toward the village while their lips move in natural conversation. In the background, a farmer rhythmically plants rice in the water, while artisans at the stilt houses move with purpose: the blacksmith hammers glowing metal, the weaver shuttles thread, and the potter shapes clay. A gentle breeze sways the rice stalks. The camera performs a slow, steady push-in toward the students to emphasize their discovery."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan across the bustling riverbank. In the foreground, Hân Hân turns her head slightly toward the camera, speaking with natural, rhythmic lip movements as she gestures toward the arriving boat. Nearby, a merchant carefully hands a piece of ceramic to a local villager, while another traveler adjusts a small Buddha statue in his pack. In the background, the river water ripples softly, and the sails of the trading boat sway gently in the breeze."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, smooth pan from left to right across the three landscapes. In the first frame, smoke drifts gently from the stilt house chimneys while the bronze drum glints. In the second, the sailboat rocks rhythmically on the coastal waves. In the third, boats in the floating market sway on the water. Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other, gesturing naturally and speaking with fluid lip movements."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside the golden rice sheaves. Nhat Minh turns his head slightly toward the audience with a welcoming smile. Han Han gestures gracefully with her right hand, inviting viewers to comment, while her lips move naturally as if speaking. In the background, the soft ambient light shifts gently. The camera performs a slow, smooth push-in toward the students, maintaining their 2D animated style throughout the ten-second duration."
+  }
+ ]
+}

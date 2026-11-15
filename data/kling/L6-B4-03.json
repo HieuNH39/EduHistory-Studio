@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B4-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently lifts a smooth pebble to eye level, turning it slowly between her fingers with a curious expression. Nhật Minh stands beside her, nodding as he speaks with natural lip movements and subtle hand gestures. In the background, the lush green valley foliage sways softly in a light breeze, while clouds drift slowly across the distant mountain peaks. The camera performs a slow, steady push-in toward the students, capturing their engaged conversation and the peaceful highland atmosphere."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the lush green bushes, their heads turning slightly as they observe the scene below. Down by the sparkling stream, the primitive people rhythmically strike stones together, creating subtle sparks and stone chips. Smoke drifts slowly from a nearby small fire. Hân Hân and Nhật Minh whisper to each other with natural lip movements. A gentle slow push-in camera move captures the students' curious expressions and the rhythmic activity below."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The prehistoric hands rhythmically strike a stone with a hammer-stone, sending small, sharp rock shards flying outward in a realistic spray. Dust particles dance in the slanted golden sunlight that shifts slightly across the textured stone surface. Hân Hân’s face appears in a soft-focus overlay, her lips moving naturally as she narrates. The camera performs a slow, steady push-in toward the point of impact, capturing the precise, repetitive motion of the tool-making process in vivid detail."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the cave entrance. Inside, Hân Hân and Nhật Minh sit naturally, turning their heads slightly to look at each other while engaging in rhythmic, natural lip movement as if narrating. Beside them, the prehistoric figures gesture softly toward the cave walls. Outside, wisps of thick, atmospheric mountain mist drift slowly across the jagged limestone cliffs, and faint, soft shadows flicker against the cave floor, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The prehistoric man kneels beside a large mossy rock, rhythmically striking two stones together to shape a tool, with stone flakes scattering slightly. Nearby, Hân Hân stands in her orange polo shirt, gesturing gracefully toward the pile of finished tools while her lips move naturally as she speaks. In the background, lush prehistoric foliage sways gently in a soft breeze. The camera performs a slow, steady push-in toward the stone tools, maintaining the 2D animated illustration style throughout."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han peek cautiously from behind a large tree, their heads turning slightly to observe the scene. In the background, primitive people move rhythmically, swinging stone axes to chop branches and scraping tree bark with focused gestures. Sunlight filters through swaying leaves, casting moving shadows on the forest floor. The camera performs a slow push-in toward the students, who exchange quiet glances and move their lips naturally as if whispering to each other in wonder."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "As the golden sunset glows over the An Khe hill, Hân Hân and Nhật Minh stand side-by-side, looking directly at the viewer. Hân Hân turns her head slightly toward Nhật Minh, her lips moving as she speaks naturally. Nhật Minh smiles, nodding in agreement before raising his right hand in a welcoming gesture toward the audience. In the background, tall grass sways gently in the breeze. The camera performs a slow, steady push-in, focusing on the students' expressive faces."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B3-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han sit at the desk in their orange FPT uniforms. Nhat Minh scratches his head with a confused expression, then looks toward Han Han. Han Han smiles warmly, turning her head slightly to speak with natural lip movements as if explaining a date on the calendar. In the background, the wall calendar’s pages flutter gently in a soft breeze. The camera performs a slow, steady push-in toward the two students, maintaining a focused, academic atmosphere."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle orbit around the ancient timekeeping instruments. Fine sand flows steadily through the hourglass, while water drips rhythmically from the ceramic vessel into the basin below. The shadow cast by the sundial’s gnomon shifts incrementally across the stone surface. In the background, Hân Hân and Nhật Minh stand side-by-side, nodding thoughtfully as they gesture toward the devices, their lips moving naturally as they speak, while soft sunlight filters through nearby foliage, causing gentle leaf shadows to flicker."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this split-screen composition, the Egyptian figure slowly dips a reed pen into ink, the Mesopotamian scholar turns his head to gaze upward, and the Chinese astronomer adjusts a wooden instrument. All three characters gently tilt their heads to track the glowing crescent moon above. Soft moonlight shimmers on the Nile, smoke drifts from small temple braziers, and leaves sway in a light breeze. The camera performs a slow, steady push-in toward the center, capturing the contemplative atmosphere of these ancient observers."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân sit side-by-side, gently turning their heads upward to follow the rotating silver Moon. Hân Hân gestures toward the glowing orbit with a subtle hand movement while speaking with natural, synchronized lip sync. Nhật Minh nods in agreement, his eyes tracking the Earth’s rotation. Above them, the Moon glides smoothly along its luminous path. A slow, gentle camera push-in enhances the sense of wonder as the soft, ambient light shifts across their faces."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "In this sun-drenched Roman square, Nhật Minh stands in the foreground, turning his head slightly to look at the stone sundial while gesturing with his right hand as if explaining the time. His lips move naturally as he speaks. In the background, Roman citizens in white togas move slowly among the marble columns. The shadow of the sundial’s gnomon shifts imperceptibly across the stone face. The camera performs a slow, gentle push-in toward the sundial."
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The glowing Sun at the center of the planetarium dome pulses with soft light, while the Earth model orbits slowly along its circular path. Hân Hân and Nhật Minh turn their heads to follow the planet's movement, their lips moving naturally as they speak to each other. They both raise their hands to point toward the rotating Earth. The camera performs a slow, gentle push-in toward the center of the dome, capturing the wonder in their expressions."
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands in the living room, smiling as she points her finger toward the wall calendar, her lips moving naturally as if explaining the dates. Nhật Minh stands beside her, nodding his head in rhythmic agreement while listening intently. In the background, soft sunlight filters through a window, causing gentle dust motes to drift slowly in the air. The camera performs a slow, steady push-in toward the calendar to highlight the contrast between the solar and lunar dates."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand still, their expressions friendly and engaging. Nhật Minh turns his head slightly toward the camera, raises his right hand in a welcoming gesture, and begins speaking with natural, rhythmic lip movements. Hân Hân smiles warmly, nodding gently as she listens. In the background, the calendar pages flutter softly as if caught in a light breeze. The camera performs a slow, steady push-in toward the two students, maintaining their clear focus throughout the scene."
+  }
+ ]
+}

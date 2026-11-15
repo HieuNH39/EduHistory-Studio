@@ -1,0 +1,24 @@
+{
+ "ma": "L7-B17-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a warm, softly lit museum, Nhật Minh and Hân Hân stand before the glass display. Hân Hân gestures gracefully toward the blue-and-white swan ceramic vase while speaking with natural, rhythmic lip movements. Nhật Minh turns his head slightly to listen, nodding in agreement with a gentle smile. In the background, soft light glimmers off the glass surface. The camera performs a slow, steady push-in toward the ceramic vase, capturing the students' engaged expressions and subtle, lifelike movements."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Lê Lợi sits regally on the throne, slowly turning his head to look forward while his lips move as if delivering a royal decree. The rows of court officials bow deeply in unison, their silk robes shifting slightly. In the background, the Lam Sơn flags wave gently in a soft breeze. Nhật Minh stands to the side, nodding respectfully while listening. The camera performs a slow, majestic push-in toward the throne, capturing the solemn atmosphere of the imperial court."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân stands by the glass display case, turning her head slightly toward the camera with a friendly smile as her lips move naturally in speech. She holds the tablet steady, while the digital diagram on its screen subtly glows and shifts. Nhật Minh stands beside her, nodding occasionally in agreement. In the background, soft light filters through the room, causing gentle dust motes to drift. The camera performs a slow, smooth push-in toward Hân Hân."
+  }
+ ]
+}

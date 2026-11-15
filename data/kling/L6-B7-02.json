@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B7-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently lifts a chess piece, turning her head toward Nhật Minh with a soft, natural smile as her lips move in speech. Opposite her, Nhật Minh rests his chin on his hand, his eyes tracking the board before he nods thoughtfully, his expression shifting slightly. In the background, dust motes drift slowly through shafts of library light, and pages of nearby open books flutter subtly. The camera performs a slow, smooth push-in toward the chessboard."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Menes stands regally on the stone platform, slowly raising his scepter while his head turns slightly to survey the crowd. Below, the tribal leaders bow deeply in unison, their colorful flags waving gently in the warm breeze. The crowd of villagers shifts rhythmically, some gesturing toward the river. The Nile water flows steadily in the background as light smoke drifts from nearby incense burners. A slow, cinematic push-in focuses on Menes as he speaks with natural, rhythmic lip movements."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, continuous push-in as the scene transitions through historical eras. On the river, wooden boats glide smoothly across the flowing Nile, their sails fluttering in a gentle breeze. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly toward each other while speaking with natural lip movements and expressive hand gestures. Finally, the Roman legionnaires march forward in rhythmic unison, their metal helmets glinting as they enter the ancient city gates."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the stone pillar, their heads turning slightly as they whisper to each other with natural lip movements. In the background, the Pharaoh sits regally while soldiers and officials remain bowed in stillness. Golden torchlight flickers, casting dancing shadows across the stone floor. Wisps of smoke drift slowly upward toward the ceiling. The camera performs a slow, steady push-in toward the students, capturing their expressions of awe and curiosity."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the Sumerian city. In the foreground, Nhật Minh stands in his orange polo shirt, turning his head slightly toward the camera while speaking with natural, rhythmic lip movements and gentle hand gestures. In the background, water flows steadily through the irrigation canals, smoke curls softly from small clay chimneys, and the sunlight glints off the mud-brick ziggurat as the city bustles with the subtle, lifelike activity of ancient daily life."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The En-si sits regally, slowly nodding as he gestures toward the offerings with a calm, authoritative hand movement. Nearby, a scribe rhythmically presses a stylus into a clay tablet. In the background, citizens gently place baskets of grain, while a light breeze causes the temple banners to flutter softly. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe the scene with engaged expressions. The camera performs a slow, steady push-in toward the En-si."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "King Hammurabi stands regally on the palace steps, slowly turning his head to survey his brick-walled city while his beard gently sways in a light breeze. Below him, officials in traditional robes bow in unison. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the city as they speak with fluid, synchronized lip movements. The camera performs a slow, cinematic push-in toward the king, capturing the majestic atmosphere of ancient Babylon."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh carefully places the chess king piece in the center of the board, then slowly turns his head to look directly at the viewer with a gentle smile, his lips moving as if speaking. Beside him, Hân Hân raises her hand in a welcoming gesture, inviting interaction. Sunlight filters through the library windows, causing soft dust motes to drift in the air. The camera performs a slow, steady push-in toward the two students to emphasize their engagement."
+  }
+ ]
+}

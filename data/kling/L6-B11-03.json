@@ -1,0 +1,42 @@
+{
+ "ma": "L6-B11-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han lean closer toward the glass display case, their eyes fixed on the glowing gold coin. Nhat Minh widens his eyes in genuine surprise and turns his head slightly to look at Han Han, who nods while her lips move as if explaining the artifact. The soft museum lighting glints off the glass. A slow, gentle push-in camera move focuses on their curious expressions, while subtle dust motes drift slowly through the air."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the bustling river mouth. On the water, wooden sailboats glide steadily toward the harbor, their sails fluttering gently in the sea breeze. Along the riverbanks, smoke from small hearths drifts upward into the sky. In the foreground, Nhật Minh and Hân Hân stand side-by-side; they turn their heads slightly toward each other, gesturing toward the port with natural arm movements while their lips move in sync with a friendly, educational conversation."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han walk slowly through the bustling port, turning their heads to observe the surroundings while engaging in a natural conversation with realistic lip movements. In the background, merchants gesture while trading fabrics and ceramics, and small wooden boats bob gently on the rippling river water. Smoke drifts lazily from nearby stilt houses, and flags flutter in the breeze. The camera performs a slow, steady push-in, focusing on the students as they explore the vibrant historical scene."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand near the ancient stone pillars, gesturing toward the Sanskrit inscriptions with natural hand movements while speaking with synchronized lip sync. In the background, villagers carefully place ceramic vases into a burial site with gentle, rhythmic motions. Tropical leaves sway softly in a light breeze, and dust motes drift through the air. The camera performs a slow, steady push-in toward the stone pillars, maintaining the 2D animated aesthetic throughout the entire ten-second sequence."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the ancient artifacts. Nhật Minh stands beside the mat, gesturing naturally toward the bronze Roman lamp with his right hand as he speaks with fluid, realistic lip movements. In the background, soft dust motes drift through shafts of warm sunlight filtering into the market. A light breeze causes the edges of the woven mat to flutter slightly, while the bronze surfaces catch subtle, shifting glints of light."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the glass display case. Nhật Minh turns his head slightly toward the camera, gestures with his right hand in an inviting motion, and speaks with natural, synchronized lip movements. Hân Hân stands beside him, smiling softly while occasionally blinking and shifting her weight naturally. In the background, soft light glints off the gold coins inside the glass. The camera performs a slow, steady push-in toward the students to emphasize their presentation."
+  }
+ ]
+}

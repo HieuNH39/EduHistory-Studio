@@ -1,0 +1,72 @@
+{
+ "ma": "L6-B9-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân turns to the whiteboard, gently touching the marker to the arrow while her lips move as if explaining a lesson. Nhật Minh stands beside her, nodding in agreement while shifting his weight slightly and adjusting his grip on the history textbook. Sunlight filters through the window, causing dust motes to drift slowly in the air. The camera performs a slow, steady push-in toward the students, capturing their natural, friendly interaction within the quiet, sunlit classroom."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the fertile plains. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the landscape while their lips move in sync with a rhythmic dialogue. Behind them, ancient farmers rhythmically swing hoes into the soil and scatter seeds. The muddy Yellow River flows steadily in the background, while distant workers move along the earthen dikes. Gentle wind ripples the golden crops and stirs the dust across the vast, sunlit valley."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The village leader stands on the earthen platform, gesturing with his hands while his mouth moves naturally as if speaking to the crowd. Below, the villagers turn their heads and nod in attentive agreement. A plain flag atop a wooden pole ripples gently in the breeze, while dust motes drift slowly through the warm air. The camera performs a slow, steady push-in toward the leader, capturing the serene atmosphere of the ancient settlement as the scene remains focused and cinematic."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the center of the workshop. Hân Hân and Nhật Minh watch intently, turning their heads slightly to follow the molten bronze as it flows into the clay mold, causing bright sparks to drift upward. The artisan in the background rhythmically carves characters into a turtle shell. Hân Hân and Nhật Minh move their lips naturally as they speak, with Hân Hân gesturing toward the furnace while Nhật Minh nods in agreement."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this scene, Hân Hân and Nhật Minh stand in the foreground, gesturing toward the construction site while speaking with natural lip movements and subtle head tilts. In the background, laborers rhythmically lift and strike heavy wooden mallets against the earth within the wall frames, creating a steady, repetitive motion. Dust particles drift gently in the warm light, and the wooden roof structure looms steadily. The camera performs a slow, smooth push-in toward the workers, maintaining the 2D animated illustration style."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the center of the courtyard. The musician rhythmically strikes the bronze bells with a wooden mallet, causing them to sway slightly. Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other to speak with natural lip movements and subtle facial expressions. In the background, the king and nobles remain perfectly still, while soft, ethereal smoke drifts slowly across the stone palace floor."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the ancient bronze bell. As the wooden mallet strikes the surface, a subtle vibration ripples through the metal, and translucent, glowing sound waves radiate outward into the air. Hân Hân and Nhật Minh stand beside the bell, turning their heads slightly to observe the resonance. They speak with natural lip movements, gesturing toward the intricate carvings. Dust motes drift slowly in the warm light, enhancing the historical atmosphere."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, sweeping pan across the vast, flat battlefield. In the foreground, Nhật Minh and Hân Hân stand side-by-side, gesturing toward the horizon while their lips move naturally as if narrating. Across the plain, rows of infantry and wooden chariots shift slightly in place. Colorful, blank banners held by the troops ripple rhythmically in a gentle breeze, while dust particles drift slowly through the air, maintaining the static, illustrative 2D animation style throughout."
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy hillside, gently turning their heads to observe the valley below. Hân Hân gestures toward the horizon while her lips move naturally as if narrating. Below, the massive army advances with rhythmic precision, their long spears glinting in the golden sunset. Dust plumes rise steadily from the marching soldiers and rolling chariots. The camera performs a slow, cinematic push-in toward the valley, capturing the vast scale of the historical movement."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the whiteboard, their expressions bright with excitement. Hân Hân turns to Nhật Minh, speaking with natural lip movements while gesturing toward the colorful timeline. Nhật Minh nods in agreement, smiling as he speaks back. They both raise their hands and perform a joyful high-five. Sunlight filters through the classroom window, causing dust motes to drift gently in the air. The camera performs a slow, steady push-in toward the students."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside the whiteboard, both smiling warmly. Han Han gently raises her right hand in a welcoming gesture toward the audience, her lips moving naturally as she speaks. Nhat Minh turns his head slightly to look at her, then back to the camera with a friendly nod. The camera performs a slow, steady push-in, focusing on their expressions while the soft ambient light shifts slightly across the classroom background."
+  }
+ ]
+}

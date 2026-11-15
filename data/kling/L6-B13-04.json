@@ -1,0 +1,72 @@
+{
+ "ma": "L6-B13-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the exhibition, turning their heads slightly toward each other to converse with natural, synchronized lip movements. Hân Hân gestures gracefully toward the red brick towers, while Nhật Minh nods in agreement. In the background, soft light shifts across the photographs, and dust motes drift slowly through the air. The camera performs a slow, steady push-in toward the students, capturing their engaged expressions and the vibrant details of their school uniforms."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The large wooden sailboat gently sways against the pier as water ripples softly around the hull. On the dock, the Indian and Chinese merchants step forward, gesturing toward their crates of scrolls and statues. Hân Hân and Nhật Minh stand in the foreground, turning their heads to observe the bustling trade, their lips moving naturally as they speak. A slow camera push-in captures the vibrant exchange, while palm leaves sway rhythmically in the warm tropical breeze above the scene."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the center of the temple courtyard. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at the scene while their lips move naturally as if narrating. In the background, local residents gracefully place baskets of fruit on the altar. The monk in saffron robes and the Hindu priest nod slowly to each other. Wisps of incense smoke drift upward, and lotus petals sway gently in the breeze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, steady push-in toward the center of the construction site. In the foreground, Nhật Minh turns his head slightly toward the camera, speaking with natural lip movements as he gestures toward the temple. Nearby, workers rhythmically pull thick ropes to move a large stone block over wooden rollers, while a sculptor carefully chisels intricate patterns into a pillar. In the background, dust motes drift in the sunlight as the temple tower rises steadily against the sky."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand in the foreground, turning their heads slightly to look at each other while smiling and engaging in natural, rhythmic lip movement as they speak. Hân Hân gestures towards the ancient stone towers with her hand. In the background, wispy clouds drift slowly across the blue sky, and a gentle breeze causes the students' collars to flutter. The camera performs a slow, steady push-in, focusing on the students against the majestic, towering temple architecture."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the red brick towers. In the foreground, Hân Hân turns her head slightly toward the camera, her lips moving naturally as she speaks. Beside her, Chăm villagers in traditional attire gracefully walk toward the temple, carrying offerings. Wispy mountain clouds drift slowly across the lush green valley, while the surrounding tropical foliage sways softly in a light breeze, maintaining the serene, painterly atmosphere of the historical landscape."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the valley. Hân Hân gestures toward the construction site with her right hand, her lips moving naturally as she speaks, while Nhật Minh nods in agreement, turning his head slightly to follow her gaze. In the background, hundreds of tiny workers move rhythmically, lifting stone blocks. Dust particles drift slowly through the air, and the distant flags atop the stone terraces flutter softly in the breeze, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The ancient sculptor rhythmically taps his chisel against the stone wall, sending fine dust particles drifting into the air. Hân Hân and Nhật Minh stand nearby, gesturing toward the intricate carvings of elephants and boats while their lips move in natural, synchronized speech. Beside them, the stone Buddha and deity statues remain perfectly still. The camera performs a slow, gentle push-in, focusing on the sculptor’s focused hands and the students’ engaged expressions against the textured, historical backdrop."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the stone corridor, turning their heads slightly to observe the intricate relief carvings. Hân Hân gestures toward the wall while speaking with natural lip movements, followed by Nhật Minh nodding in agreement as he speaks. Sunlight filters through the stone pillars, casting shifting shadows across the ancient carvings. The camera performs a slow, smooth push-in toward the relief, capturing the detailed textures of the warriors and monkeys as dust motes dance in the light."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands in the school hall, smiling as she gestures toward three framed historical photographs on the wall, her lips moving naturally as she speaks. Beside her, Nhật Minh listens attentively, nodding in agreement with a thoughtful expression. In the background, sunlight filters through nearby windows, casting soft, shifting shadows on the floor. The camera performs a slow, gentle push-in toward the students, capturing their engaged interaction while maintaining the clean, 2D animated-film aesthetic throughout the scene."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand still in front of the My Son sanctuary backdrop. Han Han turns her head slightly toward Nhat Minh, then gestures with her right hand toward the camera in a welcoming motion while her lips move naturally as if speaking to the audience. Nhat Minh smiles gently, nodding in agreement. Soft light shifts across their faces. The camera performs a slow, steady push-in, focusing on their expressive, friendly faces throughout the ten-second duration."
+  }
+ ]
+}

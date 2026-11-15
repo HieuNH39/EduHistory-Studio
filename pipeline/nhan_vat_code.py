@@ -1033,6 +1033,79 @@ class KeHoach:
 
 
 # ------------------------------------------------------------------ nền vẽ bằng code
+def _mat_trong_ve(c, cx, cy, R, a=1.0, sao=14, phan=False):
+    """Mặt trống đồng (ngôi sao giữa, vành vạch, vòng tròn tiếp tuyến, chim lạc). phan=True: nét phấn trắng trên bảng."""
+    if phan:
+        c.set_line_width(max(2.0, R * .03)); c.set_source_rgba(1, 1, 1, .55 * a)
+        for rr in (1.0, .8, .58, .34):
+            c.new_path(); c.arc(cx, cy, R * rr, 0, 2 * PI); c.stroke()
+        for i in range(sao * 2):
+            an = PI * i / sao - PI / 2; rr = R * (.3 if i % 2 == 0 else .1)
+            (c.move_to if i == 0 else c.line_to)(cx + rr * math.cos(an), cy + rr * math.sin(an))
+        c.close_path(); c.stroke()
+        for i in range(16):
+            an = 2 * PI * i / 16
+            c.new_path(); c.arc(cx + R * .9 * math.cos(an), cy + R * .9 * math.sin(an), R * .05, 0, 2 * PI); c.stroke()
+        return
+    g = cairo.RadialGradient(cx - R * .2, cy - R * .25, R * .1, cx, cy, R)
+    g.add_color_stop_rgba(0, *_c((214, 168, 96), a)); g.add_color_stop_rgba(1, *_c((128, 86, 42), a))
+    c.set_source(g); c.new_path(); c.arc(cx, cy, R, 0, 2 * PI); c.fill()
+    c.set_line_width(max(1.2, R * .012)); c.set_source_rgba(*_c((92, 58, 26), .55 * a))
+    for rr in (.98, .9, .78, .7, .56, .5, .36, .3):
+        c.new_path(); c.arc(cx, cy, R * rr, 0, 2 * PI); c.stroke()
+    for r0, r1, k in ((.9, .98, 90), (.7, .78, 72), (.5, .56, 56)):
+        for i in range(k):
+            an = 2 * PI * i / k
+            c.move_to(cx + R * r0 * math.cos(an), cy + R * r0 * math.sin(an)); c.line_to(cx + R * r1 * math.cos(an), cy + R * r1 * math.sin(an))
+        c.stroke()
+    for i in range(24):
+        an = 2 * PI * i / 24; rx, ry = cx + R * .84 * math.cos(an), cy + R * .84 * math.sin(an)
+        c.new_path(); c.arc(rx, ry, R * .035, 0, 2 * PI); c.stroke()
+    c.set_source_rgba(*_c((96, 60, 28), .6 * a))
+    for i in range(10):
+        an = 2 * PI * i / 10; bx, by = cx + R * .63 * math.cos(an), cy + R * .63 * math.sin(an)
+        c.save(); c.translate(bx, by); c.rotate(an + PI / 2)
+        c.move_to(-R * .07, 0); c.curve_to(-R * .03, -R * .03, R * .03, -R * .03, R * .08, -R * .005)
+        c.line_to(R * .03, R * .012); c.curve_to(0, R * .05, -R * .02, R * .02, -R * .07, 0); c.fill()
+        c.restore()
+    c.new_path()
+    for i in range(sao * 2):
+        an = PI * i / sao - PI / 2; rr = R * (.27 if i % 2 == 0 else .1)
+        (c.move_to if i == 0 else c.line_to)(cx + rr * math.cos(an), cy + rr * math.sin(an))
+    c.close_path(); c.set_source_rgba(*_c((250, 214, 140), .9 * a)); c.fill()
+    c.new_path(); c.arc(cx, cy, R * .07, 0, 2 * PI); c.set_source_rgba(*_c((255, 236, 180), a)); c.fill()
+
+
+def _trong_nho(c, x, day, rw):
+    """Trống đồng nhỏ đặt trên mặt phẳng ở độ cao `day` (thân loe, mặt trống elip)."""
+    rh = rw * .3; bh = rw; ty = day - bh
+    c.set_source(_grad(x - rw, 0, x + rw, 0, [(0, (110, 72, 34)), (.45, (196, 146, 80)), (1, (96, 62, 30))]))
+    c.move_to(x - rw, ty); c.curve_to(x - rw * 1.08, ty + bh * .35, x - rw * .82, ty + bh * .55, x - rw * .86, day)
+    c.line_to(x + rw * .86, day); c.curve_to(x + rw * .82, ty + bh * .55, x + rw * 1.08, ty + bh * .35, x + rw, ty); c.close_path(); c.fill()
+    c.set_source_rgba(*_c((80, 50, 22), .55)); c.set_line_width(max(1.5, rw * .02))
+    for k in (.22, .3, .62):
+        c.move_to(x - rw, ty + bh * k); c.line_to(x + rw, ty + bh * k); c.stroke()
+    c.save(); c.translate(x, ty); c.scale(1, rh / rw); _mat_trong_ve(c, 0, 0, rw); c.restore()
+
+
+def _binh_gom(c, x, day, vh):
+    """Bình gốm hoa lam (cách điệu) đứng trên mặt phẳng ở độ cao `day`."""
+    vw = vh * .3; vy = day - vh
+    c.move_to(x - vw * .35, vy); c.line_to(x + vw * .35, vy)
+    c.curve_to(x + vw * .3, vy + vh * .18, x + vw * 1.25, vy + vh * .35, x + vw * .95, vy + vh * .75)
+    c.curve_to(x + vw * .8, vy + vh * .95, x + vw * .5, day, x + vw * .45, day)
+    c.line_to(x - vw * .45, day); c.curve_to(x - vw * .5, day, x - vw * .8, vy + vh * .95, x - vw * .95, vy + vh * .75)
+    c.curve_to(x - vw * 1.25, vy + vh * .35, x - vw * .3, vy + vh * .18, x - vw * .35, vy); c.close_path()
+    c.set_source(_grad(x - vw, 0, x + vw, 0, [(0, (206, 210, 200)), (.45, (246, 246, 236)), (1, (196, 200, 192))])); c.fill_preserve()
+    c.save(); c.clip(); c.set_source_rgba(*_c((40, 76, 140), .85)); c.set_line_width(max(2, vh * .018))
+    for k in (.3, .62):
+        c.move_to(x - vw * 1.3, vy + vh * k); c.line_to(x + vw * 1.3, vy + vh * k); c.stroke()
+    for i in range(3):
+        fx2 = x - vw * .45 + i * vw * .45; fy2 = vy + vh * .46
+        c.new_path(); c.arc(fx2, fy2, vh * .05, 0, 2 * PI); c.stroke()
+    c.restore()
+
+
 def chon_nen(sc):
     if sc.get("nen"):
         return "bao_tang" if sc["nen"] == "studio" else sc["nen"]
@@ -1517,15 +1590,30 @@ class Nen:
                     x = bx0 + bw * (0.15 + k * 0.17)
                     c.new_path(); c.arc(x, yy, 8 * H / 1080, 0, 2 * PI); c.stroke()
                     c.move_to(x - 22, yy - 40 - (k % 2) * 30); c.line_to(x + 22, yy - 40 - (k % 2) * 30); c.stroke()
+                _mat_trong_ve(c, bx0 + bw * 0.16, by0 + bh * 0.28, bh * 0.17, phan=True)
                 c.set_source_rgba(*_c((150, 108, 74))); c.rectangle(bx0 - 20, by0 + bh + 10, bw + 40, 12); c.fill()
-            else:   # cửa sổ vòm giữa
-                ax, ay, aw, ah = W * 0.42, H * 0.10, W * 0.16, H * 0.36
-                def arch():
-                    c.move_to(ax, ay + ah); c.line_to(ax, ay + aw / 2); c.arc(ax + aw / 2, ay + aw / 2, aw / 2, PI, 2 * PI)
-                    c.line_to(ax + aw, ay + ah); c.close_path()
-                c.new_path(); arch(); c.set_source(_grad(0, ay, 0, ay + ah, [(0, (186, 218, 238)), (1, (240, 238, 226))])); c.fill()
-                c.new_path(); arch(); c.set_source_rgba(*_c((150, 108, 74))); c.set_line_width(10 * H / 1080); c.stroke()
-                c.move_to(ax + aw / 2, ay); c.line_to(ax + aw / 2, ay + ah); c.stroke()
+            else:   # tranh sơn mài mặt trống đồng giữa tường (thay cửa sổ vòm) – phòng đọc sử
+                sz = min(W * 0.26, H * 0.32); cx, cy = W * 0.5, H * 0.10 + sz / 2
+                x0, y0 = cx - sz / 2, cy - sz / 2; u = min(W, H) / 1080
+                c.set_source_rgba(*_c((70, 44, 26))); c.rectangle(x0 - 22 * u, y0 - 22 * u, sz + 44 * u, sz + 44 * u); c.fill()
+                c.set_source_rgba(*_c((214, 170, 92))); c.rectangle(x0 - 12 * u, y0 - 12 * u, sz + 24 * u, sz + 24 * u); c.fill()
+                c.set_source(_grad(0, y0, 0, y0 + sz, [(0, (128, 30, 24)), (1, (84, 18, 16))])); c.rectangle(x0, y0, sz, sz); c.fill()
+                c.set_source_rgba(*_c((226, 186, 104), .7)); c.set_line_width(3 * u); c.rectangle(x0 + 14 * u, y0 + 14 * u, sz - 28 * u, sz - 28 * u); c.stroke()
+                _mat_trong_ve(c, cx, cy, sz * 0.4)
+                # đèn chiếu vàng ấm phía trên tranh
+                c.set_source_rgba(*_c((60, 40, 28))); c.rectangle(cx - 40 * u, y0 - 46 * u, 80 * u, 12 * u); c.fill()
+                _glow(c, cx, y0 + sz * 0.2, sz * 0.7, (255, 228, 170), 0.18)
+            # dải diềm hoa văn trống đồng (vòng tròn tiếp tuyến, răng cưa) chạy ngang trên cao
+            fy, fh = H * 0.035, H * 0.04; u = min(W, H) / 1080
+            c.set_source_rgba(*_c((110, 62, 36))); c.rectangle(-W, fy, 3 * W, fh); c.fill()
+            c.set_source_rgba(*_c((222, 178, 98), .85)); c.set_line_width(2.2 * u)
+            c.move_to(-W, fy + 4 * u); c.line_to(2 * W, fy + 4 * u); c.move_to(-W, fy + fh - 4 * u); c.line_to(2 * W, fy + fh - 4 * u); c.stroke()
+            r = fh * 0.26; step = r * 2.6; x = -W
+            while x < 2 * W:
+                c.new_path(); c.arc(x, fy + fh / 2, r, 0, 2 * PI); c.stroke()
+                c.new_path(); c.arc(x, fy + fh / 2, r * .35, 0, 2 * PI); c.fill()
+                c.move_to(x + r, fy + fh / 2); c.line_to(x + step - r, fy + fh / 2); c.stroke()
+                x += step
         self._lop(0.3, wall, opaque=True)
         pal = [(178, 70, 58), (60, 110, 124), (214, 160, 60), (46, 62, 102), (120, 140, 76), (226, 120, 50), (238, 226, 200), (128, 86, 120)]
 
@@ -1550,10 +1638,8 @@ class Nen:
         def shelves(c, W, H):
             if lop_hoc:
                 ke_sach(c, W * 0.76, W * 1.05, H * 0.30, H * 0.62, 2)
-                gx, gy = W * 0.86, H * 0.255   # quả địa cầu trên kệ
-                c.set_source_rgba(*_c((150, 108, 74))); c.rectangle(gx - 20, gy + 36, 40, 10); c.fill()
-                c.new_path(); c.arc(gx, gy, 34 * H / 1080, 0, 2 * PI); c.set_source_rgba(*_c((110, 170, 200))); c.fill()
-                c.set_source_rgba(*_c((150, 190, 110))); _ellipse(c, gx - 8, gy - 6, 14, 18); c.fill(); _ellipse(c, gx + 14, gy + 10, 9, 8); c.fill()
+                _trong_nho(c, W * 0.86, H * 0.30, 46 * min(W, H) / 1080)   # trống đồng nhỏ trên kệ
+                _binh_gom(c, W * 0.955, H * 0.30, 96 * min(W, H) / 1080)
                 # chậu cây
                 px, py = W * 0.06, H * 0.70
                 c.set_source_rgba(*_c((190, 110, 70))); c.move_to(px - 40, py - 70); c.line_to(px + 40, py - 70); c.line_to(px + 30, py); c.line_to(px - 30, py); c.close_path(); c.fill()
@@ -1564,6 +1650,9 @@ class Nen:
             else:
                 ke_sach(c, -W * 0.05, W * 0.27, H * 0.16, H * 0.74, 4)
                 ke_sach(c, W * 0.73, W * 1.05, H * 0.22, H * 0.74, 4)
+                u = min(W, H) / 1080
+                _trong_nho(c, W * 0.12, H * 0.16, 70 * u)          # trống đồng trên nóc kệ trái
+                _binh_gom(c, W * 0.80, H * 0.22, 120 * u)          # bình gốm hoa lam trên nóc kệ phải
         self._lop(0.55, shelves, y0=0.1, y1=0.8)
 
         def floor(c, W, H):

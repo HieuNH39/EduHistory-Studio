@@ -1,0 +1,36 @@
+{
+ "ma": "L6-B2-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh slowly leans forward, peering intently through his magnifying glass at the bronze drum, while Hân Hân stands beside him, tilting her head and gesturing toward the artifact with a curious smile. Both students move their lips naturally as they speak. In the background, soft dust motes drift through light beams, and the camera performs a gentle, slow push-in toward the drum, emphasizing the students' focused expressions and the quiet, scholarly atmosphere of the museum."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand by the river, turning their heads slowly to observe the surroundings with curious expressions. Hân Hân gestures toward the village while speaking with natural lip movements, and Nhật Minh nods in agreement. In the background, villagers rhythmically operate a wooden rice pestle, a long boat glides smoothly across the water, and dancers in bird-feather headdresses sway gracefully. The camera performs a slow, steady push-in toward the students as gentle wind ripples the river surface."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The two adults rhythmically lift and drop the heavy wooden pestles into the mortar, their muscles flexing naturally with each movement. The young child sits nearby, gently shaking a bamboo tray to winnow the rice, with husks fluttering away in the breeze. In the foreground, Hân Hân and Nhật Minh turn their heads slightly toward the camera, speaking with natural lip synchronization. The camera performs a slow, steady push-in, capturing the dust motes dancing in the soft, filtered sunlight."
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand by the railing, gently shifting their weight. Hân Hân turns her head to look at Nhật Minh while speaking with natural lip movements, gesturing toward the excavation site. Nhật Minh nods in agreement, his gaze tracking across the ancient brick foundations below. In the background, sunlight filters through the roof, casting soft, shifting shadows over the stone pillars. The camera performs a slow, smooth push-in toward the archaeological site, maintaining a steady, contemplative pace throughout."
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand at the museum entrance. Han Han smiles warmly, gesturing with her right hand toward the viewer as if inviting a conversation, her lips moving naturally to deliver a welcoming line. Nhat Minh stands beside her, holding a magnifying glass steady while slightly tilting his head to look at the camera. In the background, soft sunlight filters through trees with leaves gently swaying. The camera performs a slow, smooth push-in toward the students."
+  }
+ ]
+}

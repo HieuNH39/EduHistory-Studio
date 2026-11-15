@@ -1,0 +1,48 @@
+{
+ "ma": "L7-B12-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân turns her head to look at Nhật Minh, gestures toward the river with a soft smile, and speaks with natural lip movement. Nhật Minh nods in agreement, looking toward the ancient temple, his hair swaying slightly in the breeze. In the background, the river water ripples rhythmically, golden sunlight shimmers on the surface, and leaves on the trees sway gently as soft dusk shadows deepen."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân peek cautiously from behind the tree, their heads turning slightly as they observe the temple. Hân Hân whispers with natural lip movements, while Nhật Minh gestures toward the river. In the temple, the figure in the áo dài gently sways while reciting poetry. Moonlight shimmers on the flowing river surface, and leaves drift slowly in the night breeze. The camera performs a slow, steady push-in toward the glowing temple across the water."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic pan from the northern riverbank to the southern bank. On the north, Song soldiers huddle around a flickering campfire, their heads tilting upward in confusion as they look toward the dark river. On the south, Ly soldiers stand tall and motionless, gripping their spears with steady resolve and glowing eyes. In the foreground, Hân Hân and Nhật Minh stand side-by-side, nodding slightly while speaking with natural, synchronized lip movements."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Ly Thuong Kiet stands at the center, his hand gesturing firmly across the clay map as he speaks with natural lip movements. The surrounding generals nod and lean in, their expressions attentive. Flickering torchlight casts dancing shadows against the tent walls, while smoke drifts slowly toward the ceiling. Narrator Nhat Minh stands to the side, nodding as he speaks. The camera executes a slow, steady push-in toward the map, focusing on the tactical details."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Ly dynasty envoy stands tall, gesturing calmly as he hands a scroll to Quach Quy. Quach Quy, looking weary in disheveled armor, reads the letter with wide eyes, then frantically waves his hand to signal a retreat. In the background, Song soldiers hurriedly dismantle tents and march northward. A gentle breeze ripples the banners. The camera performs a slow push-in, focusing on Quach Quy’s anxious expression as he turns to oversee the departing troops."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "General Ly Thuong Kiet stands stoically on the dike, his gaze fixed on the horizon as he slowly turns his head to watch the retreating Song army. Beside him, soldiers cheer with animated gestures, raising their arms in victory. In the foreground, narrators Han Han and Nhat Minh speak with natural lip movements, gesturing toward the battlefield. Red flags flutter vigorously in the morning breeze, while the camera performs a slow, cinematic push-in toward the triumphant scene."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân turns her head to face the viewer, smiling warmly while gesturing with her hand in a welcoming invitation. Her lips move naturally as she speaks. Beside her, Nhật Minh looks toward the river. The water of the Cầu River ripples softly, reflecting the glowing, flickering light from the ancient temple, while faint, wispy mist drifts slowly across the dark, tranquil background."
+  }
+ ]
+}

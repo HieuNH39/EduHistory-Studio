@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B18-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "A gentle slow push-in captures Hân Hân and Nhật Minh standing in front of the ancient red-brick tower during golden hour. Hân Hân turns her head slightly toward Nhật Minh with a warm smile, her mouth moving naturally as she speaks. Nhật Minh gestures with one hand toward the tower, nodding his head while speaking. In the background, green rice stalks sway gently in the afternoon breeze, and soft sunlight shimmers across the mound."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Champa nobleman stands atop the red brick tower, slowly raising his right hand in a grand gesture to address the crowd below. His ornate multi-tiered crown and gold jewelry glint in the sunlight. In the background, workers near the newly rising capital walls move with subtle activity, and a massive war elephant gently shifts its weight and flicks its ears. A slow push-in camera movement focuses on the noble's dignified expression while a warm breeze softly rustles his robe."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in shot captures the tense Champa court. Champa ministers anxiously gesture and whisper among themselves. A Champa envoy steps forward and hands a rolled map to a dignified Đại Việt envoy, who receives it with a polite nod and natural lip movement as they speak. In the distant background landscape, a Khmer army with majestic war elephants slowly advances. Leaves drift gently in the breeze."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in camera frames the wide Champa citadel under a tense sky, with foreign banners fluttering in the wind atop ancient brick towers. In the mid-ground, Cham warriors move with quiet, disciplined solemnity, sharpening bamboo spears and checking shields in solemn preparation. In the foreground, narrator Nhat Minh stands in his orange polo shirt, turning his head slightly toward the camera to speak with natural lip movement and a serious expression."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures the vibrant capital of Vijaya. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, turn their heads slightly and speak with natural lip movement while gesturing toward the city. In the mid-ground, Champa soldiers in traditional armor march in disciplined unison, holding spears. In the background, bustling townspeople move about joyfully near intricately carved red brick towers. Sunlight glints off golden temple spires while a gentle breeze flutters colorful ceremonial banners overhead."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow cinematic push-in captures King Jaya Simhavarman III in white royal robes and Garuda-embroidered black shoes stepping forward from the flower-adorned Champa dock to warmly welcome Princess Huyen Tran, who gracefully descends from the elaborately carved dragon boat wearing traditional Dai Viet attire and a coiled headscarf. Festive silk flags flutter in the gentle breeze along the pier, colorful flower garlands sway softly, and calm turquoise river water ripples beneath the wooden boat."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Nhật Minh and Hân Hân in orange polo school uniforms standing among a festive Cham crowd. Hân Hân turns her head slightly, speaking with natural lip movement while gesturing toward the celebration with a soft smile. Beside her, Nhật Minh nods attentively, his gaze shifting toward the glowing red brick tower. In the background, Cham dancers gracefully sway their arms to the rhythm, torch flames flicker brightly in the night, and dust motes drift softly in the warm air."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "A slow push-in camera captures moss-covered Cham towers standing quietly under a fading twilight sky. In the foreground, Hân Hân and Nhật Minh, wearing orange polo shirts, stand side-by-side studying an antique map laid before them. Hân Hân gently points a finger at the fragmented borders marked on the parchment, while Nhật Minh nods thoughtfully, his lips moving naturally as he speaks. Gentle wind softly ripples their hair and clothes."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "A slow push-in shot captures Hân Hân and Nhật Minh standing before the ancient brick tower at sunset. Hân Hân gently turns her head toward the camera, her lips moving naturally in speech as she raises her hand in a welcoming gesture to invite comments. Beside her, Nhật Minh looks on attentively with a soft smile. In the background, warm golden light bathes the ruins, and a gentle breeze sways nearby foliage under a dusky orange sky."
+  }
+ ]
+}

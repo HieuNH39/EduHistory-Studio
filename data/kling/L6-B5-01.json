@@ -1,0 +1,30 @@
+{
+ "ma": "L6-B5-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The students lean in closely over their notebooks, heads bobbing slightly as they discuss their work. Hân Hân smiles brightly, raising her hand to high-five Nhật Minh, who grins and meets her palm. Both students move their lips naturally as if sharing a quick, cheerful comment. In the background, soft light shifts across the classroom walls. The camera performs a slow, gentle push-in, focusing on their joyful interaction and the camaraderie of the group."
+  },
+  {
+   "so": 2,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the students. Nhật Minh and Hân Hân peek cautiously from behind the mossy rock, their heads turning slightly as they whisper to each other with natural lip movements. In the background, a group of primitive humans moves rhythmically, carrying large bundles of food toward a cave entrance. Two figures stand guard, shifting their weight while holding wooden spears. Gentle leaves sway in the breeze, and soft dust particles drift through the forest light."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the cave entrance. In the foreground, Hân Hân and Nhật Minh stand side-by-side, nodding slightly and gesturing toward the scene while speaking with natural lip movements. Behind them, the tribe members move rhythmically: the leader points toward the horizon, men grasp wooden spears, and women gather berries or cradle infants. Wisps of smoke drift from a small campfire, while lush forest leaves sway softly in the background breeze."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân smiles warmly while gently raising her right hand in a welcoming gesture, her lips moving naturally as if inviting the audience to share their thoughts. Beside her, Nhật Minh nods in agreement, his expression bright and attentive. In the background, classmates subtly shift and sway, creating a lively classroom atmosphere. The camera performs a slow, smooth push-in toward the two students, maintaining focus on their friendly faces as the soft ambient light flickers gently across the scene."
+  }
+ ]
+}

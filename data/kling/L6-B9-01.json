@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B9-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gently rotates the large globe with her hand, her gaze following the movement. Nhật Minh leans in slightly, pointing his index finger toward the winding rivers on the map while nodding as he speaks with natural lip synchronization. Hân Hân looks at him and smiles, nodding in agreement. In the background, soft sunlight shifts across the classroom walls. The camera performs a slow, steady push-in toward the globe to emphasize the students' focused interaction."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The yellow, silt-heavy water of the Yellow River flows steadily across the frame. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the river as they speak with synchronized lip movements. Behind them, ancient villagers rhythmically swing hoes into the earth and scatter seeds. Smoke drifts gently from the thatched roofs of mud-brick houses. The camera performs a slow, smooth push-in toward the students, maintaining the 2D animated aesthetic throughout the scene."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The group of ancient people walks steadily forward, with some figures gesturing toward the horizon while others lead livestock across the frame. The river flows gently with subtle ripples, and the lush trees along the banks sway softly in a light breeze. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe the scene, speaking with natural lip movements. The camera performs a slow, cinematic push-in toward the vast, blue river."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the grassy mound, gently shifting their weight as they look out over the vast, vibrant green rice paddies. Han Han turns her head toward Nhat Minh, smiling and gesturing toward the horizon while her lips move naturally as if speaking. Nhat Minh nods in agreement, pointing toward the winding canal. Nearby, lush green leaves sway in a soft breeze, and the camera performs a slow, smooth push-in toward the students."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The muddy river water surges and churns, rising rapidly to submerge the fields. Hân Hân stands on a grassy mound, looking toward the horizon with a concerned expression, her lips moving naturally as she speaks. Beside her, ancient villagers walk steadily toward higher ground, leading livestock and carrying children. Gentle rain falls in thin, grey streaks, while the camera performs a slow push-in toward Hân Hân to emphasize the urgency of the scene."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle pan across the riverbank. In the foreground, Nhật Minh turns his head to face the camera, speaking with natural lip movements while gesturing toward the embankment. Behind him, villagers rhythmically carry baskets of earth, while children follow, carefully dumping soil to reinforce the dike. Nearby, the river water flows steadily downstream, and lush green leaves on the riverbank sway softly in the breeze, reflecting the community’s collaborative effort to rebuild after the flood."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other while speaking with natural lip movements and gentle hand gestures. In the background, the ancient herdsman slowly walks across the lush green highland, guiding a small flock of sheep and cattle that graze peacefully. Clouds drift slowly over the distant mountain peaks. The camera performs a slow, steady push-in toward the two students, maintaining the vibrant 2D animated style throughout the scene."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside a rotating globe in a bright classroom. Han Han turns her head slightly toward the camera, her lips moving naturally as she speaks, then she raises her hand in a welcoming gesture. Nhat Minh smiles warmly, nodding his head in agreement. In the background, soft sunlight filters through the window, causing dust motes to drift slowly. The camera performs a slow, steady push-in, focusing on the students' expressive faces and their inviting posture."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B14-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gestures naturally with her notebook while speaking, her lips moving in sync with her dialogue. Beside her, Nhật Minh turns his head slightly toward her, nodding in active agreement. In the background, lush green grass atop the ancient earthen ramparts sways gently in a soft breeze, while distant tree leaves flutter. The camera performs a slow, smooth push-in toward the two students, maintaining a warm, educational atmosphere throughout the ten-second sequence."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Qin army marches steadily across the rugged mountain terrain, their long spears swaying in rhythm with their movement. Black flags flutter intensely in the gusty wind, while thick clouds of dust rise from the ground, swirling around the soldiers' feet. In the foreground, Nhật Minh turns his head slightly toward the camera, his lips moving naturally as he speaks. The camera performs a slow, cinematic push-in, capturing the vast, gloomy atmosphere of the ancient southern landscape."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The campfire crackles, casting flickering orange light as smoke drifts slowly upward into the dark forest canopy. Thục Phán stands tall, firmly gripping his bronze spear and raising it high with a resolute gesture. Nearby, Hân Hân and Nhật Minh turn their heads slightly toward him, their lips moving naturally as they speak. The Lạc Việt and Âu Việt warriors shift in place, nodding in agreement. The camera performs a slow, cinematic push-in toward Thục Phán’s determined face."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Thục Phán stands regally on the mound, slowly adjusting his bronze-adorned hat with a dignified gesture while looking out over his people. Below, the Lạc Việt and Âu Việt villagers bow rhythmically in unison, their bodies swaying slightly. Hân Hân stands in the foreground, speaking with natural lip movements and expressive hand gestures. A gentle breeze ripples the villagers' simple tunics, while the camera performs a slow, cinematic push-in toward Thục Phán to emphasize the solemnity of the coronation."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the grassy hill, gently turning their heads to follow the procession below. Han Han gestures toward the horizon while her lips move naturally as if narrating. In the valley, boats glide smoothly along the winding river, and ox-carts move steadily across the plains. Dust rises softly from the construction of the earthen walls. A gentle breeze sways the tall grass around the students. The camera performs a slow, cinematic push-in toward the bustling construction site."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the training courtyard, An Duong Vuong stands stoically, slowly turning his head to observe the soldiers. Nearby, soldiers rhythmically pull the bronze triggers of their crossbows, firing multi-edged arrows into wooden targets. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally while speaking with synchronized lip movements. In the background, flags flutter in the breeze against the towering earthen walls. The camera performs a slow, cinematic push-in toward the king and the soldiers."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow push-in toward the students. Hân Hân and Nhật Minh stand in the foreground, turning their heads to look toward the horizon with concerned expressions, their lips moving as if speaking in hushed tones. In the background, the large flag atop the Cổ Loa ramparts ripples vigorously in a strong wind. Dark, heavy clouds drift slowly across the darkening sky, while nearby tree branches sway rhythmically, enhancing the tense, somber atmosphere of the approaching storm."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside the ancient earthen ramparts of Co Loa, looking directly at the camera. Han Han smiles and gestures with her hand toward the viewer as if inviting a conversation, her lips moving naturally to speak. Behind them, lush green leaves sway gently in a soft breeze. The camera performs a slow, steady push-in, focusing on the students while maintaining the vibrant 2D animated style throughout the ten-second duration."
+  }
+ ]
+}

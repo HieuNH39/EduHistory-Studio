@@ -1,0 +1,30 @@
+{
+ "ma": "L6-B17-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân slowly turns her head toward Nhật Minh, her expression shifting into a curious, inquisitive look as she gestures slightly with the history textbook in her hand. Her lips move naturally as she speaks. In the background, soft dust motes drift through the classroom light, and the chalkboard remains steady. The camera performs a slow, gentle push-in toward Hân Hân, keeping the focus on her engaging expression and the classroom atmosphere."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan from the village gate toward the communal house. At the gate, a Northern official gestures rhythmically while pasting a scroll, his head turning slightly. In the background, villagers walk leisurely near the banyan tree, while a woman sways gently as she carries baskets. Leaves on the banyan tree rustle in a soft breeze. Hân Hân and Nhật Minh stand in the foreground, speaking with natural lip movements and subtle, engaging hand gestures."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the grandmother. The grandmother rhythmically rocks back and forth, her lips moving softly as she sings a lullaby. Thin, wispy trails of incense smoke drift upward from the altar, swirling gracefully in the air. Nhật Minh and Hân Hân sit still, their heads turning slightly to watch the grandmother with attentive, respectful expressions. Outside the porch, lush green leaves sway gently in a soft breeze, maintaining the serene, nostalgic atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand side-by-side, smiling warmly at the camera. Hân Hân nods slightly while listening, then turns her head to look at Nhật Minh as he begins to speak with natural lip movements. Nhật Minh raises his right hand in a welcoming gesture toward the viewer. In the background, steam gently drifts upward from the warm bánh chưng. The camera performs a slow, smooth push-in toward the two students, maintaining a friendly and engaging classroom atmosphere."
+  }
+ ]
+}

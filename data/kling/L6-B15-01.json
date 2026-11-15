@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B15-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân stands on the left, gesturing toward the distant pagoda with her right hand while her lips move in natural speech. Beside her, Nhật Minh turns his head slightly to look at her, nodding in agreement. In the background, tall grass on the earthen rampart sways softly in the breeze, while the distant rice fields ripple under a warm, late afternoon sun."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the city gate. Triệu Đà sits stoically atop his horse, his head turning slightly to scan the surroundings as the horse rhythmically trots forward. Behind him, soldiers march in unison, their blank banners fluttering gently in the breeze. On the sidelines, the Âu Lạc villagers stand with slumped shoulders, their heads bowing slowly in sorrow. Dust particles drift through the air, and the city gate remains still as the procession passes through."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Northern officials lean intently over the silk map, their brushes moving rhythmically to trace borders with ink. One official gestures toward a region while another nods in agreement, their silk robes swaying slightly. In the foreground, Nhật Minh turns his head toward the camera, his lips moving naturally as he narrates the historical context. The camera performs a slow, steady push-in, focusing on the intricate ink lines on the map as soft dust motes drift through the ambient light."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand behind the bamboo grove, their bodies swaying slightly with natural breathing. Hân Hân turns her head to whisper to Nhật Minh, her lips moving in sync with speech, while Nhật Minh nods in agreement, eyes fixed on the citadel. In the background, soldiers atop the stone walls shift their stance, and a horse-drawn carriage slowly exits the gate. A gentle breeze rustles the bamboo leaves, and the camera performs a slow, steady push-in."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the bustling marketplace. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other while speaking with natural, fluid lip movements and gentle hand gestures. In the background, merchants move through the stalls, small wooden boats drift steadily along the river, and soft smoke rises from nearby rooftops. The atmosphere remains lively and peaceful as the scene maintains its vibrant 2D animated style."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Northern official stands at the market gate, slowly unrolling a scroll and gesturing with his hand as he speaks with natural lip movement. Beside him, the soldiers stand rigid, their spears subtly swaying. In the foreground, Nhật Minh turns his head slightly to observe the scene with a serious expression. The crowd remains bowed and still. A gentle breeze causes the official’s robes to flutter, while the camera performs a slow, steady push-in toward the official."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand on the ancient Luy Lau ramparts at sunset, looking directly at the viewer. Han Han smiles and gestures naturally with her hand, inviting the audience to comment while her lips move in sync with speech. Nhat Minh stands beside her, nodding slightly. In the background, golden sunlight filters through swaying trees, and soft grass ripples in the breeze. The camera performs a slow, gentle push-in toward the two students to emphasize their welcoming engagement."
+  }
+ ]
+}

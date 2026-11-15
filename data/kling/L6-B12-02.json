@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B12-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently lifts the star anise and cinnamon sticks to her nose, inhaling deeply with a soft smile and natural lip movements as she speaks. Beside her, Nhật Minh turns his head toward her, nodding while gesturing toward the pot. Steam rises steadily from the broth, swirling in the warm kitchen light. The camera performs a slow, gentle push-in, focusing on the students' interaction as they share a quiet, educational moment in their home kitchen."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this serene landscape, Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other and speaking with natural lip movements as if explaining history. In the mid-ground, a farmer rhythmically plants rice seedlings while a water buffalo slowly pulls a wooden plow through the mud. A wide river flows gently in the background, and smoke drifts from small village huts. The camera performs a slow, steady push-in to capture the peaceful, bustling ancient village life."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, steady push-in toward the lead merchant ship. The large, weathered sails ripple gently in the sea breeze as the wooden vessel glides across turquoise waves. Hân Hân, standing on the deck, turns her head slightly toward the camera, her lips moving naturally as she speaks. In the background, other ships bob rhythmically on the water, while sunlight glints off the surface of the ocean, creating a serene, historical atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân walk slowly through the bustling market, turning their heads to observe the vibrant spice stalls. Hân Hân gestures toward a basket of star anise while speaking with natural lip movements, and Nhật Minh nods in agreement. In the background, merchants barter with subtle hand motions, steam drifts gently from nearby food stalls, and colorful fabrics flutter in the breeze. The camera performs a slow, smooth push-in toward the students to capture their curious expressions."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Arab geographer gently dips his quill into an inkpot and writes on the parchment with fluid, rhythmic hand movements, his head tilting slightly as he observes the bustling port. His turban shifts softly in the sea breeze. In the background, Hân Hân stands nearby, gesturing toward the fragrant spice crates with a curious smile and moving her lips as she speaks. The camera performs a slow, steady push-in, capturing the gentle swaying of the ship on the water."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the antique balance scale. On the left, the small pouch of saffron gently sways, while the horse-shaped weight on the right remains perfectly level. Beside them, the bag of ginger subtly shifts as if settling into place against the cow-shaped weight. Hân Hân and Nhật Minh stand in the background, turning their heads slightly toward each other, smiling and gesturing naturally as they speak with fluid, synchronized lip movements."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic pan from the coastal Champa port to the bustling Sumatran river harbor. Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other with natural smiles and engaging in a brief, friendly conversation with fluid lip movements and subtle hand gestures. In the background, colorful sailboats gently sway on the shimmering water, while flags atop the Champa brick towers flutter softly in the coastal breeze."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "In a cozy, warm-toned kitchen, Nhật Minh gently drops a star anise into a simmering pot, causing a soft wisp of steam to drift upward. Beside him, Hân Hân holds a cinnamon stick, turning her head to smile at the camera. Nhật Minh looks toward the viewer, gesturing with an inviting hand movement as his lips move to speak. The camera performs a slow, gentle push-in, capturing their friendly expressions while the kitchen background remains vibrant and still."
+  }
+ ]
+}

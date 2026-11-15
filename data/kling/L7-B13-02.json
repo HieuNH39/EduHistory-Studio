@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B13-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the stone courtyard, gently shifting their weight and gesturing naturally as they converse with subtle, synchronized lip movements. In the background, the ancient tree leaves sway softly in a light breeze, while the water in the pond ripples rhythmically. The camera performs a slow, smooth push-in toward the students, capturing their engaged expressions against the backdrop of the historic temple’s mossy curved roof and the majestic Tam Quan gate."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The elderly king slowly hands a glowing jade seal to the young king, who accepts it with a respectful nod. Both monarchs then gracefully sit on their adjacent ornate thrones. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the scene while speaking with fluid lip movements. Meanwhile, the kneeling court officials bow their heads in unison. The camera performs a slow, steady push-in toward the thrones as soft, golden light flickers gently across the palace interior."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the center of the scene. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at each other while speaking with natural, fluid lip movements. In the background, the village official gestures toward the crowd with a welcoming hand, while the villagers gently sway and smile. Soft sunlight filters through the trees, causing leaves to rustle rhythmically as a light breeze drifts across the communal courtyard."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Tran nobleman sits tall on his horse, gently pulling the reins as the horse walks slowly forward. In the background, peasants in the fields move rhythmically, bending to harvest crops. Smoke drifts peacefully from a distant thatched-roof granary. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the landscape while their lips move in synchronized speech. The camera performs a slow, cinematic push-in, capturing the vastness of the golden fields and the noble's calm expression."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the Quốc sử viện, the historians rhythmically dip their brushes and write on scrolls while the ink dries. In the Thái y viện, the physician carefully sorts medicinal herbs, his hands moving with precision. On the riverbank, the Hà đê sứ gestures firmly toward the workers, pointing as they reinforce the embankment. Nearby, Hân Hân and Nhật Minh stand together, nodding and speaking with natural lip movements. A gentle breeze sways the trees, and the camera performs a slow, smooth pan across the scenes."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand in the foreground, turning their heads slightly to observe the training ground while speaking with natural lip movements. In the background, Tran dynasty warriors practice sword fighting and archery, while villagers rhythmically swing wooden staves. Nearby, a large ceramic jar remains still. Dust particles drift through the air, and banners wave gently in the breeze. The camera performs a slow, steady push-in toward the students, capturing the lively historical atmosphere."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The official slowly turns the thick parchment pages of the law book, his lips moving as he reads aloud with a dignified expression. Hân Hân stands to the side, nodding slightly and gesturing with her hand as she speaks. The guards remain stoic, their heads shifting subtly. Outside, sunlight filters through, causing dust motes to dance in the air. The camera performs a slow, steady push-in toward the official, capturing the solemn atmosphere of the historic court."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The foreign envoys in traditional silk robes bow deeply toward the throne, presenting ornate lacquerware and scrolls. In the foreground, Hân Hân and Nhật Minh turn their heads slightly toward each other, speaking with natural lip movements and subtle hand gestures. Outside the grand palace gates, merchants rhythmically exchange ceramic jars and silk fabrics. Sunlight filters through the courtyard, casting soft, shifting shadows. The camera performs a slow, steady push-in, focusing on the students as the bustling historical scene unfolds."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand in the courtyard of the Tran Temple. Nhật Minh turns his head slightly toward the camera, smiles, and raises his hand in a welcoming gesture while his lips move naturally as if speaking to the audience. Hân Hân stands beside him, nodding gently with a friendly expression. In the background, tree leaves sway softly in the breeze. The camera performs a slow, smooth push-in toward the two students to emphasize their invitation."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B10-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân turns her head to look at Nhật Minh while gesturing naturally with her hand as she speaks. Nhật Minh nods in agreement, his lips moving in sync with his speech. In the background, ships glide across the harbor, cranes rotate slowly, and seagulls soar through the sky. A steady breeze causes their hair and uniforms to flutter, while the sea water ripples rhythmically against the stone embankment."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the coastal plains. Below, the turquoise sea gently laps against the rocky shoreline with rhythmic white foam. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the landscape while gesturing toward the horizon. They speak with natural, synchronized lip movements. Wispy white clouds drift slowly across the clear blue sky, casting soft, shifting shadows over the ancient towns nestled between the mountains."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The farmer in the foreground gently plucks ripe grapes from the vine, placing them into a woven basket, while the second farmer rhythmically shakes the olive tree branches, causing small olives to tumble down. Hân Hân stands to the side, turning her head toward the camera with a friendly smile, her lips moving naturally as she speaks. The camera performs a slow, gentle push-in, capturing the dry, rocky hillside environment as dust motes drift softly in the warm sunlight."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the stone pier, turning their heads slightly to observe the bustling port while speaking with natural lip movements. In the background, laborers rhythmically carry ceramic jars and marble blocks toward docked sailboats. Merchants in flowing robes gesture animatedly, bargaining near the water. Smoke drifts gently from a nearby hearth, and the sea ripples softly against the stone quay. The camera performs a slow, steady push-in toward the two students, capturing the vibrant atmosphere."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, smooth pan across the bustling port of Piraeus. In the foreground, clay amphorae and white marble blocks are carefully hoisted onto a wooden ship, while workers in the background unload sacks of grain and baskets of dates. Hân Hân and Nhật Minh stand near the dock, gesturing toward the cargo with natural arm movements. They turn their heads to look at each other, engaging in a lively conversation with realistic lip movements."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the southern coastline. In the azure Mediterranean waters, several Roman galleys and merchant ships gently bob on the waves, with oars rhythmically dipping in and out of the sea. Smoke drifts lazily from small coastal settlements. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly toward each other while gesturing at the landscape, their lips moving naturally as they engage in a lively historical discussion."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this 2D animated scene, Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other to speak with natural lip movements and subtle hand gestures. In the background, golden wheat fields sway gently in the breeze as sheep graze rhythmically. Wisps of grey smoke drift steadily from the distant mountain smelting furnaces. The camera performs a slow, smooth push-in, focusing on the students while maintaining the vibrant, illustrative style of the landscape."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Hân Hân stands beside Nhật Minh, nodding slightly with a warm smile as her lips move naturally in speech. Nhật Minh turns his head toward the camera, raises his hand in a welcoming gesture, and speaks with synchronized lip movement. In the background, the sea waves gently lap against the stone embankment, and the golden sunset light flickers softly across their faces and the rippling water."
+  }
+ ]
+}

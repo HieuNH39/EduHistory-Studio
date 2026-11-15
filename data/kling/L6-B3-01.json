@@ -1,0 +1,30 @@
+{
+ "ma": "L6-B3-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gently fans out five messy photographs of Nhật Minh across her hands, her eyes shifting downward to inspect them. Nhật Minh awkwardly scratches the back of his head with a bashful smile, then reaches out to carefully organize the photos into a neat stack. In the background, soft sunlight filters through classroom windows, causing dust motes to drift slowly. The camera performs a slow, steady push-in to focus on the students' expressive faces and the shuffling photos."
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands beside the table, her hand moving gracefully to point at the hand-drawn arrow connecting the photos. She turns her head slightly toward Nhật Minh, her lips moving naturally as she speaks. Nhật Minh nods in agreement, his expression attentive. Soft, ambient light flickers across the table surface. The camera performs a slow, gentle push-in toward the sequence of photos, capturing the subtle movement of Hân Hân’s arm and the lively, academic atmosphere of the classroom."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, vertical pan from top to bottom, showcasing the three ancient timekeeping devices. In the top frame, fine sand flows steadily through the hourglass. In the middle, water droplets rhythmically fall from the clepsydra into the basin, creating subtle ripples. At the bottom, the shadow cast by the gnomon on the sundial shifts slowly across the stone surface. The lighting remains consistent, emphasizing the passage of time through these fluid, mechanical movements."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh and Hân Hân hold their photo frames steadily, smiling warmly at the viewer. Nhật Minh turns his head slightly toward Hân Hân before looking back at the camera, his lips moving naturally as he speaks. He then raises his right hand in a welcoming gesture toward the audience. In the background, soft light shifts subtly, and the students’ shirts ripple slightly as if in a gentle breeze."
+  }
+ ]
+}

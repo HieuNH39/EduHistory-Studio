@@ -1,0 +1,78 @@
+{
+ "ma": "L7-B1-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the cardboard castle model. Hân Hân gestures enthusiastically toward the paper moat, her lips moving naturally as she speaks. Beside her, Nhật Minh nods in agreement, turning his head slightly to look at the model before smiling at Hân Hân. Soft afternoon sunlight shifts across the desk, while dust motes drift slowly in the golden light. The overall atmosphere remains bright, academic, and focused on their collaborative history project."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The nobleman gently pulls the reins, causing his horse to shift its weight and toss its head. He extends his arm to gesture toward the valley below, his lips moving as if delivering a speech. Behind him, the attendants sway slightly in their saddles, and the colorful flags flutter rhythmically in the breeze. The camera performs a slow, cinematic push-in toward the nobleman, capturing the gentle movement of the grass and distant trees swaying under a soft, shifting sky."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The noblemen on the left gesture gracefully, receiving scrolls and bowing slightly with subtle head turns. On the right, the freed slaves and peasants walk steadily toward the fields, their chains dangling as they move. Hân Hân and Nhật Minh stand in the foreground, speaking with natural lip movements and expressive hand gestures. A gentle breeze ripples the nobles' cloaks and the peasants' tunics. The camera performs a slow, smooth push-in toward the center, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the medieval landscape. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe the scene. Hân Hân gestures toward the castle with her hand, her lips moving naturally as she speaks, followed by Nhật Minh nodding in agreement while gesturing toward the serf huts. In the background, the water in the moat flows steadily, and thin wisps of smoke drift slowly from the chimneys of the village houses."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The peasants in rough fabric clothes guide their oxen forward, pulling wooden plows through the muddy soil with rhythmic movements. In the foreground, the overseer stands firmly, occasionally gesturing toward the fields while flipping through his ledger. In the background, the castle remains imposing as soft clouds drift slowly across the sky. The camera performs a slow, steady pan across the landscape, capturing the gentle sway of nearby tall grasses under a soft, natural breeze."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The lord sits regally, slowly turning his head to listen as Hân Hân and Nhật Minh stand nearby, their lips moving naturally as they narrate the scene. The lord gestures firmly toward the scales on the table. In the background, the messenger shifts his weight while holding the scroll. Dust motes drift through shafts of light, and the soldiers stand perfectly still. The camera performs a slow, steady push-in toward the lord to emphasize his authority."
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly through the village, gesturing toward the activities around them while speaking with natural lip movements. In the background, a villager rhythmically grinds grain, another fans a fire for baking, a weaver moves a loom, a blacksmith hammers glowing metal, and a farmer leads a water buffalo. Smoke drifts gently from a clay oven, and leaves sway in the breeze. The camera performs a slow, steady push-in toward the students."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The merchant gently pulls the mule’s lead, causing the animal to tilt its head and shift its weight. The merchant gestures toward the open saddlebags, revealing glistening salt, iron bars, and silk rolls. He speaks with natural lip movements while the castle manager nods in approval. Nearby, Nhật Minh gestures toward the scene. Soft dust motes drift in the sunlight, and the mule’s tail swishes slowly. The camera performs a slow, steady push-in toward the displayed goods."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The peasant family stands in a line, shifting their weight slightly as they hold heavy sacks of grain and baskets with chickens. The young couple in simple wedding attire glances at each other, the bride adjusting her headscarf. The tax collector gestures forward with a scroll, his lips moving as if speaking. In the background, dust motes drift in the sunlight, and a banner hangs limp. The camera performs a slow, gentle push-in toward the young couple."
+  },
+  {
+   "so": 13,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand at the castle courtyard edge, their orange polo shirts fluttering slightly in a gentle breeze. Han Han turns her head toward Nhat Minh, her lips moving naturally as she speaks, while Nhat Minh nods thoughtfully, his gaze shifting toward the peasants in the background. In the distance, a line of serfs moves slowly, carrying baskets. The camera executes a slow, steady push-in, focusing on the students' expressive faces against the historical backdrop."
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand beside a cardboard castle model. Han Han carefully places small paper serf figurines onto the miniature field, her hands moving with precision. Nhat Minh turns his head toward her, smiling and gesturing as he speaks with natural lip movements, while Han Han nods in agreement. In the background, soft sunlight filters through the classroom window, causing dust motes to drift gently. The camera performs a slow, smooth push-in toward the castle model."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand in front of the castle model, smiling warmly. Han Han gently raises her hand in a welcoming gesture toward the viewer, her lips moving naturally as she speaks. Nhat Minh nods slightly in agreement, his expression attentive. Behind them, soft sunlight filters through the scene, causing subtle dust motes to drift in the air. The camera performs a slow, smooth push-in, focusing on the students as they engage the audience."
+  }
+ ]
+}

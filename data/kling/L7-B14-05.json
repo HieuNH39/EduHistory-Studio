@@ -1,0 +1,42 @@
+{
+ "ma": "L7-B14-05",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other to converse with natural lip movements and expressive hand gestures. In the background, the majestic statue of Trần Quốc Tuấn remains perfectly still. A gentle breeze causes the nearby trees to sway softly, and light shadows shift across the ground. The camera performs a slow, smooth push-in toward the two students, maintaining a focus on their engaged expressions throughout the ten-second duration."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, majestic push-in toward the throne. King Trần sits regally, nodding slightly as he listens. General Trần Quốc Tuấn stands prominently in the foreground, gesturing with his hand while his lips move in a natural speaking rhythm. To the sides, the court officials bow their heads respectfully. In the background, sunlight filters through the palace windows, causing soft dust motes to dance in the air, while banners gently sway in a light breeze."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Mongol cavalry slowly trots through the deserted Thăng Long street, their horses’ manes swaying gently. In the foreground, Nhật Minh and Hân Hân stand observing the scene, turning their heads slightly to look at each other while speaking with natural lip movements and subtle hand gestures. Straw scatters across the dusty ground, and light fabric curtains flutter in the open doorways. The camera performs a slow, steady push-in, focusing on the students as the empty city unfolds behind them."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the two figures. King Tran Thai Tong sits with a troubled expression, shifting slightly and looking down at his hands. Standing beside him, Tran Thu Do maintains a resolute posture, placing his hand firmly over his chest as he speaks with natural lip movements. In the background, the river water ripples gently against the wooden boat, while soft sunlight flickers across the scene, creating a calm, atmospheric movement."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the center of the scene. General O Ma Nhi, bound in ropes, struggles slightly and turns his head in defeat. In the background, remnants of enemy ships remain wedged against wooden stakes, with thin wisps of grey smoke drifting slowly upward into the air. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the captured general while speaking with synchronized, fluid lip movements."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand by the Bach Dang River at sunset. Nhat Minh gently raises his hand as if pointing toward the horizon, his lips moving naturally as he speaks. Han Han holds her notebook close to her chest, nodding slightly while listening. In the background, the river water ripples softly, and tall reeds sway in the gentle breeze. The camera performs a slow, cinematic push-in toward the two students, maintaining their warm, 2D animated aesthetic."
+  }
+ ]
+}

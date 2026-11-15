@@ -1,0 +1,24 @@
+{
+ "ma": "L7-B11-04",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân smiles warmly, raising her hand in a graceful sweeping gesture to introduce the historical site, her lips moving naturally as if speaking. Beside her, Nhật Minh turns his head slightly toward her, nodding in agreement with a friendly expression. In the background, sunlight filters through the ancient trees, causing soft leaves to sway gently in the breeze, while shadows shift subtly across the tiled roof of the gate."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the center of the courtyard. Lê Văn Thịnh steps forward with a graceful, measured gait, his traditional robes swaying slightly. He stops, bows deeply with hands clasped in a respectful gesture, and then looks up with a gentle smile. As he speaks, his lips move naturally in sync with his dialogue. In the background, other scholars stand perfectly still, while soft, golden sunlight filters through the ancient architecture, creating a serene atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân sit on the stone steps, gently turning their heads to look directly at the viewer with friendly smiles. Hân Hân gestures slightly with her hand as she speaks with natural lip movements, while Nhật Minh nods in agreement, occasionally glancing down at his notebook. In the background, soft sunlight filters through ancient tree leaves, creating a gentle sway. The camera performs a slow, subtle push-in, focusing on the students' expressive faces."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B16-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the Vĩnh Lăng stele, gently turning their heads to look at each other while speaking with natural lip movements and subtle hand gestures. Sunlight filters through the wooden pillars, creating dancing dust motes in the air. In the background, soft shadows shift slowly across the stone turtle. The camera performs a slow, smooth push-in toward the students, maintaining the 2D animated aesthetic while capturing their engaging, educational interaction."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lê Lợi stands at the center, slowly raising his right hand in a solemn oath, his head turning slightly to look at his comrades. The surrounding heroes mirror his gesture, their hands raised firmly. Torches flicker intensely, casting dancing shadows and swirling smoke against the dense forest backdrop. Hân Hân and Nhật Minh stand in the foreground, nodding in rhythmic agreement while their lips move naturally as if reciting the vow. A slow, gentle camera push-in emphasizes the gravity of the scene."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Lam Sơn soldiers in rustic brown tunics trudge slowly up the rugged mountain path, leaning on each other for support while gripping their spears. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to observe the scene as they speak with natural lip movements. Thick, ethereal mist drifts slowly between the trees. In the distant valley, enemy banners flutter gently in the breeze. The camera performs a slow, steady push-in toward the retreating soldiers."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lê Lai gallops his horse forward through the dense forest, his royal robe fluttering in the wind. In the background, Lê Lợi and his soldiers move stealthily into a narrow, shadowed trail. Hân Hân and Nhật Minh stand in the foreground, gesturing toward the scene with serious, attentive expressions as they speak with natural lip movements. Leaves drift slowly from the trees, and the camera performs a slow, cinematic push-in toward the departing figures."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward Lê Lợi. Beside the flickering campfire, the soldiers shift slightly, pulling their thin cloaks tighter against the cold. Wisps of smoke drift upward into the dark, misty forest air. Lê Lợi stands tall, his hand resting firmly on the war elephant’s flank; he turns his head slowly to look at the soldiers, his lips moving as he speaks with a resolute expression, while the elephant softly sways its trunk."
+  },
+  {
+   "so": 8,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Nhật Minh and Hân Hân sit under the tree, their heads turning slightly to observe the soldiers with empathetic expressions. Hân Hân speaks with natural lip movements, gesturing softly toward the camp. In the background, soldiers move rhythmically, sharing rice balls and wrapping themselves in a thin blanket. Wisps of campfire smoke drift slowly upward, while leaves on the tree branches sway gently in the forest breeze."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Nguyễn Trãi sits at a wooden desk, his hand moving rhythmically as he writes with a brush on parchment. The candle flame flickers, casting soft, dancing shadows against the tent walls. Outside, gentle wind causes the tent fabric to sway slightly. Hân Hân and Nhật Minh stand to the side, nodding rhythmically as they speak with natural lip movements and subtle hand gestures. The camera performs a slow, cinematic push-in toward Nguyễn Trãi’s focused expression, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Inside the tent, Lê Lợi and Nguyễn Trãi lean over the map, gesturing thoughtfully as they discuss strategy with subtle, natural lip movements. Hân Hân and Nhật Minh stand nearby, nodding attentively. Outside, a messenger mounts a horse and gallops away, his cloak fluttering in the wind. Soft smoke drifts from a distant campfire, and nearby banners wave gently. The camera performs a slow, steady push-in toward the map, capturing the focused expressions of the historical figures."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han stand beside the Vĩnh Lăng stele at Lam Kinh, maintaining their positions. Han Han turns her head slightly toward the camera, her lips moving naturally as if speaking to the audience. She raises her hand in a welcoming gesture, inviting viewers to comment. In the background, sunlight filters through the trees, causing gentle shadows to shift on the stone, while a slow camera push-in focuses on the students."
+  }
+ ]
+}

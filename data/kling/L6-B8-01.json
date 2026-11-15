@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B8-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân sit on the sofa, gently turning their heads toward each other while engaging in a natural conversation with subtle lip movements and expressive hand gestures. On the television screen, the distant crowd moves rhythmically as they wade into the flowing river, while soft sunlight ripples across the water’s surface. The camera performs a slow, smooth push-in toward the two students, capturing their attentive expressions as they watch the historical scene unfold before them."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, cinematic push-in toward the triangular Indian peninsula. In the foreground, Nhật Minh stands on a coastal cliff, gesturing toward the horizon with his right hand while his lips move naturally as if narrating. Below, ancient wooden sailboats glide smoothly across the deep blue ocean, their sails fluttering gently in the sea breeze. The waves ripple rhythmically against the rocky shoreline, and a soft, warm sunlight glimmers across the vast, moving water surface."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the majestic Himalayan peaks. In the foreground, Nhật Minh and Hân Hân stand side-by-side, gently turning their heads toward each other to converse with natural lip movements and subtle hand gestures. Below them, the two great rivers flow steadily through the lush alluvial plains. Soft clouds drift slowly across the mountain slopes, while the gentle breeze causes the students' orange polo shirts to ripple slightly, maintaining a peaceful, educational atmosphere."
+  },
+  {
+   "so": 6,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow push-in toward the students. Hân Hân and Nhật Minh turn their heads slightly to observe the river, their lips moving naturally as they speak to each other. In the background, ancient residents rhythmically carry water buckets on shoulder poles from the riverbank up the slope. Dust particles drift in the harsh sunlight, while heat haze shimmers over the distant, arid sand dunes. The river water flows gently, reflecting the bright, intense sun."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Dark, heavy rain clouds drift slowly across the sky as a steady downpour descends over the lush green fields and dense forest. The ancient villagers walk along the muddy field paths, occasionally adjusting the large banana leaves held over their heads for shelter. In the foreground, Nhật Minh turns his head slightly toward the camera and speaks with natural lip movements. A gentle slow push-in camera move captures the immersive atmosphere of the rain-swept landscape."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other while speaking with natural lip movements and expressive hand gestures. In the background, the lush jungle canopy sways gently in the breeze, while smoke drifts slowly from small village huts near the coast. On the sparkling water, several fishing boats bob rhythmically with the tide. The camera performs a slow, steady push-in toward the students, keeping the historical landscape in soft focus."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Persian merchant gently tugs the camel’s lead as it slowly chews, while the local villager points toward the flowing river with a steady hand. Both characters turn their heads to face each other, engaging in natural lip-synced speech as they exchange names. In the background, the river water ripples softly and palm leaves sway in a light breeze. The camera performs a slow, cinematic push-in, focusing on the cultural exchange between the two figures."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk into the living room, their movements fluid and natural. Nhat Minh turns his head toward the camera, his lips moving in sync with a friendly greeting, while he raises his hand in a welcoming gesture toward the viewer. Han Han stands beside him, smiling gently with a slight nod. A slow push-in camera move focuses on them, while soft light shifts subtly across the room, maintaining the warm 2D animated aesthetic."
+  }
+ ]
+}

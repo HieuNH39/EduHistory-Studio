@@ -1,0 +1,60 @@
+{
+ "ma": "L7-B1-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han sit at a library table, both wearing orange polo shirts. Nhat Minh holds a tablet, his fingers gently tapping the screen as he gestures toward the image of the emperor. Han Han leans in, nodding with natural lip movements as if speaking. In the background, sunlight filters through window blinds, casting soft, shifting shadows. The camera performs a slow, steady push-in toward the tablet screen, keeping the students in sharp, lively focus throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the desolate Roman estate. In the foreground, Hân Hân and Nhật Minh stand side-by-side, gesturing naturally toward the ruins while speaking with synchronized lip movements. In the distance, a group of slaves rhythmically raise their rusted farming tools toward the sky. Wisps of gray smoke drift slowly upward from behind the fallen stone columns, while dry, withered grass in the foreground sways gently in a light, melancholic breeze."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Germanic leader stands in the foreground, gesturing forward with his axe while shouting commands with natural lip movements. Behind him, the warriors wade steadily through the flowing river, their fur capes swaying as they grip wooden shields. In the background, pine trees gently sway in the wind. Hân Hân and Nhật Minh stand on the side, turning their heads to observe the scene. The camera performs a slow push-in toward the leader, capturing the epic atmosphere."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward each other while speaking with natural lip movements and subtle hand gestures. In the background, Germanic warriors stand still, holding their tribal flags which ripple gently in the evening wind. Wisps of grey smoke drift slowly across the ruins, and dust motes dance in the dim light. The camera performs a slow, steady push-in toward the students, keeping the atmospheric, painterly 2D animation style consistent throughout."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The four Germanic kings stand still as their tribal flags wave gently in the breeze. Hân Hân and Nhật Minh, positioned in the foreground, turn their heads toward each other and engage in a natural conversation with fluid lip movements and subtle hand gestures. In the background, wisps of dust drift slowly among the crumbling Roman stone pillars. The camera performs a slow, steady push-in, focusing on the students as they narrate the historical scene with expressive, engaging facial animations."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Charlemagne sits regally atop a white horse, his long beard and heavy cloak swaying gently in the wind as the horse trots forward across the vast, grassy meadow. Behind him, a line of knights on horseback follows in rhythmic motion. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly to look at the scene while gesturing naturally. The camera performs a slow, cinematic push-in toward Charlemagne, capturing the majestic atmosphere of the historical procession."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand in the foreground, turning their heads slightly to observe the scene while gesturing toward the fields with natural, expressive hand movements. Hân Hân speaks with realistic lip synchronization. In the background, Germanic and Roman nobles exchange land scrolls, while peasants plow the soil rhythmically. Gentle wind ripples the tall grass and stirs nearby trees. The camera performs a slow, smooth push-in toward the characters, maintaining the 2D animated aesthetic throughout the ten-second sequence."
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The three princes stand around the stone table, their expressions shifting from tension to contemplation as they gesture toward the ink-stained map. Hân Hân and Nhật Minh, standing in the foreground, turn their heads slightly toward each other, their lips moving in natural synchrony as they narrate. Soft sunlight filters through overhead trees, causing leaves to sway gently. The camera performs a slow, steady push-in toward the center of the map, emphasizing the divide as the ink stain subtly glimmers."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gently points her finger at the tablet screen displaying the statue, then turns her head to look directly at the viewer with a friendly, inviting smile. She raises her hand in a welcoming gesture, her lips moving naturally as if speaking to the audience. Meanwhile, Nhật Minh nods slightly in agreement beside her. The camera performs a subtle, slow push-in toward the tablet, capturing the students in the quiet, sunlit library environment."
+  }
+ ]
+}

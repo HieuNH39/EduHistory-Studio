@@ -25,7 +25,9 @@ def generate(parts, model="gemini-3.5-flash", temperature=0.1, json_mode=False, 
             txt = "".join(p.get("text","") for p in c["content"]["parts"] if not p.get("thought"))
             return txt, d.get("usageMetadata",{})
         except urllib.error.HTTPError as e:
-            msg = e.read().decode()[:400]
+            full = e.read().decode(); msg = full[:400]
+            if e.code == 429 and "PerDay" in full:
+                raise RuntimeError(f"quota_day {model}: hết lượt trong ngày")
             if e.code in (429,500,503):
                 wait = min(60, 8*(i+1)); print(f"[gemini] {e.code} retry in {wait}s: {msg[:120]}", flush=True); time.sleep(wait); continue
             raise RuntimeError(f"{e.code} {msg}")

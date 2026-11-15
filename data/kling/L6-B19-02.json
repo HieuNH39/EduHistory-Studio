@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B19-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân stands in the center, gently gesturing toward a sandstone statue while speaking with natural lip movements. Nhật Minh stands beside her, nodding attentively and turning his head to follow her explanation. In the background, soft light filters through the hall, causing subtle dust motes to drift in the air. The camera performs a slow, smooth push-in toward the students, capturing their engaged expressions as Hân Hân lightly taps her notebook to emphasize a point."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Khu Lien stands at the forefront, firmly gripping his spear and raising it high with a determined expression. Behind him, a group of villagers marches forward with rhythmic, resolute steps. In the background, sea waves gently lap against the sandy shore while coastal grass sways in the wind. A slow push-in camera move captures the intensity of the uprising. Meanwhile, in the bottom corner, Hân Hân and Nhật Minh turn their heads slightly, speaking with natural, synchronized lip movements."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In this 2D animated scene, Hân Hân and Nhật Minh stand in the foreground, turning their heads toward each other and speaking with natural lip movements as if narrating. In the background, a Sa Huỳnh artisan rhythmically hammers a glowing iron tool on an anvil, while another gently shapes a large ceramic jar. Nearby, the sea waves lap softly against the sandy shore where fishing boats sway. The camera performs a slow, gentle push-in toward the students."
+  },
+  {
+   "so": 5,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand on the riverbank, gently turning their heads to gaze across the water. Han Han gestures toward the distant red brick towers of Sinhapura, her lips moving naturally as she speaks. In the background, wooden merchant boats glide smoothly along the Thu Bon River, while smoke drifts slowly from the city chimneys. The camera performs a slow, cinematic push-in toward the ancient citadel, capturing the serene atmosphere of the bustling Champa landscape."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, cinematic push-in toward the coastal landscape. In the foreground, Hân Hân and Nhật Minh turn their heads slightly to look at the horizon, their lips moving naturally as if narrating. Behind them, the Champa procession moves steadily; the elephants walk with rhythmic strides, and the boats glide across the gentle, shimmering blue waves. Flags on the ships flutter in a soft breeze, while smoke from the distant construction site drifts slowly into the clear sky."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the majestic brick walls and towering spires of Indrapura. In the foreground, Hân Hân and Nhật Minh stand naturally, turning their heads slightly to gesture toward the bustling temple complex. They speak with fluid, realistic lip movements as if narrating history. In the background, villagers in traditional Champa attire walk gracefully across the courtyard, while soft sunlight filters through the scene and light dust motes drift gently in the warm air."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand in the museum hall, their orange polo shirts vibrant against the stone backdrop. Han Han holds up her notebook, pointing proudly at the connected dots as her lips move in natural speech. Nhat Minh turns his head slightly toward her with a warm smile, then both characters shift their gaze to look directly at the viewer. Dust motes drift slowly in the soft light, and the camera performs a gentle, slow push-in toward the students."
+  }
+ ]
+}

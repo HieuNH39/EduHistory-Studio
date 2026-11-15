@@ -1,0 +1,36 @@
+{
+ "ma": "L6-B1-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Nhật Minh and Hân Hân stand on the stone steps, turning their heads slightly toward each other with friendly smiles as they engage in a natural conversation with subtle, synchronized lip movements. Above them, the red flag with a yellow star gently ripples in the breeze. Sunlight filters through the lush green canopy, creating soft, shifting light patterns on the mossy temple roof and the students' orange uniforms."
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the two students. Nhật Minh stands tall, placing his hand over his heart with a proud expression while his lips move as if speaking. Beside him, Hân Hân gazes thoughtfully toward the horizon, occasionally blinking and shifting her posture slightly. In the background, the lush green hills and vast fields sway gently in a soft breeze, while wispy clouds drift slowly across the bright, clear sky, maintaining the serene 2D animated aesthetic."
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently turns the pages of the textbook, her lips moving as she speaks while pointing at the italicized verses. Nhật Minh leans in slightly, nodding in agreement with a warm smile, his eyes tracking her finger. Above them, the ancient tree’s leaves sway rhythmically in a soft breeze. Sunlight filters through the branches, creating flickering shadows on their orange shirts. The camera performs a slow, steady push-in toward the open book to emphasize the historical text."
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly along the stone path, turning their heads toward each other to converse with natural lip movements and gentle hand gestures. Behind them, a group of students follows at a steady pace. Sunlight filters through the trees, causing leaves to sway softly in the breeze. The camera performs a slow, smooth push-in toward the two main students, keeping the historical temple architecture in the background as the group moves forward."
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand steadily in front of the Hung Temple gate. Nhật Minh turns his head slightly toward the camera, raises his hand in a welcoming gesture, and speaks with natural, synchronized lip movements. Hân Hân smiles warmly while looking toward the viewer. In the background, lush green leaves on the trees sway gently in the breeze. The camera performs a slow, smooth push-in toward the two students to emphasize their invitation."
+  }
+ ]
+}

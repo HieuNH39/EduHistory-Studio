@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B5-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand before the cave painting, their expressions curious. Han Han gestures toward the red-brown hunting scene, her lips moving naturally as she speaks. Nhat Minh turns his head to listen, nodding in agreement while occasionally pointing at the bow-wielding figures. In the background, soft light flickers across the textured wall, mimicking ancient shadows. The camera performs a slow, gentle push-in toward the students, keeping their focused faces and the vivid cave art in sharp, steady frame."
+  },
+  {
+   "so": 3,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand in the shadows, their heads turning slightly to watch the scene with wide-eyed amazement. In the center, a prehistoric man rhythmically rotates a wooden stick against a base, causing thin wisps of smoke to drift upward until a bright spark ignites. The other cave dwellers gesture excitedly and jump with joy. Hân Hân and Nhật Minh move their lips as if whispering in awe. The camera performs a slow, gentle push-in."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The primitive man stands near the cave entrance, slowly drawing his bowstring taut before releasing an arrow toward the distance. Beside him, the second man sits cross-legged, rhythmically threading small shells and animal teeth onto a cord with focused hand movements. Nearby, lush jungle leaves sway gently in a soft breeze, and dust motes drift through shafts of sunlight. The camera performs a slow, cinematic push-in toward the two men, capturing their steady, purposeful actions in the prehistoric setting."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the cave wall. Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the wall while their lips move in sync with their narration. In the background, a person rhythmically paints a hunting scene on the stone with a steady hand. Nearby, the leader points toward the cave entrance, while men check their spears and women softly tend to children, all illuminated by the flickering, dancing glow of a warm fire."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the valley settlement. In the foreground, Hân Hân and Nhật Minh stand together, turning their heads slightly toward each other while speaking with natural lip movements. Nearby, a woman rhythmically shapes clay pottery, while another person carefully weaves bark fibers. In the background, a farmer stoops to tend to small rice sprouts, and livestock move slowly within a rustic branch enclosure. Soft smoke drifts from a small kiln, and leaves sway gently in the breeze."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The young woman in the foreground gently shapes the clay figurine with rhythmic, precise hand movements, her head tilting slightly as she focuses. In the background, Hân Hân and Nhật Minh stand with respectful posture, their lips moving naturally as they narrate. Soft smoke drifts upward from a small hearth near the stone altar, while the surrounding jungle leaves sway gently in a light breeze. The camera performs a slow, smooth push-in toward the woman’s hands, maintaining a serene, historical atmosphere."
+  },
+  {
+   "so": 10,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the limestone cliff, gently turning their heads to look at each other while speaking with natural lip movements and subtle hand gestures. Below, a prehistoric villager rhythmically rubs a stone axe against a flat rock. Nearby, smoke curls slowly from a small fire, and a few goats graze near the vegetable patch. The camera performs a slow, smooth push-in toward the village, while the surrounding lush green foliage sways gently in the breeze."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand before the cave wall painting, turning their heads to face the viewer with warm, inviting smiles. Hân Hân nods slightly as she speaks with natural lip movements, while Nhật Minh gestures with his right hand toward the artwork, offering an open invitation to discuss. In the background, soft dust motes drift slowly in the museum light. The camera performs a gentle, slow push-in toward the two students, maintaining a steady, professional focus throughout."
+  }
+ ]
+}

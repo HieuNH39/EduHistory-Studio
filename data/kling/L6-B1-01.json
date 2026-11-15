@@ -1,0 +1,18 @@
+{
+ "ma": "L6-B1-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh types rhythmically on his laptop, his fingers moving across the keys while he glances occasionally at the screen. Han Han leans gently over his shoulder, her expression shifting into a soft, mysterious smile as she whispers into his ear. Her lips move naturally in sync with her speech. The camera performs a slow, subtle push-in toward their faces, while soft sunlight filters through the classroom window, causing dust motes to dance slowly in the background."
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand still, smiling warmly at the camera. Han Han gracefully raises her hand in a welcoming gesture, her lips moving naturally as she speaks to the audience. Beside her, Nhat Minh nods slightly in agreement, his expression attentive. A gentle, slow push-in camera move brings the focus closer to the students. Soft light flickers across the laptop screen, while the background remains steady, maintaining the clean, vibrant 2D animated style throughout the ten-second clip."
+  }
+ ]
+}

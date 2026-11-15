@@ -1,0 +1,72 @@
+{
+ "ma": "L6-B6-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân lean slightly closer to the glass display case, their eyes moving across the ancient bronze artifacts. Hân Hân gestures toward a spearhead with her hand while speaking with natural lip movements, and Nhật Minh nods in agreement, turning his head to look at her. In the background, soft golden light glimmers on the metallic surfaces. The camera performs a slow, steady push-in toward the artifacts, capturing the students' focused expressions and subtle, lifelike interactions."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand in the foreground, gesturing naturally toward the fire pit while their lips move in sync with a rhythmic explanation. Beside them, a primitive person slowly kneels, carefully picking up glowing, molten metal lumps from the cooling ash. Other primitive figures lean in with curious expressions, heads turning slightly to observe. Wisps of grey smoke drift upward from the embers, while the camera performs a slow, gentle push-in toward the glowing metal."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân crouch behind the bushes, gently shifting their weight and turning their heads to observe the village below. Hân Hân whispers with natural lip movements, gesturing toward the scene, while Nhật Minh nods in agreement. Below, men in loincloths move slowly around the clay stove, handling bronze fragments. Smoke drifts lazily from the fire, and tall grass sways in the breeze. The camera performs a slow, steady push-in toward the prehistoric village."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The artisan rhythmically taps a bronze chisel into wood, while the arrow-maker steadily grinds a bronze tip against stone, creating fine dust. The child gently turns a bronze fishhook in their hands, looking up with curiosity. In the background, sunlight filters through the stilt house, causing soft, golden dust motes to drift in the air. The camera performs a slow, gentle push-in toward the bronze tools on the mat as the characters move with natural, fluid historical grace."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle pan across the prehistoric coastline. In the foreground, Hân Hân and Nhật Minh stand on the sand, gesturing toward the sea while their lips move naturally as they narrate. Nearby, a villager fluidly throws a bronze spear into the shallow, rippling water, while another carefully secures a bronze hook to a cord. In the background, a wooden dugout canoe rests on the shore as gentle waves lap against the sand."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the bamboo mat. Hân Hân and Nhật Minh stand in the foreground, turning their heads slightly toward the artifacts while their lips move in natural conversation. On the mat, the man carefully lifts the bronze axe, turning it to inspect the blade under the sunlight. In the background, the wooden stilts of the house sway slightly, leaves drift in the breeze, and smoke curls softly from a distant hearth."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The scene begins with a slow push-in toward the riverbank. The man on the wooden boat gently shifts his weight, balancing as he holds his barbed spear steady, while the water ripples softly against the hull. Nearby, the villager rhythmically swings his bronze axe into a tree trunk, causing leaves to flutter. In the background, smoke drifts slowly from a distant hearth, and the grass sways in the breeze. Hân Hân and Nhật Minh gesture naturally while speaking with fluid lip movements."
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The man guides the wooden plow forward as the ox pulls steadily, its muscles tensing with each step. In the background, the women rhythmically swing their sickles to harvest the golden rice stalks. Gentle wind ripples through the lush paddy field and distant trees. Nhật Minh and Hân Hân stand in the foreground, turning their heads slightly to gesture toward the field while speaking with natural lip movements. The camera performs a slow, smooth pan to the right."
+  },
+  {
+   "so": 12,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on the grassy hill, gently turning their heads to look at each other while speaking with natural lip movements and expressive hand gestures. Below, smoke drifts slowly from the stilt house chimneys, and small wooden boats glide steadily along the flowing river. In the distance, wind ripples through the lush rice paddies. The camera performs a slow, cinematic push-in toward the bustling ancient village, maintaining the vibrant 2D animated style throughout the scene."
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand on opposite sides of the glass display case, their expressions bright with excitement. Hân Hân gestures animatedly toward the artifacts while speaking with natural lip movements, then turns her head to look at Nhật Minh. Nhật Minh nods in agreement, smiling as he speaks back. In the background, soft light glimmers on the bronze artifacts. The camera performs a slow, gentle push-in toward the students to capture their enthusiastic conversation."
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand in the museum lobby, maintaining their 2D animated style. Han Han turns her head slightly toward Nhat Minh before gesturing with her right hand in a welcoming motion, her lips moving naturally as she speaks to the viewer. Nhat Minh smiles and nods gently in agreement. In the background, soft light shifts across the museum walls. The camera performs a slow, steady push-in toward the two students, keeping them centered throughout the ten-second clip."
+  }
+ ]
+}

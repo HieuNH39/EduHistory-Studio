@@ -1,0 +1,48 @@
+{
+ "ma": "L6-B16-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand in the temple courtyard, gently turning their heads toward each other to converse with natural lip movements and subtle hand gestures. In the background, wisps of incense smoke drift slowly upward from the bronze burner, while leaves on the ancient banyan tree sway softly in a light breeze. Devotees in the distance bow respectfully. The camera performs a slow, smooth push-in toward the two students, maintaining the warm, 2D animated aesthetic throughout."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The scene features a slow, steady push-in toward the central dais. Su Dinh sits stiffly, gesturing dismissively with one hand. Soldiers in the background rhythmically carry heavy sacks of grain, while the Lac lords stand with heads bowed, their expressions shifting to subtle, tense frustration. In the distance, villagers murmur with visible resentment. A gentle breeze causes banners to flutter slowly, and dust motes drift through the sunlight, maintaining the somber, historical atmosphere of the 2D illustration."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "At the riverbank, Trưng Trắc and Trưng Nhị stand tall, their capes and the large, blank flag fluttering gently in the morning breeze. Below, the ranks of soldiers shift slightly, their spears glinting as they stand in formation. Trưng Trắc turns her head to gaze across the water, her lips moving as she speaks with a determined expression. The camera performs a slow, cinematic push-in toward the sisters, capturing the mist rising from the flowing river."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân and Nhật Minh, wearing orange polo shirts, peek cautiously from behind swaying reeds, their heads turning slightly as they whisper to each other with natural lip movements. In the background, Hai Bà Trưng atop a majestic elephant leads the marching army, their colorful flags fluttering rhythmically in the wind. Dust rises in soft, stylized clouds near the riverbank as the procession moves steadily forward."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "Tô Định frantically sheds his official robes, his hands trembling as he steps onto a small wooden boat. He glances back toward the Luy Lâu citadel, where torches flicker intensely against the dark night sky. The boat gently rocks on the rippling water, drifting away from the shore. Smoke from distant fires drifts slowly across the horizon. The camera performs a slow, cinematic push-in toward Tô Định’s anxious face as he looks over his shoulder."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the two leaders. Trung Trac and Trung Nhi stand firm, their gazes fixed on the horizon as they subtly shift their weight and gesture toward the approaching army. Behind them, soldiers stand alert, their armor glinting in the sunset. Large banners wave rhythmically in the strong wind, while dust swirls near the base of the ramparts. Hân Hân and Nhật Minh speak with natural, synchronized lip movements, their expressions reflecting solemn determination."
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand in the temple courtyard, bathed in the soft golden light of late afternoon. Han Han smiles warmly, moving her lips naturally as she speaks, then gracefully raises her hand in a welcoming gesture toward the viewer. Nhat Minh stands beside her, nodding slightly with a friendly expression. In the background, tree leaves sway gently in the breeze. The camera performs a slow, steady push-in, focusing on the students as they engage the audience."
+  }
+ ]
+}

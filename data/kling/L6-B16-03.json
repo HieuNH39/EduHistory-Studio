@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B16-03",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the students. Hân Hân turns her head slightly to look at Nhật Minh, smiling and gesturing with her hand as she speaks with natural lip movement. Nhật Minh nods in agreement, his gaze shifting between Hân Hân and the pagoda. In the background, sunlight glimmers on the lake’s surface, leaves on the bodhi tree sway softly in the breeze, and the red pagoda remains steady under the bright morning sky."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the market gate. A colonial soldier meticulously pastes blurred tax notices onto the wooden pillars, his hands moving with rhythmic precision. Nearby, a tax official gestures sternly while seizing sacks of grain and fabric from local villagers. The villagers bow their heads, their faces tightening with subtle, simmering anger. In the background, dust motes drift through the air, and a nearby banner ripples gently in the breeze."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lý Bí stands firmly, gesturing forward with a resolute expression while his lips move as if delivering a rallying speech. Beside him, Hân Hân and Nhật Minh nod in agreement, their lips moving naturally in conversation. In the background, the crowd of men holding spears shifts slightly, and the plain flags wave rhythmically in the morning breeze. Wisps of mist drift across the ground. The camera performs a slow, steady push-in toward Lý Bí to emphasize his leadership."
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Lý Bí stands regally, slowly turning his head to address the court with natural, rhythmic lip movements as he gestures with his hands. The courtiers bow slightly in unison, their silk robes shifting subtly. Outside, the crowd cheers with gentle waving motions, while banners flutter in a soft breeze. Sunlight filters through the wooden pillars, casting flickering shadows. The camera performs a slow, steady push-in toward Lý Bí, capturing the dignified atmosphere of the historic proclamation."
+  },
+  {
+   "so": 7,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand by the riverbank, gently turning their heads to observe the construction site while speaking with natural lip movements and subtle hand gestures. In the background, workers move rhythmically to assemble the wooden temple structure. Boats glide smoothly across the flowing river, and light smoke drifts from a nearby hearth. The camera performs a slow, cinematic push-in toward the temple, capturing the vibrant atmosphere of the ancient riverside scene."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "In the vast Dạ Trạch swamp, Triệu Quang Phục’s soldiers rhythmically row their small wooden boats through swaying reeds that brush against the hulls. In the foreground, Nhật Minh and Hân Hân stand on a boat, turning their heads to observe the distant, hazy outline of the Liang army camp. They engage in a natural conversation with subtle lip movements and expressive hand gestures. A slow, gentle camera push-in captures the mist drifting over the water as the reeds sway in the breeze."
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Sui army marches steadily across the rugged mountain pass, their plain banners fluttering rhythmically in the cold, gloomy wind. Dust rises slightly from the rocky path as soldiers move in a synchronized, rhythmic gait. In the foreground, Nhật Minh turns his head slightly toward the camera, his lips moving naturally as he narrates the scene with a serious expression. The camera performs a slow, cinematic push-in, emphasizing the vast, somber landscape and the relentless advance of the troops."
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand in the temple courtyard as the golden afternoon light shifts across the ancient architecture. Nhat Minh turns his head toward the camera, his lips moving naturally as he speaks, then he raises his hand in a welcoming gesture to invite comments. Meanwhile, Han Han smiles gently, nodding in agreement. In the background, tree leaves sway softly in the breeze, and a slow, steady camera push-in focuses on the duo."
+  }
+ ]
+}

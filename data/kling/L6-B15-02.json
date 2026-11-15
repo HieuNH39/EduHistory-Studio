@@ -1,0 +1,54 @@
+{
+ "ma": "L6-B15-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân gently sprinkles salt into the bubbling pot, her lips moving naturally as she speaks to Nhật Minh. Beside her, Nhật Minh rhythmically chops fresh vegetables on a wooden board, glancing over at her with a friendly smile. Steam drifts softly upward from the pot, while the kitchen curtains sway slightly in a gentle breeze. The camera performs a slow, smooth push-in toward the two students, capturing their lively interaction and the warm, domestic atmosphere."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The Northern official on horseback slowly trots forward, pointing his hand authoritatively toward the fields while his horse shifts its weight. Nearby, the gaunt Au Lac farmer rhythmically pushes his plow through the soil, his head bowed in labor. The guards stand stoic, their spears swaying slightly in the breeze. Hân Hân and Nhật Minh appear in the foreground, turning their heads to look at the scene while speaking with natural lip movements. The camera performs a slow, cinematic push-in."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady pan across the courtyard. In the foreground, Hân Hân and Nhật Minh gesture naturally toward the scene while their lips move in synchronized speech. In the background, villagers walk forward to place bundles of grain and fabric on the ground. Soldiers rhythmically carry wooden crates and baskets toward a docked boat. Gentle river water ripples against the hull, while soft smoke drifts from nearby incense burners, maintaining the serene, historical animation style."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The portly official stands amidst the treasure chests, his face twisted in a greedy smirk as he rhythmically rubs his hands together. He turns his head slightly to the left, his lips moving as he speaks with a haughty expression. In the foreground, Hân Hân stands, nodding attentively while her lips move in conversation. The camera performs a slow, steady push-in toward the official, while golden dust motes drift gently through the shafts of light illuminating the precious ivory and pearls."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, steady pan across the coastal salt fields toward the iron forge. In the foreground, local villagers stand behind a wooden fence, their heads turning slightly as they watch the scene with somber expressions. Nearby, Nhật Minh stands and gestures toward the forge while his lips move naturally in speech. In the background, the blank flags flutter gently in the sea breeze, while smoke drifts slowly from the forge chimney and salt workers move rhythmically."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, steady push-in toward the village square. Han migrants move rhythmically, setting down wooden crates and bundles near newly erected structures. A local official glues a proclamation to the village hall pillar, his hand moving precisely. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to observe the scene with concerned expressions; their lips move naturally as they speak. Nearby, tree leaves sway gently in a soft breeze."
+  },
+  {
+   "so": 9,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han stand partially hidden behind swaying bamboo stalks, their orange polo shirts fluttering slightly in a gentle breeze. Han Han turns her head to whisper to Nhat Minh, her lips moving naturally as she speaks. Across the path, village children pause to exchange curious, wide-eyed glances. In the background, wisps of smoke drift slowly from rooftops while the camera performs a slow, steady push-in toward the students’ observant, thoughtful expressions."
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand in the kitchen, maintaining their 2D animated appearance. Nhật Minh turns his head slightly toward the camera, his lips moving naturally as he speaks, then he raises his hand in a welcoming gesture toward the viewer. Hân Hân smiles warmly while looking forward. Soft sunlight filters through the window, causing dust motes to drift slowly in the air. The camera performs a gentle, slow push-in, focusing on the students as they invite audience interaction."
+  }
+ ]
+}

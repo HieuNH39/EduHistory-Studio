@@ -1,0 +1,78 @@
+{
+ "ma": "L6-B10-02",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "Nhật Minh and Hân Hân stand by the teacher's desk, smiling as they drop folded paper ballots into the cardboard box. They turn to each other, their lips moving naturally as they share a brief, friendly conversation. Behind them, students in orange polo shirts wait patiently in a line, shifting slightly. Sunlight filters through the classroom window, causing dust motes to dance in the air. The camera performs a slow, gentle push-in toward the ballot box, maintaining the clean, 2D animated aesthetic."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the coastal landscape. In the foreground, Hân Hân and Nhật Minh stand on a cliffside, gesturing toward the horizon with natural arm movements while engaging in a lively conversation with subtle, synchronized lip movements. Below, white sails glide smoothly across the turquoise water, while gentle waves lap against the rocky shore. Wisps of smoke drift slowly from the walled city chimneys, and olive tree branches sway rhythmically in the soft coastal breeze."
+  },
+  {
+   "so": 4,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Nhat Minh and Han Han walk slowly along the stone street, glancing around with curious expressions. Han Han gestures toward the distant harbor while speaking with natural lip movements, and Nhat Minh nods in agreement, turning his head to observe the marble columns. In the background, citizens in white robes stroll past, and a gentle breeze causes the distant ships' sails to flutter. The camera performs a slow push-in, focusing on the students as they continue their exploration."
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "As the sun rises over the Parthenon, golden light washes over the white marble columns. In the foreground, Nhật Minh and Hân Hân stand side-by-side, gesturing naturally toward the bustling city below while engaging in a lively conversation with realistic lip movements. Below them, citizens walk through the square as a gentle breeze stirs the distant trees. The camera performs a slow, cinematic push-in toward the temple, capturing the serene morning atmosphere of ancient Athens."
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the stone podium. In the foreground, Hân Hân and Nhật Minh stand side-by-side, turning their heads slightly to look at the assembly while gesturing naturally with their hands as they speak with synchronized lip movements. In the background, the thousands of citizens seated on the hillside shift rhythmically, with many arms rising and falling in a steady, unified motion to cast their votes. Soft sunlight glints across the hillside."
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "Pericles stands on the stone podium, gesturing with his right hand as he speaks with natural lip movements. His expression is firm and authoritative. Below him, the citizens turn their heads slightly, listening intently with subtle nods. A gentle breeze causes the folds of Pericles' cloak and the citizens' tunics to sway softly. The camera performs a slow, steady push-in toward Pericles, capturing the focused atmosphere of the assembly while maintaining the 2D animated historical illustration style."
+  },
+  {
+   "so": 11,
+   "lop": "du_hanh",
+   "thoi_luong": 10,
+   "prompt": "Hân Hân and Nhật Minh stand at the edge of the square, gently turning their heads to observe the citizens. Hân Hân speaks with natural lip movements, gesturing toward the crowd, while Nhật Minh nods in agreement. In the background, citizens rhythmically move their hands to etch symbols onto pottery shards. Dust motes drift slowly through the air, and the crowd shifts slightly in place. The camera performs a slow, smooth push-in toward the students to emphasize their focused expressions."
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, gentle push-in toward the ceramic jar. In the foreground, Hân Hân and Nhật Minh lean forward, their hands carefully etching names onto pottery shards and shells before dropping them into the jar with rhythmic precision. Nearby, two villagers sit cross-legged, methodically counting and stacking the shards into neat piles. The characters speak with natural lip movements, their heads turning slightly to exchange glances. Soft dust motes drift through the warm, golden light."
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The man in the robe walks steadily away from the stone city gate, his luggage bag swaying slightly with each step. In the foreground, Nhật Minh stands still, turning his head to follow the man’s departure while his lips move naturally as he narrates. Citizens nearby lean forward, watching with somber expressions. Dust particles drift slowly across the dirt path, and the distant hills remain calm. The camera performs a slow, gentle push-in toward the departing traveler."
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The Roman soldiers march in rhythmic unison, their rectangular red shields swaying slightly as they pass through the stone archway. Dust particles drift in the dim, gloomy evening light. On the sidelines, Hân Hân stands still, turning her head slightly to observe the procession while her lips move naturally as she speaks. The camera performs a slow, cinematic push-in toward the soldiers, capturing the rhythmic movement of their armor and the solemn atmosphere of the city."
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "thoi_luong": 10,
+   "prompt": "The teacher gently lifts the lid of the ballot box, while Nhật Minh and Hân Hân stand beside the chalkboard, their faces beaming with excitement. Hân Hân turns her head to speak to Nhật Minh with natural lip movements, and he nods in agreement, gesturing toward the tally marks on the board. In the background, sunlight filters through the classroom window, causing dust motes to dance in the air. The camera performs a slow, steady push-in toward the students."
+  },
+  {
+   "so": 19,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhật Minh and Hân Hân stand beside the ballot box in a bright classroom. Nhật Minh smiles and gestures toward the camera with his right hand as if inviting viewers to participate, his lips moving naturally as he speaks. Hân Hân nods gently, looking at the camera with a friendly expression. Sunlight filters through the window, causing dust motes to drift slowly in the air. The camera performs a slow, steady push-in to focus on the students."
+  }
+ ]
+}

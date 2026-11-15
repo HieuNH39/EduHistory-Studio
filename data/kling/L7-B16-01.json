@@ -1,0 +1,36 @@
+{
+ "ma": "L7-B16-01",
+ "negative": "text, subtitles, watermark, logo, extra fingers, distorted face, morphing, flicker, blood, gore, modern objects in historical scenes",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Hân Hân gently turns the large book page, her lips moving naturally as she speaks to Nhật Minh. Nhật Minh leans closer, his eyes tracking the text on the stone stele illustration. In the background, soft dust motes drift through a sunbeam filtering into the library. The camera performs a slow, subtle push-in toward the open book, maintaining the 2D animated style while capturing the students' focused expressions and the quiet, scholarly atmosphere of the scene."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, somber push-in toward the villagers. In the foreground, Nhật Minh stands with a serious expression, his lips moving naturally as he narrates. Beside him, the gaunt villagers slowly bow their heads in submission while Ming soldiers gesture aggressively, forcing them to carry heavy bundles. In the background, thin wisps of grey smoke drift lazily upward from the smoldering remains of a distant camp, while dry leaves gently tumble across the dusty village path."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "thoi_luong": 5,
+   "prompt": "The camera performs a slow, gentle push-in toward the stilt house. Inside, Lê Lợi sits by a flickering oil lamp, his head turning slightly as he reads a scroll. Hân Hân stands in the foreground, gesturing naturally with her hands while her lips move in sync with her speech. Outside, the Chu River flows steadily, and soft smoke drifts from the house’s hearth, while lush green leaves on the Lam Son hills sway rhythmically in a light breeze."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "thoi_luong": 10,
+   "prompt": "The camera performs a slow, cinematic push-in toward the group. Lê Lợi stands at the center, gesturing firmly with his hand as he speaks with natural lip movement. Beside him, Nhật Minh nods in agreement, his expression focused. The campfire crackles, casting flickering, warm light across their determined faces. In the background, shadows dance against the dark forest trees, and thin wisps of smoke drift slowly upward into the cool night air, maintaining the 2D animated aesthetic throughout."
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "thoi_luong": 5,
+   "prompt": "Nhat Minh and Han Han gracefully close their open books on the wooden desk. They both turn their heads to look directly at the viewer with friendly expressions. Han Han raises her index finger to her chin in a thoughtful gesture while her lips move naturally as if speaking to the audience. In the background, soft sunlight filters through leaves, creating gentle light flickers. The camera performs a slow, smooth push-in toward the students to emphasize their engagement."
+  }
+ ]
+}
