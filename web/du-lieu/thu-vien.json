@@ -1,6 +1,6 @@
 {
  "nguon": "Sinh tự động bởi web/_cong-cu/tao_thu_vien.py từ data/catalog, data/scripts, video đã dựng, web/mo-phong, web/du-lieu/lien-ket.json",
- "cap_nhat": "16/11/2026",
+ "cap_nhat": "17/11/2026",
  "bai": [
   {
    "id": "L6-B1",
@@ -1897,15 +1897,20 @@
    "ten_tap_en": "Pyramids and the Inventions of Egypt and Mesopotamia",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     32,
     33
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 170.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L6-B7-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B7-04.jpg",
    "trang": "tap/L6-B7-04.html",
    "mo_phong": "mo-phong/L6-B7-04.html",
    "so_cau_hoi": 4
@@ -3225,15 +3230,20 @@
    "ten_tap_en": "Medieval Towns: The Brightest Flowers",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     12,
     13
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 198.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B1-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B1-04.jpg",
    "trang": "tap/L7-B1-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3393,17 +3403,22 @@
    "ten_tap_en": "Geniuses of the Renaissance",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     18,
     19,
     20,
     21
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 230.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B3-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B3-02.jpg",
    "trang": "tap/L7-B3-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3488,16 +3503,21 @@
    "ten_tap_en": "The Tang Dynasty: A Feudal Golden Age",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     25,
     26,
     27
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 200.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B4-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B4-02.jpg",
    "trang": "tap/L7-B4-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3622,16 +3642,21 @@
    "ten_tap_en": "The Delhi Sultanate: Blending and Conflict",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     30,
     31,
     32
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 165.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B5-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B5-03.jpg",
    "trang": "tap/L7-B5-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3645,16 +3670,21 @@
    "ten_tap_en": "Akbar and the Height of the Mughal Empire",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     29,
     31,
     32
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 168.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B5-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B5-04.jpg",
    "trang": "tap/L7-B5-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3916,15 +3946,20 @@
    "ten_tap_en": "Power and Farming at Their Peak: The Angkor Era",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     42,
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 221.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B8-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B8-02.jpg",
    "trang": "tap/L7-B8-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4624,15 +4659,20 @@
    "ten_tap_en": "Hồ Quý Ly's Reforms: A Step Forward or Back?",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     74,
     75
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 219.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B15-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B15-02.jpg",
    "trang": "tap/L7-B15-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5383,15 +5423,20 @@
    "ten_tap_en": "14 July: The Fall of the Bastille",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     13,
     14
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 192.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B2-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B2-03.jpg",
    "trang": "tap/L8-B2-03.html",
    "mo_phong": "mo-phong/L8-B2-03.html",
    "so_cau_hoi": 4
@@ -5629,17 +5674,22 @@
    "ten_tap_en": "Flames of Resistance That Never Died",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     19,
     20,
     21,
     22
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 293.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B4-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B4-04.jpg",
    "trang": "tap/L8-B4-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5653,15 +5703,20 @@
    "ten_tap_en": "Mạc Đăng Dung and a New Dynasty",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     23,
     24
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 120.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B5-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B5-01.jpg",
    "trang": "tap/L8-B5-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5675,16 +5730,21 @@
    "ten_tap_en": "The Southern and Northern Courts War",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     23,
     24,
     25
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 257.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B5-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B5-02.jpg",
    "trang": "tap/L8-B5-02.html",
    "mo_phong": "mo-phong/L8-B5-02.html",
    "so_cau_hoi": 4
@@ -5698,7 +5758,7 @@
    "ten_tap_en": "The Trịnh – Nguyễn Conflict: Divided by the Gianh River",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     23,
     24,
@@ -5706,10 +5766,15 @@
     26,
     27
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 273.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B5-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B5-03.jpg",
    "trang": "tap/L8-B5-03.html",
    "mo_phong": "mo-phong/L8-B5-03.html",
    "so_cau_hoi": 4
@@ -5875,17 +5940,22 @@
    "ten_tap_en": "Famous Peasant Leaders of the 18th Century",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     31,
     32,
     33,
     34
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 264.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B7-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B7-02.jpg",
    "trang": "tap/L8-B7-02.html",
    "mo_phong": "mo-phong/L8-B7-02.html",
    "so_cau_hoi": 4
@@ -5969,15 +6039,20 @@
    "ten_tap_en": "Routing the Qing Army: Five Lightning Days",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     38,
     39
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 187.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B8-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B8-03.jpg",
    "trang": "tap/L8-B8-03.html",
    "mo_phong": "mo-phong/L8-B8-03.html",
    "so_cau_hoi": 4
@@ -6833,15 +6908,20 @@
    "ten_tap_en": "Asserting Sovereignty over the Islands",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     75,
     76
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 233.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B16-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B16-05.jpg",
    "trang": "tap/L8-B16-05.html",
    "mo_phong": "mo-phong/L8-B16-05.html",
    "so_cau_hoi": 4
@@ -6910,16 +6990,21 @@
    "ten_tap_en": "The Fall of Hà Nội: Two Wars of Resistance",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     80,
     81,
     82
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 290.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B17-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B17-03.jpg",
    "trang": "tap/L8-B17-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
