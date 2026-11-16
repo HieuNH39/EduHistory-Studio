@@ -392,7 +392,7 @@ def nha_may(W, H, n, fps):
         t = i / fps; u = i / max(n - 1, 1)
         surf, cr = _ctx(W, H)
         cr.set_source_rgb(.88, .93, .84); cr.paint()
-        _txt(cr, "NHÀ MÁY KHÔNG CÒN PHẢI BÁM BỜ SÔNG (minh hoạ)", W * .30, H * .08, 38 * s, (.95, .42, .11), align="l")
+        _txt(cr, "NHÀ MÁY KHÔNG CÒN PHẢI BÁM BỜ SÔNG (minh hoạ)", W * .27, H * .08, 31 * s, (.95, .42, .11), align="l")
         # sông bên trái
         cr.set_source_rgb(.55, .75, .9); cr.move_to(W * .08, 0); cr.curve_to(W * .2, H * .3, W * .05, H * .6, W * .16, H)
         cr.line_to(W * .26, H); cr.curve_to(W * .15, H * .6, W * .3, H * .3, W * .18, 0); cr.close_path(); cr.fill()
@@ -408,7 +408,7 @@ def nha_may(W, H, n, fps):
             for j, (x, y) in enumerate([(.55, .40), (.72, .55), (.86, .38), (.62, .72), (.84, .74)]):
                 kk = _ease((u - .35 - j * .06) / .15)
                 if kk > 0: factory(cr, W * x, H * y, kk, True, t)
-            _txt(cr, "Sau 1784: nhà máy dùng máy hơi nước, xây ở bất cứ nơi nào thuận lợi", W * .66, H * .88, 28 * s, (.12, .16, .24), alpha=k2)
+            _txt(cr, "Sau 1784: nhà máy dùng máy hơi nước, xây ở bất cứ nơi nào thuận lợi", W * .55, H * .17, 28 * s, (.12, .16, .24), alpha=k2)
         yield _arr(surf, W, H)
 
 def truc_cong_lich(W, H, n, fps, che_do="co_ban"):
