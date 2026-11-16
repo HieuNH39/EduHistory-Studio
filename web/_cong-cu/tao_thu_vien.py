@@ -762,7 +762,7 @@ def dong_tap(x, goc=""):
 
 
 # ---------------------------------------------------------------- trang chủ (thư viện)
-def trang_index(bai_ds, ds, cap_nhat):
+def trang_index(bai_ds, ds, cap_nhat, tt_ds=()):
     lop_ds = [6, 7, 8, 9]
     THOI_KY = {6: "Từ thời nguyên thuỷ đến thế kỉ X", 7: "Thời trung đại, đến thế kỉ XVI",
                8: "Thế kỉ XVI – đầu thế kỉ XX", 9: "Từ năm 1918 đến nay"}
@@ -839,6 +839,7 @@ def trang_index(bai_ds, ds, cap_nhat):
 </div>
 <div class="rong"><ul class="chon-lop" aria-label="Chọn lớp">{"".join(o_lop)}</ul></div>
 </section>
+{ke_chuyen_su(list(tt_ds))}
 {ke_video}
 <section class="thu-vien" id="thu-vien" aria-label="Danh sách bài học và tập video">
 <div class="rong">
@@ -1124,6 +1125,150 @@ def trang_gioi_thieu(ds, cap_nhat):
                  than, dang="gioi-thieu", lop_body="trang-gt", cap_nhat=cap_nhat)
 
 
+# ---------------------------------------------------------------- chuyện sử mở rộng (12 video dọc ~1 phút, bản đăng TikTok)
+TT_THU_MUC = os.path.join(ROOT, "data", "tiktok")
+TT_VIDEO = os.path.join(ROOT, "renders", "tiktok")
+
+
+def _bai_cua_tt(nguon, bai_ds):
+    """'Lịch sử và Địa lí 6' + 'Bài 14. …' -> (bài trong thư viện hoặc None, nhãn ngắn 'Lớp 6, Bài 14')."""
+    sach, bai = nguon.get("sach", ""), nguon.get("bai", "")
+    cac_lop = re.findall(r"\d", sach)
+    m = re.search(r"(Bài|Chủ đề chung)\s*(\d+)", bai)
+    b = None
+    if cac_lop and m:
+        bid = f"L{cac_lop[0]}-{'B' if m.group(1) == 'Bài' else 'CD'}{m.group(2)}"
+        b = next((x for x in bai_ds if x["id"] == bid), None)
+    if len(cac_lop) > 1:
+        nhan = "Lớp " + ", ".join(cac_lop)
+    elif cac_lop and b:
+        nhan = f"Lớp {cac_lop[0]}, {nhan_bai(b['ma'])}"
+    else:
+        nhan = "Lớp " + (cac_lop[0] if cac_lop else "")
+    return b, nhan
+
+
+def _bia_tt(ma, video_tep, kiem_tra):
+    """Ảnh bìa dọc 540×960 từ tranh cảnh mở đầu (không phụ đề); dự phòng 1 khung hình video."""
+    thu_muc = os.path.join(WEB, "du-lieu", "anh-bia"); dich = os.path.join(thu_muc, ma + ".jpg")
+    rel = f"du-lieu/anh-bia/{ma}.jpg"
+    if kiem_tra or os.path.exists(dich):
+        return rel if os.path.exists(dich) else None
+    from PIL import Image
+    nguon = os.path.join(ROOT, "assets", "episodes", ma, "canh-01.jpg")
+    try:
+        if not os.path.exists(nguon):
+            nguon = os.path.join(thu_muc, ma + ".khung.jpg")
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "4", "-i", video_tep, "-frames:v", "1", nguon], check=True, timeout=60)
+        im = Image.open(nguon).convert("RGB")
+        _cat_ti_le(im, 9 / 16, 0.5).resize((540, 960), Image.LANCZOS).save(dich, "JPEG", quality=84, optimize=True, progressive=True)
+        if nguon.endswith(".khung.jpg"):
+            os.remove(nguon)
+        return rel
+    except Exception as ex:
+        bao(f"Không tạo được ảnh bìa {ma}: {ex}")
+        return None
+
+
+def doc_chuyen_su(ch, bai_ds, kiem_tra):
+    lien_ket = (doc_json(LIEN_KET_TEP).get("tap", {}) if os.path.exists(LIEN_KET_TEP) else {})
+    ds = []
+    for p in sorted(glob.glob(os.path.join(TT_THU_MUC, "TT-*.json"))):
+        t = doc_json(p); ma = t["ma"]
+        nguon_v = os.path.join(TT_VIDEO, ma + ".mp4")
+        if not os.path.exists(nguon_v):
+            continue
+        tt = ffprobe(nguon_v)
+        if not tt:
+            bao(f"{ma}.mp4 chưa đọc được (có thể đang dựng) – bỏ qua lần này"); continue
+        tep = f"videos/{ma}.mp4"
+        if not kiem_tra:
+            os.makedirs(os.path.join(WEB, "videos"), exist_ok=True)
+            dua_video(nguon_v, os.path.join(WEB, tep), ch["cach_dua_video"])
+        bai, nhan = _bai_cua_tt(t.get("nguon", {}), bai_ds)
+        lk = lien_ket.get(ma, {})
+        ds.append({"ma": ma, "ten_tap": t["ten_tap"], "ten_tap_en": t.get("ten_tap_en", ""), "huong": "doc",
+                   "video": dict(tt, tep=tep), "anh_bia": _bia_tt(ma, nguon_v, kiem_tra),
+                   "youtube_id": None, "youtube": lk.get("youtube"), "tiktok": lk.get("tiktok"),
+                   "sach": t.get("nguon", {}).get("sach", ""), "bai_chu": t.get("nguon", {}).get("bai", ""),
+                   "bai": bai, "nhan": nhan, "nguon_mo_rong": t.get("nguon_mo_rong", []),
+                   "ghi_chu": t.get("ghi_chu_tai_hien", ""),
+                   "loi": [l for c in t.get("canh", []) for l in c.get("loi", []) if len(l) >= 2]})
+    return ds
+
+
+def the_chuyen_su(x, goc=""):
+    anh = (f'<img src="{goc}{e(x["anh_bia"])}" alt="" width="540" height="960" loading="lazy">' if x["anh_bia"]
+           else trong_dong("anh-thay"))
+    return (f'<li><a class="the-video doc" href="{goc}chuyen-su/{x["ma"]}.html"><span class="khung-anh">{anh}'
+            f'<span class="thoi-luong">{phut_giay(x["video"]["thoi_luong"])}</span><span class="nut-phat-nho" aria-hidden="true"></span></span>'
+            f'<span class="lop-bai">Mở rộng từ {e(x["nhan"])}</span>'
+            f'<span class="ten" title="{e(x["ten_tap"])}">{et(x["ten_tap"])}</span></a></li>')
+
+
+def ke_chuyen_su(tt_ds):
+    if not tt_ds:
+        return ""
+    return (f'<section class="ke-video ke-doc" id="chuyen-su" aria-labelledby="tieu-de-chuyen-su"><div class="rong">'
+            f'<div class="dau-muc"><h2 id="tieu-de-chuyen-su">Chuyện sử mở rộng</h2>'
+            f'<p>{len(tt_ds)} video dọc khoảng một phút, kể thêm những câu chuyện quanh bài học trong SGK. '
+            f'Mỗi video ghi rõ bài học gốc và nguồn để em tự kiểm chứng.</p></div>'
+            f'<ul class="luoi-doc" tabindex="0" aria-label="Danh sách chuyện sử, cuộn ngang để xem thêm">{"".join(the_chuyen_su(x) for x in tt_ds)}</ul></div></section>')
+
+
+def _ten_mien(u):
+    m = re.match(r"https?://(?:www\.)?([^/]+)", u)
+    return m.group(1) if m else u
+
+
+def trang_chuyen_su(x, truoc, sau, cap_nhat):
+    ma = x["ma"]
+    vi_tri = (f'<nav class="vet" aria-label="Vị trí"><ol><li><a href="../index.html">Thư viện</a></li>'
+              f'<li><a href="../index.html#chuyen-su">Chuyện sử mở rộng</a></li><li aria-current="page">{e(ma)}</li></ol></nav>')
+    the = ['<span class="the the-lop">Chuyện sử mở rộng</span>', '<span class="the">Video dọc</span>',
+           f'<span class="the">{phut_giay(x["video"]["thoi_luong"])}</span>']
+    quay = f'<a class="nut-quay-lai" href="../index.html#chuyen-su" data-quay-lai>{ICON["quay_lai"]}<span>Quay lại</span></a>'
+    dau = (f'<div class="dau-tap">{quay}{vi_tri}<p class="bai-cua-tap">Mở rộng từ {e(x["nhan"])}</p>'
+           f'<h1{lop_h1(x["ten_tap"])}>{et(x["ten_tap"])}</h1>'
+           + (f'<p class="ten-en" lang="en">{e(x["ten_tap_en"])}</p>' if x["ten_tap_en"] else "")
+           + f'<p class="cac-the">{"".join(the)}</p></div>')
+    lien_ket_ngoai = [f'<a href="{e(u)}" target="_blank" rel="noopener noreferrer">Xem trên {t}</a>'
+                      for u, t in ((x["tiktok"], "TikTok"), (x["youtube"], "YouTube")) if u]
+    ngoai = (f'<p class="lien-ket-ngoai">{"".join(lien_ket_ngoai)}<span>(mở trang web bên ngoài)</span></p>' if lien_ket_ngoai else "")
+    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x)}{thanh_hanh_dong(x)}'
+             f'<p class="ghi-chu-phu-de" id="ghi-chu-phu-de"><span class="bieu-tuong-cc" aria-hidden="true">CC</span>'
+             f'Phụ đề song ngữ gắn sẵn trong video: tiếng Việt ở dòng trên, tiếng Anh ở dòng dưới. Bản chữ đầy đủ ở mục “Lời kể”.</p>{ngoai}</section>')
+    b = x["bai"]
+    ben = (f'<section class="o-ben" aria-labelledby="h-sgk"><h2 id="h-sgk">Bài học gốc trong SGK</h2>'
+           f'<p><i>{e(x["sach"])}</i></p><p>{e(x["bai_chu"])}</p>'
+           + (f'<a class="nut-phu" href="../index.html#{e(b["id"])}">Xem các tập video của bài này</a>' if b else "")
+           + '</section>')
+    muc = []
+    if x["loi"]:
+        dong = "".join(f'<li><div class="cau-thoai"><p class="nguoi-noi">{e(l[0])}</p><p>{e(l[1])}</p>'
+                       + (f'<p class="en" lang="en">{e(l[2])}</p>' if len(l) > 2 and l[2] else "") + "</div></li>" for l in x["loi"])
+        muc.append(f'<section class="muc" aria-labelledby="h-loi"><h2 id="h-loi">Lời kể</h2>'
+                   f'<details class="loi-thoai" open><summary>Bản chữ song ngữ của video ({len(x["loi"])} câu)</summary>'
+                   f'<ol class="ds-thoai">{dong}</ol></details></section>')
+    if x["nguon_mo_rong"]:
+        li = "".join(f'<li><a href="{e(u)}" target="_blank" rel="noopener noreferrer">{e(_ten_mien(u))}</a></li>' for u in x["nguon_mo_rong"])
+        muc.append(f'<section class="muc" aria-labelledby="h-nguon-mr"><h2 id="h-nguon-mr">Nguồn kiểm chứng</h2>'
+                   f'<p class="phu-de-muc">Phần kể thêm ngoài SGK được đối chiếu với các bài viết sau (mở trang web bên ngoài).</p>'
+                   f'<ul class="ds-nguon">{li}</ul></section>')
+    nguon_dong = (f'<section class="nguon-tap" aria-label="Nguồn"><p><b>Nguồn:</b> {e(x["sach"])}, {e(x["bai_chu"])}; '
+                  f'các bài viết ở mục “Nguồn kiểm chứng”.</p>' + (f'<p>{e(x["ghi_chu"])}</p>' if x["ghi_chu"] else "") + "</section>")
+    trc = (f'<a class="tap-truoc" href="{truoc["ma"]}.html"><span>Chuyện trước</span>{et(truoc["ten_tap"])}</a>' if truoc else "<span></span>")
+    sau_ = (f'<a class="tap-sau" href="{sau["ma"]}.html"><span>Chuyện sau</span>{et(sau["ten_tap"])}</a>' if sau else "<span></span>")
+    than = (f'<article class="trang-tap" data-trang="tap" data-ma="{ma}">'
+            f'<section class="rap rap-doc" aria-label="Video và thông tin"><div class="rong">{dau}'
+            f'<div class="luoi-tap"><div class="vung-video">{video}</div><aside class="cot-ben" aria-label="Bài học gốc">{ben}</aside></div>'
+            f'</div></section><div class="rong"><div class="cot-chinh">{"".join(muc)}</div>'
+            f'{nguon_dong}<nav class="truoc-sau" aria-label="Chuyện khác">{trc}{sau_}</nav></div></article>')
+    mo_ta = f"Chuyện sử mở rộng từ {x['sach']}, {x['bai_chu']}: {x['ten_tap']}."
+    return khuon(f"{x['ten_tap']} – Chuyện sử mở rộng | EduHistory Studio", mo_ta, than, goc="../",
+                 lop_body="trang-tap-body", cap_nhat=cap_nhat)
+
+
 # ---------------------------------------------------------------- chạy
 def main():
     ap = argparse.ArgumentParser(description="Tạo lại Kho học liệu số (web/index.html, web/tap/*.html, web/du-lieu/thu-vien.json)")
@@ -1154,7 +1299,12 @@ def main():
         ma = os.path.basename(p)[:-5]
         if MA_TAP.match(ma) and ma not in con and not args.kiem_tra:
             os.remove(p)
-    ghi(os.path.join(WEB, "index.html"), trang_index(bai_ds, ds, cap_nhat), args.kiem_tra)
+    tt_ds = doc_chuyen_su(ch, bai_ds, args.kiem_tra)
+    for i, x in enumerate(tt_ds):
+        ghi(os.path.join(WEB, "chuyen-su", x["ma"] + ".html"),
+            trang_chuyen_su(x, tt_ds[i - 1] if i > 0 else None, tt_ds[i + 1] if i + 1 < len(tt_ds) else None, cap_nhat),
+            args.kiem_tra)
+    ghi(os.path.join(WEB, "index.html"), trang_index(bai_ds, ds, cap_nhat, tt_ds), args.kiem_tra)
     ghi(os.path.join(WEB, "gioi-thieu.html"), trang_gioi_thieu(ds, cap_nhat), args.kiem_tra)
     ghi(os.path.join(WEB, "du-lieu", "menu.js"), du_lieu_menu(bai_ds, doc_mo_phong_them()), args.kiem_tra)
     if not os.path.exists(LIEN_HE_TEP) and not args.kiem_tra:
@@ -1170,6 +1320,9 @@ def main():
                      trang=f"tap/{x['ma']}.html" if x["co_trang"] else None,
                      mo_phong=x["mo_phong"]["href"] if x["mo_phong"] else None,
                      so_cau_hoi=len(x["kb"]["cau_hoi"]) if x["kb"] else 0) for x in ds],
+        "chuyen_su": [{"ma": x["ma"], "ten": x["ten_tap"], "ten_en": x["ten_tap_en"], "trang": f"chuyen-su/{x['ma']}.html",
+                       "video": x["video"], "anh_bia": x["anh_bia"], "bai_goc": x["bai"]["id"] if x["bai"] else None,
+                       "sach": x["sach"], "bai": x["bai_chu"], "nguon_mo_rong": x["nguon_mo_rong"]} for x in tt_ds],
     }
     ghi(os.path.join(WEB, "du-lieu", "thu-vien.json"), json.dumps(du_lieu, ensure_ascii=False, indent=1) + "\n", args.kiem_tra)
 
@@ -1179,6 +1332,7 @@ def main():
     gt = sum(1 for x in ds if x["kb"] for q in x["kb"]["cau_hoi"] if tim_giai_thich(q, cau_ung_vien(x["kb"])))
     tong = sum(len(x["kb"]["cau_hoi"]) for x in ds if x["kb"])
     print(f"Câu hỏi: {tong} | có câu giải thích lấy từ kịch bản: {gt}")
+    print(f"Chuyện sử mở rộng (video dọc): {len(tt_ds)}")
     if args.kiem_tra:
         print("(chế độ kiểm tra: không ghi tệp)")
     if canh_bao:

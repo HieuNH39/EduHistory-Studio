@@ -3044,16 +3044,21 @@
    "ten_tap_en": "Champa: A Heritage That Stands the Test of Time",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     86,
     89,
     90
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 221.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L6-B19-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B19-04.jpg",
    "trang": "tap/L6-B19-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3143,15 +3148,20 @@
    "ten_tap_en": "The Fall of Rome and the Rise of the Germanic Peoples",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     9,
     10
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 150.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B1-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B1-01.jpg",
    "trang": "tap/L7-B1-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3165,15 +3175,20 @@
    "ten_tap_en": "Inside a Feudal Manor",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     10,
     11
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 206.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B1-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B1-02.jpg",
    "trang": "tap/L7-B1-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3253,16 +3268,21 @@
    "ten_tap_en": "The Voyages That Changed the World",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     14,
     15,
     16
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 243.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B2-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B2-02.jpg",
    "trang": "tap/L7-B2-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3298,15 +3318,20 @@
    "ten_tap_en": "When Sheep Ate Men: The Birth of Capitalism",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     16,
     17
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 155.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B2-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B2-04.jpg",
    "trang": "tap/L7-B2-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3571,14 +3596,19 @@
    "ten_tap_en": "The Golden Age of the Gupta Dynasty",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     30
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 149.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B5-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B5-02.jpg",
    "trang": "tap/L7-B5-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3810,16 +3840,21 @@
    "ten_tap_en": "Lan Xang: A Golden Age",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     39,
     40,
     41
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 160.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B7-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B7-02.jpg",
    "trang": "tap/L7-B7-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3854,15 +3889,20 @@
    "ten_tap_en": "From Chenla to Angkor",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     42,
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 137.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B8-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B8-01.jpg",
    "trang": "tap/L7-B8-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -3994,17 +4034,22 @@
    "ten_tap_en": "Đinh Bộ Lĩnh and the Reunification",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     44,
     45,
     46,
     47
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 225.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B9-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B9-03.jpg",
    "trang": "tap/L7-B9-03.html",
    "mo_phong": "mo-phong/L7-B9-03.html",
    "so_cau_hoi": 4
@@ -4142,14 +4187,19 @@
    "ten_tap_en": "The Lý State and 'Soldiers Among Farmers'",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     54
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 161.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B11-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B11-02.jpg",
    "trang": "tap/L7-B11-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4238,15 +4288,20 @@
    "ten_tap_en": "The Steel Defence Line on the Như Nguyệt River",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     59,
     60
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 195.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B12-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B12-02.jpg",
    "trang": "tap/L7-B12-02.html",
    "mo_phong": "mo-phong/L7-B12-02.html",
    "so_cau_hoi": 4
@@ -4336,15 +4391,20 @@
    "ten_tap_en": "What Was Special About Trần Government?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     62,
     63
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 157.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B13-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B13-02.jpg",
    "trang": "tap/L7-B13-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4639,14 +4699,19 @@
    "ten_tap_en": "The Hard Early Days of Lam Sơn",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     79
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 174.3,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B16-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B16-02.jpg",
    "trang": "tap/L7-B16-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4713,15 +4778,20 @@
    "ten_tap_en": "Chi Lăng – Xương Giang and the Đông Quan Oath",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     81,
     82
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 191.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B16-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B16-05.jpg",
    "trang": "tap/L7-B16-05.html",
    "mo_phong": "mo-phong/L7-B16-05.html",
    "so_cau_hoi": 4
@@ -4782,7 +4852,7 @@
    "ten_tap_en": "A Thriving Economy and the Hồng Đức Code",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     83,
     84,
@@ -4790,10 +4860,15 @@
     86,
     88
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 182.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B17-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B17-02.jpg",
    "trang": "tap/L7-B17-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4830,15 +4905,20 @@
    "ten_tap_en": "Champa: The Flourishing Vijaya Dynasty",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     90,
     91
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 165.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B18-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B18-01.jpg",
    "trang": "tap/L7-B18-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -4852,15 +4932,20 @@
    "ten_tap_en": "The Mystery of the Thousand-Year Cham Towers",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     92,
     93
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 146.3,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B18-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B18-02.jpg",
    "trang": "tap/L7-B18-02.html",
    "mo_phong": "mo-phong/L7-B18-02.html",
    "so_cau_hoi": 4
@@ -5250,15 +5335,20 @@
    "ten_tap_en": "Why Did Revolution Break Out in France?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     12,
     13
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 158.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B2-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B2-01.jpg",
    "trang": "tap/L8-B2-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7082,7 +7172,7 @@
    "ten_tap_en": "The Red River: Flood Seasons and Legendary Dykes",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     155,
     156,
@@ -7091,10 +7181,15 @@
     160,
     161
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 267.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-CD1-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-CD1-02.jpg",
    "trang": "tap/L8-CD1-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7108,17 +7203,22 @@
    "ten_tap_en": "The Mekong: Living with the Floods",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     157,
     158,
     160,
     161
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 263.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-CD1-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-CD1-03.jpg",
    "trang": "tap/L8-CD1-03.html",
    "mo_phong": "mo-phong/L8-CD1-03.html",
    "so_cau_hoi": 4
@@ -10093,6 +10193,246 @@
    "trang": null,
    "mo_phong": null,
    "so_cau_hoi": 0
+  }
+ ],
+ "chuyen_su": [
+  {
+   "ma": "TT-01",
+   "ten": "Kho vũ khí bí mật dưới lòng đất Cổ Loa",
+   "ten_en": "The Secret Arsenal under Co Loa",
+   "trang": "chuyen-su/TT-01.html",
+   "video": {
+    "thoi_luong": 49.9,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-01.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-01.jpg",
+   "bai_goc": "L6-B14",
+   "sach": "Lịch sử và Địa lí 6",
+   "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+   "nguon_mo_rong": [
+    "https://nhandan.vn/mui-ten-dong-co-loa-tu-huyen-thoai-den-lich-su-post504549.html",
+    "https://vnexpress.net/mui-ten-ba-canh-cua-no-than-lien-chau-2416187.html"
+   ]
+  },
+  {
+   "ma": "TT-02",
+   "ten": "Một dòng sông, ba lần chiến thắng",
+   "ten_en": "One River, Three Victories",
+   "trang": "chuyen-su/TT-02.html",
+   "video": {
+    "thoi_luong": 53.4,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-02.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-02.jpg",
+   "bai_goc": "L6-B18",
+   "sach": "Lịch sử và Địa lí 6, 7",
+   "bai": "Bài 18 (LSĐL 6); Bài 10, Bài 13 (LSĐL 7)",
+   "nguon_mo_rong": [
+    "https://nhandan.vn/phat-huy-gia-tri-khoa-hoc-va-van-hoa-cua-di-san-bai-coc-bach-dang-post892992.html",
+    "https://doanhnhan.baophapluat.vn/bai-coc-bach-dang-phat-lo-sau-gan-nghin-nam-vui-duoi-bun-unesco-toi-khao-sat-thuc-dia-77287.html"
+   ]
+  },
+  {
+   "ma": "TT-03",
+   "ten": "Người đổi áo cứu chủ tướng",
+   "ten_en": "The Man Who Swapped Robes to Save His Leader",
+   "trang": "chuyen-su/TT-03.html",
+   "video": {
+    "thoi_luong": 45.7,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-03.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-03.jpg",
+   "bai_goc": "L7-B16",
+   "sach": "Lịch sử và Địa lí 7",
+   "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "nguon_mo_rong": [
+    "https://baophapluat.vn/ve-lam-kinh-nghe-chuyen-trung-than-post225704.html",
+    "https://nhandan.vn/truong-ton-hao-khi-lam-son-post774721.html"
+   ]
+  },
+  {
+   "ma": "TT-04",
+   "ten": "Cành đào từ Thăng Long",
+   "ten_en": "A Peach Blossom Branch from Thang Long",
+   "trang": "chuyen-su/TT-04.html",
+   "video": {
+    "thoi_luong": 44.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-04.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-04.jpg",
+   "bai_goc": "L8-B8",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 8. Phong trào Tây Sơn",
+   "nguon_mo_rong": [
+    "https://baovanhoa.vn/van-hoa/nghe-an-long-trong-ky-niem-237-nam-chien-thang-ngoc-hoi-dong-da-205917.html",
+    "https://baonghean.vn/en/vua-quang-trung-va-canh-dao-tang-ngoc-han-cong-chua-10044451.html"
+   ]
+  },
+  {
+   "ma": "TT-05",
+   "ten": "Chiếc chiếu và bảy sợi dây mây",
+   "ten_en": "A Mat and Seven Rattan Cords",
+   "trang": "chuyen-su/TT-05.html",
+   "video": {
+    "thoi_luong": 45.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-05.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-05.jpg",
+   "bai_goc": "L8-B6",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+   "nguon_mo_rong": [
+    "https://tuoitre.vn/doi-hung-binh-hoang-sa-trong-sau-tham-ly-son-20190420175810263.htm",
+    "https://vietnamnews.vn/society/1654487/quang-ngai-traditional-ceremony-honours-ancient-hoang-sa-flotilla.html"
+   ]
+  },
+  {
+   "ma": "TT-06",
+   "ten": "Cây cầu đón khách phương xa",
+   "ten_en": "The Bridge that Welcomes Guests from Afar",
+   "trang": "chuyen-su/TT-06.html",
+   "video": {
+    "thoi_luong": 49.1,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-06.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-06.jpg",
+   "bai_goc": "L8-B9",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+   "nguon_mo_rong": [
+    "https://hoianheritage.danang.gov.vn/uploads/download/pdf-chua-cau.pdf"
+   ]
+  },
+  {
+   "ma": "TT-07",
+   "ten": "270 người ra đi, 18 người trở về",
+   "ten_en": "270 Set Sail, 18 Came Home",
+   "trang": "chuyen-su/TT-07.html",
+   "video": {
+    "thoi_luong": 46.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-07.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-07.jpg",
+   "bai_goc": "L7-CD1",
+   "sach": "Lịch sử và Địa lí 7",
+   "bai": "Chủ đề chung 1. Các cuộc đại phát kiến địa lí",
+   "nguon_mo_rong": [
+    "https://origins.osu.edu/milestones/magellan-circumnavigation-earth",
+    "https://www.history.com/articles/ferdinand-magellan"
+   ]
+  },
+  {
+   "ma": "TT-08",
+   "ten": "Ai đã xây kim tự tháp?",
+   "ten_en": "Who Built the Pyramids?",
+   "trang": "chuyen-su/TT-08.html",
+   "video": {
+    "thoi_luong": 52.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-08.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-08.jpg",
+   "bai_goc": "L6-B7",
+   "sach": "Lịch sử và Địa lí 6",
+   "bai": "Bài 7. Ai Cập và Lưỡng Hà cổ đại",
+   "nguon_mo_rong": [
+    "https://www.cbc.ca/technology/story/2010/01/11/tech-egypt-pyramid.html",
+    "https://www.nbcnews.com/id/wbna34794254"
+   ]
+  },
+  {
+   "ma": "TT-09",
+   "ten": "Quả táo của Niu-tơn: thật hay đồn?",
+   "ten_en": "Newton's Apple: Fact or Rumour?",
+   "trang": "chuyen-su/TT-09.html",
+   "video": {
+    "thoi_luong": 45.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-09.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-09.jpg",
+   "bai_goc": "L8-B13",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+   "nguon_mo_rong": [
+    "https://www.history.com/articles/did-an-apple-really-fall-on-isaac-newtons-head",
+    "https://www.snopes.com/fact-check/isaac-newtons-apple-tree/"
+   ]
+  },
+  {
+   "ma": "TT-10",
+   "ten": "Giêm Oát và chiếc ấm nước",
+   "ten_en": "James Watt and the Kettle",
+   "trang": "chuyen-su/TT-10.html",
+   "video": {
+    "thoi_luong": 50.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-10.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-10.jpg",
+   "bai_goc": "L8-B3",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+   "nguon_mo_rong": [
+    "https://www.britannica.com/biography/James-Watt",
+    "SGK Lịch sử và Địa lí 8, Bài 3 (mốc 1784)"
+   ]
+  },
+  {
+   "ma": "TT-11",
+   "ten": "Chín chiếc đỉnh đồng của vua Minh Mạng",
+   "ten_en": "Emperor Minh Mang's Nine Bronze Urns",
+   "trang": "chuyen-su/TT-11.html",
+   "video": {
+    "thoi_luong": 51.8,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-11.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-11.jpg",
+   "bai_goc": "L8-B16",
+   "sach": "Lịch sử và Địa lí 8",
+   "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+   "nguon_mo_rong": [
+    "https://nhandan.vn/ocop/nhung-ban-duc-noi-tren-cuu-dinh-o-hue-duoc-ghi-danh-di-san-tu-lieu-khu-vuc-chau-a-thai-binh-duong-post808393.html",
+    "https://special.nhandan.vn/cuu-dinh-bach-khoa-thu-viet-nam-trieu-nguyen/index.html"
+   ]
+  },
+  {
+   "ma": "TT-12",
+   "ten": "Bài thơ vang lên giữa đêm bên sông Như Nguyệt",
+   "ten_en": "The Poem That Rang Out by the Nhu Nguyet River",
+   "trang": "chuyen-su/TT-12.html",
+   "video": {
+    "thoi_luong": 49.3,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/TT-12.mp4"
+   },
+   "anh_bia": "du-lieu/anh-bia/TT-12.jpg",
+   "bai_goc": "L7-B12",
+   "sach": "Lịch sử và Địa lí 7",
+   "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+   "nguon_mo_rong": [
+    "https://vi.wikipedia.org/wiki/Nam_qu%E1%BB%91c_s%C6%A1n_h%C3%A0"
+   ]
   }
  ]
 }

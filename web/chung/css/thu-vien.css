@@ -578,3 +578,18 @@ h1.mot-dong { white-space: nowrap; max-width: none; letter-spacing: -.035em; }
 
 /* 15/11 tối: đoạn văn không để một chữ lẻ ở dòng cuối (ví dụ "ôn / tập" ở bìa) */
 .bia p, .dan, .gioi-thieu p, .dau-tap p, .the-mp p, footer p { text-wrap: pretty; }
+
+/* Chuyện sử mở rộng: một hàng video dọc 9:16 cuộn ngang (12 video ~1 phút), đặt trước lưới video bài học */
+.ke-doc { padding-bottom: 0; }
+.luoi-doc { list-style: none; margin: 0; padding: 4px 2px 16px; display: grid; grid-auto-flow: column; grid-auto-columns: 176px; gap: 16px;
+  overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x proximity; scrollbar-width: thin; }
+.luoi-doc > li { scroll-snap-align: start; }
+.luoi-doc:focus-visible { outline: 3px solid var(--cam-dam); outline-offset: 4px; border-radius: 14px; }
+.the-video.doc .khung-anh { aspect-ratio: 9 / 16; }
+.the-video.doc .nut-phat-nho { width: 46px; height: 46px; margin: -23px 0 0 -23px; }
+.the-video.doc .nut-phat-nho::after { left: 18px; top: 13px; border-left-width: 15px; border-top-width: 10px; border-bottom-width: 10px; }
+.the-video.doc .ten { font-size: .95rem; }
+.ds-nguon { margin: 0; padding-left: 1.2em; }
+.ds-nguon li { margin: .3em 0; }
+.ds-nguon a { color: var(--cam-dam); font-weight: 600; overflow-wrap: anywhere; }
+@media (max-width: 520px) { .luoi-doc { grid-auto-columns: 42%; gap: 12px; } }
