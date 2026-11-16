@@ -260,6 +260,20 @@ def video_frames(path, W, H, nframes, max_cham=1.3):
         if os.path.exists(tmp): os.remove(tmp)
 
 # ---------------------------------------------------------------- hình hiệu logo (mở đầu / kết)
+def ghi_chu_dong(note, W, H, size):
+    """Chia ghi chú cuối video thành các dòng vừa khung (tối đa 3 dòng; dài quá thì giảm cỡ chữ)."""
+    maxw = W * (0.86 if H > W else 0.88)
+    for scale in ((0.085, 0.075, 0.068) if H > W else (0.075, 0.066, 0.06)):
+        f_n = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-400-italic.ttf"), int(size * scale))
+        words, lines, cur = note.split(), [], ""
+        for w_ in words:
+            t = (cur + " " + w_).strip()
+            if f_n.getlength(t) <= maxw or not cur: cur = t
+            else: lines.append(cur); cur = w_
+        if cur: lines.append(cur)
+        if len(lines) <= (4 if H > W else 2): break
+    return lines, f_n, int(size * scale * 1.38)
+
 def ident_frames(W, H, seconds=2.6, title=None, note=None):
     icon = Image.open(os.path.join(ROOT, CFG["logo"]["icon"])).convert("RGBA")
     size = int(min(W, H) * 0.34); icon = icon.resize((size, size), Image.LANCZOS)
@@ -293,12 +307,16 @@ def ident_frames(W, H, seconds=2.6, title=None, note=None):
                 f_t = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-700-normal.ttf"), int(size * 0.12))
                 wt = d.textlength(title, font=f_t)
                 d.text((W // 2 - wt / 2, y + int(size * 0.68)), title, font=f_t, fill=(255, 255, 255, int(230 * kt)))
-            if note:
-                f_n = ImageFont.truetype(os.path.join(FONT_DIR, "be-vietnam-pro-400-italic.ttf"), int(size * 0.075))
-                wn = d.textlength(note, font=f_n)
-                yn = H - int(size * 0.32)
-                if title: yn = max(yn, y + int(size * 0.68) + int(size * 0.12 * 1.35) + 12)
-                d.text((W // 2 - wn / 2, yn), note, font=f_n, fill=(220, 210, 190, int(220 * kt)))
+            if note:   # ghi chú tái hiện: tự xuống dòng cho vừa khung (bản cũ một dòng bị tràn hai mép khi ghi chú dài)
+                lines, f_n, lh = ghi_chu_dong(note, W, H, size)
+                y_title_end = y + int(size * 0.68) + int(size * 0.12 * 1.35) + 12 if title else y + int(size * 0.62)
+                if H > W:   # khung dọc: ngay dưới tên tập, tránh vùng chữ/nút của TikTok ở đáy
+                    yn = y_title_end + 28
+                else:
+                    yn = max(H - int(size * 0.32) - (len(lines) - 1) * lh, y_title_end)
+                for k, ln in enumerate(lines):
+                    wn = d.textlength(ln, font=f_n)
+                    d.text((W // 2 - wn / 2, yn + k * lh), ln, font=f_n, fill=(220, 210, 190, int(220 * kt)))
             bg.paste(txt, (0, 0), txt)
         fade = min(1, (n - i) / (0.35 * FPS))
         arr = np.asarray(bg).astype(np.float32) * fade
