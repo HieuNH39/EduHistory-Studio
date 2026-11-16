@@ -1,0 +1,117 @@
+{
+ "ma": "TT-10",
+ "ten_tap": "Giêm Oát và chiếc ấm nước",
+ "ten_tap_en": "James Watt and the Kettle",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)"
+ },
+ "nguon_mo_rong": [
+  "https://www.britannica.com/biography/James-Watt",
+  "SGK Lịch sử và Địa lí 8, Bài 3 (mốc 1784)"
+ ],
+ "nhac": {
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Năm 1784 theo SGK Lịch sử và Địa lí 8, Bài 3.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: nhà bếp Xcốt-len thế kỉ XVIII: một cậu bé ngồi nhìn chăm chú chiếc ấm đồng đang sôi trên bếp lửa, hơi nước làm nắp ấm rung lên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chuyện kể cậu bé Giêm Oát ngồi nhìn nắp ấm nước rung lên vì hơi nước, rồi nghĩ ra máy hơi nước.",
+     "The story goes that young James Watt watched a kettle lid rattle with steam and invented the steam engine."
+    ]
+   ],
+   "kling_prompt": "Steam puffs from the kettle and the lid rattles; the boy watches closely; firelight flickers; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: một cỗ máy hơi nước Niu-cô-men cũ kĩ, to lớn trong xưởng đá thế kỉ XVIII, chạy chậm chạp, khói than mù mịt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thật ra, máy hơi nước đã có từ trước, nhưng tốn rất nhiều than mà chạy lại yếu.",
+     "In fact, steam engines already existed, but they burned lots of coal and were weak."
+    ]
+   ],
+   "kling_prompt": "The big old engine beam rocks slowly up and down; coal smoke billows; workers shovel coal. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Giêm Oát (vẽ theo chân dung tư liệu, tóc bạc, áo khoác sẫm) trong xưởng sửa chữa, chăm chú xem xét một mô hình máy hơi nước nhỏ trên bàn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi sửa một mô hình máy hơi nước, Oát nghĩ ra cách tách riêng bộ phận ngưng tụ hơi, giúp máy tiết kiệm than hơn nhiều.",
+     "While repairing a model engine, Watt invented a separate condenser, making engines far more efficient."
+    ]
+   ],
+   "kling_prompt": "Watt turns a small part of the model engine in his hands, thinking; a tiny puff of steam rises; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: nhà máy dệt nước Anh cuối thế kỉ XVIII chạy bằng máy hơi nước, bánh đà lớn quay, công nhân làm việc bên dây chuyền",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1784, Oát hoàn thành máy hơi nước của mình, đưa các nhà máy bước vào thời đại máy móc. Phát minh đến từ học hỏi và thử nghiệm, không chỉ từ một chiếc ấm!",
+     "In 1784, Watt completed his steam engine and brought factories into the machine age. Inventions come from study and testing, not just a kettle!"
+    ]
+   ],
+   "kling_prompt": "The large flywheel spins; belts and spinning machines move; workers tend the machines; slow pan across the factory. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giêm Oát đã cải tiến máy hơi nước bằng cách nào?",
+    "lua_chon": [
+     "Tách riêng bộ phận ngưng tụ hơi",
+     "Dùng một chiếc ấm nước",
+     "Chạy bằng sức gió"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Oát đã cải tiến máy hơi nước thế nào?",
+     "EduHistory asks you! How did Watt improve the steam engine?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tách riêng bộ phận ngưng tụ hơi!",
+     "The answer is A: a separate condenser!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bạn có biết thêm chuyện \"nghe thì hay mà chưa chắc đúng\" nào về các nhà khoa học không? Bình luận nhé!",
+     "Know another catchy science story that might not be true? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

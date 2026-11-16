@@ -1,0 +1,117 @@
+{
+ "ma": "TT-03",
+ "ten_tap": "Người đổi áo cứu chủ tướng",
+ "ten_tap_en": "The Man Who Swapped Robes to Save His Leader",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)"
+ },
+ "nguon_mo_rong": [
+  "https://baophapluat.vn/ve-lam-kinh-nghe-chuyen-trung-than-post225704.html",
+  "https://nhandan.vn/truong-ton-hao-khi-lam-son-post774721.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Ngày giỗ tính theo âm lịch (21 và 22 tháng Tám).",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: đêm trên núi rừng Chí Linh, nghĩa quân Lam Sơn gầy gò ngồi quanh đống lửa nhỏ; xa xa dưới chân núi, đuốc của quân Minh vây kín",
+   "loi": [
+    [
+     "Hân Hân",
+     "Có lần, nghĩa quân Lam Sơn bị quân Minh vây chặt trên núi Chí Linh, lương thực cạn kiệt.",
+     "Once, the Lam Son army was trapped by the Ming on Chi Linh mountain, almost out of food."
+    ]
+   ],
+   "kling_prompt": "Campfire flames flicker; tired soldiers shift slightly; distant enemy torches glow below; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: trong lều dưới ánh đuốc, tướng Lê Lai (võ tướng, ánh mắt kiên quyết) đứng dậy, đặt tay lên ngực trước Lê Lợi và các tướng đang lặng im",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lê Lai đứng ra xin đổi áo, giả làm chủ tướng Lê Lợi để đánh lạc hướng quân giặc.",
+     "Le Lai volunteered to swap robes and pose as the leader Le Loi to mislead the enemy."
+    ]
+   ],
+   "kling_prompt": "Lê Lai places his hand on his chest and bows slightly; torchlight flickers on faces; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Lê Lai mặc áo bào của chủ tướng, cưỡi voi dẫn một toán quân cảm tử lao xuống núi về phía doanh trại quân Minh (viễn cảnh, không máu me)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ông dẫn quân cảm tử xông xuống núi. Quân Minh tưởng đã bắt được Lê Lợi nên rút vây, nghĩa quân nhờ đó thoát hiểm.",
+     "He led a daring charge down the mountain. Thinking they had caught Le Loi, the Ming withdrew, and the army escaped."
+    ]
+   ],
+   "kling_prompt": "The war elephant and the small troop move forward down the slope; dust rises; banners wave; camera follows from behind. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: ngày nay ở khu di tích Lam Kinh (Thanh Hoá): người dân áo dài, khăn đóng dâng hương trong lễ hội, khói hương bay, cờ hội nhiều màu (không chữ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhớ ơn Lê Lai, vua Lê Lợi dặn giỗ Lê Lai trước giỗ mình một ngày. Dân gian có câu: hăm mốt Lê Lai, hăm hai Lê Lợi.",
+     "To honour Le Lai, Le Loi asked that Le Lai be remembered one day before himself: the 21st for Le Lai, the 22nd for Le Loi."
+    ]
+   ],
+   "kling_prompt": "Incense smoke curls upward; festival flags sway; people slowly bow in prayer; gentle camera drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo câu ca dân gian, giỗ Lê Lai vào ngày nào tháng 8 âm lịch?",
+    "lua_chon": [
+     "Ngày 21",
+     "Ngày 22",
+     "Ngày 1"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Giỗ Lê Lai vào ngày nào?",
+     "EduHistory asks you! On which day is Le Lai remembered?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: ngày 21, trước giỗ Lê Lợi một ngày!",
+     "The answer is A: the 21st, one day before Le Loi!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bạn nghĩ điều gì đã làm nên sức mạnh của nghĩa quân Lam Sơn? Bình luận nhé!",
+     "What do you think made the Lam Son army so strong? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

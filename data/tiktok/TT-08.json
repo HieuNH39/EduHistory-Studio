@@ -1,0 +1,117 @@
+{
+ "ma": "TT-08",
+ "ten_tap": "Ai đã xây kim tự tháp?",
+ "ten_tap_en": "Who Built the Pyramids?",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6",
+  "bai": "Bài 7. Ai Cập và Lưỡng Hà cổ đại"
+ },
+ "nguon_mo_rong": [
+  "https://www.cbc.ca/technology/story/2010/01/11/tech-egypt-pyramid.html",
+  "https://www.nbcnews.com/id/wbna34794254"
+ ],
+ "nhac": {
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: kim tự tháp Kê-ốp đang xây dở trên cao nguyên Gi-da, hàng trăm người Ai Cập cổ đại kéo những khối đá lớn trên xe trượt gỗ dọc con dốc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hơn 4 500 năm trước, người Ai Cập dựng kim tự tháp Kê-ốp từ hàng triệu khối đá. Vậy ai đã làm nên công trình ấy?",
+     "Over 4,500 years ago, Egyptians built the Pyramid of Khufu from millions of stone blocks. But who built it?"
+    ]
+   ],
+   "kling_prompt": "Workers pull the large stone block up the ramp on a wooden sledge; ropes tighten; dust rises; slow pan upward to the pyramid. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm 1990, một du khách cưỡi ngựa gần kim tự tháp, vó ngựa vấp vào một bức tường gạch bùn thấp nhô lên khỏi cát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1990, một con ngựa vấp phải bức tường gạch bùn gần kim tự tháp. Đó là lối vào nghĩa trang của những người thợ xây!",
+     "In 1990, a horse tripped on a mud-brick wall near the pyramids. It led to the builders' cemetery!"
+    ]
+   ],
+   "kling_prompt": "The horse stumbles gently and stops near the low mud-brick wall; sand drifts in the wind; the rider looks down. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: nhà khảo cổ thận trọng chải cát quanh những ngôi mộ gạch bùn nhỏ, bên cạnh là bình gốm đựng bánh mì và bia, kim tự tháp sừng sững phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thợ xây được chôn cất trang trọng gần kim tự tháp, kèm bánh mì và bia. Nhiều nhà khảo cổ cho rằng họ là người lao động được trả công, không phải nô lệ.",
+     "The builders were buried with honour, with bread and beer. Many archaeologists believe they were paid workers, not slaves."
+    ]
+   ],
+   "kling_prompt": "The archaeologist gently brushes sand away from the small tomb; sunlight moves across the site; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: khu làng của thợ xây kim tự tháp thời cổ đại: lò nướng bánh mì, những người thợ ăn uống, nghỉ ngơi sau ca làm việc, kim tự tháp phía xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Họ có lò bánh, có thịt cá, làm việc theo ca. Lịch sử luôn được viết lại nhờ những phát hiện mới!",
+     "They had bakeries, meat and fish, and worked in shifts. New finds keep rewriting history!"
+    ]
+   ],
+   "kling_prompt": "Bread oven smoke rises; workers eat and talk quietly; the pyramid stands in the distance; gentle camera drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những phát hiện ở Gi-da từ năm 1990 cho thấy điều gì về người xây kim tự tháp?",
+    "lua_chon": [
+     "Họ được chôn cất trang trọng gần kim tự tháp",
+     "Họ đều là người nước ngoài",
+     "Họ không ăn uống gì"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Phát hiện ở Gi-da cho thấy điều gì?",
+     "EduHistory asks you! What do the Giza finds show?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: thợ xây được chôn cất trang trọng!",
+     "The answer is A: the builders were buried with honour!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bạn nghĩ người Ai Cập đã nâng những khối đá khổng lồ bằng cách nào? Bình luận nhé!",
+     "How do you think Egyptians lifted those huge stones? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

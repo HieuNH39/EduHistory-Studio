@@ -1,0 +1,116 @@
+{
+ "ma": "TT-12",
+ "ten_tap": "Bài thơ vang lên giữa đêm bên sông Như Nguyệt",
+ "ten_tap_en": "The Poem That Rang Out by the Nhu Nguyet River",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7",
+  "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)"
+ },
+ "nguon_mo_rong": [
+  "https://vi.wikipedia.org/wiki/Nam_qu%E1%BB%91c_s%C6%A1n_h%C3%A0"
+ ],
+ "nhac": {
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Tác giả bài thơ còn có nhiều ý kiến khác nhau; kịch bản dùng cách nói \"thường được gắn với\".",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: đêm bên sông Như Nguyệt năm 1077: phòng tuyến của quân nhà Lý dọc bờ nam, bờ bắc là doanh trại quân Tống với lửa trại (viễn cảnh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1077, quân Tống đóng ở bờ bắc sông Như Nguyệt, quân nhà Lý giữ phòng tuyến bờ nam.",
+     "In 1077, the Song army camped on the north bank of the Nhu Nguyet River; the Ly army held the south bank."
+    ]
+   ],
+   "kling_prompt": "Campfires flicker on the far bank; river water moves slowly in the dark; mist drifts; slow aerial drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: ngôi đền nhỏ bên bờ sông trong đêm khuya, khói hương mờ ảo, ánh đèn hắt ra từ cửa đền",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tương truyền, giữa đêm khuya, từ ngôi đền bên sông vang lên một bài thơ hùng tráng.",
+     "Legend says that late at night, a stirring poem rang out from a temple by the river."
+    ]
+   ],
+   "kling_prompt": "Incense smoke curls out of the small temple door; lamplight flickers; leaves move in the night wind; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: binh sĩ nhà Lý đứng thẳng trên chiến luỹ, nắm chặt giáo, mắt sáng ngời lắng nghe; xa xa bên kia sông, lính Tống ngơ ngác",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bài thơ khẳng định sông núi nước Nam là của người Nam, kẻ nào xâm phạm sẽ chuốc lấy thất bại. Quân ta thêm phấn chấn, quân giặc thêm hoảng sợ.",
+     "The poem declared that the southern land belongs to its own people, and invaders would be defeated. Our soldiers grew bold; the enemy grew afraid."
+    ]
+   ],
+   "kling_prompt": "Soldiers on the rampart grip their spears and stand tall; torches flicker; distant enemy soldiers turn their heads. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: bình minh trên sông Như Nguyệt, quân nhà Lý vượt sông tấn công doanh trại quân Tống, cờ đỏ tung bay (viễn cảnh, không máu me)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bài thơ Nam quốc sơn hà thường được gắn với tên tuổi Lý Thường Kiệt, và được nhiều người xem là bản tuyên ngôn độc lập đầu tiên của nước ta.",
+     "The poem Nam quoc son ha is often linked to Ly Thuong Kiet and seen by many as our first declaration of independence."
+    ]
+   ],
+   "kling_prompt": "Boats cross the river at dawn; oars splash; red flags flutter in the wind; slow camera drift (distant view). Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Bài thơ Nam quốc sơn hà gắn với cuộc kháng chiến chống quân xâm lược nào?",
+    "lua_chon": [
+     "Quân Tống",
+     "Quân Minh",
+     "Quân Thanh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Bài thơ gắn với cuộc kháng chiến nào?",
+     "EduHistory asks you! Which war is the poem linked to?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: kháng chiến chống quân Tống!",
+     "The answer is A: the war against the Song!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bạn có thuộc bài thơ Nam quốc sơn hà không? Thử đọc một câu trong phần bình luận nhé!",
+     "Do you know the poem Nam quoc son ha? Try a line in the comments!"
+    ]
+   ]
+  }
+ ]
+}

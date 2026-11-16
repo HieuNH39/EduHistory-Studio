@@ -1,0 +1,117 @@
+{
+ "ma": "TT-04",
+ "ten_tap": "Cành đào từ Thăng Long",
+ "ten_tap_en": "A Peach Blossom Branch from Thang Long",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 8. Phong trào Tây Sơn"
+ },
+ "nguon_mo_rong": [
+  "https://baovanhoa.vn/van-hoa/nghe-an-long-trong-ky-niem-237-nam-chien-thang-ngoc-hoi-dong-da-205917.html",
+  "https://baonghean.vn/en/vua-quang-trung-va-canh-dao-tang-ngoc-han-cong-chua-10044451.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Chuyện cành đào là truyền thuyết dân gian, ghi rõ \"tương truyền\".",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: đêm 30 Tết Kỷ Dậu năm 1789: đoàn quân Tây Sơn hành quân trong đêm qua đèo núi, đuốc sáng thành dải dài (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đêm giao thừa Tết Kỷ Dậu năm 1789, đại quân Tây Sơn từ Tam Điệp thần tốc tiến ra Thăng Long.",
+     "On Lunar New Year eve 1789, the Tay Son army raced from Tam Diep towards Thang Long."
+    ]
+   ],
+   "kling_prompt": "The torch line of soldiers marches along the mountain pass at night; torches flicker; slow aerial drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: trưa mùng 5 Tết, vua Quang Trung (vẽ khái quát, áo chiến bào đỏ, giáp trụ) cưỡi voi tiến vào Thăng Long, nhân dân reo mừng, hoa đào nở hồng hai bên đường",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trưa mùng 5 Tết, sau chiến thắng Ngọc Hồi – Đống Đa, vua Quang Trung tiến vào Thăng Long giữa niềm vui của muôn dân.",
+     "At noon on the 5th day of Tet, after the victory at Ngoc Hoi and Dong Da, Emperor Quang Trung entered Thang Long."
+    ]
+   ],
+   "kling_prompt": "The elephant walks slowly forward; people cheer and wave; peach petals drift through the air. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: một kị sĩ Tây Sơn phi ngựa trên con đường thiên lí ven núi, sau lưng buộc cẩn thận một cành đào hồng thắm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tương truyền, nhà vua sai người phi ngựa mang một cành đào Thăng Long về Phú Xuân tặng công chúa Ngọc Hân.",
+     "Legend says the emperor sent a rider to carry a peach branch from Thang Long to Phu Xuan for Princess Ngoc Han."
+    ]
+   ],
+   "kling_prompt": "The rider gallops along the road; the peach branch on his back sways; dust trails behind; camera tracks alongside. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: trong cung Phú Xuân, công chúa Ngọc Hân (áo dài cung đình thế kỉ XVIII) mỉm cười đón cành đào hồng, ngoài trời nắng xuân",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cành đào ấy mang theo tin vui chiến thắng của mùa xuân năm Kỷ Dậu.",
+     "That branch carried the joyful news of the spring victory of 1789."
+    ]
+   ],
+   "kling_prompt": "The princess gently lifts the peach branch and smiles; petals fall softly; spring light flickers through the window. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vua Quang Trung tiến vào Thăng Long vào ngày nào của Tết Kỷ Dậu 1789?",
+    "lua_chon": [
+     "Mùng 5 Tết",
+     "Mùng 1 Tết",
+     "Rằm tháng Giêng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vua Quang Trung vào Thăng Long ngày nào?",
+     "EduHistory asks you! When did Quang Trung enter Thang Long?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: mùng 5 Tết!",
+     "The answer is A: the 5th day of Tet!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chỉ trong mấy ngày Tết mà làm nên chiến thắng lớn. Bạn thấy điều gì bất ngờ nhất? Bình luận nhé!",
+     "A great victory in just a few days of Tet. What surprises you most? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

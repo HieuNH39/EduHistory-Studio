@@ -1,0 +1,117 @@
+{
+ "ma": "TT-02",
+ "ten_tap": "Một dòng sông, ba lần chiến thắng",
+ "ten_tap_en": "One River, Three Victories",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6, 7",
+  "bai": "Bài 18 (LSĐL 6); Bài 10, Bài 13 (LSĐL 7)"
+ },
+ "nguon_mo_rong": [
+  "https://nhandan.vn/phat-huy-gia-tri-khoa-hoc-va-van-hoa-cua-di-san-bai-coc-bach-dang-post892992.html",
+  "https://doanhnhan.baophapluat.vn/bai-coc-bach-dang-phat-lo-sau-gan-nghin-nam-vui-duoi-bun-unesco-toi-khao-sat-thuc-dia-77287.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Trận năm 981: theo SGK Lịch sử và Địa lí 7, Bài 10.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: tranh phong cảnh, không phải bản đồ: cửa sông Bạch Đằng rộng lớn lúc bình minh, nước triều đang rút để lộ những hàng cọc gỗ nhọn cắm dày dưới lòng sông, núi đá vôi mờ xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Có một dòng sông đã ba lần nhấn chìm những đoàn quân xâm lược. Đó là sông Bạch Đằng!",
+     "One river sank invading fleets three times. It is the Bach Dang River!"
+    ]
+   ],
+   "kling_prompt": "Slow aerial drift over the wide river mouth at dawn; the tide flows out revealing the stakes; mist moves over the water. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm 938, Ngô Quyền đứng trên mũi thuyền chiến chỉ huy; những chiến thuyền lớn của quân Nam Hán mắc vào bãi cọc khi nước rút, nghiêng ngả (viễn cảnh, không máu me)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 938, Ngô Quyền cho cắm cọc đầu bịt sắt dưới lòng sông, đánh tan quân Nam Hán, mở ra thời kì độc lập lâu dài.",
+     "In 938, Ngo Quyen planted iron-tipped stakes in the river, crushed the Southern Han and opened a long era of independence."
+    ]
+   ],
+   "kling_prompt": "Ngô Quyền points forward; enemy ships tilt slowly on the stakes as the water drops; flags flutter; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm 981, vua Lê Hoàn đứng trên thuyền chiến chỉ huy giữa sông Bạch Đằng, đoàn thuyền quân Tống phía xa quay đầu rút chạy (viễn cảnh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 981, vua Lê Hoàn lại đánh bại quân Tống, cũng trên dòng sông này.",
+     "In 981, King Le Hoan defeated the Song army on this very river."
+    ]
+   ],
+   "kling_prompt": "King Lê Hoàn raises his arm on the war boat; the distant Song ships turn away; oars move; gentle camera drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm 1288, quân dân nhà Trần khiêng những cây cọc gỗ lớn vạt nhọn đóng xuống lòng sông Bạch Đằng lúc nước ròng, một vị tướng nhà Trần đứng trên bờ quan sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1288, Trần Hưng Đạo dùng trận địa cọc đánh tan thuỷ quân Nguyên. Các bãi cọc Yên Giang, Đồng Vạn Muối, Đồng Má Ngựa ở Quảng Ninh vẫn còn dấu tích!",
+     "In 1288, Tran Hung Dao used a stake field to destroy the Yuan fleet. Stake fields at Yen Giang, Dong Van Muoi and Dong Ma Ngua in Quang Ninh still survive!"
+    ]
+   ],
+   "kling_prompt": "Soldiers lower a sharpened log into the river bed; water ripples; the general on the bank watches; slow pan. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ba chiến thắng trên sông Bạch Đằng diễn ra vào những năm nào?",
+    "lua_chon": [
+     "938, 981, 1288",
+     "939, 1077, 1428",
+     "1258, 1285, 1789"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ba chiến thắng Bạch Đằng diễn ra năm nào?",
+     "EduHistory asks you! In which years were the three Bach Dang victories?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: 938, 981 và 1288!",
+     "The answer is A: 938, 981 and 1288!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao cả ba lần đều chọn sông Bạch Đằng? Gợi ý: hãy nghĩ đến thuỷ triều! Bình luận nhé!",
+     "Why Bach Dang all three times? Hint: think about the tides! Comment below!"
+    ]
+   ]
+  }
+ ]
+}

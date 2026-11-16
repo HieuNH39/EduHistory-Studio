@@ -1,0 +1,116 @@
+{
+ "ma": "TT-06",
+ "ten_tap": "Cây cầu đón khách phương xa",
+ "ten_tap_en": "The Bridge that Welcomes Guests from Afar",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII"
+ },
+ "nguon_mo_rong": [
+  "https://hoianheritage.danang.gov.vn/uploads/download/pdf-chua-cau.pdf"
+ ],
+ "nhac": {
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: phố cảng Hội An thế kỉ XVII nhộn nhịp: thuyền buôn Nhật Bản và Trung Hoa cập bến sông Thu Bồn, dãy phố nhà gỗ mái ngói, thương nhân nhiều nước trao đổi hàng hoá",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XVII, Hội An là thương cảng sầm uất của Đàng Trong, thương nhân Nhật Bản, Trung Hoa, châu Âu tấp nập ghé đến.",
+     "In the 17th century, Hoi An was a busy port where Japanese, Chinese and European merchants traded."
+    ]
+   ],
+   "kling_prompt": "Merchant ships bob at the river port; merchants walk and trade; flags flutter; slow pan along the street. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: các thương nhân Nhật Bản thế kỉ XVII cùng thợ mộc dựng một cây cầu gỗ có mái che bắc qua con lạch nhỏ trong phố cảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo tư liệu, cây cầu có mái che này do thương nhân Nhật Bản góp tiền xây vào khoảng cuối thế kỉ XVI – đầu thế kỉ XVII.",
+     "Records say Japanese merchants funded this covered bridge around the turn of the 17th century."
+    ]
+   ],
+   "kling_prompt": "Carpenters lift a wooden beam onto the covered bridge; merchants watch and point; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: năm 1719, chúa Nguyễn Phúc Chu (áo bào, vẽ khái quát) đứng trên cầu gỗ có mái che, quan lại dâng tấm biển gỗ sơn son thếp vàng (chữ trên biển không đọc được)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1719, chúa Nguyễn Phúc Chu đặt tên cầu là Lai Viễn Kiều, nghĩa là cầu đón khách phương xa.",
+     "In 1719, Lord Nguyen Phuc Chu named it Lai Vien Kieu, the bridge for guests from afar."
+    ]
+   ],
+   "kling_prompt": "Officials raise the lacquered signboard toward the bridge; robes sway; sunlight glints on the gold; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Chùa Cầu Hội An ngày nay lung linh đèn lồng buổi tối, du khách đi qua, mặt nước phản chiếu ánh đèn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày nay, Chùa Cầu là biểu tượng của phố cổ Hội An, Di sản văn hoá thế giới từ năm 1999.",
+     "Today the bridge is the symbol of Hoi An Ancient Town, a World Heritage Site since 1999."
+    ]
+   ],
+   "kling_prompt": "Lanterns glow and sway softly; reflections ripple on the water; visitors stroll across the bridge; evening light. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tên \"Lai Viễn Kiều\" có nghĩa là gì?",
+    "lua_chon": [
+     "Cầu đón khách phương xa",
+     "Cầu của người Nhật",
+     "Cầu bắc qua sông lớn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Lai Viễn Kiều nghĩa là gì?",
+     "EduHistory asks you! What does Lai Vien Kieu mean?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: cầu đón khách phương xa!",
+     "The answer is A: the bridge for guests from afar!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một cây cầu nhỏ kể chuyện giao lưu giữa nhiều nước. Bạn đã đến Hội An chưa? Bình luận nhé!",
+     "A small bridge with a big story of exchange. Have you been to Hoi An? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

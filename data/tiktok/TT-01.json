@@ -1,0 +1,117 @@
+{
+ "ma": "TT-01",
+ "ten_tap": "Kho vũ khí bí mật dưới lòng đất Cổ Loa",
+ "ten_tap_en": "The Secret Arsenal under Co Loa",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc"
+ },
+ "nguon_mo_rong": [
+  "https://nhandan.vn/mui-ten-dong-co-loa-tu-huyen-thoai-den-lich-su-post504549.html",
+  "https://vnexpress.net/mui-ten-ba-canh-cua-no-than-lien-chau-2416187.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: tháng 6 năm 1959, những công nhân đắp đường (áo vải, nón lá, cuốc xẻng, trang phục Việt Nam thập niên 1950) bên vòng thành đất cổ Cổ Loa cúi xuống ngạc nhiên trước một hố đất lộ ra rất nhiều mũi tên đồng xanh gỉ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1959, khi đắp đường ở Cổ Loa, các công nhân bỗng đào trúng một hố đầy... mũi tên đồng!",
+     "In 1959, while building a road at Co Loa, workers suddenly dug into a pit full of... bronze arrowheads!"
+    ]
+   ],
+   "kling_prompt": "Slow push-in toward the pit; the workers lean closer and one brushes soil off the green bronze arrowheads; dust drifts in the sunlight. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: cận cảnh hàng nghìn mũi tên đồng ba cạnh xanh gỉ nằm chồng lên nhau trong hố đất khảo cổ, chiếc bay và bàn chải của nhà khảo cổ bên cạnh, nắng chiếu xiên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở khu Cầu Vực ấy có gần một vạn mũi tên đồng ba cạnh, phần lớn vừa ra khuôn, chưa kịp mài sắc.",
+     "At Cau Vuc there were nearly ten thousand three-edged bronze arrowheads, most of them freshly cast."
+    ]
+   ],
+   "kling_prompt": "Slow camera glide across the pile of arrowheads; sunlight shifts slightly; the archaeologist brush rests still. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: xưởng đúc đồng thời Âu Lạc bên thành Cổ Loa: người thợ đóng khố, búi tóc rót đồng nóng chảy vào những khuôn đá ghép ba mảnh, lửa lò đỏ rực, bó mũi tên đồng mới đúc đặt trên chiếu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những năm 2004 đến 2007, các nhà khảo cổ còn tìm thấy dấu tích lò đúc và khuôn đúc mũi tên ngay trong thành Cổ Loa.",
+     "From 2004 to 2007, archaeologists also found arrow-casting furnaces and moulds inside Co Loa."
+    ]
+   ],
+   "kling_prompt": "Molten bronze pours glowing into the stone moulds; furnace flames flicker; sparks float up; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: binh sĩ Âu Lạc (đóng khố, búi tóc) đứng trên vòng thành đất Cổ Loa giương nỏ có lẫy đồng, nhắm về phía chân trời lúc hoàng hôn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Truyện kể nỏ thần có lẫy làm từ móng rùa vàng. Rùa thần là tưởng tượng, nhưng mũi tên và lẫy nỏ thì có thật!",
+     "Legend says the magic crossbow had a trigger made from a golden turtle claw. The turtle is a legend, but the arrows and triggers are real!"
+    ]
+   ],
+   "kling_prompt": "The soldiers on the earthen rampart slowly draw their crossbows; banners and grass sway in the evening wind; sunset clouds drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mũi tên đồng tìm thấy ở Cầu Vực (Cổ Loa) năm 1959 có hình dạng gì?",
+    "lua_chon": [
+     "Ba cạnh",
+     "Hình lá tre",
+     "Bằng đá"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Mũi tên ở Cầu Vực có hình dạng gì?",
+     "EduHistory asks you! What shape were the Cau Vuc arrowheads?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: mũi tên đồng ba cạnh!",
+     "The answer is A: three-edged bronze arrowheads!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Truyền thuyết thường giấu một hạt nhân sự thật. Bạn còn biết truyền thuyết nào như thế? Bình luận nhé!",
+     "Legends often hide a grain of truth. Do you know another one? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

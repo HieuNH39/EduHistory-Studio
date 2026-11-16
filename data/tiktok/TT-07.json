@@ -1,0 +1,117 @@
+{
+ "ma": "TT-07",
+ "ten_tap": "270 người ra đi, 18 người trở về",
+ "ten_tap_en": "270 Set Sail, 18 Came Home",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7",
+  "bai": "Chủ đề chung 1. Các cuộc đại phát kiến địa lí"
+ },
+ "nguon_mo_rong": [
+  "https://origins.osu.edu/milestones/magellan-circumnavigation-earth",
+  "https://www.history.com/articles/ferdinand-magellan"
+ ],
+ "nhac": {
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: tháng 9 năm 1519, năm chiếc thuyền buồm lớn rời cảng Tây Ban Nha lúc bình minh, thuỷ thủ trên boong vẫy chào đám đông trên bến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1519, năm con tàu với khoảng 270 thuỷ thủ rời Tây Ban Nha, do Ph. Ma-gien-lăng chỉ huy.",
+     "In 1519, five ships with about 270 sailors left Spain, led by Ferdinand Magellan."
+    ]
+   ],
+   "kling_prompt": "The five tall ships sail slowly out of the harbour; sails fill; crowds wave from the pier; seagulls fly. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: một con tàu buồm nhỏ cô độc giữa đại dương mênh mông lặng sóng, thuỷ thủ gầy gò đứng trên boong nhìn chân trời trống trải",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ vượt eo biển phía nam châu Mỹ, rồi lênh đênh hàng tháng trời trên đại dương mà Ma-gien-lăng đặt tên là Thái Bình Dương.",
+     "They passed the strait at the tip of South America and drifted for months on the ocean Magellan named the Pacific."
+    ]
+   ],
+   "kling_prompt": "The lone ship rocks gently on the calm vast ocean; sailors stare at the empty horizon; clouds drift slowly. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: bờ biển đảo nhiệt đới lúc hoàng hôn, chiếc mũ sắt châu Âu thế kỉ XVI và thanh kiếm nằm trên cát, con tàu neo ngoài khơi (không cảnh chiến đấu)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1521, Ma-gien-lăng tử trận ở Phi-líp-pin.",
+     "In 1521, Magellan was killed in the Philippines."
+    ]
+   ],
+   "kling_prompt": "Waves wash softly over the helmet and sword on the sand; the anchored ship sways offshore; sunset light fades. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: tháng 9 năm 1522, con tàu buồm Vích-to-ri-a rách nát cập cảng Tây Ban Nha, những thuỷ thủ gầy gò bước lên bến, người dân ùa ra đón",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1522, chỉ một con tàu với 18 người trở về. Họ là những người đầu tiên đi vòng quanh Trái Đất!",
+     "In 1522, only one ship with 18 men returned. They were the first to sail around the Earth!"
+    ]
+   ],
+   "kling_prompt": "The battered ship docks slowly; thin sailors step onto the pier; townspeople rush forward to greet them. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chuyến đi vòng quanh thế giới đầu tiên trở về Tây Ban Nha vào năm nào?",
+    "lua_chon": [
+     "1522",
+     "1492",
+     "1498"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chuyến đi trở về năm nào?",
+     "EduHistory asks you! When did the voyage return?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 1522!",
+     "The answer is A: 1522!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nếu là thuỷ thủ năm ấy, bạn có dám lên tàu không? Bình luận nhé!",
+     "Would you have dared to join that crew? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

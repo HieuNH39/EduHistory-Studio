@@ -1,0 +1,117 @@
+{
+ "ma": "TT-05",
+ "ten_tap": "Chiếc chiếu và bảy sợi dây mây",
+ "ten_tap_en": "A Mat and Seven Rattan Cords",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII"
+ },
+ "nguon_mo_rong": [
+  "https://tuoitre.vn/doi-hung-binh-hoang-sa-trong-sau-tham-ly-son-20190420175810263.htm",
+  "https://vietnamnews.vn/society/1654487/quang-ngai-traditional-ceremony-honours-ancient-hoang-sa-flotilla.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu. Không dùng bản đồ trong tập này.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: bến thuyền đảo Lý Sơn thế kỉ XVII lúc bình minh: những ngư dân trong đội Hoàng Sa đầu quấn khăn khiêng gạo, nước ngọt, chiếu cói lên thuyền câu nhỏ; người thân đứng tiễn trên bờ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XVII – XVIII, mỗi năm các chúa Nguyễn cử đội Hoàng Sa ra khơi, nhiều người là ngư dân đảo Lý Sơn.",
+     "In the 17th and 18th centuries, the Nguyen lords sent the Hoang Sa flotilla to sea every year, many of them fishermen from Ly Son."
+    ]
+   ],
+   "kling_prompt": "Fishermen carry supplies onto the small boats; waves lap the shore; family members wave; dawn light grows. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: cận cảnh trên mạn thuyền gỗ: một chiếc chiếu cói cuộn tròn, mấy sợi dây mây, mấy thanh nẹp tre và một thẻ bài gỗ để trống",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tương truyền, mỗi người mang theo chiếc chiếu, dây mây, nẹp tre và thẻ bài ghi tên, phòng khi không may hi sinh giữa biển.",
+     "Tradition says each man carried a mat, rattan cords, bamboo splints and a name tag in case he died at sea."
+    ]
+   ],
+   "kling_prompt": "Slow push-in on the rolled mat, rattan cords and wooden tag on the deck; the boat rocks gently; sea spray. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: tranh phong cảnh biển, không phải bản đồ: đoàn thuyền câu nhỏ căng buồm vượt sóng bạc đầu giữa biển khơi xanh thẳm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ vượt sóng ra quần đảo Hoàng Sa đo đạc, khai thác sản vật, khẳng định chủ quyền của đất nước.",
+     "They crossed the waves to the Hoang Sa islands to survey, gather sea products and assert sovereignty."
+    ]
+   ],
+   "kling_prompt": "The small sailing boats rise and fall over white-capped waves; sails fill with wind; clouds race across the sky. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: lễ Khao lề thế lính Hoàng Sa ở Lý Sơn ngày nay: các cụ áo dài, khăn đóng làm lễ bên bờ biển, dân làng thả những chiếc thuyền nhỏ làm bằng thân cây chuối, buồm giấy màu ra biển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày nay, người Lý Sơn vẫn tổ chức Lễ Khao lề thế lính Hoàng Sa để tưởng nhớ những người đã ra đi.",
+     "Today, Ly Son people still hold the Khao le the linh Hoang Sa ceremony to remember them."
+    ]
+   ],
+   "kling_prompt": "Villagers gently push the small banana-stem boats with paper sails out to sea; elders bow; incense smoke drifts. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lễ Khao lề thế lính Hoàng Sa được tổ chức ở đâu?",
+    "lua_chon": [
+     "Đảo Lý Sơn (Quảng Ngãi)",
+     "Cố đô Huế",
+     "Côn Đảo"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Lễ Khao lề thế lính Hoàng Sa ở đâu?",
+     "EduHistory asks you! Where is the Hoang Sa soldiers ceremony held?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đảo Lý Sơn, Quảng Ngãi!",
+     "The answer is A: Ly Son Island, Quang Ngai!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hoàng Sa, Trường Sa là của Việt Nam. Chia sẻ câu chuyện này để nhiều bạn cùng biết nhé!",
+     "Hoang Sa and Truong Sa belong to Viet Nam. Share this story with your friends!"
+    ]
+   ]
+  }
+ ]
+}

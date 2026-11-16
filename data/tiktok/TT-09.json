@@ -1,0 +1,117 @@
+{
+ "ma": "TT-09",
+ "ten_tap": "Quả táo của Niu-tơn: thật hay đồn?",
+ "ten_tap_en": "Newton's Apple: Fact or Rumour?",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX"
+ },
+ "nguon_mo_rong": [
+  "https://www.history.com/articles/did-an-apple-really-fall-on-isaac-newtons-head",
+  "https://www.snopes.com/fact-check/isaac-newtons-apple-tree/"
+ ],
+ "nhac": {
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: khu vườn ở nước Anh thế kỉ XVII: một quả táo đỏ đang rơi từ cành cây xuống thảm cỏ, ánh chiều vàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ai cũng nghe chuyện quả táo rơi trúng đầu Niu-tơn. Nhưng chuyện ấy có thật không?",
+     "Everyone has heard that an apple fell on Newton's head. But is it true?"
+    ]
+   ],
+   "kling_prompt": "A red apple detaches and falls slowly to the grass; leaves sway; golden evening light; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: I. Niu-tơn lúc về già (tóc dài gợn sóng, áo choàng sẫm) ngồi uống trà dưới bóng cây táo cùng một người bạn, chỉ tay lên cành cây",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính Niu-tơn kể với người bạn William Stukeley rằng ông thấy một quả táo rơi khi ngồi trong vườn, chứ không bị táo rơi trúng đầu.",
+     "Newton himself told his friend William Stukeley he saw an apple fall in a garden. It never hit his head."
+    ]
+   ],
+   "kling_prompt": "Newton slowly raises his hand and points up at the branch while sipping tea; leaves rustle; gentle camera drift. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Niu-tơn ngồi bên bàn gỗ dưới ánh nến, viết những phép tính trên giấy, cạnh quả táo và quả địa cầu nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ông tự hỏi: vì sao táo luôn rơi thẳng xuống đất? Câu hỏi ấy dẫn ông đến định luật vạn vật hấp dẫn.",
+     "He wondered: why does an apple always fall straight down? That question led to the law of universal gravitation."
+    ]
+   ],
+   "kling_prompt": "Candle flame flickers; Newton writes calculations with a quill; shadows move on the wall; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: cây táo cổ thụ ở trang trại Woolsthorpe, nước Anh ngày nay, du khách đứng ngắm (không có chữ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cây táo ở quê nhà Niu-tơn tại Woolsthorpe vẫn còn sống đến hôm nay!",
+     "The apple tree at Newton's home in Woolsthorpe is still alive today!"
+    ]
+   ],
+   "kling_prompt": "Leaves of the old apple tree sway in the breeze; visitors stand quietly; clouds drift; slow camera rise. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo lời chính Niu-tơn kể lại, chuyện quả táo thực ra là gì?",
+    "lua_chon": [
+     "Ông nhìn thấy quả táo rơi",
+     "Quả táo rơi trúng đầu ông",
+     "Ông ném quả táo lên trời"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chuyện quả táo thực ra thế nào?",
+     "EduHistory asks you! What really happened with the apple?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: ông nhìn thấy quả táo rơi!",
+     "The answer is A: he saw an apple fall!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một câu hỏi nhỏ có thể dẫn tới phát minh lớn. Hôm nay bạn tò mò điều gì? Bình luận nhé!",
+     "A small question can lead to a big discovery. What are you curious about today? Comment below!"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "ma": "TT-11",
+ "ten_tap": "Chín chiếc đỉnh đồng của vua Minh Mạng",
+ "ten_tap_en": "Emperor Minh Mang's Nine Bronze Urns",
+ "khung": "60s",
+ "huong": "doc",
+ "loai": "tiktok_mo_rong",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)"
+ },
+ "nguon_mo_rong": [
+  "https://nhandan.vn/ocop/nhung-ban-duc-noi-tren-cuu-dinh-o-hue-duoc-ghi-danh-di-san-tu-lieu-khu-vuc-chau-a-thai-binh-duong-post808393.html",
+  "https://special.nhandan.vn/cuu-dinh-bach-khoa-thu-viet-nam-trieu-nguyen/index.html"
+ ],
+ "nhac": {
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Chuyện mở rộng từ SGK; hình ảnh minh hoạ do AI tạo, không phải ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: xưởng đúc đồng ở kinh đô Huế năm 1835: thợ phường đúc rót đồng nóng chảy vào khuôn lớn, lửa đỏ rực, một vị quan triều Nguyễn đứng giám sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1835, vua Minh Mạng cho thợ phường đúc ở Huế đúc chín chiếc đỉnh đồng khổng lồ.",
+     "In 1835, Emperor Minh Mang ordered Hue's bronze casters to make nine giant urns."
+    ]
+   ],
+   "kling_prompt": "Glowing molten bronze pours into the large mould; sparks fly; the official watches; slow push-in. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: cận cảnh thành một chiếc đỉnh đồng lớn với những hình đúc nổi: núi, sông, con thuyền, cây lúa, con hổ (không có chữ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên chín đỉnh có 162 hình đúc nổi: núi sông, biển đảo, cây cỏ, muông thú, binh khí... như một cuốn bách khoa thư bằng đồng.",
+     "The urns bear 162 relief images: mountains, rivers, seas, plants, animals and weapons, like a bronze encyclopedia."
+    ]
+   ],
+   "kling_prompt": "Slow camera glide across the relief images on the bronze urn; sunlight shifts across the metal surface. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: sân Thế Miếu trong Hoàng cung Huế: chín chiếc đỉnh đồng xếp thành hàng trước toà điện mái ngói vàng, nắng chiều",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1837, chín đỉnh hoàn thành và được đặt trước Thế Miếu trong Hoàng cung Huế, đến nay vẫn còn nguyên vẹn.",
+     "Finished in 1837, they still stand in front of the The Mieu temple in the Hue Imperial City."
+    ]
+   ],
+   "kling_prompt": "Slow tracking shot along the row of nine bronze urns; afternoon light moves; leaves drift across the courtyard. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: học sinh ngày nay đứng ngắm chín đỉnh đồng ở Huế, một bạn chỉ tay vào hình đúc nổi con thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 2024, những bản đúc nổi trên Cửu đỉnh được UNESCO ghi danh là Di sản tư liệu khu vực châu Á – Thái Bình Dương!",
+     "In 2024, the reliefs on the Nine Urns were inscribed by UNESCO as Asia-Pacific documentary heritage!"
+    ]
+   ],
+   "kling_prompt": "The student points to the relief boat; classmates lean in to look; gentle camera drift; sunlight on bronze. Keep the hand-drawn 2D storybook style and the same characters; gentle natural motion only; no new people enter the frame; no text; no blood."
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trên Cửu đỉnh ở Huế có bao nhiêu hình đúc nổi?",
+    "lua_chon": [
+     "162",
+     "9",
+     "1 000"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Cửu đỉnh có bao nhiêu hình đúc nổi?",
+     "EduHistory asks you! How many reliefs are on the Nine Urns?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: 162 hình!",
+     "The answer is A: 162!"
+    ]
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "ve_code": true,
+   "hinh": "Khung dọc: Nhật Minh và Hân Hân nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nếu được đúc một hình lên đỉnh đồng hôm nay, bạn sẽ chọn hình gì? Bình luận nhé!",
+     "If you could add one image to a bronze urn today, what would it be? Comment below!"
+    ]
+   ]
+  }
+ ]
+}
