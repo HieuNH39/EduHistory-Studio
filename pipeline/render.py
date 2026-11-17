@@ -235,12 +235,32 @@ def still_frames(img, W, H, nframes, motion="vao", strength=0.12):
 
 def video_frames(path, W, H, nframes, max_cham=1.3):
     """Clip chuyển động (Kling…): đọc qua memmap (không giữ cả clip trong RAM). Clip ngắn hơn cảnh thì
-    chiếu chậm lại tối đa max_cham lần (nội suy pha trộn khung), phần còn thiếu chạy lùi nhẹ (ping-pong) – không đứng hình."""
+    chiếu chậm lại tối đa max_cham lần (nội suy pha trộn khung), phần còn thiếu chạy lùi nhẹ (ping-pong) – không đứng hình.
+    Tệp tạm lưu ở độ phân giải gốc của clip (không phóng lên W×H) rồi mới phóng & cắt từng khung:
+    clip Kling 1284×716 dài 10 s chỉ còn ~0,8 GB thay vì ~1,9 GB – tránh đầy ổ đĩa khi hai clip nối nhau."""
+    import cv2
     tmp = os.path.join(CACHE, "vclip_" + hashlib.sha1(f"{path}{W}{H}{time.time()}".encode()).hexdigest()[:10] + ".rgb")
-    run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-an", "-vf",
-         f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.45:5:5:0,fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
     try:
-        frames = np.memmap(tmp, dtype=np.uint8, mode="r").reshape(-1, H, W, 3)
+        w0, h0 = [int(x) for x in subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+                                                    "-of", "csv=p=0", path], capture_output=True, text=True).stdout.strip().split(",")[:2]]
+    except Exception:
+        w0, h0 = W, H
+    s0 = max(W / w0, H / h0)
+    if s0 < 1:   # clip lớn hơn khung ra: thu nhỏ ngay khi giải mã (vẫn phủ kín khung)
+        sw, sh = max(W, int(round(w0 * s0 / 2)) * 2), max(H, int(round(h0 * s0 / 2)) * 2)
+    else:
+        sw, sh = w0 - w0 % 2, h0 - h0 % 2
+    run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-an", "-vf",
+         f"scale={sw}:{sh}:flags=lanczos,unsharp=5:5:0.45:5:5:0,fps={FPS}", "-f", "rawvideo", "-pix_fmt", "rgb24", tmp])
+    s1 = max(W / sw, H / sh)
+    rw, rh = max(W, int(np.ceil(sw * s1))), max(H, int(np.ceil(sh * s1)))
+    x0, y0 = (rw - W) // 2, (rh - H) // 2
+    def ra(fr):
+        if (rw, rh) != (sw, sh):
+            fr = cv2.resize(fr, (rw, rh), interpolation=cv2.INTER_LANCZOS4 if s1 > 1 else cv2.INTER_AREA)
+        return np.ascontiguousarray(fr[y0:y0 + H, x0:x0 + W])
+    try:
+        frames = np.memmap(tmp, dtype=np.uint8, mode="r").reshape(-1, sh, sw, 3)
         L = len(frames)
         f = 1.0 if L >= nframes else min(nframes / L, max_cham)
         pos = []
@@ -253,8 +273,8 @@ def video_frames(path, W, H, nframes, max_cham=1.3):
             pos.append(t)
         for x in pos:
             j = int(x); a = x - j
-            if a < 1e-3 or j >= L - 1: yield np.asarray(frames[min(j, L - 1)])
-            else: yield (frames[j].astype(np.float32) * (1 - a) + frames[j + 1].astype(np.float32) * a).astype(np.uint8)
+            if a < 1e-3 or j >= L - 1: yield ra(np.asarray(frames[min(j, L - 1)]))
+            else: yield ra((frames[j].astype(np.float32) * (1 - a) + frames[j + 1].astype(np.float32) * a).astype(np.uint8))
         del frames
     finally:
         if os.path.exists(tmp): os.remove(tmp)
