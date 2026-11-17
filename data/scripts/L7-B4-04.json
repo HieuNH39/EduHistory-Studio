@@ -1,0 +1,431 @@
+{
+ "ma": "L7-B4-04",
+ "ten_tap": "Di sản văn hóa rực rỡ",
+ "ten_tap_en": "A Brilliant Cultural Heritage",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 4. Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+  "trang": [
+   27,
+   28
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nha-tho-thoi-duong"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, cổ kính",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 4, tr. 27–28.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Hân Hân cầm cuốn Tây du kí, Nhật Minh cầm chiếc la bàn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giấy, nghề in, la bàn, thuốc súng, cả Tây du kí, Tam quốc diễn nghĩa nữa: đều đến từ Trung Quốc thời phong kiến!",
+     "Paper, printing, the compass, gunpowder, even Journey to the West and Romance of the Three Kingdoms: all from feudal China!"
+    ],
+    [
+     "Hân Hân",
+     "Cùng điểm lại những di sản văn hoá rực rỡ ấy nhé!",
+     "Let's review that brilliant cultural heritage!"
+    ]
+   ],
+   "nguon_trang": [
+    27,
+    28
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư tưởng – tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Nho giáo: hệ tư tưởng chính thống từ thời Hán",
+    "Phật giáo: thịnh hành nhất dưới thời Đường – xây chùa, đúc tượng, dịch và in kinh Phật"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thời Hán trở đi, Nho giáo trở thành hệ tư tưởng chính thống của chế độ phong kiến Trung Quốc.",
+     "From the Han onward, Confucianism became the official ideology of feudal China."
+    ],
+    [
+     "Nhật Minh",
+     "Phật giáo tiếp tục phát triển, thịnh hành nhất dưới thời Đường. Nhiều vị vua cho xây chùa, đúc tượng, dịch và in kinh Phật.",
+     "Buddhism kept growing and peaked under the Tang. Many emperors built temples, cast statues, and translated and printed sutras."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "tieu_de": "TƯ TƯỞNG – TÔN GIÁO",
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một trang trong Kinh Kim Cương in năm 868 (như Hình 4 SGK, tr. 27)",
+    "tim": "Diamond Sutra 868 printed",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: một trang Kinh Kim Cương (năm 868)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là một trang trong Kinh Kim Cương, tìm thấy trong hang Mạc Cao. Đây là cuốn sách in hoàn chỉnh lâu đời nhất thế giới, năm 868.",
+     "This is a page from the Diamond Sutra, found in the Mogao Caves. It is the world's oldest complete printed book, from 868."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuốn sách in hoàn chỉnh lâu đời nhất thế giới được tìm thấy ở Trung Quốc là",
+    "lua_chon": [
+     "Sử kí",
+     "Kinh Kim Cương",
+     "Tây du kí"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Cuốn sách in hoàn chỉnh lâu đời nhất thế giới là cuốn nào?",
+     "EduHistory asks you! Which is the world's oldest complete printed book?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Kinh Kim Cương, năm 868!",
+     "The answer is B: the Diamond Sutra, from 868!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-tho-thoi-duong"
+   ],
+   "hinh": "Dùng lại ảnh L7-B4-02 cảnh 15: nhà thơ thời Đường cầm bút lông viết thơ dưới trăng; trong chùa các nhà sư in kinh Phật bằng bản khắc gỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thể loại văn học đặc trưng nhất thời Hán là phú, với Giả Nghị, Tư Mã Tương Như.",
+     "The signature genre of the Han was the rhapsody, with Jia Yi and Sima Xiangru."
+    ],
+    [
+     "Hân Hân",
+     "Thơ Đường trở thành đỉnh cao của thơ ca Trung Quốc, với Lý Bạch, Đỗ Phủ, Bạch Cư Dị.",
+     "Tang poetry became the peak of Chinese verse, with Li Bai, Du Fu and Bai Juyi."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B4-02/canh-15.jpg",
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "Thuỷ hử (Thi Nại Am)",
+    "Tam quốc diễn nghĩa (La Quán Trung)",
+    "Tây du kí (Ngô Thừa Ân)",
+    "Hồng lâu mộng (Tào Tuyết Cần)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thời Nguyên đến thời Thanh, xuất hiện nhiều tiểu thuyết chương hồi đồ sộ, ảnh hưởng sâu sắc đến văn học các nước khác.",
+     "From the Yuan to the Qing, great multi-chapter novels appeared, deeply influencing other countries' literature."
+    ],
+    [
+     "Hân Hân",
+     "Như Thuỷ hử, Tam quốc diễn nghĩa, Tây du kí, Hồng lâu mộng.",
+     "Such as Water Margin, Romance of the Three Kingdoms, Journey to the West and Dream of the Red Chamber."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "tieu_de": "TIỂU THUYẾT CHƯƠNG HỒI",
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiến trúc, điêu khắc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Vạn Lý Trường Thành (Trung Quốc)",
+    "tim": "Great Wall of China Mutianyu",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Vạn Lý Trường Thành",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các triều đại phong kiến Trung Quốc đều chú trọng xây dựng những công trình đồ sộ như tường thành, lăng tẩm, cung điện, với phong cách rất đặc sắc.",
+     "Every Chinese dynasty built grand works such as walls, tombs and palaces, in a very distinctive style."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu là Vạn Lý Trường Thành, lăng Ly Sơn, Tử Cấm Thành, Viên Minh Viên.",
+     "Famous examples are the Great Wall, the Lishan mausoleum, the Forbidden City and the Old Summer Palace."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tử Cấm Thành ở Bắc Kinh (Trung Quốc)",
+    "tim": "Forbidden City Beijing aerial",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Tử Cấm Thành (Bắc Kinh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những bức hoạ đạt tới đỉnh cao cùng những bức tượng Phật tinh xảo, sinh động đã chứng tỏ sự tài hoa và sáng tạo của các nghệ nhân Trung Quốc.",
+     "Paintings of the highest level and finely made, lifelike Buddha statues show the talent and creativity of Chinese artists."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Khoa học, kĩ thuật",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thay-thuoc-trung-quoc"
+   ],
+   "hinh": "Một phòng thuốc cổ truyền ở Trung Quốc thời phong kiến: tủ gỗ nhiều ngăn kéo đựng thảo dược, những bó rễ cây phơi trên giá; một thầy thuốc già râu bạc châm cứu những cây kim nhỏ lên vai người bệnh; học trò ngồi bên ghi chép vào cuốn sách dày",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sử học rất phát triển, với các bộ sử như Sử kí, Hán thư, Tam quốc chí, Minh sử.",
+     "History writing flourished, with works such as the Records of the Grand Historian, the Book of Han, the Records of the Three Kingdoms and the History of Ming."
+    ],
+    [
+     "Hân Hân",
+     "Y học cổ truyền đạt nhiều thành tựu, tiêu biểu là dùng thảo dược, châm cứu, bấm huyệt để chữa bệnh, với các sách Bản thảo cương mục, Hoàng đế nội kinh.",
+     "Traditional medicine achieved much, notably herbs, acupuncture and acupressure, with books such as the Compendium of Materia Medica and the Yellow Emperor's Inner Classic."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "La bàn cổ của Trung Quốc (như Hình 5 SGK, tr. 28)",
+    "tim": "Chinese south-pointing spoon compass model",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: mô hình la bàn cổ của Trung Quốc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Trung Quốc có nhiều phát minh về kĩ thuật, tiêu biểu là kĩ thuật làm giấy, kĩ thuật in, la bàn, thuốc súng.",
+     "The Chinese made many technical inventions, notably papermaking, printing, the compass and gunpowder."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu KHÔNG phải là phát minh kĩ thuật của người Trung Quốc thời phong kiến?",
+    "lua_chon": [
+     "Kĩ thuật làm giấy",
+     "La bàn",
+     "Máy hơi nước"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đâu không phải là phát minh của người Trung Quốc thời phong kiến?",
+     "Pause! Which was NOT an invention of feudal China?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: máy hơi nước!",
+     "The answer is C: the steam engine!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư tưởng: Nho giáo chính thống; Phật giáo thịnh nhất thời Đường",
+    "Văn học: phú thời Hán, thơ Đường, tiểu thuyết chương hồi",
+    "Kiến trúc: Vạn Lý Trường Thành, Tử Cấm Thành, Viên Minh Viên",
+    "Khoa học – kĩ thuật: sử học, y học; giấy, in, la bàn, thuốc súng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tư tưởng, văn học, kiến trúc, khoa học – kĩ thuật của Trung Quốc thời phong kiến đều đạt nhiều thành tựu.",
+     "Remember: feudal China achieved much in thought, literature, architecture, science and technology."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều thành tựu còn ảnh hưởng lâu dài đến các nước châu Á.",
+     "Many achievements had a lasting influence on Asian countries."
+    ]
+   ],
+   "nguon_trang": [
+    27,
+    28
+   ],
+   "tieu_de": "DI SẢN VĂN HOÁ TRUNG QUỐC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: kể một ảnh hưởng của văn hoá Trung Quốc thời phong kiến đối với văn hoá Việt Nam. Bình luận nhé!",
+     "Your challenge: name one influence of feudal Chinese culture on Vietnamese culture. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ thời nào, Nho giáo trở thành hệ tư tưởng chính thống của chế độ phong kiến Trung Quốc?",
+   "dap_an": [
+    "Thời Tần",
+    "Thời Hán",
+    "Thời Đường",
+    "Thời Minh"
+   ],
+   "dung": 1,
+   "trang": 27
+  },
+  {
+   "hoi": "Ai là tác giả của Tây du kí?",
+   "dap_an": [
+    "La Quán Trung",
+    "Thi Nại Am",
+    "Ngô Thừa Ân",
+    "Tào Tuyết Cần"
+   ],
+   "dung": 2,
+   "trang": 27
+  },
+  {
+   "hoi": "Thơ Đường có những nhà thơ nổi tiếng nào?",
+   "dap_an": [
+    "Lý Bạch, Đỗ Phủ, Bạch Cư Dị",
+    "Giả Nghị, Tư Mã Tương Như",
+    "Thi Nại Am, La Quán Trung",
+    "Lê-ô-na đơ Vanh-xi"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Y học cổ truyền Trung Quốc dùng những phương pháp nào để chữa bệnh?",
+   "dap_an": [
+    "Thảo dược, châm cứu, bấm huyệt",
+    "Phẫu thuật",
+    "Tiêm vắc-xin",
+    "Chụp X-quang"
+   ],
+   "dung": 0,
+   "trang": 28
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 27 (mục 4a–c: Nho giáo, Phật giáo, Kinh Kim Cương 868 – Hình 4; phú, thơ Đường, tiểu thuyết chương hồi; kiến trúc, hội hoạ, tượng Phật) và tr. 28 (mục 4d: sử học, y học, phát minh; Hình 5 la bàn cổ; Luyện tập câu 4). Cảnh 7 dùng lại ảnh L7-B4-02 cảnh 15. Ảnh Vạn Lý Trường Thành, Tử Cấm Thành là ảnh hiện nay của di tích.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

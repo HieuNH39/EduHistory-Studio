@@ -1,0 +1,200 @@
+{
+ "ma": "L8-B12-05",
+ "ten_tap": "Tầm vóc của một cuộc cách mạng vĩ đại",
+ "ten_tap_en": "The Stature of a Great Revolution",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 12. Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+  "trang": [
+   57
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, rộng mở",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 12, tr. 57.",
+ "chinh_sach_hinh": "Nhân vật hiện đại chỉ dùng ảnh tư liệu thật; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân chỉ vào mốc 1917 trên trục thời gian",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tháng Mười Nga năm 1917 có tầm vóc thế nào đối với lịch sử nhân loại?",
+     "How significant was Russia's October Revolution of 1917 for human history?"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cung điện Mùa Đông ở Pê-tơ-rô-grát (Xanh Pê-téc-bua) – nơi diễn ra sự kiện tháng 10 – 1917",
+    "tim": "Winter Palace Saint Petersburg",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; không có cảnh bạo lực"
+   },
+   "hinh": "Ảnh tư liệu: Cung điện Mùa Đông (Xanh Pê-téc-bua, Nga)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi của Cách mạng tháng Mười Nga đã đập tan bộ máy nhà nước cũ của giai cấp tư sản và địa chủ, thành lập bộ máy nhà nước mới của giai cấp công nhân và nông dân Nga.",
+     "The October Revolution smashed the old state of the bourgeoisie and landlords and set up a new state of Russian workers and peasants."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, trên bảng vẽ quả địa cầu với những tia sáng toả ra",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tháng Mười cổ vũ mạnh mẽ phong trào cách mạng của giai cấp công nhân quốc tế, đồng thời mở ra con đường giải phóng cho các dân tộc bị áp bức trên toàn thế giới.",
+     "It powerfully inspired the international workers' movement and opened a path of liberation for oppressed peoples worldwide."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc cách mạng đã chặt đứt một khâu yếu nhất trong hệ thống đế quốc chủ nghĩa, tạo ra chế độ xã hội đối lập với xã hội tư bản chủ nghĩa.",
+     "It broke the weakest link in the imperialist chain, creating a social system opposed to capitalism."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Nhật Minh đọc từ cuốn sách mở",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chủ tịch Hồ Chí Minh đánh giá: Giống như Mặt Trời chói lọi, Cách mạng tháng Mười chiếu sáng khắp năm châu, thức tỉnh hàng triệu, hàng triệu người bị áp bức, bóc lột trên Trái Đất.",
+     "President Hồ Chí Minh wrote: like a brilliant sun, the October Revolution shone over all five continents, awakening millions upon millions of the oppressed and exploited on Earth."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cách mạng tháng Mười Nga đã mở ra con đường gì cho các dân tộc bị áp bức?",
+    "lua_chon": [
+     "Con đường giải phóng",
+     "Con đường buôn bán",
+     "Con đường thuộc địa"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Cách mạng tháng Mười mở ra con đường gì?",
+     "EduHistory asks you! What path did the October Revolution open?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: con đường giải phóng cho các dân tộc bị áp bức trên toàn thế giới!",
+     "The answer is A: a path of liberation for oppressed peoples worldwide!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tháng Mười Nga có ảnh hưởng như thế nào đối với cách mạng Việt Nam? Tìm hiểu và bình luận nhé!",
+     "How did the October Revolution influence the Vietnamese revolution? Find out and tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cách mạng tháng Mười Nga đã thành lập bộ máy nhà nước của giai cấp nào?",
+   "dap_an": [
+    "Công nhân và nông dân",
+    "Tư sản và địa chủ",
+    "Quý tộc",
+    "Tăng lữ"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Cách mạng tháng Mười đã chặt đứt khâu nào trong hệ thống đế quốc chủ nghĩa?",
+   "dap_an": [
+    "Khâu yếu nhất",
+    "Khâu mạnh nhất",
+    "Khâu ở châu Mỹ",
+    "Khâu ở châu Phi"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Ai đã ví Cách mạng tháng Mười \"giống như Mặt Trời chói lọi\"?",
+   "dap_an": [
+    "Chủ tịch Hồ Chí Minh",
+    "Giôn Rít",
+    "C. Mác",
+    "Ph. Ăng-ghen"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Tác phẩm \"Mười ngày rung chuyển thế giới\" là của ai?",
+   "dap_an": [
+    "Giôn Rít (người Mỹ)",
+    "Lép Tôn-xtôi",
+    "Vích-to Huy-gô",
+    "A. Pu-skin"
+   ],
+   "dung": 0,
+   "trang": 57
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 57 (mục 2b: đập tan bộ máy nhà nước cũ, thành lập nhà nước của công nhân và nông dân; cổ vũ phong trào cách mạng quốc tế; con đường giải phóng cho các dân tộc bị áp bức; chặt đứt khâu yếu nhất; tư liệu 2 đánh giá của Chủ tịch Hồ Chí Minh; ô Em có biết Giôn Rít; Vận dụng). Khung dọc; chỉ dùng ảnh tư liệu thật, không vẽ chân dung nhân vật hiện đại bằng AI.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

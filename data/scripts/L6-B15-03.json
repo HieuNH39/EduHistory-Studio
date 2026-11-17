@@ -1,0 +1,366 @@
+{
+ "ma": "L6-B15-03",
+ "ten_tap": "Sức sống bền bỉ của người Việt",
+ "ten_tap_en": "The Enduring Vitality of the Vietnamese",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 15. Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+  "trang": [
+   68,
+   69
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet"
+ ],
+ "nhac": {
+  "tam_trang": "bền bỉ, kiên cường",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 15, tr. 68–69.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi dòng chữ: hơn 1 000 năm Bắc thuộc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hơn một nghìn năm Bắc thuộc, người Việt đã sống và lao động thế nào?",
+     "Through more than a thousand years of Northern rule, how did the Vietnamese live and work?"
+    ],
+    [
+     "Hân Hân",
+     "Câu trả lời là: bền bỉ hơn cậu nghĩ đấy!",
+     "The answer: more resiliently than you'd think!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-02 cảnh 3: quan lại phương Bắc cưỡi ngựa chỉ tay cắm cọc chiếm ruộng, người nông dân Âu Lạc cúi đầu cày cấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mặc dù bị kìm hãm bởi chính sách cai trị và bóc lột của các triều đại phong kiến phương Bắc,",
+     "Though held back by the rule and exploitation of the Northern dynasties,"
+    ],
+    [
+     "Nhật Minh",
+     "trong hơn một nghìn năm Bắc thuộc, kinh tế, xã hội và văn hoá của người Việt vẫn có sự chuyển biến đáng kể.",
+     "over a thousand years the Vietnamese economy, society and culture still changed significantly."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-02/canh-03.jpg",
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kinh tế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet"
+   ],
+   "hinh": "Dùng lại ảnh L6-B17-02 cảnh 3: một làng Việt thời Bắc thuộc, đầu làng có cáo thị, trong làng người dân vẫn cày cấy, sinh hoạt theo nếp cũ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trồng lúa nước vẫn là nghề chính, bên cạnh trồng cây ăn quả, hoa màu và chăn nuôi.",
+     "Wet rice remained the main occupation, alongside fruit trees, other crops and livestock."
+    ],
+    [
+     "Nhật Minh",
+     "Sự phát triển của công cụ sản xuất và kĩ thuật đắp đê, làm thuỷ lợi đã tạo nên những vùng trồng lúa nước rộng lớn.",
+     "Better tools and dyke-building and irrigation created large rice-growing areas."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B17-02/canh-03.jpg",
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Xưởng thủ công của người Việt thời Bắc thuộc dưới mái lá: một người ngâm vỏ cây trong bể nước, một người dùng khuôn tre vớt lớp bột giấy, những tờ giấy trắng phơi trên giàn tre; bên cạnh, người thợ ngồi bên lò nung nhỏ, gắp những hạt chuỗi thuỷ tinh nhiều màu; người làm mặc áo nâu, búi tóc, đi chân đất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các nghề rèn sắt, đúc đồng, làm gốm, làm mộc, làm đồ trang sức vẫn tiếp tục được duy trì với kĩ thuật sản xuất cao hơn.",
+     "Iron-forging, bronze-casting, pottery, carpentry and jewellery-making continued with higher skill."
+    ],
+    [
+     "Hân Hân",
+     "Một số nghề mới xuất hiện như làm giấy, thuỷ tinh. Có loại giấy làm từ cây mật hương, màu trắng, có vân như mắt cá lớn, rất thơm, bền chắc, cho xuống nước không hỏng!",
+     "New crafts appeared: paper and glass. One paper made from agarwood was white, fish-scale veined, fragrant, strong, and didn't spoil in water!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời Bắc thuộc, nghề thủ công mới nào xuất hiện?",
+    "lua_chon": [
+     "Làm giấy, thuỷ tinh",
+     "Đúc đồng",
+     "Làm gốm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nghề mới nào xuất hiện thời Bắc thuộc?",
+     "EduHistory asks you! Which new crafts appeared under Northern rule?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: làm giấy, thuỷ tinh! Đúc đồng và làm gốm đã có từ trước.",
+     "The answer is A: paper and glass! Bronze and pottery came earlier."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-01 cảnh 8: bên trong thành Luy Lâu thời Bắc thuộc, phố chợ đông đúc, thuyền buôn trên sông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một số đường giao thông thuỷ, bộ được hình thành. Hoạt động buôn bán trong nước và với các nước khác được đẩy mạnh hơn trước.",
+     "Waterways and roads took shape, and trade at home and abroad grew stronger than before."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-01/canh-08.jpg",
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "hao-truong"
+   ],
+   "hinh": "Dùng lại ảnh L6-B16-03 cảnh 4: một hào trưởng dáng vẻ cương nghị, mặc áo vải sẫm, đứng trước đông đảo dân chúng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Với chính sách cai trị của phương Bắc, các tầng lớp trong xã hội đều có sự biến đổi. Một số quan lại, địa chủ người Hán bị Việt hoá.",
+     "Under Northern rule every social class changed. Some Han officials and landlords became Vietnamised."
+    ],
+    [
+     "Nhật Minh",
+     "Tầng lớp hào trưởng bản địa hình thành từ bộ phận quý tộc trong xã hội Âu Lạc cũ, có uy tín và vị thế quan trọng trong đời sống xã hội.",
+     "A local chieftain class arose from the old Âu Lạc nobility, with prestige and standing in society."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B16-03/canh-04.jpg",
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-02 cảnh 4: sân công đường, dân làng xếp hàng dài nộp thóc, vải vóc, viên quan ghi sổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bao trùm trong xã hội bấy giờ là mâu thuẫn giữa nhân dân Âu Lạc với chính quyền đô hộ phương Bắc.",
+     "Overshadowing everything was the conflict between the Âu Lạc people and the Northern authorities."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là nguyên nhân làm bùng lên các cuộc đấu tranh giành độc lập liên tục trong suốt thời kì Bắc thuộc.",
+     "That sparked independence struggles again and again throughout the Northern period."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-02/canh-04.jpg",
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tầng lớp hào trưởng bản địa hình thành từ đâu?",
+    "lua_chon": [
+     "Từ quan lại người Hán",
+     "Từ bộ phận quý tộc Âu Lạc cũ",
+     "Từ thương nhân nước ngoài"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hào trưởng bản địa hình thành từ đâu?",
+     "Pause! Where did the local chieftains come from?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: từ bộ phận quý tộc trong xã hội Âu Lạc cũ!",
+     "The answer is B: from the old Âu Lạc nobility!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Lúa nước vẫn là nghề chính; đắp đê, làm thuỷ lợi",
+    "Thủ công duy trì; nghề mới: làm giấy, thuỷ tinh",
+    "Giao thông, buôn bán được đẩy mạnh",
+    "Hào trưởng bản địa hình thành; mâu thuẫn với chính quyền đô hộ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: dù bị kìm hãm, kinh tế người Việt vẫn chuyển biến, xuất hiện nghề làm giấy, thuỷ tinh.",
+     "Remember: though held back, the economy still changed, with new paper and glass crafts."
+    ],
+    [
+     "Nhật Minh",
+     "Tầng lớp hào trưởng hình thành, và mâu thuẫn với chính quyền đô hộ dẫn tới các cuộc đấu tranh giành độc lập.",
+     "A chieftain class formed, and conflict with the rulers led to independence struggles."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    69
+   ],
+   "tieu_de": "SỨC SỐNG BỀN BỈ CỦA NGƯỜI VIỆT",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, tầng lớp nào sẽ là thủ lĩnh những cuộc đấu tranh giành độc lập? Vì sao? Bình luận nhé!",
+     "Your challenge: which class do you think will lead the independence struggles, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Bắc thuộc, nghề chính của người Việt vẫn là gì?",
+   "dap_an": [
+    "Trồng lúa nước",
+    "Buôn bán đường biển",
+    "Chăn nuôi ngựa",
+    "Khai mỏ vàng"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Loại giấy làm từ cây mật hương có đặc điểm gì?",
+   "dap_an": [
+    "Màu trắng, có vân như mắt cá, thơm, bền chắc, xuống nước không hỏng",
+    "Màu đen, dễ rách",
+    "Làm bằng da thú",
+    "Làm bằng đất sét"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Thời Bắc thuộc, tầng lớp nào bị Việt hoá?",
+   "dap_an": [
+    "Một số quan lại, địa chủ người Hán",
+    "Nông dân Việt",
+    "Hào trưởng",
+    "Thợ thủ công Việt"
+   ],
+   "dung": 0,
+   "trang": 69
+  },
+  {
+   "hoi": "Mâu thuẫn bao trùm xã hội thời Bắc thuộc là mâu thuẫn giữa ai với ai?",
+   "dap_an": [
+    "Nhân dân Âu Lạc với chính quyền đô hộ phương Bắc",
+    "Nông dân với thợ thủ công",
+    "Hào trưởng với nông dân",
+    "Thương nhân với nông dân"
+   ],
+   "dung": 0,
+   "trang": 69
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 68 (mục 2a: chuyển biến kinh tế – lúa nước, đắp đê, thuỷ lợi; thủ công; nghề mới làm giấy, thuỷ tinh; ô giấy mật hương; giao thông, buôn bán) và tr. 69 (mục 2b: quan lại, địa chủ người Hán bị Việt hoá; hào trưởng bản địa từ quý tộc Âu Lạc cũ; mâu thuẫn bao trùm; câu hỏi 2). Dùng lại ảnh L6-B15-02 cảnh 3, 4; L6-B17-02 cảnh 3; L6-B15-01 cảnh 8; L6-B16-03 cảnh 4 (minh hoạ chung, không gọi tên nhân vật); một cảnh tái hiện mới (xưởng làm giấy, thuỷ tinh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

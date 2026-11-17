@@ -1,0 +1,441 @@
+{
+ "ma": "L6-B20-03",
+ "ten_tap": "Xã hội và văn hóa Phù Nam",
+ "ten_tap_en": "Funan's Society and Culture",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 20. Vương quốc Phù Nam",
+  "trang": [
+   93,
+   94
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-phu-nam"
+ ],
+ "nhac": {
+  "tam_trang": "sông nước, thanh bình",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 20, tr. 93–94.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, trước tủ kính trưng bày đồ trang sức vàng cổ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vương quốc Phù Nam ở vùng sông nước Nam Bộ xưa có xã hội và văn hoá ra sao?",
+     "What were society and culture like in the river kingdom of Funan in ancient southern Vietnam?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng khám phá nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Dùng lại ảnh L6-B20-02 cảnh 9: trên bến cảng Óc Eo, một sứ giả Trung Quốc thời cổ cầm bút ghi chép, nhìn thương nhân Phù Nam niềm nở bày vàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sử kí Trung Quốc chép về Phù Nam: Dân Phù Nam mưu lược, nhưng tốt bụng và thật thà, chuyên nghề buôn bán. Hàng hoá bán thường ngày là vàng, bạc, lụa.",
+     "Chinese records say: the people of Funan are shrewd yet kind and honest, devoted to trade. Their daily wares are gold, silver and silk."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B20-02/canh-09.jpg",
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tổ chức xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng, Hân Hân chỉ lên sơ đồ hình kim tự tháp vẽ phấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tổ chức nhà nước ở Phù Nam trong khoảng hai thế kỉ đầu còn đơn giản, nhưng từ thế kỉ III dần được hoàn thiện.",
+     "Funan's state was simple for its first two centuries, but from the 3rd century it matured."
+    ],
+    [
+     "Nhật Minh",
+     "Vua là người đứng đầu và có quyền lực cao nhất; dưới đó là hệ thống quan lại giúp việc cho vua với nhiều cấp bậc.",
+     "The king held the highest power; beneath him was a multi-level system of officials."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "y": [
+    "Tăng lữ",
+    "Quý tộc",
+    "Dân tự do (thương nhân, thợ thủ công, nông dân)",
+    "Nô lệ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xã hội Phù Nam bao gồm các tầng lớp: tăng lữ, quý tộc, dân tự do gồm thương nhân, thợ thủ công, nông dân, và nô lệ.",
+     "Funan's society comprised priests, nobles, free people, that is merchants, artisans and farmers, and slaves."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "tieu_de": "CÁC TẦNG LỚP XÃ HỘI PHÙ NAM",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dân tự do ở Phù Nam gồm những ai?",
+    "lua_chon": [
+     "Tăng lữ, quý tộc",
+     "Thương nhân, thợ thủ công, nông dân",
+     "Nô lệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Dân tự do ở Phù Nam gồm những ai?",
+     "EduHistory asks you! Who were Funan's free people?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thương nhân, thợ thủ công, nông dân!",
+     "The answer is B: merchants, artisans and farmers!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tín ngưỡng, tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng, Nhật Minh vẽ hình Mặt Trời lên bảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân Phù Nam có tín ngưỡng thờ đa thần, tiêu biểu là thờ thần Mặt Trời.",
+     "The people of Funan worshipped many gods, especially the Sun god."
+    ],
+    [
+     "Hân Hân",
+     "Trong quá trình giao lưu buôn bán quốc tế, họ chủ động tiếp nhận Phật giáo và Bà La Môn giáo từ Ấn Độ. Từ Phù Nam, các tôn giáo này lại được truyền bá đến nhiều vùng đất khác ở Đông Nam Á.",
+     "Through trade they embraced Buddhism and Brahmanism from India, which then spread from Funan across Southeast Asia."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng thần Vi-snu tìm thấy ở xã Tân Hội, tỉnh An Giang (như Hình 6 SGK tr. 93)",
+    "tim": "Vishnu statue Oc Eo culture",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn; không vẽ bằng AI; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: tượng thần Vi-snu (văn hoá Óc Eo)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Để phục vụ việc thờ cúng, nghề tạc tượng các vị thần Ấn Độ giáo và tượng Phật bằng đá, gỗ ở Phù Nam đã khá phát triển từ đầu Công nguyên,",
+     "For worship, carving Hindu gods and Buddha images in stone and wood flourished in Funan from the early Common Era,"
+    ],
+    [
+     "Hân Hân",
+     "tạo nên một phong cách riêng, gọi là phong cách Phù Nam.",
+     "creating a distinctive Funan style."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cư dân Phù Nam chủ động tiếp nhận những tôn giáo nào từ Ấn Độ?",
+    "lua_chon": [
+     "Phật giáo và Bà La Môn giáo",
+     "Đạo giáo và Nho giáo",
+     "Hồi giáo"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Phù Nam tiếp nhận tôn giáo nào từ Ấn Độ?",
+     "Pause! Which religions did Funan take from India?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Phật giáo và Bà La Môn giáo!",
+     "The answer is A: Buddhism and Brahmanism!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Nhà sàn trên sông nước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Dùng lại ảnh L6-B20-02 cảnh 10: toàn cảnh từ trên cao khu dân cư Phù Nam, hàng trăm ngôi nhà sàn gỗ mái lá dựng san sát trên mặt nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khi khai quật di chỉ Óc Eo, các nhà khảo cổ đã tìm thấy dấu tích các cọc nhà sàn san sát nhau trên một phạm vi rộng lớn, chứng tỏ dân cư đông đúc.",
+     "Excavating Óc Eo, archaeologists found stilt-house posts packed over a wide area, proof of a dense population."
+    ],
+    [
+     "Hân Hân",
+     "Cư dân Phù Nam dựng những ngôi nhà sàn rộng bằng gỗ trên mặt nước, lợp mái lá, chung sống hài hoà với môi trường sông nước và khí hậu nóng ẩm.",
+     "They built wide wooden stilt houses over the water with leaf roofs, living in harmony with the rivers and the hot, humid climate."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B20-02/canh-10.jpg",
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-phu-nam"
+   ],
+   "hinh": "Dùng lại ảnh L6-B20-02 cảnh 3: đồng bằng sông nước Nam Bộ thời Phù Nam, cư dân cấy lúa, chăn trâu bò, trên kênh có người đánh cá",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Họ sử dụng ghe, thuyền để đi lại thuận tiện trên kênh rạch; dùng ngựa, trâu, bò để kéo xe.",
+     "They used boats to travel the canals, and horses, buffalo and oxen to pull carts."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B20-02/canh-03.jpg",
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Nhẫn vàng – hiện vật văn hoá Óc Eo (dùng lại ảnh tư liệu của L6-B11-03 cảnh 7)",
+    "tim": "Oc Eo gold ring",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L6-B11-03 cảnh 7"
+   },
+   "hinh": "Tư liệu: nhẫn vàng – văn hoá Óc Eo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cư dân Phù Nam còn làm nhiều đồ trang sức đẹp như mặt dây chuyền, nhẫn vàng, khuyên tai bằng vàng, chuỗi hạt bằng đá.",
+     "They also made fine jewellery: pendants, gold rings, gold earrings and stone bead necklaces."
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kiến trúc nhà ở đặc trưng của cư dân Phù Nam là gì?",
+    "lua_chon": [
+     "Nhà sàn bằng gỗ trên mặt nước",
+     "Nhà gạch nhiều tầng",
+     "Lều vải"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Cư dân Phù Nam ở loại nhà nào?",
+     "EduHistory asks you! What homes did Funan's people live in?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: nhà sàn bằng gỗ trên mặt nước!",
+     "The answer is A: wooden stilt houses over the water!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "ghi_nho",
+   "y": [
+    "Xã hội: tăng lữ, quý tộc, dân tự do, nô lệ",
+    "Tín ngưỡng đa thần; tiếp nhận Phật giáo, Bà La Môn giáo",
+    "Tạc tượng đá, gỗ – phong cách Phù Nam",
+    "Nhà sàn gỗ trên mặt nước, mái lá"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: xã hội Phù Nam gồm tăng lữ, quý tộc, dân tự do và nô lệ; cư dân thờ đa thần, tiếp nhận Phật giáo, Bà La Môn giáo.",
+     "Remember: Funan had priests, nobles, free people and slaves; people worshipped many gods and embraced Buddhism and Brahmanism."
+    ],
+    [
+     "Nhật Minh",
+     "Nghệ thuật tạc tượng mang phong cách Phù Nam, và nhà sàn là kiến trúc đặc trưng.",
+     "Their sculpture had a Funan style, and stilt houses were their signature architecture."
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94
+   ],
+   "tieu_de": "XÃ HỘI VÀ VĂN HOÁ PHÙ NAM",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: xã hội Phù Nam có những nét tương đồng nào so với xã hội Chăm-pa? Bình luận nhé!",
+     "Your challenge: what did Funan's society share with Champa's? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo sử kí Trung Quốc, hàng hoá bán thường ngày của dân Phù Nam là gì?",
+   "dap_an": [
+    "Vàng, bạc, lụa",
+    "Lúa mì",
+    "Ngựa",
+    "Muối"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Tổ chức nhà nước Phù Nam dần được hoàn thiện từ khi nào?",
+   "dap_an": [
+    "Thế kỉ III",
+    "Thế kỉ X",
+    "Thế kỉ I TCN",
+    "Thế kỉ XV"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Tín ngưỡng tiêu biểu của cư dân Phù Nam là gì?",
+   "dap_an": [
+    "Thờ thần Mặt Trời",
+    "Thờ thần Biển",
+    "Thờ thần Lửa",
+    "Thờ thần Gió"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Dấu tích nào ở di chỉ Óc Eo chứng tỏ dân cư đông đúc?",
+   "dap_an": [
+    "Các cọc nhà sàn san sát trên phạm vi rộng lớn",
+    "Kim tự tháp",
+    "Thành đá lớn",
+    "Đấu trường"
+   ],
+   "dung": 0,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 93 (tư liệu sử kí Trung Quốc; mục 2b tổ chức nhà nước hoàn thiện từ thế kỉ III, vua, quan lại; tăng lữ, quý tộc, dân tự do – thương nhân, thợ thủ công, nông dân – nô lệ; mục 3 thờ đa thần, thần Mặt Trời; Phật giáo, Bà La Môn giáo, truyền bá ra Đông Nam Á; tạc tượng đá, gỗ – phong cách Phù Nam; Hình 6 tượng Vi-snu Tân Hội, An Giang; câu hỏi 3) và tr. 94 (cọc nhà sàn Óc Eo; ghe thuyền, ngựa, trâu, bò kéo xe; nhà sàn gỗ trên mặt nước, mái lá; Hình 8 đồ trang sức). Dùng lại ảnh L6-B20-02 cảnh 3, 9, 10 và ảnh tư liệu L6-B11-03 cảnh 7 (cùng khung ngang); tượng thần chỉ dùng ảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

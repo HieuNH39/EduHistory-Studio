@@ -1,0 +1,315 @@
+{
+ "ma": "L8-B16-04",
+ "ten_tap": "Di sản văn hoá rực rỡ thời Nguyễn",
+ "ten_tap_en": "The Brilliant Cultural Heritage of the Nguyễn Era",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+  "trang": [
+   74,
+   75
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang nhã, tự hào",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 16, tr. 74–75.",
+ "chinh_sach_hinh": "Chỉ dùng ảnh tư liệu, hiện vật thật; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, phía sau là tủ kính trưng bày sách cổ và tranh dân gian",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời Nguyễn để lại cho chúng ta nhiều di sản văn hoá rực rỡ.",
+     "The Nguyễn era left us a brilliant cultural heritage."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng khám phá văn học, nghệ thuật, tôn giáo và khoa học thời kì này nhé!",
+     "Let's explore the literature, arts, religion and science of this period!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh một trang bản in cổ Truyện Kiều (Kim Vân Kiều) bằng chữ Nôm",
+    "tim": "Truyen Kieu Nom woodblock print",
+    "yeu_cau": "ảnh bản in cổ thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: bản in Truyện Kiều bằng chữ Nôm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dòng văn học viết có nhiều tác phẩm giá trị, phần lớn sáng tác bằng chữ Nôm, như Truyện Kiều của Nguyễn Du; thơ Nôm của Hồ Xuân Hương, Bà Huyện Thanh Quan, Nguyễn Công Trứ.",
+     "Written literature produced many valuable works, mostly in Nôm script, such as Nguyễn Du's Tale of Kiều and Nôm poems by Hồ Xuân Hương, Bà Huyện Thanh Quan and Nguyễn Công Trứ."
+    ],
+    [
+     "Nhật Minh",
+     "Văn học dân gian có tục ngữ, ca dao, dân ca, truyện Nôm dài, truyện tiếu lâm, phản ánh cuộc sống lao động, khát vọng của nhân dân và phê phán thói hư tật xấu của xã hội phong kiến.",
+     "Folk literature included proverbs, folk poems and songs, long Nôm tales and jokes, reflecting working life and people's hopes while criticising feudal vices."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh biểu diễn Nhã nhạc cung đình Huế",
+    "tim": "Nha nhac Hue royal court music performance",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: biểu diễn Nhã nhạc cung đình Huế",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhã nhạc cung đình xuất hiện từ thời Lý – Trần, đến thời Nguyễn phát triển đến đỉnh cao.",
+     "Royal court music appeared under the Lý and Trần and reached its peak under the Nguyễn."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2003, UNESCO ghi danh Nhã nhạc cung đình Huế là Kiệt tác truyền khẩu và phi vật thể của nhân loại; năm 2008 được chuyển vào danh sách Di sản văn hoá phi vật thể đại diện của nhân loại.",
+     "In 2003, UNESCO proclaimed Huế court music a Masterpiece of the Oral and Intangible Heritage of Humanity; in 2008 it joined the Representative List of the Intangible Cultural Heritage of Humanity."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhã nhạc cung đình Huế được UNESCO ghi danh lần đầu vào năm nào?",
+    "lua_chon": [
+     "Năm 1993",
+     "Năm 2003",
+     "Năm 2010"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nhã nhạc cung đình Huế được UNESCO ghi danh năm nào?",
+     "Pause! When did UNESCO first recognise Huế court music?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 2003!",
+     "The answer is B: 2003!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tranh dân gian Đông Hồ",
+    "tim": "Dong Ho folk painting",
+    "yeu_cau": "ảnh tranh dân gian truyền thống, giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Tư liệu: tranh dân gian Đông Hồ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn nghệ dân gian có hàng loạt làn điệu dân ca như quan họ, trống quân, hát ví, hát cò lả.",
+     "Folk arts featured many folk song styles such as quan họ, trống quân, hát ví and hát cò lả."
+    ],
+    [
+     "Nhật Minh",
+     "Hội hoạ có nhiều dòng tranh dân gian tiếp tục phát triển, tiêu biểu là tranh Đông Hồ ở Bắc Ninh, tranh Hàng Trống, tranh Kim Hoàng ở Hà Nội, tranh Làng Sình ở Huế.",
+     "Painting saw many folk print traditions flourish, notably Đông Hồ in Bắc Ninh, Hàng Trống and Kim Hoàng in Hà Nội, and Làng Sình in Huế."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh Cửu đỉnh trước Thế Miếu, Hoàng thành Huế",
+    "tim": "Nine Dynastic Urns Hue",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Cửu đỉnh, Hoàng thành Huế",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kiến trúc, điêu khắc có nhiều công trình nổi tiếng và độc đáo như kinh thành Huế, Khuê Văn Các trong Văn Miếu – Quốc Tử Giám, đền Ngọc Sơn ở Hà Nội.",
+     "Architecture and sculpture left famous works such as the Huế citadel, Khuê Văn Các in the Temple of Literature and Ngọc Sơn Temple in Hà Nội."
+    ],
+    [
+     "Nhật Minh",
+     "Còn đây là Cửu đỉnh, chín đỉnh đồng lớn đặt tại sân Thế Miếu trong Hoàng thành Huế.",
+     "And here are the Nine Dynastic Urns, nine great bronze urns in front of the Thế Miếu in the Huế Imperial City."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tôn giáo – Khoa học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh mộc bản triều Nguyễn (ván khắc in sách)",
+    "tim": "Nguyen dynasty woodblocks",
+    "yeu_cau": "ảnh hiện vật, giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Hiện vật: mộc bản triều Nguyễn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về tôn giáo, Phật giáo tiếp tục phát triển; Công giáo được truyền bá, số người theo ngày càng đông, nhà thờ được dựng lên ở khắp nơi.",
+     "In religion, Buddhism kept growing; Catholicism spread, its followers grew and churches were built everywhere."
+    ],
+    [
+     "Nhật Minh",
+     "Về khoa học, sử học có bước đột phá với Đại Nam thực lục, Khâm định Việt sử thông giám cương mục của Quốc sử quán, và Lịch triều hiến chương loại chí của Phan Huy Chú.",
+     "In science, history writing broke new ground with the Quốc sử quán's Đại Nam thực lục and Khâm định Việt sử thông giám cương mục, and Phan Huy Chú's Lịch triều hiến chương loại chí."
+    ],
+    [
+     "Hân Hân",
+     "Các bộ địa lí giá trị là Đại Nam nhất thống chí và Hoàng Việt nhất thống dư địa chí của Lê Quang Định.",
+     "Valuable geographies included the Đại Nam nhất thống chí and Lê Quang Định's Hoàng Việt nhất thống dư địa chí."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Văn học chữ Nôm: Truyện Kiều (Nguyễn Du), thơ Hồ Xuân Hương, Bà Huyện Thanh Quan",
+    "Nhã nhạc đạt đỉnh cao; UNESCO ghi danh năm 2003",
+    "Tranh dân gian, dân ca; kiến trúc kinh thành Huế, Khuê Văn Các, đền Ngọc Sơn",
+    "Sử học, địa lí: Đại Nam thực lục, Lịch triều hiến chương loại chí, Đại Nam nhất thống chí"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: văn học chữ Nôm phát triển rực rỡ, Nhã nhạc đạt đến đỉnh cao.",
+     "Remember: Nôm literature flourished, and court music reached its peak."
+    ],
+    [
+     "Nhật Minh",
+     "Kiến trúc kinh thành Huế độc đáo, sử học và địa lí có nhiều công trình đồ sộ.",
+     "The Huế citadel was unique, and history and geography produced monumental works."
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ],
+   "tieu_de": "VĂN HOÁ THỜI NGUYỄN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: trong các thành tựu văn hoá thời Nguyễn, cậu ấn tượng nhất với thành tựu nào? Vì sao? Bình luận nhé!",
+     "Your challenge: which Nguyễn-era cultural achievement impresses you most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Truyện Kiều là tác phẩm của ai?",
+   "dap_an": [
+    "Nguyễn Du",
+    "Hồ Xuân Hương",
+    "Nguyễn Công Trứ",
+    "Phan Huy Chú"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Lịch triều hiến chương loại chí là công trình của ai?",
+   "dap_an": [
+    "Phan Huy Chú",
+    "Lê Quang Định",
+    "Quốc sử quán",
+    "Nguyễn Du"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Dòng tranh dân gian Đông Hồ ở tỉnh nào?",
+   "dap_an": [
+    "Bắc Ninh",
+    "Hà Nội",
+    "Huế",
+    "Nam Định"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Cửu đỉnh được đặt ở đâu?",
+   "dap_an": [
+    "Sân Thế Miếu trong Hoàng thành Huế",
+    "Văn Miếu – Quốc Tử Giám",
+    "Đền Ngọc Sơn",
+    "Ngọ Môn"
+   ],
+   "dung": 0,
+   "trang": 74
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 74 (mục 3a văn học: Truyện Kiều – Nguyễn Du, thơ Nôm Hồ Xuân Hương, Bà Huyện Thanh Quan, Nguyễn Công Trứ, văn học dân gian; Nhã nhạc từ thời Lý – Trần, UNESCO 2003, 2008; Hình 16.5 Cửu đỉnh; mục 3b: quan họ, trống quân, hát ví, hát cò lả; tranh Đông Hồ, Hàng Trống, Kim Hoàng, Làng Sình; kinh thành Huế, Khuê Văn Các, đền Ngọc Sơn) và tr. 75 (mục 3c tôn giáo, 3d khoa học: Đại Nam thực lục, Khâm định Việt sử thông giám cương mục, Lịch triều hiến chương loại chí, Đại Nam nhất thống chí, Hoàng Việt nhất thống dư địa chí). Chỉ dùng ảnh tư liệu, hiện vật thật; không vẽ AI chân dung tác giả.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

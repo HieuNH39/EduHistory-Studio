@@ -1,0 +1,434 @@
+{
+ "ma": "L7-B16-06",
+ "ten_tap": "Vì sao ta thắng?",
+ "ten_tap_en": "Why Did We Win?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 16. Khởi nghĩa Lam Sơn (1418 – 1427)",
+  "trang": [
+   79,
+   80,
+   81,
+   82
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "le-loi",
+  "nguyen-trai",
+  "nguyen-chich"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, tự hào; lắng lại ở phần ý nghĩa",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 16, tr. 79–82.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước tấm bản đồ khởi nghĩa Lam Sơn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ những ngày đầu gian nan ở núi rừng Lam Sơn đến Hội thề Đông Quan, nghĩa quân đã giành toàn thắng.",
+     "From the hard early days in the Lam Sơn hills to the Đông Quan oath, the insurgents won complete victory."
+    ],
+    [
+     "Hân Hân",
+     "Vậy vì sao ta thắng? Và thắng lợi ấy có ý nghĩa gì? Cùng tổng kết nhé!",
+     "So why did we win? And what did that victory mean? Let's sum it up!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1416 – 1428",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "KHỞI NGHĨA LAM SƠN",
+   "moc": [
+    [
+     "1416",
+     "Hội thề Lũng Nhai"
+    ],
+    [
+     "Đầu 1418",
+     "Lê Lợi xưng Bình Định Vương"
+    ],
+    [
+     "Cuối 1424",
+     "Giải phóng Nghệ An"
+    ],
+    [
+     "7 – 11 – 1426",
+     "Thắng Tốt Động – Chúc Động"
+    ],
+    [
+     "10 – 1427",
+     "Thắng Chi Lăng – Xương Giang"
+    ],
+    [
+     "10 – 12 – 1427",
+     "Hội thề Đông Quan"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ôn lại nhanh: năm 1416, Hội thề Lũng Nhai. Đầu năm 1418, Lê Lợi tự xưng Bình Định Vương, truyền hịch kêu gọi nhân dân đánh giặc.",
+     "Quick review: in 1416, the Lũng Nhai oath. In early 1418, Lê Lợi proclaimed himself Bình Định Vương and called on the people to fight."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối năm 1424, nghĩa quân giải phóng Nghệ An. Ngày 7 tháng 11 năm 1426, thắng lớn ở Tốt Động – Chúc Động.",
+     "In late 1424, the insurgents freed Nghệ An. On 7 November 1426, a great victory at Tốt Động – Chúc Động."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 10 năm 1427, chiến thắng Chi Lăng – Xương Giang. Ngày 10 tháng 12 năm 1427, Hội thề Đông Quan chấm dứt chiến tranh.",
+     "In October 1427, victory at Chi Lăng – Xương Giang. On 10 December 1427, the Đông Quan oath ended the war."
+    ]
+   ],
+   "nguon_trang": [
+    79,
+    80,
+    81,
+    82
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Vì sao ta thắng?",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-nghe-an",
+    "nghia-quan-lam-son"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-03 cảnh 7: nhân dân mang cơm nước ra đón nghĩa quân, trẻ em chạy theo đoàn quân",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước hết, nhân dân ta luôn nêu cao tinh thần yêu nước nồng nàn, ý chí và quyết tâm giành lại độc lập cho dân tộc.",
+     "First, our people always kept burning patriotism, and the will and determination to win back independence."
+    ],
+    [
+     "Hân Hân",
+     "Toàn dân đồng lòng đoàn kết chiến đấu, đóng góp của cải, lương thực, vũ khí.",
+     "The whole people united to fight, contributing wealth, food and weapons."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-03/canh-07.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lam-son",
+    "le-loi"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-02 cảnh 7: đêm đông giá rét, nghĩa quân ngồi quanh đống lửa nhỏ, Lê Lợi đứng bên voi chiến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghĩa quân và nhân dân đã chịu nhiều gian khổ, hi sinh để giành thắng lợi cuối cùng.",
+     "The insurgents and the people endured great hardship and sacrifice to win in the end."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-02/canh-07.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "nguyen-trai"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-02 cảnh 10: Lê Lợi và Nguyễn Trãi bàn bạc trong lều bên tấm bản đồ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thắng lợi còn do đường lối lãnh đạo đúng đắn, sáng tạo của bộ chỉ huy nghĩa quân, đứng đầu là Lê Lợi và Nguyễn Trãi.",
+     "Victory also came from the correct, creative leadership of the insurgent command, headed by Lê Lợi and Nguyễn Trãi."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-02/canh-10.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-chich"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-03 cảnh 5: Nguyễn Chích đứng trên đồi nhìn về phương nam, phía sau là đoàn nghĩa quân",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng với đó là những vị tướng tài như Nguyễn Chích, Nguyễn Xí.",
+     "Along with talented generals such as Nguyễn Chích and Nguyễn Xí."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-03/canh-05.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đứng đầu bộ chỉ huy nghĩa quân Lam Sơn?",
+    "lua_chon": [
+     "Lê Lợi và Nguyễn Trãi",
+     "Liễu Thăng và Mộc Thạnh",
+     "Hồ Quý Ly và Hồ Nguyên Trừng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai đứng đầu bộ chỉ huy nghĩa quân Lam Sơn?",
+     "EduHistory asks you! Who headed the Lam Sơn command?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Lê Lợi và Nguyễn Trãi!",
+     "The answer is A: Lê Lợi and Nguyễn Trãi!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ý nghĩa lịch sử",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-loi",
+    "vuong-thong"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-05 cảnh 13: Hội thề Đông Quan bên bờ sông Hồng, hai phái đoàn đứng đối diện",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khởi nghĩa Lam Sơn là một cuộc chiến tranh giải phóng dân tộc có tính chất nhân dân rộng rãi.",
+     "The Lam Sơn uprising was a war of national liberation with a broad popular character."
+    ],
+    [
+     "Nhật Minh",
+     "Nó chấm dứt hơn hai mươi năm đô hộ của nhà Minh, khôi phục nền độc lập, mở ra thời kì phát triển mới của đất nước.",
+     "It ended over twenty years of Ming rule, restored independence and opened a new era of development."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-05/canh-13.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-trai",
+    "le-loi"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-05 cảnh 14: Nguyễn Trãi viết Bình Ngô đại cáo bên án thư, Lê Lợi đứng bên cạnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bình Ngô đại cáo của Nguyễn Trãi khẳng định nền độc lập, chủ quyền lãnh thổ và văn hoá Đại Việt.",
+     "Nguyễn Trãi's Bình Ngô đại cáo affirmed Đại Việt's independence, territorial sovereignty and culture."
+    ],
+    [
+     "Nhật Minh",
+     "Đây được coi là bản Tuyên ngôn Độc lập của nước Đại Việt đầu thế kỉ XV.",
+     "It is regarded as Đại Việt's Declaration of Independence of the early 15th century."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B16-05/canh-14.jpg",
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khởi nghĩa Lam Sơn chấm dứt bao lâu đô hộ của nhà Minh?",
+    "lua_chon": [
+     "Hơn mười năm",
+     "Hơn hai mươi năm",
+     "Hơn một trăm năm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Khởi nghĩa Lam Sơn chấm dứt bao lâu đô hộ của nhà Minh?",
+     "Pause! How long a Ming occupation did the Lam Sơn uprising end?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: hơn hai mươi năm!",
+     "The answer is B: over twenty years!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Nhân dân yêu nước, đoàn kết, đóng góp của cải, lương thực, vũ khí",
+    "Đường lối lãnh đạo đúng đắn, sáng tạo: Lê Lợi, Nguyễn Trãi; tướng tài Nguyễn Chích, Nguyễn Xí",
+    "Chấm dứt hơn 20 năm đô hộ của nhà Minh, khôi phục độc lập",
+    "Mở ra thời kì phát triển mới của đất nước"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ta thắng nhờ nhân dân yêu nước, đoàn kết, và nhờ đường lối lãnh đạo đúng đắn, sáng tạo.",
+     "Remember: we won thanks to a patriotic, united people and correct, creative leadership."
+    ],
+    [
+     "Hân Hân",
+     "Thắng lợi ấy chấm dứt ách đô hộ của nhà Minh, khôi phục độc lập, mở ra thời kì phát triển mới.",
+     "That victory ended Ming rule, restored independence and opened a new era."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ],
+   "tieu_de": "NGUYÊN NHÂN THẮNG LỢI VÀ Ý NGHĨA",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: từ khởi nghĩa Lam Sơn, chúng ta rút ra bài học gì cho công cuộc xây dựng và bảo vệ Tổ quốc hôm nay? Bình luận nhé!",
+     "Your challenge: what lesson does the Lam Sơn uprising hold for building and defending our country today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1416, Lê Lợi cùng 18 hào kiệt tổ chức Hội thề ở đâu?",
+   "dap_an": [
+    "Lũng Nhai",
+    "Đông Quan",
+    "Chi Lăng",
+    "Lam Kinh"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Nguyên nhân nào dẫn đến thắng lợi của khởi nghĩa Lam Sơn?",
+   "dap_an": [
+    "Nhà Minh tự rút quân",
+    "Nhân dân yêu nước, đoàn kết và đường lối lãnh đạo đúng đắn",
+    "Có quân đội nước ngoài giúp đỡ",
+    "Quân Minh không có viện binh"
+   ],
+   "dung": 1,
+   "trang": 82
+  },
+  {
+   "hoi": "Văn kiện nào được coi là bản Tuyên ngôn Độc lập của nước Đại Việt đầu thế kỉ XV?",
+   "dap_an": [
+    "Hịch tướng sĩ",
+    "Nam quốc sơn hà",
+    "Bình Ngô đại cáo",
+    "Chiếu dời đô"
+   ],
+   "dung": 2,
+   "trang": 82
+  },
+  {
+   "hoi": "Hội thề Đông Quan diễn ra vào ngày nào?",
+   "dap_an": [
+    "7 – 11 – 1426",
+    "10 – 12 – 1427",
+    "Đầu năm 1418",
+    "Đầu tháng 1 – 1428"
+   ],
+   "dung": 1,
+   "trang": 82
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 79 (1416 Hội thề Lũng Nhai, đầu 1418 Bình Định Vương), tr. 80 (cuối 1424 giải phóng Nghệ An), tr. 81 (7-11-1426 Tốt Động – Chúc Động; 10-1427 Chi Lăng – Xương Giang), tr. 82 (Hội thề Đông Quan 10-12-1427; Bình Ngô đại cáo; mục 2 nguyên nhân thắng lợi và ý nghĩa lịch sử). Tập tổng kết, không tạo ảnh mới: mọi cảnh tái hiện dùng lại ảnh đã duyệt của L7-B16-02, -03, -05.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

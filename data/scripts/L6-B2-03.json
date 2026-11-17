@@ -1,0 +1,321 @@
+{
+ "ma": "L6-B2-03",
+ "ten_tap": "Lời thì thầm từ trang sách",
+ "ten_tap_en": "Whispers from the Pages",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+  "trang": [
+   12
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thu-lai-co-dai"
+ ],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, trầm ấm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 2, tr. 12.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Hân Hân mở một cuốn sách cũ dày",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết những trang sách cũng biết thì thầm kể chuyện lịch sử không?",
+     "Did you know old pages can whisper stories of history?"
+    ],
+    [
+     "Nhật Minh",
+     "Thật á? Kể tớ nghe với!",
+     "Really? Tell me!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư liệu chữ viết",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân chỉ lên giá sách, Nhật Minh cầm một cuộn giấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những bản ghi, tài liệu chép tay hay sách được in, khắc chữ được gọi chung là tư liệu chữ viết.",
+     "Records, handwritten documents, and printed or engraved texts are together called written sources."
+    ],
+    [
+     "Nhật Minh",
+     "Nguồn tư liệu này ghi chép tương đối đầy đủ về đời sống con người.",
+     "These sources record human life fairly fully."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Những tấm bia ghi tên người đỗ Tiến sĩ thời xưa ở Văn Miếu, Hà Nội (như Hình 4 SGK tr. 12)",
+    "tim": "Stelae of doctors Temple of Literature Hanoi",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: bia Tiến sĩ ở Văn Miếu (Hà Nội)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là những tấm bia ghi tên người đỗ Tiến sĩ thời xưa ở Văn Miếu, Hà Nội.",
+     "These are stone steles naming those who passed the doctoral exams long ago, at the Temple of Literature in Hanoi."
+    ],
+    [
+     "Hân Hân",
+     "Chữ khắc trên bia cho ta biết tên những người đỗ đạt, nên bia Tiến sĩ được coi là tư liệu chữ viết.",
+     "The carved text tells us the names of the laureates, so the steles count as written sources."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao bia Tiến sĩ ở Văn Miếu được coi là tư liệu chữ viết?",
+    "lua_chon": [
+     "Vì bia làm bằng đá",
+     "Vì trên bia khắc chữ ghi tên người đỗ Tiến sĩ",
+     "Vì bia rất cổ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao bia Tiến sĩ là tư liệu chữ viết?",
+     "EduHistory asks you! Why are the doctoral steles written sources?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: vì trên bia khắc chữ ghi tên người đỗ Tiến sĩ!",
+     "The answer is B: their carved text names the laureates!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Trang Di chúc của Chủ tịch Hồ Chí Minh (đoạn viết ngày 10/5/1969, trích trong SGK tr. 12)",
+    "tim": "Di chúc Hồ Chí Minh bản thảo",
+    "yeu_cau": "chỉ dùng ảnh tư liệu thật có giấy phép; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: Di chúc của Chủ tịch Hồ Chí Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là đoạn trích Di chúc của Chủ tịch Hồ Chí Minh, viết ngày 10 tháng 5 năm 1969:",
+     "And here is an excerpt from President Hồ Chí Minh's Testament, written on 10 May 1969:"
+    ],
+    [
+     "Hân Hân",
+     "Cuộc chống Mỹ, cứu nước của nhân dân ta dù phải kinh qua gian khổ hi sinh nhiều hơn nữa, song nhất định thắng lợi hoàn toàn. Đó là một điều chắc chắn.",
+     "Our people's resistance against the US for national salvation, however much more hardship and sacrifice it requires, will surely win complete victory. That is certain."
+    ],
+    [
+     "Nhật Minh",
+     "Đoạn tư liệu cho ta biết niềm tin chắc chắn của Bác vào thắng lợi hoàn toàn, và mong ước của Bác được đi khắp hai miền Nam Bắc để chúc mừng đồng bào, cán bộ, chiến sĩ.",
+     "The excerpt shows his firm belief in complete victory, and his wish to travel across North and South to congratulate the people, cadres and soldiers."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lưu ý",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thu-lai-co-dai"
+   ],
+   "hinh": "Dùng lại ảnh L6-B7-04 cảnh 4: người thư lại Ai Cập viết chữ tượng hình lên giấy cói và người Lưỡng Hà khắc chữ hình nêm lên phiến đất sét",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy nhiên, tư liệu chữ viết thường mang ý thức chủ quan của tác giả tư liệu.",
+     "However, written sources often carry the subjective views of their authors."
+    ],
+    [
+     "Nhật Minh",
+     "Nghĩa là người viết chọn ghi điều gì, ghi như thế nào, phần nào theo cách nhìn của riêng mình. Khi đọc, ta cần so sánh với các nguồn khác.",
+     "That means writers choose what and how to record partly through their own eyes. When reading, we should compare with other sources."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B7-04/canh-04.jpg",
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhược điểm của tư liệu chữ viết là gì?",
+    "lua_chon": [
+     "Không ghi chép gì về đời sống",
+     "Thường mang ý thức chủ quan của tác giả",
+     "Không thể đọc được"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tư liệu chữ viết có nhược điểm gì?",
+     "Pause! What is a weakness of written sources?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thường mang ý thức chủ quan của tác giả!",
+     "The answer is B: they often carry the author's subjective views!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư liệu chữ viết: bản ghi, tài liệu chép tay, sách in, chữ khắc",
+    "Ưu điểm: ghi chép tương đối đầy đủ về đời sống con người",
+    "Lưu ý: thường mang ý thức chủ quan của tác giả"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tư liệu chữ viết gồm bản ghi, tài liệu chép tay, sách in, chữ khắc.",
+     "Remember: written sources include records, handwritten documents, printed books and carved texts."
+    ],
+    [
+     "Nhật Minh",
+     "Chúng ghi chép khá đầy đủ, nhưng thường mang ý thức chủ quan của tác giả.",
+     "They're fairly complete, but often carry the author's subjective views."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "tieu_de": "TƯ LIỆU CHỮ VIẾT",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ở nhà cậu có cuốn gia phả, lá thư cũ hay tờ giấy khen nào không? Đó cũng là tư liệu chữ viết đấy! Kể cho tụi mình nghe nhé!",
+     "Your challenge: is there a family record, an old letter or a certificate at home? Those are written sources too! Tell us about it!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những bản ghi, tài liệu chép tay hay sách được in, khắc chữ gọi chung là gì?",
+   "dap_an": [
+    "Tư liệu chữ viết",
+    "Tư liệu hiện vật",
+    "Tư liệu truyền miệng",
+    "Tư liệu thứ cấp"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Bia ghi tên người đỗ Tiến sĩ thời xưa được dựng ở đâu (Hình 4 SGK)?",
+   "dap_an": [
+    "Văn Miếu (Hà Nội)",
+    "Hoàng thành Huế",
+    "Đền Hùng",
+    "Cổ Loa"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Đoạn Di chúc của Chủ tịch Hồ Chí Minh trích trong SGK được viết ngày nào?",
+   "dap_an": [
+    "10/5/1969",
+    "19/9/1954",
+    "2/9/1945",
+    "30/4/1975"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Tư liệu chữ viết thường mang điều gì của tác giả?",
+   "dap_an": [
+    "Ý thức chủ quan",
+    "Dấu vân tay",
+    "Màu sắc",
+    "Âm thanh"
+   ],
+   "dung": 0,
+   "trang": 12
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 12 (mục 2: khái niệm tư liệu chữ viết; ghi chép tương đối đầy đủ; mang ý thức chủ quan của tác giả; Hình 4 bia Tiến sĩ Văn Miếu; đoạn trích Di chúc ngày 10/5/1969 – Hồ Chí Minh Toàn tập, Tập 15, tr. 610; câu hỏi 1, 2). Dùng lại ảnh L6-B7-04 cảnh 4; ảnh bia Tiến sĩ, Di chúc là ảnh tư liệu thật (không vẽ chân dung bằng AI).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

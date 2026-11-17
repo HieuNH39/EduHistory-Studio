@@ -1,0 +1,184 @@
+{
+ "ma": "L9-B10-04",
+ "ten_tap": "Nguyên nhân sụp đổ của chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu",
+ "ten_tap_en": "Why Socialism Collapsed in the USSR and Eastern Europe",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 10. Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   44,
+   45,
+   46,
+   48
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trầm, suy ngẫm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 10, tr. 44–48.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm bảng ghi câu hỏi: Vì sao?",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu sụp đổ? Cùng nhìn vào những dữ kiện trong SGK nhé!",
+     "Why did socialism collapse in the USSR and Eastern Europe? Let's look at the facts in our textbook!"
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Mát-xcơ-va tháng 8 – 1991 (dùng lại ảnh tư liệu của L9-B10-02 cảnh 8, tìm lại theo khung dọc)",
+    "tim": "Moscow August 1991 coup photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Mát-xcơ-va, tháng 8 – 1991",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ giữa những năm 70, kinh tế Liên Xô trì trệ; cải tổ từ năm 1985 thiếu đồng bộ, hiệu quả, dẫn tới khủng hoảng trầm trọng những năm 1989 – 1991.",
+     "From the mid-1970s, the Soviet economy stagnated; reforms from 1985 were uncoordinated and ineffective, leading to deep crisis in 1989–1991."
+    ],
+    [
+     "Nhật Minh",
+     "Cải tổ chính trị buông lỏng quản lí, cùng sự kích động của các thế lực thù địch, khiến niềm tin của nhân dân giảm sút. Ngày 25 tháng 12 năm 1991, Liên bang Xô viết tan rã.",
+     "Political reform loosened control and, with hostile forces stirring unrest, people lost faith. On 25 December 1991, the Soviet Union dissolved."
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Liên bang Xô viết tan rã vào ngày nào?",
+    "lua_chon": [
+     "19 – 8 – 1991",
+     "25 – 12 – 1991",
+     "9 – 11 – 1989"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Liên bang Xô viết tan rã ngày nào?",
+     "EduHistory asks you! When did the Soviet Union dissolve?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 25 tháng 12 năm 1991, khi M. Goóc-ba-chốp từ chức Tổng thống.",
+     "The answer is B: 25 December 1991, when Gorbachev resigned as President."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế trì trệ, khủng hoảng kéo dài",
+    "Cải tổ thiếu đồng bộ, buông lỏng quản lí",
+    "Thế lực thù địch kích động, chống phá",
+    "Niềm tin của nhân dân giảm sút"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: kinh tế trì trệ, sai lầm trong cải tổ, sự chống phá của các thế lực thù địch và mất niềm tin của nhân dân.",
+     "Remember: economic stagnation, flawed reforms, hostile subversion and the loss of popular trust."
+    ],
+    [
+     "Nhật Minh",
+     "Theo cậu, Việt Nam rút ra bài học gì từ sự kiện này? Bình luận nhé!",
+     "What lesson do you think Vietnam drew from this? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    45,
+    46,
+    48
+   ],
+   "tieu_de": "VÌ SAO SỤP ĐỔ?",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "M. Goóc-ba-chốp được bầu làm Tổng Bí thư Đảng Cộng sản Liên Xô khi nào?",
+   "dap_an": [
+    "Tháng 3 – 1985",
+    "Tháng 3 – 1990",
+    "19 – 8 – 1991",
+    "25 – 12 – 1991"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Cuộc khủng hoảng kinh tế trầm trọng ở Liên Xô diễn ra những năm nào?",
+   "dap_an": [
+    "1989 – 1991",
+    "1970 – 1975",
+    "1946 – 1950",
+    "1980 – 1985"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Ngày 19 – 8 – 1991 ở Liên Xô đã diễn ra sự kiện gì?",
+   "dap_an": [
+    "Cuộc đảo chính lật đổ Goóc-ba-chốp không thành",
+    "Liên Xô được thành lập",
+    "Phóng tàu vũ trụ",
+    "Bầu Tổng thống"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Nhiều cuộc biểu tình, bãi công ở Liên Xô nổ ra từ năm nào?",
+   "dap_an": [
+    "1989",
+    "1971",
+    "1957",
+    "1961"
+   ],
+   "dung": 0,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 45 (3 – 1985 Goóc-ba-chốp, cải tổ; 19 – 8 – 1991 đảo chính không thành; 25 – 12 – 1991 tan rã; kinh tế trì trệ từ giữa những năm 70, cải tổ thiếu đồng bộ, khủng hoảng 1989 – 1991), tr. 46 (niềm tin lung lay, thế lực thù địch kích động, biểu tình từ năm 1989; buông lỏng quản lí văn hoá) và tr. 48 (Đông Âu: khủng hoảng, niềm tin giảm sút). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

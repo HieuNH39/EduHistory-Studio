@@ -1,0 +1,201 @@
+{
+ "ma": "L6-B13-01",
+ "ten_tap": "Đông Nam Á: Ngã ba đường văn hóa",
+ "ten_tap_en": "Southeast Asia: A Cultural Crossroads",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 13. Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+  "trang": [
+   56,
+   58
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "rộng mở, hài hoà",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 13, tr. 56–58.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân mở cuốn sách ảnh về đền tháp",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Nam Á không chỉ là ngã tư đường buôn bán, mà còn là ngã ba đường văn hoá đấy!",
+     "Southeast Asia was not only a trade crossroads, but a cultural one too!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L6-B13-04 cảnh 3 (khung dọc cắt giữa ảnh): bến cảng Đông Nam Á cổ, thuyền buồm lớn cập bến, thương nhân Ấn Độ và Trung Quốc bước lên bờ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong hơn mười thế kỉ hình thành và phát triển, ở Đông Nam Á đã diễn ra quá trình giao lưu văn hoá với Trung Quốc và Ấn Độ.",
+     "Over more than ten centuries, Southeast Asia exchanged culture with China and India."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B13-04/canh-03.jpg",
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Dùng lại ảnh L6-B13-04 cảnh 4 (khung dọc cắt giữa ảnh): sân ngôi đền cổ, cư dân bản địa dâng hoa quả, bên cạnh có nhà sư và tu sĩ Ấn Độ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các tín ngưỡng bản địa như tục thờ cúng tổ tiên, tục cầu mưa đã dung hợp với Ấn Độ giáo và Phật giáo.",
+     "Local beliefs such as ancestor worship and rain rituals blended with Hinduism and Buddhism."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B13-04/canh-04.jpg",
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đền Bô-rô-bu-đua (In-đô-nê-xi-a), xây dựng vào thế kỉ VIII (như Hình 4 SGK tr. 58)",
+    "tim": "Borobudur temple",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đền Bô-rô-bu-đua (In-đô-nê-xi-a)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kiến trúc cũng chịu ảnh hưởng đậm nét. Đền Bô-rô-bu-đua ở In-đô-nê-xi-a, xây dựng vào thế kỉ VIII, là kì quan Phật giáo lớn nhất thế giới.",
+     "Architecture shows the influence too. Borobudur in Indonesia, built in the 8th century, is the world's largest Buddhist monument."
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đông Nam Á giao lưu văn hoá chủ yếu với hai nền văn hoá nào?",
+    "lua_chon": [
+     "Ai Cập và Hy Lạp",
+     "Trung Quốc và Ấn Độ",
+     "La Mã và Ba Tư"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đông Nam Á giao lưu văn hoá với ai?",
+     "EduHistory asks you! With whom did Southeast Asia exchange culture?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Trung Quốc và Ấn Độ! Người Đông Nam Á tiếp nhận có chọn lọc, tạo nên bản sắc đa dạng.",
+     "The answer is B: China and India! Southeast Asians adopted selectively, creating a diverse identity."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu đố thêm: biểu tượng trên lá cờ ASEAN ngày nay thể hiện điều gì? Bình luận nhé!",
+     "Bonus riddle: what does the symbol on today's ASEAN flag represent? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tín ngưỡng dân gian nào của cư dân Đông Nam Á được nhắc đến trong SGK?",
+   "dap_an": [
+    "Thờ cúng tổ tiên, tục cầu mưa",
+    "Thờ thần Dớt",
+    "Thờ Mặt Trời của Ai Cập",
+    "Thờ lửa của Ba Tư"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Tết Té nước Song-kran ở Thái Lan liên quan đến tục lệ nào?",
+   "dap_an": [
+    "Tục cầu mưa",
+    "Tục ăn trầu",
+    "Tục xăm mình",
+    "Tục nhuộm răng"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Đền Bô-rô-bu-đua được xây dựng vào thế kỉ nào?",
+   "dap_an": [
+    "Thế kỉ VIII",
+    "Thế kỉ II",
+    "Thế kỉ XV",
+    "Thế kỉ XX"
+   ],
+   "dung": 0,
+   "trang": 58
+  },
+  {
+   "hoi": "Các quốc gia chịu ảnh hưởng văn hoá Ấn Độ đều có tín ngưỡng gì?",
+   "dap_an": [
+    "Thần – Vua",
+    "Thờ Mặt Trăng",
+    "Thờ thần biển",
+    "Thờ thần rừng"
+   ],
+   "dung": 0,
+   "trang": 56
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 56 (giao lưu văn hoá với Trung Quốc, Ấn Độ; tín ngưỡng dân gian; dung hợp Ấn Độ giáo, Phật giáo; tín ngưỡng Thần – Vua; Hình 1 tết Song-kran) và tr. 58 (kiến trúc chịu ảnh hưởng tôn giáo; Hình 4 đền Bô-rô-bu-đua thế kỉ VIII; Vận dụng 3 cờ ASEAN). Khung dọc; dùng lại ảnh L6-B13-04 cảnh 3, 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

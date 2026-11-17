@@ -1,0 +1,202 @@
+{
+ "ma": "L7-B3-04",
+ "ten_tap": "Tóm tắt nhanh: Bước ngoặt Tây Âu",
+ "ten_tap_en": "Quick Recap: Western Europe's Turning Point",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 3. Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+  "trang": [
+   19,
+   20,
+   21,
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, sôi nổi",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 3, tr. 19–22.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: dùng lại ảnh đã duyệt của L7-B3-02; hai bạn dẫn chuyện, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh giơ đồng hồ bấm giờ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tóm tắt nhanh trong một phút: hai phong trào làm Tây Âu chuyển mình!",
+     "A one-minute recap: two movements that transformed Western Europe!"
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    21
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "mi-ken-lang-gio"
+   ],
+   "hinh": "Dùng lại ảnh L7-B3-02 cảnh 9 (khung dọc cắt giữa ảnh): Mi-ken-lăng-giơ nằm ngửa trên giàn giáo cao sát vòm trần, tay cầm cọ vẽ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thứ nhất: phong trào Văn hoá Phục hưng, bắt đầu ở I-ta-li-a từ thế kỉ XIV, rồi lan khắp Tây Âu.",
+     "First: the Renaissance, which began in Italy in the 14th century and spread across Western Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Nó đề cao giá trị con người và tự do cá nhân, lên án Giáo hội và đả phá trật tự phong kiến.",
+     "It celebrated human worth and personal freedom, condemned the Church and attacked the feudal order."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B3-02/canh-09.jpg",
+   "nguon_trang": [
+    19,
+    20
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Văn hoá Phục hưng: I-ta-li-a, thế kỉ XIV",
+    "Cải cách tôn giáo: đầu thế kỉ XVI, Đức và Thuỵ Sĩ",
+    "Thiên Chúa giáo chia thành Cựu giáo và Tân giáo"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thứ hai: phong trào Cải cách tôn giáo, đầu thế kỉ XVI, khởi đầu ở Đức, Thuỵ Sĩ, với Mác-tin Lu-thơ và Giăng Can-vanh.",
+     "Second: the Reformation, in the early 16th century, starting in Germany and Switzerland with Martin Luther and John Calvin."
+    ],
+    [
+     "Nhật Minh",
+     "Kết quả: Thiên Chúa giáo phân hoá thành Cựu giáo và Tân giáo.",
+     "Result: Christianity split into the old faith and the new Protestant churches."
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    21,
+    22
+   ],
+   "tieu_de": "BƯỚC NGOẶT TÂY ÂU",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở nước nào?",
+    "lua_chon": [
+     "Đức",
+     "I-ta-li-a",
+     "Anh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Văn hoá Phục hưng diễn ra đầu tiên ở đâu?",
+     "EduHistory asks you! Where did the Renaissance begin?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: I-ta-li-a!",
+     "The answer is B: Italy!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cả hai đều là cuộc đấu tranh công khai đầu tiên của giai cấp tư sản trên lĩnh vực văn hoá – tư tưởng. Cậu thích phong trào nào hơn? Bình luận nhé!",
+     "Both were the bourgeoisie's first open struggles in culture and ideas. Which one interests you more? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    21,
+    22
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Văn hoá Phục hưng đề cao điều gì?",
+   "dap_an": [
+    "Giá trị con người và tự do cá nhân",
+    "Quyền lực của Giáo hội",
+    "Chế độ phong kiến",
+    "Lễ nghi tôn giáo"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Phong trào Cải cách tôn giáo khởi đầu vào thời gian nào?",
+   "dap_an": [
+    "Thế kỉ XIV",
+    "Đầu thế kỉ XVI",
+    "Thế kỉ XVIII",
+    "Thế kỉ X"
+   ],
+   "dung": 1,
+   "trang": 21
+  },
+  {
+   "hoi": "Ai là người tiêu biểu của phong trào Cải cách tôn giáo ở Thuỵ Sĩ?",
+   "dap_an": [
+    "Mác-tin Lu-thơ",
+    "Giăng Can-vanh",
+    "Lê-ô-na đơ Vanh-xi",
+    "W. Sếch-xpia"
+   ],
+   "dung": 1,
+   "trang": 21
+  },
+  {
+   "hoi": "Văn hoá Phục hưng và Cải cách tôn giáo là cuộc đấu tranh của giai cấp nào chống chế độ phong kiến?",
+   "dap_an": [
+    "Nông dân",
+    "Tư sản",
+    "Quý tộc",
+    "Giáo sĩ"
+   ],
+   "dung": 1,
+   "trang": 22
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 19 (Phục hưng: I-ta-li-a thế kỉ XIV), tr. 20 (ý nghĩa: đề cao con người, tự do cá nhân, lên án Giáo hội), tr. 21 (Cải cách tôn giáo đầu thế kỉ XVI, Đức, Thuỵ Sĩ, Lu-thơ, Can-vanh), tr. 22 (Cựu giáo, Tân giáo; đấu tranh công khai đầu tiên). Khung dọc; dùng lại ảnh L7-B3-02 cảnh 9 (cắt giữa ảnh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

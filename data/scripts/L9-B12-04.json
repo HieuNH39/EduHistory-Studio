@@ -1,0 +1,368 @@
+{
+ "ma": "L9-B12-04",
+ "ten_tap": "Trung Quốc: Những bước ngoặt lịch sử",
+ "ten_tap_en": "China: Historic Turning Points",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   55,
+   56
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khách quan, sôi nổi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 55–56.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là trục thời gian 1946 – 1949 – 1953 – 1978 – 1991",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1945 đến năm 1991, Trung Quốc trải qua những bước ngoặt lớn: thành công, sai lầm và đổi thay.",
+     "From 1945 to 1991, China went through great turning points: successes, mistakes and change."
+    ],
+    [
+     "Hân Hân",
+     "Cùng đi qua từng giai đoạn nhé!",
+     "Let's go through each stage!"
+    ]
+   ],
+   "nguon_trang": [
+    55,
+    56
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1945 – 1952",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Chủ tịch Mao Trạch Đông tuyên bố thành lập nước Cộng hoà Nhân dân Trung Hoa (1 – 10 – 1949)",
+    "tim": "Mao proclaiming People's Republic of China 1949 photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: lễ tuyên bố thành lập nước CHND Trung Hoa (1 – 10 – 1949)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau kháng chiến chống Nhật, Trung Quốc diễn ra nội chiến giữa Quốc dân đảng và Đảng Cộng sản, từ năm 1946 đến năm 1949. Cuối năm 1949, Quốc dân đảng thất bại, rút chạy ra Đài Loan.",
+     "After the war against Japan, China fought a civil war between the Kuomintang and the Communists from 1946 to 1949. In late 1949, the Kuomintang lost and fled to Taiwan."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 1 tháng 10 năm 1949, nước Cộng hoà Nhân dân Trung Hoa được thành lập, mở ra kỉ nguyên độc lập, tự do và tiến lên chủ nghĩa xã hội.",
+     "On 1 October 1949, the People's Republic of China was founded, opening an era of independence, freedom and socialism."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nước Cộng hoà Nhân dân Trung Hoa được thành lập ngày nào?",
+    "lua_chon": [
+     "1 – 10 – 1949",
+     "2 – 9 – 1945",
+     "26 – 1 – 1950"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nước CHND Trung Hoa ra đời ngày nào?",
+     "Pause! When was the People's Republic of China founded?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: ngày 1 tháng 10 năm 1949!",
+     "The answer is A: 1 October 1949!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 1950 – 1952 khôi phục kinh tế, cải cách ruộng đất; 1953 – 1957 kế hoạch 5 năm lần thứ nhất",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1950 đến năm 1952, Trung Quốc khôi phục kinh tế, cải cách ruộng đất, cải tạo công thương nghiệp, phát triển văn hoá, giáo dục.",
+     "From 1950 to 1952, China restored its economy, carried out land reform, reorganised industry and commerce, and developed culture and education."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1953, Trung Quốc bắt đầu kế hoạch 5 năm lần thứ nhất, từ năm 1953 đến năm 1957, và hoàn thành nhờ sự giúp đỡ của Liên Xô.",
+     "In 1953, China began its first five-year plan, 1953 to 1957, completing it with Soviet help."
+    ]
+   ],
+   "nguon_trang": [
+    55,
+    56
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu xe tải Giải phóng sản xuất năm 1956",
+    "tim": "Jiefang CA-10 truck 1956",
+    "yeu_cau": "ảnh tư liệu hoặc ảnh hiện vật, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh: xe tải Giải phóng (1956)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiếc xe tải Giải phóng, sản xuất năm 1956, là một thành quả của kế hoạch 5 năm lần thứ nhất.",
+     "The Jiefang truck, made in 1956, was one result of the first five-year plan."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1958 – 1978",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 1958 Ba ngọn cờ hồng (Đường lối chung, Đại nhảy vọt, Công xã nhân dân); 1966 – 1976 Đại cách mạng văn hoá vô sản",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1958, Trung Quốc thực hiện đường lối Ba ngọn cờ hồng: Đường lối chung, Đại nhảy vọt và Công xã nhân dân, làm sản xuất giảm sút, nhiều nơi mất mùa, đói kém.",
+     "In 1958, China launched the Three Red Banners: the General Line, the Great Leap Forward and the People's Communes, which cut output and caused crop failures and famine in many places."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1966 đến năm 1976 là cuộc Đại cách mạng văn hoá vô sản. Kinh tế khủng hoảng, chính trị bất ổn, xã hội rối loạn.",
+     "From 1966 to 1976 came the Cultural Revolution, bringing economic crisis, political instability and social turmoil."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1978 – 1991",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh thành phố Thâm Quyến – đặc khu kinh tế",
+    "tim": "Shenzhen skyline",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Thâm Quyến (Trung Quốc)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 12 năm 1978, Đảng Cộng sản Trung Quốc đề ra đường lối mới, lấy phát triển kinh tế làm trung tâm, thực hiện cải cách, mở cửa.",
+     "In December 1978, the Chinese Communist Party adopted a new line, putting economic development at the centre with reform and opening up."
+    ],
+    [
+     "Nhật Minh",
+     "Giai đoạn 1980 – 1991, tăng trưởng GDP trung bình hằng năm hơn 9,1%, cao nhất thế giới; các đặc khu kinh tế như Thâm Quyến, Chu Hải được xây dựng thành công.",
+     "From 1980 to 1991, average annual GDP growth exceeded 9.1%, the highest in the world; special economic zones such as Shenzhen and Zhuhai succeeded."
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trung Quốc bắt đầu cải cách, mở cửa từ khi nào?",
+    "lua_chon": [
+     "Năm 1949",
+     "Năm 1958",
+     "Tháng 12 – 1978"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Trung Quốc bắt đầu cải cách, mở cửa từ khi nào?",
+     "EduHistory asks you! When did China begin reform and opening up?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: tháng 12 năm 1978!",
+     "The answer is C: December 1978!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TRUNG QUỐC (1945 – 1991)",
+   "moc": [
+    [
+     "1946 – 1949",
+     "Nội chiến"
+    ],
+    [
+     "1 – 10 – 1949",
+     "Thành lập nước CHND Trung Hoa"
+    ],
+    [
+     "1953 – 1957",
+     "Kế hoạch 5 năm lần thứ nhất"
+    ],
+    [
+     "1958",
+     "Ba ngọn cờ hồng"
+    ],
+    [
+     "1966 – 1976",
+     "Đại cách mạng văn hoá"
+    ],
+    [
+     "12 – 1978",
+     "Cải cách, mở cửa"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng ôn lại nhé: nội chiến, thành lập nước năm 1949, kế hoạch 5 năm lần thứ nhất,",
+     "Let's review: civil war, the founding in 1949, the first five-year plan,"
+    ],
+    [
+     "Hân Hân",
+     "rồi những sai lầm của Ba ngọn cờ hồng, Đại cách mạng văn hoá, và bước ngoặt cải cách, mở cửa từ năm 1978.",
+     "then the mistakes of the Three Red Banners and the Cultural Revolution, and the turn to reform and opening up from 1978."
+    ]
+   ],
+   "nguon_trang": [
+    55,
+    56
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: công cuộc cải cách, mở cửa của Trung Quốc có điểm gì giống công cuộc Đổi mới ở Việt Nam? Bình luận nhé!",
+     "Your challenge: how is China's reform and opening up similar to Vietnam's Đổi mới? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    56
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuộc nội chiến ở Trung Quốc diễn ra trong những năm nào?",
+   "dap_an": [
+    "1946 – 1949",
+    "1937 – 1945",
+    "1966 – 1976",
+    "1950 – 1952"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Ba ngọn cờ hồng gồm những gì?",
+   "dap_an": [
+    "Đường lối chung, Đại nhảy vọt, Công xã nhân dân",
+    "Cải cách, mở cửa, hiện đại hoá",
+    "Dân tộc, dân quyền, dân sinh",
+    "Công nghiệp, nông nghiệp, quốc phòng"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Giai đoạn 1980 – 1991, tăng trưởng GDP trung bình của Trung Quốc là bao nhiêu?",
+   "dap_an": [
+    "Hơn 9,1%",
+    "11%",
+    "56%",
+    "3,3%"
+   ],
+   "dung": 0,
+   "trang": 56
+  },
+  {
+   "hoi": "Đặc khu kinh tế nào của Trung Quốc được nêu trong SGK?",
+   "dap_an": [
+    "Thâm Quyến, Chu Hải",
+    "Thượng Hải, Bắc Kinh",
+    "Hồng Công, Ma Cao",
+    "Quảng Châu, Thiên Tân"
+   ],
+   "dung": 0,
+   "trang": 56
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 55 (nội chiến 1946 – 1949; cuối năm 1949 Quốc dân đảng rút ra Đài Loan; 1 – 10 – 1949 thành lập CHND Trung Hoa; ý nghĩa; 1950 – 1952 khôi phục kinh tế, cải cách ruộng đất) và tr. 56 (1953 kế hoạch 5 năm lần thứ nhất 1953 – 1957, Liên Xô giúp đỡ; Hình 12.7 xe tải Giải phóng 1956; 1958 Ba ngọn cờ hồng; 1966 – 1976 Đại cách mạng văn hoá; 12 – 1978 cải cách, mở cửa; 1980 – 1991 GDP hơn 9,1%; Thâm Quyến, Chu Hải).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

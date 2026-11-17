@@ -1,0 +1,164 @@
+{
+ "ma": "L9-B19-01",
+ "ten_tap": "Đông Bắc Á: Những con rồng và công xưởng thế giới",
+ "ten_tap_en": "Northeast Asia: Dragons and the World's Factory",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   96
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sôi động",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 96.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng ghi: Trung Quốc – Nhật Bản – Hàn Quốc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Bắc Á là khu vực kinh tế quan trọng của thế giới. Riêng ba nền kinh tế Trung Quốc, Nhật Bản, Hàn Quốc đã chiếm bao nhiêu?",
+     "Northeast Asia is a key world economic region. How much do China, Japan and South Korea alone account for?"
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tháp truyền hình Tô-ki-ô (Nhật Bản)",
+    "tim": "Tokyo Skytree",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: tháp truyền hình ở Tô-ki-ô (Nhật Bản)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo Ngân hàng Thế giới, đầu thế kỉ XXI, ba nền kinh tế này chiếm tới 1/5 GDP và 1/4 dân số thế giới.",
+     "According to the World Bank, in the early 21st century these three economies made up a fifth of world GDP and a quarter of its population."
+    ],
+    [
+     "Hân Hân",
+     "Năm 2010, Trung Quốc vượt Nhật Bản, trở thành nền kinh tế lớn thứ hai thế giới; Nhật Bản vẫn là trung tâm kinh tế – tài chính lớn, chất lượng cuộc sống cao.",
+     "In 2010, China overtook Japan as the world's second-largest economy; Japan remains a major economic and financial centre with a high quality of life."
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đầu thế kỉ XXI, Trung Quốc, Nhật Bản, Hàn Quốc chiếm bao nhiêu phần GDP thế giới?",
+    "lua_chon": [
+     "1/2",
+     "1/5",
+     "1/10"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Ba nền kinh tế Đông Bắc Á chiếm bao nhiêu phần GDP thế giới?",
+     "EduHistory asks you! What share of world GDP do these three economies have?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 1/5 GDP, và 1/4 dân số thế giới!",
+     "The answer is B: a fifth of world GDP, and a quarter of its population!"
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, vì sao Đông Bắc Á được gọi là công xưởng của thế giới? Bình luận nhé!",
+     "Why do you think Northeast Asia is called the world's factory? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    96
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 2010, nước nào vượt Nhật Bản thành nền kinh tế lớn thứ hai thế giới?",
+   "dap_an": [
+    "Trung Quốc",
+    "Hàn Quốc",
+    "Ấn Độ",
+    "Đức"
+   ],
+   "dung": 0,
+   "trang": 96
+  },
+  {
+   "hoi": "Đầu thế kỉ XXI, ba nước Đông Bắc Á chiếm bao nhiêu phần dân số thế giới?",
+   "dap_an": [
+    "1/4",
+    "1/5",
+    "1/2",
+    "1/10"
+   ],
+   "dung": 0,
+   "trang": 96
+  },
+  {
+   "hoi": "Từ năm 1991, kinh tế Nhật Bản có đặc điểm gì?",
+   "dap_an": [
+    "Chưa thoát khỏi trì trệ, xen lẫn suy thoái và tăng trưởng yếu",
+    "Tăng trưởng thần kì",
+    "Vượt Mỹ",
+    "Khủng hoảng sụp đổ"
+   ],
+   "dung": 0,
+   "trang": 96
+  },
+  {
+   "hoi": "Nhật Bản vẫn là quốc gia có đặc điểm nào?",
+   "dap_an": [
+    "Chất lượng cuộc sống cao, y tế đảm bảo",
+    "Nền kinh tế lớn nhất thế giới",
+    "Dân số đông nhất thế giới",
+    "Không có công nghiệp"
+   ],
+   "dung": 0,
+   "trang": 96
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 96 (Ngân hàng Thế giới: Trung Quốc, Nhật Bản, Hàn Quốc chiếm 1/5 GDP, 1/4 dân số thế giới đầu thế kỉ XXI; Nhật Bản trì trệ nhưng vẫn là trung tâm kinh tế – tài chính, chất lượng sống cao; năm 2010 bị Trung Quốc vượt; Hình 19.2 tháp truyền hình Tô-ki-ô). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

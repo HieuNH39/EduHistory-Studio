@@ -1,0 +1,335 @@
+{
+ "ma": "L9-B13-03",
+ "ten_tap": "Diệt giặc đói, giặc dốt",
+ "ten_tap_en": "Fighting Hunger and Illiteracy",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+  "trang": [
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "ấm áp, tự hào",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 13, tr. 63–64.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Giặc đói – Giặc dốt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau Cách mạng tháng Tám, nước ta phải đối mặt với giặc đói và giặc dốt. Chính quyền cách mạng đã làm gì?",
+     "After the August Revolution, our country faced the enemies of hunger and illiteracy. What did the revolutionary government do?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: hũ gạo cứu đói; nhường cơm sẻ áo; ngày đồng tâm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kinh tế nghèo nàn, bị chiến tranh tàn phá; nạn đói mới đe doạ đời sống nhân dân.",
+     "The economy was poor and war-torn; a new famine threatened people's lives."
+    ],
+    [
+     "Nhật Minh",
+     "Chính phủ lập hũ gạo cứu đói, kêu gọi nhường cơm sẻ áo, tổ chức ngày đồng tâm, nghiêm trị kẻ đầu cơ tích trữ lúa gạo.",
+     "The government set up rice-saving jars, called on people to share food and clothing, held days of solidarity and punished rice hoarders."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi khẩu hiệu: Không một tấc đất bỏ hoang",
+   "loi": [
+    [
+     "Hân Hân",
+     "Để giải quyết tận gốc nạn đói, Chính phủ vận động toàn dân tăng gia sản xuất, với khẩu hiệu không một tấc đất bỏ hoang.",
+     "To end the famine at its root, the government urged everyone to increase production, with the slogan 'not an inch of land left fallow'."
+    ],
+    [
+     "Nhật Minh",
+     "Ruộng đất của đế quốc và Việt gian bị tịch thu, chia cho nông dân nghèo; giảm tô, giảm thuế cho nông dân.",
+     "Land of the imperialists and traitors was confiscated and given to poor peasants; rents and taxes were reduced."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu nhân dân Thủ đô ủng hộ Tuần lễ vàng (1945) (như Hình 13.3 SGK tr. 63)",
+    "tim": "Tuần lễ vàng 1945 Hanoi photograph",
+    "yeu_cau": "ảnh tư liệu năm 1945, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: nhân dân Thủ đô ủng hộ Tuần lễ vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Để khắc phục ngân khố trống rỗng, Chính phủ phát động Quỹ độc lập và Tuần lễ vàng. Chỉ sau một tuần, từ ngày 17 đến ngày 24 tháng 9 năm 1945,",
+     "To refill the empty treasury, the government launched the Independence Fund and Gold Week. In just one week, from 17 to 24 September 1945,"
+    ],
+    [
+     "Nhật Minh",
+     "nhân dân quyên góp được khoảng 60 triệu đồng Đông Dương và 370 ki-lô-gam vàng. Tháng 11 năm 1946, tiền Việt Nam được lưu hành trong cả nước.",
+     "people donated about 60 million Indochinese piastres and 370 kilograms of gold. In November 1946, Vietnamese currency began circulating nationwide."
+    ]
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tuần lễ vàng (17 – 24 – 9 – 1945) quyên góp được bao nhiêu vàng?",
+    "lua_chon": [
+     "37 ki-lô-gam",
+     "370 ki-lô-gam",
+     "3 700 ki-lô-gam"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tuần lễ vàng quyên góp được bao nhiêu vàng?",
+     "Pause! How much gold did Gold Week raise?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: khoảng 370 ki-lô-gam vàng!",
+     "The answer is B: about 370 kilograms of gold!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Diệt giặc dốt",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu một lớp Bình dân học vụ (như Hình 13.4 SGK tr. 64)",
+    "tim": "Binh dan hoc vu literacy class photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: một lớp Bình dân học vụ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Cách mạng tháng Tám, hơn 90% dân số không biết chữ. Ngày 8 tháng 9 năm 1945, Chủ tịch Hồ Chí Minh kí Sắc lệnh thành lập Nha Bình dân học vụ.",
+     "After the August Revolution, over 90% of the population was illiterate. On 8 September 1945, President Hồ Chí Minh signed the decree founding the Popular Education Department."
+    ],
+    [
+     "Nhật Minh",
+     "Chỉ trong một năm, ở Bắc Bộ và Trung Bộ đã có 2,5 triệu người biết đọc, biết viết.",
+     "In just one year, 2.5 million people in the North and Centre learned to read and write."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nha Bình dân học vụ được thành lập ngày nào?",
+    "lua_chon": [
+     "2 – 9 – 1945",
+     "8 – 9 – 1945",
+     "5 – 9 – 1945"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nha Bình dân học vụ được thành lập ngày nào?",
+     "EduHistory asks you! When was the Popular Education Department founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 8 tháng 9 năm 1945!",
+     "The answer is B: 8 September 1945!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 5 – 9 Ngày hội toàn dân đưa trẻ đến trường; báo Cờ giải phóng, Sự thật, Cứu quốc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 năm 1945, Chủ tịch Hồ Chí Minh viết thư cho học sinh cả nước nhân ngày khai giảng năm học đầu tiên. Nay ngày 5 tháng 9 hằng năm là Ngày hội toàn dân đưa trẻ đến trường.",
+     "In September 1945, President Hồ Chí Minh wrote to all pupils for the first school opening. Today, 5 September is the national festival for bringing children to school."
+    ],
+    [
+     "Nhật Minh",
+     "Các trường phổ thông, đại học được khai giảng; đời sống văn hoá mới được xây dựng; nhiều tờ báo như Cờ giải phóng, Sự thật, Cứu quốc được xuất bản công khai.",
+     "Schools and universities opened, a new cultural life was built, and papers such as Cờ giải phóng, Sự thật and Cứu quốc were published openly."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Cứu đói: hũ gạo, nhường cơm sẻ áo, ngày đồng tâm",
+    "Tăng gia sản xuất: không một tấc đất bỏ hoang",
+    "Tài chính: Quỹ độc lập, Tuần lễ vàng, tiền Việt Nam (11 – 1946)",
+    "Diệt giặc dốt: Nha Bình dân học vụ (8 – 9 – 1945), 2,5 triệu người biết chữ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: chính quyền cách mạng vận động toàn dân cứu đói, tăng gia sản xuất, xây dựng tài chính độc lập.",
+     "Remember: the revolutionary government mobilised everyone to fight famine, raise production and build independent finances."
+    ],
+    [
+     "Nhật Minh",
+     "Phong trào Bình dân học vụ giúp hàng triệu người biết đọc, biết viết.",
+     "The popular education movement taught millions to read and write."
+    ]
+   ],
+   "nguon_trang": [
+    63,
+    64
+   ],
+   "tieu_de": "DIỆT GIẶC ĐÓI, GIẶC DỐT",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: tinh thần nhường cơm sẻ áo năm 1945 có thể vận dụng thế nào trong cuộc sống hôm nay? Bình luận nhé!",
+     "Your challenge: how can the 1945 spirit of sharing food and clothing apply to life today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau Cách mạng tháng Tám, bao nhiêu phần trăm dân số không biết chữ?",
+   "dap_an": [
+    "Hơn 90%",
+    "Khoảng 50%",
+    "Khoảng 30%",
+    "Khoảng 10%"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Khẩu hiệu tăng gia sản xuất năm 1945 là gì?",
+   "dap_an": [
+    "Không một tấc đất bỏ hoang",
+    "Tất cả cho tiền tuyến",
+    "Nhanh, nhiều, tốt, rẻ",
+    "Dân giàu, nước mạnh"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Tiền Việt Nam được phép lưu hành trong cả nước từ khi nào?",
+   "dap_an": [
+    "Tháng 11 – 1946",
+    "Tháng 9 – 1945",
+    "Tháng 1 – 1946",
+    "Tháng 12 – 1946"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Trong một năm, phong trào Bình dân học vụ giúp bao nhiêu người ở Bắc Bộ và Trung Bộ biết chữ?",
+   "dap_an": [
+    "2,5 triệu người",
+    "250 nghìn người",
+    "25 triệu người",
+    "60 triệu người"
+   ],
+   "dung": 0,
+   "trang": 64
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 63 (mục 2: kinh tế nghèo nàn, nạn đói mới; hũ gạo cứu đói, nhường cơm sẻ áo, ngày đồng tâm, nghiêm trị đầu cơ; tăng gia sản xuất, không một tấc đất bỏ hoang, chia ruộng, giảm tô thuế; Quỹ độc lập, Tuần lễ vàng; tiền Việt Nam 11 – 1946) và tr. 64 (17 – 24 – 9 – 1945: 60 triệu đồng, 370 kg vàng; hơn 90% mù chữ; 8 – 9 – 1945 Nha Bình dân học vụ; 2,5 triệu người biết chữ; thư gửi học sinh, ngày 5 – 9; báo Cờ giải phóng, Sự thật, Cứu quốc...).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

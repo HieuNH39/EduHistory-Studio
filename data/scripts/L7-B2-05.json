@@ -1,0 +1,196 @@
+{
+ "ma": "L7-B2-05",
+ "ten_tap": "Ai là Tư sản, ai là Vô sản?",
+ "ten_tap_en": "Who Was Bourgeois, Who Was Proletarian?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 2. Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+  "trang": [
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tu-san",
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, rõ ràng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 2, tr. 17.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: cảnh tái hiện dùng lại ảnh đã duyệt của L7-B2-04; hai bạn dẫn chuyện, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học; Hân Hân đố, Nhật Minh gãi đầu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối thời trung đại, xã hội Tây Âu xuất hiện hai giai cấp mới: tư sản và vô sản. Ai là ai nhỉ?",
+     "In the late Middle Ages, two new classes appeared in Western Europe: the bourgeoisie and the proletariat. Who was who?"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tu-san",
+    "cong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-04 cảnh 9 (khung dọc cắt giữa ảnh): công nhân cặm cụi bên khung cửi, ông chủ áo nhung đứng trên bậc cao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư sản vốn là thợ cả đứng đầu phường hội, thương nhân hoặc thị dân giàu có, trở thành chủ công trường thủ công, chủ đồn điền hoặc nhà buôn lớn.",
+     "The bourgeoisie were once guild masters, merchants or rich townspeople who became workshop owners, plantation owners or big traders."
+    ],
+    [
+     "Hân Hân",
+     "Họ nắm nhiều của cải, có thế lực kinh tế, nhưng chưa có địa vị chính trị.",
+     "They held much wealth and economic power, but no political status yet."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-04/canh-09.jpg",
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư sản: chủ công trường, chủ đồn điền, nhà buôn lớn; giàu nhưng chưa có địa vị chính trị",
+    "Vô sản: người lao động làm thuê cho chủ tư bản; ban đầu theo tư sản chống phong kiến"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vô sản gồm những người lao động làm thuê cho chủ tư bản.",
+     "The proletariat were the labourers working for wages for capitalist owners."
+    ],
+    [
+     "Hân Hân",
+     "Thời gian đầu, họ đi theo giai cấp tư sản để làm cách mạng chống chế độ phong kiến lỗi thời.",
+     "At first, they followed the bourgeoisie in revolution against outdated feudalism."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "tieu_de": "HAI GIAI CẤP MỚI",
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai thuộc giai cấp vô sản?",
+    "lua_chon": [
+     "Chủ công trường thủ công",
+     "Người lao động làm thuê",
+     "Nhà buôn lớn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Ai thuộc giai cấp vô sản?",
+     "EduHistory asks you! Who belonged to the proletariat?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: người lao động làm thuê cho chủ tư bản!",
+     "The answer is B: wage labourers working for capitalists!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, biến đổi lớn nhất của xã hội Tây Âu thời kì này là gì? Bình luận nhé!",
+     "What do you think was the biggest change in Western European society then? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tư sản vốn là những ai?",
+   "dap_an": [
+    "Nông nô, nô lệ",
+    "Thợ cả, thương nhân, thị dân giàu có",
+    "Lãnh chúa, quý tộc",
+    "Giáo sĩ"
+   ],
+   "dung": 1,
+   "trang": 17
+  },
+  {
+   "hoi": "Tư sản thời kì này có đặc điểm gì?",
+   "dap_an": [
+    "Có địa vị chính trị cao nhất",
+    "Giàu có, có thế lực kinh tế nhưng chưa có địa vị chính trị",
+    "Nghèo khổ",
+    "Không có của cải"
+   ],
+   "dung": 1,
+   "trang": 17
+  },
+  {
+   "hoi": "Thời gian đầu, giai cấp vô sản đi theo ai để chống phong kiến?",
+   "dap_an": [
+    "Giai cấp tư sản",
+    "Lãnh chúa",
+    "Giáo hội",
+    "Nhà vua"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Hai giai cấp mới hình thành ở Tây Âu cuối thời trung đại là gì?",
+   "dap_an": [
+    "Lãnh chúa và nông nô",
+    "Tư sản và vô sản",
+    "Quý tộc và nô lệ",
+    "Địa chủ và nông dân"
+   ],
+   "dung": 1,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 17 (mục 2b, Hình 4: tư sản, vô sản). Khung dọc; dùng lại ảnh L7-B2-04 cảnh 9 (cắt giữa ảnh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

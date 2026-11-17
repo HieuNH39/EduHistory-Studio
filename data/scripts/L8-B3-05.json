@@ -1,0 +1,400 @@
+{
+ "ma": "L8-B3-05",
+ "ten_tap": "Mặt trái của văn minh công nghiệp",
+ "ten_tap_en": "The Dark Side of Industrial Civilisation",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+  "trang": [
+   15,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "trầm lắng, suy ngẫm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 3, tr. 15–17.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, Hân Hân cầm đồng xu, lật hai mặt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng công nghiệp giống như một đồng xu có hai mặt.",
+     "The Industrial Revolution is like a coin with two sides."
+    ],
+    [
+     "Nhật Minh",
+     "Mặt sáng là của cải dồi dào. Còn mặt trái là gì? Cùng thảo luận nhé!",
+     "The bright side is abundant wealth. But what's the dark side? Let's discuss!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-anh"
+   ],
+   "hinh": "Dùng lại ảnh L8-B3-03 cảnh 8: toàn cảnh một thành phố công nghiệp Anh giữa thế kỉ XIX, ống khói nhà máy, đoàn tàu hơi nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cách mạng công nghiệp đã làm thay đổi căn bản quá trình sản xuất, nâng cao năng suất lao động, tạo ra nguồn của cải dồi dào cho xã hội.",
+     "The Industrial Revolution transformed production, raised productivity and created abundant wealth."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều khu công nghiệp lớn và thành phố đông dân mọc lên. Xã hội loài người chuyển từ văn minh nông nghiệp sang văn minh công nghiệp.",
+     "Big industrial zones and crowded cities sprang up. Humanity moved from agricultural to industrial civilisation."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B3-03/canh-08.jpg",
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cách mạng công nghiệp đã chuyển xã hội loài người từ nền văn minh nào sang nền văn minh nào?",
+    "lua_chon": [
+     "Từ văn minh công nghiệp sang văn minh nông nghiệp",
+     "Từ văn minh nông nghiệp sang văn minh công nghiệp",
+     "Từ văn minh du mục sang văn minh nông nghiệp"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Xã hội chuyển từ văn minh nào sang văn minh nào?",
+     "EduHistory asks you! From which civilisation to which?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: từ văn minh nông nghiệp sang văn minh công nghiệp!",
+     "The answer is B: from agricultural to industrial civilisation!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hai giai cấp cơ bản",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tu-san"
+   ],
+   "hinh": "Khung hình chia đôi ở nước Anh thế kỉ XIX: bên trái, một ông chủ nhà máy mặc áo đuôi tôm, đội mũ chóp cao ngồi trong văn phòng ấm áp, bàn gỗ bóng, chồng sổ sách và túi tiền; bên phải, trong xưởng tối và ồn, những người công nhân áo vải sờn, mặt mệt mỏi đứng bên dãy máy",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về mặt xã hội, tác động quan trọng nhất của cách mạng công nghiệp là hình thành hai giai cấp cơ bản của xã hội tư bản: tư sản và vô sản.",
+     "Socially, its most important effect was creating capitalist society's two basic classes: the bourgeoisie and the proletariat."
+    ],
+    [
+     "Hân Hân",
+     "Giai cấp tư sản nhờ công nghiệp hoá đã giàu lên nhanh chóng, trở thành giai cấp thống trị trong xã hội.",
+     "The bourgeoisie grew rich fast through industrialisation and became the ruling class."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Công nhân trong nhà máy châu Âu thế kỉ XIX (dùng lại ảnh tư liệu của L8-B11-02 cảnh 3)",
+    "tim": "factory workers 19th century",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B11-02 cảnh 3"
+   },
+   "hinh": "Tư liệu: công nhân trong nhà máy châu Âu thế kỉ XIX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai cấp vô sản ngày càng đông đảo và tập trung. Họ là người lao động làm thuê, chịu áp bức, bóc lột.",
+     "The proletariat grew ever larger and more concentrated: hired labourers, oppressed and exploited."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng vẽ hai nhóm người đối diện nhau với dấu tia sét ở giữa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai cấp vô sản mâu thuẫn về quyền lợi với giai cấp tư sản.",
+     "The proletariat's interests clashed with those of the bourgeoisie."
+    ],
+    [
+     "Nhật Minh",
+     "Họ đã đứng lên đấu tranh chống lại sự áp bức, bóc lột đó.",
+     "They rose up to fight that oppression and exploitation."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai giai cấp cơ bản của xã hội tư bản là gì?",
+    "lua_chon": [
+     "Địa chủ và nông dân",
+     "Tư sản và vô sản",
+     "Quý tộc và tăng lữ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hai giai cấp cơ bản của xã hội tư bản là gì?",
+     "Pause! What are the two basic classes of capitalist society?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: tư sản và vô sản!",
+     "The answer is B: the bourgeoisie and the proletariat!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Mặt trái",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-anh"
+   ],
+   "hinh": "Một khu nhà ở chật chội của công nhân bên bờ sông trong thành phố công nghiệp Anh thế kỉ XIX: bầu trời xám đen vì khói từ hàng chục ống khói nhà máy, dòng sông đục ngầu, những dãy nhà gạch ám bụi than, người đi đường che miệng ho (không người bị thương)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng công nghiệp cũng tạo ra một số tác động tiêu cực. Trước hết là tình trạng ô nhiễm môi trường.",
+     "The Industrial Revolution also had negative effects, first of all environmental pollution."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tre-em-lao-dong"
+   ],
+   "hinh": "Trong một xưởng dệt ở Anh thế kỉ XIX, ánh sáng mờ qua cửa sổ cao: vài đứa trẻ gầy gò, quần áo cũ sờn, chân trần, đang cúi nhặt sợi bông dưới gầm những cỗ máy dệt lớn; một người đàn bà công nhân mệt mỏi đứng máy phía sau; một viên đốc công đứng xa quan sát (cảnh trang nghiêm, không bạo lực)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đó còn là sự bóc lột sức lao động của phụ nữ và trẻ em.",
+     "There was also the exploitation of women's and children's labour."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-chuc-thuc-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B4-02 cảnh 7: văn phòng thuộc địa thế kỉ XIX, các quan chức châu Âu áo trắng, mũ cối cúi bên tấm bản đồ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Và sự xâm chiếm, tranh giành thuộc địa giữa các nước tư bản.",
+     "And the seizure of and scramble for colonies among capitalist powers."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B4-02/canh-07.jpg",
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu KHÔNG phải là tác động tiêu cực của cách mạng công nghiệp?",
+    "lua_chon": [
+     "Ô nhiễm môi trường",
+     "Nâng cao năng suất lao động",
+     "Bóc lột sức lao động phụ nữ, trẻ em"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đâu không phải tác động tiêu cực?",
+     "EduHistory asks you! Which is NOT a negative effect?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: nâng cao năng suất lao động. Đó là tác động tích cực!",
+     "The answer is B: higher productivity. That's a positive effect!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Tích cực: năng suất tăng, của cải dồi dào; chuyển sang văn minh công nghiệp",
+    "Hình thành hai giai cấp: tư sản và vô sản; mâu thuẫn gay gắt",
+    "Tiêu cực: ô nhiễm môi trường; bóc lột lao động phụ nữ, trẻ em",
+    "Tiêu cực: xâm chiếm, tranh giành thuộc địa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: cách mạng công nghiệp hình thành hai giai cấp tư sản và vô sản, mâu thuẫn với nhau gay gắt.",
+     "Remember: the Industrial Revolution created the bourgeoisie and proletariat, in sharp conflict."
+    ],
+    [
+     "Hân Hân",
+     "Mặt trái của nó là ô nhiễm môi trường, bóc lột lao động phụ nữ, trẻ em, và tranh giành thuộc địa.",
+     "Its dark side: pollution, exploitation of women and children, and the scramble for colonies."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "tieu_de": "MẶT TRÁI CỦA VĂN MINH CÔNG NGHIỆP",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ngày nay, làm thế nào để phát triển công nghiệp mà vẫn bảo vệ môi trường? Bình luận ý tưởng của cậu nhé!",
+     "Your challenge: how can we develop industry today while protecting the environment? Share your ideas in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Về mặt xã hội, tác động quan trọng nhất của cách mạng công nghiệp là gì?",
+   "dap_an": [
+    "Hình thành hai giai cấp tư sản và vô sản",
+    "Xoá bỏ giai cấp",
+    "Nông dân giàu lên",
+    "Quý tộc nắm quyền"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Giai cấp nào trở thành giai cấp thống trị trong xã hội tư bản?",
+   "dap_an": [
+    "Giai cấp tư sản",
+    "Giai cấp vô sản",
+    "Nông dân",
+    "Tăng lữ"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Địa vị của giai cấp vô sản là gì?",
+   "dap_an": [
+    "Người lao động làm thuê, chịu áp bức, bóc lột",
+    "Chủ nhà máy",
+    "Quý tộc mới",
+    "Địa chủ"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Theo C. Mác, điều gì đảm bảo cho sự thắng lợi của trật tự xã hội này đối với trật tự xã hội khác?",
+   "dap_an": [
+    "Năng suất lao động",
+    "Quân đội",
+    "Tôn giáo",
+    "Địa lí"
+   ],
+   "dung": 0,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 15 (C. Mác: năng suất lao động) và tr. 17 (mục 3: thay đổi sản xuất, năng suất, của cải, khu công nghiệp, thành phố; chuyển sang văn minh công nghiệp; hai giai cấp tư sản – vô sản, mâu thuẫn, đấu tranh; tiêu cực: ô nhiễm môi trường, bóc lột lao động phụ nữ và trẻ em, xâm chiếm và tranh giành thuộc địa). Dùng lại ảnh L8-B3-03 cảnh 8, L8-B4-02 cảnh 7, ảnh tư liệu L8-B11-02 cảnh 3; ba cảnh tái hiện mới (không bạo lực).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

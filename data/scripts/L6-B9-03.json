@@ -1,0 +1,418 @@
+{
+ "ma": "L6-B9-03",
+ "ten_tap": "Giáp cốt văn và những di sản nghìn năm",
+ "ten_tap_en": "Oracle Bones and Millennia-Old Legacies",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 9. Trung Quốc cổ đại",
+  "trang": [
+   41,
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "khuat-nguyen"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, sâu lắng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 9, tr. 41–43.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm một cuốn sách có chữ Hán trên bìa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chữ Hán đã có từ hơn ba nghìn năm trước. Cậu có biết những chữ đầu tiên được khắc lên đâu không?",
+     "Chinese characters date back over three thousand years. Do you know where the first ones were carved?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng giải mã nhé!",
+     "Let's decode it!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Giáp cốt văn",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Mảnh xương thú khắc giáp cốt văn thời nhà Thương",
+    "tim": "Shang dynasty oracle bone",
+    "yeu_cau": "ảnh tư liệu hiện vật thuộc phạm vi công cộng hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: giáp cốt văn thời nhà Thương",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thời nhà Thương, người Trung Quốc đã khắc chữ trên mai rùa, xương thú, gọi là giáp cốt văn, hay chữ giáp cốt.",
+     "From the Shang dynasty, the Chinese carved characters on turtle shells and animal bones, called oracle bone script."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, trên bảng vẽ một chữ cổ biến đổi dần thành chữ Hán hiện đại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trải qua nhiều thể chữ, giáp cốt văn đã trở thành cơ sở hình thành chữ Hán hiện đại.",
+     "Through many forms, oracle bone script became the basis of modern Chinese characters."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày nay, chữ Hán vẫn được sử dụng rộng rãi và có ảnh hưởng lớn đến chữ viết của các quốc gia ở khu vực Đông Á.",
+     "Today Chinese characters are still widely used and have greatly influenced writing across East Asia."
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giáp cốt văn được khắc trên những vật gì?",
+    "lua_chon": [
+     "Mai rùa, xương thú",
+     "Giấy pa-pi-rút",
+     "Tấm đất sét"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Giáp cốt văn được khắc trên gì?",
+     "EduHistory asks you! What was oracle bone script carved on?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: mai rùa và xương thú!",
+     "The answer is A: turtle shells and animal bones!"
+    ]
+   ],
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-co-dai"
+   ],
+   "hinh": "Dùng lại ảnh L6-B9-01 cảnh 3: dòng Hoàng Hà rộng, trên đồng bằng ven sông, cư dân cổ đại cuốc đất, gieo hạt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Văn học Trung Quốc thời cổ đại hình thành từ sớm, tiêu biểu là Kinh Thi và Sở Từ.",
+     "Ancient Chinese literature arose early; its best-known works are the Classic of Poetry and the Songs of Chu."
+    ],
+    [
+     "Hân Hân",
+     "Kinh Thi là tập thơ cổ nhất, gồm nhiều sáng tác dân gian, sau này được Khổng Tử sưu tập và chỉnh lí, phản ánh đời sống lao động, tình cảm và tư tưởng của con người đương thời.",
+     "The Classic of Poetry is the oldest anthology, full of folk songs later collected and edited by Confucius, reflecting the work, feelings and thoughts of its time."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh Thi ảnh hưởng lớn đến văn học của các nước khác, trong đó có Việt Nam.",
+     "It strongly influenced other countries' literature, including Vietnam's."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B9-01/canh-03.jpg",
+   "nguon_trang": [
+    41
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "khuat-nguyen"
+   ],
+   "hinh": "Nhà thơ Khuất Nguyên thời Chiến Quốc (vẽ khái quát, áo dài rộng màu nhạt, tóc búi) đứng một mình bên bờ một dòng sông lớn lúc hoàng hôn, tay cầm cuộn thẻ tre, gió thổi tà áo; xa xa là núi non và làng mạc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sở Từ xuất hiện từ thời Chiến Quốc, gắn liền với tên tuổi của nhà thơ yêu nước Khuất Nguyên.",
+     "The Songs of Chu appeared in the Warring States period, linked with the patriotic poet Qu Yuan."
+    ],
+    [
+     "Nhật Minh",
+     "Tác phẩm thể hiện tình yêu quê hương, nỗi niềm trước thời cuộc và khát vọng về lẽ phải của con người.",
+     "They express love of homeland, sorrow over the times, and the longing for what is right."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sở Từ gắn liền với tên tuổi nhà thơ nào?",
+    "lua_chon": [
+     "Khổng Tử",
+     "Khuất Nguyên",
+     "Tư Mã Thiên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sở Từ gắn với nhà thơ nào?",
+     "Pause! Which poet is linked with the Songs of Chu?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: nhà thơ yêu nước Khuất Nguyên!",
+     "The answer is B: the patriotic poet Qu Yuan!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư tưởng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng Khổng Tử – người đặt nền móng cho sự hình thành Nho giáo (như Hình 4 SGK tr. 42)",
+    "tim": "Confucius statue",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Tư liệu: tượng Khổng Tử",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời cổ đại, ở Trung Quốc xuất hiện nhiều tư tưởng và học thuyết quan trọng, tiêu biểu là Nho gia và Đạo gia.",
+     "Ancient China produced many important schools of thought, above all Confucianism and Daoism."
+    ],
+    [
+     "Nhật Minh",
+     "Khổng Tử là nhà tư tưởng lớn sống vào cuối thời nhà Chu, người sáng lập Nho gia. Ông đề cao đạo đức, lễ nghĩa và vai trò của giáo dục.",
+     "Confucius, a great thinker of the late Zhou, founded Confucianism. He valued morality, rites and education."
+    ],
+    [
+     "Hân Hân",
+     "Tư tưởng của ông có ảnh hưởng sâu rộng đến xã hội Trung Quốc và nhiều nước Đông Á.",
+     "His ideas deeply influenced Chinese society and many East Asian countries."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Sử học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Thẻ tre ghi chép thời Chiến Quốc (Trung Quốc)",
+    "tim": "Warring States bamboo slips",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: thẻ tre thời Chiến Quốc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Trung Quốc xưa rất có ý thức về việc chép sử. Những ghi chép về vua chúa, lễ nghi, chiến tranh, đời sống xã hội được khắc trên xương thú, mai rùa, thẻ tre, thẻ gỗ.",
+     "The ancient Chinese took history-writing seriously, recording rulers, rites, wars and daily life on bones, shells, bamboo and wooden slips."
+    ],
+    [
+     "Hân Hân",
+     "Thời cổ đại đã xuất hiện nhiều bộ sử có giá trị cao như Xuân Thu, Chiến Quốc sách, Tả truyện.",
+     "Valuable histories appeared, such as the Spring and Autumn Annals, the Strategies of the Warring States and the Zuo Zhuan."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai là người sáng lập Nho gia?",
+    "lua_chon": [
+     "Khuất Nguyên",
+     "Biên Thước",
+     "Khổng Tử"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai sáng lập Nho gia?",
+     "EduHistory asks you! Who founded Confucianism?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: Khổng Tử!",
+     "The answer is C: Confucius!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Chữ viết: giáp cốt văn – cơ sở của chữ Hán hiện đại",
+    "Văn học: Kinh Thi, Sở Từ (Khuất Nguyên)",
+    "Tư tưởng: Nho gia (Khổng Tử), Đạo gia",
+    "Sử học: Xuân Thu, Chiến Quốc sách, Tả truyện"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: giáp cốt văn là cơ sở của chữ Hán hiện đại; văn học có Kinh Thi và Sở Từ.",
+     "Remember: oracle bone script underlies modern Chinese; literature has the Classic of Poetry and the Songs of Chu."
+    ],
+    [
+     "Hân Hân",
+     "Tư tưởng có Nho gia, Đạo gia; sử học có Xuân Thu, Chiến Quốc sách, Tả truyện.",
+     "Thought has Confucianism and Daoism; history has the Annals, the Strategies and the Zuo Zhuan."
+    ]
+   ],
+   "nguon_trang": [
+    41,
+    42
+   ],
+   "tieu_de": "DI SẢN NGHÌN NĂM",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong các thành tựu của văn minh Trung Quốc cổ đại, cậu ấn tượng nhất với thành tựu nào? Vì sao? Bình luận nhé!",
+     "Your challenge: which achievement of ancient Chinese civilisation impresses you most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Giáp cốt văn xuất hiện từ thời nhà nào?",
+   "dap_an": [
+    "Nhà Thương",
+    "Nhà Tần",
+    "Nhà Hán",
+    "Nhà Đường"
+   ],
+   "dung": 0,
+   "trang": 41
+  },
+  {
+   "hoi": "Tập thơ cổ nhất của Trung Quốc là gì?",
+   "dap_an": [
+    "Kinh Thi",
+    "Sở Từ",
+    "Tả truyện",
+    "Xuân Thu"
+   ],
+   "dung": 0,
+   "trang": 41
+  },
+  {
+   "hoi": "Khổng Tử đề cao điều gì?",
+   "dap_an": [
+    "Đạo đức, lễ nghĩa và vai trò của giáo dục",
+    "Chiến tranh",
+    "Buôn bán",
+    "Thiên văn"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Người Trung Quốc xưa chép sử trên những vật liệu nào?",
+   "dap_an": [
+    "Xương thú, mai rùa, thẻ tre, thẻ gỗ",
+    "Giấy pa-pi-rút",
+    "Đất sét ướt",
+    "Lá cọ"
+   ],
+   "dung": 0,
+   "trang": 42
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 41 (giáp cốt văn từ thời nhà Thương; ô Kết nối với ngày nay: cơ sở chữ Hán hiện đại, ảnh hưởng Đông Á; Kinh Thi, Khổng Tử sưu tập, chỉnh lí, ảnh hưởng tới Việt Nam), tr. 42 (Sở Từ – Khuất Nguyên; Nho gia, Đạo gia; ô Khổng Tử; chép sử trên xương thú, mai rùa, thẻ tre, thẻ gỗ; Xuân Thu, Chiến Quốc sách, Tả truyện) và tr. 43 (Luyện tập 2). Dùng lại ảnh L6-B9-01 cảnh 3; một cảnh tái hiện mới (Khuất Nguyên, vẽ khái quát); Khổng Tử chỉ dùng ảnh tượng tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "ma": "L9-B1-04",
+ "ten_tap": "Nhìn lại thành tựu và hạn chế của Liên Xô",
+ "ten_tap_en": "The Soviet Union: Achievements and Shortcomings",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+  "trang": [
+   8,
+   9
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khách quan, suy ngẫm",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 1, tr. 8–9.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia hai cột: Thành tựu | Hạn chế",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ năm 1922 đến năm 1945, Liên Xô đạt nhiều thành tựu, nhưng cũng bộc lộ những hạn chế.",
+     "From 1922 to 1945, the Soviet Union achieved much but also showed shortcomings."
+    ],
+    [
+     "Hân Hân",
+     "Cùng nhìn lại thật công bằng nhé!",
+     "Let's take a fair look back!"
+    ]
+   ],
+   "nguon_trang": [
+    8,
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh nhà máy thuỷ điện Đni-ép (dùng lại ảnh tư liệu của L9-B1-03 cảnh 4)",
+    "tim": "DniproHES",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B1-03 cảnh 4"
+   },
+   "hinh": "Ảnh: nhà máy thuỷ điện Đni-ép",
+   "loi": [
+    [
+     "Hân Hân",
+     "Qua hai kế hoạch 5 năm, từ năm 1928 đến năm 1932 và từ năm 1933 đến năm 1937, Liên Xô trở thành một cường quốc công nghiệp.",
+     "Through two five-year plans, 1928 to 1932 and 1933 to 1937, the Soviet Union became an industrial power."
+    ],
+    [
+     "Nhật Minh",
+     "Công nghiệp chiếm hơn 70% tổng sản phẩm kinh tế quốc dân, đứng đầu châu Âu và thứ hai thế giới, sau Mỹ.",
+     "Industry made up over 70% of national output, first in Europe and second in the world after the United States."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Xoá nạn mù chữ, xây dựng hệ thống giáo dục thống nhất",
+    "Phổ cập Trung học cơ sở ở các thành phố",
+    "Khoa học, văn học – nghệ thuật đạt nhiều thành tựu",
+    "Xã hội còn hai giai cấp lao động và tầng lớp trí thức"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về xã hội, văn hoá, giáo dục: Liên Xô xoá được nạn mù chữ, xây dựng hệ thống giáo dục thống nhất, phổ cập Trung học cơ sở ở các thành phố.",
+     "In society, culture and education, the USSR wiped out illiteracy, built a unified school system and made lower secondary school universal in cities."
+    ],
+    [
+     "Nhật Minh",
+     "Các giai cấp bóc lột bị xoá bỏ, chỉ còn công nhân, nông dân tập thể và tầng lớp trí thức xã hội chủ nghĩa.",
+     "Exploiting classes were abolished, leaving workers, collective farmers and the socialist intelligentsia."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "tieu_de": "THÀNH TỰU XÃ HỘI – VĂN HOÁ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến cuối những năm 30, sản lượng công nghiệp Liên Xô đứng thứ mấy thế giới?",
+    "lua_chon": [
+     "Thứ nhất",
+     "Thứ hai, sau Mỹ",
+     "Thứ năm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Sản lượng công nghiệp Liên Xô đứng thứ mấy thế giới?",
+     "Pause! Where did Soviet industrial output rank in the world?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: đứng đầu châu Âu và thứ hai thế giới, sau Mỹ!",
+     "The answer is B: first in Europe and second in the world, after the United States!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hạn chế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng cột Hạn chế ghi: nóng vội, thiếu dân chủ khi tập thể hoá; chưa chú trọng đời sống nhân dân",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô cũng bộc lộ hạn chế: nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp,",
+     "Building socialism in the USSR also had flaws: haste and a lack of democracy in collectivising agriculture,"
+    ],
+    [
+     "Nhật Minh",
+     "và chưa chú trọng đúng mức đến việc nâng cao đời sống nhân dân.",
+     "and not enough attention to improving people's living standards."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Xta-lin-grát bị tàn phá trong chiến tranh (dùng lại ảnh tư liệu của L9-B4-03 cảnh 4)",
+    "tim": "Stalingrad",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B4-03 cảnh 4"
+   },
+   "hinh": "Ảnh tư liệu: Xta-lin-grát trong chiến tranh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 6 năm 1941, phát xít Đức tấn công Liên Xô.",
+     "In June 1941, Nazi Germany attacked the Soviet Union."
+    ],
+    [
+     "Nhật Minh",
+     "Nhân dân Liên Xô phải tạm dừng kế hoạch 5 năm lần thứ ba để tiến hành cuộc chiến tranh giữ nước vĩ đại, từ năm 1941 đến năm 1945.",
+     "The Soviet people had to suspend the third five-year plan to fight the Great Patriotic War from 1941 to 1945."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "Thành tựu: cường quốc công nghiệp, công nghiệp chiếm hơn 70%",
+    "Thành tựu: xoá mù chữ, phổ cập giáo dục, khoa học phát triển",
+    "Hạn chế: nóng vội, thiếu dân chủ khi tập thể hoá nông nghiệp",
+    "Hạn chế: chưa chú trọng nâng cao đời sống nhân dân"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Liên Xô trở thành cường quốc công nghiệp, xoá nạn mù chữ, phát triển giáo dục, khoa học.",
+     "Remember: the USSR became an industrial power, ended illiteracy and advanced education and science."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng còn nóng vội, thiếu dân chủ, chưa chú trọng đời sống nhân dân.",
+     "But it was hasty, lacked democracy and neglected living standards."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "tieu_de": "LIÊN XÔ (1922 – 1941)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thành tựu nào của Liên Xô thời kì này khiến cậu ấn tượng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which Soviet achievement of this period impresses you most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hai kế hoạch 5 năm đầu tiên của Liên Xô diễn ra trong những năm nào?",
+   "dap_an": [
+    "1928 – 1932 và 1933 – 1937",
+    "1921 – 1925 và 1926 – 1930",
+    "1937 – 1941 và 1941 – 1945",
+    "1945 – 1950 và 1951 – 1955"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Sản xuất công nghiệp chiếm bao nhiêu phần tổng sản phẩm kinh tế quốc dân Liên Xô?",
+   "dap_an": [
+    "Hơn 70%",
+    "Khoảng 30%",
+    "Khoảng 50%",
+    "Hơn 90%"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Hạn chế trong công cuộc xây dựng CNXH ở Liên Xô là gì?",
+   "dap_an": [
+    "Nóng vội, thiếu dân chủ trong tập thể hoá nông nghiệp",
+    "Không phát triển công nghiệp",
+    "Không xoá được nạn mù chữ",
+    "Không có khoa học"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Tháng 6 – 1941 đã xảy ra sự kiện gì?",
+   "dap_an": [
+    "Phát xít Đức tấn công Liên Xô",
+    "Liên Xô được thành lập",
+    "NEP được thực hiện",
+    "Chiến tranh kết thúc"
+   ],
+   "dung": 0,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 9 (hai kế hoạch 5 năm 1928 – 1932, 1933 – 1937; công nghiệp hơn 70%, đứng đầu châu Âu, thứ hai thế giới; tập thể hoá; xã hội còn công nhân, nông dân tập thể, trí thức; xoá mù chữ, giáo dục thống nhất, phổ cập THCS ở thành phố; hạn chế: nóng vội, thiếu dân chủ, chưa chú trọng đời sống; tháng 6 – 1941 Đức tấn công, chiến tranh giữ nước vĩ đại 1941 – 1945). Dùng lại ảnh tư liệu L9-B1-03 cảnh 4, L9-B4-03 cảnh 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

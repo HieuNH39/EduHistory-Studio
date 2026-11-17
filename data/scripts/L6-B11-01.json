@@ -1,0 +1,189 @@
+{
+ "ma": "L6-B11-01",
+ "ten_tap": "Đông Nam Á - Ngã tư đường thế giới",
+ "ten_tap_en": "Southeast Asia: Crossroads of the World",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 11. Các quốc gia sơ kì ở Đông Nam Á",
+  "trang": [
+   51
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "rộng mở, tươi sáng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 11, tr. 51.",
+ "chinh_sach_hinh": "Không tạo ảnh mới; cảnh nhìn từ trên cao là tranh phong cảnh, không phải bản đồ (không vẽ đường biên).",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh xoay quả địa cầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao Đông Nam Á lại được gọi là ngã tư đường của thế giới nhỉ?",
+     "Why is Southeast Asia called the crossroads of the world?"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Dùng lại ảnh L6-B11-02 cảnh 3 (khung dọc cắt giữa ảnh; tranh phong cảnh, không phải bản đồ): biển và đất liền Đông Nam Á nhìn từ trên cao, thuyền buồm cổ đi từ đại dương phía tây sang đại dương phía đông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Nam Á nằm án ngữ trên con đường hàng hải nối liền giữa Ấn Độ Dương với Thái Bình Dương.",
+     "Southeast Asia sits astride the sea route between the Indian and Pacific Oceans."
+    ],
+    [
+     "Nhật Minh",
+     "Từ lâu, nơi đây được coi là cầu nối giữa Trung Quốc, Nhật Bản với Ấn Độ, Tây Á và Địa Trung Hải.",
+     "For ages it was the bridge between China and Japan and India, West Asia and the Mediterranean."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B11-02/canh-03.jpg",
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-dong-nam-a"
+   ],
+   "hinh": "Dùng lại ảnh L6-B11-02 cảnh 4 (khung dọc cắt giữa ảnh): mùa mưa nhiệt đới, cánh đồng lúa nước xanh mướt, xa xa là những hòn đảo phủ rừng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đông Nam Á gồm Đông Nam Á lục địa và Đông Nam Á hải đảo, nằm trong vùng nhiệt đới gió mùa, mưa nhiều,",
+     "It includes mainland and island Southeast Asia, lying in the tropical monsoon zone with heavy rain,"
+    ],
+    [
+     "Nhật Minh",
+     "nên được biết đến là cái nôi của nền văn minh lúa nước, quê hương của nhiều loại cây gia vị, hương liệu nổi tiếng!",
+     "so it's known as the cradle of wet-rice civilisation and the home of many famous spices and aromatics!"
+    ]
+   ],
+   "anh": "assets/episodes/L6-B11-02/canh-04.jpg",
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đông Nam Á nằm trên con đường hàng hải nối liền hai đại dương nào?",
+    "lua_chon": [
+     "Ấn Độ Dương và Thái Bình Dương",
+     "Đại Tây Dương và Bắc Băng Dương",
+     "Thái Bình Dương và Đại Tây Dương"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đông Nam Á nối liền hai đại dương nào?",
+     "EduHistory asks you! Which two oceans does Southeast Asia link?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Ấn Độ Dương và Thái Bình Dương!",
+     "The answer is A: the Indian and Pacific Oceans!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu biết loại cây gia vị nào của Đông Nam Á? Bình luận nhé!",
+     "Which Southeast Asian spices do you know? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    51
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đông Nam Á được coi là cầu nối giữa Trung Quốc, Nhật Bản với những khu vực nào?",
+   "dap_an": [
+    "Ấn Độ, Tây Á và Địa Trung Hải",
+    "Châu Mỹ",
+    "Bắc Âu",
+    "Châu Úc"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Đông Nam Á gồm những khu vực nào?",
+   "dap_an": [
+    "Đông Nam Á lục địa và Đông Nam Á hải đảo",
+    "Chỉ có các đảo",
+    "Chỉ có đất liền",
+    "Bắc Á và Nam Á"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Đông Nam Á nằm trong vùng khí hậu nào?",
+   "dap_an": [
+    "Nhiệt đới gió mùa",
+    "Ôn đới",
+    "Hàn đới",
+    "Hoang mạc"
+   ],
+   "dung": 0,
+   "trang": 51
+  },
+  {
+   "hoi": "Đông Nam Á được biết đến là \"cái nôi\" của nền văn minh nào?",
+   "dap_an": [
+    "Văn minh lúa nước",
+    "Văn minh sa mạc",
+    "Văn minh du mục",
+    "Văn minh băng giá"
+   ],
+   "dung": 0,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 51 (mở đầu: \"ngã tư đường\" của thế giới; mục 1: án ngữ đường hàng hải Ấn Độ Dương – Thái Bình Dương, cầu nối Trung Quốc, Nhật Bản với Ấn Độ, Tây Á, Địa Trung Hải; lục địa và hải đảo; nhiệt đới gió mùa; cái nôi văn minh lúa nước, quê hương cây gia vị, hương liệu). Khung dọc; dùng lại ảnh L6-B11-02 cảnh 3, 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

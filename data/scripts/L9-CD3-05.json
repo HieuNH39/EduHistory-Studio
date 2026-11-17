@@ -1,0 +1,179 @@
+{
+ "ma": "L9-CD3-05",
+ "ten_tap": "Em làm gì để bảo vệ biển đảo?",
+ "ten_tap_en": "What Can I Do to Protect Our Seas and Islands?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+  "trang": [
+   230,
+   232,
+   233,
+   235
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "ấm áp, quyết tâm",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 3, tr. 230–235.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là ảnh nền biển xanh và lá cờ đỏ sao vàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cha ông ta đã để lại rất nhiều chứng cứ khẳng định chủ quyền biển đảo. Còn chúng mình, học sinh hôm nay, có thể làm gì?",
+     "Our ancestors left much evidence of our sovereignty over the sea and islands. What can we students do today?"
+    ]
+   ],
+   "nguon_trang": [
+    230,
+    235
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh Nhà trưng bày Hoàng Sa (thành phố Đà Nẵng)",
+    "tim": "Hoang Sa exhibition house Da Nang",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Nhà trưng bày Hoàng Sa (Đà Nẵng)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ Cửu đỉnh thời Nguyễn khắc hình Biển Đông, đến Châu bản triều Nguyễn, bản đồ của người nước ngoài và các văn bản pháp lí – tất cả đều khẳng định Hoàng Sa, Trường Sa là của Việt Nam.",
+     "From the Nguyễn Nine Urns engraved with the East Sea, to Nguyễn court records, foreign maps and legal documents, all affirm that Hoàng Sa and Trường Sa belong to Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    230,
+    232,
+    233
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Học tập, tìm hiểu lịch sử và luật pháp về biển đảo",
+    "Tuyên truyền đúng về chủ quyền biển đảo",
+    "Bảo vệ môi trường biển, không xả rác",
+    "Tri ân những người giữ biển, đảo"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chúng mình có thể học tập, tìm hiểu lịch sử và luật pháp về biển đảo; tuyên truyền thông tin đúng đắn;",
+     "We can learn the history and law of our seas and islands, and share accurate information;"
+    ],
+    [
+     "Hân Hân",
+     "giữ gìn môi trường biển, và tri ân những người đang ngày đêm canh giữ biển đảo quê hương.",
+     "keep the sea clean, and honour those who guard our seas and islands day and night."
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ],
+   "tieu_de": "EM LÀM GÌ ĐỂ BẢO VỆ BIỂN ĐẢO?",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Việc làm nào phù hợp với học sinh để góp phần bảo vệ biển đảo?",
+    "lua_chon": [
+     "Chia sẻ thông tin chưa kiểm chứng",
+     "Tìm hiểu lịch sử, luật pháp và giữ gìn môi trường biển",
+     "Xả rác xuống biển"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Học sinh nên làm gì?",
+     "EduHistory asks you! What should students do?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B! Còn cậu sẽ làm việc gì đầu tiên? Bình luận nhé!",
+     "The answer is B! What will you do first? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    235
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hiện vật nào thời Nguyễn có chạm nổi Biển Đông?",
+   "dap_an": [
+    "Cửu đỉnh",
+    "Trống đồng Đông Sơn",
+    "Bia Tiến sĩ",
+    "Chuông chùa Một Cột"
+   ],
+   "dung": 0,
+   "trang": 230
+  },
+  {
+   "hoi": "Châu bản Triều Nguyễn là gì?",
+   "dap_an": [
+    "Văn bản hành chính của Triều đình",
+    "Bản đồ của người nước ngoài",
+    "Hiệp định quốc tế",
+    "Sách giáo khoa"
+   ],
+   "dung": 0,
+   "trang": 232
+  },
+  {
+   "hoi": "Việt Nam công bố Sách Trắng về chủ quyền Hoàng Sa, Trường Sa vào những năm nào?",
+   "dap_an": [
+    "1979, 1981, 1988",
+    "1945, 1954, 1975",
+    "2000, 2003, 2012",
+    "1925, 1938, 1951"
+   ],
+   "dung": 0,
+   "trang": 233
+  },
+  {
+   "hoi": "Tại Hội nghị Xan Phran-xi-xcô (9 – 1951), chủ quyền Việt Nam với Hoàng Sa, Trường Sa được tuyên bố như thế nào?",
+   "dap_an": [
+    "Không bị các nước tham dự phản đối",
+    "Bị bác bỏ",
+    "Không được nhắc tới",
+    "Bị hoãn lại"
+   ],
+   "dung": 0,
+   "trang": 233
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 230 (Cửu đỉnh chạm Biển Đông, Trường Sa, Hoàng Sa), tr. 232 (Châu bản Triều Nguyễn; bản đồ người nước ngoài), tr. 233 (Hội nghị Xan Phran-xi-xcô 9 – 1951; Sách Trắng 1979, 1981, 1988; Hình 4 Nhà trưng bày Hoàng Sa, Đà Nẵng) và tr. 235 (Vận dụng: việc làm cụ thể). Khung dọc; không dùng bản đồ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

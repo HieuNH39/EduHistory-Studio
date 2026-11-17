@@ -1,0 +1,187 @@
+{
+ "ma": "L6-B18-01",
+ "ten_tap": "Khúc Thừa Dụ: Người đặt nền móng tự chủ",
+ "ten_tap_en": "Khúc Thừa Dụ: Founder of Self-Rule",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X",
+  "trang": [
+   81
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "khuc-thua-du"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, mở ra",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 18, tr. 81.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh chỉ vào con số 905 trên bảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 905, một hào trưởng đất Hồng Châu đã mở ra trang sử mới cho dân tộc. Đó là ai?",
+     "In 905, a chieftain from Hồng Châu opened a new chapter for the nation. Who was he?"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "khuc-thua-du"
+   ],
+   "hinh": "Khung dọc 9:16. Khúc Thừa Dụ (vẽ khái quát), hào trưởng trung niên, nét mặt hiền hậu mà cương nghị, mặc áo vải sẫm, chít khăn, cưỡi ngựa dẫn đầu nghĩa quân áo nâu cầm giáo tiến qua cổng thành Đại La bằng đất lúc bình minh; lính đô hộ bỏ chạy phía xa (không máu)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ cuối thế kỉ IX, nhà Đường suy yếu. Nhân cơ hội đó, giữa năm 905, Khúc Thừa Dụ, một hào trưởng ở Hồng Châu, nay thuộc thành phố Hải Phòng, đã nổi dậy đánh chiếm thành Đại La,",
+     "From the late 9th century the Tang weakened. Seizing the chance in mid-905, Khúc Thừa Dụ, a chieftain of Hồng Châu, now in Hải Phòng, rose up and took Đại La citadel,"
+    ],
+    [
+     "Nhật Minh",
+     "lật đổ chính quyền đô hộ, tự xưng là Tiết độ sứ, xây dựng chính quyền tự chủ của người Việt.",
+     "overthrew the foreign rulers, named himself military governor and built a self-governing Vietnamese administration."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân cầm tấm thẻ ghi: khoan dung, giản dị, yên vui",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 907, con của Khúc Thừa Dụ là Khúc Hạo lên thay cha và tiến hành cải cách, với chủ trương: Chính sự cốt chuộng khoan dung, giản dị, nhân dân đều được yên vui.",
+     "In 907, his son Khúc Hạo took over and launched reforms, guided by: govern with tolerance and simplicity so all the people live in peace."
+    ],
+    [
+     "Nhật Minh",
+     "Ông tha bỏ lực dịch cho dân bớt khổ, xây dựng chính quyền tự chủ, độc lập với phong kiến phương Bắc.",
+     "He abolished forced labour to ease people's burdens, building a government independent of the Northern court."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 905, Khúc Thừa Dụ đánh chiếm thành nào?",
+    "lua_chon": [
+     "Thành Cổ Loa",
+     "Thành Đại La",
+     "Thành Vạn An"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Năm 905, Khúc Thừa Dụ chiếm thành nào?",
+     "EduHistory asks you! Which citadel did Khúc Thừa Dụ take in 905?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thành Đại La!",
+     "The answer is B: Đại La!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, những việc làm của cha con họ Khúc có ý nghĩa như thế nào? Bình luận nhé!",
+     "What do you think the Khúc father and son achieved? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Khúc Thừa Dụ quê ở đâu?",
+   "dap_an": [
+    "Hồng Châu (nay thuộc thành phố Hải Phòng)",
+    "Đường Lâm",
+    "Mê Linh",
+    "Thanh Hoá"
+   ],
+   "dung": 0,
+   "trang": 81
+  },
+  {
+   "hoi": "Sau khi chiếm thành Đại La, Khúc Thừa Dụ tự xưng là gì?",
+   "dap_an": [
+    "Tiết độ sứ",
+    "Hoàng đế",
+    "Bố Cái đại vương",
+    "Lý Nam Đế"
+   ],
+   "dung": 0,
+   "trang": 81
+  },
+  {
+   "hoi": "Năm 907, ai lên thay Khúc Thừa Dụ nắm quyền?",
+   "dap_an": [
+    "Khúc Hạo",
+    "Dương Đình Nghệ",
+    "Ngô Quyền",
+    "Phùng Hưng"
+   ],
+   "dung": 0,
+   "trang": 81
+  },
+  {
+   "hoi": "Chủ trương cải cách của Khúc Hạo là gì?",
+   "dap_an": [
+    "Chính sự cốt chuộng khoan dung, giản dị, nhân dân đều được yên vui",
+    "Tăng thuế để mạnh quân",
+    "Đóng cửa buôn bán",
+    "Thần phục nhà Đường"
+   ],
+   "dung": 0,
+   "trang": 81
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 81 (mục 1a: nhà Đường suy yếu cuối thế kỉ IX; giữa năm 905 Khúc Thừa Dụ – hào trưởng Hồng Châu, nay thuộc Hải Phòng – chiếm thành Đại La, xưng Tiết độ sứ; năm 907 Khúc Hạo cải cách; Hình 2 sơ đồ: chủ trương khoan dung, giản dị, yên vui; tha bỏ lực dịch; xây dựng chính quyền tự chủ; câu hỏi 2). Khung dọc; một cảnh tái hiện mới (Khúc Thừa Dụ vẽ khái quát, không cảnh giao chiến).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "ma": "L7-CD2-03",
+ "ten_tap": "Sự trỗi dậy của các đô thị trung đại",
+ "ten_tap_en": "The Rise of Medieval Towns",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chuyên đề 2. Đô thị: Lịch sử và hiện tại",
+  "trang": [
+   172,
+   173
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-thu-cong"
+ ],
+ "nhac": {
+  "tam_trang": "sôi động, tươi sáng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chuyên đề 2, tr. 172–173.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ một lâu đài và một thành phố có tường bao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Pa-ri, Luân Đôn ngày nay là những thành phố lớn của thế giới. Nhưng ở châu Âu thời trung đại, các đô thị đã ra đời thế nào?",
+     "Paris and London are great world cities today. But how did towns arise in medieval Europe?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng theo chân những người thợ thủ công nhé!",
+     "Let's follow the craftsmen!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Từ thế kỉ XI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Dùng lại ảnh L7-B1-04 cảnh 4: một người thợ thủ công khoác tay nải lặng lẽ rời cổng lãnh địa lúc rạng sáng; người thợ khác trao túi tiền cho viên quản lí",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ XI, sản xuất nông nghiệp, thủ công nghiệp và thương nghiệp trong các lãnh địa phong kiến có nhiều biến đổi.",
+     "From the 11th century, farming, crafts and trade in the feudal manors changed a lot."
+    ],
+    [
+     "Hân Hân",
+     "Một số thợ thủ công tìm cách trốn khỏi lãnh địa, hoặc dùng tiền để chuộc lại tự do.",
+     "Some craftsmen fled the manors or paid money to buy their freedom."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B1-04/canh-04.jpg",
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Dùng lại ảnh L7-B1-04 cảnh 5: ngã tư đường bên bến sông, thợ thủ công dựng xưởng và quầy hàng, nhà cửa mọc lên san sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Họ tìm đến những nơi đông dân cư, gần nguồn nguyên liệu, nơi giao nhau của các trục đường chính, nhóm nhau lại để cùng sản xuất, buôn bán.",
+     "They went to busy places near raw materials and crossroads of main routes, gathering to make and sell goods together."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, các đô thị hình thành!",
+     "That's how towns took shape!"
+    ]
+   ],
+   "anh": "assets/episodes/L7-B1-04/canh-05.jpg",
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lanh-chua"
+   ],
+   "hinh": "Dùng lại ảnh L7-B1-04 cảnh 8: lãnh chúa đứng trên công trường xây tường thành mới; thợ xây dựng lại nhà cửa trên nền móng thành phố cổ đổ nát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bên cạnh đó, còn có những đô thị do lãnh chúa, Giáo hội xây dựng, hoặc được phục hồi từ những đô thị cổ đại.",
+     "There were also towns built by lords or the Church, or restored from ancient cities."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B1-04/canh-08.jpg",
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đô thị châu Âu trung đại hình thành ở những nơi nào?",
+    "lua_chon": [
+     "Nơi đông dân, gần nguyên liệu, giao nhau của các trục đường",
+     "Giữa sa mạc",
+     "Trên đỉnh núi cao"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thợ thủ công tìm đến đâu để lập nên đô thị?",
+     "EduHistory asks you! Where did craftsmen go to found towns?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: nơi đông dân, gần nguồn nguyên liệu, nơi giao nhau của các trục đường!",
+     "The answer is A: busy places near raw materials and crossroads!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Pa-ri",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Kinh thành Pa-ri thời trung đại trong tranh tập Các giờ kinh rất giàu của Công tước Béc-ri (thế kỉ XV)",
+    "tim": "Très Riches Heures juin Palais de la Cité",
+    "yeu_cau": "tranh thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: Pa-ri thời trung đại (tranh thế kỉ XV)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Pa-ri là một thành phố của La Mã từ thế kỉ I, sau đó trở thành thủ đô của Vương quốc Phơ-răng.",
+     "Paris was a Roman town from the 1st century, later the capital of the Frankish kingdom."
+    ],
+    [
+     "Hân Hân",
+     "Hình thành bên bờ sông Xen, là giao điểm của các con đường buôn bán lớn, Pa-ri trở nên giàu có nhờ thương mại.",
+     "Built on the Seine at the crossing of major trade routes, Paris grew rich through commerce."
+    ],
+    [
+     "Nhật Minh",
+     "Với khoảng 50 000 dân ở thế kỉ XII, Pa-ri trở thành trung tâm quan trọng về kinh tế, chính trị, giáo dục, tôn giáo của châu Âu.",
+     "With about 50,000 people in the 12th century, Paris became a key European centre of economy, politics, education and religion."
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Luân Đôn",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-B1-04 cảnh 10: phiên chợ lớn ở quảng trường thành thị, thương nhân bày vải, dao, nồi đồng, nông dân mang lúa mì, len đến bán",
+   "loi": [
+    [
+     "Hân Hân",
+     "Luân Đôn được hình thành bên bờ sông Thêm vào thế kỉ I.",
+     "London grew up on the River Thames in the 1st century."
+    ],
+    [
+     "Nhật Minh",
+     "Từ thế kỉ VII đến thế kỉ XI, người Ăng-glô Xắc-xông đến đây xây dựng thành phố với 10 000 đến 12 000 dân. Thế kỉ XI, Luân Đôn đã có cảng biển lớn nhất nước Anh.",
+     "From the 7th to the 11th century, Anglo-Saxons built a city of 10,000 to 12,000 people there. By the 11th century, London had England's largest port."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B1-04/canh-10.jpg",
+   "nguon_trang": [
+    173
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thế kỉ XII, Pa-ri có khoảng bao nhiêu dân?",
+    "lua_chon": [
+     "10 000",
+     "50 000",
+     "500 000"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Thế kỉ XII, Pa-ri có khoảng bao nhiêu dân?",
+     "Pause! About how many people lived in Paris in the 12th century?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: khoảng 50 000 người!",
+     "The answer is B: about 50,000!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ thế kỉ XI: thợ thủ công rời lãnh địa, lập đô thị ở nơi đông dân, giao thương",
+    "Đô thị do lãnh chúa, Giáo hội xây dựng hoặc phục hồi từ đô thị cổ",
+    "Pa-ri: bên sông Xen, khoảng 50 000 dân (thế kỉ XII)",
+    "Luân Đôn: bên sông Thêm, cảng lớn nhất nước Anh (thế kỉ XI)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: đô thị trung đại ra đời từ thế kỉ XI, nhờ thợ thủ công tự do, nơi giao thương, cả sự phục hồi đô thị cổ.",
+     "Remember: medieval towns arose from the 11th century, thanks to free craftsmen, trade crossroads, and restored ancient cities."
+    ],
+    [
+     "Nhật Minh",
+     "Pa-ri và Luân Đôn là hai ví dụ tiêu biểu.",
+     "Paris and London are two classic examples."
+    ]
+   ],
+   "nguon_trang": [
+    172,
+    173
+   ],
+   "tieu_de": "ĐÔ THỊ CHÂU ÂU TRUNG ĐẠI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: thành phố nơi cậu sống ra đời từ đâu: bến sông, ngã ba đường hay nơi khác? Bình luận nhé!",
+     "Your challenge: how did your own city begin: by a river, at a crossroads, or somewhere else? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    172
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Các đô thị châu Âu trung đại bắt đầu ra đời từ thế kỉ nào?",
+   "dap_an": [
+    "Thế kỉ V",
+    "Thế kỉ XI",
+    "Thế kỉ XV",
+    "Thế kỉ XVIII"
+   ],
+   "dung": 1,
+   "trang": 172
+  },
+  {
+   "hoi": "Pa-ri được hình thành bên bờ sông nào?",
+   "dap_an": [
+    "Sông Thêm",
+    "Sông Xen",
+    "Sông Rai-nơ",
+    "Sông Đa-nuýp"
+   ],
+   "dung": 1,
+   "trang": 172
+  },
+  {
+   "hoi": "Thế kỉ XI, thành phố nào có cảng biển lớn nhất nước Anh?",
+   "dap_an": [
+    "Luân Đôn",
+    "Pa-ri",
+    "Rô-ma",
+    "Li-xbon"
+   ],
+   "dung": 0,
+   "trang": 173
+  },
+  {
+   "hoi": "Thợ thủ công thoát khỏi lãnh địa bằng cách nào?",
+   "dap_an": [
+    "Trốn đi hoặc dùng tiền chuộc lại tự do",
+    "Được lãnh chúa tặng tự do",
+    "Đi lính",
+    "Đi học"
+   ],
+   "dung": 0,
+   "trang": 172
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 172 (mục 2a: từ thế kỉ XI, thợ thủ công trốn hoặc chuộc tự do, nơi lập đô thị; đô thị do lãnh chúa, Giáo hội xây hoặc phục hồi; ô Pa-ri: thế kỉ I, Phơ-răng, sông Xen, khoảng 50 000 dân thế kỉ XII) và tr. 173 (ô Em có biết Luân Đôn: sông Thêm, thế kỉ I, Ăng-glô Xắc-xông, 10 000 – 12 000 dân, cảng lớn nhất nước Anh thế kỉ XI). Không tạo ảnh mới: dùng lại ảnh L7-B1-04 cảnh 4, 5, 8, 10; cảnh 8 dùng tranh thế kỉ XV thuộc phạm vi công cộng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

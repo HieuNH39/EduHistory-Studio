@@ -1,0 +1,315 @@
+{
+ "ma": "L8-B18-03",
+ "ten_tap": "Bãi Sậy và Ba Đình: Những pháo đài thép",
+ "ten_tap_en": "Bãi Sậy and Ba Đình: Fortresses of Steel",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 18. Phong trào chống Pháp trong những năm 1885 – 1896",
+  "trang": [
+   85,
+   86
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hào hùng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 18, tr. 85–86.",
+ "chinh_sach_hinh": "Thủ lĩnh dùng ảnh tư liệu thật; cảnh tái hiện vẽ nhóm nghĩa quân khái quát, không bạo lực.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là sơ đồ hai ô: Bãi Sậy (Hưng Yên) và Ba Đình (Thanh Hoá)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong phong trào Cần vương, có hai cuộc khởi nghĩa được ví như những pháo đài thép: Bãi Sậy và Ba Đình.",
+     "In the Cần Vương movement, two uprisings were like fortresses of steel: Bãi Sậy and Ba Đình."
+    ],
+    [
+     "Hân Hân",
+     "Cùng khám phá nhé!",
+     "Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Bãi Sậy (1883 – 1892)",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chân dung Nguyễn Thiện Thuật (1844 – 1926)",
+    "tim": "Nguyen Thien Thuat portrait",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: Nguyễn Thiện Thuật",
+   "loi": [
+    [
+     "Hân Hân",
+     "Địa bàn chính của khởi nghĩa Bãi Sậy là vùng Bãi Sậy, tỉnh Hưng Yên. Người chỉ huy là Nguyễn Thiện Thuật.",
+     "The main base of the Bãi Sậy uprising was the Bãi Sậy area of Hưng Yên province, led by Nguyễn Thiện Thuật."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-bai-say"
+   ],
+   "hinh": "Vùng đầm lầy Bãi Sậy (Hưng Yên) cuối thế kỉ XIX: lau sậy cao quá đầu người um tùm, mặt nước lấp lánh; những nghĩa quân áo nâu, khăn đầu rìu, cầm giáo và súng hoả mai lặng lẽ ẩn mình giữa lau sậy, chèo thuyền nan nhỏ len qua lạch nước (phục kích, không cảnh giao tranh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dựa vào vùng đầm lầy với lau sậy um tùm, nghĩa quân xây dựng căn cứ, triệt để áp dụng chiến thuật du kích để đánh địch.",
+     "Using the marshland with its dense reeds, the insurgents built bases and made full use of guerrilla tactics."
+    ],
+    [
+     "Hân Hân",
+     "Sau những trận chống càn liên tiếp, nghĩa quân suy yếu dần, bị bao vây, cô lập. Đến cuối năm 1892, khởi nghĩa thất bại.",
+     "After repeated sweeps, the insurgents weakened, were surrounded and isolated. By late 1892, the uprising had failed."
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nghĩa quân Bãi Sậy áp dụng chiến thuật nào là chủ yếu?",
+    "lua_chon": [
+     "Chiến thuật du kích",
+     "Phòng thủ thành cao",
+     "Thuỷ chiến trên biển"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Nghĩa quân Bãi Sậy dựa vào đầm lầy để đánh địch bằng chiến thuật gì?",
+     "Pause! What tactic did the Bãi Sậy insurgents use in the marshes?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: chiến thuật du kích!",
+     "The answer is A: guerrilla tactics!"
+    ]
+   ],
+   "nguon_trang": [
+    85
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ba Đình (1886 – 1887)",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-ba-dinh"
+   ],
+   "hinh": "Căn cứ Ba Đình (Thanh Hoá) cuối thế kỉ XIX nhìn từ trên cao: ba làng Mậu Thịnh, Thượng Thọ, Mĩ Khê nằm giữa cánh đồng chiêm trũng ngập nước, bao quanh bởi lũy tre dày, hào nước và tường đất; trong làng, nghĩa quân áo nâu đang đắp lũy, cắm chông tre",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Căn cứ chính của khởi nghĩa Ba Đình được xây dựng trên địa bàn ba làng Mậu Thịnh, Thượng Thọ, Mĩ Khê, nay thuộc xã Ba Đình, tỉnh Thanh Hoá.",
+     "The main base of the Ba Đình uprising spanned three villages, Mậu Thịnh, Thượng Thọ and Mĩ Khê, now in Ba Đình commune, Thanh Hoá province."
+    ],
+    [
+     "Hân Hân",
+     "Lãnh đạo chủ chốt là Phạm Bành và Đinh Công Tráng.",
+     "Its key leaders were Phạm Bành and Đinh Công Tráng."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-ba-dinh"
+   ],
+   "hinh": "Trong làng căn cứ Ba Đình cuối thế kỉ XIX: nghĩa quân người Kinh áo nâu, người Mường áo chàm, người Thái khăn piêu cùng nhau vác tre, đắp lũy đất, mài giáo; trẻ em và phụ nữ mang cơm nước tiếp tế (không cảnh giao tranh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghĩa quân gồm cả người Kinh, người Mường, người Thái tham gia.",
+     "The insurgents included Kinh, Mường and Thái people."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 1 năm 1887, Pháp mở cuộc tấn công quy mô vào căn cứ. Bị tổn thất nặng, nghĩa quân phải mở đường máu rút lên căn cứ Mã Cao, chiến đấu thêm một thời gian nữa rồi tan rã.",
+     "In January 1887, the French launched a large-scale assault. After heavy losses, the insurgents broke out to the Mã Cao base, fought on a while and then dispersed."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những dân tộc nào tham gia nghĩa quân Ba Đình?",
+    "lua_chon": [
+     "Kinh, Mường, Thái",
+     "Kinh, Khơ-me, Chăm",
+     "Tày, Nùng, Dao"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Nghĩa quân Ba Đình gồm những dân tộc nào?",
+     "EduHistory asks you! Which peoples joined the Ba Đình insurgents?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: người Kinh, người Mường và người Thái!",
+     "The answer is A: Kinh, Mường and Thái!"
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Bãi Sậy (1883 – 1892), Hưng Yên: Nguyễn Thiện Thuật, chiến thuật du kích",
+    "Ba Đình (1886 – 1887), Thanh Hoá: Phạm Bành, Đinh Công Tráng",
+    "Ba Đình: căn cứ ba làng Mậu Thịnh, Thượng Thọ, Mĩ Khê; người Kinh, Mường, Thái",
+    "Đều thể hiện tinh thần bất khuất chống Pháp"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Bãi Sậy dựa vào đầm lầy đánh du kích, do Nguyễn Thiện Thuật chỉ huy.",
+     "Remember: Bãi Sậy used the marshes for guerrilla war under Nguyễn Thiện Thuật."
+    ],
+    [
+     "Nhật Minh",
+     "Ba Đình dựa vào căn cứ ba làng, do Phạm Bành, Đinh Công Tráng lãnh đạo, có cả người Kinh, Mường, Thái tham gia.",
+     "Ba Đình relied on a three-village base led by Phạm Bành and Đinh Công Tráng, with Kinh, Mường and Thái fighters."
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ],
+   "tieu_de": "BÃI SẬY VÀ BA ĐÌNH",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: căn cứ Bãi Sậy và căn cứ Ba Đình khác nhau thế nào về cách chọn địa hình? Bình luận nhé!",
+     "Your challenge: how did Bãi Sậy and Ba Đình differ in their choice of terrain? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    85,
+    86
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Khởi nghĩa Bãi Sậy diễn ra trong thời gian nào?",
+   "dap_an": [
+    "1883 – 1892",
+    "1886 – 1887",
+    "1885 – 1896",
+    "1884 – 1913"
+   ],
+   "dung": 0,
+   "trang": 85
+  },
+  {
+   "hoi": "Ai chỉ huy khởi nghĩa Bãi Sậy?",
+   "dap_an": [
+    "Nguyễn Thiện Thuật",
+    "Phạm Bành",
+    "Phan Đình Phùng",
+    "Đinh Công Tráng"
+   ],
+   "dung": 0,
+   "trang": 85
+  },
+  {
+   "hoi": "Căn cứ Ba Đình gồm những làng nào?",
+   "dap_an": [
+    "Mậu Thịnh, Thượng Thọ, Mĩ Khê",
+    "Tiền Hải, Kim Sơn, Mã Cao",
+    "Ngàn Trươi, Hương Khê, Mã Cao",
+    "Bãi Sậy, Mĩ Khê, Thượng Thọ"
+   ],
+   "dung": 0,
+   "trang": 86
+  },
+  {
+   "hoi": "Sau khi căn cứ Ba Đình bị tấn công, nghĩa quân rút lên đâu?",
+   "dap_an": [
+    "Căn cứ Mã Cao",
+    "Ngàn Trươi",
+    "Bãi Sậy",
+    "Yên Thế"
+   ],
+   "dung": 0,
+   "trang": 86
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 85 (khởi nghĩa Bãi Sậy 1883 – 1892: vùng Bãi Sậy tỉnh Hưng Yên, Nguyễn Thiện Thuật, đầm lầy lau sậy, chiến thuật du kích, bị bao vây cô lập, thất bại cuối năm 1892; Hình 18.5) và tr. 86 (khởi nghĩa Ba Đình 1886 – 1887: Mậu Thịnh, Thượng Thọ, Mĩ Khê nay thuộc xã Ba Đình, tỉnh Thanh Hoá; Phạm Bành, Đinh Công Tráng; người Kinh, Mường, Thái; tháng 1 – 1887 Pháp tấn công, rút lên Mã Cao). Thủ lĩnh dùng ảnh tư liệu; cảnh tái hiện vẽ nhóm nghĩa quân khái quát, không cảnh giao tranh.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

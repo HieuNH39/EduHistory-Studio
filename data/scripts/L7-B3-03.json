@@ -1,0 +1,423 @@
+{
+ "ma": "L7-B3-03",
+ "ten_tap": "Cải cách tôn giáo: Cuộc đối đầu lịch sử",
+ "ten_tap_en": "The Reformation: A Historic Confrontation",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 3. Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+  "trang": [
+   19,
+   21,
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "mac-tin-lu-tho",
+  "giang-can-vanh"
+ ],
+ "nhac": {
+  "tam_trang": "trang nghiêm, trung tính, có chút căng thẳng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 3, tr. 19–22.",
+ "chinh_sach_hinh": "Chủ đề tôn giáo: nhân vật lịch sử (Lu-thơ, Can-vanh) chỉ dùng tranh/ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không dùng AI vẽ giáo sĩ hay nghi lễ; tranh minh hoạ AI chỉ cho cảnh đời thường (nông dân).",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Nhật Minh mở cuốn sách lịch sử thế giới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XVI, ở Tây Âu bùng nổ một phong trào làm Thiên Chúa giáo chia thành hai giáo phái.",
+     "In the early 16th century, a movement broke out in Western Europe that split Christianity into two branches."
+    ],
+    [
+     "Hân Hân",
+     "Đó là phong trào Cải cách tôn giáo. Vì sao nó bùng nổ? Cùng tìm hiểu nhé!",
+     "It was the Reformation. Why did it erupt? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    21,
+    22
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đầu thế kỉ XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Thiên Chúa giáo: chỗ dựa vững chắc nhất của chế độ phong kiến",
+    "Đầu thế kỉ XVI: Giáo hội cản trở sự phát triển của giai cấp tư sản",
+    "Nhiều giáo hoàng, giám mục quá quan tâm đến quyền lực, đặt ra lễ nghi tốn kém"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời trung đại, Thiên Chúa giáo là chỗ dựa vững chắc nhất của chế độ phong kiến, chi phối toàn bộ đời sống tinh thần của xã hội châu Âu.",
+     "In the Middle Ages, Christianity was feudalism's strongest pillar, shaping the whole spiritual life of European society."
+    ],
+    [
+     "Hân Hân",
+     "Đến đầu thế kỉ XVI, Giáo hội ngày càng có xu hướng cản trở sự phát triển của giai cấp tư sản.",
+     "By the early 16th century, the Church increasingly stood in the way of the rising bourgeoisie."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều giáo hoàng và giám mục quá quan tâm đến quyền lực và đặt ra những lễ nghi tốn kém.",
+     "Many popes and bishops cared too much about power and imposed costly rituals."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "tieu_de": "NGUYÊN NHÂN BÙNG NỔ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tu-san",
+    "quy-toc"
+   ],
+   "hinh": "Dùng lại ảnh L7-B3-01 cảnh 6: bữa tiệc trong lâu đài, quý tộc và giáo sĩ ngồi bàn trên cao, một thương nhân giàu có bị xếp ngồi cuối phòng, nét mặt bất bình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai cấp tư sản có thế lực kinh tế, nhưng không chấp nhận những giáo lí lỗi thời cản bước họ.",
+     "The bourgeoisie had economic power but would not accept outdated doctrines that held them back."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thế, phong trào Cải cách tôn giáo bùng nổ khắp các nước Tây Âu.",
+     "So the Reformation broke out across Western Europe."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B3-01/canh-06.jpg",
+   "nguon_trang": [
+    19,
+    21
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao phong trào Cải cách tôn giáo bùng nổ?",
+    "lua_chon": [
+     "Giáo hội cản trở giai cấp tư sản, đặt lễ nghi tốn kém",
+     "Do chiến tranh với phương Đông",
+     "Do phát kiến địa lí thất bại"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao phong trào Cải cách tôn giáo bùng nổ?",
+     "EduHistory asks you! Why did the Reformation break out?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Giáo hội cản trở giai cấp tư sản và đặt ra lễ nghi tốn kém!",
+     "The answer is A: the Church obstructed the bourgeoisie and imposed costly rituals!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 1517",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung Mác-tin Lu-thơ (1483 – 1546), tranh của L. Cra-nách (như Hình 4 SGK, tr. 21)",
+    "tim": "Martin Luther portrait Lucas Cranach",
+    "yeu_cau": "ảnh tư liệu công khai (tranh, ảnh thuộc phạm vi công cộng), ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chân dung Mác-tin Lu-thơ (1483 – 1546)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mác-tin Lu-thơ là một tu sĩ, đồng thời là giáo sư ở Trường Đại học Vit-ten-béc, nước Đức.",
+     "Martin Luther was a monk and a professor at the University of Wittenberg in Germany."
+    ],
+    [
+     "Hân Hân",
+     "Ông căm ghét việc giáo sĩ được phép bán 'thẻ miễn tội'.",
+     "He hated the clergy being allowed to sell 'indulgences'."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cửa nhà thờ ở thành phố Vit-ten-béc (Đức), nơi gắn với sự kiện năm 1517",
+    "tim": "Wittenberg Castle Church door theses",
+    "yeu_cau": "ảnh tư liệu công khai (tranh, ảnh thuộc phạm vi công cộng), ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: cửa nhà thờ ở Vit-ten-béc (Đức) ngày nay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1517, Lu-thơ đã ghim lên cánh cửa nhà thờ bản luận văn chỉ trích Giáo hội.",
+     "In 1517, Luther pinned to the church door a thesis criticising the Church."
+    ],
+    [
+     "Hân Hân",
+     "Sau đó, ông bị buộc tội dị giáo, tức là đi ngược lại với đức tin của Giáo hội, và bị trừng phạt.",
+     "He was then accused of heresy, going against the Church's faith, and punished."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung Giăng Can-vanh (Thuỵ Sĩ)",
+    "tim": "John Calvin portrait",
+    "yeu_cau": "ảnh tư liệu công khai (tranh, ảnh thuộc phạm vi công cộng), ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chân dung Giăng Can-vanh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phong trào khởi đầu ở Đức, Thuỵ Sĩ, sau đó lan sang Bỉ, Hà Lan, Anh, Pháp.",
+     "The movement began in Germany and Switzerland, then spread to Belgium, the Netherlands, England and France."
+    ],
+    [
+     "Hân Hân",
+     "Tiêu biểu nhất là tư tưởng cải cách của Mác-tin Lu-thơ ở Đức và Giăng Can-vanh ở Thuỵ Sĩ.",
+     "Its leading thinkers were Martin Luther in Germany and John Calvin in Switzerland."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1517, ai ghim bản luận văn chỉ trích Giáo hội lên cửa nhà thờ?",
+    "lua_chon": [
+     "Giăng Can-vanh",
+     "Mác-tin Lu-thơ",
+     "G. Ga-li-lê"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1517, ai ghim bản luận văn chỉ trích Giáo hội lên cửa nhà thờ?",
+     "Pause! Who pinned a thesis criticising the Church to a church door in 1517?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Mác-tin Lu-thơ!",
+     "The answer is B: Martin Luther!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Phê phán những hành vi không chuẩn mực của Giáo hoàng",
+    "Chỉ trích mạnh mẽ những giáo lí giả dối của Giáo hội",
+    "Đòi bãi bỏ những hủ tục, lễ nghi phiền toái",
+    "Ủng hộ việc làm giàu của giai cấp tư sản"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Nội dung cơ bản của phong trào: phê phán những hành vi không chuẩn mực của Giáo hoàng, chỉ trích mạnh mẽ những giáo lí giả dối của Giáo hội.",
+     "Its core ideas: criticising the Pope's improper conduct and strongly condemning the Church's false doctrines."
+    ],
+    [
+     "Nhật Minh",
+     "Đòi bãi bỏ những hủ tục, lễ nghi phiền toái, và ủng hộ việc làm giàu của giai cấp tư sản.",
+     "Demanding an end to outdated customs and cumbersome rituals, and supporting the bourgeoisie's pursuit of wealth."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "tieu_de": "NỘI DUNG CƠ BẢN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tác động",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-duc"
+   ],
+   "hinh": "Một quảng trường làng ở nước Đức thế kỉ XVI: hàng trăm nông dân áo vải thô, mũ nỉ, tay cầm liềm, cuốc, chĩa ba tụ họp đông đúc, ngẩng đầu nghe một người đứng trên bậc đá giếng làng nói; nhà gỗ khung chéo mái dốc xung quanh; trời chiều u ám (viễn cảnh, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cải cách tôn giáo được đông đảo nhân dân ủng hộ, lan rộng khắp Tây Âu trong thế kỉ XVI.",
+     "The Reformation won broad popular support and spread across Western Europe in the 16th century."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào còn làm bùng lên một cuộc đấu tranh rộng lớn ở Đức, thường gọi là cuộc Chiến tranh nông dân Đức.",
+     "It also sparked a vast struggle in Germany, known as the German Peasants' War."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Thiên Chúa giáo phân hoá: Cựu giáo (Thiên Chúa giáo) và Tân giáo (Anh giáo, Tin Lành,...)",
+    "Bùng lên cuộc Chiến tranh nông dân Đức",
+    "Cùng Văn hoá Phục hưng: cuộc đấu tranh công khai đầu tiên trên lĩnh vực văn hoá – tư tưởng của giai cấp tư sản"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Do tác động của Cải cách tôn giáo, Thiên Chúa giáo phân hoá thành hai giáo phái: Cựu giáo và Tân giáo, như Anh giáo, Tin Lành.",
+     "Because of the Reformation, Christianity split into two branches: the old faith, Catholicism, and the new, such as Anglicanism and Protestantism."
+    ],
+    [
+     "Hân Hân",
+     "Cùng với Văn hoá Phục hưng, đây là một trong những cuộc đấu tranh công khai đầu tiên trên lĩnh vực văn hoá – tư tưởng của giai cấp tư sản chống chế độ phong kiến.",
+     "Together with the Renaissance, it was one of the bourgeoisie's first open struggles in culture and ideas against feudalism."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "tieu_de": "TÁC ĐỘNG CỦA CẢI CÁCH TÔN GIÁO",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Văn hoá Phục hưng và Cải cách tôn giáo giống nhau ở điểm nào? Bình luận nhé!",
+     "Your challenge: what did the Renaissance and the Reformation have in common? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào Cải cách tôn giáo khởi đầu ở những nước nào?",
+   "dap_an": [
+    "Anh, Pháp",
+    "Đức, Thuỵ Sĩ",
+    "I-ta-li-a, Tây Ban Nha",
+    "Hà Lan, Bỉ"
+   ],
+   "dung": 1,
+   "trang": 21
+  },
+  {
+   "hoi": "Mác-tin Lu-thơ căm ghét việc làm nào của giáo sĩ?",
+   "dap_an": [
+    "Bán 'thẻ miễn tội'",
+    "Mở trường đại học",
+    "Dịch Kinh Thánh",
+    "Xây nhà thờ"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Do tác động của Cải cách tôn giáo, Thiên Chúa giáo phân hoá thành những giáo phái nào?",
+   "dap_an": [
+    "Cựu giáo và Tân giáo",
+    "Phật giáo và Hồi giáo",
+    "Đạo giáo và Nho giáo",
+    "Hin-đu giáo và Phật giáo"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Cải cách tôn giáo làm bùng lên cuộc đấu tranh nào ở Đức?",
+   "dap_an": [
+    "Chiến tranh trăm năm",
+    "Chiến tranh nông dân Đức",
+    "Cách mạng công nghiệp",
+    "Chiến tranh thế giới"
+   ],
+   "dung": 1,
+   "trang": 22
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 19 (tư sản không chấp nhận giáo lí lỗi thời), tr. 21 (mục 3a nguyên nhân; Lu-thơ, Can-vanh; ô thông tin 1517, thẻ miễn tội, dị giáo; Hình 4; Hình 5 nội dung cơ bản) và tr. 22 (mục 3c tác động: Cựu giáo, Tân giáo, Chiến tranh nông dân Đức). Chủ đề tôn giáo: lời thoại trung tính theo SGK; nhân vật tôn giáo chỉ dùng chân dung tư liệu phạm vi công cộng, không vẽ AI. Cảnh 4 dùng lại ảnh L7-B3-01 cảnh 6.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

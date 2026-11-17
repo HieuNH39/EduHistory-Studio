@@ -1,0 +1,349 @@
+{
+ "ma": "L6-B17-03",
+ "ten_tap": "Tiếp thu văn hóa: Chọn lọc hay hòa tan?",
+ "ten_tap_en": "Cultural Adoption: Selective or Assimilated?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 17. Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+  "trang": [
+   79,
+   80
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet"
+ ],
+ "nhac": {
+  "tam_trang": "tự hào, ấm áp",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 17, tr. 79–80.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học; Nhật Minh cầm chiếc đèn ông sao, Hân Hân cầm bánh chưng mô hình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tết Trung thu và chữ Hán đến từ phương Bắc. Vậy người Việt đã bị hoà tan rồi sao?",
+     "Mid-Autumn and Chinese characters came from the North. So were the Vietnamese assimilated?"
+    ],
+    [
+     "Hân Hân",
+     "Không hề! Người Việt tiếp thu có chọn lọc. Cùng xem nhé!",
+     "Not at all! They adopted selectively. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet"
+   ],
+   "hinh": "Dùng lại ảnh L6-B17-02 cảnh 3: một làng Việt thời Bắc thuộc, đầu làng quan lại phương Bắc dán cáo thị, trong làng người dân vẫn sinh hoạt theo nếp cũ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong suốt thời Bắc thuộc, nhân dân ta đã tiếp thu có chọn lọc những yếu tố văn hoá Trung Hoa để phát triển văn hoá dân tộc.",
+     "Throughout Northern rule, our people selectively adopted elements of Chinese culture to develop their own."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B17-02/canh-03.jpg",
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kĩ thuật",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-03 cảnh 5: xưởng thủ công thời Bắc thuộc, người vớt bột giấy bằng khuôn tre, giấy phơi trên giàn, người thợ bên lò nung làm hạt chuỗi thuỷ tinh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Việt học một số phát minh kĩ thuật như làm giấy, chế tạo đồ thuỷ tinh.",
+     "The Vietnamese learned techniques such as papermaking and glassmaking."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-03/canh-05.jpg",
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết và lễ nghĩa",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet"
+   ],
+   "hinh": "Dùng lại ảnh L6-B17-02 cảnh 8: người dân chèo đò trên sông; trong nhà, chủ nhà ngồi xếp bằng tiếp khách",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tiếp thu chữ Hán, một số quy tắc lễ nghĩa, cách đặt tên họ giống người Hán; chịu ảnh hưởng của tư tưởng gia trưởng, phụ quyền,",
+     "They adopted Chinese characters, some rules of etiquette and Han-style family names, and were influenced by patriarchal ideas,"
+    ],
+    [
+     "Nhật Minh",
+     "nhưng vẫn giữ gìn truyền thống tôn trọng người già và phụ nữ.",
+     "yet kept their tradition of respecting the elderly and women."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B17-02/canh-08.jpg",
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dù chịu ảnh hưởng tư tưởng gia trưởng, người Việt vẫn giữ truyền thống nào?",
+    "lua_chon": [
+     "Tôn trọng người già và phụ nữ",
+     "Ướp xác",
+     "Viết chữ hình nêm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Người Việt vẫn giữ truyền thống nào?",
+     "EduHistory asks you! Which tradition did the Vietnamese keep?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tôn trọng người già và phụ nữ!",
+     "The answer is A: respecting the elderly and women!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lễ tết",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet"
+   ],
+   "hinh": "Dùng lại ảnh L6-B17-02 cảnh 5: sân đình làng ngày hội thời Bắc thuộc, các cô gái búi tóc, cười để lộ hàm răng nhuộm đen, mời nhau miếng trầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Việt tiếp thu một số lễ tết như Tết Nguyên đán, Trung thu, nhưng đã có sự vận dụng cho phù hợp với văn hoá của người Việt,",
+     "They took up festivals like the Lunar New Year and Mid-Autumn, but adapted them to Vietnamese culture,"
+    ],
+    [
+     "Hân Hân",
+     "Trong khi đó, những phong tục như nhuộm răng đen, ăn trầu, làm bánh chưng, bánh giày vẫn được lưu truyền từ đời này qua đời khác.",
+     "Meanwhile, customs like blackening teeth, chewing betel and making bánh chưng and bánh giày were handed down generation after generation."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B17-02/canh-05.jpg",
+   "nguon_trang": [
+    79,
+    80
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Hân Hân chỉ lên bảng vẽ mái chùa và mái đình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Việt tiếp thu Đạo giáo, có sự hoà nhập với tín ngưỡng dân gian.",
+     "The Vietnamese adopted Daoism, blending it with folk beliefs."
+    ],
+    [
+     "Nhật Minh",
+     "Tiếp nhận một số dòng Phật giáo. Xuất hiện nhiều vị cao tăng nổi tiếng đã sang kinh đô nhà Đường để giảng kinh cho vua Đường!",
+     "They embraced some schools of Buddhism, and famous Vietnamese monks even went to the Tang capital to teach the Tang emperor!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Việt tiếp thu những lễ tết nào nhưng vận dụng cho phù hợp?",
+    "lua_chon": [
+     "Tết Nguyên đán, Trung thu",
+     "Lễ Giáng sinh",
+     "Tết Song-kran"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Lễ tết nào được tiếp thu và vận dụng cho phù hợp?",
+     "Pause! Which festivals were adopted and adapted?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Tết Nguyên đán, Trung thu!",
+     "The answer is A: Lunar New Year and Mid-Autumn!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Kĩ thuật: làm giấy, chế tạo đồ thuỷ tinh",
+    "Chữ Hán, lễ nghĩa, cách đặt tên họ – vẫn tôn trọng người già, phụ nữ",
+    "Lễ tết: Nguyên đán, Trung thu – vận dụng phù hợp",
+    "Tôn giáo: Đạo giáo hoà nhập tín ngưỡng dân gian; Phật giáo, cao tăng nổi tiếng"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: người Việt tiếp thu có chọn lọc kĩ thuật, chữ Hán, lễ tết, tôn giáo từ Trung Hoa,",
+     "Remember: the Vietnamese selectively adopted Chinese techniques, writing, festivals and religions,"
+    ],
+    [
+     "Nhật Minh",
+     "nhưng luôn biến đổi cho phù hợp và giữ gìn bản sắc riêng. Chọn lọc, chứ không hoà tan!",
+     "but always adapted them and kept their own identity. Selective, not assimilated!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ],
+   "tieu_de": "TIẾP THU CÓ CHỌN LỌC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: phong tục nào của người Việt thời Bắc thuộc vẫn được duy trì đến ngày nay? Bình luận nhé!",
+     "Your challenge: which Vietnamese customs from the Northern period still live on today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người Việt học được những phát minh kĩ thuật nào từ Trung Hoa?",
+   "dap_an": [
+    "Làm giấy, chế tạo đồ thuỷ tinh",
+    "Đúc trống đồng",
+    "Làm nhà sàn",
+    "Trồng lúa nước"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Đạo giáo được người Việt tiếp thu như thế nào?",
+   "dap_an": [
+    "Có sự hoà nhập với tín ngưỡng dân gian",
+    "Thay thế hoàn toàn tín ngưỡng cũ",
+    "Bị cấm",
+    "Không tiếp thu"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Nhiều vị cao tăng người Việt đã sang đâu để giảng kinh?",
+   "dap_an": [
+    "Kinh đô nhà Đường",
+    "Ấn Độ",
+    "La Mã",
+    "Ai Cập"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Thái độ của người Việt với văn hoá Trung Hoa thời Bắc thuộc là gì?",
+   "dap_an": [
+    "Tiếp thu có chọn lọc",
+    "Từ chối tất cả",
+    "Tiếp thu tất cả, bỏ văn hoá cũ",
+    "Không quan tâm"
+   ],
+   "dung": 0,
+   "trang": 79
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 79 (mục 2 sơ đồ tiếp thu có chọn lọc: làm giấy, thuỷ tinh; chữ Hán, lễ nghĩa, đặt tên họ, gia trưởng nhưng tôn trọng người già, phụ nữ; Tết Nguyên đán, Trung thu vận dụng phù hợp; Đạo giáo hoà nhập tín ngưỡng dân gian; Phật giáo, cao tăng giảng kinh cho vua Đường; Vận dụng 2) và tr. 80 (bánh chưng, bánh giày, ăn trầu vẫn lưu truyền). Dùng lại ảnh L6-B17-02 cảnh 3, 5, 8; L6-B15-03 cảnh 5.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

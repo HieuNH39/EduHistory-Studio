@@ -1,0 +1,271 @@
+{
+ "ma": "L9-B8-02",
+ "ten_tap": "Bước ngoặt lịch sử: Chuyển hướng chiến lược",
+ "ten_tap_en": "A Historic Turn: The Strategic Reorientation",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 8. Cách mạng tháng Tám năm 1945",
+  "trang": [
+   35,
+   36
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, quyết tâm",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 8, tr. 35–36.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là mũi tên đổi hướng, ghi: Giải phóng dân tộc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai đoạn 1939 – 1941, Đảng Cộng sản Đông Dương đã có một bước ngoặt lịch sử: chuyển hướng chiến lược.",
+     "In 1939–1941, the Indochinese Communist Party made a historic turn: a strategic reorientation."
+    ],
+    [
+     "Hân Hân",
+     "Chuyển hướng như thế nào? Cùng xem nhé!",
+     "What kind of turn? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Bắc Sơn (9 – 1940), Nam Kì (11 – 1940), binh biến Đô Lương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính sách thống trị của Pháp – Nhật làm mâu thuẫn giữa dân tộc Việt Nam với đế quốc và tay sai trở nên gay gắt.",
+     "French–Japanese rule sharpened the conflict between the Vietnamese nation and the imperialists and their collaborators."
+    ],
+    [
+     "Nhật Minh",
+     "Những cuộc nổi dậy đầu tiên nổ ra: khởi nghĩa Bắc Sơn tháng 9 năm 1940, khởi nghĩa Nam Kì tháng 11 năm 1940, nơi lá cờ đỏ sao vàng lần đầu xuất hiện, và binh biến Đô Lương.",
+     "The first uprisings erupted: Bắc Sơn in September 1940, Nam Kì in November 1940, where the red flag with a yellow star first appeared, and the Đô Lương mutiny."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 11 – 1939, Bà Điểm, Tổng Bí thư Nguyễn Văn Cừ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 11 năm 1939, Hội nghị Ban Chấp hành Trung ương họp tại Bà Điểm, nay thuộc Thành phố Hồ Chí Minh, do Tổng Bí thư Nguyễn Văn Cừ chủ trì,",
+     "In November 1939, the Central Committee met at Bà Điểm, now in Hồ Chí Minh City, chaired by General Secretary Nguyễn Văn Cừ,"
+    ],
+    [
+     "Nhật Minh",
+     "xác định nhiệm vụ của cách mạng lúc này là giải phóng dân tộc, đánh đổ đế quốc Pháp và tay sai để giành độc lập.",
+     "and set the revolution's task as national liberation: overthrowing French imperialism and its collaborators to win independence."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh di tích Lán Khuổi Nậm (Khu di tích quốc gia đặc biệt Pác Bó, Cao Bằng)",
+    "tim": "Khuoi Nam Pac Bo Cao Bang",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Lán Khuổi Nậm, Pác Bó (Cao Bằng)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 5 năm 1941, Hội nghị Ban Chấp hành Trung ương lần thứ tám họp tại Pác Bó, Cao Bằng, do lãnh tụ Nguyễn Ái Quốc trực tiếp chủ trì,",
+     "In May 1941, the Eighth Central Committee Plenum met at Pác Bó, Cao Bằng, chaired directly by leader Nguyễn Ái Quốc,"
+    ],
+    [
+     "Hân Hân",
+     "hoàn chỉnh chuyển hướng chiến lược, đưa nhiệm vụ giải phóng dân tộc lên hàng đầu. Văn kiện ghi rõ: cách mạng lúc này chỉ phải giải quyết một vấn đề cấp bách là giải phóng dân tộc.",
+     "completing the strategic shift and putting national liberation first. Its documents said the revolution now had one urgent task: national liberation."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội nghị Trung ương 8 (5 – 1941) họp ở đâu, do ai chủ trì?",
+    "lua_chon": [
+     "Bà Điểm – Nguyễn Văn Cừ",
+     "Pác Bó – Nguyễn Ái Quốc",
+     "Hương Cảng – Trần Phú"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Hội nghị Trung ương 8 họp ở đâu, do ai chủ trì?",
+     "Pause! Where was the Eighth Plenum held, and who chaired it?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Pác Bó, Cao Bằng, do Nguyễn Ái Quốc chủ trì!",
+     "The answer is B: Pác Bó, Cao Bằng, chaired by Nguyễn Ái Quốc!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "y": [
+    "Giải phóng dân tộc là nhiệm vụ hàng đầu",
+    "Giải quyết vấn đề dân tộc trong phạm vi từng nước Đông Dương",
+    "Chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm",
+    "Từ khởi nghĩa từng phần tiến lên tổng khởi nghĩa; dự báo thời cơ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội nghị xác định: giải quyết vấn đề dân tộc trong phạm vi từng nước Đông Dương; chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm,",
+     "The plenum decided to solve the national question within each Indochinese country; preparing armed uprising was the central task,"
+    ],
+    [
+     "Nhật Minh",
+     "hình thái khởi nghĩa đi từ khởi nghĩa từng phần tiến lên tổng khởi nghĩa, và dự báo thời cơ tổng khởi nghĩa.",
+     "the uprising would go from partial uprisings to a general insurrection, and the right moment was forecast."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "tieu_de": "CHUYỂN HƯỚNG CHIẾN LƯỢC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 19 – 5 – 1941 Mặt trận Việt Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 19 tháng 5 năm 1941, theo chủ trương của Hội nghị, Mặt trận Việt Nam độc lập đồng minh, gọi tắt là Mặt trận Việt Minh, được thành lập,",
+     "On 19 May 1941, following the plenum, the League for the Independence of Vietnam, the Việt Minh, was founded,"
+    ],
+    [
+     "Hân Hân",
+     "nhằm liên hiệp hết thảy các giới đồng bào yêu nước, không phân biệt giàu nghèo, già trẻ, gái trai, tôn giáo và xu hướng chính trị.",
+     "to unite all patriotic compatriots regardless of wealth, age, gender, religion or political leaning."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao đặt nhiệm vụ giải phóng dân tộc lên hàng đầu lại là quyết định đúng đắn? Bình luận nhé!",
+     "Your challenge: why was putting national liberation first the right decision? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hội nghị Trung ương tháng 11 – 1939 do ai chủ trì?",
+   "dap_an": [
+    "Tổng Bí thư Nguyễn Văn Cừ",
+    "Nguyễn Ái Quốc",
+    "Trường Chinh",
+    "Trần Phú"
+   ],
+   "dung": 0,
+   "trang": 35
+  },
+  {
+   "hoi": "Lá cờ đỏ sao vàng lần đầu xuất hiện trong cuộc khởi nghĩa nào?",
+   "dap_an": [
+    "Khởi nghĩa Nam Kì",
+    "Khởi nghĩa Bắc Sơn",
+    "Binh biến Đô Lương",
+    "Xô viết Nghệ – Tĩnh"
+   ],
+   "dung": 0,
+   "trang": 35
+  },
+  {
+   "hoi": "Nhiệm vụ trung tâm được Hội nghị Trung ương 8 xác định là gì?",
+   "dap_an": [
+    "Chuẩn bị khởi nghĩa vũ trang",
+    "Đấu tranh nghị trường",
+    "Chia ruộng đất",
+    "Mít tinh công khai"
+   ],
+   "dung": 0,
+   "trang": 35
+  },
+  {
+   "hoi": "Mặt trận Việt Minh được thành lập ngày nào?",
+   "dap_an": [
+    "19 – 5 – 1941",
+    "22 – 12 – 1944",
+    "2 – 9 – 1945",
+    "3 – 2 – 1930"
+   ],
+   "dung": 0,
+   "trang": 36
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 35 (Pháp – Nhật thống trị; Bắc Sơn 9 – 1940, Nam Kì 11 – 1940 – cờ đỏ sao vàng lần đầu xuất hiện, binh biến Đô Lương; 11 – 1939 Hội nghị tại Bà Điểm do Nguyễn Văn Cừ chủ trì; 5 – 1941 Hội nghị TƯ 8 tại Pác Bó do Nguyễn Ái Quốc chủ trì; tư liệu 1; nội dung chuyển hướng; Hình 8.1 Lán Khuổi Nậm) và tr. 36 (19 – 5 – 1941 Mặt trận Việt Minh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

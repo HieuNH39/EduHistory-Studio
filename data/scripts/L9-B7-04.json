@@ -1,0 +1,328 @@
+{
+ "ma": "L9-B7-04",
+ "ten_tap": "So sánh hai giai đoạn cách mạng",
+ "ten_tap_en": "Comparing Two Revolutionary Upsurges",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 7. Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+  "trang": [
+   30,
+   31,
+   32,
+   33
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sôi nổi, suy ngẫm",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 7, tr. 30–33.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia đôi: 1930 – 1931 | 1936 – 1939",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hai cao trào cách mạng 1930 – 1931 và 1936 – 1939 có gì giống và khác nhau?",
+     "How were the 1930–1931 and 1936–1939 revolutionary upsurges alike and different?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng đặt chúng cạnh nhau để so sánh nhé!",
+     "Let's put them side by side!"
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    33
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1930 – 1931",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi hai mâu thuẫn: dân tộc Việt Nam – thực dân Pháp; nông dân – địa chủ phong kiến",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Việt Nam chịu ảnh hưởng của cuộc đại suy thoái kinh tế thế giới 1929 – 1933. Xã hội nổi lên hai mâu thuẫn cơ bản:",
+     "Vietnam felt the world Great Depression of 1929–1933. Two basic conflicts stood out:"
+    ],
+    [
+     "Hân Hân",
+     "giữa toàn thể dân tộc Việt Nam với thực dân Pháp, và giữa nông dân với địa chủ phong kiến. Đảng Cộng sản Việt Nam vừa ra đời đã kịp thời lãnh đạo đấu tranh.",
+     "between the whole Vietnamese nation and the French colonialists, and between peasants and feudal landlords. The newly born Communist Party promptly led the struggle."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh núi Bài Thơ (Hạ Long, Quảng Ninh)",
+    "tim": "Bai Tho mountain Ha Long",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: núi Bài Thơ (Quảng Ninh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu năm 1930 nổ ra bãi công ở đồn điền cao su Phú Riềng, nhà máy sợi Nam Định, nhà máy diêm Bến Thuỷ.",
+     "In early 1930, strikes broke out at the Phú Riềng rubber plantation, the Nam Định textile mill and the Bến Thuỷ match factory."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 1 tháng 5 năm 1930, cờ đỏ búa liềm tung bay trên đỉnh núi Bài Thơ, Quảng Ninh; lần đầu tiên công nhân và nhân dân ta biểu dương tinh thần đoàn kết với giai cấp vô sản thế giới.",
+     "On 1 May 1930, the red hammer-and-sickle flag flew atop Bài Thơ mountain in Quảng Ninh; for the first time our workers and people showed solidarity with the world proletariat."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tượng đài Xô viết Nghệ – Tĩnh (như Hình 7.1 SGK tr. 30)",
+    "tim": "Nghe Tinh Soviet monument",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: tượng đài Xô viết Nghệ – Tĩnh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 9 và tháng 10 năm 1930, phong trào lên đến đỉnh cao, quyết liệt nhất ở Nghệ An, Hà Tĩnh. Chính quyền nhân dân được thành lập ở nhiều thôn, xã dưới hình thức các xô viết.",
+     "In September and October 1930, the movement peaked, fiercest in Nghệ An and Hà Tĩnh. People's power was set up in many villages as soviets."
+    ],
+    [
+     "Nhật Minh",
+     "Xô viết ban bố quyền tự do, dân chủ; chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô, xoá nợ; mở lớp dạy chữ Quốc ngữ, xoá bỏ tệ nạn xã hội.",
+     "The soviets granted freedoms; shared out communal land, abolished unjust taxes, cut rents and cancelled debts; opened Quốc ngữ classes and stamped out social evils."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 12 tháng 9 năm 1930, thực dân Pháp cho máy bay ném bom cuộc biểu tình của 8 000 nông dân Hưng Nguyên. Đầu năm 1931, chúng khủng bố, phong trào tạm lắng.",
+     "On 12 September 1930, French planes bombed a march of 8,000 Hưng Nguyên peasants. In early 1931 they launched a terror campaign and the movement subsided."
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đỉnh cao của phong trào cách mạng 1930 – 1931 là gì?",
+    "lua_chon": [
+     "Phong trào Đông Dương đại hội",
+     "Xô viết Nghệ – Tĩnh",
+     "Khởi nghĩa Bắc Sơn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đỉnh cao của phong trào 1930 – 1931 là gì?",
+     "Pause! What was the peak of the 1930–1931 movement?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Xô viết Nghệ – Tĩnh!",
+     "The answer is B: the Nghệ–Tĩnh Soviets!"
+    ]
+   ],
+   "nguon_trang": [
+    30,
+    31
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "1936 – 1939",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Mặt trận Dân chủ Đông Dương; mít tinh, biểu tình, dân nguyện, nghị trường, báo chí",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai đoạn 1936 – 1939, kẻ thù trước mắt là chế độ phản động thuộc địa, phát xít và nguy cơ chiến tranh; mục tiêu là tự do, dân sinh, dân chủ, cơm áo, hoà bình.",
+     "In 1936–1939, the immediate enemies were the reactionary colonial regime, fascism and the danger of war; the goals were freedom, livelihoods, democracy, food and peace."
+    ],
+    [
+     "Nhật Minh",
+     "Lực lượng tập hợp trong Mặt trận Dân chủ Đông Dương, với hình thức công khai: mít tinh, biểu tình, dân nguyện, đấu tranh nghị trường, báo chí.",
+     "Forces rallied in the Indochinese Democratic Front, using open methods: rallies, marches, petitions, electoral and press struggle."
+    ]
+   ],
+   "nguon_trang": [
+    32,
+    33
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "1930 – 1931: chống đế quốc và phong kiến; bãi công, biểu tình, xô viết",
+    "1930 – 1931: khẳng định vai trò lãnh đạo của Đảng, liên minh công – nông hình thành",
+    "1936 – 1939: đòi tự do, dân sinh, dân chủ; đấu tranh công khai, rộng lớn",
+    "1936 – 1939: cuộc diễn tập cho Cách mạng tháng Tám"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "So sánh nhé: phong trào 1930 – 1931 quyết liệt, khẳng định vai trò lãnh đạo của Đảng, hình thành khối liên minh công – nông.",
+     "Compare: 1930–1931 was fierce, confirmed the Party's leadership and forged the worker–peasant alliance."
+    ],
+    [
+     "Nhật Minh",
+     "Phong trào 1936 – 1939 công khai, rộng lớn, có tổ chức, là cuộc diễn tập cho Cách mạng tháng Tám năm 1945.",
+     "1936–1939 was open, broad and organised, a rehearsal for the August Revolution of 1945."
+    ]
+   ],
+   "nguon_trang": [
+    31,
+    33
+   ],
+   "tieu_de": "SO SÁNH HAI GIAI ĐOẠN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào nào được xem là cuộc diễn tập cho Cách mạng tháng Tám?",
+    "lua_chon": [
+     "Phong trào 1930 – 1931",
+     "Phong trào 1936 – 1939",
+     "Phong trào Cần vương"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Phong trào nào là cuộc diễn tập cho Cách mạng tháng Tám?",
+     "EduHistory asks you! Which movement was the rehearsal for the August Revolution?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: phong trào dân chủ 1936 – 1939!",
+     "The answer is B: the 1936–1939 democratic movement!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: lập bảng so sánh hai phong trào theo các tiêu chí kẻ thù, nhiệm vụ, hình thức, ý nghĩa, rồi chia sẻ ở phần bình luận nhé!",
+     "Your challenge: make a table comparing the two movements by enemy, tasks, methods and significance, and share it in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngày 1 – 5 – 1930, cờ đỏ búa liềm tung bay ở đâu?",
+   "dap_an": [
+    "Đỉnh núi Bài Thơ (Quảng Ninh)",
+    "Khu Đấu Xảo (Hà Nội)",
+    "Pác Bó (Cao Bằng)",
+    "Bến Thuỷ (Nghệ An)"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Ngày 12 – 9 – 1930, Pháp ném bom cuộc biểu tình của nông dân huyện nào?",
+   "dap_an": [
+    "Hưng Nguyên",
+    "Nam Đàn",
+    "Thanh Chương",
+    "Can Lộc"
+   ],
+   "dung": 0,
+   "trang": 31
+  },
+  {
+   "hoi": "Phong trào 1930 – 1931 có ý nghĩa gì?",
+   "dap_an": [
+    "Khẳng định vai trò lãnh đạo của Đảng, hình thành liên minh công – nông",
+    "Giành được chính quyền cả nước",
+    "Lập ra Mặt trận Việt Minh",
+    "Đánh đuổi Nhật"
+   ],
+   "dung": 0,
+   "trang": 31
+  },
+  {
+   "hoi": "Lực lượng của phong trào 1936 – 1939 được tập hợp trong mặt trận nào?",
+   "dap_an": [
+    "Mặt trận Dân chủ Đông Dương",
+    "Mặt trận Việt Minh",
+    "Mặt trận Liên Việt",
+    "Mặt trận Tổ quốc"
+   ],
+   "dung": 0,
+   "trang": 32
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 30 (đại suy thoái; hai mâu thuẫn cơ bản; đầu năm 1930 Phú Riềng, sợi Nam Định, diêm Bến Thuỷ; 1 – 5 – 1930 núi Bài Thơ; 9, 10 – 1930 đỉnh cao), tr. 31 (xô viết ở Nghệ An, Hà Tĩnh; chính sách; 12 – 9 – 1930 ném bom 8 000 nông dân Hưng Nguyên; đầu năm 1931 khủng bố; ý nghĩa), tr. 32 – 33 (phong trào 1936 – 1939: mục tiêu, Mặt trận Dân chủ Đông Dương, hình thức, ý nghĩa; bảng so sánh, Vận dụng). Không dùng tranh sơn dầu Hình 7.3 (còn bản quyền).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

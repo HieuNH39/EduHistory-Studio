@@ -1,0 +1,180 @@
+{
+ "ma": "L9-B20-01",
+ "ten_tap": "Non sông thu về một mối",
+ "ten_tap_en": "One Nation Again",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 20. Việt Nam từ năm 1976 đến nay",
+  "trang": [
+   101,
+   102
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, xúc động",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 20, tr. 101–102.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là lá cờ đỏ sao vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Đại thắng Xuân 1975, đất nước thống nhất về lãnh thổ nhưng mỗi miền còn một hình thức nhà nước riêng. Làm sao để non sông thu về một mối?",
+     "After the 1975 victory, the country was united in territory but each region still had its own state. How was it made one?"
+    ]
+   ],
+   "nguon_trang": [
+    101
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đoàn tàu Thống Nhất (tàu Bắc – Nam)",
+    "tim": "Reunification Express train Vietnam",
+    "yeu_cau": "ảnh tư liệu hoặc ảnh chụp có giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Ảnh: đoàn tàu Thống Nhất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ ngày 15 đến ngày 21 tháng 11 năm 1975, Hội nghị Hiệp thương chính trị giữa hai đoàn đại biểu Nam, Bắc tại Sài Gòn nhất trí thống nhất đất nước về mặt Nhà nước.",
+     "From 15 to 21 November 1975, a political consultative conference of northern and southern delegations in Saigon agreed on unifying the state."
+    ],
+    [
+     "Hân Hân",
+     "Ngày 25 tháng 4 năm 1976, cuộc Tổng tuyển cử bầu Quốc hội chung, Quốc hội Khoá VI, được tiến hành trong cả nước.",
+     "On 25 April 1976, a nationwide general election chose a single National Assembly, the Sixth."
+    ]
+   ],
+   "nguon_trang": [
+    101,
+    102
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quốc hội Khoá VI quyết định tên nước ta là gì?",
+    "lua_chon": [
+     "Việt Nam Dân chủ Cộng hoà",
+     "Cộng hoà xã hội chủ nghĩa Việt Nam",
+     "Cộng hoà miền Nam Việt Nam"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Năm 1976, tên nước ta được đặt là gì?",
+     "EduHistory asks you! What name did our country take in 1976?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Cộng hoà xã hội chủ nghĩa Việt Nam!",
+     "The answer is B: the Socialist Republic of Vietnam!"
+    ]
+   ],
+   "nguon_trang": [
+    102
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "y": [
+    "Tên nước: Cộng hoà xã hội chủ nghĩa Việt Nam",
+    "Quốc kì: lá cờ đỏ sao vàng; Quốc ca: Tiến quân ca",
+    "Thủ đô: Hà Nội",
+    "Sài Gòn – Gia Định đổi tên thành Thành phố Hồ Chí Minh"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Kì họp thứ nhất Quốc hội Khoá VI, từ ngày 24 tháng 6 đến ngày 3 tháng 7 năm 1976, quyết định Quốc kì là lá cờ đỏ sao vàng, Quốc ca là Tiến quân ca, Thủ đô là Hà Nội,",
+     "At its first session, from 24 June to 3 July 1976, the Sixth National Assembly set the red flag with a yellow star as the national flag, Tiến quân ca as the anthem and Hà Nội as the capital,"
+    ],
+    [
+     "Nhật Minh",
+     "và Sài Gòn – Gia Định đổi tên thành Thành phố Hồ Chí Minh. Cậu biết thêm điều gì về ngày ấy? Bình luận nhé!",
+     "and renamed Saigon–Gia Định as Hồ Chí Minh City. What else do you know about that time? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    102
+   ],
+   "tieu_de": "NON SÔNG THU VỀ MỘT MỐI (1976)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tổng tuyển cử bầu Quốc hội chung được tiến hành ngày nào?",
+   "dap_an": [
+    "25 – 4 – 1976",
+    "30 – 4 – 1975",
+    "2 – 7 – 1976",
+    "21 – 11 – 1975"
+   ],
+   "dung": 0,
+   "trang": 102
+  },
+  {
+   "hoi": "Hội nghị Hiệp thương chính trị thống nhất đất nước diễn ra ở đâu?",
+   "dap_an": [
+    "Sài Gòn",
+    "Hà Nội",
+    "Huế",
+    "Đà Nẵng"
+   ],
+   "dung": 0,
+   "trang": 102
+  },
+  {
+   "hoi": "Quốc ca của nước Cộng hoà xã hội chủ nghĩa Việt Nam là bài nào?",
+   "dap_an": [
+    "Tiến quân ca",
+    "Giải phóng miền Nam",
+    "Như có Bác trong ngày vui đại thắng",
+    "Đất nước trọn niềm vui"
+   ],
+   "dung": 0,
+   "trang": 102
+  },
+  {
+   "hoi": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng (9 – 1975) đề ra nhiệm vụ gì?",
+   "dap_an": [
+    "Thống nhất đất nước về mặt Nhà nước",
+    "Đổi mới đất nước",
+    "Kháng chiến chống Mỹ",
+    "Cải cách ruộng đất"
+   ],
+   "dung": 0,
+   "trang": 101
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 101 (Hình 20.1 đoàn tàu Thống Nhất; hai hình thức nhà nước; Hội nghị TƯ 24 (9 – 1975) đề ra nhiệm vụ thống nhất về mặt Nhà nước) và tr. 102 (Hiệp thương chính trị tại Sài Gòn 15 – 21 – 11 – 1975; 25 – 4 – 1976 Tổng tuyển cử, Quốc hội Khoá VI; kì họp 24 – 6 → 3 – 7 – 1976: tên nước, Quốc huy, Quốc kì, Quốc ca, Thủ đô, Thành phố Hồ Chí Minh). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

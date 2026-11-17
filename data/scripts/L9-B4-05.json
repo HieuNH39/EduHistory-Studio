@@ -1,0 +1,274 @@
+{
+ "ma": "L9-B4-05",
+ "ten_tap": "Ai đã đánh bại chủ nghĩa phát xít?",
+ "ten_tap_en": "Who Defeated Fascism?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 4. Chiến tranh thế giới thứ hai (1939 – 1945)",
+  "trang": [
+   21
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 4, tr. 21.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi câu hỏi lớn: Ai đã đánh bại chủ nghĩa phát xít?",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao phát xít Đức, I-ta-li-a và quân phiệt Nhật Bản bị tiêu diệt? Ai giữ vai trò quyết định?",
+     "Why were Nazi Germany, Fascist Italy and militarist Japan defeated? Who played the decisive role?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng tìm câu trả lời nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng chia hai bên: Phi nghĩa (phe phát xít) | Chính nghĩa (Đồng minh, các dân tộc bị chiếm đóng)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh thế giới thứ hai là cuộc chiến tranh phi nghĩa do phe phát xít gây ra, kẻ gieo gió phải gặt bão;",
+     "World War Two was an unjust war started by the fascists: they sowed the wind and reaped the whirlwind;"
+    ],
+    [
+     "Nhật Minh",
+     "đồng thời là cuộc chiến tranh chính nghĩa của phe Đồng minh, của các dân tộc bị phát xít chiếm đóng và các lực lượng tiến bộ.",
+     "it was also a just war for the Allies, the peoples occupied by fascism and all progressive forces."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh quân Đồng minh đổ bộ lên bờ biển Noóc-măng-đi năm 1944 (dùng lại ảnh tư liệu của L9-B4-03 cảnh 7)",
+    "tim": "D-Day",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B4-03 cảnh 7"
+   },
+   "hinh": "Ảnh tư liệu: quân Đồng minh đổ bộ (6 – 1944)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các dân tộc và nhân loại tiến bộ đoàn kết, kiên cường, sát cánh cùng Đồng minh chiến đấu vì hoà bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.",
+     "Peoples and progressive humanity stood together with the Allies, fighting for peace, independence, democracy and social progress."
+    ],
+    [
+     "Nhật Minh",
+     "Tinh thần chiến đấu của quân đội Đồng minh, đặc biệt là Hồng quân Liên Xô, là nhân tố quan trọng làm nên thắng lợi.",
+     "The fighting spirit of the Allied armies, especially the Soviet Red Army, was key to victory."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tượng đài vinh danh chiến sĩ Hồng quân ở Béc-lin (Đức)",
+    "tim": "Soviet War Memorial Treptower Park Berlin",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: tượng đài chiến sĩ Hồng quân ở Béc-lin",
+   "loi": [
+    [
+     "Hân Hân",
+     "Liên Xô, Mỹ, Anh là lực lượng đi đầu, giữ vai trò trụ cột, quyết định thắng lợi, trong đó Liên Xô có vai trò quan trọng nhất.",
+     "The USSR, the US and Britain led the way as the pillars of victory, with the Soviet Union playing the most important role."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những nước nào là lực lượng trụ cột trong chiến thắng chủ nghĩa phát xít?",
+    "lua_chon": [
+     "Đức, I-ta-li-a, Nhật Bản",
+     "Liên Xô, Mỹ, Anh",
+     "Pháp, Ba Lan, Hà Lan"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Những nước nào giữ vai trò trụ cột?",
+     "EduHistory asks you! Which countries were the pillars of victory?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Liên Xô, Mỹ, Anh!",
+     "The answer is B: the USSR, the US and Britain!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ý nghĩa",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: thoát khỏi thảm hoạ phát xít; hệ thống xã hội chủ nghĩa ra đời; phong trào giải phóng dân tộc phát triển",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi giúp nhân loại thoát khỏi thảm hoạ phát xít, tạo bước chuyển biến căn bản của tình hình thế giới: hệ thống các nước xã hội chủ nghĩa ra đời, tương quan giữa các nước tư bản thay đổi.",
+     "Victory freed humanity from fascism and transformed the world: a socialist system emerged and the balance among capitalist countries shifted."
+    ],
+    [
+     "Hân Hân",
+     "Chiến thắng còn tạo điều kiện cho phong trào giải phóng dân tộc, phong trào vì hoà bình, dân chủ và tiến bộ xã hội phát triển.",
+     "It also opened the way for national liberation, peace, democracy and social progress movements."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "Phát xít gây chiến tranh phi nghĩa; Đồng minh chiến đấu chính nghĩa",
+    "Nhân loại tiến bộ đoàn kết cùng Đồng minh",
+    "Liên Xô, Mỹ, Anh là trụ cột; Liên Xô quan trọng nhất",
+    "Mở đường cho phong trào giải phóng dân tộc"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: chính nghĩa đã thắng phi nghĩa. Liên Xô, Mỹ, Anh là trụ cột, trong đó Liên Xô có vai trò quan trọng nhất.",
+     "Remember: justice defeated injustice. The USSR, US and Britain were the pillars, with the USSR most important."
+    ],
+    [
+     "Nhật Minh",
+     "Thắng lợi mở đường cho phong trào giải phóng dân tộc phát triển.",
+     "The victory paved the way for national liberation movements."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "tieu_de": "VÌ SAO PHÁT XÍT BỊ ĐÁNH BẠI?",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: thắng lợi trước chủ nghĩa phát xít đã tạo thời cơ gì cho cách mạng Việt Nam năm 1945? Bình luận nhé!",
+     "Your challenge: what opportunity did victory over fascism create for the Vietnamese revolution in 1945? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao nói Chiến tranh thế giới thứ hai là cuộc chiến tranh phi nghĩa của phe phát xít?",
+   "dap_an": [
+    "Vì phe phát xít gây ra chiến tranh xâm lược",
+    "Vì Liên Xô gây chiến",
+    "Vì Mỹ tấn công trước",
+    "Vì không có ai bị thiệt hại"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Lực lượng nào có vai trò quan trọng nhất trong chiến thắng chủ nghĩa phát xít?",
+   "dap_an": [
+    "Liên Xô",
+    "Pháp",
+    "Nhật Bản",
+    "I-ta-li-a"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Ý nghĩa của thắng lợi trước chủ nghĩa phát xít là gì?",
+   "dap_an": [
+    "Tạo điều kiện cho phong trào giải phóng dân tộc phát triển",
+    "Làm chủ nghĩa phát xít mạnh lên",
+    "Mở đầu Chiến tranh lạnh ngay lập tức",
+    "Không thay đổi tình hình thế giới"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Tượng đài vinh danh chiến sĩ Hồng quân trong SGK đặt ở thành phố nào?",
+   "dap_an": [
+    "Béc-lin",
+    "Mát-xcơ-va",
+    "Pa-ri",
+    "Luân Đôn"
+   ],
+   "dung": 0,
+   "trang": 21
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 21 (mục 3: nguyên nhân thắng lợi – chiến tranh phi nghĩa của phát xít, chính nghĩa của Đồng minh; nhân loại tiến bộ đoàn kết; tinh thần Hồng quân Liên Xô; Hình 4.6 tượng đài ở Béc-lin; ý nghĩa; vai trò: Liên Xô, Mỹ, Anh trụ cột, Liên Xô quan trọng nhất). Dùng lại ảnh L9-B4-03 cảnh 7.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

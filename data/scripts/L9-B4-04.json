@@ -1,0 +1,180 @@
+{
+ "ma": "L9-B4-04",
+ "ten_tap": "Cái giá của chiến tranh",
+ "ten_tap_en": "The Cost of War",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 4. Chiến tranh thế giới thứ hai (1939 – 1945)",
+  "trang": [
+   20,
+   21
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trầm lắng, trang nghiêm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 4, tr. 20–21.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, nét mặt nghiêm trang, cầm bảng số liệu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh thế giới thứ hai kết thúc với sự sụp đổ hoàn toàn của chủ nghĩa phát xít. Nhưng cái giá phải trả là gì?",
+     "World War Two ended with fascism's total collapse. But at what cost?"
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu thành phố bị tàn phá sau Chiến tranh thế giới thứ hai",
+    "tim": "destroyed city 1945 ruins photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; cảnh đổ nát, không có thương vong"
+   },
+   "hinh": "Ảnh tư liệu: thành phố đổ nát năm 1945",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nền kinh tế thế giới bị thiệt hại; nhiều thành phố, làng mạc, cơ sở sản xuất bị tàn phá.",
+     "The world economy was devastated; many cities, villages and factories were destroyed."
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 60 triệu người chết, 90 triệu người bị thương; thiệt hại vật chất khoảng 4 nghìn tỉ đô la Mỹ.",
+     "About 60 million people died and 90 million were wounded; material losses reached about 4,000 billion US dollars."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh thế giới thứ hai làm khoảng bao nhiêu người chết?",
+    "lua_chon": [
+     "6 triệu người",
+     "60 triệu người",
+     "600 triệu người"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chiến tranh thế giới thứ hai làm khoảng bao nhiêu người chết?",
+     "Pause! About how many people died in World War Two?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: khoảng 60 triệu người.",
+     "The answer is B: about 60 million people."
+    ]
+   ],
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "y": [
+    "110 triệu người gia nhập quân đội",
+    "60 triệu người chết, 90 triệu người bị thương",
+    "Thiệt hại vật chất: 4 000 tỉ USD",
+    "Chủ nghĩa phát xít sụp đổ hoàn toàn"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: những con số ấy nhắc chúng ta trân trọng hoà bình.",
+     "Remember: these numbers remind us to cherish peace."
+    ],
+    [
+     "Nhật Minh",
+     "Chiến tranh thế giới thứ hai để lại bài học gì cho việc bảo vệ hoà bình hôm nay? Bình luận nhé!",
+     "What lessons does World War Two leave for protecting peace today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    20,
+    21
+   ],
+   "tieu_de": "HẬU QUẢ CHIẾN TRANH",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Bao nhiêu người đã gia nhập quân đội trong Chiến tranh thế giới thứ hai?",
+   "dap_an": [
+    "110 triệu",
+    "60 triệu",
+    "90 triệu",
+    "4 000 triệu"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Thiệt hại vật chất của Chiến tranh thế giới thứ hai khoảng bao nhiêu?",
+   "dap_an": [
+    "4 000 tỉ USD",
+    "1 384 tỉ USD",
+    "48 tỉ USD",
+    "110 tỉ USD"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Chiến tranh thế giới thứ hai kết thúc với sự kiện gì?",
+   "dap_an": [
+    "Chủ nghĩa phát xít sụp đổ hoàn toàn",
+    "Liên Xô tan rã",
+    "Mỹ đại suy thoái",
+    "Hoà ước Véc-xai"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Số người bị thương trong Chiến tranh thế giới thứ hai khoảng bao nhiêu?",
+   "dap_an": [
+    "90 triệu",
+    "60 triệu",
+    "110 triệu",
+    "9 triệu"
+   ],
+   "dung": 0,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 20 (mục 2b: sụp đổ của chủ nghĩa phát xít; kinh tế bị thiệt hại, thành phố, làng mạc bị tàn phá; bảng thống kê: 110 triệu gia nhập quân đội, 60 triệu chết, 90 triệu bị thương, 4 000 tỉ USD, chi phí quân sự 1 384 tỉ USD) và tr. 21 (câu Vận dụng: bài học bảo vệ hoà bình). Khung dọc; ảnh đổ nát không có thương vong.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

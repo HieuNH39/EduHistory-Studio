@@ -1,0 +1,278 @@
+{
+ "ma": "L9-B15-04",
+ "ten_tap": "Hội nghị Giơ-ne-vơ và hoà bình",
+ "ten_tap_en": "The Geneva Conference and Peace",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 15. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+  "trang": [
+   78
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 15, tr. 78.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Giơ-ne-vơ, 8 – 5 → 21 – 7 – 1954",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi lớn nhất trên mặt trận ngoại giao trong kháng chiến chống Pháp là gì?",
+     "What was the biggest diplomatic victory of the resistance against France?"
+    ],
+    [
+     "Hân Hân",
+     "Đó là Hiệp định Giơ-ne-vơ năm 1954. Cùng tìm hiểu nhé!",
+     "It was the 1954 Geneva Accords. Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 3 – 1951 Liên minh nhân dân Việt – Miên – Lào",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 3 năm 1951, Liên minh nhân dân Việt – Miên – Lào được thành lập, thúc đẩy sự kết hợp chặt chẽ giữa quân dân ba nước Đông Dương.",
+     "In March 1951, the Vietnam–Khmer–Lao People's Alliance was formed, tightening cooperation among the three Indochinese peoples."
+    ],
+    [
+     "Nhật Minh",
+     "Cuộc kháng chiến còn được các lực lượng yêu chuộng hoà bình ở Pháp và nhiều nước trên thế giới ủng hộ.",
+     "The resistance was also supported by peace-loving forces in France and many countries."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu quang cảnh Hội nghị Giơ-ne-vơ năm 1954",
+    "tim": "Geneva Conference 1954 Indochina photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Hội nghị Giơ-ne-vơ năm 1954",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội nghị Giơ-ne-vơ, Thuỵ Sĩ, bàn về vấn đề Đông Dương diễn ra từ ngày 8 tháng 5 đến ngày 21 tháng 7 năm 1954,",
+     "The Geneva Conference on Indochina, in Switzerland, ran from 8 May to 21 July 1954,"
+    ],
+    [
+     "Nhật Minh",
+     "với đại diện Anh, Pháp, Mỹ, Liên Xô, Trung Quốc, Việt Nam Dân chủ Cộng hoà, Quốc gia Việt Nam, Lào và Cam-pu-chia.",
+     "with representatives of Britain, France, the US, the USSR, China, the DRV, the State of Vietnam, Laos and Cambodia."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hội nghị Giơ-ne-vơ về Đông Dương kết thúc ngày nào?",
+    "lua_chon": [
+     "7 – 5 – 1954",
+     "21 – 7 – 1954",
+     "20 – 7 – 1956"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hội nghị Giơ-ne-vơ kết thúc ngày nào?",
+     "Pause! When did the Geneva Conference end?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngày 21 tháng 7 năm 1954!",
+     "The answer is B: 21 July 1954!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cầu Hiền Lương trên sông Bến Hải (Quảng Trị)",
+    "tim": "Hien Luong bridge Ben Hai river",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả; không phải bản đồ"
+   },
+   "hinh": "Ảnh: cầu Hiền Lương – sông Bến Hải (Quảng Trị)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội nghị đạt thoả thuận đình chỉ chiến sự, lập lại hoà bình ở Đông Dương; cam kết tôn trọng chủ quyền, độc lập, thống nhất, toàn vẹn lãnh thổ của Việt Nam, Lào, Cam-pu-chia.",
+     "The conference agreed to a ceasefire and peace in Indochina, and pledged to respect the sovereignty, independence, unity and territorial integrity of Vietnam, Laos and Cambodia."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Việt Nam, vĩ tuyến 17 là ranh giới quân sự tạm thời; tổng tuyển cử thống nhất đất nước sẽ diễn ra vào tháng 7 năm 1956, dưới sự kiểm soát của Uỷ ban quốc tế.",
+     "In Vietnam, the 17th parallel became a temporary military line; nationwide elections to reunify the country were set for July 1956 under an international commission."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Hiệp định Giơ-ne-vơ, vĩ tuyến nào là ranh giới quân sự tạm thời ở Việt Nam?",
+    "lua_chon": [
+     "Vĩ tuyến 16",
+     "Vĩ tuyến 17",
+     "Vĩ tuyến 18"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ranh giới quân sự tạm thời là vĩ tuyến nào?",
+     "EduHistory asks you! Which parallel was the temporary military line?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: vĩ tuyến 17, chạy dọc sông Bến Hải!",
+     "The answer is B: the 17th parallel, along the Bến Hải river!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "Hội nghị Giơ-ne-vơ: 8 – 5 → 21 – 7 – 1954",
+    "Đình chỉ chiến sự, lập lại hoà bình ở Đông Dương",
+    "Vĩ tuyến 17: ranh giới quân sự tạm thời",
+    "Pháp rút quân; Mỹ thất bại trong âm mưu kéo dài, quốc tế hoá chiến tranh"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: chiến thắng Điện Biên Phủ và Hiệp định Giơ-ne-vơ buộc thực dân Pháp phải rút quân về nước.",
+     "Remember: Điện Biên Phủ and the Geneva Accords forced the French to withdraw."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ thất bại trong âm mưu kéo dài, mở rộng, quốc tế hoá chiến tranh Đông Dương.",
+     "The US failed in its plan to prolong, widen and internationalise the Indochina war."
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "tieu_de": "HIỆP ĐỊNH GIƠ-NE-VƠ (1954)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nói thắng lợi trên chiến trường quyết định thắng lợi trên bàn đàm phán? Bình luận nhé!",
+     "Your challenge: why is it said that victory on the battlefield decides victory at the negotiating table? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Liên minh nhân dân Việt – Miên – Lào được thành lập khi nào?",
+   "dap_an": [
+    "Tháng 3 – 1951",
+    "Tháng 2 – 1951",
+    "Tháng 5 – 1954",
+    "Tháng 7 – 1954"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Hội nghị Giơ-ne-vơ về Đông Dương họp ở nước nào?",
+   "dap_an": [
+    "Thuỵ Sĩ",
+    "Pháp",
+    "Anh",
+    "Liên Xô"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Theo Hiệp định Giơ-ne-vơ, tổng tuyển cử thống nhất Việt Nam dự kiến diễn ra khi nào?",
+   "dap_an": [
+    "Tháng 7 – 1956",
+    "Tháng 7 – 1954",
+    "Tháng 1 – 1955",
+    "Năm 1960"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Ý nghĩa của Hiệp định Giơ-ne-vơ là gì?",
+   "dap_an": [
+    "Buộc Pháp rút quân, lập lại hoà bình ở Đông Dương",
+    "Thống nhất đất nước ngay",
+    "Mở đầu Chiến tranh lạnh",
+    "Pháp ở lại Đông Dương"
+   ],
+   "dung": 0,
+   "trang": 78
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 78 (mục 3: Liên minh Việt – Miên – Lào 3 – 1951; ủng hộ quốc tế; Hội nghị Giơ-ne-vơ 8 – 5 → 21 – 7 – 1954, các nước tham dự; đình chỉ chiến sự; vĩ tuyến 17; tổng tuyển cử 7 – 1956; tư liệu: tôn trọng chủ quyền, độc lập, thống nhất, toàn vẹn lãnh thổ; ý nghĩa). Không dùng bản đồ; ảnh cầu Hiền Lương là ảnh thật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,310 @@
+{
+ "ma": "L9-B10-03",
+ "ten_tap": "Đông Âu: Từ dân chủ nhân dân đến thay đổi chế độ",
+ "ten_tap_en": "Eastern Europe: From People's Democracy to Regime Change",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 10. Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   46,
+   47,
+   48
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khách quan, suy ngẫm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 10, tr. 46–48.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Đông Âu 1945 → 1991",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nước Đông Âu đã đi một chặng đường thế nào, từ dân chủ nhân dân đến thay đổi chế độ?",
+     "What road did the Eastern European countries travel, from people's democracy to regime change?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng xem nhé!",
+     "Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Vác-sa-va (Ba Lan) được xây dựng lại sau chiến tranh",
+    "tim": "Warsaw reconstruction 1950s photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Vác-sa-va những năm sau chiến tranh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1944 đến năm 1946, được Hồng quân Liên Xô giúp đỡ, nhân dân các nước Đông Âu dưới sự lãnh đạo của những người cộng sản đã thành lập các nhà nước dân chủ nhân dân.",
+     "From 1944 to 1946, with help from the Soviet Red Army, the peoples of Eastern Europe led by communists founded people's democracies."
+    ],
+    [
+     "Nhật Minh",
+     "Riêng ở Đông Đức, Nhà nước Cộng hoà Dân chủ Đức ra đời năm 1949. Sau đó, các nước Đông Âu tiến hành xây dựng chủ nghĩa xã hội.",
+     "In East Germany, the German Democratic Republic was born in 1949. Then the Eastern European countries began building socialism."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: cải cách ruộng đất; quốc hữu hoá; công nghiệp hoá; Hội đồng tương trợ kinh tế (SEV)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nước Đông Âu cải cách ruộng đất, quốc hữu hoá xí nghiệp lớn của tư bản, tiến hành công nghiệp hoá, hợp tác kinh tế trong Hội đồng tương trợ kinh tế, gọi tắt là SEV.",
+     "They carried out land reform, nationalised big capitalist enterprises, industrialised and cooperated within the Council for Mutual Economic Assistance, SEV."
+    ],
+    [
+     "Nhật Minh",
+     "Đến đầu những năm 70, từ những nước nông nghiệp nghèo nàn, lạc hậu, Đông Âu đã trở thành những nước công nghiệp hoặc công – nông nghiệp.",
+     "By the early 1970s, these once poor, backward farming countries had become industrial or industrial-agricultural nations."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tổ chức hợp tác kinh tế của Liên Xô và các nước Đông Âu có tên là gì?",
+    "lua_chon": [
+     "NATO",
+     "Hội đồng tương trợ kinh tế (SEV)",
+     "Liên minh châu Âu (EU)"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tổ chức hợp tác kinh tế của các nước xã hội chủ nghĩa Đông Âu là gì?",
+     "Pause! What was the economic cooperation body of the Eastern European socialist states?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Hội đồng tương trợ kinh tế, SEV!",
+     "The answer is B: the Council for Mutual Economic Assistance, SEV!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi các số liệu: An-ba-ni điện khí hoá (1970); thu nhập quốc dân CHDC Đức tăng 4 lần; công nghiệp Bun-ga-ri tăng 55 lần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước chiến tranh, An-ba-ni là nước nghèo nhất châu Âu; đến năm 1970, cả nước đã được điện khí hoá.",
+     "Before the war, Albania was Europe's poorest country; by 1970 it was fully electrified."
+    ],
+    [
+     "Nhật Minh",
+     "Thu nhập quốc dân của Cộng hoà Dân chủ Đức tăng 4 lần từ năm 1949 đến năm 1970; sản phẩm công nghiệp của Bun-ga-ri tăng 55 lần từ năm 1939 đến năm 1975.",
+     "East Germany's national income quadrupled from 1949 to 1970; Bulgaria's industrial output rose 55-fold from 1939 to 1975."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Khủng hoảng và sụp đổ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cuộc bãi công của công nhân Ba Lan tháng 8 – 1980",
+    "tim": "Gdansk shipyard strike August 1980 photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: bãi công của công nhân Ba Lan (8 – 1980)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ giữa những năm 70, kinh tế Đông Âu suy giảm; từ năm 1988, tất cả các nước đều lâm vào khủng hoảng, nợ nước ngoài tăng lên.",
+     "From the mid-1970s, Eastern European economies declined; from 1988, all of them were in crisis and foreign debt grew."
+    ],
+    [
+     "Nhật Minh",
+     "Đời sống khó khăn, niềm tin vào chủ nghĩa xã hội giảm sút; các cuộc bãi công, biểu tình của công nhân xuất hiện ở nhiều nước.",
+     "Life grew hard, faith in socialism waned, and workers' strikes and protests broke out in many countries."
+    ]
+   ],
+   "nguon_trang": [
+    47,
+    48
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 1989 – đa nguyên, tổng tuyển cử; 1991 – SEV giải thể",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các lực lượng đối lập kích động nhân dân đòi đa nguyên, đa đảng, tổng tuyển cử tự do. Từ năm 1989, ban lãnh đạo các nước Đông Âu phải thực hiện đa nguyên và tổng tuyển cử.",
+     "Opposition forces stirred up demands for pluralism, multiparty politics and free elections. From 1989, Eastern European leaders had to accept pluralism and hold elections."
+    ],
+    [
+     "Nhật Minh",
+     "Các thế lực chống chủ nghĩa xã hội thắng cử, chế độ xã hội chủ nghĩa bị xoá bỏ ở các nước Đông Âu. Đến năm 1991, SEV bị giải thể.",
+     "Anti-socialist forces won, and socialism was abolished across Eastern Europe. In 1991, SEV was dissolved."
+    ]
+   ],
+   "nguon_trang": [
+    47,
+    48
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "1944 – 1946: thành lập các nhà nước dân chủ nhân dân",
+    "Hợp tác trong SEV; đầu những năm 70 trở thành nước công nghiệp, công – nông nghiệp",
+    "Từ năm 1988: khủng hoảng kinh tế, bãi công, biểu tình",
+    "Từ năm 1989: chế độ xã hội chủ nghĩa ở Đông Âu sụp đổ; 1991 SEV giải thể"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Đông Âu từ nhà nước dân chủ nhân dân, xây dựng chủ nghĩa xã hội, đạt nhiều thành tựu.",
+     "Remember: Eastern Europe went from people's democracies to building socialism, with many achievements."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng từ năm 1989, chế độ xã hội chủ nghĩa ở Đông Âu sụp đổ; năm 1991, SEV giải thể.",
+     "But from 1989 socialism collapsed there, and in 1991 SEV was dissolved."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47,
+    48
+   ],
+   "tieu_de": "ĐÔNG ÂU (1945 – 1991)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: theo cậu, nguyên nhân sâu xa nào khiến chế độ xã hội chủ nghĩa ở Đông Âu sụp đổ? Bình luận nhé!",
+     "Your challenge: what deep causes do you think brought down socialism in Eastern Europe? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà nước Cộng hoà Dân chủ Đức ra đời năm nào?",
+   "dap_an": [
+    "1949",
+    "1945",
+    "1946",
+    "1989"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Sản phẩm công nghiệp của Bun-ga-ri tăng bao nhiêu lần (1939 – 1975)?",
+   "dap_an": [
+    "55 lần",
+    "4 lần",
+    "30 lần",
+    "10 lần"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Hội đồng tương trợ kinh tế (SEV) giải thể năm nào?",
+   "dap_an": [
+    "1991",
+    "1989",
+    "1988",
+    "1949"
+   ],
+   "dung": 0,
+   "trang": 48
+  },
+  {
+   "hoi": "Từ năm nào, tất cả các nước Đông Âu lâm vào khủng hoảng kinh tế?",
+   "dap_an": [
+    "1988",
+    "1970",
+    "1949",
+    "1980"
+   ],
+   "dung": 0,
+   "trang": 47
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 46 (1944 – 1946 nhà nước dân chủ nhân dân), tr. 47 (CHDC Đức 1949; chính trị đầu những năm 80, từ năm 1989 đa nguyên, tổng tuyển cử, chế độ XHCN bị xoá bỏ; cải cách ruộng đất, quốc hữu hoá, SEV; An-ba-ni điện khí hoá 1970; CHDC Đức tăng 4 lần; Bun-ga-ri 55 lần; từ năm 1988 khủng hoảng) và tr. 48 (SEV giải thể 1991; xã hội; Hình 10.7 bãi công Ba Lan 8 – 1980).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

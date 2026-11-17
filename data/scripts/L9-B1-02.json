@@ -1,0 +1,184 @@
+{
+ "ma": "L9-B1-02",
+ "ten_tap": "NEP – Bước ngoặt cứu vãn nền kinh tế",
+ "ten_tap_en": "NEP – The Turning Point that Saved the Economy",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+  "trang": [
+   8
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, rõ ràng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 1, tr. 8.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng ghi chữ NEP lớn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối năm 1920, Hồng quân đánh tan thù trong giặc ngoài, nhưng kinh tế nước Nga Xô viết kiệt quệ. Lối thoát là gì?",
+     "By late 1920 the Red Army had defeated enemies at home and abroad, but Soviet Russia's economy was exhausted. What was the way out?"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chân dung V. I. Lê-nin",
+    "tim": "Lenin portrait photograph 1920",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: V. I. Lê-nin",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 3 năm 1921, Đảng Bôn-sê-vích quyết định thực hiện Chính sách kinh tế mới, gọi tắt là NEP, do Lê-nin đề xướng.",
+     "In March 1921, the Bolshevik Party adopted the New Economic Policy, NEP, proposed by Lenin."
+    ],
+    [
+     "Hân Hân",
+     "Bãi bỏ trưng thu lương thực thừa, thay bằng thu thuế lương thực; tự do buôn bán, cho tư nhân mở xí nghiệp nhỏ, khuyến khích tư bản nước ngoài đầu tư.",
+     "It replaced grain requisitioning with a tax in kind, allowed free trade and small private businesses, and encouraged foreign investment."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chính sách kinh tế mới (NEP) thay trưng thu lương thực thừa bằng gì?",
+    "lua_chon": [
+     "Thu thuế lương thực",
+     "Tịch thu ruộng đất",
+     "Cấm buôn bán"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! NEP thay trưng thu lương thực thừa bằng gì?",
+     "EduHistory asks you! What replaced grain requisitioning under NEP?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: thu thuế lương thực! Nộp đủ thuế, nông dân được toàn quyền dùng số lương thực dư thừa.",
+     "The answer is A: a tax in kind! After paying it, peasants could use their surplus freely."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh phố phường Mát-xcơ-va những năm 20 của thế kỉ XX (dùng lại ảnh tư liệu của L9-B1-01 cảnh 9, tìm lại theo khung dọc)",
+    "tim": "Moscow 1920s street photograph",
+    "yeu_cau": "ảnh tư liệu những năm 1920, phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Mát-xcơ-va những năm 20 của thế kỉ XX",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhờ NEP, nước Nga Xô viết từng bước vượt qua khủng hoảng, phục hồi kinh tế, đời sống nhân dân được cải thiện.",
+     "Thanks to NEP, Soviet Russia gradually overcame the crisis, its economy recovered and living standards improved."
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, vì sao cho phép tự do buôn bán lại giúp kinh tế phục hồi nhanh? Bình luận nhé!",
+     "Why do you think allowing free trade helped the economy recover so fast? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chính sách kinh tế mới (NEP) được thực hiện từ khi nào?",
+   "dap_an": [
+    "Tháng 3 – 1921",
+    "Tháng 12 – 1922",
+    "Năm 1917",
+    "Năm 1928"
+   ],
+   "dung": 0,
+   "trang": 8
+  },
+  {
+   "hoi": "Ai là người đề xướng NEP?",
+   "dap_an": [
+    "Lê-nin",
+    "Xta-lin",
+    "Gooc-ba-chốp",
+    "Ru-dơ-ven"
+   ],
+   "dung": 0,
+   "trang": 8
+  },
+  {
+   "hoi": "Nội dung nào thuộc NEP?",
+   "dap_an": [
+    "Cho phép tư nhân mở xí nghiệp nhỏ",
+    "Quốc hữu hoá mọi cửa hàng",
+    "Cấm tư bản nước ngoài",
+    "Trưng thu toàn bộ lương thực"
+   ],
+   "dung": 0,
+   "trang": 8
+  },
+  {
+   "hoi": "Kết quả của NEP là gì?",
+   "dap_an": [
+    "Kinh tế phục hồi, đời sống nhân dân cải thiện",
+    "Kinh tế suy sụp",
+    "Nội chiến bùng nổ",
+    "Liên Xô tan rã"
+   ],
+   "dung": 0,
+   "trang": 8
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 8 (cuối năm 1920 Hồng quân đánh tan giặc; tháng 3 – 1921 Đảng Bôn-sê-vích thực hiện NEP do Lê-nin đề xướng; nội dung: thuế lương thực thay trưng thu, tự do buôn bán, tư nhân mở xí nghiệp nhỏ, khuyến khích tư bản nước ngoài; kết quả: vượt khủng hoảng, phục hồi kinh tế). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

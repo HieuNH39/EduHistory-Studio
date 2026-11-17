@@ -1,0 +1,350 @@
+{
+ "ma": "L8-B3-04",
+ "ten_tap": "Làn sóng công nghiệp lan tỏa",
+ "ten_tap_en": "The Industrial Wave Spreads",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 3. Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+  "trang": [
+   16,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "năng động, cơ khí",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 3, tr. 16–17.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ bản đồ phác thảo châu Âu và châu Mỹ với các mũi tên lan toả",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cách mạng công nghiệp bắt đầu ở Anh. Rồi làn sóng ấy lan đi đâu?",
+     "The Industrial Revolution began in Britain. Then where did the wave spread?"
+    ],
+    [
+     "Hân Hân",
+     "Sang Pháp, Đức và Mỹ! Cùng theo dõi nhé!",
+     "To France, Germany and America! Let's follow it!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-anh"
+   ],
+   "hinh": "Dùng lại ảnh L8-B3-03 cảnh 8: toàn cảnh một thành phố công nghiệp Anh giữa thế kỉ XIX, hàng loạt ống khói nhà máy, đoàn tàu hơi nước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng công nghiệp đã biến nước Anh thành nước công nghiệp phát triển nhất thế giới lúc bấy giờ, được mệnh danh là công xưởng của thế giới.",
+     "The Industrial Revolution made Britain the world's most industrialised nation, nicknamed the workshop of the world."
+    ],
+    [
+     "Nhật Minh",
+     "Ảnh hưởng của nó nhanh chóng lan đến nhiều nước khác ở châu Âu và Mỹ.",
+     "Its influence quickly spread to other countries in Europe and America."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B3-03/canh-08.jpg",
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Pháp",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-phap"
+   ],
+   "hinh": "Một nhà máy dệt ở Pháp khoảng giữa thế kỉ XIX dưới mái nhà xưởng cao có khung sắt: những dãy máy dệt chạy bằng hơi nước, dây curoa nối lên trục trần, công nhân nam nữ mặc áo vải, đeo tạp dề đứng máy; qua cửa sổ lớn thấy phố xá với mái nhà xám và ống khói",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Pháp, cách mạng công nghiệp bắt đầu từ năm 1830, trước tiên trong công nghiệp nhẹ, rồi lan sang công nghiệp nặng vào những năm 1850 – 1870.",
+     "In France, it began in 1830 in light industry, then spread to heavy industry in the 1850s–1870s."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế Pháp nhanh chóng phát triển, đứng thứ hai thế giới, sau Anh.",
+     "France's economy grew fast, ranking second in the world after Britain."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đức",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan-duc"
+   ],
+   "hinh": "Một nhà máy luyện kim lớn ở Đức giữa thế kỉ XIX: lò cao bằng gạch đỏ rực lửa, công nhân đội mũ vải, đeo tạp dề da dùng gầu dài rót dòng kim loại nóng chảy sáng chói vào khuôn; xa xa là những ống khói cao và bồn chứa của xưởng hoá chất",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đức, cách mạng công nghiệp bắt đầu từ những năm 40 của thế kỉ XIX, dựa trên nền công nghiệp nặng hiện đại và tập trung, trong đó luyện kim và hoá chất đóng vai trò chủ đạo.",
+     "In Germany it began in the 1840s, built on modern, concentrated heavy industry, led by metallurgy and chemicals."
+    ],
+    [
+     "Hân Hân",
+     "Đến khi thống nhất đất nước năm 1871, Đức đã trở thành một nước công nghiệp.",
+     "By unification in 1871, Germany had become an industrial nation."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngành công nghiệp nào đóng vai trò chủ đạo trong cách mạng công nghiệp ở Đức?",
+    "lua_chon": [
+     "Dệt và may mặc",
+     "Luyện kim và hoá chất",
+     "Chế biến thực phẩm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ngành nào chủ đạo ở Đức?",
+     "EduHistory asks you! Which industries led in Germany?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: luyện kim và hoá chất!",
+     "The answer is B: metallurgy and chemicals!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Mỹ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Máy tách hạt bông của Mỹ (1793)",
+    "tim": "cotton gin 1793",
+    "yeu_cau": "ảnh tư liệu hoặc bản vẽ thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: máy tách hạt bông (Mỹ, 1793)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Mỹ, do liên hệ mật thiết với nước Anh, quá trình công nghiệp hoá diễn ra khá sớm, bắt đầu từ công nghiệp nhẹ.",
+     "In America, close ties with Britain meant industrialisation came early, starting with light industry."
+    ],
+    [
+     "Nhật Minh",
+     "Hai phát minh lớn là máy tách hạt bông năm 1793 và máy thu hoạch bông năm 1850, cho năng suất cao hơn nhiều lần so với làm thủ công.",
+     "Two great inventions, the cotton gin of 1793 and the cotton harvester of 1850, made work many times more productive than by hand."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-my"
+   ],
+   "hinh": "Dùng lại ảnh L8-B13-03 cảnh 4: bến sông ở nước Mỹ đầu thế kỉ XIX, một con tàu gỗ có ống khói cao và bánh guồng hai bên mạn đang nhả khói",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công nghiệp đường sắt, khai mỏ, luyện kim, đóng tàu của Mỹ rất phát triển.",
+     "America's railways, mining, metallurgy and shipbuilding flourished."
+    ],
+    [
+     "Nhật Minh",
+     "Đến giữa thế kỉ XIX, nước Mỹ đã đứng thứ tư thế giới về giá trị sản xuất công nghiệp, sau Anh, Pháp, Đức.",
+     "By the mid-19th century, the US ranked fourth in industrial output, after Britain, France and Germany."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B13-03/canh-04.jpg",
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giữa thế kỉ XIX, nước Mỹ đứng thứ mấy thế giới về giá trị sản xuất công nghiệp?",
+    "lua_chon": [
+     "Thứ nhất",
+     "Thứ hai",
+     "Thứ tư"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Giữa thế kỉ XIX, Mỹ đứng thứ mấy?",
+     "Pause! Where did the US rank by the mid-19th century?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: thứ tư, sau Anh, Pháp, Đức!",
+     "The answer is C: fourth, after Britain, France and Germany!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Pháp: từ 1830, công nghiệp nhẹ trước; kinh tế đứng thứ hai thế giới",
+    "Đức: từ những năm 40 thế kỉ XIX; luyện kim, hoá chất chủ đạo",
+    "Mỹ: máy tách hạt bông (1793), máy thu hoạch bông (1850); đường sắt, khai mỏ, đóng tàu"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Pháp bắt đầu từ năm 1830, mạnh về công nghiệp nhẹ; Đức mạnh về luyện kim, hoá chất.",
+     "Remember: France from 1830, strong in light industry; Germany strong in metallurgy and chemicals."
+    ],
+    [
+     "Nhật Minh",
+     "Mỹ nổi bật với máy tách hạt bông và công nghiệp đường sắt.",
+     "America stood out with the cotton gin and railways."
+    ]
+   ],
+   "nguon_trang": [
+    16,
+    17
+   ],
+   "tieu_de": "LÀN SÓNG CÔNG NGHIỆP LAN TOẢ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong các thành tựu của cách mạng công nghiệp ở Pháp, Đức, Mỹ, thành tựu nào ấn tượng nhất với cậu? Bình luận nhé!",
+     "Your challenge: which achievement in France, Germany or America impresses you most? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cách mạng công nghiệp ở Pháp bắt đầu từ năm nào?",
+   "dap_an": [
+    "1830",
+    "1764",
+    "1871",
+    "1793"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Kinh tế Pháp đứng thứ mấy thế giới sau cách mạng công nghiệp?",
+   "dap_an": [
+    "Thứ hai (sau Anh)",
+    "Thứ nhất",
+    "Thứ ba",
+    "Thứ tư"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Đức trở thành nước công nghiệp khi nào?",
+   "dap_an": [
+    "Khi thống nhất đất nước (1871)",
+    "Năm 1830",
+    "Năm 1764",
+    "Năm 1850"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Hai phát minh lớn của Mỹ trong cách mạng công nghiệp là gì?",
+   "dap_an": [
+    "Máy tách hạt bông và máy thu hoạch bông",
+    "Máy hơi nước và máy dệt",
+    "Đầu máy xe lửa và tàu thuỷ",
+    "Máy kéo sợi Gien-ni và máy dệt"
+   ],
+   "dung": 0,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 16 (nước Anh – công xưởng của thế giới; mục 2: lan ra châu Âu, Mỹ; Pháp từ 1830, công nghiệp nhẹ rồi nặng 1850 – 1870, thứ hai thế giới) và tr. 17 (Đức từ những năm 40 thế kỉ XIX, luyện kim, hoá chất, thống nhất 1871; Mỹ: máy tách hạt bông 1793, máy thu hoạch bông 1850, đường sắt, khai mỏ, luyện kim, đóng tàu, thứ tư thế giới). Dùng lại ảnh L8-B3-03 cảnh 8, L8-B13-03 cảnh 4; hai cảnh tái hiện mới (nhà máy dệt Pháp, nhà máy luyện kim Đức).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

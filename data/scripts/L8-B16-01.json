@@ -1,0 +1,183 @@
+{
+ "ma": "L8-B16-01",
+ "ten_tap": "Sự ra đời của vương triều cuối cùng",
+ "ten_tap_en": "The Birth of the Last Dynasty",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+  "trang": [
+   71
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 16, tr. 71.",
+ "chinh_sach_hinh": "Vua Gia Long vẽ khái quát theo trang phục triều Nguyễn; ảnh Đại Nội Huế là ảnh thật.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, phía sau là khung ảnh lớn Đại Nội Huế",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vương triều phong kiến cuối cùng của Việt Nam ra đời như thế nào? Cùng xem nhé!",
+     "How was Vietnam's last feudal dynasty born? Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh Ngọ Môn – Đại Nội Huế (thành phố Huế)",
+    "tim": "Ngo Mon gate Hue Imperial City",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Ngọ Môn, Đại Nội Huế",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1792, vua Quang Trung qua đời. Triều Tây Sơn mất đi một trụ cột quan trọng, nội bộ mâu thuẫn, lực lượng suy yếu.",
+     "In 1792, Emperor Quang Trung died. The Tây Sơn lost a key pillar; internal conflict grew and its strength waned."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "gia-long"
+   ],
+   "hinh": "Khung dọc: sân điện ở kinh đô Phú Xuân năm 1802, buổi sáng: vua Gia Long (vẽ khái quát, long bào vàng, mũ miện, nét mặt nghiêm nghị) đứng trên thềm đá cao; bên dưới các quan văn võ áo thụng đỏ, xanh, cầm hốt xếp hàng cúi chào; cờ vải vàng trơn, lọng che",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1802, được địa chủ ở Gia Định ủng hộ, Nguyễn Ánh đánh bại Triều Tây Sơn, lập ra Triều Nguyễn, lấy niên hiệu là Gia Long,",
+     "In 1802, backed by the landlords of Gia Định, Nguyễn Ánh defeated the Tây Sơn and founded the Nguyễn dynasty under the reign name Gia Long,"
+    ],
+    [
+     "Nhật Minh",
+     "đặt kinh đô ở Phú Xuân, tức thành phố Huế ngày nay.",
+     "with its capital at Phú Xuân, today's Huế."
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Triều Nguyễn đặt kinh đô ở đâu?",
+    "lua_chon": [
+     "Thăng Long",
+     "Phú Xuân (Huế)",
+     "Gia Định"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Kinh đô của Triều Nguyễn ở đâu?",
+     "EduHistory asks you! Where was the Nguyễn capital?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Phú Xuân, tức thành phố Huế!",
+     "The answer is B: Phú Xuân, today's Huế!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quần thể di tích Cố đô Huế được UNESCO ghi danh là Di sản văn hoá thế giới năm 1993. Cậu đã đến Huế chưa? Bình luận nhé!",
+     "The Complex of Huế Monuments was inscribed as World Heritage by UNESCO in 1993. Have you been to Huế? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    71
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Triều Nguyễn được thành lập năm nào?",
+   "dap_an": [
+    "1802",
+    "1792",
+    "1858",
+    "1820"
+   ],
+   "dung": 0,
+   "trang": 71
+  },
+  {
+   "hoi": "Niên hiệu của Nguyễn Ánh khi lên ngôi là gì?",
+   "dap_an": [
+    "Gia Long",
+    "Minh Mạng",
+    "Tự Đức",
+    "Quang Trung"
+   ],
+   "dung": 0,
+   "trang": 71
+  },
+  {
+   "hoi": "Nguyễn Ánh được tầng lớp nào ủng hộ khi đánh bại Tây Sơn?",
+   "dap_an": [
+    "Địa chủ ở Gia Định",
+    "Nông dân Đàng Ngoài",
+    "Thương nhân Hội An",
+    "Quân Thanh"
+   ],
+   "dung": 0,
+   "trang": 71
+  },
+  {
+   "hoi": "Di tích Cố đô Huế được UNESCO ghi danh năm nào?",
+   "dap_an": [
+    "1993",
+    "2003",
+    "1802",
+    "2008"
+   ],
+   "dung": 0,
+   "trang": 71
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 71 (Cố đô Huế được UNESCO ghi danh năm 1993; năm 1792 Quang Trung qua đời, Tây Sơn suy yếu; năm 1802 Nguyễn Ánh được địa chủ Gia Định ủng hộ, đánh bại Tây Sơn, lập Triều Nguyễn, niên hiệu Gia Long, kinh đô Phú Xuân). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

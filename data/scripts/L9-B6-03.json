@@ -1,0 +1,288 @@
+{
+ "ma": "L9-B6-03",
+ "ten_tap": "Sự ra đời của ba tổ chức cộng sản",
+ "ten_tap_en": "The Birth of Three Communist Organisations",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+  "trang": [
+   28
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, sôi nổi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 6, tr. 28.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ ba vòng tròn với dấu hỏi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1929, ở Việt Nam lần lượt ra đời ba tổ chức cộng sản. Vì sao lại là ba, mà không phải một?",
+     "In 1929, three communist organisations were founded in Vietnam one after another. Why three and not one?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu tác phẩm Đường Kách mệnh (dùng lại ảnh tư liệu của L9-B5-05 cảnh 5)",
+    "tim": "Duong Kach menh",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B5-05 cảnh 5"
+   },
+   "hinh": "Tư liệu: tác phẩm Đường Kách mệnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong những năm 1928 – 1929, qua hoạt động của Hội Việt Nam Cách mạng Thanh niên, tiêu biểu là phong trào vô sản hoá, chủ nghĩa Mác – Lê-nin được truyền bá sâu rộng vào Việt Nam.",
+     "In 1928 and 1929, through the Vietnam Revolutionary Youth League, especially its 'proletarianisation' campaign, Marxism–Leninism spread widely in Vietnam."
+    ],
+    [
+     "Hân Hân",
+     "Phong trào công nhân và phong trào yêu nước phát triển mạnh, đặt ra nhu cầu phải thành lập Đảng Cộng sản.",
+     "The workers' and patriotic movements grew strongly, creating the need for a Communist Party."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "BA TỔ CHỨC CỘNG SẢN (1929)",
+   "moc": [
+    [
+     "6 – 1929",
+     "Đông Dương Cộng sản đảng (Hà Nội)"
+    ],
+    [
+     "8 – 1929",
+     "An Nam Cộng sản đảng (Nam Kì)"
+    ],
+    [
+     "9 – 1929",
+     "Đông Dương Cộng sản liên đoàn (Sài Gòn)"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 6 năm 1929, các đại biểu của Hội Việt Nam Cách mạng Thanh niên ở Bắc Kì họp tại Hà Nội, tuyên bố thành lập Đông Dương Cộng sản đảng.",
+     "In June 1929, delegates of the Youth League in Tonkin met in Hà Nội and founded the Indochinese Communist Party."
+    ],
+    [
+     "Hân Hân",
+     "Tháng 8 năm 1929, cán bộ tiên tiến tại Tổng bộ và Kì bộ Nam Kì thành lập An Nam Cộng sản đảng.",
+     "In August 1929, leading cadres at the League's headquarters and its Cochinchina branch founded the Annam Communist Party."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 9 năm 1929, những đảng viên cấp tiến trong Tân Việt Cách mạng đảng họp ở Sài Gòn, thành lập Đông Dương Cộng sản liên đoàn.",
+     "In September 1929, radical members of the Tân Việt Revolutionary Party met in Saigon and founded the Indochinese Communist League."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tổ chức cộng sản nào ra đời sớm nhất ở Việt Nam?",
+    "lua_chon": [
+     "Đông Dương Cộng sản đảng",
+     "An Nam Cộng sản đảng",
+     "Đông Dương Cộng sản liên đoàn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Tổ chức cộng sản nào ra đời đầu tiên?",
+     "Pause! Which communist organisation came first?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Đông Dương Cộng sản đảng, tháng 6 năm 1929!",
+     "The answer is A: the Indochinese Communist Party, June 1929!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng nối ba vòng tròn thành một mũi tên hướng về năm 1930",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ba tổ chức cộng sản ra đời chứng tỏ phong trào yêu nước theo khuynh hướng vô sản phát triển, là bước chuẩn bị trực tiếp cho sự thành lập Đảng Cộng sản Việt Nam.",
+     "The three organisations showed the growth of the proletarian-oriented patriotic movement and directly prepared for the founding of the Communist Party of Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng chúng hoạt động riêng rẽ, tranh giành ảnh hưởng với nhau, khiến phong trào có nguy cơ chia rẽ lớn.",
+     "But they acted separately and competed for influence, risking a major split."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Nguyễn Ái Quốc những năm 1920 – 1930",
+    "tim": "Nguyen Ai Quoc photograph 1920s",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: Nguyễn Ái Quốc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong bối cảnh đó, Nguyễn Ái Quốc, với tư cách phái viên của Quốc tế Cộng sản, đã triệu tập và chủ trì Hội nghị hợp nhất các tổ chức cộng sản tại Hương Cảng, Trung Quốc, đầu năm 1930.",
+     "In that situation, Nguyễn Ái Quốc, as envoy of the Communist International, convened and chaired a conference in Hong Kong in early 1930 to unify the communist organisations."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "1928 – 1929: phong trào vô sản hoá, chủ nghĩa Mác – Lê-nin truyền bá sâu rộng",
+    "6 – 1929: Đông Dương Cộng sản đảng; 8 – 1929: An Nam Cộng sản đảng",
+    "9 – 1929: Đông Dương Cộng sản liên đoàn",
+    "Hoạt động riêng rẽ – cần hợp nhất (đầu năm 1930)"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 1929, ba tổ chức cộng sản lần lượt ra đời, là bước chuẩn bị trực tiếp cho việc thành lập Đảng.",
+     "Remember: in 1929 three communist organisations were born, directly preparing for the Party's founding."
+    ],
+    [
+     "Hân Hân",
+     "Vì hoạt động riêng rẽ, cần phải hợp nhất thành một Đảng duy nhất.",
+     "Because they acted separately, they had to be unified into one Party."
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "tieu_de": "BA TỔ CHỨC CỘNG SẢN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao cần phải hợp nhất ba tổ chức cộng sản thành một Đảng duy nhất? Bình luận nhé!",
+     "Your challenge: why was it necessary to merge the three organisations into one Party? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đông Dương Cộng sản đảng được thành lập ở đâu?",
+   "dap_an": [
+    "Hà Nội",
+    "Sài Gòn",
+    "Hương Cảng",
+    "Huế"
+   ],
+   "dung": 0,
+   "trang": 28
+  },
+  {
+   "hoi": "Đông Dương Cộng sản liên đoàn do những ai thành lập?",
+   "dap_an": [
+    "Đảng viên cấp tiến trong Tân Việt Cách mạng đảng",
+    "Hội viên Hội Việt Nam Cách mạng Thanh niên ở Bắc Kì",
+    "Đảng Lập hiến",
+    "Việt Nam Quốc dân đảng"
+   ],
+   "dung": 0,
+   "trang": 28
+  },
+  {
+   "hoi": "Phong trào nào giúp truyền bá chủ nghĩa Mác – Lê-nin vào Việt Nam năm 1928 – 1929?",
+   "dap_an": [
+    "Phong trào vô sản hoá",
+    "Phong trào Đông Du",
+    "Phong trào Cần vương",
+    "Phong trào Duy tân"
+   ],
+   "dung": 0,
+   "trang": 28
+  },
+  {
+   "hoi": "Ai triệu tập Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930?",
+   "dap_an": [
+    "Nguyễn Ái Quốc",
+    "Trần Phú",
+    "Phan Bội Châu",
+    "Nguyễn Văn Cừ"
+   ],
+   "dung": 0,
+   "trang": 28
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 28 (mục 3a: 1928 – 1929 phong trào vô sản hoá; Hình 6.3 – đọc từ ảnh trang: 6 – 1929 Đông Dương Cộng sản đảng tại Hà Nội, 8 – 1929 An Nam Cộng sản đảng (Tổng bộ, Kì bộ Nam Kì), 9 – 1929 Đông Dương Cộng sản liên đoàn tại Sài Gòn; ý nghĩa; mục 3b: hoạt động riêng rẽ, nguy cơ chia rẽ, Nguyễn Ái Quốc – phái viên Quốc tế Cộng sản – triệu tập Hội nghị hợp nhất tại Hương Cảng đầu năm 1930). Dùng lại ảnh L9-B5-05 cảnh 5.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

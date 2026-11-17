@@ -1,0 +1,185 @@
+{
+ "ma": "L6-B2-04",
+ "ten_tap": "Huyền thoại hay lịch sử?",
+ "ten_tap_en": "Legend or History?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+  "trang": [
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-co"
+ ],
+ "nhac": {
+  "tam_trang": "kì ảo, hào hùng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 2, tr. 13.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm cành tre nhỏ làm động tác vung lên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chuyện Thánh Gióng vươn vai thành tráng sĩ, cưỡi ngựa sắt đánh giặc là huyền thoại hay lịch sử nhỉ?",
+     "Is the story of Saint Gióng growing into a giant and riding an iron horse to fight invaders a legend or history?"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh dân gian Đông Hồ \"Thánh Gióng đánh giặc Ân\" (như Hình 5 SGK tr. 13)",
+    "tim": "Thánh Gióng tranh Đông Hồ",
+    "yeu_cau": "tranh dân gian thuộc phạm vi công cộng hoặc ảnh có giấy phép mở, ghi nguồn; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: tranh Đông Hồ Thánh Gióng đánh giặc Ân",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là tranh dân gian Đông Hồ Thánh Gióng đánh giặc Ân. Những câu chuyện dân gian như thần thoại, truyền thuyết, cổ tích được kể truyền miệng từ đời này qua đời khác gọi là tư liệu truyền miệng.",
+     "This is the Đông Hồ folk painting of Saint Gióng fighting the Ân invaders. Folk tales such as myths, legends and fairy tales passed down orally from generation to generation are called oral sources."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B14-01 cảnh 5 (khung dọc cắt giữa ảnh): trai tráng người Việt cổ cầm giáo đồng, rìu đồng đứng thành hàng ở cửa làng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Loại tư liệu này thường không cho biết chính xác về thời gian và địa điểm,",
+     "Such sources usually don't tell us the exact time and place,"
+    ],
+    [
+     "Hân Hân",
+     "nhưng phần nào phản ánh hiện thực lịch sử.",
+     "but they partly reflect historical reality."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B14-01/canh-05.jpg",
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tư liệu truyền miệng thường không cho biết chính xác điều gì?",
+    "lua_chon": [
+     "Tên nhân vật",
+     "Thời gian và địa điểm",
+     "Bài học"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Tư liệu truyền miệng thường không cho biết chính xác điều gì?",
+     "EduHistory asks you! What do oral sources usually not tell us exactly?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thời gian và địa điểm!",
+     "The answer is B: the time and place!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cậu biết truyền thuyết nào khác liên quan đến lịch sử? Kể tên trong phần bình luận nhé!",
+     "Which other history-related legends do you know? Name them in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những câu chuyện dân gian được kể truyền miệng từ đời này qua đời khác gọi là gì?",
+   "dap_an": [
+    "Tư liệu truyền miệng",
+    "Tư liệu chữ viết",
+    "Tư liệu hiện vật",
+    "Tư liệu gốc"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Hình 5 SGK là tranh dân gian nào?",
+   "dap_an": [
+    "Thánh Gióng đánh giặc Ân",
+    "Đám cưới chuột",
+    "Đánh ghen",
+    "Lợn nái"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Tư liệu truyền miệng có giá trị gì?",
+   "dap_an": [
+    "Phần nào phản ánh hiện thực lịch sử",
+    "Cho biết chính xác thời gian",
+    "Cho biết chính xác địa điểm",
+    "Không có giá trị gì"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Đâu là một loại tư liệu truyền miệng?",
+   "dap_an": [
+    "Truyền thuyết",
+    "Bia đá",
+    "Trống đồng",
+    "Sách in"
+   ],
+   "dung": 0,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 13 (mục 3: tư liệu truyền miệng – thần thoại, truyền thuyết, cổ tích kể từ đời này qua đời khác; không cho biết chính xác thời gian, địa điểm nhưng phần nào phản ánh hiện thực lịch sử; Hình 5 tranh Đông Hồ Thánh Gióng đánh giặc Ân; Luyện tập câu 3). Khung dọc; dùng lại ảnh L6-B14-01 cảnh 5.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

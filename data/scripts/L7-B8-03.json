@@ -1,0 +1,359 @@
+{
+ "ma": "L7-B8-03",
+ "ten_tap": "Kiệt tác đá giữa rừng già",
+ "ten_tap_en": "Stone Masterpieces in the Forest",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 8. Vương quốc Cam-pu-chia",
+  "trang": [
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-kho-me"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, trang nghiêm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 8, tr. 42–43.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước tấm ảnh lớn về đền Ăng-co",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giữa rừng già Cam-pu-chia có một quần thể đền đá khổng lồ, xếp chồng mà không cần chất kết dính!",
+     "Deep in Cambodia's forests stands a huge complex of stone temples, stacked without any mortar!"
+    ],
+    [
+     "Hân Hân",
+     "Đó là đền Ăng-co. Cùng khám phá văn hoá Cam-pu-chia thời Ăng-co nhé!",
+     "That's Angkor. Let's explore Cambodian culture in the Angkor era!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Ăng-co",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Một làng quê Khơ-me bên ruộng lúa khô nẻ: dân làng mặc xà rông, mình trần, đội nồi đất đựng nước, cùng làm lễ cầu mưa trước một ngôi miếu nhỏ bằng gạch; người đánh trống, người rưới nước lên mặt đất; trên trời mây đen bắt đầu kéo đến",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Khơ-me có nhiều tín ngưỡng dân gian như tín ngưỡng phồn thực, tục cầu mưa.",
+     "The Khmer had many folk beliefs, such as fertility beliefs and rain-praying rituals."
+    ],
+    [
+     "Nhật Minh",
+     "Thời kì này, bên cạnh Hin-đu giáo, Phật giáo cũng được đề cao, với nhiều công trình kiến trúc lớn mang dấu ấn Phật giáo.",
+     "In this period, besides Hinduism, Buddhism was also honoured, with many great Buddhist buildings."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-su-kho-me"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-01 cảnh 8: nhà sư Khơ-me khắc chữ lên bia đá, người kể chuyện cho trẻ em dưới gốc cây thốt nốt",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trên cơ sở hệ thống chữ viết sáng tạo từ thế kỉ VII, chữ viết của người Khơ-me ngày càng hoàn chỉnh.",
+     "Building on the script created in the 7th century, Khmer writing grew ever more complete."
+    ],
+    [
+     "Hân Hân",
+     "Văn học dân gian và văn học viết có nhiều truyện thần thoại, truyện cười, truyện thơ.",
+     "Folk and written literature included many myths, funny tales and verse stories."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-01/canh-08.jpg",
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chữ viết của người Khơ-me được sáng tạo ra từ thế kỉ nào?",
+    "lua_chon": [
+     "Thế kỉ VII",
+     "Thế kỉ IX",
+     "Thế kỉ XV"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Hệ thống chữ viết của người Khơ-me được sáng tạo ra vào thế kỉ nào?",
+     "EduHistory asks you! In which century was the Khmer writing system created?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: thế kỉ VII!",
+     "The answer is A: the 7th century!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiệt tác đá",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-da-kho-me"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 13: thợ đá kéo những khối đá sa thạch lớn xếp chồng lên nhau, ngọn tháp trung tâm vút cao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật kiến trúc, điêu khắc thời kì này rất phát triển, tiêu biểu là quần thể đền tháp đồ sộ và độc đáo Ăng-co Vát, Ăng-co Thom.",
+     "Architecture and sculpture flourished, best shown by the vast, unique temple complexes of Angkor Wat and Angkor Thom."
+    ],
+    [
+     "Hân Hân",
+     "Toàn bộ kiến trúc xây bằng đá sa thạch và đá tổ ong. Những khối đá lớn được xếp chồng lên nhau mà không cần chất kết dính hay bê tông cốt thép.",
+     "Everything was built of sandstone and laterite. The huge blocks were stacked without any binding agent or reinforced concrete."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-13.jpg",
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đền Ăng-co Vát, Cam-pu-chia",
+    "tim": "Angkor Wat temple",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đền Ăng-co Vát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kiến trúc khu đền mô phỏng ngọn núi Mê-ru vĩ đại của Ấn Độ.",
+     "The temple layout imitates India's great Mount Meru."
+    ],
+    [
+     "Hân Hân",
+     "Ngọn tháp trung tâm cao nhất tới 65 mét, và 5 ngọn tháp xung quanh tương ứng với 5 đỉnh núi.",
+     "The central tower rises up to 65 metres, and 5 surrounding towers match the 5 peaks of the mountain."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đền Bay-on trong quần thể đền Ăng-co Thom (như hình SGK, tr. 43)",
+    "tim": "Bayon temple faces Angkor Thom",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đền Bay-on (Ăng-co Thom)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là đền Bay-on, nằm trong quần thể đền Ăng-co Thom.",
+     "And this is the Bayon temple, inside the Angkor Thom complex."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngọn tháp trung tâm của đền Ăng-co cao nhất tới bao nhiêu mét?",
+    "lua_chon": [
+     "45 mét",
+     "65 mét",
+     "100 mét"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ngọn tháp trung tâm của đền Ăng-co cao nhất tới bao nhiêu mét?",
+     "Pause! How tall is Angkor's central tower at its highest?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 65 mét!",
+     "The answer is B: 65 metres!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong-kho-me"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 9: ngư dân quăng lưới trên Biển Hồ; người thợ chạm khắc phù điêu vũ nữ lên vách đá sa thạch",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những bức phù điêu chạm khắc tinh xảo trên vách đá vẫn còn đến ngày nay. Quần thể đền Ăng-co là di tích nổi tiếng của Cam-pu-chia.",
+     "The finely carved reliefs on the stone walls survive to this day. The Angkor complex is Cambodia's famous monument."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-09.jpg",
+   "nguon_trang": [
+    42,
+    43
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Tín ngưỡng dân gian: phồn thực, cầu mưa; Hin-đu giáo và Phật giáo",
+    "Chữ viết (từ thế kỉ VII) ngày càng hoàn chỉnh; thần thoại, truyện cười, truyện thơ",
+    "Kiến trúc: Ăng-co Vát, Ăng-co Thom – đá sa thạch, đá tổ ong, không chất kết dính"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tín ngưỡng, tôn giáo đa dạng; chữ viết và văn học phát triển.",
+     "Remember: varied beliefs and religions; writing and literature developed."
+    ],
+    [
+     "Hân Hân",
+     "Và kiệt tác kiến trúc Ăng-co Vát, Ăng-co Thom bằng đá, không cần chất kết dính.",
+     "And the stone masterpieces of Angkor Wat and Angkor Thom, built without mortar."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "tieu_de": "VĂN HOÁ CAM-PU-CHIA THỜI ĂNG-CO",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy đóng vai hướng dẫn viên, giới thiệu một di sản văn hoá của Cam-pu-chia trong một câu thật hay! Bình luận nhé!",
+     "Your challenge: play a tour guide and introduce a Cambodian heritage site in one great sentence! Comment below!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Ăng-co, bên cạnh Hin-đu giáo, tôn giáo nào cũng được đề cao?",
+   "dap_an": [
+    "Hồi giáo",
+    "Phật giáo",
+    "Thiên Chúa giáo",
+    "Nho giáo"
+   ],
+   "dung": 1,
+   "trang": 43
+  },
+  {
+   "hoi": "Kiến trúc đền Ăng-co mô phỏng ngọn núi nào?",
+   "dap_an": [
+    "Núi Mê-ru",
+    "Núi Hi-ma-lay-a",
+    "Núi Phú Sĩ",
+    "Núi Thái Sơn"
+   ],
+   "dung": 0,
+   "trang": 43
+  },
+  {
+   "hoi": "Đền Ăng-co được xây bằng những loại đá nào?",
+   "dap_an": [
+    "Đá vôi và đá hoa cương",
+    "Đá sa thạch và đá tổ ong",
+    "Gạch nung",
+    "Đá ong và gỗ"
+   ],
+   "dung": 1,
+   "trang": 43
+  },
+  {
+   "hoi": "Đền Bay-on nằm trong quần thể nào?",
+   "dap_an": [
+    "Ăng-co Vát",
+    "Ăng-co Thom",
+    "Bô-rô-bu-đua",
+    "Thạt Luổng"
+   ],
+   "dung": 1,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 43 (mục 3: tín ngưỡng phồn thực, cầu mưa; Hin-đu, Phật giáo; chữ viết từ thế kỉ VII; văn học; Ăng-co Vát, Ăng-co Thom; ô thông tin Ăng-co: núi Mê-ru, tháp 65 m, 5 tháp, đá sa thạch, đá tổ ong, không chất kết dính; hình đền Bay-on). Cảnh 4, 7, 11 dùng lại ảnh L7-B8-01 cảnh 8, L7-B8-02 cảnh 13 và 9. Phương án nhiễu câu hỏi (Bô-rô-bu-đua, Thạt Luổng) là công trình ở bài khác của SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

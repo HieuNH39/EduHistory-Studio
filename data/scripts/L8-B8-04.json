@@ -1,0 +1,359 @@
+{
+ "ma": "L8-B8-04",
+ "ten_tap": "Di sản của Hoàng đế Quang Trung",
+ "ten_tap_en": "The Legacy of Emperor Quang Trung",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 8. Phong trào Tây Sơn",
+  "trang": [
+   39,
+   40
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "quang-trung"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 8, tr. 39–40.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Quang Trung – Nguyễn Huệ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì sao phong trào Tây Sơn giành thắng lợi? Và vua Quang Trung đã để lại di sản gì?",
+     "Why did the Tây Sơn movement win? And what legacy did Emperor Quang Trung leave?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    40
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quang-trung"
+   ],
+   "hinh": "Dùng lại ảnh L8-B8-03 cảnh 7: vua Quang Trung trong giáp trụ, áo choàng đỏ, đứng trên đài cao trước hàng vạn quân sĩ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phong trào Tây Sơn thắng lợi trước hết nhờ tinh thần yêu nước, sự đồng lòng và ý chí chiến đấu dũng cảm của quân dân ta, cùng sự lãnh đạo tài tình, sáng suốt của vua Quang Trung – Nguyễn Huệ.",
+     "Tây Sơn won first through the patriotism, unity and courage of soldiers and people, and the brilliant leadership of Quang Trung – Nguyễn Huệ."
+    ],
+    [
+     "Hân Hân",
+     "Trong lễ tuyên thệ, nhà vua đọc lời dụ: Đánh cho để tóc dài, đánh cho để răng đen, đánh cho nó chích luân bất phản, đánh cho nó phiến giáp bất hoàn, đánh cho sử tri Nam quốc anh hùng chi hữu chủ!",
+     "At the oath ceremony he proclaimed: fight to keep our long hair, fight to keep our black teeth, fight so not one wheel returns, not one piece of armour survives, fight so history knows the heroic South has its own master!"
+    ]
+   ],
+   "anh": "assets/episodes/L8-B8-03/canh-07.jpg",
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quang-trung"
+   ],
+   "hinh": "Dùng lại ảnh L8-B8-03 cảnh 16: vua Quang Trung cưỡi ngựa dẫn đoàn quân chiến thắng tiến vào cổng thành Thăng Long, nhân dân hai bên đón chào",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phong trào đã lật đổ các chính quyền phong kiến Nguyễn, Trịnh, xoá bỏ tình trạng chia cắt Đàng Trong – Đàng Ngoài, đặt cơ sở cho việc khôi phục nền thống nhất quốc gia.",
+     "It toppled the Nguyễn and Trịnh regimes, ended the North–South division and laid the basis for national reunification."
+    ],
+    [
+     "Hân Hân",
+     "Đồng thời, đánh tan quân Xiêm, quân Thanh, bảo vệ vững chắc nền độc lập và chủ quyền lãnh thổ của Tổ quốc.",
+     "It also crushed the Siamese and Qing invaders, firmly defending independence and territorial sovereignty."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B8-03/canh-16.jpg",
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nguyên nhân hàng đầu đưa phong trào Tây Sơn đến thắng lợi là gì?",
+    "lua_chon": [
+     "Nhờ viện trợ nước ngoài",
+     "Tinh thần yêu nước, đồng lòng, ý chí chiến đấu của quân dân",
+     "Nhờ quân đông hơn quân Thanh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao phong trào Tây Sơn thắng lợi?",
+     "EduHistory asks you! Why did Tây Sơn win?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: trước hết nhờ tinh thần yêu nước, sự đồng lòng và ý chí chiến đấu dũng cảm của quân dân ta!",
+     "The answer is B: above all the patriotism, unity and courage of the soldiers and people!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xây dựng đất nước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quang-trung"
+   ],
+   "hinh": "Dùng lại ảnh L8-B8-03 cảnh 6: lễ lên ngôi, Nguyễn Huệ trong hoàng bào vàng thêu rồng đứng trên bậc cao giữa sân rộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau chiến thắng ngoại xâm, vua Quang Trung chọn đóng đô ở Phú Xuân, nay là thành phố Huế, xây dựng và củng cố Vương triều Tây Sơn.",
+     "After defeating the invaders, Quang Trung set his capital at Phú Xuân, today's Huế, and built up the Tây Sơn dynasty."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B8-03/canh-06.jpg",
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B7-02 cảnh 15: những người nông dân trở về làng cũ, dựng lại nhà, khai hoang đồng ruộng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, nhà vua ban hành Chiếu khuyến nông để giải quyết tình trạng ruộng đất bỏ hoang và nạn lưu tán, giúp nhân dân ổn định cuộc sống.",
+     "Economically, he issued the Edict to Encourage Farming to revive abandoned land and resettle displaced people."
+    ],
+    [
+     "Hân Hân",
+     "Các chính sách bãi bỏ hoặc giảm nhẹ thuế khoá, mở cửa ải, thông chợ búa làm cho nghề thủ công và buôn bán được phục hồi dần.",
+     "Cutting or easing taxes and opening border posts and markets gradually revived crafts and trade."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B7-02/canh-15.jpg",
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Nhật Minh viết vài chữ Nôm lên bảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về văn hoá, vua Quang Trung ban bố Chiếu lập học và cho phép sử dụng chữ Nôm làm chữ viết chính thức của Nhà nước.",
+     "Culturally, he issued the Edict to Establish Schools and made the Nôm script the state's official writing."
+    ],
+    [
+     "Hân Hân",
+     "Để bảo vệ đất nước, nhà vua xây dựng quân đội mạnh và thực hiện chính sách ngoại giao vừa mềm dẻo, vừa kiên quyết.",
+     "To defend the nation, he built a strong army and pursued a diplomacy both flexible and firm."
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vua Quang Trung cho phép sử dụng chữ viết nào làm chữ viết chính thức của Nhà nước?",
+    "lua_chon": [
+     "Chữ Hán",
+     "Chữ Nôm",
+     "Chữ Quốc ngữ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Chữ viết chính thức thời Quang Trung là gì?",
+     "Pause! What was the official script under Quang Trung?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: chữ Nôm!",
+     "The answer is B: the Nôm script!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một phần khu di tích Gò Đống Đa, thành phố Hà Nội (như Hình 8.7 SGK tr. 40)",
+    "tim": "Đống Đa mound Hanoi Quang Trung statue",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: khu di tích Gò Đống Đa (Hà Nội)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Di tích Gò Đống Đa ở Hà Nội được công nhận là Di tích quốc gia đặc biệt. Vào mồng 5 Tết hằng năm, lễ hội kỉ niệm chiến thắng Ngọc Hồi – Đống Đa được tổ chức rất long trọng.",
+     "The Đống Đa Mound in Hà Nội is a Special National Relic. Every 5th day of Tết, a festival marks the Ngọc Hồi – Đống Đa victory."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1792, vua Quang Trung đột ngột qua đời. Công chúa Ngọc Hân đã viết: Mà nay áo vải cờ đào, giúp dân dựng nước, xiết bao công trình.",
+     "In 1792 Quang Trung died suddenly. Princess Ngọc Hân wrote: in cotton robe under a crimson flag, how much he built to help the people!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyên nhân thắng lợi: tinh thần yêu nước, đồng lòng; tài lãnh đạo của Quang Trung",
+    "Ý nghĩa: xoá bỏ chia cắt, đặt cơ sở thống nhất; đánh tan quân Xiêm, quân Thanh",
+    "Kinh tế: Chiếu khuyến nông, giảm thuế, mở cửa ải, thông chợ búa",
+    "Văn hoá: Chiếu lập học, chữ Nôm là chữ viết chính thức"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Tây Sơn thắng lợi nhờ tinh thần yêu nước và tài lãnh đạo của Quang Trung.",
+     "Remember: Tây Sơn won through patriotism and Quang Trung's leadership."
+    ],
+    [
+     "Hân Hân",
+     "Nhà vua ban Chiếu khuyến nông, Chiếu lập học và đưa chữ Nôm thành chữ viết chính thức.",
+     "He issued the farming and schooling edicts and made Nôm the official script."
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    40
+   ],
+   "tieu_de": "DI SẢN CỦA HOÀNG ĐẾ QUANG TRUNG",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: đánh giá của cậu về vai trò của vua Quang Trung – Nguyễn Huệ trong lịch sử dân tộc là gì? Bình luận nhé!",
+     "Your challenge: how do you assess Quang Trung – Nguyễn Huệ's role in our history? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    40
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vua Quang Trung chọn đóng đô ở đâu?",
+   "dap_an": [
+    "Phú Xuân (thành phố Huế)",
+    "Thăng Long",
+    "Gia Định",
+    "Quy Nhơn"
+   ],
+   "dung": 0,
+   "trang": 40
+  },
+  {
+   "hoi": "Chính sách nào của vua Quang Trung nhằm giải quyết tình trạng ruộng đất bỏ hoang và nạn lưu tán?",
+   "dap_an": [
+    "Chiếu khuyến nông",
+    "Chiếu lập học",
+    "Chiếu dời đô",
+    "Chiếu Cần vương"
+   ],
+   "dung": 0,
+   "trang": 40
+  },
+  {
+   "hoi": "Lễ hội kỉ niệm chiến thắng Ngọc Hồi – Đống Đa được tổ chức vào ngày nào?",
+   "dap_an": [
+    "Mồng 5 Tết Nguyên đán",
+    "Mồng 1 Tết",
+    "Rằm tháng Giêng",
+    "10 – 3 âm lịch"
+   ],
+   "dung": 0,
+   "trang": 40
+  },
+  {
+   "hoi": "Vua Quang Trung qua đời năm nào?",
+   "dap_an": [
+    "1792",
+    "1789",
+    "1802",
+    "1771"
+   ],
+   "dung": 0,
+   "trang": 40
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 39 (mục 3: nguyên nhân thắng lợi; tư liệu 3 lời dụ tướng sĩ) và tr. 40 (ý nghĩa lịch sử; mục 4: đóng đô Phú Xuân, Chiếu khuyến nông, giảm thuế, mở cửa ải thông chợ búa, Chiếu lập học, chữ Nôm, quân đội, ngoại giao; năm 1792 qua đời, thơ Công chúa Ngọc Hân; ô Em có biết Gò Đống Đa). Dùng lại ảnh L8-B8-03 cảnh 6, 7, 16; L8-B7-02 cảnh 15.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,308 @@
+{
+ "ma": "L8-B13-02",
+ "ten_tap": "Tư tưởng tiến bộ và chủ nghĩa xã hội",
+ "ten_tap_en": "Progressive Thought and Socialism",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+  "trang": [
+   59
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "suy tư, khai mở",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 13, tr. 59.",
+ "chinh_sach_hinh": "Không vẽ chân dung nhà tư tưởng bằng AI; chỉ dùng tranh, ảnh tư liệu.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân chỉ lên giá sách triết học",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XVIII – XIX, các ngành khoa học xã hội gắn liền với sự xuất hiện của nhiều trào lưu tư tưởng tiến bộ.",
+     "In the 18th–19th centuries, the social sciences went hand in hand with many progressive currents of thought."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng điểm danh từng trào lưu nhé!",
+     "Let's go through them!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung G. Hê-ghen (1770 – 1831)",
+    "tim": "Hegel portrait Schlesinger",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: G. Hê-ghen (1770 – 1831)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Đức, chủ nghĩa duy vật và phép biện chứng được xây dựng tương đối hoàn thiện, với những đại diện xuất sắc là L. Phoi-ơ-bách và G. Hê-ghen.",
+     "In Germany, materialism and dialectics were developed quite fully, with leading figures Ludwig Feuerbach and Hegel."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung A. Xmít (1723 – 1790)",
+    "tim": "Adam Smith portrait",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: A. Xmít (1723 – 1790)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Anh, kinh tế chính trị học tư sản ra đời với những tác phẩm nổi tiếng của A. Xmít và D. Ri-các-đô.",
+     "In Britain, bourgeois political economy arose with the famous works of Adam Smith and David Ricardo."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung R. Ô-oen (1771 – 1858)",
+    "tim": "Robert Owen portrait",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: R. Ô-oen (1771 – 1858)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chủ nghĩa xã hội không tưởng gắn liền với tên tuổi của C. H. Xanh Xi-mông, S. Phu-ri-ê ở Pháp và R. Ô-oen ở Anh.",
+     "Utopian socialism is linked with Saint-Simon and Fourier in France and Robert Owen in Britain."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Kinh tế chính trị học tư sản ra đời ở nước nào?",
+    "lua_chon": [
+     "Đức",
+     "Anh",
+     "Pháp"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Kinh tế chính trị học tư sản ra đời ở đâu?",
+     "EduHistory asks you! Where did bourgeois political economy arise?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: nước Anh, với A. Xmít và D. Ri-các-đô!",
+     "The answer is B: Britain, with Adam Smith and David Ricardo!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Trang bìa Tuyên ngôn của Đảng Cộng sản, năm 1848 (dùng lại ảnh tư liệu của L8-B11-02 cảnh 8)",
+    "tim": "Communist Manifesto 1848 cover",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B11-02 cảnh 8"
+   },
+   "hinh": "Tư liệu: trang bìa Tuyên ngôn của Đảng Cộng sản (1848)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giữa thế kỉ XIX, chủ nghĩa xã hội khoa học ra đời, do C. Mác và Ph. Ăng-ghen sáng lập, là cuộc cách mạng trong lịch sử tư tưởng của loài người.",
+     "In the mid-19th century, scientific socialism was born, founded by Marx and Engels, a revolution in the history of human thought."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Nhật Minh gật gù đọc sách",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những trào lưu tư tưởng tiến bộ đã lên án mặt trái của chủ nghĩa tư bản, phản ánh khát vọng xây dựng một xã hội mới không có chế độ tư hữu, không có bóc lột,",
+     "These progressive currents condemned the dark side of capitalism and expressed the hope for a new society without private ownership or exploitation,"
+    ],
+    [
+     "Hân Hân",
+     "từng bước hình thành cương lĩnh của giai cấp công nhân trong cuộc đấu tranh chống chủ nghĩa tư bản.",
+     "gradually forming the working class's programme in its struggle against capitalism."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai là người sáng lập chủ nghĩa xã hội khoa học?",
+    "lua_chon": [
+     "A. Xmít và D. Ri-các-đô",
+     "C. Mác và Ph. Ăng-ghen",
+     "Xanh Xi-mông và Phu-ri-ê"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai sáng lập chủ nghĩa xã hội khoa học?",
+     "Pause! Who founded scientific socialism?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: C. Mác và Ph. Ăng-ghen!",
+     "The answer is B: Marx and Engels!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Chủ nghĩa duy vật và phép biện chứng (Đức): L. Phoi-ơ-bách, G. Hê-ghen",
+    "Kinh tế chính trị học tư sản (Anh): A. Xmít, D. Ri-các-đô",
+    "Chủ nghĩa xã hội không tưởng: Xanh Xi-mông, Phu-ri-ê, R. Ô-oen",
+    "Chủ nghĩa xã hội khoa học: C. Mác, Ph. Ăng-ghen"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: chủ nghĩa duy vật và phép biện chứng ở Đức, kinh tế chính trị học tư sản ở Anh,",
+     "Remember: materialism and dialectics in Germany, bourgeois political economy in Britain,"
+    ],
+    [
+     "Nhật Minh",
+     "chủ nghĩa xã hội không tưởng, và chủ nghĩa xã hội khoa học của C. Mác, Ph. Ăng-ghen.",
+     "utopian socialism, and the scientific socialism of Marx and Engels."
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "tieu_de": "TƯ TƯỞNG TIẾN BỘ THẾ KỈ XVIII – XIX",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: các trào lưu tư tưởng tiến bộ đã phản ánh khát vọng gì của con người? Bình luận nhé!",
+     "Your challenge: what human aspirations did these progressive currents reflect? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    59
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đại diện xuất sắc của chủ nghĩa duy vật và phép biện chứng ở Đức là ai?",
+   "dap_an": [
+    "L. Phoi-ơ-bách và G. Hê-ghen",
+    "A. Xmít và D. Ri-các-đô",
+    "Xanh Xi-mông và Phu-ri-ê",
+    "Mô-da và Bách"
+   ],
+   "dung": 0,
+   "trang": 59
+  },
+  {
+   "hoi": "R. Ô-oen gắn với trào lưu tư tưởng nào?",
+   "dap_an": [
+    "Chủ nghĩa xã hội không tưởng",
+    "Kinh tế chính trị học tư sản",
+    "Chủ nghĩa duy vật",
+    "Triết học Ánh sáng"
+   ],
+   "dung": 0,
+   "trang": 59
+  },
+  {
+   "hoi": "Chủ nghĩa xã hội khoa học ra đời vào khoảng thời gian nào?",
+   "dap_an": [
+    "Giữa thế kỉ XIX",
+    "Đầu thế kỉ XVIII",
+    "Thế kỉ XVI",
+    "Đầu thế kỉ XX"
+   ],
+   "dung": 0,
+   "trang": 59
+  },
+  {
+   "hoi": "Các trào lưu tư tưởng tiến bộ đã lên án điều gì?",
+   "dap_an": [
+    "Mặt trái của chủ nghĩa tư bản",
+    "Khoa học tự nhiên",
+    "Giáo dục",
+    "Nghệ thuật"
+   ],
+   "dung": 0,
+   "trang": 59
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 59 (khoa học xã hội: chủ nghĩa duy vật và phép biện chứng – Phoi-ơ-bách, Hê-ghen; kinh tế chính trị học tư sản – A. Xmít, D. Ri-các-đô; chủ nghĩa xã hội không tưởng – Xanh Xi-mông, Phu-ri-ê, Ô-oen; chủ nghĩa xã hội khoa học giữa thế kỉ XIX – Mác, Ăng-ghen; lên án mặt trái chủ nghĩa tư bản). Chân dung là tranh tư liệu thuộc phạm vi công cộng; dùng lại ảnh tư liệu L8-B11-02 cảnh 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "ma": "L8-B5-04",
+ "ten_tap": "Hệ quả: Nỗi đau và sự mở mang",
+ "ten_tap_en": "Consequences: Suffering and Expansion",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 5. Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+  "trang": [
+   25,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-binh-khiem"
+ ],
+ "nhac": {
+  "tam_trang": "trầm buồn, hy vọng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 5, tr. 25–27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh lật trang sách về thế kỉ XVI – XVIII",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hai cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn kéo dài để lại điều gì?",
+     "What did the long Northern–Southern Dynasties and Trịnh–Nguyễn conflicts leave behind?"
+    ]
+   ],
+   "nguon_trang": [
+    25,
+    27
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-dai-viet"
+   ],
+   "hinh": "Dùng lại ảnh L8-B5-02 cảnh 13 (khung dọc cắt giữa ảnh): làng quê đồng bằng sau chiến tranh, nhà tranh đổ nát, ruộng đồng cỏ mọc um tùm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Xung đột Nam – Bắc triều kéo dài gần 60 năm. Làng mạc bị tàn phá, sản xuất đình trệ; đời sống nhân dân khốn cùng vì nạn đói, vì bị bắt đi lính, đi phu, nhiều gia đình phải li tán.",
+     "The Northern–Southern conflict lasted nearly 60 years. Villages were destroyed and production stalled; people suffered famine, conscription and forced labour, and many families were torn apart."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B5-02/canh-13.jpg",
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-binh-khiem"
+   ],
+   "hinh": "Dùng lại ảnh L8-B5-02 cảnh 14 (khung dọc cắt giữa ảnh): nhà thơ Nguyễn Bỉnh Khiêm, cụ già râu tóc bạc, khăn xếp, áo the, ngồi bên án thư",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyễn Bỉnh Khiêm đã viết trong bài thơ Thương loạn: Cả một vùng từ đông sang tây, đồng ruộng chẳng có gì cày cấy; chiến tranh cứ nối tiếp nhau, tai hoạ thật là cùng cực.",
+     "Nguyễn Bỉnh Khiêm wrote in his poem Lament for the Turmoil: from east to west, no fields are ploughed; war follows war, and the misery is extreme."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B5-02/canh-14.jpg",
+   "nguon_trang": [
+    25
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "luu-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B5-03 cảnh 16 (khung dọc cắt giữa ảnh): bên trái đồng ruộng bị tàn phá, bên phải những đoàn người gồng gánh, dắt trâu đi về phía nam khai hoang",
+   "loi": [
+    [
+     "Hân Hân",
+     "Xung đột Trịnh – Nguyễn làm suy kiệt sức người, sức của và chia cắt đất nước.",
+     "The Trịnh–Nguyễn conflict exhausted people and resources and divided the country."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy nhiên, nhiều đợt di dân từ Đàng Ngoài vào Đàng Trong đã đẩy nhanh quá trình khai phá vùng đất phía Nam, làm cho lãnh thổ Đại Việt được mở rộng.",
+     "Yet waves of migration from the North to the South sped up the opening of southern lands, expanding Đại Việt's territory."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B5-03/canh-16.jpg",
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong thời gian xung đột Trịnh – Nguyễn, điều gì đã giúp lãnh thổ Đại Việt được mở rộng?",
+    "lua_chon": [
+     "Các đợt di dân khai phá vùng đất phía Nam",
+     "Chiến tranh với nhà Minh",
+     "Buôn bán với châu Âu"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Điều gì giúp lãnh thổ Đại Việt mở rộng?",
+     "EduHistory asks you! What expanded Đại Việt's territory?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: các đợt di dân khai phá vùng đất phía Nam!",
+     "The answer is A: migrations that opened up the southern lands!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nếu là một người dân sống ở thế kỉ XVI – XVII, cậu sẽ đưa ra lí do gì để phản đối các cuộc xung đột ấy? Bình luận nhé!",
+     "If you lived in the 16th–17th century, what reason would you give to oppose those wars? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Xung đột Nam – Bắc triều kéo dài trong khoảng thời gian nào?",
+   "dap_an": [
+    "1533 – 1592",
+    "1627 – 1672",
+    "1771 – 1802",
+    "1527 – 1545"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Ai đã viết bài thơ Thương loạn miêu tả nỗi khổ do chiến tranh?",
+   "dap_an": [
+    "Nguyễn Bỉnh Khiêm",
+    "Nguyễn Du",
+    "Hồ Xuân Hương",
+    "Lê Quý Đôn"
+   ],
+   "dung": 0,
+   "trang": 25
+  },
+  {
+   "hoi": "Đâu là hệ quả của xung đột Trịnh – Nguyễn?",
+   "dap_an": [
+    "Suy kiệt sức người, sức của, chia cắt đất nước",
+    "Đất nước thống nhất",
+    "Kinh tế phát triển mạnh",
+    "Đánh đuổi quân Thanh"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Đời sống nhân dân trong xung đột Nam – Bắc triều ra sao?",
+   "dap_an": [
+    "Khốn cùng vì nạn đói, bị bắt đi lính, đi phu",
+    "Sung túc",
+    "Không thay đổi",
+    "Giàu lên nhờ buôn bán"
+   ],
+   "dung": 0,
+   "trang": 25
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 25 (xung đột gần 60 năm 1533 – 1592; hệ quả: chia cắt, làng mạc tàn phá, sản xuất đình trệ, đời sống khốn cùng; thơ Thương loạn của Nguyễn Bỉnh Khiêm) và tr. 27 (hệ quả xung đột Trịnh – Nguyễn; di dân vào Đàng Trong, mở rộng lãnh thổ; Vận dụng 1). Khung dọc; dùng lại ảnh L8-B5-02 cảnh 13, 14; L8-B5-03 cảnh 16.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

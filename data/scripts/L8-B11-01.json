@@ -1,0 +1,192 @@
+{
+ "ma": "L8-B11-01",
+ "ten_tap": "Giai cấp công nhân ra đời từ đâu?",
+ "ten_tap_en": "Where Did the Working Class Come From?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 11. Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+  "trang": [
+   50,
+   51
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, mạnh mẽ",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 11, tr. 50–51.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm cuốn sách có hình ống khói nhà máy",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Giai cấp công nhân ra đời từ đâu nhỉ?",
+     "Where did the working class come from?"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B3-03 cảnh 8 (khung dọc cắt giữa ảnh): toàn cảnh một thành phố công nghiệp Anh giữa thế kỉ XIX, hàng loạt ống khói nhà máy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng công nghiệp đã làm thay đổi bộ mặt các nước tư bản, nhiều khu công nghiệp, thành thị lớn xuất hiện.",
+     "The Industrial Revolution transformed capitalist countries, giving rise to industrial zones and big cities."
+    ],
+    [
+     "Nhật Minh",
+     "Đông đảo nông dân bị mất ruộng đất buộc phải ra thành thị làm thuê trong các nhà máy, hầm mỏ.",
+     "Masses of peasants who lost their land had to go to the cities to work for wages in factories and mines."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B3-03/canh-08.jpg",
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một cuộc biểu tình trong phong trào Hiến chương Anh năm 1848 (như Hình 11.3 SGK tr. 50)",
+    "tim": "Chartist meeting Kennington Common 1848",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: phong trào Hiến chương Anh năm 1848",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai cấp công nhân dần hình thành trong bối cảnh đó và cùng với giai cấp tư sản trở thành hai giai cấp cơ bản trong xã hội tư bản chủ nghĩa.",
+     "That is how the working class formed, becoming, together with the bourgeoisie, one of the two basic classes of capitalist society."
+    ],
+    [
+     "Nhật Minh",
+     "Trong những năm 30 – 40 của thế kỉ XIX, giai cấp công nhân ngày càng đông đảo về đội ngũ, trưởng thành về nhận thức.",
+     "In the 1830s–1840s, the working class grew ever larger and more conscious."
+    ]
+   ],
+   "nguon_trang": [
+    50,
+    51
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Giai cấp công nhân hình thành chủ yếu từ những người nào?",
+    "lua_chon": [
+     "Quý tộc mất đất",
+     "Nông dân bị mất ruộng đất phải ra thành thị làm thuê",
+     "Thương nhân giàu có"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Giai cấp công nhân hình thành từ ai?",
+     "EduHistory asks you! Who formed the working class?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: nông dân bị mất ruộng đất phải ra thành thị làm thuê!",
+     "The answer is B: peasants who lost their land and went to cities to work for wages!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hai giai cấp cơ bản của xã hội tư bản chủ nghĩa là gì? Bình luận câu trả lời nhé!",
+     "What are the two basic classes of capitalist society? Comment your answer!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Điều gì làm xuất hiện nhiều khu công nghiệp, thành thị lớn ở các nước tư bản?",
+   "dap_an": [
+    "Cách mạng công nghiệp",
+    "Phát kiến địa lí",
+    "Cải cách tôn giáo",
+    "Văn hoá Phục hưng"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Giai cấp công nhân cùng giai cấp nào trở thành hai giai cấp cơ bản trong xã hội tư bản chủ nghĩa?",
+   "dap_an": [
+    "Giai cấp tư sản",
+    "Giai cấp địa chủ",
+    "Giai cấp nông dân",
+    "Tầng lớp quý tộc"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Phong trào Hiến chương diễn ra ở nước nào?",
+   "dap_an": [
+    "Anh",
+    "Pháp",
+    "Đức",
+    "Mỹ"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Trong những năm 30 – 40 của thế kỉ XIX, giai cấp công nhân thay đổi thế nào?",
+   "dap_an": [
+    "Ngày càng đông đảo về đội ngũ, trưởng thành về nhận thức",
+    "Giảm dần",
+    "Trở về nông thôn",
+    "Biến mất"
+   ],
+   "dung": 0,
+   "trang": 51
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 50 (mục 1: cách mạng công nghiệp, khu công nghiệp, nông dân mất ruộng đất làm thuê trong nhà máy, hầm mỏ; giai cấp công nhân cùng tư sản là hai giai cấp cơ bản; Hình 11.3 phong trào Hiến chương Anh 1848) và tr. 51 (những năm 30 – 40 thế kỉ XIX). Khung dọc; dùng lại ảnh L8-B3-03 cảnh 8; ảnh phong trào Hiến chương là ảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "ma": "L9-B16-05",
+ "ten_tap": "Tóm tắt nhanh: Giai đoạn 1954 – 1965",
+ "ten_tap_en": "Quick Recap: 1954–1965",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+  "trang": [
+   80,
+   81,
+   82,
+   83,
+   84
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 16, tr. 80–84.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng chia đôi: Miền Bắc | Miền Nam, 1954 – 1965",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tóm tắt nhanh giai đoạn 1954 – 1965: miền Bắc xây dựng, miền Nam đấu tranh!",
+     "Quick recap of 1954–1965: the North built, the South fought!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu thanh niên miền Bắc trong phong trào Ba sẵn sàng (1964) (như Hình 16.4 SGK tr. 82)",
+    "tim": "Ba san sang youth movement 1964 photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: phong trào Ba sẵn sàng (1964)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Miền Bắc hoàn thành cải cách ruộng đất, khôi phục kinh tế, thực hiện kế hoạch 5 năm lần thứ nhất từ năm 1961 đến năm 1965, trở thành hậu phương vững chắc.",
+     "The North completed land reform, restored its economy and carried out the first five-year plan, 1961 to 1965, becoming a solid rear base."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1961 đến năm 1963, khoảng 4 vạn cán bộ, chiến sĩ được bổ sung cho chiến trường miền Nam.",
+     "From 1961 to 1963, about 40,000 cadres and soldiers were sent to reinforce the South."
+    ]
+   ],
+   "nguon_trang": [
+    81,
+    82
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh Nhà truyền thống Đồng khởi (Bến Tre) (dùng lại ảnh tư liệu của L9-B16-03 cảnh 7, tìm lại theo khung dọc)",
+    "tim": "Dong Khoi Ben Tre",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: di tích Đồng khởi Bến Tre",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở miền Nam, ngày 17 tháng 1 năm 1960, phong trào Đồng khởi bùng nổ ở Bến Tre, chuyển cách mạng từ thế giữ gìn lực lượng sang thế tiến công.",
+     "In the South, on 17 January 1960, the Concerted Uprising broke out in Bến Tre, shifting the revolution from preserving forces to the offensive."
+    ],
+    [
+     "Hân Hân",
+     "Quân dân miền Nam từng bước đánh bại chiến lược Chiến tranh đặc biệt của Mỹ, từ năm 1961 đến năm 1965.",
+     "The southern army and people gradually defeated America's Special War strategy from 1961 to 1965."
+    ]
+   ],
+   "nguon_trang": [
+    83,
+    84
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào Đồng khởi bắt đầu ở tỉnh nào?",
+    "lua_chon": [
+     "Bến Tre",
+     "Quảng Ngãi",
+     "Tây Ninh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Phong trào Đồng khởi bùng nổ ở đâu?",
+     "EduHistory asks you! Where did the Concerted Uprising begin?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Bến Tre, ngày 17 tháng 1 năm 1960! Đoàn kết Bắc – Nam là yếu tố quyết định thắng lợi.",
+     "The answer is A: Bến Tre, 17 January 1960! North–South unity was the key to victory."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kế hoạch 5 năm lần thứ nhất ở miền Bắc diễn ra trong những năm nào?",
+   "dap_an": [
+    "1961 – 1965",
+    "1955 – 1957",
+    "1958 – 1960",
+    "1976 – 1980"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Phong trào Đồng khởi ở Bến Tre bùng nổ ngày nào?",
+   "dap_an": [
+    "17 – 1 – 1960",
+    "20 – 12 – 1960",
+    "2 – 1959",
+    "8 – 1959"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời ngày nào?",
+   "dap_an": [
+    "20 – 12 – 1960",
+    "17 – 1 – 1960",
+    "6 – 6 – 1969",
+    "30 – 4 – 1975"
+   ],
+   "dung": 0,
+   "trang": 83
+  },
+  {
+   "hoi": "Từ năm 1961 đến năm 1963, khoảng bao nhiêu cán bộ, chiến sĩ được bổ sung cho chiến trường miền Nam?",
+   "dap_an": [
+    "Khoảng 4 vạn",
+    "Khoảng 4 nghìn",
+    "Khoảng 40 vạn",
+    "Khoảng 400"
+   ],
+   "dung": 0,
+   "trang": 82
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 80 – 82 (cải cách ruộng đất, khôi phục kinh tế; kế hoạch 5 năm 1961 – 1965; 1961 – 1963 khoảng 4 vạn cán bộ, chiến sĩ; Hình 16.4 Ba sẵn sàng 1964), tr. 83 (Đồng khởi 17 – 1 – 1960 Bến Tre, chuyển sang thế tiến công; Mặt trận DTGP 20 – 12 – 1960) và tr. 84 (đánh bại Chiến tranh đặc biệt). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

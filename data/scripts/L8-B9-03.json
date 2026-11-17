@@ -1,0 +1,404 @@
+{
+ "ma": "L8-B9-03",
+ "ten_tap": "Sự ra đời của chữ Quốc ngữ và văn học Nôm",
+ "ten_tap_en": "The Birth of Quốc ngữ and Nôm Literature",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+  "trang": [
+   44,
+   45
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-binh-khiem"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, khám phá",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 9, tr. 44–45.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm cuốn vở viết chữ Quốc ngữ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chữ Quốc ngữ tụi mình viết mỗi ngày ra đời từ khi nào nhỉ?",
+     "When was the Quốc ngữ script we write every day born?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng giải mã nguồn gốc chữ Quốc ngữ và sự nở rộ của văn học chữ Nôm thế kỉ XVI – XVIII nhé!",
+     "Let's decode Quốc ngữ's origins and the blossoming of Nôm literature in the 16th–18th centuries!"
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư tưởng, tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "si-tu"
+   ],
+   "hinh": "Dùng lại ảnh L7-B15-02 cảnh 12: trường thi, các sĩ tử áo the khăn vấn ngồi làm bài, quan coi thi đi giữa các hàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nho giáo vẫn được chính quyền phong kiến đề cao trong học tập, thi cử và tuyển chọn quan lại. Phật giáo và Đạo giáo được phục hồi.",
+     "Confucianism was still promoted in study, exams and official selection. Buddhism and Daoism revived."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B15-02/canh-12.jpg",
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dan-lang"
+   ],
+   "hinh": "Ngày hội làng ở một làng quê Đàng Ngoài thế kỉ XVII – XVIII: trước sân đình mái ngói cong, dân làng áo nâu, áo the, khăn vấn rước chiếc kiệu gỗ sơn son thếp vàng (kiệu trống, không có tượng), cờ vải trơn nhiều màu, người đánh trống, đánh chiêng; trẻ em chạy theo xem",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1533, Công giáo được truyền bá vào nước ta, đến thế kỉ XVIII được lan truyền trong cả nước.",
+     "In 1533 Catholicism reached our country, spreading nationwide by the 18th century."
+    ],
+    [
+     "Nhật Minh",
+     "Tại các làng xã, nhân dân vẫn giữ nếp sinh hoạt truyền thống như thờ Thành hoàng, thờ cúng tổ tiên, tổ chức lễ hội hằng năm, thể hiện tinh thần đoàn kết, yêu quê hương, đất nước.",
+     "In villages, people kept traditions such as worshipping the village guardian and ancestors and holding yearly festivals, showing unity and love of homeland."
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Công giáo được truyền bá vào nước ta từ năm nào?",
+    "lua_chon": [
+     "Năm 1533",
+     "Năm 1771",
+     "Năm 1802"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Công giáo được truyền bá vào nước ta năm nào?",
+     "EduHistory asks you! When did Catholicism reach our country?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 1533!",
+     "The answer is A: 1533!"
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ Quốc ngữ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một trang sách in chữ Quốc ngữ thời kì đầu (thế kỉ XVII)",
+    "tim": "Dictionarium Annamiticum Lusitanum et Latinum 1651",
+    "yeu_cau": "bản in thuộc phạm vi công cộng, ghi nguồn; không có hình tôn giáo"
+   },
+   "hinh": "Tư liệu: một trang sách chữ Quốc ngữ thời kì đầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng với sự truyền bá của Công giáo, chữ Quốc ngữ theo mẫu tự La-tinh cũng được sáng tạo.",
+     "Along with Catholicism, the Quốc ngữ script using the Latin alphabet was created."
+    ],
+    [
+     "Hân Hân",
+     "Ban đầu, các giáo sĩ phương Tây học tiếng Việt để truyền đạo. Trong quá trình đó, họ dùng chữ cái La-tinh để ghi âm tiếng Việt, tạo ra chữ Quốc ngữ.",
+     "Western missionaries first learned Vietnamese to preach, and in doing so used Latin letters to write Vietnamese sounds, creating Quốc ngữ."
+    ],
+    [
+     "Nhật Minh",
+     "Loại chữ này dần dần được sử dụng phổ biến vì rất tiện lợi và khoa học.",
+     "It gradually spread because it was so convenient and scientific."
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chữ Quốc ngữ được tạo ra dựa trên mẫu tự nào?",
+    "lua_chon": [
+     "Chữ Hán",
+     "Chữ Nôm",
+     "Chữ cái La-tinh"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chữ Quốc ngữ dựa trên mẫu tự nào?",
+     "Pause! Which alphabet is Quốc ngữ based on?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: chữ cái La-tinh!",
+     "The answer is C: the Latin alphabet!"
+    ]
+   ],
+   "nguon_trang": [
+    44
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Nhật Minh mở cuốn sách chép chữ Nôm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy văn học chữ Hán vẫn chiếm ưu thế, nhưng văn học chữ Nôm đã phát triển mạnh hơn trước. Thơ Nôm và truyện Nôm xuất hiện ngày càng nhiều.",
+     "Though Chinese-script literature still dominated, Nôm literature grew stronger, with ever more Nôm poems and tales."
+    ],
+    [
+     "Nhật Minh",
+     "Thiên Nam ngữ lục là bộ diễn ca lịch sử bằng chữ Nôm tiêu biểu, có giá trị cả về văn học và sử học.",
+     "Thiên Nam ngữ lục, a verse history in Nôm, is valuable for both literature and history."
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-binh-khiem"
+   ],
+   "hinh": "Dùng lại ảnh L8-B5-02 cảnh 14: nhà thơ Nguyễn Bỉnh Khiêm, cụ già râu tóc bạc, khăn xếp, áo the, ngồi bên án thư",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nhà thơ nổi tiếng như Nguyễn Bỉnh Khiêm, Phùng Khắc Khoan, Đào Duy Từ đều có những bài thơ hay bằng chữ Nôm.",
+     "Famous poets such as Nguyễn Bỉnh Khiêm, Phùng Khắc Khoan and Đào Duy Từ wrote fine Nôm poems."
+    ],
+    [
+     "Nhật Minh",
+     "Nguyễn Bỉnh Khiêm đỗ Trạng nguyên thời Mạc, dân gian quen gọi là Trạng Trình. Ông sáng tác tập thơ Nôm Bạch Vân Quốc ngữ thi tập có giá trị cao.",
+     "Nguyễn Bỉnh Khiêm, top laureate under the Mạc, known as Trạng Trình, wrote the acclaimed Nôm collection Bạch Vân Quốc ngữ thi tập."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B5-02/canh-14.jpg",
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân cười khi đọc một câu chuyện",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn học dân gian phát triển với nhiều thể loại như truyện tiếu lâm, truyện Trạng Quỳnh, Trạng Lợn.",
+     "Folk literature flourished, with jokes and tales like Trạng Quỳnh and Trạng Lợn."
+    ],
+    [
+     "Nhật Minh",
+     "Thể thơ lục bát và song thất lục bát được sử dụng rộng rãi.",
+     "The lục bát and song thất lục bát verse forms were widely used."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thiên Nam ngữ lục là gì?",
+    "lua_chon": [
+     "Bộ diễn ca lịch sử bằng chữ Nôm",
+     "Một bộ luật",
+     "Một cuốn từ điển chữ Hán"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thiên Nam ngữ lục là gì?",
+     "EduHistory asks you! What is Thiên Nam ngữ lục?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: bộ diễn ca lịch sử bằng chữ Nôm tiêu biểu!",
+     "The answer is A: a landmark verse history in Nôm!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Tôn giáo: Nho giáo đề cao; Phật giáo, Đạo giáo phục hồi; Công giáo du nhập (1533)",
+    "Chữ Quốc ngữ: giáo sĩ phương Tây dùng chữ cái La-tinh ghi âm tiếng Việt",
+    "Văn học chữ Nôm phát triển: Thiên Nam ngữ lục; Nguyễn Bỉnh Khiêm",
+    "Văn học dân gian: truyện tiếu lâm, Trạng Quỳnh; thơ lục bát"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Nho giáo vẫn giữ vị trí chủ đạo, Công giáo du nhập năm 1533; chữ Quốc ngữ ra đời từ nhu cầu truyền đạo.",
+     "Remember: Confucianism stayed dominant, Catholicism arrived in 1533, and Quốc ngữ arose from missionary needs."
+    ],
+    [
+     "Hân Hân",
+     "Văn học chữ Nôm phát triển mạnh, tiêu biểu là Thiên Nam ngữ lục.",
+     "Nôm literature flourished, above all Thiên Nam ngữ lục."
+    ]
+   ],
+   "nguon_trang": [
+    44,
+    45
+   ],
+   "tieu_de": "CHỮ QUỐC NGỮ VÀ VĂN HỌC NÔM",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kể tên những con đường, ngôi trường mang tên danh nhân Đại Việt thế kỉ XVI – XVIII mà cậu biết nhé!",
+     "Your challenge: name streets or schools named after 16th–18th-century Đại Việt notables!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong các thế kỉ XVI – XVIII, tôn giáo, tư tưởng nào được chính quyền phong kiến đề cao trong học tập, thi cử?",
+   "dap_an": [
+    "Nho giáo",
+    "Phật giáo",
+    "Đạo giáo",
+    "Công giáo"
+   ],
+   "dung": 0,
+   "trang": 44
+  },
+  {
+   "hoi": "Vì sao chữ Quốc ngữ dần được sử dụng phổ biến?",
+   "dap_an": [
+    "Vì rất tiện lợi và khoa học",
+    "Vì bị bắt buộc",
+    "Vì giống chữ Hán",
+    "Vì chỉ dùng trong nhà thờ"
+   ],
+   "dung": 0,
+   "trang": 44
+  },
+  {
+   "hoi": "Nguyễn Bỉnh Khiêm được dân gian quen gọi là gì?",
+   "dap_an": [
+    "Trạng Trình",
+    "Trạng Quỳnh",
+    "Trạng Lợn",
+    "Trạng Lường"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Tập thơ Nôm nổi tiếng của Nguyễn Bỉnh Khiêm là gì?",
+   "dap_an": [
+    "Bạch Vân Quốc ngữ thi tập",
+    "Thiên Nam ngữ lục",
+    "Truyện Kiều",
+    "Chinh phụ ngâm"
+   ],
+   "dung": 0,
+   "trang": 45
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 44 (mục 3: Nho giáo đề cao, Phật giáo, Đạo giáo phục hồi; Công giáo năm 1533; thờ Thành hoàng, tổ tiên, lễ hội; chữ Quốc ngữ – giáo sĩ phương Tây dùng chữ cái La-tinh ghi âm tiếng Việt, tiện lợi, khoa học; văn học chữ Hán ưu thế, chữ Nôm phát triển) và tr. 45 (Thiên Nam ngữ lục; Nguyễn Bỉnh Khiêm, Phùng Khắc Khoan, Đào Duy Từ; Trạng Trình, Bạch Vân Quốc ngữ thi tập; văn học dân gian; lục bát, song thất lục bát; Vận dụng 2). Dùng lại ảnh L7-B15-02 cảnh 12, L8-B5-02 cảnh 14; một cảnh tái hiện mới (lễ hội làng, không vẽ thần linh); không vẽ giáo sĩ bằng AI.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

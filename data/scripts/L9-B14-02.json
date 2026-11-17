@@ -1,0 +1,226 @@
+{
+ "ma": "L9-B14-02",
+ "ten_tap": "Kháng chiến nhất định thắng lợi",
+ "ten_tap_en": "The Resistance Will Surely Win",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 14. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+  "trang": [
+   68
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hào hùng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 14, tr. 68.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Kháng chiến nhất định thắng lợi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối năm 1946, thực dân Pháp quyết tâm xâm lược nước ta một lần nữa. Ta đã kháng chiến theo đường lối nào?",
+     "In late 1946, the French were determined to invade our country again. What line did our resistance follow?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu chiến sĩ Vệ quốc quân mùa đông năm 1946 (dùng lại ảnh tư liệu của L9-B14-03 cảnh 3)",
+    "tim": "Ve quoc quan 1946",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B14-03 cảnh 3"
+   },
+   "hinh": "Ảnh tư liệu: chiến sĩ Vệ quốc quân mùa đông năm 1946",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước tình thế cấp bách, Ban Thường vụ Trung ương Đảng quyết định phát động kháng chiến toàn quốc. Tối 19 tháng 12 năm 1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến.",
+     "Facing the emergency, the Party Standing Committee decided on nationwide resistance. On the evening of 19 December 1946, President Hồ Chí Minh issued the Appeal for National Resistance."
+    ],
+    [
+     "Hân Hân",
+     "Lời kêu gọi có đoạn: Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc.",
+     "It said: whoever is Vietnamese must rise up and fight the French colonialists to save the Fatherland."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Tổng Bí thư Trường Chinh",
+    "tim": "Truong Chinh portrait photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: Tổng Bí thư Trường Chinh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đường lối kháng chiến thể hiện trong Chỉ thị Toàn dân kháng chiến ngày 12 tháng 12 năm 1946, Lời kêu gọi toàn quốc kháng chiến,",
+     "The line was set out in the 'Whole People's Resistance' directive of 12 December 1946, the Appeal for National Resistance,"
+    ],
+    [
+     "Hân Hân",
+     "và tác phẩm Kháng chiến nhất định thắng lợi của Tổng Bí thư Trường Chinh, tháng 9 năm 1947.",
+     "and General Secretary Trường Chinh's work 'The Resistance Will Surely Win', September 1947."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "y": [
+    "Toàn dân: không phân biệt giai cấp, tôn giáo, đảng phái",
+    "Toàn diện: quân sự, chính trị, kinh tế…",
+    "Trường kì: lực lượng ban đầu chênh lệch, phải đánh lâu dài",
+    "Tự lực cánh sinh, tranh thủ sự giúp đỡ quốc tế"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Kháng chiến toàn dân, không phân biệt giai cấp, tôn giáo, đảng phái; toàn diện, trên mọi mặt trận quân sự, chính trị, kinh tế.",
+     "A people's war, regardless of class, religion or party; all-round, on every front: military, political, economic."
+    ],
+    [
+     "Nhật Minh",
+     "Trường kì, vì lúc đầu lực lượng ta và địch chênh lệch; tự lực cánh sinh, vận mệnh dân tộc do chính nhân dân ta quyết định, sự giúp đỡ bên ngoài chỉ là hỗ trợ.",
+     "Protracted, since forces were unequal at first; and self-reliant: the nation's fate was ours to decide, with outside help only supporting."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ],
+   "tieu_de": "ĐƯỜNG LỐI KHÁNG CHIẾN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao cuộc kháng chiến chống Pháp phải tiến hành trường kì?",
+    "lua_chon": [
+     "Vì ta muốn kéo dài thời gian",
+     "Vì so sánh lực lượng ban đầu giữa ta và địch chênh lệch",
+     "Vì không có đường lối"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Vì sao phải kháng chiến trường kì?",
+     "EduHistory asks you! Why did the resistance have to be protracted?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: vì lúc đầu lực lượng giữa ta và địch chênh lệch!",
+     "The answer is B: because at first our forces were much weaker than the enemy's!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong bốn nội dung của đường lối kháng chiến, nội dung nào cậu thấy quan trọng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: of the four elements of the resistance line, which do you think mattered most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Lời kêu gọi toàn quốc kháng chiến được ra vào ngày nào?",
+   "dap_an": [
+    "19 – 12 – 1946",
+    "12 – 12 – 1946",
+    "2 – 9 – 1945",
+    "9 – 1947"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Tác phẩm Kháng chiến nhất định thắng lợi là của ai?",
+   "dap_an": [
+    "Trường Chinh",
+    "Hồ Chí Minh",
+    "Võ Nguyên Giáp",
+    "Phạm Văn Đồng"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Kháng chiến toàn diện nghĩa là gì?",
+   "dap_an": [
+    "Diễn ra trên mọi mặt trận: quân sự, chính trị, kinh tế…",
+    "Chỉ đánh bằng quân sự",
+    "Chỉ đấu tranh ngoại giao",
+    "Chỉ ở thành thị"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Chỉ thị Toàn dân kháng chiến được ban hành ngày nào?",
+   "dap_an": [
+    "12 – 12 – 1946",
+    "19 – 12 – 1946",
+    "23 – 9 – 1945",
+    "1 – 1947"
+   ],
+   "dung": 0,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 68 (Ban Thường vụ phát động kháng chiến; tối 19 – 12 – 1946 Lời kêu gọi toàn quốc kháng chiến; tư liệu 1; đường lối thể hiện trong Chỉ thị Toàn dân kháng chiến 12 – 12 – 1946, Lời kêu gọi, Kháng chiến nhất định thắng lợi – Trường Chinh 9 – 1947; Hình 14.2: toàn dân, toàn diện, trường kì, tự lực cánh sinh và tranh thủ giúp đỡ quốc tế). Dùng lại ảnh L9-B14-03 cảnh 3.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

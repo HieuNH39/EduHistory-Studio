@@ -1,0 +1,279 @@
+{
+ "ma": "L9-B12-05",
+ "ten_tap": "Ấn Độ: Tự chủ và phát triển",
+ "ten_tap_en": "India: Self-Reliance and Development",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+  "trang": [
+   57
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tươi sáng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 12, tr. 57.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Ấn Độ 1945 – 1991",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ hai, Ấn Độ đã giành độc lập và tự chủ phát triển như thế nào?",
+     "After World War Two, how did India win independence and develop on its own?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng xem nhé!",
+     "Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng vẽ hai ô: Ấn Độ | Pa-ki-xtan, ghi: Kế hoạch Mao-bát-tơn (1947)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phong trào đấu tranh chống thực dân Anh do Đảng Quốc đại lãnh đạo bùng phát mạnh mẽ. Năm 1947, Anh phải trao quyền tự trị cho Ấn Độ theo Kế hoạch Mao-bát-tơn,",
+     "The anti-British struggle led by the Congress Party surged. In 1947, Britain had to grant India self-rule under the Mountbatten Plan,"
+    ],
+    [
+     "Hân Hân",
+     "chia thành hai quốc gia trên cơ sở tôn giáo: Ấn Độ của người theo Hin-đu giáo và Pa-ki-xtan của người theo Hồi giáo.",
+     "dividing it into two states by religion: India for Hindus and Pakistan for Muslims."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu lễ diễu hành thành lập nước Cộng hoà Ấn Độ tại Niu Đê-li (26 – 1 – 1950)",
+    "tim": "Republic Day parade 1950 New Delhi photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: lễ thành lập Cộng hoà Ấn Độ (26 – 1 – 1950)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Không thoả mãn với quy chế tự trị, nhân dân Ấn Độ tiếp tục đấu tranh. Ngày 26 tháng 1 năm 1950, Ấn Độ ban hành Hiến pháp, tuyên bố thành lập nước cộng hoà.",
+     "Unsatisfied with self-rule, Indians kept fighting. On 26 January 1950, India adopted its Constitution and became a republic."
+    ],
+    [
+     "Hân Hân",
+     "Đây là sự kiện trọng đại, mở ra thời kì độc lập và ảnh hưởng sâu sắc đến phong trào giải phóng dân tộc thế giới.",
+     "It was a momentous event that began India's independence and deeply influenced liberation movements worldwide."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nước Cộng hoà Ấn Độ được thành lập ngày nào?",
+    "lua_chon": [
+     "15 – 8 – 1947",
+     "26 – 1 – 1950",
+     "1 – 10 – 1949"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ấn Độ tuyên bố thành lập nước cộng hoà ngày nào?",
+     "Pause! When did India become a republic?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 26 tháng 1 năm 1950!",
+     "The answer is B: 26 January 1950!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xây dựng đất nước",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cánh đồng lúa mì ở Ấn Độ",
+    "tim": "wheat field Punjab India",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: cánh đồng lúa mì ở Ấn Độ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhờ Cách mạng xanh trong nông nghiệp, Ấn Độ không chỉ tự túc được lương thực mà còn xuất khẩu.",
+     "Thanks to the Green Revolution in agriculture, India not only fed itself but also exported grain."
+    ],
+    [
+     "Nhật Minh",
+     "Công nghiệp nặng tương đối phát triển; đến những năm 80, Ấn Độ đứng thứ 10 trong các nước sản xuất công nghiệp lớn nhất thế giới.",
+     "Heavy industry developed; by the 1980s India ranked tenth among the world's biggest industrial producers."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: 1974 bom nguyên tử; 1975 vệ tinh nhân tạo; đối ngoại trung lập",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khoa học – công nghệ tiến nhanh: chế tạo thành công bom nguyên tử năm 1974, phóng vệ tinh nhân tạo lên quỹ đạo năm 1975.",
+     "Science and technology advanced quickly: India built an atomic bomb in 1974 and put a satellite into orbit in 1975."
+    ],
+    [
+     "Nhật Minh",
+     "Thể chế cộng hoà liên bang được củng cố, địa vị quốc tế được xác lập với đường lối đối ngoại trung lập.",
+     "Its federal republic was consolidated, and its international standing was secured through a neutral foreign policy."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "1947: quyền tự trị theo Kế hoạch Mao-bát-tơn",
+    "26 – 1 – 1950: thành lập nước Cộng hoà Ấn Độ",
+    "Cách mạng xanh: tự túc và xuất khẩu lương thực",
+    "Bom nguyên tử (1974), vệ tinh nhân tạo (1975); đối ngoại trung lập"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: ngày 26 tháng 1 năm 1950, nước Cộng hoà Ấn Độ ra đời.",
+     "Remember: the Republic of India was born on 26 January 1950."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ Cách mạng xanh và khoa học – công nghệ, Ấn Độ tự chủ phát triển.",
+     "Through the Green Revolution and science and technology, India developed on its own."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "tieu_de": "ẤN ĐỘ (1945 – 1991)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Cách mạng xanh của Ấn Độ gợi cho cậu bài học gì về phát triển nông nghiệp? Bình luận nhé!",
+     "Your challenge: what lesson about farming does India's Green Revolution suggest to you? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Theo Kế hoạch Mao-bát-tơn (1947), Ấn Độ được chia thành mấy quốc gia?",
+   "dap_an": [
+    "Hai quốc gia",
+    "Ba quốc gia",
+    "Bốn quốc gia",
+    "Không chia"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Nhờ cuộc cách mạng nào, Ấn Độ tự túc được lương thực?",
+   "dap_an": [
+    "Cách mạng xanh",
+    "Cách mạng công nghiệp",
+    "Cách mạng văn hoá",
+    "Cách mạng tháng Mười"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Ấn Độ chế tạo thành công bom nguyên tử năm nào?",
+   "dap_an": [
+    "1974",
+    "1975",
+    "1950",
+    "1947"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Đường lối đối ngoại của Ấn Độ là gì?",
+   "dap_an": [
+    "Trung lập",
+    "Liên minh với Mỹ",
+    "Liên minh với Liên Xô",
+    "Đóng cửa"
+   ],
+   "dung": 0,
+   "trang": 57
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 57 (Đảng Quốc đại; Kế hoạch Mao-bát-tơn 1947, hai quốc gia theo tôn giáo; 26 – 1 – 1950 Hiến pháp, nước cộng hoà; ý nghĩa; đối ngoại trung lập; công nghiệp nặng; Cách mạng xanh; thứ 10 công nghiệp những năm 80; bom nguyên tử 1974, vệ tinh 1975).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

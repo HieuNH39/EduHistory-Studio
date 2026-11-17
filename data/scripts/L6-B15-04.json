@@ -1,0 +1,189 @@
+{
+ "ma": "L6-B15-04",
+ "ten_tap": "Ai sẽ đứng lên giành độc lập?",
+ "ten_tap_en": "Who Will Rise for Independence?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 15. Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+  "trang": [
+   67,
+   69,
+   74
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "hao-truong"
+ ],
+ "nhac": {
+  "tam_trang": "trầm hùng, thôi thúc",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 15, tr. 67–74.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh chống cằm suy nghĩ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hơn một nghìn năm Bắc thuộc, ai sẽ đứng lên dẫn dắt nhân dân giành độc lập?",
+     "In over a thousand years of Northern rule, who would rise to lead the people to independence?"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-phuong-bac"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-02 cảnh 5 (khung dọc cắt giữa ảnh): trong dinh thứ sử, viên quan phương Bắc mặc áo gấm đứng giữa những rương đầy ngọc trai, đồi mồi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chính quyền đô hộ áp đặt tô thuế nặng nề, nắm độc quyền sắt và muối, bắt cống nạp sản vật quý. Bao trùm xã hội là mâu thuẫn giữa nhân dân Âu Lạc với chính quyền đô hộ.",
+     "The rulers imposed heavy taxes, monopolised iron and salt, and demanded precious tribute. Conflict between the Âu Lạc people and the rulers overshadowed society."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-02/canh-05.jpg",
+   "nguon_trang": [
+    67,
+    69
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "hao-truong"
+   ],
+   "hinh": "Dùng lại ảnh L6-B16-03 cảnh 4 (khung dọc cắt giữa ảnh): Lý Bí, một hào trưởng dáng vẻ cương nghị, đứng trước đông đảo dân chúng và trai tráng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tầng lớp hào trưởng bản địa, hình thành từ quý tộc Âu Lạc cũ, có uy tín và vị thế quan trọng trong đời sống xã hội.",
+     "The local chieftains, from the old Âu Lạc nobility, had prestige and standing in society."
+    ],
+    [
+     "Hân Hân",
+     "Vì vậy, họ có thể tập hợp nhân dân, trở thành thủ lĩnh các cuộc đấu tranh. Như Lý Bí, một hào trưởng địa phương, sau này đã lãnh đạo cuộc khởi nghĩa năm 542.",
+     "So they could rally the people and lead the struggles, like Lý Bí, a local chieftain who later led the uprising of 542."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B16-03/canh-04.jpg",
+   "nguon_trang": [
+    69,
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tầng lớp nào có uy tín và vị thế quan trọng để lãnh đạo các cuộc đấu tranh?",
+    "lua_chon": [
+     "Hào trưởng bản địa",
+     "Quan lại phương Bắc",
+     "Thương nhân nước ngoài"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Tầng lớp nào có thể lãnh đạo các cuộc đấu tranh?",
+     "EduHistory asks you! Which class could lead the struggles?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: hào trưởng bản địa!",
+     "The answer is A: the local chieftains!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mâu thuẫn ấy làm bùng lên các cuộc đấu tranh liên tục suốt thời Bắc thuộc, khẳng định tinh thần bất khuất của người Việt. Cậu biết cuộc khởi nghĩa nào? Bình luận nhé!",
+     "That conflict sparked struggle after struggle, proving the Vietnamese spirit unbowed. Which uprisings do you know? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chính quyền đô hộ nắm độc quyền về những mặt hàng nào?",
+   "dap_an": [
+    "Sắt và muối",
+    "Lúa và ngô",
+    "Vải và lụa",
+    "Gốm và sứ"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Tầng lớp hào trưởng bản địa hình thành từ bộ phận nào?",
+   "dap_an": [
+    "Quý tộc trong xã hội Âu Lạc cũ",
+    "Quan lại người Hán",
+    "Nô lệ",
+    "Thương nhân Ả Rập"
+   ],
+   "dung": 0,
+   "trang": 69
+  },
+  {
+   "hoi": "Mâu thuẫn bao trùm thời Bắc thuộc là nguyên nhân dẫn đến điều gì?",
+   "dap_an": [
+    "Các cuộc đấu tranh giành độc lập liên tục",
+    "Sự phát triển của buôn bán",
+    "Sự ra đời của chữ Hán",
+    "Sự xuất hiện của nghề làm giấy"
+   ],
+   "dung": 0,
+   "trang": 69
+  },
+  {
+   "hoi": "Dưới thời nào chính sách tô thuế của chính quyền đô hộ đặc biệt nặng nề?",
+   "dap_an": [
+    "Thời Đường",
+    "Thời Hán",
+    "Thời Ngô",
+    "Thời Lương"
+   ],
+   "dung": 0,
+   "trang": 67
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 67 (chiếm ruộng đất; tô thuế nặng nề, đặc biệt thời Đường; độc quyền sắt, muối; cống nạp) tr. 69 (hào trưởng bản địa từ quý tộc Âu Lạc cũ, có uy tín và vị thế quan trọng; mâu thuẫn bao trùm – nguyên nhân các cuộc đấu tranh; câu hỏi 2) và tr. 74 (Lý Bí – một hào trưởng địa phương, khởi nghĩa năm 542). Khung dọc; dùng lại ảnh L6-B15-02 cảnh 5, L6-B16-03 cảnh 4 .",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

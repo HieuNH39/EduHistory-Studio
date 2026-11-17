@@ -1,0 +1,307 @@
+{
+ "ma": "L9-B21-03",
+ "ten_tap": "Toàn cầu hoá: Thế giới phẳng",
+ "ten_tap_en": "Globalisation: A Flat World",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 21. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+  "trang": [
+   114,
+   115
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hiện đại, sôi động",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 21, tr. 114–115.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng STEM của trường, trên màn hình là quả địa cầu nối nhiều đường sáng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ những năm 80 của thế kỉ XX, cách mạng khoa học – kĩ thuật phát triển như vũ bão, thúc đẩy xu thế toàn cầu hoá.",
+     "Since the 1980s, the storming pace of the scientific and technological revolution has driven globalisation."
+    ],
+    [
+     "Nhật Minh",
+     "Toàn cầu hoá là gì, và nó tác động thế nào đến thế giới? Cùng tìm hiểu nhé!",
+     "What is globalisation, and how does it affect the world? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng STEM, trên màn hình hiện dòng chữ: Toàn cầu hoá = hội nhập mạnh mẽ của các nền kinh tế và xã hội trên toàn thế giới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo Ngân hàng Thế giới, toàn cầu hoá là sự hội nhập mạnh mẽ của các nền kinh tế và xã hội trên toàn thế giới, một quá trình phức tạp ảnh hưởng đến nhiều khía cạnh của cuộc sống.",
+     "According to the World Bank, globalisation is the strong integration of economies and societies worldwide, a complex process affecting many aspects of life."
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Biểu hiện",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tàu container lớn trên biển",
+    "tim": "container ship",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: tàu container chở hàng xuyên đại dương",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Biểu hiện thứ nhất: quan hệ thương mại quốc tế phát triển nhanh, gắn với các tập đoàn xuyên quốc gia; hệ thống tài chính toàn cầu mở rộng.",
+     "First: international trade grows fast, linked to multinational corporations; the global financial system expands."
+    ],
+    [
+     "Hân Hân",
+     "Thứ hai: các nền văn hoá giao lưu, trao đổi, thâm nhập lẫn nhau.",
+     "Second: cultures interact, exchange and blend."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh trụ sở Liên hợp quốc (Niu Oóc)",
+    "tim": "United Nations Headquarters New York",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: trụ sở Liên hợp quốc ở Niu Oóc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thứ ba: các tổ chức khu vực như Liên minh châu Âu, ASEAN và các tổ chức quốc tế ngày càng phát triển và có ảnh hưởng lớn.",
+     "Third: regional bodies such as the EU and ASEAN, and international organisations, grow in number and influence."
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là một biểu hiện của toàn cầu hoá?",
+    "lua_chon": [
+     "Các nước đóng cửa biên giới thương mại",
+     "Thương mại quốc tế phát triển nhanh, gắn với các tập đoàn xuyên quốc gia",
+     "Mỗi nền văn hoá tách biệt hoàn toàn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Đâu là biểu hiện của toàn cầu hoá?",
+     "Pause! Which is a sign of globalisation?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thương mại quốc tế phát triển nhanh, gắn với các tập đoàn xuyên quốc gia!",
+     "The answer is B: fast-growing international trade linked to multinational corporations!"
+    ]
+   ],
+   "nguon_trang": [
+    114
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tác động đối với thế giới",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng STEM, màn hình chia hai cột xanh – đỏ: Tích cực | Tiêu cực",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tích cực: thúc đẩy hình thành thị trường kinh tế toàn cầu, tăng trưởng kinh tế cao; các quốc gia liên kết chặt chẽ giải quyết vấn đề toàn cầu; giao lưu văn hoá gia tăng.",
+     "Positive: it builds a global market and high growth; countries cooperate closely on global problems; cultural exchange increases."
+    ],
+    [
+     "Nhật Minh",
+     "Tiêu cực: gia tăng sự phụ thuộc lẫn nhau, khoảng cách giàu nghèo, ô nhiễm môi trường, dịch bệnh; nguy cơ xói mòn bản sắc văn hoá dân tộc.",
+     "Negative: more interdependence, wider rich–poor gaps, pollution and epidemics, and the risk of eroding national cultural identity."
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là tác động tiêu cực của toàn cầu hoá?",
+    "lua_chon": [
+     "Tăng trưởng kinh tế cao",
+     "Giao lưu văn hoá gia tăng",
+     "Nguy cơ xói mòn bản sắc văn hoá dân tộc"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Đâu là tác động tiêu cực của toàn cầu hoá?",
+     "EduHistory asks you! Which is a negative effect of globalisation?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: nguy cơ xói mòn bản sắc văn hoá dân tộc!",
+     "The answer is C: the risk of eroding national cultural identity!"
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Toàn cầu hoá: hội nhập mạnh mẽ của các nền kinh tế, xã hội toàn thế giới",
+    "Biểu hiện: thương mại, tài chính toàn cầu; giao lưu văn hoá; tổ chức khu vực, quốc tế",
+    "Tích cực: thị trường toàn cầu, tăng trưởng, hợp tác giải quyết vấn đề chung",
+    "Tiêu cực: phụ thuộc, chênh lệch giàu nghèo, ô nhiễm, xói mòn bản sắc"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: toàn cầu hoá là xu thế khách quan, vừa mang lại cơ hội phát triển,",
+     "Remember: globalisation is an objective trend that brings opportunities,"
+    ],
+    [
+     "Nhật Minh",
+     "vừa đặt ra nhiều thách thức cho mọi quốc gia.",
+     "and challenges for every country."
+    ]
+   ],
+   "nguon_trang": [
+    114,
+    115
+   ],
+   "tieu_de": "TOÀN CẦU HOÁ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng STEM nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: cậu có muốn trở thành công dân toàn cầu không? Vì sao? Bình luận nhé!",
+     "Your challenge: would you like to be a global citizen? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Xu thế toàn cầu hoá gia tăng mạnh mẽ từ khi nào?",
+   "dap_an": [
+    "Từ những năm 80 của thế kỉ XX",
+    "Từ thế kỉ XVIII",
+    "Từ năm 1945",
+    "Từ năm 2020"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Toàn cầu hoá diễn ra trên những lĩnh vực nào?",
+   "dap_an": [
+    "Kinh tế, văn hoá, chính trị",
+    "Chỉ kinh tế",
+    "Chỉ quân sự",
+    "Chỉ thể thao"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Tổ chức nào là tổ chức khu vực?",
+   "dap_an": [
+    "ASEAN",
+    "Liên hợp quốc",
+    "WTO",
+    "Ngân hàng Thế giới"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Toàn cầu hoá tác động tích cực đến thế giới như thế nào?",
+   "dap_an": [
+    "Thúc đẩy hình thành thị trường kinh tế toàn cầu",
+    "Làm tăng ô nhiễm",
+    "Làm mất bản sắc văn hoá",
+    "Tăng chênh lệch giàu nghèo"
+   ],
+   "dung": 0,
+   "trang": 115
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 114 (mục 3: cách mạng KH-KT thúc đẩy toàn cầu hoá từ những năm 80; biểu hiện: thương mại quốc tế, tập đoàn xuyên quốc gia, tài chính toàn cầu; giao lưu văn hoá; tổ chức khu vực EU, ASEAN và quốc tế) và tr. 115 (tư liệu 2: định nghĩa của Ngân hàng Thế giới; tác động tích cực, tiêu cực đối với thế giới; Vận dụng: công dân toàn cầu).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

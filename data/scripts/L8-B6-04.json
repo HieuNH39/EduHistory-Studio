@@ -1,0 +1,320 @@
+{
+ "ma": "L8-B6-04",
+ "ten_tap": "Di sản của cha ông",
+ "ten_tap_en": "Our Ancestors' Legacy",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 6. Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+  "trang": [
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "luu-dan"
+ ],
+ "nhac": {
+  "tam_trang": "tự hào, sâu lắng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 6, tr. 30.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ dải đất hình chữ S kéo dài xuống tận mũi Cà Mau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ thế kỉ XVI đến thế kỉ XVIII, cha ông ta đã khai phá vùng đất phía Nam. Di sản ấy là gì?",
+     "From the 16th to 18th century, our ancestors opened up the South. What is that legacy?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tổng kết nhé!",
+     "Let's sum it up!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "luu-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B6-02 cảnh 6: những đoàn lưu dân khai hoang phát quang lau sậy, đắp bờ, cấy lúa trên vùng đất mới",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến cuối thế kỉ XVIII, chúa Nguyễn đã làm chủ cả một vùng rộng lớn từ phía nam dải Hoành Sơn đến mũi Cà Mau,",
+     "By the late 18th century, the Nguyễn lords controlled a vast area from south of the Hoành Sơn range to the Cà Mau cape,"
+    ],
+    [
+     "Hân Hân",
+     "bao gồm cả các đảo, quần đảo ở Biển Đông và vịnh Thái Lan.",
+     "including the islands and archipelagos of the East Sea and the Gulf of Thailand."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B6-02/canh-06.jpg",
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-huu-canh"
+   ],
+   "hinh": "Dùng lại ảnh L8-B6-02 cảnh 4: năm 1698, bên bờ sông rộng giữa vùng đất Đồng Nai – Sài Gòn xưa, Nguyễn Hữu Cảnh cùng đoàn tuỳ tùng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công cuộc khai phá đã góp phần biến vùng đất hoang sơ phía Nam dần trở thành một phần lãnh thổ không thể tách rời của Đại Việt.",
+     "This pioneering turned the wild southern lands into an inseparable part of Đại Việt."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B6-02/canh-04.jpg",
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến cuối thế kỉ XVIII, chúa Nguyễn làm chủ vùng đất từ đâu đến đâu?",
+    "lua_chon": [
+     "Từ sông Gianh đến Phú Yên",
+     "Từ phía nam dải Hoành Sơn đến mũi Cà Mau",
+     "Từ Thăng Long đến Huế"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vùng đất chúa Nguyễn làm chủ trải từ đâu đến đâu?",
+     "EduHistory asks you! From where to where did the Nguyễn lords' land reach?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: từ phía nam dải Hoành Sơn đến mũi Cà Mau!",
+     "The answer is B: from south of Hoành Sơn to the Cà Mau cape!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hoàng Sa, Trường Sa",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "doi-hoang-sa"
+   ],
+   "hinh": "Dùng lại ảnh L8-B6-03 cảnh 4: đoàn thuyền buồm gỗ của đội Hoàng Sa thế kỉ XVII – XVIII rẽ sóng ra khơi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sự quan tâm của các chính quyền phong kiến và hoạt động liên tục của các đội dân binh ở quần đảo Hoàng Sa và quần đảo Trường Sa",
+     "The attention of feudal governments and the continuous activity of militia teams on the Hoàng Sa and Trường Sa archipelagos"
+    ],
+    [
+     "Hân Hân",
+     "đã khẳng định quá trình khai thác, thực thi chủ quyền từ rất sớm và liên tục của Việt Nam tại hai quần đảo này.",
+     "confirm Vietnam's very early and continuous exploitation of, and sovereignty over, these two archipelagos."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B6-03/canh-04.jpg",
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hoạt động của các đội dân binh ở Hoàng Sa, Trường Sa khẳng định điều gì?",
+    "lua_chon": [
+     "Việt Nam thực thi chủ quyền từ rất sớm và liên tục tại hai quần đảo",
+     "Hai quần đảo không có người",
+     "Chỉ để đánh cá"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hoạt động của các đội dân binh khẳng định điều gì?",
+     "Pause! What do the militia teams' activities confirm?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Việt Nam khai thác, thực thi chủ quyền từ rất sớm và liên tục tại Hoàng Sa, Trường Sa!",
+     "The answer is A: Vietnam's very early and continuous sovereignty over Hoàng Sa and Trường Sa!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hoà hợp văn hoá",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B6-02 cảnh 7: một thương cảng tấp nập ở Nam Bộ thế kỉ XVIII, thuyền buôn trong nước và nước ngoài neo đậu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong quá trình xây dựng vùng đất mới thành trung tâm sản xuất nông nghiệp, giao thương lớn của đất nước,",
+     "As the new land was built into a major centre of farming and trade,"
+    ],
+    [
+     "Nhật Minh",
+     "các thế hệ người Việt và cộng đồng cư dân ở đây đã cùng nhau chung sống hoà hợp và phát triển văn hoá dân tộc.",
+     "generations of Vietnamese and local communities lived together in harmony and developed the nation's culture."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ sau hơn một thế kỉ, khu vực Nam Bộ đã được đánh thức và hồi sinh sau nhiều thế kỉ gần như bị lãng quên.",
+     "In just over a century, the South was awakened and revived after centuries of near-neglect."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B6-02/canh-07.jpg",
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Lãnh thổ: từ phía nam dải Hoành Sơn đến mũi Cà Mau, gồm cả đảo, quần đảo",
+    "Vùng đất phía Nam trở thành phần không thể tách rời của Đại Việt",
+    "Khẳng định chủ quyền sớm, liên tục ở Hoàng Sa, Trường Sa",
+    "Cộng đồng cư dân chung sống hoà hợp, phát triển văn hoá"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: lãnh thổ mở rộng đến mũi Cà Mau, vùng đất phía Nam trở thành phần không thể tách rời của Đại Việt.",
+     "Remember: the territory reached Cà Mau, and the South became an inseparable part of Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Chủ quyền ở Hoàng Sa, Trường Sa được khẳng định sớm, và cộng đồng cư dân sống hoà hợp.",
+     "Sovereignty over Hoàng Sa and Trường Sa was affirmed early, and communities lived in harmony."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "tieu_de": "DI SẢN CỦA CHA ÔNG",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vì sao Thành phố Hồ Chí Minh thường tổ chức lễ dâng hương tại đền thờ Lễ thành hầu Nguyễn Hữu Cảnh? Việc làm ấy có ý nghĩa gì? Bình luận nhé!",
+     "Your challenge: why does Hồ Chí Minh City hold incense ceremonies at the temple of Nguyễn Hữu Cảnh? What does it mean? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Công cuộc khai phá vùng đất phía Nam có ý nghĩa gì?",
+   "dap_an": [
+    "Biến vùng đất phía Nam thành phần lãnh thổ không thể tách rời của Đại Việt",
+    "Làm đất nước bị chia cắt",
+    "Làm suy yếu kinh tế",
+    "Không có ý nghĩa"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Lãnh thổ do chúa Nguyễn làm chủ cuối thế kỉ XVIII bao gồm cả những đâu?",
+   "dap_an": [
+    "Các đảo, quần đảo ở Biển Đông và vịnh Thái Lan",
+    "Lào và Cam-pu-chia",
+    "Vân Nam",
+    "Quảng Đông"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Vùng đất mới phía Nam trở thành trung tâm gì của đất nước?",
+   "dap_an": [
+    "Sản xuất nông nghiệp, giao thương lớn",
+    "Khai thác mỏ",
+    "Công nghiệp nặng",
+    "Quân sự"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Đền thờ Lễ thành hầu Nguyễn Hữu Cảnh ở Thành phố Hồ Chí Minh nằm tại đâu?",
+   "dap_an": [
+    "Công viên Lịch sử – Văn hoá dân tộc",
+    "Dinh Độc Lập",
+    "Bến Nhà Rồng",
+    "Chợ Bến Thành"
+   ],
+   "dung": 0,
+   "trang": 30
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 30 (mục 3: làm chủ vùng từ phía nam dải Hoành Sơn đến mũi Cà Mau, gồm đảo, quần đảo ở Biển Đông, vịnh Thái Lan; phần lãnh thổ không thể tách rời; đội dân binh ở Hoàng Sa, Trường Sa – chủ quyền sớm, liên tục; chung sống hoà hợp; tư liệu 3 Phan Huy Lê; Vận dụng 2 đền thờ Nguyễn Hữu Cảnh). Dùng lại ảnh L8-B6-02 cảnh 4, 6, 7; L8-B6-03 cảnh 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

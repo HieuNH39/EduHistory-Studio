@@ -1,0 +1,199 @@
+{
+ "ma": "L6-B12-03",
+ "ten_tap": "Thử thách: Em có phải là thương nhân cổ đại?",
+ "ten_tap_en": "Challenge: Are You an Ancient Trader?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 12. Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+  "trang": [
+   54,
+   55
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, đố vui",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 12, tr. 54–55.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm túi gia vị nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách: cậu có phải là thương nhân cổ đại tài ba không? Đoán giá trước nhé!",
+     "Challenge: are you a master ancient trader? Guess the price first!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [],
+   "hinh": "Dùng lại ảnh L6-B12-02 cảnh 8 (khung dọc cắt giữa ảnh): chiếc cân đĩa cổ, một bên là túi nhỏ nghệ tây, bên kia là hình một con ngựa, cân thăng bằng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vào thế kỉ X, 1 pao nghệ tây, khoảng 4 lạng, có giá ngang với 1 con ngựa; 1 pao gừng có giá ngang 1 con bò!",
+     "In the 10th century, a pound of saffron, about 4 ounces, was worth a horse; a pound of ginger, a cow!"
+    ]
+   ],
+   "anh": "assets/episodes/L6-B12-02/canh-08.jpg",
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-a-rap"
+   ],
+   "hinh": "Dùng lại ảnh L6-B12-02 cảnh 6 (khung dọc cắt giữa ảnh): nhà địa lí Ả Rập đội khăn xếp ngồi trên boong thuyền cập bến Sri Vi-giay-a",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một nhà địa lí Ả Rập nhận xét: đất đai Sri Vi-giay-a sản sinh ra long não, trầm hương, đinh hương, đàn hương, đậu khấu, sa nhân.",
+     "An Arab geographer noted that Srivijaya's land yielded camphor, agarwood, cloves, sandalwood, cardamom and more."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B12-02/canh-06.jpg",
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vương quốc nào chủ yếu dựa vào hoạt động thương mại biển?",
+    "lua_chon": [
+     "Sri Vi-giay-a",
+     "Chân Lạp",
+     "Pa-gan"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi nhanh! Vương quốc nào chủ yếu dựa vào thương mại biển?",
+     "Quick question! Which kingdom relied mainly on sea trade?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Sri Vi-giay-a! Cùng với Ka-lin-ga, Ma-ta-ram, họ góp nhiều mặt hàng chủ lực trên Con đường gia vị.",
+     "The answer is A: Srivijaya! With Kalinga and Mataram, they supplied key goods on the Spice Route."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L6-B12-02 cảnh 9 (khung dọc cắt giữa ảnh): hai thương cảng cổ, một cảng ven biển có tháp gạch Chăm trên đồi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giao lưu thương mại thúc đẩy các vương quốc phát triển. Các thương cảng sầm uất như Đại Chiêm, Pa-lem-bang trở thành điểm kết nối kinh tế, văn hoá giữa các châu lục.",
+     "Trade drove the kingdoms' growth. Busy ports like Đại Chiêm and Palembang linked continents economically and culturally."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B12-02/canh-09.jpg",
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nếu là thương nhân cổ đại, cậu sẽ buôn loại gia vị nào? Bình luận nhé!",
+     "If you were an ancient trader, which spice would you trade? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vào thế kỉ X, 1 pao nghệ tây có giá ngang với gì?",
+   "dap_an": [
+    "1 con ngựa",
+    "1 con bò",
+    "1 con gà",
+    "1 chiếc thuyền"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Tuyến buôn bán đường biển kết nối Á – Âu với các mặt hàng gia vị sau này được gọi là gì?",
+   "dap_an": [
+    "Con đường gia vị",
+    "Con đường tơ lụa trên bộ",
+    "Con đường muối",
+    "Con đường hổ phách"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Thương cảng Pa-lem-bang thuộc vương quốc nào?",
+   "dap_an": [
+    "Sri Vi-giay-a",
+    "Chăm-pa",
+    "Chân Lạp",
+    "Pa-gan"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Thương cảng Đại Chiêm thuộc vương quốc nào?",
+   "dap_an": [
+    "Chăm-pa",
+    "Sri Vi-giay-a",
+    "Ka-lin-ga",
+    "Ma-ta-ram"
+   ],
+   "dung": 0,
+   "trang": 55
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 54 (vương quốc nông nghiệp ở lục địa) và tr. 55 (Sri Vi-giay-a, Ka-lin-ga, Ma-ta-ram dựa vào thương mại biển, Con đường gia vị; tư liệu nhà địa lí Ả Rập; thương cảng Đại Chiêm, Pa-lem-bang; Vận dụng 3: 1 pao nghệ tây ngang 1 con ngựa, 1 pao gừng ngang 1 con bò). Khung dọc; dùng lại ảnh L6-B12-02 cảnh 6, 8, 9.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

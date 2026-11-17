@@ -1,0 +1,209 @@
+{
+ "ma": "L7-B8-04",
+ "ten_tap": "Vì sao Ăng-co suy yếu?",
+ "ten_tap_en": "Why Did Angkor Decline?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 8. Vương quốc Cam-pu-chia",
+  "trang": [
+   42
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-kho-me"
+ ],
+ "nhac": {
+  "tam_trang": "trầm buồn, tò mò",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 8, tr. 42.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: cảnh tái hiện dùng lại ảnh đã duyệt của L7-B8-02 (trường \"anh\", khung dọc cắt giữa ảnh); hai bạn dẫn chuyện, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Hân Hân đặt câu hỏi, Nhật Minh suy nghĩ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời kì Ăng-co là thời kì phát triển rực rỡ nhất của Cam-pu-chia, kéo dài từ thế kỉ IX đến thế kỉ XV.",
+     "The Angkor period was Cambodia's most brilliant age, lasting from the 9th to the 15th century."
+    ],
+    [
+     "Nhật Minh",
+     "Vậy vì sao Ăng-co lại suy yếu?",
+     "So why did Angkor decline?"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 13 (khung dọc cắt giữa ảnh): quần thể đền Ăng-co thời hưng thịnh, ngọn tháp trung tâm vút cao",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thế kỉ XV, các phe phái tranh giành quyền lực lẫn nhau.",
+     "By the 15th century, rival factions were fighting each other for power."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-13.jpg",
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Tranh giành quyền lực giữa các phe phái",
+    "Sự tấn công của người Thái"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng với đó là sự tấn công của người Thái. Vương quốc Cam-pu-chia suy yếu dần.",
+     "Added to that were attacks by the Thai. The Kingdom of Cambodia gradually weakened."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "tieu_de": "VÌ SAO ĂNG-CO SUY YẾU?",
+   "hien_luc_theo_cau": [
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-kho-me"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 14 (khung dọc cắt giữa ảnh): đoàn người Khơ-me cùng voi, xe bò rời kinh đô Ăng-co đi về phía nam Biển Hồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Khơ-me phải chuyển kinh đô từ Ăng-co về phía nam Biển Hồ, tức Phnôm Pênh ngày nay.",
+     "The Khmer had to move their capital from Angkor to the south of the Great Lake, today's Phnom Penh."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-14.jpg",
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thế kỉ XV, người Khơ-me chuyển kinh đô về vùng nào?",
+    "lua_chon": [
+     "Phnôm Pênh ngày nay",
+     "Viêng Chăn",
+     "Ăng-co Thom"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thế kỉ XV, người Khơ-me chuyển kinh đô về đâu?",
+     "EduHistory asks you! Where did the Khmer move their capital in the 15th century?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: phía nam Biển Hồ, Phnôm Pênh ngày nay!",
+     "The answer is A: south of the Great Lake, today's Phnom Penh!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, nguyên nhân nào khiến Ăng-co suy yếu nhanh hơn? Bình luận nhé!",
+     "Which cause do you think weakened Angkor faster? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời kì Ăng-co kéo dài trong khoảng thời gian nào?",
+   "dap_an": [
+    "Thế kỉ VI – thế kỉ IX",
+    "Thế kỉ IX – thế kỉ XV",
+    "Thế kỉ XV – thế kỉ XVIII",
+    "Thế kỉ X – thế kỉ XII"
+   ],
+   "dung": 1,
+   "trang": 42
+  },
+  {
+   "hoi": "Một nguyên nhân khiến Vương quốc Cam-pu-chia suy yếu ở thế kỉ XV là gì?",
+   "dap_an": [
+    "Sự tấn công của người Thái",
+    "Bị nhà Minh xâm lược",
+    "Động đất lớn",
+    "Thiếu nước tưới"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Ai đã thống nhất lãnh thổ, mở ra thời kì Ăng-co năm 802?",
+   "dap_an": [
+    "Giay-a-vác-man II",
+    "Giay-a-vác-man VII",
+    "Pha Ngừm",
+    "Chế Mân"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Kinh đô mới của người Khơ-me ở thế kỉ XV nằm ở đâu so với Biển Hồ?",
+   "dap_an": [
+    "Phía bắc",
+    "Phía nam",
+    "Phía tây",
+    "Giữa hồ"
+   ],
+   "dung": 1,
+   "trang": 42
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 42 (mục 1: thời kì Ăng-co thế kỉ IX – XV; năm 802; thế kỉ XV tranh giành quyền lực và sự tấn công của người Thái; chuyển kinh đô về phía nam Biển Hồ – Phnôm Pênh ngày nay). Khung dọc; không tạo ảnh mới: dùng lại ảnh L7-B8-02 cảnh 13, 14 (cắt giữa ảnh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

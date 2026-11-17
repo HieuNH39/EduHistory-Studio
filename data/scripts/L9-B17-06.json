@@ -1,0 +1,254 @@
+{
+ "ma": "L9-B17-06",
+ "ten_tap": "Vì sao chúng ta thắng?",
+ "ten_tap_en": "Why Did We Win?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 17. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+  "trang": [
+   91
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 17, tr. 91.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: 21 năm chống Mỹ – 30 năm giải phóng dân tộc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 2 tháng 5 năm 1975, Châu Đốc là tỉnh cuối cùng ở miền Nam được giải phóng. Cuộc kháng chiến chống Mỹ, cứu nước toàn thắng!",
+     "On 2 May 1975, Châu Đốc was the last southern province liberated. The resistance against the US was completely victorious!"
+    ],
+    [
+     "Nhật Minh",
+     "Vì sao chúng ta thắng? Cùng phân tích nhé!",
+     "Why did we win? Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu xe tăng Quân Giải phóng tiến vào Dinh Độc Lập ngày 30 – 4 – 1975 (dùng lại ảnh tư liệu của L9-B17-05 cảnh 9)",
+    "tim": "Independence Palace tank",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B17-05 cảnh 9"
+   },
+   "hinh": "Ảnh tư liệu: xe tăng Quân Giải phóng tiến vào Dinh Độc Lập (30 – 4 – 1975)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước hết là sự lãnh đạo sáng suốt của Đảng với đường lối chính trị, quân sự độc lập, tự chủ;",
+     "First, the Party's wise leadership with an independent, self-reliant political and military line;"
+    ],
+    [
+     "Nhật Minh",
+     "Đảng lãnh đạo cả nước tiến hành đồng thời cách mạng xã hội chủ nghĩa ở miền Bắc và cách mạng dân tộc dân chủ nhân dân ở miền Nam.",
+     "the Party led the whole country in carrying out socialist revolution in the North and national democratic revolution in the South at the same time."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng vẽ hai nửa Bắc – Nam nối liền bằng mũi tên, ghi: đoàn kết – hậu phương lớn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhân dân hai miền đoàn kết nhất trí, giàu lòng yêu nước, lao động cần cù, chiến đấu dũng cảm.",
+     "The people of both regions were united, deeply patriotic, hard-working and brave in battle."
+    ],
+    [
+     "Nhật Minh",
+     "Hậu phương miền Bắc không ngừng lớn mạnh, đáp ứng kịp thời yêu cầu của cuộc chiến đấu ở hai miền.",
+     "The northern rear kept growing stronger, meeting the needs of the fight in both regions in time."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Liên Xô, Trung Quốc, các nước xã hội chủ nghĩa; ba nước Đông Dương; lực lượng hoà bình thế giới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về khách quan, đó là sự ủng hộ to lớn của các lực lượng cách mạng, hoà bình, dân chủ trên thế giới, nhất là Liên Xô, Trung Quốc và các nước xã hội chủ nghĩa;",
+     "Externally, there was great support from revolutionary, peace and democratic forces worldwide, especially the USSR, China and other socialist countries;"
+    ],
+    [
+     "Nhật Minh",
+     "cùng sự phối hợp chiến đấu, đoàn kết giúp đỡ nhau của nhân dân ba nước Đông Dương.",
+     "and the joint struggle and mutual support of the three Indochinese peoples."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là nhân tố khách quan trong nguyên nhân thắng lợi của cuộc kháng chiến chống Mỹ?",
+    "lua_chon": [
+     "Sự lãnh đạo của Đảng",
+     "Sự ủng hộ của Liên Xô, Trung Quốc và các lực lượng tiến bộ",
+     "Hậu phương miền Bắc lớn mạnh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đâu là nhân tố khách quan?",
+     "Pause! Which is an external factor?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: sự ủng hộ của Liên Xô, Trung Quốc và các lực lượng cách mạng, hoà bình trên thế giới!",
+     "The answer is B: support from the USSR, China and revolutionary and peace forces worldwide!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ý nghĩa",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "Kết thúc 21 năm chống Mỹ và 30 năm chiến tranh giải phóng dân tộc",
+    "Chấm dứt hoàn toàn ách thống trị của chủ nghĩa đế quốc ở Việt Nam",
+    "Hoàn thành cách mạng dân tộc dân chủ nhân dân, thống nhất đất nước",
+    "Mở ra kỉ nguyên độc lập, thống nhất, đi lên chủ nghĩa xã hội"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thắng lợi kết thúc 21 năm chống Mỹ và 30 năm chiến tranh giải phóng dân tộc, bảo vệ Tổ quốc từ sau Cách mạng tháng Tám.",
+     "Victory ended 21 years against the US and 30 years of liberation war defending the nation since the August Revolution."
+    ],
+    [
+     "Nhật Minh",
+     "Đất nước thống nhất, mở ra kỉ nguyên độc lập, thống nhất, đi lên chủ nghĩa xã hội – một chiến công vĩ đại của thế kỉ XX.",
+     "The country was reunified, opening an era of independence, unity and socialism: a great feat of the twentieth century."
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "tieu_de": "Ý NGHĨA THẮNG LỢI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: là học sinh hôm nay, cậu sẽ làm gì để xứng đáng với thế hệ cha ông? Bình luận nhé!",
+     "Your challenge: as a student today, what will you do to be worthy of our forebears? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    91
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tỉnh cuối cùng ở miền Nam được giải phóng năm 1975 là tỉnh nào?",
+   "dap_an": [
+    "Châu Đốc",
+    "Sài Gòn",
+    "Cà Mau",
+    "Bến Tre"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Cuộc kháng chiến chống Mỹ kết thúc bao nhiêu năm chiến tranh giải phóng dân tộc kể từ năm 1945?",
+   "dap_an": [
+    "30 năm",
+    "21 năm",
+    "9 năm",
+    "10 năm"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Đảng lãnh đạo tiến hành đồng thời những cuộc cách mạng nào?",
+   "dap_an": [
+    "Cách mạng XHCN ở miền Bắc và cách mạng dân tộc dân chủ nhân dân ở miền Nam",
+    "Hai cuộc cách mạng tư sản",
+    "Cách mạng công nghiệp và nông nghiệp",
+    "Chỉ cách mạng ở miền Nam"
+   ],
+   "dung": 0,
+   "trang": 91
+  },
+  {
+   "hoi": "Thắng lợi năm 1975 mở ra kỉ nguyên nào?",
+   "dap_an": [
+    "Độc lập, thống nhất, đi lên chủ nghĩa xã hội",
+    "Thuộc địa kiểu mới",
+    "Chiến tranh lạnh",
+    "Phong kiến"
+   ],
+   "dung": 0,
+   "trang": 91
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 91 (2 – 5 Châu Đốc giải phóng cuối cùng; nguyên nhân: Đảng với đường lối độc lập, tự chủ, tiến hành đồng thời hai chiến lược cách mạng; nhân dân hai miền đoàn kết; hậu phương miền Bắc; Liên Xô, Trung Quốc, các nước XHCN; ba nước Đông Dương; ý nghĩa: kết thúc 21 năm chống Mỹ, 30 năm chiến tranh; thống nhất đất nước; kỉ nguyên mới; tư liệu). Dùng lại ảnh L9-B17-05 cảnh 9.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

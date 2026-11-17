@@ -1,0 +1,335 @@
+{
+ "ma": "L8-CD2-03",
+ "ten_tap": "Kinh tế biển: Tiềm năng và thách thức",
+ "ten_tap_en": "The Marine Economy: Potential and Challenges",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+  "trang": [
+   167
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tươi sáng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 2, tr. 167.",
+ "chinh_sach_hinh": "Chỉ dùng ảnh thật; không dùng bản đồ; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia hai cột: Thuận lợi | Khó khăn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Biển đảo nước ta có vai trò quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc, cả trong lịch sử, hiện tại và tương lai.",
+     "Our sea and islands matter greatly for building and defending the nation, in the past, present and future."
+    ],
+    [
+     "Hân Hân",
+     "Vậy phát triển kinh tế biển có những thuận lợi và khó khăn gì? Cùng phân tích nhé!",
+     "So what are the advantages and challenges of developing the marine economy? Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh thuyền đánh cá của ngư dân Việt Nam neo đậu ven biển",
+    "tim": "Vietnamese fishing boats harbor",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: thuyền đánh cá ven biển Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tài nguyên biển gồm sinh vật, khoáng sản đa dạng, phong phú,",
+     "Marine resources, both living and mineral, are diverse and abundant,"
+    ],
+    [
+     "Nhật Minh",
+     "tạo điều kiện phát triển nhiều ngành kinh tế biển: khai thác và nuôi trồng thuỷ sản, làm muối, khai thác khoáng sản.",
+     "enabling many marine industries: fishing and aquaculture, salt making and mining."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh một cảng biển nước sâu ở Việt Nam với tàu container",
+    "tim": "Cai Mep port container Vietnam",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: cảng biển nước sâu ở Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nước ta nằm gần các tuyến hàng hải quốc tế trên Biển Đông; dọc bờ biển có nhiều vịnh kín để xây dựng cảng nước sâu.",
+     "Vietnam lies near international shipping lanes in the East Sea, with many sheltered bays for deep-water ports."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là điều kiện để phát triển giao thông vận tải biển, là cửa ngõ để Việt Nam giao thương với thị trường quốc tế.",
+     "That supports maritime transport and gives Vietnam a gateway to world markets."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh phong cảnh vịnh Hạ Long",
+    "tim": "Ha Long Bay landscape",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: vịnh Hạ Long (Quảng Ninh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều bãi biển đẹp, nước biển ấm, chan hoà ánh nắng, nhiều vườn quốc gia, khu dự trữ sinh quyển ven biển và trên các đảo,",
+     "Many beautiful beaches, warm sunny waters, national parks and biosphere reserves along the coast and on islands"
+    ],
+    [
+     "Nhật Minh",
+     "tạo điều kiện để phát triển du lịch biển đảo.",
+     "make island and sea tourism possible."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngành kinh tế nào sau đây là ngành kinh tế biển?",
+    "lua_chon": [
+     "Trồng cà phê",
+     "Nuôi trồng thuỷ sản, làm muối",
+     "Khai thác gỗ rừng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đâu là ngành kinh tế biển?",
+     "Pause! Which is a marine industry?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: nuôi trồng thuỷ sản, làm muối!",
+     "The answer is B: aquaculture and salt making!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Khó khăn",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh bờ biển bị sạt lở ở Việt Nam",
+    "tim": "coastal erosion Vietnam",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: sạt lở bờ biển ở Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vùng biển nhiệt đới nước ta chịu nhiều thiên tai, đặc biệt là bão.",
+     "Our tropical waters face many natural disasters, especially typhoons."
+    ],
+    [
+     "Nhật Minh",
+     "Những năm gần đây, biến đổi khí hậu tác động lớn tới thiên nhiên vùng biển đảo, đặc biệt là sạt lở bờ biển và nước biển dâng.",
+     "In recent years, climate change has strongly affected coasts and islands, especially through coastal erosion and sea-level rise."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: cơ sở hạ tầng chưa đầy đủ, chưa đồng bộ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngoài ra, cơ sở hạ tầng các vùng biển và hải đảo nhìn chung còn chưa đầy đủ và đồng bộ,",
+     "Moreover, infrastructure in coastal and island areas is generally still incomplete and uneven,"
+    ],
+    [
+     "Nhật Minh",
+     "chưa tương xứng với tiềm năng và thế mạnh biển đảo.",
+     "not matching their potential and strengths."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khó khăn nào do biến đổi khí hậu gây ra cho vùng biển đảo nước ta?",
+    "lua_chon": [
+     "Sạt lở bờ biển, nước biển dâng",
+     "Thiếu bãi biển đẹp",
+     "Xa các tuyến hàng hải"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Biến đổi khí hậu gây khó khăn gì cho vùng biển đảo?",
+     "EduHistory asks you! What problems does climate change cause for our coasts?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: sạt lở bờ biển và nước biển dâng!",
+     "The answer is A: coastal erosion and sea-level rise!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Thuận lợi: tài nguyên sinh vật, khoáng sản phong phú",
+    "Thuận lợi: gần tuyến hàng hải quốc tế, nhiều vịnh kín xây cảng nước sâu",
+    "Thuận lợi: bãi biển đẹp, vườn quốc gia, khu dự trữ sinh quyển – du lịch",
+    "Khó khăn: bão, biến đổi khí hậu; hạ tầng chưa đồng bộ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: biển đảo nước ta giàu tài nguyên, vị trí thuận lợi, nhiều cảnh đẹp.",
+     "Remember: our sea and islands are rich in resources, well located and beautiful."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cũng chịu nhiều thiên tai, biến đổi khí hậu, và hạ tầng còn chưa đồng bộ.",
+     "But they face disasters and climate change, and infrastructure is still uneven."
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "tieu_de": "KINH TẾ BIỂN ĐẢO",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kể một hoạt động kinh tế biển ở địa phương cậu hoặc nơi cậu từng đến! Bình luận nhé!",
+     "Your challenge: name a marine economic activity where you live or have visited! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thiên tai nào gây khó khăn lớn nhất cho vùng biển nhiệt đới nước ta?",
+   "dap_an": [
+    "Bão",
+    "Động đất",
+    "Núi lửa",
+    "Tuyết rơi"
+   ],
+   "dung": 0,
+   "trang": 167
+  },
+  {
+   "hoi": "Điều kiện nào giúp nước ta phát triển giao thông vận tải biển?",
+   "dap_an": [
+    "Gần tuyến hàng hải quốc tế, nhiều vịnh kín xây cảng nước sâu",
+    "Nhiều sông ngòi",
+    "Nhiều núi cao",
+    "Khí hậu lạnh"
+   ],
+   "dung": 0,
+   "trang": 167
+  },
+  {
+   "hoi": "Điều kiện nào giúp phát triển du lịch biển đảo?",
+   "dap_an": [
+    "Bãi biển đẹp, nước ấm, nhiều vườn quốc gia, khu dự trữ sinh quyển",
+    "Nhiều mỏ than",
+    "Nhiều cao nguyên",
+    "Ít nắng"
+   ],
+   "dung": 0,
+   "trang": 167
+  },
+  {
+   "hoi": "Hạn chế về cơ sở hạ tầng vùng biển đảo là gì?",
+   "dap_an": [
+    "Chưa đầy đủ và đồng bộ",
+    "Quá hiện đại",
+    "Đã hoàn thiện",
+    "Không cần thiết"
+   ],
+   "dung": 0,
+   "trang": 167
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 167 (mục 2a: vai trò biển đảo; thuận lợi: tài nguyên sinh vật, khoáng sản – thuỷ sản, làm muối, khoáng sản; gần tuyến hàng hải quốc tế, vịnh kín, cảng nước sâu, cửa ngõ giao thương; bãi biển đẹp, vườn quốc gia, khu dự trữ sinh quyển – du lịch; khó khăn: thiên tai, bão, biến đổi khí hậu, sạt lở, nước biển dâng; hạ tầng chưa đầy đủ, đồng bộ). Ảnh là ảnh thật, không dùng bản đồ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

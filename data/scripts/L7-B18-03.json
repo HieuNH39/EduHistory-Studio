@@ -1,0 +1,320 @@
+{
+ "ma": "L7-B18-03",
+ "ten_tap": "Nam Bộ: Vùng đất của những lưu dân",
+ "ten_tap_en": "Nam Bộ: A Land of Settlers",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 18. Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+  "trang": [
+   93,
+   94
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "luu-dan-nguoi-viet"
+ ],
+ "nhac": {
+  "tam_trang": "khoáng đạt, hoài niệm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 18, tr. 93–94.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước tấm bản đồ đồng bằng Nam Bộ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày nay, Nam Bộ là vùng đất trù phú, đông dân. Nhưng từ thế kỉ X đến đầu thế kỉ XIV, nơi đây lại rất thưa vắng người.",
+     "Today, Nam Bộ is rich and crowded. But from the 10th to the early 14th century, very few people lived there."
+    ],
+    [
+     "Nhật Minh",
+     "Vì sao vậy? Và ai đã đến khai phá vùng đất này? Cùng tìm hiểu nhé!",
+     "Why? And who came to open up this land? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ X – XVI",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "trieu-dinh-chan-lap"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 4: một vị vua Khơ-me ngồi giữa triều đình ở Ăng-co, các quan quỳ chầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sau khi Vương quốc Phù Nam sụp đổ, khoảng đầu thế kỉ VII, vùng đất Nam Bộ về danh nghĩa bị đặt dưới quyền cai trị của nước Chân Lạp.",
+     "After the Kingdom of Funan collapsed around the early 7th century, Nam Bộ nominally came under the rule of Chân Lạp (Chenla)."
+    ],
+    [
+     "Hân Hân",
+     "Nhưng trên thực tế, triều đình Chân Lạp ở Ăng-co gặp nhiều khó khăn, hầu như không thể quản lí được vùng đất này.",
+     "But in reality, the Chân Lạp court at Angkor had many difficulties and could hardly govern this land."
+    ],
+    [
+     "Nhật Minh",
+     "Việc cai trị phải giao cho những người thuộc dòng dõi vua Phù Nam.",
+     "Governing had to be left to descendants of the Funan kings."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-04.jpg",
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-chan-lap"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 11: đoàn quân Ăng-co với voi chiến, lọng che, giáo mác hành quân qua đồng bằng rộng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ khoảng cuối thế kỉ XIV, Chân Lạp phải lo đối phó với các cuộc tấn công của quân Xiêm.",
+     "From around the late 14th century, Chân Lạp had to deal with attacks by Siamese troops."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thế, Chân Lạp càng không có khả năng kiểm soát trực tiếp vùng đất Nam Bộ.",
+     "So it was even less able to control Nam Bộ directly."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-11.jpg",
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sau khi Phù Nam sụp đổ, vùng đất Nam Bộ về danh nghĩa thuộc quyền cai trị của nước nào?",
+    "lua_chon": [
+     "Chăm-pa",
+     "Chân Lạp",
+     "Đại Việt"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Sau khi Phù Nam sụp đổ, Nam Bộ về danh nghĩa thuộc quyền cai trị của nước nào?",
+     "EduHistory asks you! After Funan fell, which state nominally ruled Nam Bộ?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Chân Lạp!",
+     "The answer is B: Chân Lạp!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-nam-bo"
+   ],
+   "hinh": "Vùng đồng bằng Nam Bộ hoang sơ thế kỉ XI – XIII: những bãi đất trũng mênh mông ngập nước, rừng tràm và rừng đước rậm rạp ven sông, nhiều vạt đất nhiễm mặn trắng xoá khô nứt; chỉ thấy vài nóc nhà sàn lợp lá thưa thớt trên gò đất cao; một chiếc xuồng nhỏ trôi trên kênh vắng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cũng từ sau thế kỉ X, khu vực Nam Bộ chịu ảnh hưởng nặng nề bởi điều kiện tự nhiên thay đổi.",
+     "Also from after the 10th century, Nam Bộ was badly hit by changing natural conditions."
+    ],
+    [
+     "Hân Hân",
+     "Một phần đất đai bị ngấm mặn, gây khó khăn cho sản xuất nông nghiệp. Suốt từ thế kỉ X đến đầu thế kỉ XIV, cư dân ở đây rất thưa vắng.",
+     "Part of the land became salty, making farming hard. From the 10th to the early 14th century, very few people lived here."
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "luu-dan-nguoi-viet"
+   ],
+   "hinh": "Một nhóm lưu dân người Việt áo nâu, quần ống rộng, chít khăn, đội nón lá, gánh gồng đồ đạc, dắt trâu, dùng rìu và dao phát cây khai hoang bên bờ một con sông lớn; vài người dựng những nếp nhà tranh vách đất đầu tiên; trẻ em xách giỏ theo cha mẹ; rừng cây xanh phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phải đến vài thế kỉ sau đó, mới có những nhóm lưu dân người Việt đến khẩn hoang.",
+     "Only several centuries later did groups of Vietnamese migrants arrive to clear the land."
+    ],
+    [
+     "Hân Hân",
+     "Họ lập ra những làng người Việt đầu tiên ở vùng Mô Xoài, thuộc tỉnh Bà Rịa – Vũng Tàu trước đây, nay thuộc Thành phố Hồ Chí Minh, và ở Đồng Nai.",
+     "They founded the first Vietnamese villages at Mô Xoài, in former Bà Rịa – Vũng Tàu province, now part of Hồ Chí Minh City, and in Đồng Nai."
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những làng người Việt đầu tiên ở Nam Bộ được lập ở vùng nào?",
+    "lua_chon": [
+     "Mô Xoài và Đồng Nai",
+     "Vân Đồn và Hội Thống",
+     "Đại Chiêm và Tân Châu"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Những làng người Việt đầu tiên ở Nam Bộ được lập ở vùng nào?",
+     "Pause! Where were the first Vietnamese villages in Nam Bộ founded?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Mô Xoài và Đồng Nai!",
+     "The answer is A: Mô Xoài and Đồng Nai!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Danh nghĩa thuộc Chân Lạp, nhưng Chân Lạp hầu như không quản lí được",
+    "Cuối thế kỉ XIV: Chân Lạp lo đối phó quân Xiêm",
+    "Thế kỉ X – đầu XIV: đất ngấm mặn, cư dân rất thưa vắng",
+    "Vài thế kỉ sau: lưu dân Việt lập làng ở Mô Xoài, Đồng Nai"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Nam Bộ về danh nghĩa thuộc Chân Lạp, nhưng Chân Lạp hầu như không quản lí được, nhất là khi phải đối phó quân Xiêm.",
+     "Remember: Nam Bộ was nominally under Chân Lạp, which could hardly govern it, especially while fighting Siam."
+    ],
+    [
+     "Nhật Minh",
+     "Đất ngấm mặn, dân cư thưa vắng; vài thế kỉ sau, lưu dân người Việt đến khẩn hoang, lập làng.",
+     "The land turned salty and people were few; centuries later, Vietnamese migrants came to clear land and found villages."
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94
+   ],
+   "tieu_de": "NAM BỘ TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao trong một thời gian dài, triều đình Chân Lạp không thể quản lí được vùng đất Nam Bộ? Bình luận nhé!",
+     "Your challenge: why couldn't the Chân Lạp court govern Nam Bộ for so long? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    93,
+    94
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vương quốc Phù Nam sụp đổ vào khoảng thời gian nào?",
+   "dap_an": [
+    "Đầu thế kỉ VII",
+    "Thế kỉ X",
+    "Cuối thế kỉ XIV",
+    "Đầu thế kỉ XVI"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Từ khoảng cuối thế kỉ XIV, Chân Lạp phải đối phó với các cuộc tấn công của quân nào?",
+   "dap_an": [
+    "Quân Minh",
+    "Quân Xiêm",
+    "Quân Mông Cổ",
+    "Quân Chăm-pa"
+   ],
+   "dung": 1,
+   "trang": 93
+  },
+  {
+   "hoi": "Vì sao từ thế kỉ X đến đầu thế kỉ XIV, Nam Bộ rất thưa dân?",
+   "dap_an": [
+    "Do chiến tranh liên miên",
+    "Do điều kiện tự nhiên thay đổi, đất ngấm mặn",
+    "Do dịch bệnh",
+    "Do người dân bỏ đi buôn bán"
+   ],
+   "dung": 1,
+   "trang": 94
+  },
+  {
+   "hoi": "Vùng Mô Xoài ngày nay thuộc địa phương nào?",
+   "dap_an": [
+    "Thành phố Hồ Chí Minh",
+    "Tỉnh Đồng Tháp",
+    "Thành phố Cần Thơ",
+    "Tỉnh An Giang"
+   ],
+   "dung": 0,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 93 (mục 2a: Phù Nam sụp đổ đầu thế kỉ VII, danh nghĩa thuộc Chân Lạp, giao cho dòng dõi vua Phù Nam, cuối thế kỉ XIV quân Xiêm) và tr. 94 (đất ngấm mặn, thế kỉ X – đầu XIV thưa vắng; lưu dân người Việt lập làng ở Mô Xoài, Đồng Nai). Catalog ghi 'từ thế kỉ XIV lưu dân người Việt bắt đầu đến khai hoang' – SGK chỉ nói 'phải đến vài thế kỉ sau đó', nên lời thoại giữ đúng cách nói của SGK. Không làm bản đồ di dân vì SGK không có lược đồ. Cảnh 3, 4 dùng lại ảnh L7-B8-02 cảnh 4, 11 để minh hoạ triều đình và quân đội Chân Lạp (Ăng-co).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

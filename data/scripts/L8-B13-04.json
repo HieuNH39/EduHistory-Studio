@@ -1,0 +1,179 @@
+{
+ "ma": "L8-B13-04",
+ "ten_tap": "Văn học và nghệ thuật: Tiếng nói nhân văn",
+ "ten_tap_en": "Literature and Art: A Humanist Voice",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 13. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+  "trang": [
+   60
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "lãng mạn, nhân văn",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 13, tr. 60.",
+ "chinh_sach_hinh": "Không vẽ chân dung bằng AI; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân ôm cuốn tiểu thuyết dày, Nhật Minh đeo tai nghe",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XVIII – XIX, văn học và nghệ thuật đã cất lên tiếng nói nhân văn đầy xúc động!",
+     "In the 18th–19th centuries, literature and art raised a deeply moving humanist voice!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu nhà văn Vích-to Huy-gô (1802 – 1885)",
+    "tim": "Victor Hugo photograph Nadar",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Vích-to Huy-gô (1802 – 1885)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Văn học phát triển rực rỡ, phản ánh khá đầy đủ hiện thực xã hội. Tiêu biểu là Tấn trò đời của H. Ban-dắc; Nhà thờ Đức Bà Pa-ri, Những người khốn khổ của Vích-to Huy-gô; Chiến tranh và hoà bình của Lép Tôn-xtôi.",
+     "Literature flourished, reflecting social reality quite fully: Balzac's Human Comedy; Victor Hugo's Notre-Dame de Paris and Les Misérables; Tolstoy's War and Peace."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung L. Bét-tô-ven (1770 – 1827) (như Hình 13.4 SGK tr. 60)",
+    "tim": "Beethoven portrait Stieler",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: L. Bét-tô-ven (1770 – 1827)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thế kỉ XVIII, âm nhạc ghi dấu ấn của V. Mô-da và Giô-han Bách với những tác phẩm mẫu mực cổ điển. Đến thế kỉ XIX, âm nhạc tràn đầy tính lãng mạn với L. Bét-tô-ven, Ph. Sô-panh, P. I. Trai-cốp-xki.",
+     "In the 18th century, Mozart and Bach set classical models; in the 19th, music overflowed with romanticism in Beethoven, Chopin and Tchaikovsky."
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tác phẩm Những người khốn khổ là của nhà văn nào?",
+    "lua_chon": [
+     "H. Ban-dắc",
+     "Vích-to Huy-gô",
+     "Lép Tôn-xtôi"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Những người khốn khổ là của ai?",
+     "EduHistory asks you! Who wrote Les Misérables?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Vích-to Huy-gô!",
+     "The answer is B: Victor Hugo!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật thời kì này phản ánh cuộc sống chứa chan tình nhân ái, ca ngợi cuộc đấu tranh cho tự do. Cậu thích tác phẩm nào? Bình luận nhé!",
+     "Art then reflected life full of compassion and celebrated the struggle for freedom. Which work do you love? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tác phẩm Chiến tranh và hoà bình là của nhà văn nào?",
+   "dap_an": [
+    "Lép Tôn-xtôi",
+    "A. Pu-skin",
+    "S. Đích-ken",
+    "Giô-han Gớt"
+   ],
+   "dung": 0,
+   "trang": 60
+  },
+  {
+   "hoi": "Nhà soạn nhạc nào sau đây thuộc thế kỉ XIX với âm nhạc lãng mạn?",
+   "dap_an": [
+    "L. Bét-tô-ven",
+    "V. Mô-da",
+    "Giô-han Bách",
+    "Vôn-te"
+   ],
+   "dung": 0,
+   "trang": 60
+  },
+  {
+   "hoi": "Ph. Sô-panh là nhà soạn nhạc người nước nào?",
+   "dap_an": [
+    "Ba Lan",
+    "Nga",
+    "Đức",
+    "Áo"
+   ],
+   "dung": 0,
+   "trang": 60
+  },
+  {
+   "hoi": "Cung điện Véc-xai ở nước nào?",
+   "dap_an": [
+    "Pháp",
+    "Anh",
+    "Đức",
+    "Nga"
+   ],
+   "dung": 0,
+   "trang": 60
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 60 (mục 2: văn học – Ban-dắc, Vích-to Huy-gô, Lép Tôn-xtôi, Pu-skin, Si-lơ, Gớt, Thác-cơ-rê, Đích-ken; nghệ thuật chứa chan tình nhân ái; âm nhạc – Mô-da, Bách, Bét-tô-ven, Sô-panh, Trai-cốp-xki; cung điện Véc-xai; Hình 13.4 Bét-tô-ven). Khung dọc; chân dung là ảnh, tranh tư liệu thuộc phạm vi công cộng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

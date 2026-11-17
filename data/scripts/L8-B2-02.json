@@ -1,0 +1,199 @@
+{
+ "ma": "L8-B2-02",
+ "ten_tap": "Triết học Ánh sáng - Ngọn đuốc soi đường",
+ "ten_tap_en": "The Enlightenment: A Guiding Torch",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 2. Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+  "trang": [
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sáng suốt, khai mở",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 2, tr. 13.",
+ "chinh_sach_hinh": "Không vẽ chân dung bằng AI: ba nhà tư tưởng dùng tranh chân dung tư liệu; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm ngọn đèn nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trước Cách mạng Pháp, có những ngọn đuốc tư tưởng đã soi đường. Đó là trào lưu Triết học Ánh sáng thế kỉ XVIII!",
+     "Before the French Revolution, torches of thought lit the way: the 18th-century Enlightenment!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung S. Mông-te-xki-ơ (1689 – 1755)",
+    "tim": "Montesquieu portrait",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: S. Mông-te-xki-ơ (1689 – 1755)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "S. Mông-te-xki-ơ chủ trương hạn chế quyền của vua, đảm bảo quyền tự do của công dân.",
+     "Montesquieu argued for limiting the king's power and guaranteeing citizens' freedom."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung Vôn-te (1694 – 1778)",
+    "tim": "Voltaire portrait Largillière",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: Vôn-te (1694 – 1778)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vôn-te chủ trương xây dựng chính quyền quân chủ sáng suốt, bảo vệ quyền tự do tín ngưỡng, khẳng định quyền tư hữu.",
+     "Voltaire favoured an enlightened monarchy, defended freedom of belief, and affirmed the right to property."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung G. G. Rút-xô (1712 – 1778)",
+    "tim": "Jean-Jacques Rousseau portrait Quentin de La Tour",
+    "yeu_cau": "tranh chân dung thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Tư liệu: G. G. Rút-xô (1712 – 1778)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn G. G. Rút-xô cho rằng phải xoá bỏ triệt để nền quân chủ, thành lập chế độ cộng hoà.",
+     "Rousseau held that monarchy must be completely abolished and a republic established."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà tư tưởng nào chủ trương xoá bỏ triệt để nền quân chủ, thành lập chế độ cộng hoà?",
+    "lua_chon": [
+     "Mông-te-xki-ơ",
+     "Vôn-te",
+     "Rút-xô"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai chủ trương thành lập chế độ cộng hoà?",
+     "EduHistory asks you! Who called for a republic?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: G. G. Rút-xô!",
+     "The answer is C: Rousseau!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Họ đã đả phá chế độ phong kiến và Giáo hội, mở đường cho cách mạng bùng nổ. Cậu tâm đắc với tư tưởng của ai nhất? Bình luận nhé!",
+     "They attacked feudalism and the Church, paving the way for revolution. Whose ideas do you like best? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trào lưu tư tưởng nào mở đường cho Cách mạng tư sản Pháp?",
+   "dap_an": [
+    "Triết học Ánh sáng thế kỉ XVIII",
+    "Văn hoá Phục hưng",
+    "Cải cách tôn giáo",
+    "Chủ nghĩa xã hội khoa học"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Ai chủ trương hạn chế quyền của vua, đảm bảo quyền tự do của công dân?",
+   "dap_an": [
+    "S. Mông-te-xki-ơ",
+    "Vôn-te",
+    "G. G. Rút-xô",
+    "C. Mác"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Vôn-te bảo vệ quyền gì?",
+   "dap_an": [
+    "Quyền tự do tín ngưỡng",
+    "Quyền của vua tuyệt đối",
+    "Quyền của Giáo hội",
+    "Quyền của quý tộc"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Các nhà tư tưởng Triết học Ánh sáng đả phá điều gì?",
+   "dap_an": [
+    "Chế độ phong kiến và Giáo hội",
+    "Giai cấp tư sản",
+    "Nền cộng hoà",
+    "Khoa học"
+   ],
+   "dung": 0,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 13 (về tư tưởng: S. Mông-te-xki-ơ, Vôn-te, G. G. Rút-xô đả phá chế độ phong kiến và Giáo hội qua Triết học Ánh sáng thế kỉ XVIII; chủ trương của từng người). Khung dọc; chân dung là tranh tư liệu thuộc phạm vi công cộng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

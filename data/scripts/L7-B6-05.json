@@ -1,0 +1,330 @@
+{
+ "ma": "L7-B6-05",
+ "ten_tap": "Kiệt tác kiến trúc Đông Nam Á",
+ "ten_tap_en": "Architectural Masterpieces of Southeast Asia",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 6. Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+  "trang": [
+   35,
+   38
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nghe-nhan-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, huyền bí",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 6, tr. 35–38.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước những tấm ảnh lớn về đền tháp Đông Nam Á",
+   "loi": [
+    [
+     "Hân Hân",
+     "Có một ngôi chùa dùng tới 5 448 viên kim cương và 9 300 lá vàng để trang trí. Cậu có tin không?",
+     "There's a temple decorated with 5,448 diamonds and 9,300 gold leaves. Can you believe it?"
+    ],
+    [
+     "Nhật Minh",
+     "Thật ư? Cùng khám phá những kiệt tác kiến trúc Đông Nam Á nhé!",
+     "Really? Let's explore Southeast Asia's architectural masterpieces!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiến trúc, điêu khắc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-mi-an-ma"
+   ],
+   "hinh": "Dùng lại ảnh L7-B6-01 cảnh 3: toàn cảnh đô thị cổ Pa-gan lúc bình minh, hàng trăm ngôi chùa, tháp gạch đỏ ven sông I-ra-oa-đi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều công trình kiến trúc như đền, chùa, tháp được xây dựng, đã trở thành các di tích lịch sử, văn hoá nổi tiếng thế giới.",
+     "Many temples, pagodas and towers were built and became world-famous historic and cultural sites."
+    ],
+    [
+     "Hân Hân",
+     "Như toàn cảnh đô thị cổ Pa-gan, thuộc Mi-an-ma ngày nay.",
+     "Like the ancient city of Bagan, in today's Myanmar."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B6-01/canh-03.jpg",
+   "nguon_trang": [
+    35,
+    38
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chùa Vàng (Mi-an-ma) (như Hình 4 SGK, tr. 38)",
+    "tim": "Shwedagon Pagoda Yangon",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chùa Vàng (Mi-an-ma)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chùa Vàng là ngôi chùa nổi tiếng nhất ở Mi-an-ma hiện nay.",
+     "The Golden Pagoda is Myanmar's most famous temple today."
+    ],
+    [
+     "Hân Hân",
+     "Trong chùa, người ta dùng tới 5 448 viên kim cương, 9 300 lá vàng để trang trí. Có đến 1 085 chuông vàng và 421 chuông bạc được treo khắp nơi.",
+     "Inside, 5,448 diamonds and 9,300 gold leaves are used for decoration, and 1,085 golden bells and 421 silver bells hang everywhere."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chùa Vàng ở Mi-an-ma treo bao nhiêu chuông vàng?",
+    "lua_chon": [
+     "421",
+     "1 085",
+     "5 448"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chùa Vàng ở Mi-an-ma có bao nhiêu chuông vàng?",
+     "EduHistory asks you! How many golden bells hang in Myanmar's Golden Pagoda?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 1 085 chuông vàng!",
+     "The answer is B: 1,085 golden bells!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chùa Vàng (Thái Lan)",
+    "tim": "Wat Phra Kaew Bangkok",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chùa Vàng (Thái Lan)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngoài ra còn có chùa Vàng ở Thái Lan.",
+     "There is also the Golden Temple in Thailand."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Khu đền Ăng-co (Cam-pu-chia)",
+    "tim": "Angkor Wat sunrise",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: khu đền Ăng-co (Cam-pu-chia)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Và khu đền Ăng-co ở Cam-pu-chia, một di tích nổi tiếng thế giới.",
+     "And the Angkor temples in Cambodia, a world-famous site."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghe-nhan-dong-nam-a"
+   ],
+   "hinh": "Dùng lại ảnh L7-B8-02 cảnh 9: người thợ chạm khắc phù điêu vũ nữ lên vách đá sa thạch",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật điêu khắc và tạc tượng thần, Phật, phù điêu thể hiện ảnh hưởng mạnh mẽ của văn hoá Ấn Độ, Trung Quốc.",
+     "Sculpture of gods, Buddhas and reliefs showed strong Indian and Chinese influence."
+    ],
+    [
+     "Hân Hân",
+     "Đồng thời thể hiện sự sáng tạo của các nghệ nhân Đông Nam Á.",
+     "And at the same time the creativity of Southeast Asian artisans."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B8-02/canh-09.jpg",
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nghệ thuật điêu khắc Đông Nam Á thời kì này chịu ảnh hưởng mạnh mẽ của văn hoá nào?",
+    "lua_chon": [
+     "Ấn Độ, Trung Quốc",
+     "Hy Lạp, La Mã",
+     "Ai Cập, Lưỡng Hà"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Điêu khắc Đông Nam Á chịu ảnh hưởng mạnh mẽ của văn hoá nào?",
+     "Pause! Southeast Asian sculpture was strongly influenced by which cultures?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Ấn Độ và Trung Quốc!",
+     "The answer is A: India and China!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Đô thị cổ Pa-gan (Mi-an-ma)",
+    "Chùa Vàng (Mi-an-ma), chùa Vàng (Thái Lan)",
+    "Khu đền Ăng-co (Cam-pu-chia)",
+    "Điêu khắc: ảnh hưởng Ấn Độ, Trung Quốc + sáng tạo riêng"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Pa-gan, chùa Vàng, khu đền Ăng-co, những kiệt tác kiến trúc của Đông Nam Á.",
+     "Remember: Bagan, the Golden Pagodas, Angkor, Southeast Asia's architectural masterpieces."
+    ],
+    [
+     "Nhật Minh",
+     "Chúng kết hợp ảnh hưởng bên ngoài với sự sáng tạo của chính người Đông Nam Á.",
+     "They blend outside influences with Southeast Asians' own creativity."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "tieu_de": "KIỆT TÁC KIẾN TRÚC ĐÔNG NAM Á",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy giới thiệu một công trình kiến trúc Đông Nam Á mà cậu ấn tượng nhất trong một câu! Bình luận nhé!",
+     "Your challenge: introduce your favourite Southeast Asian monument in one sentence! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chùa Vàng nổi tiếng nhất hiện nay thuộc quốc gia nào?",
+   "dap_an": [
+    "Mi-an-ma",
+    "Lào",
+    "In-đô-nê-xi-a",
+    "Phi-líp-pin"
+   ],
+   "dung": 0,
+   "trang": 38
+  },
+  {
+   "hoi": "Chùa Vàng ở Mi-an-ma dùng bao nhiêu lá vàng để trang trí?",
+   "dap_an": [
+    "421",
+    "1 085",
+    "5 448",
+    "9 300"
+   ],
+   "dung": 3,
+   "trang": 38
+  },
+  {
+   "hoi": "Đô thị cổ Pa-gan thuộc quốc gia nào ngày nay?",
+   "dap_an": [
+    "Thái Lan",
+    "Mi-an-ma",
+    "Cam-pu-chia",
+    "Lào"
+   ],
+   "dung": 1,
+   "trang": 35
+  },
+  {
+   "hoi": "Khu đền Ăng-co thuộc quốc gia nào?",
+   "dap_an": [
+    "Cam-pu-chia",
+    "Thái Lan",
+    "Mi-an-ma",
+    "Ma-lai-xi-a"
+   ],
+   "dung": 0,
+   "trang": 38
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 35 (Hình 1 Pa-gan, thuộc Mi-an-ma ngày nay) và tr. 38 (ô Kết nối văn hoá chùa Vàng: 5 448 kim cương, 9 300 lá vàng, 1 085 chuông vàng, 421 chuông bạc; mục 3c kiến trúc, điêu khắc; Hình 4). Cảnh 3, 8 dùng lại ảnh L7-B6-01 cảnh 3, L7-B8-02 cảnh 9.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

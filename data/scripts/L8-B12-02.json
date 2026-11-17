@@ -1,0 +1,210 @@
+{
+ "ma": "L8-B12-02",
+ "ten_tap": "Cái giá của cuộc chiến tranh phi nghĩa",
+ "ten_tap_en": "The Cost of an Unjust War",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 12. Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+  "trang": [
+   55,
+   57
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trầm buồn, nghiêm trang",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 12, tr. 55–57.",
+ "chinh_sach_hinh": "Chỉ dùng ảnh tư liệu thật, không có thi thể, không cảnh chiến đấu; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, nét mặt nghiêm trang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh thế giới thứ nhất từ năm 1914 đến năm 1918 là cuộc chiến tranh đế quốc phi nghĩa đối với cả hai bên tham chiến. Cái giá của nó là gì?",
+     "World War I, 1914–1918, was an unjust imperialist war on both sides. What was its cost?"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một thành phố ở châu Âu bị tàn phá sau Chiến tranh thế giới thứ nhất",
+    "tim": "Ypres ruins 1919",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, không có thi thể, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: thành phố bị tàn phá sau Chiến tranh thế giới thứ nhất",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh đã gây ra những thảm hoạ hết sức nặng nề đối với nhân loại. Nhiều thành phố, làng mạc, đường sá, cầu cống, nhà máy bị phá huỷ.",
+     "The war brought terrible disasters to humanity. Many cities, villages, roads, bridges and factories were destroyed."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "38 nước tham gia",
+    "10 triệu người chết",
+    "20 triệu người bị thương",
+    "Tổn thất kinh tế: 85 tỉ đô la Mỹ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "38 nước tham gia, 10 triệu người chết, 20 triệu người bị thương, tổn thất về kinh tế lên tới 85 tỉ đô la Mỹ.",
+     "38 countries took part; 10 million died, 20 million were wounded, and economic losses reached 85 billion US dollars."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "tieu_de": "TỔN THẤT CỦA CHIẾN TRANH THẾ GIỚI THỨ NHẤT",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, trên bảng vẽ hai bên cán cân: châu Âu và Mỹ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nước châu Âu đều biến thành con nợ của Mỹ. Riêng Mỹ được hưởng lợi nhờ buôn bán vũ khí: thu nhập quốc dân tăng gấp đôi, vốn đầu tư ra nước ngoài tăng bốn lần.",
+     "European countries all became debtors to the US. America alone profited from arms sales: national income doubled and overseas investment quadrupled."
+    ],
+    [
+     "Nhật Minh",
+     "Nhật Bản chiếm lại một số đảo của Đức, nâng cao vị thế ở khu vực Đông Á và Thái Bình Dương.",
+     "Japan seized some German islands, raising its standing in East Asia and the Pacific."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh thế giới thứ nhất làm bao nhiêu người chết?",
+    "lua_chon": [
+     "1 triệu người",
+     "10 triệu người",
+     "100 triệu người"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chiến tranh thế giới thứ nhất làm bao nhiêu người chết?",
+     "EduHistory asks you! How many died in World War I?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 10 triệu người, và 20 triệu người bị thương!",
+     "The answer is B: 10 million, with 20 million wounded!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao nói Chiến tranh thế giới thứ nhất là cuộc chiến tranh đế quốc phi nghĩa? Bình luận nhé!",
+     "Why is World War I called an unjust imperialist war? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chiến tranh thế giới thứ nhất kết thúc với thắng lợi của khối nào?",
+   "dap_an": [
+    "Khối Hiệp ước",
+    "Khối Liên minh",
+    "Khối Đồng minh",
+    "Khối Trục"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Sau chiến tranh, các nước châu Âu đều trở thành con nợ của nước nào?",
+   "dap_an": [
+    "Mỹ",
+    "Nhật Bản",
+    "Nga",
+    "Trung Quốc"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Có bao nhiêu nước tham gia Chiến tranh thế giới thứ nhất?",
+   "dap_an": [
+    "38 nước",
+    "10 nước",
+    "85 nước",
+    "20 nước"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Nước nào nâng cao vị thế ở khu vực Đông Á và Thái Bình Dương sau chiến tranh?",
+   "dap_an": [
+    "Nhật Bản",
+    "Đức",
+    "Áo – Hung",
+    "Xéc-bi"
+   ],
+   "dung": 0,
+   "trang": 55
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 55 (mục 1b: chiến tranh đế quốc phi nghĩa; thắng lợi khối Hiệp ước; thành phố, làng mạc bị phá huỷ; châu Âu con nợ của Mỹ; Mỹ hưởng lợi – thu nhập quốc dân tăng gấp đôi, đầu tư ra nước ngoài tăng bốn lần; Nhật Bản; bảng số liệu 38 nước, 10 triệu chết, 20 triệu bị thương, 85 tỉ USD) và tr. 57 (Luyện tập 1). Khung dọc; ảnh tư liệu không có cảnh thương vong.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

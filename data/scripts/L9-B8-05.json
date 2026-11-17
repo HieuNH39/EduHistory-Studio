@@ -1,0 +1,171 @@
+{
+ "ma": "L9-B8-05",
+ "ten_tap": "Ngày độc lập tại Ba Đình",
+ "ten_tap_en": "Independence Day at Ba Đình",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 8. Cách mạng tháng Tám năm 1945",
+  "trang": [
+   39,
+   40
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 8, tr. 39–40.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là lá cờ đỏ sao vàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 2 tháng 9 năm 1945 – ngày khai sinh nước Việt Nam Dân chủ Cộng hoà. Cùng trở về khoảnh khắc ấy nhé!",
+     "2 September 1945, the birthday of the Democratic Republic of Vietnam. Let's go back to that moment!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Quảng trường Ba Đình ngày 2 – 9 – 1945",
+    "tim": "Ba Dinh Square 2 September 1945 Declaration of Independence photograph",
+    "yeu_cau": "ảnh tư liệu năm 1945, ghi nguồn, kiểm tra giấy phép; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: Quảng trường Ba Đình, 2 – 9 – 1945",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 25 tháng 8 năm 1945, Chủ tịch Hồ Chí Minh từ Tân Trào về đến Hà Nội, soạn thảo bản Tuyên ngôn Độc lập.",
+     "On 25 August 1945, President Hồ Chí Minh arrived in Hà Nội from Tân Trào and drafted the Declaration of Independence."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày 2 tháng 9, tại Quảng trường Ba Đình, trước hàng vạn nhân dân, Người thay mặt Chính phủ lâm thời đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hoà.",
+     "On 2 September, at Ba Đình Square, before tens of thousands of people, he read the Declaration on behalf of the provisional government, founding the Democratic Republic of Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nước Việt Nam Dân chủ Cộng hoà ra đời ngày nào?",
+    "lua_chon": [
+     "19 – 8 – 1945",
+     "2 – 9 – 1945",
+     "25 – 8 – 1945"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nước Việt Nam Dân chủ Cộng hoà ra đời ngày nào?",
+     "EduHistory asks you! When was the Democratic Republic of Vietnam born?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ngày 2 tháng 9 năm 1945!",
+     "The answer is B: 2 September 1945!"
+    ]
+   ],
+   "nguon_trang": [
+    39
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) đứng nghiêm trang; trên màn hình hiện dòng chữ trích Tuyên ngôn Độc lập",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuyên ngôn khẳng định: Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã thành một nước tự do và độc lập.",
+     "The Declaration affirmed: Vietnam has the right to enjoy freedom and independence, and has in fact become a free and independent country."
+    ],
+    [
+     "Nhật Minh",
+     "Cách mạng tháng Tám chấm dứt chế độ quân chủ, mở ra kỉ nguyên độc lập, tự do. Theo cậu, ta cần làm gì để giữ gìn độc lập hôm nay? Bình luận nhé!",
+     "The August Revolution ended the monarchy and opened an era of independence and freedom. What should we do to keep it today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    39,
+    40
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai đọc Tuyên ngôn Độc lập ngày 2 – 9 – 1945?",
+   "dap_an": [
+    "Chủ tịch Hồ Chí Minh",
+    "Võ Nguyên Giáp",
+    "Trường Chinh",
+    "Phạm Văn Đồng"
+   ],
+   "dung": 0,
+   "trang": 39
+  },
+  {
+   "hoi": "Tuyên ngôn Độc lập được đọc ở đâu?",
+   "dap_an": [
+    "Quảng trường Ba Đình (Hà Nội)",
+    "Tân Trào (Tuyên Quang)",
+    "Pác Bó (Cao Bằng)",
+    "Nhà hát Lớn Hà Nội"
+   ],
+   "dung": 0,
+   "trang": 39
+  },
+  {
+   "hoi": "Ngày 25 – 8 – 1945, Chủ tịch Hồ Chí Minh từ đâu về Hà Nội?",
+   "dap_an": [
+    "Tân Trào",
+    "Pác Bó",
+    "Hương Cảng",
+    "Sài Gòn"
+   ],
+   "dung": 0,
+   "trang": 39
+  },
+  {
+   "hoi": "Cách mạng tháng Tám đã chấm dứt chế độ nào ở nước ta?",
+   "dap_an": [
+    "Chế độ quân chủ",
+    "Chế độ dân chủ cộng hoà",
+    "Chế độ xã hội chủ nghĩa",
+    "Chế độ công xã"
+   ],
+   "dung": 0,
+   "trang": 40
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 39 (mục 3b: 25 – 8 – 1945 Hồ Chí Minh về Hà Nội, soạn Tuyên ngôn Độc lập; 2 – 9 tại Quảng trường Ba Đình đọc Tuyên ngôn khai sinh nước VNDCCH; tư liệu 3 trích Tuyên ngôn) và tr. 40 (ý nghĩa: chấm dứt chế độ quân chủ, kỉ nguyên độc lập, tự do). Khung dọc; Chủ tịch Hồ Chí Minh chỉ xuất hiện qua ảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

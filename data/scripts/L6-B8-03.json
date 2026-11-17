@@ -1,0 +1,477 @@
+{
+ "ma": "L6-B8-03",
+ "ten_tap": "Di sản rực rỡ của Ấn Độ cổ đại",
+ "ten_tap_en": "The Brilliant Legacy of Ancient India",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 8. Ấn Độ cổ đại",
+  "trang": [
+   36,
+   37,
+   38
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-an-do-co"
+ ],
+ "nhac": {
+  "tam_trang": "rực rỡ, kì vĩ",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 8, tr. 36–38.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng về Ấn Độ cổ đại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chữ số 0 cậu viết mỗi ngày, cậu có biết nó đến từ đâu không?",
+     "The zero you write every day, do you know where it came from?"
+    ],
+    [
+     "Nhật Minh",
+     "Từ Ấn Độ cổ đại! Cùng điểm lại những di sản rực rỡ của Ấn Độ nhé!",
+     "From ancient India! Let's look at India's brilliant legacy!"
+    ]
+   ],
+   "nguon_trang": [
+    36,
+    37
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Con dấu khắc kí tự tượng hình tìm thấy ở lưu vực sông Ấn (như Hình 5 SGK tr. 36)",
+    "tim": "Indus Valley seal",
+    "yeu_cau": "ảnh tư liệu hiện vật thuộc phạm vi công cộng hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: con dấu có kí tự cổ ở lưu vực sông Ấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Ấn Độ tạo ra chữ viết từ rất sớm. Chữ viết cổ nhất của họ khắc trên các con dấu, được phát hiện ở lưu vực sông Ấn, có từ hơn 2 000 năm TCN.",
+     "Indians created writing very early. Their oldest script, carved on seals found in the Indus valley, dates from over 2,000 years BCE."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một bản chép tay chữ Phạn (San-xkrít) trên lá cọ",
+    "tim": "Sanskrit palm leaf manuscript",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng hoặc giấy phép mở, ghi nguồn; không có hình thần linh"
+   },
+   "hinh": "Tư liệu: bản chép tay chữ Phạn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vào khoảng thế kỉ VII TCN, chữ Phạn, tức San-xkrít, ra đời dựa trên việc cải biên những chữ viết cổ trước đó.",
+     "Around the 7th century BCE, Sanskrit script arose by adapting earlier scripts."
+    ],
+    [
+     "Hân Hân",
+     "Chữ Phạn là cơ sở của nhiều loại chữ viết ở Ấn Độ và Đông Nam Á sau này.",
+     "Sanskrit became the basis of many later scripts in India and Southeast Asia."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chữ Phạn (San-xkrít) ra đời vào khoảng thời gian nào?",
+    "lua_chon": [
+     "Thế kỉ VII TCN",
+     "Thế kỉ X",
+     "Năm 2000"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chữ Phạn ra đời khi nào?",
+     "EduHistory asks you! When did Sanskrit script appear?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: khoảng thế kỉ VII trước Công nguyên!",
+     "The answer is A: around the 7th century BCE!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-an-do-co"
+   ],
+   "hinh": "Làng Ấn Độ cổ đại lúc chiều: một ông lão kể chuyện râu bạc, áo vải trắng, ngồi trên bệ đá dưới gốc cây đa lớn, tay cầm tập lá cọ; dân làng, người già và trẻ em ngồi quanh chăm chú nghe; phía sau là nhà gạch và đồng lúa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hai tác phẩm văn học nổi bật nhất thời cổ đại là Ma-ha-bha-ra-ta và Ra-ma-y-a-na.",
+     "The two greatest literary works of ancient India are the Mahabharata and the Ramayana."
+    ],
+    [
+     "Hân Hân",
+     "Ma-ha-bha-ra-ta là bản trường ca gồm 110 000 câu thơ đôi, được coi là bộ bách khoa toàn thư về đời sống xã hội Ấn Độ thời cổ đại.",
+     "The Mahabharata is an epic of 110,000 couplets, seen as an encyclopedia of ancient Indian society."
+    ],
+    [
+     "Nhật Minh",
+     "Còn Ra-ma-y-a-na dài 24 000 câu thơ đôi, kể về tình yêu giữa Hoàng tử Ra-ma và Công chúa Si-ta.",
+     "The Ramayana runs 24,000 couplets and tells the love story of Prince Rama and Princess Sita."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng, Hân Hân chỉ lên tấm bản đồ khái quát châu Á vẽ phấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hai bộ sử thi có ảnh hưởng to lớn tới sự phát triển của văn học Ấn Độ và Đông Nam Á ở các giai đoạn sau này.",
+     "Both epics greatly influenced the later literature of India and Southeast Asia."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sử thi Ra-ma-y-a-na kể về tình yêu giữa ai?",
+    "lua_chon": [
+     "Hoàng tử Ra-ma và Công chúa Si-ta",
+     "Vua A-sô-ca và hoàng hậu",
+     "Hai thương nhân"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ra-ma-y-a-na kể về tình yêu giữa ai?",
+     "Pause! Whose love story does the Ramayana tell?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Hoàng tử Ra-ma và Công chúa Si-ta!",
+     "The answer is A: Prince Rama and Princess Sita!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lịch và chữ số",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng viết hàng chữ số từ 0 đến 9, Nhật Minh khoanh tròn số 0",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Ấn Độ cổ đại đã biết làm lịch. Họ cũng là chủ nhân của 10 chữ số mà ngày nay được dùng rộng rãi trên thế giới, đặc biệt là chữ số 0.",
+     "Ancient Indians made calendars. They also created the 10 digits used worldwide today, especially zero."
+    ],
+    [
+     "Hân Hân",
+     "Người Ả Rập đã học tập chữ số Ấn Độ rồi truyền sang châu Âu.",
+     "Arabs learned the Indian numerals and passed them on to Europe."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai đã học tập chữ số Ấn Độ rồi truyền sang châu Âu?",
+    "lua_chon": [
+     "Người La Mã",
+     "Người Ả Rập",
+     "Người Trung Quốc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai truyền chữ số Ấn Độ sang châu Âu?",
+     "EduHistory asks you! Who carried Indian numerals to Europe?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: người Ả Rập!",
+     "The answer is B: the Arabs!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "bra-man"
+   ],
+   "hinh": "Dùng lại ảnh L6-B8-02 cảnh 6: các tăng lữ Bra-man mặc áo trắng ngồi bên bàn thờ lửa trên bậc đá ven sông, khói hương bay lên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ấn Độ cổ đại là quê hương của các tôn giáo lớn. Ra đời sớm nhất là đạo Bà La Môn.",
+     "Ancient India was the homeland of great religions. The earliest was Brahmanism."
+    ],
+    [
+     "Hân Hân",
+     "Những thế kỉ đầu Công nguyên, đạo Bà La Môn phát triển thành đạo Hin-đu, hay Ấn Độ giáo.",
+     "In the early centuries CE, Brahmanism developed into Hinduism."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B8-02/canh-06.jpg",
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày bảo tàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khoảng thế kỉ VI TCN, Phật giáo được hình thành, người sáng lập là Xít-đác-ta Gô-ta-ma, tức Thích Ca Mâu Ni.",
+     "Around the 6th century BCE, Buddhism took shape, founded by Siddhartha Gautama, the Buddha."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 16,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiến trúc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 17,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đầu trụ cột đá A-sô-ca (như Hình 8 SGK tr. 38)",
+    "tim": "Lion Capital of Ashoka Sarnath",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đầu trụ cột đá A-sô-ca",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công trình kiến trúc tiêu biểu của Ấn Độ cổ đại là cột đá A-sô-ca. Đây là đầu trụ của cột đá ấy.",
+     "A signature monument of ancient India is the Ashoka pillar. This is its capital."
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đại bảo tháp San-chi – đỉnh cao của nghệ thuật Phật giáo Ấn Độ (như Hình 9 SGK tr. 38)",
+    "tim": "Great Stupa Sanchi",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đại bảo tháp San-chi (Ấn Độ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Và đây là đại bảo tháp San-chi, đỉnh cao của nghệ thuật Phật giáo Ấn Độ.",
+     "And this is the Great Stupa at Sanchi, a peak of Indian Buddhist art."
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "ghi_nho",
+   "y": [
+    "Chữ viết: kí tự trên con dấu (hơn 2 000 năm TCN); chữ Phạn (thế kỉ VII TCN)",
+    "Văn học: sử thi Ma-ha-bha-ra-ta, Ra-ma-y-a-na",
+    "Toán học: làm lịch; 10 chữ số, đặc biệt chữ số 0",
+    "Tôn giáo: Bà La Môn → Hin-đu; Phật giáo (thế kỉ VI TCN)",
+    "Kiến trúc: cột đá A-sô-ca, đại bảo tháp San-chi"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: chữ Phạn, hai bộ sử thi, lịch và 10 chữ số,",
+     "Remember: Sanskrit, two epics, the calendar and the 10 digits,"
+    ],
+    [
+     "Nhật Minh",
+     "các tôn giáo lớn, cột đá A-sô-ca và đại bảo tháp San-chi!",
+     "great religions, the Ashoka pillar and the Great Stupa of Sanchi!"
+    ]
+   ],
+   "nguon_trang": [
+    36,
+    37,
+    38
+   ],
+   "tieu_de": "THÀNH TỰU VĂN HOÁ ẤN ĐỘ CỔ ĐẠI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thành tựu văn hoá nào của người Ấn Độ cổ đại vẫn được sử dụng hoặc bảo tồn đến ngày nay? Bình luận nhé!",
+     "Your challenge: which achievements of ancient India are still used or preserved today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chữ viết cổ nhất của người Ấn Độ được khắc trên vật gì?",
+   "dap_an": [
+    "Các con dấu",
+    "Giấy pa-pi-rút",
+    "Đất sét",
+    "Mai rùa"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Bộ sử thi được coi là \"bách khoa toàn thư\" về đời sống xã hội Ấn Độ cổ đại là gì?",
+   "dap_an": [
+    "Ma-ha-bha-ra-ta",
+    "Ra-ma-y-a-na",
+    "I-li-át",
+    "Kinh Thi"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Đạo Bà La Môn phát triển thành tôn giáo nào?",
+   "dap_an": [
+    "Đạo Hin-đu",
+    "Phật giáo",
+    "Hồi giáo",
+    "Đạo Thiên Chúa"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Công trình kiến trúc tiêu biểu của Ấn Độ cổ đại là gì?",
+   "dap_an": [
+    "Cột đá A-sô-ca và đại bảo tháp San-chi",
+    "Kim tự tháp",
+    "Vạn Lý Trường Thành",
+    "Đền Pác-tê-nông"
+   ],
+   "dung": 0,
+   "trang": 37
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 36 (mục 3: chữ viết cổ trên con dấu ở lưu vực sông Ấn hơn 2 000 năm TCN; chữ Phạn khoảng thế kỉ VII TCN), tr. 37 (sử thi Ma-ha-bha-ra-ta 110 000 câu thơ đôi, Ra-ma-y-a-na 24 000 câu thơ đôi; lịch; 10 chữ số, chữ số 0; người Ả Rập truyền sang châu Âu; Bà La Môn, Hin-đu, Phật giáo thế kỉ VI TCN; cột đá A-sô-ca, đại bảo tháp San-chi) và tr. 38 (Hình 8, 9; Vận dụng 2). Dùng lại ảnh L6-B8-02 cảnh 6; một cảnh tái hiện mới (người kể sử thi, không vẽ thần linh); không vẽ người sáng lập tôn giáo.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

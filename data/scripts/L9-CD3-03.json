@@ -1,0 +1,290 @@
+{
+ "ma": "L9-CD3-03",
+ "ten_tap": "Luật pháp quốc tế nói gì?",
+ "ten_tap_en": "What Does International Law Say?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (2)",
+  "trang": [
+   234
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, rõ ràng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 3, tr. 234.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: UNCLOS 1982 – Luật Biển Việt Nam 2012",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bên cạnh chứng cứ lịch sử, chủ quyền biển đảo của Việt Nam còn có cơ sở pháp lí vững chắc. Luật pháp quốc tế nói gì?",
+     "Besides historical evidence, Vietnam's sovereignty over its seas and islands has a solid legal basis. What does international law say?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh trụ sở Toà án Quốc tế về Luật Biển (Ham-buốc, Đức)",
+    "tim": "International Tribunal for the Law of the Sea Hamburg building",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: trụ sở Toà án Quốc tế về Luật Biển (Ham-buốc, Đức)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Việt Nam phê chuẩn và là thành viên có trách nhiệm của Công ước Liên hợp quốc về Luật Biển năm 1982, viết tắt là UNCLOS,",
+     "Vietnam ratified and is a responsible member of the 1982 United Nations Convention on the Law of the Sea, UNCLOS,"
+    ],
+    [
+     "Nhật Minh",
+     "cơ sở pháp lí quốc tế quan trọng khẳng định chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông.",
+     "an important international legal basis affirming Vietnam's sovereignty, rights and lawful interests in the East Sea."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Công ước của Liên hợp quốc về Luật Biển được kí năm nào?",
+    "lua_chon": [
+     "1945",
+     "1982",
+     "2012"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! UNCLOS là công ước năm nào?",
+     "Pause! What year is UNCLOS from?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 1982!",
+     "The answer is B: 1982!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "CÁC HIỆP ĐỊNH VỀ BIỂN VỚI CÁC NƯỚC LÁNG GIỀNG",
+   "moc": [
+    [
+     "1982",
+     "Vùng nước lịch sử với Cam-pu-chia"
+    ],
+    [
+     "1992",
+     "Khai thác chung vùng chồng lấn với Ma-lai-xi-a"
+    ],
+    [
+     "1997",
+     "Phân định ranh giới với Thái Lan (Vịnh Thái Lan)"
+    ],
+    [
+     "2000",
+     "Phân định Vịnh Bắc Bộ với Trung Quốc"
+    ],
+    [
+     "2003",
+     "Phân định biển với In-đô-nê-xi-a"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Việt Nam đã đàm phán, kí kết nhiều văn bản: Hiệp định về vùng nước lịch sử với Cam-pu-chia năm 1982, Thoả thuận khai thác chung với Ma-lai-xi-a năm 1992,",
+     "Vietnam has negotiated many agreements: the historic waters agreement with Cambodia in 1982, the joint development arrangement with Malaysia in 1992,"
+    ],
+    [
+     "Nhật Minh",
+     "Hiệp định phân định với Thái Lan năm 1997, phân định Vịnh Bắc Bộ với Trung Quốc năm 2000 và phân định biển với In-đô-nê-xi-a năm 2003.",
+     "the boundary agreement with Thailand in 1997, the Gulf of Tonkin delimitation with China in 2000 and the maritime boundary with Indonesia in 2003."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Luật Biên giới quốc gia; Luật Dầu khí; Luật Cảnh sát biển; Luật Biển Việt Nam (2012)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên cơ sở UNCLOS, Việt Nam ban hành nhiều luật như Luật Biên giới quốc gia, Luật Dầu khí, Luật Cảnh sát biển Việt Nam.",
+     "Based on UNCLOS, Vietnam passed many laws, such as the Law on National Borders, the Petroleum Law and the Coast Guard Law."
+    ],
+    [
+     "Nhật Minh",
+     "Đặc biệt, Luật Biển Việt Nam năm 2012 cụ thể hoá Công ước về biên giới lãnh thổ, hàng hải, thuỷ sản, dầu khí, bảo vệ môi trường biển và hải đảo.",
+     "Above all, the 2012 Law of the Sea of Vietnam details the Convention on territorial boundaries, shipping, fisheries, oil and gas, and marine and island environmental protection."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh nhà giàn DK1 trên thềm lục địa phía Nam (dùng lại ảnh tư liệu của L9-CD3-04 cảnh 7)",
+    "tim": "DK1",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-CD3-04 cảnh 7"
+   },
+   "hinh": "Ảnh: nhà giàn DK1 trên thềm lục địa phía Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những cơ sở pháp lí ấy, cùng chứng cứ lịch sử, là nền tảng để Việt Nam bảo vệ chủ quyền bằng biện pháp hoà bình, theo luật pháp quốc tế.",
+     "These legal bases, together with historical evidence, are the foundation for Vietnam to defend its sovereignty peacefully under international law."
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Văn bản nào cụ thể hoá các quy định của UNCLOS trong luật Việt Nam?",
+    "lua_chon": [
+     "Luật Biển Việt Nam (2012)",
+     "Hiệp ước Pa-tơ-nốt",
+     "Hiến pháp 1946"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Văn bản nào cụ thể hoá UNCLOS?",
+     "EduHistory asks you! Which law details UNCLOS?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Luật Biển Việt Nam năm 2012!",
+     "The answer is A: the 2012 Law of the Sea of Vietnam!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao giải quyết tranh chấp trên biển cần dựa trên luật pháp quốc tế và biện pháp hoà bình? Bình luận nhé!",
+     "Your challenge: why should sea disputes be settled by international law and peaceful means? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    234
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hiệp định phân định Vịnh Bắc Bộ với Trung Quốc được kí năm nào?",
+   "dap_an": [
+    "2000",
+    "1997",
+    "2003",
+    "1982"
+   ],
+   "dung": 0,
+   "trang": 234
+  },
+  {
+   "hoi": "Việt Nam kí Hiệp định phân định biển với In-đô-nê-xi-a năm nào?",
+   "dap_an": [
+    "2003",
+    "1992",
+    "2000",
+    "2012"
+   ],
+   "dung": 0,
+   "trang": 234
+  },
+  {
+   "hoi": "Luật Biển Việt Nam được thông qua năm nào?",
+   "dap_an": [
+    "2012",
+    "1982",
+    "2003",
+    "1997"
+   ],
+   "dung": 0,
+   "trang": 234
+  },
+  {
+   "hoi": "Thoả thuận hợp tác khai thác chung vùng chồng lấn năm 1992 được kí với nước nào?",
+   "dap_an": [
+    "Ma-lai-xi-a",
+    "Thái Lan",
+    "Cam-pu-chia",
+    "In-đô-nê-xi-a"
+   ],
+   "dung": 0,
+   "trang": 234
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 234 (các hiệp định: Cam-pu-chia 1982, Ma-lai-xi-a 1992, Thái Lan 1997, Vịnh Bắc Bộ với Trung Quốc 2000, In-đô-nê-xi-a 2003; UNCLOS 1982; Luật Biên giới quốc gia, Luật Dầu khí, Luật Cảnh sát biển; Luật Biển Việt Nam 2012). Không dùng bản đồ; dùng lại ảnh L9-CD3-04 cảnh 7.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

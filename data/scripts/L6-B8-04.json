@@ -1,0 +1,199 @@
+{
+ "ma": "L6-B8-04",
+ "ten_tap": "Dấu ấn Ấn Độ trong đời sống hôm nay",
+ "ten_tap_en": "Ancient India in Our Lives Today",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 8. Ấn Độ cổ đại",
+  "trang": [
+   37,
+   38
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tươi sáng, bất ngờ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 8, tr. 37–38.",
+ "chinh_sach_hinh": "Hai bạn dẫn chuyện dựng bằng code; cột đá A-sô-ca, tháp San-chi là ảnh tư liệu có giấy phép mở.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, Nhật Minh cầm chiếc máy tính bỏ túi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Có những thứ từ Ấn Độ cổ đại mà cậu dùng mỗi ngày đấy!",
+     "Some things from ancient India you use every day!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trước tấm bảng viết hàng chữ số 0 1 2 3 4 5 6 7 8 9, Hân Hân chỉ vào số 0",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mười chữ số ta dùng hằng ngày, đặc biệt là chữ số 0, do người Ấn Độ cổ đại phát minh. Người Ả Rập học tập rồi truyền sang châu Âu.",
+     "The ten digits we use daily, especially zero, were invented in ancient India. Arabs learned them and passed them to Europe."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đầu trụ cột đá A-sô-ca (như Hình 8 SGK tr. 38)",
+    "tim": "Lion Capital of Ashoka Sarnath",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đầu trụ cột đá A-sô-ca",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quốc huy của Ấn Độ hiện nay có biểu tượng đầu trụ cột đá A-sô-ca, cùng dòng chữ: Chỉ có chân lí đắc thắng.",
+     "India's national emblem today shows the Ashoka pillar capital, with the motto: Truth alone triumphs."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đại bảo tháp San-chi (như Hình 9 SGK tr. 38)",
+    "tim": "Great Stupa Sanchi",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đại bảo tháp San-chi (Ấn Độ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ấn Độ cổ đại còn là quê hương của đạo Hin-đu và Phật giáo. Đại bảo tháp San-chi, đỉnh cao của nghệ thuật Phật giáo Ấn Độ, vẫn được bảo tồn đến ngày nay.",
+     "Ancient India was also the home of Hinduism and Buddhism. The Great Stupa of Sanchi, a peak of Buddhist art, is preserved to this day."
+    ]
+   ],
+   "nguon_trang": [
+    37,
+    38
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chữ số nào được người Ấn Độ cổ đại phát minh và rất đặc biệt?",
+    "lua_chon": [
+     "Chữ số 0",
+     "Chữ số La Mã",
+     "Chữ số 100"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Chữ số đặc biệt nào do người Ấn Độ cổ đại phát minh?",
+     "EduHistory asks you! Which special digit did ancient Indians invent?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: chữ số 0!",
+     "The answer is A: zero!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hôm nay cậu đã viết bao nhiêu chữ số 0 rồi? Bình luận nhé!",
+     "How many zeros have you written today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người Ấn Độ cổ đại là chủ nhân của bao nhiêu chữ số được dùng rộng rãi ngày nay?",
+   "dap_an": [
+    "10 chữ số",
+    "7 chữ số",
+    "12 chữ số",
+    "26 chữ số"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Quốc huy Ấn Độ hiện nay có biểu tượng gì?",
+   "dap_an": [
+    "Đầu trụ cột đá A-sô-ca",
+    "Đại bảo tháp San-chi",
+    "Con voi trắng",
+    "Hoa sen"
+   ],
+   "dung": 0,
+   "trang": 38
+  },
+  {
+   "hoi": "Đại bảo tháp San-chi là đỉnh cao của nghệ thuật nào?",
+   "dap_an": [
+    "Nghệ thuật Phật giáo Ấn Độ",
+    "Nghệ thuật Hy Lạp",
+    "Nghệ thuật Ai Cập",
+    "Nghệ thuật La Mã"
+   ],
+   "dung": 0,
+   "trang": 38
+  },
+  {
+   "hoi": "Dòng chữ trên quốc huy Ấn Độ có nghĩa là gì?",
+   "dap_an": [
+    "Chỉ có chân lí đắc thắng",
+    "Đoàn kết là sức mạnh",
+    "Tự do hay là chết",
+    "Hoà bình muôn năm"
+   ],
+   "dung": 0,
+   "trang": 38
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 37 (10 chữ số, chữ số 0, người Ả Rập truyền sang châu Âu; quê hương của các tôn giáo lớn) và tr. 38 (ô Kết nối với ngày nay: quốc huy Ấn Độ có đầu trụ cột đá A-sô-ca, dòng chữ \"Chỉ có chân lí đắc thắng\"; Hình 9 đại bảo tháp San-chi). Khung dọc; không có cảnh tái hiện mới.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

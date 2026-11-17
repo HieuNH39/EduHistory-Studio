@@ -1,0 +1,378 @@
+{
+ "ma": "L8-B16-03",
+ "ten_tap": "Kinh tế và xã hội: Những mâu thuẫn âm ỉ",
+ "ten_tap_en": "Economy and Society: Simmering Conflicts",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+  "trang": [
+   73
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trầm lắng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 16, tr. 73.",
+ "chinh_sach_hinh": "Nhân vật lịch sử vẽ khái quát, không chân dung cụ thể; cảnh khởi nghĩa không bạo lực.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia hai cột: Kinh tế | Xã hội",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nửa đầu thế kỉ XIX, kinh tế thời Nguyễn có những bước phát triển, nhưng xã hội lại âm ỉ nhiều mâu thuẫn.",
+     "In the first half of the 19th century, the Nguyễn economy made progress, but society simmered with conflict."
+    ],
+    [
+     "Hân Hân",
+     "Cùng phân tích nhé!",
+     "Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-cong-tru",
+    "nong-dan"
+   ],
+   "hinh": "Bãi bồi ven biển hạ lưu sông Hồng đầu thế kỉ XIX, trời chiều: hàng trăm nông dân áo nâu, quần xắn, đội nón lá đang đắp đê ngăn mặn, gánh đất bằng quang gánh; một vị quan Doanh điền (vẽ khái quát, áo thụng xanh, khăn vấn, râu đen) đứng trên mặt đê chỉ tay về phía bãi lau sậy mênh mông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về nông nghiệp, nhà Nguyễn quan tâm tổ chức khai hoang, di dân lập ấp, lập đồn điền ở nhiều tỉnh phía bắc và phía nam.",
+     "In agriculture, the Nguyễn organised land reclamation, resettled people into new hamlets and set up farm colonies in many northern and southern provinces."
+    ],
+    [
+     "Nhật Minh",
+     "Ở vùng hạ lưu sông Hồng, với vai trò tổ chức của Nguyễn Công Trứ, hai huyện mới được lập là Tiền Hải, nay thuộc tỉnh Hưng Yên, và Kim Sơn, tỉnh Ninh Bình.",
+     "In the lower Red River, under Nguyễn Công Trứ's leadership, two new districts were created: Tiền Hải, now in Hưng Yên province, and Kim Sơn, in Ninh Bình province."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan"
+   ],
+   "hinh": "Một làng quê Bắc Bộ đầu thế kỉ XIX sau trận lụt: nước đục ngập ruộng lúa, vài mái nhà tranh xiêu vẹo; một gia đình nông dân áo nâu sờn gánh quang gánh, bế con, dắt trâu rời làng trên bờ đê lầy lội (buồn, không thương vong)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuy nhiên, do địa chủ, cường hào bao chiếm ruộng đất nên nông dân vẫn không có ruộng để cày cấy, phải lưu tán.",
+     "However, as landlords and local strongmen seized the land, peasants still had no fields to till and had to wander."
+    ],
+    [
+     "Nhật Minh",
+     "Ở các tỉnh phía bắc, lụt lội, hạn hán xảy ra thường xuyên.",
+     "In the northern provinces, floods and droughts were frequent."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai huyện mới nào được lập dưới sự tổ chức của Nguyễn Công Trứ?",
+    "lua_chon": [
+     "Tiền Hải và Kim Sơn",
+     "Phố Hiến và Thanh Hà",
+     "Gia Định và Hà Tiên"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Hai huyện mới nào được lập ở hạ lưu sông Hồng?",
+     "Pause! Which two new districts were created in the lower Red River?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Tiền Hải và Kim Sơn!",
+     "The answer is A: Tiền Hải and Kim Sơn!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh đồng tiền Minh Mạng thông bảo",
+    "tim": "Minh Mang Thong Bao coin",
+    "yeu_cau": "ảnh hiện vật, giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Hiện vật: đồng tiền Minh Mạng thông bảo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thủ công nghiệp, thương nghiệp có điều kiện phát triển. Thủ công nghiệp có những cải tiến về kĩ thuật, nghề khai mỏ được đẩy mạnh.",
+     "Crafts and commerce had room to grow. Crafts improved technically and mining expanded."
+    ],
+    [
+     "Nhật Minh",
+     "Hoạt động buôn bán trong nước và với nước ngoài ngày càng tăng.",
+     "Domestic and foreign trade increased."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Một bến sông ở phố cổ Hội An đầu thế kỉ XIX lúc chiều muộn: dãy nhà phố mái ngói âm dương rêu phong, cửa hiệu đóng im lìm; bến sông vắng, chỉ còn vài chiếc thuyền gỗ nhỏ neo đậu; một người bán hàng ngồi buồn bên gánh hàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhưng do Nhà nước có những quy định ngặt nghèo về thuế, mẫu mã, thi hành chính sách bế quan toả cảng, tập trung thợ giỏi vào các quan xưởng, nên một số ngành, nghề không phát triển được.",
+     "But strict state rules on taxes and designs, the closed-door policy, and the gathering of skilled artisans in state workshops held some trades back."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều đô thị nổi tiếng từ trước như Thăng Long, Phố Hiến, Thanh Hà, Hội An dần bị sa sút.",
+     "Many once-famous towns such as Thăng Long, Phố Hiến, Thanh Hà and Hội An gradually declined."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan"
+   ],
+   "hinh": "Một bìa rừng trung du Bắc Bộ đầu thế kỉ XIX: đoàn người khởi nghĩa gồm nông dân áo nâu, thợ thuyền, binh lính bỏ ngũ áo nẹp, một nhà nho áo the khăn xếp và người dân tộc thiểu số mặc áo chàm, tay cầm giáo, gậy, dao, dưới lá cờ vải đỏ trơn (không cảnh chiến đấu)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuộc sống cơ cực và các mâu thuẫn xã hội đã làm bùng nổ nhiều cuộc nổi dậy chống nhà Nguyễn,",
+     "Hard lives and social conflicts sparked many revolts against the Nguyễn,"
+    ],
+    [
+     "Nhật Minh",
+     "với lực lượng tham gia gồm nông dân, thợ thuyền, binh lính, nhà nho và nhân dân các dân tộc thiểu số.",
+     "joined by peasants, artisans, soldiers, Confucian scholars and ethnic minority peoples."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "CÁC CUỘC KHỞI NGHĨA TIÊU BIỂU",
+   "moc": [
+    [
+     "1821 – 1827",
+     "Phan Bá Vành (Nam Định, Thái Bình)"
+    ],
+    [
+     "1833 – 1835",
+     "Nông Văn Vân (Cao Bằng)"
+    ],
+    [
+     "1833 – 1838",
+     "Lê Duy Lương (Ninh Bình, Thanh Hoá)"
+    ],
+    [
+     "1854 – 1856",
+     "Cao Bá Quát (Hà Nội)"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Tiêu biểu là khởi nghĩa của Phan Bá Vành từ năm 1821 đến năm 1827 ở Nam Định, Thái Bình; của Nông Văn Vân từ năm 1833 đến năm 1835 ở Cao Bằng.",
+     "Notable were Phan Bá Vành's uprising from 1821 to 1827 in Nam Định and Thái Bình, and Nông Văn Vân's from 1833 to 1835 in Cao Bằng."
+    ],
+    [
+     "Nhật Minh",
+     "Còn có khởi nghĩa của Lê Duy Lương từ năm 1833 đến năm 1838 ở Ninh Bình, Thanh Hoá, và của Cao Bá Quát từ năm 1854 đến năm 1856 ở Hà Nội.",
+     "There were also Lê Duy Lương's from 1833 to 1838 in Ninh Bình and Thanh Hoá, and Cao Bá Quát's from 1854 to 1856 in Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Từ năm 1802 đến năm 1862 có khoảng bao nhiêu cuộc nổi dậy chống triều đình?",
+    "lua_chon": [
+     "Khoảng 45 cuộc",
+     "Khoảng 405 cuộc",
+     "Khoảng 4 000 cuộc"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Từ thời Gia Long năm 1802 đến thời Tự Đức năm 1862 có khoảng bao nhiêu cuộc nổi dậy?",
+     "EduHistory asks you! From Gia Long in 1802 to Tự Đức in 1862, about how many revolts were there?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: khoảng 405 cuộc nổi dậy của nhân dân!",
+     "The answer is B: about 405 popular revolts!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Khai hoang, lập ấp, lập đồn điền; lập huyện Tiền Hải, Kim Sơn (Nguyễn Công Trứ)",
+    "Thủ công nghiệp, thương nghiệp phát triển nhưng bị kìm hãm bởi bế quan toả cảng",
+    "Nông dân thiếu ruộng, lưu tán; thiên tai thường xuyên",
+    "Khoảng 405 cuộc nổi dậy (1802 – 1862): Phan Bá Vành, Nông Văn Vân, Lê Duy Lương, Cao Bá Quát"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: kinh tế thời Nguyễn có phát triển nhưng bị kìm hãm bởi chính sách bế quan toả cảng.",
+     "Remember: the Nguyễn economy grew but was held back by the closed-door policy."
+    ],
+    [
+     "Nhật Minh",
+     "Đời sống cơ cực khiến khoảng 405 cuộc nổi dậy nổ ra từ năm 1802 đến năm 1862.",
+     "Hardship led to about 405 revolts from 1802 to 1862."
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ],
+   "tieu_de": "KINH TẾ – XÃ HỘI THỜI NGUYỄN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: số lượng cuộc khởi nghĩa nhiều như vậy gợi cho cậu suy nghĩ gì về xã hội thời Nguyễn? Bình luận nhé!",
+     "Your challenge: what does such a large number of uprisings tell you about Nguyễn society? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai có vai trò tổ chức khai hoang lập huyện Tiền Hải, Kim Sơn?",
+   "dap_an": [
+    "Nguyễn Công Trứ",
+    "Cao Bá Quát",
+    "Phan Huy Chú",
+    "Lê Quang Định"
+   ],
+   "dung": 0,
+   "trang": 73
+  },
+  {
+   "hoi": "Chính sách nào khiến một số ngành nghề thời Nguyễn không phát triển được?",
+   "dap_an": [
+    "Bế quan toả cảng",
+    "Mở cửa giao thương",
+    "Giảm thuế",
+    "Khuyến khích buôn bán với phương Tây"
+   ],
+   "dung": 0,
+   "trang": 73
+  },
+  {
+   "hoi": "Khởi nghĩa Cao Bá Quát (1854 – 1856) diễn ra ở đâu?",
+   "dap_an": [
+    "Hà Nội",
+    "Cao Bằng",
+    "Nam Định",
+    "Thanh Hoá"
+   ],
+   "dung": 0,
+   "trang": 73
+  },
+  {
+   "hoi": "Khởi nghĩa Nông Văn Vân (1833 – 1835) nổ ra ở đâu?",
+   "dap_an": [
+    "Cao Bằng",
+    "Ninh Bình",
+    "Thái Bình",
+    "Hà Nội"
+   ],
+   "dung": 0,
+   "trang": 73
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 73 (mục 2a: khai hoang, di dân lập ấp, đồn điền; Nguyễn Công Trứ, Tiền Hải – nay thuộc Hưng Yên, Kim Sơn – Ninh Bình; địa chủ bao chiếm ruộng, nông dân lưu tán, lụt lội hạn hán; thủ công, thương nghiệp phát triển, bế quan toả cảng, quan xưởng; Thăng Long, Phố Hiến, Thanh Hà, Hội An sa sút; Hình 16.4 tiền Minh Mạng thông bảo; mục 2b: lực lượng nổi dậy; Phan Bá Vành 1821 – 1827, Lê Duy Lương 1833 – 1838, Nông Văn Vân 1833 – 1835, Cao Bá Quát 1854 – 1856; tư liệu 1: khoảng 405 cuộc nổi dậy 1802 – 1862). Không vẽ AI chân dung Nguyễn Công Trứ và các thủ lĩnh; chỉ vẽ khái quát.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

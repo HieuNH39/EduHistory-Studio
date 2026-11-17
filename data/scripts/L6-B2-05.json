@@ -1,0 +1,459 @@
+{
+ "ma": "L6-B2-05",
+ "ten_tap": "Gốc hay Thứ cấp: Bí mật của nhà sử học",
+ "ten_tap_en": "Primary or Secondary: The Historian's Secret",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+  "trang": [
+   11,
+   12,
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nha-su-hoc"
+ ],
+ "nhac": {
+  "tam_trang": "trinh thám nhẹ nhàng, tò mò",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 2, tr. 11–13.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng; Nhật Minh cầm kính lúp như thám tử",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các nhà sử học làm công việc tương tự như những thám tử. Muốn dựng lại lịch sử, họ phải đi tìm các bằng chứng, tức là các tư liệu lịch sử.",
+     "Historians work much like detectives. To rebuild history they must look for evidence, that is, historical sources."
+    ],
+    [
+     "Nhật Minh",
+     "Hôm nay, tụi mình sẽ khám phá bí mật của nhà sử học: tư liệu nào là gốc, tư liệu nào là thứ cấp!",
+     "Today we'll uncover the historian's secret: which sources are primary and which are secondary!"
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    13
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư liệu hiện vật",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Mặt trống đồng Ngọc Lũ, hiện vật tiêu biểu của nền văn minh Việt cổ (như Hình 1 SGK tr. 11), dùng lại ảnh tư liệu của L6-B2-02 cảnh 2",
+    "tim": "mặt trống đồng Ngọc Lũ",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L6-B2-02 cảnh 2"
+   },
+   "hinh": "Tư liệu: mặt trống đồng Ngọc Lũ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư liệu hiện vật là những di tích, đồ vật của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất, như mặt trống đồng Ngọc Lũ này.",
+     "Physical sources are relics and objects of past peoples preserved underground or above ground, like this Ngọc Lũ bronze drum face."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một góc di tích Hoàng thành Thăng Long, Hà Nội (như Hình 2 SGK tr. 11)",
+    "tim": "Imperial Citadel of Thang Long archaeological site",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: một góc di tích Hoàng thành Thăng Long",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một góc di tích Hoàng thành Thăng Long cũng là tư liệu hiện vật.",
+     "A corner of the Thăng Long Imperial Citadel site is also a physical source."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ngói úp trang trí đôi chim phượng bằng đất nung tìm thấy ở Hoàng thành Thăng Long (như Hình 3 SGK tr. 11), dùng lại ảnh tư liệu của L6-B2-02 cảnh 8",
+    "tim": "ngói úp chim phượng Hoàng thành Thăng Long",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L6-B2-02 cảnh 8"
+   },
+   "hinh": "Tư liệu: ngói úp trang trí đôi chim phượng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hiện vật tuy không biết nói, nhưng nếu biết khai thác, chúng có thể cho ta biết khá cụ thể và trung thực về đời sống vật chất và phần nào đời sống tinh thần của người xưa.",
+     "Objects can't speak, but studied well they tell us fairly concretely and truthfully about past people's material life, and partly their spiritual life."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết và truyền miệng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Những tấm bia ghi tên người đỗ Tiến sĩ ở Văn Miếu, Hà Nội (như Hình 4 SGK tr. 12)",
+    "tim": "Stelae of doctors Temple of Literature Hanoi",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: bia Tiến sĩ ở Văn Miếu (Hà Nội)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tư liệu chữ viết là những bản ghi, tài liệu chép tay hay sách in, khắc chữ, như bia Tiến sĩ ở Văn Miếu. Chúng ghi chép tương đối đầy đủ, nhưng thường mang ý thức chủ quan của tác giả.",
+     "Written sources are records, handwritten documents, printed or carved texts, like the doctoral steles. They are fairly complete but often subjective."
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh dân gian Đông Hồ \"Thánh Gióng đánh giặc Ân\" (như Hình 5 SGK tr. 13)",
+    "tim": "Thánh Gióng tranh Đông Hồ",
+    "yeu_cau": "tranh dân gian thuộc phạm vi công cộng hoặc ảnh có giấy phép mở; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: tranh Đông Hồ Thánh Gióng đánh giặc Ân",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn tư liệu truyền miệng là những câu chuyện dân gian kể từ đời này qua đời khác, như truyền thuyết Thánh Gióng. Chúng không cho biết chính xác thời gian, địa điểm, nhưng phần nào phản ánh hiện thực lịch sử.",
+     "Oral sources are folk tales passed down the generations, like the Gióng legend. They don't give exact times or places, but partly reflect reality."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngói úp trang trí chim phượng tìm thấy ở Hoàng thành Thăng Long thuộc loại tư liệu nào?",
+    "lua_chon": [
+     "Tư liệu hiện vật",
+     "Tư liệu chữ viết",
+     "Tư liệu truyền miệng"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ngói úp trang trí chim phượng là loại tư liệu nào?",
+     "EduHistory asks you! What type of source is the phoenix roof tile?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tư liệu hiện vật!",
+     "The answer is A: a physical source!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Gốc hay thứ cấp?",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày bảo tàng, Hân Hân giơ hai ngón tay",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các loại tư liệu trên còn có thể chia thành tư liệu gốc, hay còn gọi là tư liệu sơ cấp, và tư liệu thứ cấp.",
+     "These sources can also be divided into primary sources and secondary sources."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-da-cham-pa"
+   ],
+   "hinh": "Dùng lại ảnh L6-B19-04 cảnh 4: người thợ đá Chăm-pa xưa khắc những hàng chữ Phạn lên tấm bia đá dựng đứng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư liệu gốc là tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện hoặc thời kì lịch sử nào đó,",
+     "A primary source gives first-hand, direct information about an event or period,"
+    ],
+    [
+     "Hân Hân",
+     "giống như tấm bia được khắc ngay ở thời kì ấy. Đây là nguồn tư liệu đáng tin cậy nhất khi tìm hiểu lịch sử!",
+     "like a stele carved during that very period. It is the most reliable kind of source for studying history!"
+    ]
+   ],
+   "anh": "assets/episodes/L6-B19-04/canh-04.jpg",
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-khoa-hoc"
+   ],
+   "hinh": "Dùng lại ảnh L6-B7-04 cảnh 12: phòng trưng bày bảo tàng hiện đại, các nhà khoa học mặc áo blouse trắng quan sát một cỗ quan tài Ai Cập cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn tư liệu thứ cấp là các dữ liệu thông tin, tài liệu lịch sử được thu thập, tổng hợp, phân tích, rút ra từ các tư liệu gốc,",
+     "A secondary source is information and historical material gathered, synthesised and analysed from primary sources,"
+    ],
+    [
+     "Hân Hân",
+     "chẳng hạn những cuốn sách mà các nhà nghiên cứu viết ra sau khi nghiên cứu hiện vật.",
+     "for example, books that researchers write after studying artefacts."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B7-04/canh-12.jpg",
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Tư liệu nào đáng tin cậy nhất khi tìm hiểu lịch sử?",
+    "lua_chon": [
+     "Tư liệu thứ cấp",
+     "Tư liệu gốc",
+     "Lời đồn trên mạng"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Theo SGK, tư liệu nào đáng tin cậy nhất?",
+     "Pause! According to the textbook, which source is the most reliable?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: tư liệu gốc, vì nó cung cấp thông tin đầu tiên và trực tiếp!",
+     "The answer is B: primary sources, because they give first-hand, direct information!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Một cuốn sách viết năm 2020, tổng hợp và phân tích từ nhiều tư liệu cũ, là tư liệu gì?",
+    "lua_chon": [
+     "Tư liệu gốc",
+     "Tư liệu truyền miệng",
+     "Tư liệu thứ cấp"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thêm câu nữa! Cuốn sách tổng hợp, phân tích từ nhiều tư liệu cũ là tư liệu gì?",
+     "One more! A book synthesising and analysing many old sources is what kind of source?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: tư liệu thứ cấp!",
+     "The answer is C: a secondary source!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày bảo tàng, Nhật Minh gật gù suy nghĩ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dựa vào các nguồn tư liệu, mỗi nhà sử học thường chỉ có thể làm sáng tỏ được một phần lịch sử theo quan điểm của mình.",
+     "Using sources, each historian can usually shed light on only part of history, from their own viewpoint."
+    ],
+    [
+     "Nhật Minh",
+     "Vì vậy, chúng ta có thể bắt gặp nhiều cách giải thích khác nhau về cùng một sự việc trong quá khứ!",
+     "That's why we can find many different explanations of the same past event!"
+    ],
+    [
+     "Hân Hân",
+     "Khi nào cậu tự mình lí giải được sự việc dựa trên những chứng cứ khoa học, là cậu đã sắp trở thành nhà sử học rồi đấy!",
+     "When you can explain an event yourself using scientific evidence, you're well on your way to becoming a historian!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư liệu hiện vật: di tích, đồ vật của người xưa",
+    "Tư liệu chữ viết: bản ghi, sách in, chữ khắc",
+    "Tư liệu truyền miệng: truyện dân gian kể từ đời này qua đời khác",
+    "Tư liệu gốc: thông tin đầu tiên, trực tiếp – đáng tin cậy nhất",
+    "Tư liệu thứ cấp: tổng hợp, phân tích từ tư liệu gốc"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: ba loại tư liệu là hiện vật, chữ viết và truyền miệng.",
+     "Remember: the three types are physical, written and oral sources."
+    ],
+    [
+     "Hân Hân",
+     "Và tư liệu gốc cung cấp thông tin đầu tiên, trực tiếp; tư liệu thứ cấp được tổng hợp, phân tích từ tư liệu gốc.",
+     "Primary sources give first-hand, direct information; secondary sources are built from them."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12,
+    13
+   ],
+   "tieu_de": "NGUỒN TƯ LIỆU LỊCH SỬ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: ở nhà hoặc nơi cậu sống có hiện vật nào giúp tìm hiểu lịch sử? Giới thiệu ngắn gọn hiện vật cậu thích nhất trong phần bình luận nhé!",
+     "Your challenge: what objects at home or nearby help us learn history? Briefly introduce your favourite one in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện gọi là gì?",
+   "dap_an": [
+    "Tư liệu gốc",
+    "Tư liệu thứ cấp",
+    "Tư liệu truyền miệng",
+    "Tư liệu chữ viết"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Tư liệu thứ cấp được hình thành như thế nào?",
+   "dap_an": [
+    "Thu thập, tổng hợp, phân tích, rút ra từ các tư liệu gốc",
+    "Đào được dưới lòng đất",
+    "Kể truyền miệng",
+    "Khắc trên bia đá"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Tư liệu hiện vật cho ta biết khá cụ thể và trung thực về điều gì?",
+   "dap_an": [
+    "Đời sống vật chất và phần nào đời sống tinh thần của người xưa",
+    "Chính xác suy nghĩ của từng người",
+    "Thời tiết ngày xưa",
+    "Tên của mọi người"
+   ],
+   "dung": 0,
+   "trang": 11
+  },
+  {
+   "hoi": "Vì sao có nhiều cách giải thích khác nhau về cùng một sự việc trong quá khứ?",
+   "dap_an": [
+    "Mỗi nhà sử học thường chỉ làm sáng tỏ một phần lịch sử theo quan điểm của mình",
+    "Vì không có tư liệu nào",
+    "Vì lịch sử luôn sai",
+    "Vì sách in nhầm"
+   ],
+   "dung": 0,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 11 (mở đầu: nhà sử học như thám tử; mục 1 tư liệu hiện vật; Hình 1 – 3), tr. 12 (mục 2 tư liệu chữ viết; Hình 4) và tr. 13 (mục 3 tư liệu truyền miệng, Hình 5; mục 4 tư liệu gốc và thứ cấp; nhiều cách giải thích; Luyện tập câu 4). Dùng lại ảnh tư liệu L6-B2-02 cảnh 2, 8 (cùng khung ngang) và ảnh L6-B19-04 cảnh 4, L6-B7-04 cảnh 12.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

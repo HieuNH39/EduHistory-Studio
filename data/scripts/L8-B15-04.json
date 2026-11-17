@@ -1,0 +1,187 @@
+{
+ "ma": "L8-B15-04",
+ "ten_tap": "Sự thật về 'Khai hoá văn minh'",
+ "ten_tap_en": "The Truth About the 'Civilising Mission'",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 15. Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   67,
+   68,
+   70
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, phản biện",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 15, tr. 67–70.",
+ "chinh_sach_hinh": "Cảnh tái hiện vẽ nhóm người khái quát, không bạo lực; tư liệu thật cho sự kiện.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm tấm bìa ghi dòng chữ “Khai hoá văn minh?” có dấu hỏi lớn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thực dân phương Tây nói họ đến Ấn Độ và Đông Nam Á để “khai hoá văn minh”. Có đúng không nhỉ?",
+     "Western colonisers claimed they came to India and Southeast Asia to 'civilise' them. Is that true?"
+    ]
+   ],
+   "nguon_trang": [
+    67,
+    70
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhan-dan-thuoc-dia"
+   ],
+   "hinh": "Khung dọc: một đồn điền rộng ở Ấn Độ thế kỉ XIX dưới nắng gắt, những người nông dân Ấn Độ gầy gò, quấn khăn, mặc dhoti cũ cúi hái lá chè và gánh những bao nặng; xa xa một viên quản lí người Anh mặc đồ trắng, đội mũ cối, cưỡi ngựa giám sát",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự thật là ở Ấn Độ, thực dân Anh ra sức vơ vét nguồn nguyên liệu và bóc lột nhân công để thu lợi nhuận tối đa.",
+     "In fact, in India the British plundered raw materials and exploited labour for maximum profit."
+    ],
+    [
+     "Nhật Minh",
+     "Chúng chiếm đoạt ruộng đất lập đồn điền; nông dân bị bần cùng và chết đói ngày càng nhiều. Về xã hội, chúng thi hành chính sách “ngu dân”.",
+     "They seized land for plantations; peasants grew poorer and more died of hunger. Socially, they kept people ignorant."
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mục đích thật sự của thực dân phương Tây ở Ấn Độ và Đông Nam Á là gì?",
+    "lua_chon": [
+     "Giúp các nước phát triển công nghiệp",
+     "Vơ vét tài nguyên, bóc lột nhân công",
+     "Truyền bá giáo dục cho mọi người"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Mục đích thật sự của thực dân là gì?",
+     "EduHistory asks you! What was the colonisers' real aim?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: vơ vét tài nguyên, bóc lột nhân công!",
+     "The answer is B: plundering resources and exploiting labour!"
+    ]
+   ],
+   "nguon_trang": [
+    68
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tranh tư liệu khởi nghĩa Xi-pay (dùng lại ảnh tư liệu của L8-B15-01 cảnh 10)",
+    "tim": "Sepoy revolt",
+    "yeu_cau": "ảnh hoặc tranh tư liệu thế kỉ XIX, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+   },
+   "hinh": "Tư liệu: khởi nghĩa Xi-pay (1857 – 1859)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì thế, nhân dân Ấn Độ và Đông Nam Á đã đứng lên đấu tranh mạnh mẽ, như khởi nghĩa Xi-pay ở Ấn Độ, hay liên minh chiến đấu của ba nước Đông Dương.",
+     "So the peoples of India and Southeast Asia rose up strongly, as in India's Sepoy uprising and the fighting alliance of the three Indochinese peoples."
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    70
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cậu có đồng ý với ý kiến thực dân đến để “khai hoá văn minh” không? Vì sao? Bình luận nhé!",
+     "Do you agree that the colonisers came to 'civilise'? Why or why not? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thực dân Anh hoàn thành việc xâm chiếm Ấn Độ vào thời gian nào?",
+   "dap_an": [
+    "Giữa thế kỉ XIX",
+    "Đầu thế kỉ XVIII",
+    "Đầu thế kỉ XX",
+    "Cuối thế kỉ XVI"
+   ],
+   "dung": 0,
+   "trang": 67
+  },
+  {
+   "hoi": "Về xã hội, thực dân Anh thi hành chính sách gì ở Ấn Độ?",
+   "dap_an": [
+    "Chính sách “ngu dân”",
+    "Phổ cập giáo dục",
+    "Xoá bỏ tập quán lạc hậu",
+    "Bình đẳng tôn giáo"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Trong nông nghiệp, chính quyền thực dân Anh đã làm gì?",
+   "dap_an": [
+    "Chiếm đoạt ruộng đất lập đồn điền",
+    "Chia ruộng cho nông dân",
+    "Miễn thuế cho nông dân",
+    "Xây hồ chứa nước"
+   ],
+   "dung": 0,
+   "trang": 68
+  },
+  {
+   "hoi": "Ở Đông Nam Á, nước nào vẫn giữ được nền độc lập tương đối?",
+   "dap_an": [
+    "Xiêm",
+    "Miến Điện",
+    "Phi-líp-pin",
+    "Việt Nam"
+   ],
+   "dung": 0,
+   "trang": 68
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 67 (câu hỏi mở đầu về “khai hoá văn minh”; Anh hoàn thành xâm chiếm Ấn Độ giữa thế kỉ XIX), tr. 68 (vơ vét nguyên liệu, bóc lột nhân công, chiếm ruộng lập đồn điền, nông dân bần cùng, chết đói; chính sách “ngu dân”; khởi nghĩa Xi-pay 1857 – 1859; Xiêm giữ độc lập tương đối) và tr. 70 (liên minh ba dân tộc; câu Vận dụng). Khung dọc; ảnh tư liệu Xi-pay tìm lại theo khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

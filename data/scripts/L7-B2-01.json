@@ -1,0 +1,210 @@
+{
+ "ma": "L7-B2-01",
+ "ten_tap": "Ai mở đường ra biển lớn?",
+ "ten_tap_en": "Who Opened the Way to the Open Ocean?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 2. Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+  "trang": [
+   14,
+   15
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuy-thu-chau-au"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, tò mò",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 2, tr. 14–15.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh cầm chiếc la bàn nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Trung Quốc phát minh ra kim chỉ nam. Người châu Âu kế thừa để chế tạo ra la bàn.",
+     "The Chinese invented the compass needle. Europeans built on it to make the compass."
+    ],
+    [
+     "Hân Hân",
+     "Với la bàn trong tay, ai là người mở đường ra biển lớn?",
+     "With the compass in hand, who opened the way to the open ocean?"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuy-thu-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-02 cảnh 3 (khung dọc cắt giữa ảnh): bến cảng châu Âu cuối thế kỉ XV, tàu buồm ba cột, thuỷ thủ khuân thùng gỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bồ Đào Nha và Tây Ban Nha là những nước tiên phong trong các cuộc thám hiểm bằng đường biển.",
+     "Portugal and Spain were the pioneers of exploration by sea."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-02/canh-03.jpg",
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "NHỮNG CHUYẾN ĐI LỚN",
+   "moc": [
+    [
+     "1487",
+     "B. Đi-a-xơ đến mũi Hảo Vọng"
+    ],
+    [
+     "1492",
+     "C. Cô-lôm-bô tìm ra châu Mỹ"
+    ],
+    [
+     "1497 – 1498",
+     "V. Ga-ma đến Ấn Độ"
+    ],
+    [
+     "1519 – 1522",
+     "Ma-gien-lăng vòng quanh thế giới"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1487, B. Đi-a-xơ đến mũi Hảo Vọng. Năm 1492, C. Cô-lôm-bô tìm ra châu Mỹ.",
+     "In 1487, B. Dias reached the Cape of Good Hope. In 1492, C. Columbus found the Americas."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1498, V. Ga-ma cập bến Ca-li-cút ở Ấn Độ. Từ năm 1519 đến năm 1522, đoàn của Ma-gien-lăng đi vòng quanh thế giới.",
+     "In 1498, V. da Gama landed at Calicut in India. From 1519 to 1522, Magellan's expedition sailed around the world."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hai nước nào tiên phong trong các cuộc thám hiểm bằng đường biển?",
+    "lua_chon": [
+     "Anh và Pháp",
+     "Bồ Đào Nha và Tây Ban Nha",
+     "Hà Lan và I-ta-li-a"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Hai nước nào tiên phong thám hiểm bằng đường biển?",
+     "EduHistory asks you! Which two countries pioneered sea exploration?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Bồ Đào Nha và Tây Ban Nha!",
+     "The answer is B: Portugal and Spain!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, người châu Âu dùng la bàn để làm gì? Vì sao họ lại muốn tìm đường biển? Bình luận nhé!",
+     "What do you think Europeans used the compass for? Why did they want sea routes? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người châu Âu chế tạo ra la bàn dựa trên phát minh nào của người Trung Quốc?",
+   "dap_an": [
+    "Kim chỉ nam",
+    "Thuốc súng",
+    "Giấy",
+    "Nghề in"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Năm 1487, B. Đi-a-xơ đến được địa điểm nào?",
+   "dap_an": [
+    "Châu Mỹ",
+    "Mũi Hảo Vọng",
+    "Ca-li-cút",
+    "Li-xbon"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Đoàn thám hiểm nào cập bến Ca-li-cút ở Ấn Độ năm 1498?",
+   "dap_an": [
+    "C. Cô-lôm-bô",
+    "Ph. Ma-gien-lăng",
+    "V. Ga-ma",
+    "B. Đi-a-xơ"
+   ],
+   "dung": 2,
+   "trang": 15
+  },
+  {
+   "hoi": "Chuyến đi vòng quanh thế giới của Ma-gien-lăng hoàn thành năm nào?",
+   "dap_an": [
+    "1492",
+    "1498",
+    "1519",
+    "1522"
+   ],
+   "dung": 3,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 14 (mở đầu: kim chỉ nam, la bàn) và tr. 15 (mục 1a: Bồ Đào Nha, Tây Ban Nha tiên phong; 1487, 1492, 1497 – 1498, 1519 – 1522). Tên tập catalog là 'Tại sao người châu Âu lại đi tìm đường biển?' nhưng Bài 2 SGK không trình bày nguyên nhân (nguyên nhân có ở Chuyên đề 1, tập L7-CD1-01), nên đổi tên theo đúng nội dung SGK của bài; câu hỏi nguyên nhân để ở thử thách bình luận. Khung dọc; cảnh 2 dùng lại ảnh L7-B2-02 cảnh 3.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

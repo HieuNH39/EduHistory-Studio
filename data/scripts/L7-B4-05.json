@@ -1,0 +1,179 @@
+{
+ "ma": "L7-B4-05",
+ "ten_tap": "Dấu ấn Nguyễn An tại Tử Cấm Thành",
+ "ten_tap_en": "Nguyễn An's Mark on the Forbidden City",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 4. Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+  "trang": [
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-an"
+ ],
+ "nhac": {
+  "tam_trang": "tự hào, tò mò",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 4, tr. 27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Hân Hân đố, Nhật Minh tròn mắt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết Tử Cấm Thành, công trình biểu tượng của Trung Quốc, lại gắn với tên tuổi một người Việt không?",
+     "Did you know the Forbidden City, a symbol of China, is linked to the name of a Vietnamese man?"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tử Cấm Thành ở Bắc Kinh (Trung Quốc)",
+    "tim": "Forbidden City Beijing Hall of Supreme Harmony",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Tử Cấm Thành (Bắc Kinh)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người đó là Nguyễn An. Năm 1407, ông bị nhà Minh bắt đưa về Trung Quốc.",
+     "His name was Nguyễn An. In 1407, the Ming took him away to China."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-an"
+   ],
+   "hinh": "Khung dọc 9:16. Công trường xây dựng thành Bắc Kinh thời Minh đầu thế kỉ XV: một người Việt dáng thư sinh, áo dài màu xanh sẫm, khăn vấn (vẽ khái quát) đứng trên giàn gỗ cao, tay cầm cuộn bản vẽ chỉ huy; phía dưới hàng nghìn người thợ kéo gỗ, xếp gạch dựng những toà điện mái vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bấy giờ, vua Minh thấy thành Bắc Kinh quá nhỏ hẹp nên giao cho Nguyễn An làm tổng đốc công, được ví như tổng công trình sư, xây dựng lại thành.",
+     "The Ming emperor found Beijing too small and put Nguyễn An in charge of rebuilding it, as chief overseer, like a chief architect."
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai là người Việt gắn với việc xây dựng lại thành Bắc Kinh thời Minh?",
+    "lua_chon": [
+     "Nguyễn Trãi",
+     "Nguyễn An",
+     "Lương Thế Vinh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Người Việt nào gắn với việc xây dựng lại thành Bắc Kinh?",
+     "EduHistory asks you! Which Vietnamese man is linked to rebuilding Beijing?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Nguyễn An!",
+     "The answer is B: Nguyễn An!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cậu nghĩ gì về tài năng của Nguyễn An? Bình luận nhé!",
+     "What do you think of Nguyễn An's talent? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1407, Nguyễn An bị đưa sang Trung Quốc bởi triều đại nào?",
+   "dap_an": [
+    "Nhà Đường",
+    "Nhà Tống",
+    "Nhà Minh",
+    "Nhà Thanh"
+   ],
+   "dung": 2,
+   "trang": 27
+  },
+  {
+   "hoi": "Nguyễn An được giao chức vụ gì khi xây dựng lại thành Bắc Kinh?",
+   "dap_an": [
+    "Tổng đốc công",
+    "Tể tướng",
+    "Đại tướng",
+    "Thái sư"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Vì sao vua Minh cho xây dựng lại thành Bắc Kinh?",
+   "dap_an": [
+    "Vì thành quá nhỏ hẹp",
+    "Vì thành bị lũ cuốn",
+    "Vì động đất",
+    "Vì chiến tranh"
+   ],
+   "dung": 0,
+   "trang": 27
+  },
+  {
+   "hoi": "Tử Cấm Thành nằm ở thành phố nào?",
+   "dap_an": [
+    "Bắc Kinh",
+    "Nam Kinh",
+    "Tô Châu",
+    "Quảng Châu"
+   ],
+   "dung": 0,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 27 (ô thông tin: Tử Cấm Thành gắn với Nguyễn An; năm 1407 bị nhà Minh bắt đưa về Trung Quốc; vua Minh thấy thành Bắc Kinh nhỏ hẹp, giao làm tổng đốc công). Khung dọc 9:16. Nguyễn An là nhân vật thế kỉ XV, không có chân dung tư liệu: vẽ khái quát, không nhận là chân dung.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

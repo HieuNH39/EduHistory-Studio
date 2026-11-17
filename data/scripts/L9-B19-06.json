@@ -1,0 +1,271 @@
+{
+ "ma": "L9-B19-06",
+ "ten_tap": "Ba trụ cột của Cộng đồng ASEAN",
+ "ten_tap_en": "The Three Pillars of the ASEAN Community",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 19. Châu Á từ năm 1991 đến nay",
+  "trang": [
+   99,
+   100
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tươi sáng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 19, tr. 99–100.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ ba cột trụ đỡ một mái nhà ghi ASEAN",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ngày 31 tháng 12 năm 2015, Cộng đồng ASEAN chính thức được thành lập. Cộng đồng ấy dựa trên ba trụ cột nào?",
+     "On 31 December 2015, the ASEAN Community was officially founded. What three pillars does it rest on?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    99,
+    100
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cờ của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+    "tim": "ASEAN flags",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: cờ ASEAN và cờ các nước thành viên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ý tưởng về Cộng đồng ASEAN xuất hiện từ năm 1997 với Tầm nhìn ASEAN 2020. Tháng 1 năm 2009, các nhà lãnh đạo thông qua Lộ trình xây dựng Cộng đồng ASEAN giai đoạn 2009 – 2015.",
+     "The idea of an ASEAN Community appeared in 1997 with ASEAN Vision 2020. In January 2009, leaders adopted the Roadmap for an ASEAN Community 2009–2015."
+    ],
+    [
+     "Nhật Minh",
+     "Mục tiêu là xây dựng một cộng đồng gắn kết về chính trị, liên kết về kinh tế, chia sẻ trách nhiệm xã hội, hoạt động theo luật lệ và hướng tới người dân.",
+     "Its aim: a community politically cohesive, economically integrated, socially responsible, rules-based and people-oriented."
+    ]
+   ],
+   "nguon_trang": [
+    99
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "BA TRỤ CỘT CỦA CỘNG ĐỒNG ASEAN",
+   "moc": [
+    [
+     "APSC",
+     "Cộng đồng Chính trị – An ninh: hoà bình, an ninh khu vực"
+    ],
+    [
+     "AEC",
+     "Cộng đồng Kinh tế: thị trường duy nhất, hội nhập toàn cầu"
+    ],
+    [
+     "ASCC",
+     "Cộng đồng Văn hoá – Xã hội: chất lượng sống, bản sắc chung"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trụ cột thứ nhất là Cộng đồng Chính trị – An ninh, tạo dựng môi trường hoà bình, an ninh, nâng hợp tác chính trị – an ninh lên tầm cao mới.",
+     "The first pillar is the Political–Security Community, building peace and security and raising political–security cooperation to a new level."
+    ],
+    [
+     "Nhật Minh",
+     "Thứ hai là Cộng đồng Kinh tế, tạo ra một thị trường duy nhất, có sức cạnh tranh cao, phát triển đồng đều, hội nhập đầy đủ vào kinh tế toàn cầu.",
+     "The second is the Economic Community: a single, highly competitive market, developing evenly and fully integrated into the global economy."
+    ],
+    [
+     "Hân Hân",
+     "Thứ ba là Cộng đồng Văn hoá – Xã hội, nâng cao chất lượng cuộc sống, thúc đẩy bình đẳng, phát triển bền vững, tăng cường ý thức cộng đồng và bản sắc chung.",
+     "The third is the Socio-Cultural Community: better lives, equality, sustainable development and a stronger sense of community and shared identity."
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trụ cột nào hướng tới tạo ra một thị trường duy nhất trong ASEAN?",
+    "lua_chon": [
+     "Cộng đồng Chính trị – An ninh (APSC)",
+     "Cộng đồng Kinh tế (AEC)",
+     "Cộng đồng Văn hoá – Xã hội (ASCC)"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Trụ cột nào tạo ra thị trường duy nhất?",
+     "Pause! Which pillar creates a single market?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Cộng đồng Kinh tế ASEAN, viết tắt AEC!",
+     "The answer is B: the ASEAN Economic Community, AEC!"
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Thống nhất trong đa dạng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cộng đồng ASEAN là kết quả hợp tác gần 50 năm, phản ánh mức độ liên kết ngày càng cao, chặt chẽ.",
+     "The ASEAN Community is the fruit of nearly 50 years of cooperation, reflecting ever closer integration."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy nhiên, đó vẫn là sự thống nhất trong đa dạng, vì giữa các nước thành viên còn những khác biệt khá lớn.",
+     "Yet it is still unity in diversity, since member countries differ considerably."
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "y": [
+    "31 – 12 – 2015: Cộng đồng ASEAN thành lập",
+    "Chính trị – An ninh (APSC)",
+    "Kinh tế (AEC)",
+    "Văn hoá – Xã hội (ASCC)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Cộng đồng ASEAN ra đời ngày 31 tháng 12 năm 2015, với ba trụ cột APSC, AEC, ASCC.",
+     "Remember: the ASEAN Community was born on 31 December 2015, with three pillars: APSC, AEC and ASCC."
+    ],
+    [
+     "Nhật Minh",
+     "Một cộng đồng thống nhất trong đa dạng, hướng tới người dân.",
+     "A people-oriented community, united in diversity."
+    ]
+   ],
+   "nguon_trang": [
+    99,
+    100
+   ],
+   "tieu_de": "CỘNG ĐỒNG ASEAN",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: là học sinh Việt Nam, cậu có thể làm gì để góp phần xây dựng Cộng đồng Văn hoá – Xã hội ASEAN? Bình luận nhé!",
+     "Your challenge: as a Vietnamese student, what can you do to help build the ASEAN Socio-Cultural Community? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    100
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cộng đồng ASEAN chính thức được thành lập ngày nào?",
+   "dap_an": [
+    "31 – 12 – 2015",
+    "7 – 1995",
+    "1 – 2009",
+    "1 – 2022"
+   ],
+   "dung": 0,
+   "trang": 99
+  },
+  {
+   "hoi": "Lộ trình xây dựng Cộng đồng ASEAN được thông qua khi nào?",
+   "dap_an": [
+    "Tháng 1 – 2009",
+    "Năm 1997",
+    "Năm 2007",
+    "Năm 2015"
+   ],
+   "dung": 0,
+   "trang": 99
+  },
+  {
+   "hoi": "Viết tắt của Cộng đồng Văn hoá – Xã hội ASEAN là gì?",
+   "dap_an": [
+    "ASCC",
+    "AEC",
+    "APSC",
+    "AFTA"
+   ],
+   "dung": 0,
+   "trang": 100
+  },
+  {
+   "hoi": "Vì sao Cộng đồng ASEAN được gọi là thống nhất trong đa dạng?",
+   "dap_an": [
+    "Vì giữa các nước thành viên còn khác biệt khá lớn",
+    "Vì chỉ có một nước",
+    "Vì không hợp tác",
+    "Vì dùng chung một ngôn ngữ"
+   ],
+   "dung": 0,
+   "trang": 100
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 99 (Tầm nhìn ASEAN 2020 từ năm 1997; 31 – 12 – 2015 Cộng đồng ASEAN thành lập; mục tiêu tổng quát; 1 – 2009 Lộ trình 2009 – 2015) và tr. 100 (Hình 19.9 – đọc từ ảnh trang: APSC, AEC, ASCC và nội dung; kết quả hợp tác gần 50 năm; thống nhất trong đa dạng).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

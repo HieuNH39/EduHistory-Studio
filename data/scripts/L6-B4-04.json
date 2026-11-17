@@ -1,0 +1,216 @@
+{
+ "ma": "L6-B4-04",
+ "ten_tap": "Thử thách: Em có phải là nhà khảo cổ?",
+ "ten_tap_en": "Challenge: Are You an Archaeologist?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 4. Nguồn gốc loài người",
+  "trang": [
+   17,
+   18,
+   19
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-toi-co"
+ ],
+ "nhac": {
+  "tam_trang": "sôi nổi, đố vui",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 4, tr. 17–19.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, Nhật Minh đội mũ nhà khảo cổ, cầm bàn chải nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách: cậu có phải là nhà khảo cổ không? Trả lời nhanh ba câu hỏi nhé!",
+     "Challenge: are you an archaeologist? Answer three quick questions!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dạng người nào xuất hiện khoảng 4 triệu năm trước?",
+    "lua_chon": [
+     "Vượn người",
+     "Người tối cổ",
+     "Người tinh khôn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu 1! Khoảng 5 – 6 triệu năm trước đã có loài Vượn người. Vậy dạng người nào xuất hiện khoảng 4 triệu năm trước?",
+     "Question 1! Apes lived 5–6 million years ago. Which human form appeared about 4 million years ago?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Người tối cổ! Họ thường xuyên đi, đứng bằng hai chân, hai chi trước thành hai tay.",
+     "The answer is B: early humans! They walked upright, with front limbs turned into hands."
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-01 cảnh 7 (khung dọc cắt giữa ảnh): một gia đình Người tinh khôn đứng trước cửa hang",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đến khoảng 15 vạn năm trước, Người tối cổ biến đổi thành Người tinh khôn.",
+     "About 150,000 years ago, early humans became modern humans."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-01/canh-07.jpg",
+   "nguon_trang": [
+    17
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Răng hoá thạch của Người tối cổ ở Việt Nam được tìm thấy ở đâu?",
+    "lua_chon": [
+     "Hang Thẩm Khuyên (Lạng Sơn)",
+     "Núi Đọ (Thanh Hoá)",
+     "An Khê (Gia Lai)"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu 2! Răng hoá thạch của Người tối cổ ở Việt Nam được tìm thấy ở đâu?",
+     "Question 2! Where in Vietnam were early humans' fossil teeth found?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: hang Thẩm Khuyên, tỉnh Lạng Sơn! Còn Núi Đọ và An Khê là nơi tìm thấy công cụ đá.",
+     "The answer is A: Thẩm Khuyên cave, Lạng Sơn! Núi Đọ and An Khê yielded stone tools."
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-03 cảnh 4 (khung dọc cắt giữa ảnh): đôi tay người nguyên thuỷ ghè hòn đá thành chiếc rìu tay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Câu 3! Ở di chỉ An Khê, Gia Lai, người ta phát hiện trên 3 000 hiện vật đá, niên đại khoảng bao nhiêu năm?",
+     "Question 3! At An Khê, Gia Lai, over 3,000 stone artefacts were found. How old are they?"
+    ],
+    [
+     "Hân Hân",
+     "Khoảng 80 vạn năm! Đây là dấu tích cổ xưa nhất chứng tỏ sự xuất hiện sớm của người nguyên thuỷ trên đất nước Việt Nam.",
+     "About 800,000 years! That's the oldest trace of early humans in Vietnam."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-03/canh-04.jpg",
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu trả lời đúng mấy câu? Bình luận số điểm của cậu nhé, nhà khảo cổ nhí!",
+     "How many did you get right? Comment your score, young archaeologist!"
+    ]
+   ],
+   "nguon_trang": [
+    19
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Loài Vượn người sinh sống cách ngày nay khoảng bao lâu?",
+   "dap_an": [
+    "5 – 6 triệu năm",
+    "4 triệu năm",
+    "15 vạn năm",
+    "4 vạn năm"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Người tối cổ biến đổi thành Người tinh khôn khoảng bao lâu trước?",
+   "dap_an": [
+    "15 vạn năm",
+    "5 triệu năm",
+    "80 vạn năm",
+    "2 triệu năm"
+   ],
+   "dung": 0,
+   "trang": 17
+  },
+  {
+   "hoi": "Hoá thạch nào là dấu vết xưa nhất của Người tối cổ ở Đông Nam Á?",
+   "dap_an": [
+    "Hoá thạch trên đảo Gia-va (khoảng 2 triệu năm)",
+    "Sọ ở hang Ni-a",
+    "Răng ở Thẩm Khuyên",
+    "Rìu tay An Khê"
+   ],
+   "dung": 0,
+   "trang": 18
+  },
+  {
+   "hoi": "Di chỉ An Khê thuộc tỉnh nào?",
+   "dap_an": [
+    "Gia Lai",
+    "Lạng Sơn",
+    "Thanh Hoá",
+    "Đồng Nai"
+   ],
+   "dung": 0,
+   "trang": 19
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 17 (Vượn người 5 – 6 triệu năm; Người tối cổ khoảng 4 triệu năm; Người tinh khôn khoảng 15 vạn năm; đặc điểm Người tối cổ), tr. 18 (Gia-va khoảng 2 triệu năm) và tr. 19 (răng Người tối cổ ở Thẩm Khuyên, Thẩm Hai – Lạng Sơn; công cụ đá ở An Khê, Núi Đọ, Xuân Lộc, An Lộc; An Khê trên 3 000 hiện vật, khoảng 80 vạn năm). Khung dọc; dùng lại ảnh L6-B4-01 cảnh 7, L6-B4-03 cảnh 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

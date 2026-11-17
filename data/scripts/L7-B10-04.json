@@ -1,0 +1,189 @@
+{
+ "ma": "L7-B10-04",
+ "ten_tap": "Đời sống người dân thời Đinh - Tiền Lê",
+ "ten_tap_en": "Daily Life under the Đinh and Early Lê",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 10. Đại Cồ Việt thời Đinh và Tiền Lê (968 – 1009)",
+  "trang": [
+   50
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-dan-thoi-dinh-tien-le"
+ ],
+ "nhac": {
+  "tam_trang": "vui tươi, mộc mạc",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 10, tr. 50.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh hỏi, Hân Hân trả lời",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hơn một nghìn năm trước, thời Đinh – Tiền Lê, người dân sống thế nào nhỉ?",
+     "Over a thousand years ago, under the Đinh and Early Lê, how did people live?"
+    ],
+    [
+     "Hân Hân",
+     "Xã hội chia thành hai bộ phận: thống trị gồm vua, quan; bị trị chủ yếu là nông dân, thợ thủ công, thương nhân, nô tì.",
+     "Society had two parts: rulers, the king and officials; and the ruled, mostly peasants, craftsmen, merchants and slaves."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cột kinh Phật thời Tiền Lê trong khuôn viên chùa Nhất Trụ, phường Tây Hoa Lư, tỉnh Ninh Bình (như Hình 2 SGK, tr. 50)",
+    "tim": "Nhất Trụ pagoda Hoa Lư stone pillar",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: cột kinh Phật ở chùa Nhất Trụ (Hoa Lư)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời này, giáo dục chưa phát triển, Nho giáo chưa ảnh hưởng sâu rộng. Phật giáo được truyền bá rộng rãi, chùa được xây ở nhiều nơi.",
+     "Education was not yet developed and Confucianism had little reach. Buddhism spread widely, with temples built in many places."
+    ],
+    [
+     "Hân Hân",
+     "Các nhà sư thường có học thức, giỏi chữ Hán, được triều đình đề cao và nhân dân quý trọng. Đây là cột kinh Phật thời Tiền Lê ở chùa Nhất Trụ.",
+     "Monks were often learned and fluent in Chinese characters, honoured by the court and loved by the people. This is an Early Lê Buddhist sutra pillar at Nhất Trụ pagoda."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dan-thoi-dinh-tien-le"
+   ],
+   "hinh": "Khung dọc 9:16. Ngày hội làng thế kỉ X bên dòng sông giữa núi đá vôi: trên sông những chiếc thuyền gỗ dài đua nhau, người chèo đóng khố, chít khăn đỏ; trên bãi cỏ ven sông hai đô vật mình trần vật nhau giữa vòng người reo hò; vài thiếu nữ áo yếm, váy nâu múa hát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều loại hình văn hoá dân gian tiếp tục được giữ gìn, như ca hát, nhảy múa, đua thuyền, đấu võ, đấu vật.",
+     "Many folk traditions were kept alive, such as singing, dancing, boat racing, martial contests and wrestling."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời Đinh – Tiền Lê, tôn giáo nào được truyền bá rộng rãi?",
+    "lua_chon": [
+     "Nho giáo",
+     "Phật giáo",
+     "Thiên Chúa giáo"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thời Đinh – Tiền Lê, tôn giáo nào được truyền bá rộng rãi?",
+     "EduHistory asks you! Which religion spread widely under the Đinh and Early Lê?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Phật giáo!",
+     "The answer is B: Buddhism!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quê cậu còn giữ lễ hội đua thuyền hay đấu vật không? Bình luận nhé!",
+     "Does your hometown still hold boat races or wrestling festivals? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Đinh – Tiền Lê, bộ phận bị trị chủ yếu gồm những ai?",
+   "dap_an": [
+    "Vua, quan",
+    "Nông dân, thợ thủ công, thương nhân, nô tì",
+    "Hoàng tử, tướng lĩnh",
+    "Nhà sư, Thái sư"
+   ],
+   "dung": 1,
+   "trang": 50
+  },
+  {
+   "hoi": "Tầng lớp nào có địa vị thấp kém nhất thời Đinh – Tiền Lê?",
+   "dap_an": [
+    "Nông dân",
+    "Thương nhân",
+    "Nô tì",
+    "Thợ thủ công"
+   ],
+   "dung": 2,
+   "trang": 50
+  },
+  {
+   "hoi": "Vì sao các nhà sư thời Đinh – Tiền Lê được triều đình đề cao?",
+   "dap_an": [
+    "Vì có học thức, giỏi chữ Hán",
+    "Vì giàu có",
+    "Vì giỏi võ",
+    "Vì là người nước ngoài"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Hoạt động nào là văn hoá dân gian thời Đinh – Tiền Lê?",
+   "dap_an": [
+    "Đua thuyền, đấu vật",
+    "Thi Tiến sĩ",
+    "Hát nhã nhạc cung đình",
+    "Viết tiểu thuyết"
+   ],
+   "dung": 0,
+   "trang": 50
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 50 (mục 2a: xã hội thống trị – bị trị, nông dân đông nhất, nô tì thấp kém nhất; mục 2b: giáo dục chưa phát triển, Nho giáo chưa sâu rộng, Phật giáo, nhà sư; Hình 2 cột kinh Phật chùa Nhất Trụ; văn hoá dân gian: ca hát, nhảy múa, đua thuyền, đấu võ, đấu vật). Khung dọc 9:16.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

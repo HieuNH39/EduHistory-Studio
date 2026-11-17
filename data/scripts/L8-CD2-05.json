@@ -1,0 +1,432 @@
+{
+ "ma": "L8-CD2-05",
+ "ten_tap": "Dấu ấn cha ông trên biển đảo",
+ "ten_tap_en": "Our Ancestors' Footprints on the Sea and Islands",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+  "trang": [
+   168,
+   169,
+   170,
+   171
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tự hào, sâu lắng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 2, tr. 168–171.",
+ "chinh_sach_hinh": "Bản đồ chủ quyền vẽ bằng code, đủ Hoàng Sa – Trường Sa; không vẽ thần linh; nhân vật truyền thuyết vẽ khái quát.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, phía sau là mô hình thuyền gỗ và ảnh biển",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sống gần biển, sớm nhận thức được vai trò của biển, các thế hệ người Việt đã dành nhiều công sức để khai phá, xác lập và thực thi chủ quyền biển đảo,",
+     "Living by the sea and aware of its role early, generations of Vietnamese worked hard to explore, establish and exercise sovereignty over the sea and islands,"
+    ],
+    [
+     "Nhật Minh",
+     "nói chung và đối với quần đảo Hoàng Sa, quần đảo Trường Sa nói riêng. Cùng lần theo dấu ấn cha ông nhé!",
+     "in general and over the Hoàng Sa and Trường Sa archipelagos in particular. Let's follow our ancestors' footprints!"
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời tiền sử",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh hang động đá vôi ven biển vịnh Hạ Long",
+    "tim": "Ha Long Bay cave",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: hang động ven biển vịnh Hạ Long",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngay từ thời tiền sử, nhiều bộ lạc đã sinh sống ở các hang động ven biển Hải Phòng, Quảng Ninh, Nghệ An, Hà Tĩnh, Quảng Trị.",
+     "As early as prehistoric times, many tribes lived in coastal caves in Hải Phòng, Quảng Ninh, Nghệ An, Hà Tĩnh and Quảng Trị."
+    ],
+    [
+     "Nhật Minh",
+     "Bằng chứng khảo cổ cho thấy cư dân Việt cổ đã đánh bắt hải sản và giao lưu kinh tế, văn hoá giữa các vùng và trong khu vực. Ca dao xưa cũng nói: Thuận vợ, thuận chồng tát Biển Đông cũng cạn.",
+     "Archaeology shows the ancient Việt fished the sea and traded across regions. An old folk saying goes: when husband and wife agree, they could even bail the East Sea dry."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ VII TCN – thế kỉ X",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "mai-an-tiem"
+   ],
+   "hinh": "Bãi cát trắng trên một hòn đảo nhỏ giữa biển xanh thời Hùng Vương: một chàng trai khoẻ mạnh đóng khố, mình trần, tóc búi (vẽ khái quát, nhìn nghiêng) cùng người vợ mặc váy, yếm nâu đang hái những quả dưa hấu vỏ xanh, ruột đỏ trên luống cát; bên cạnh là túp lều lá và chiếc bè nứa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các truyền thuyết cho thấy người Việt khai thác biển từ rất sớm: câu chuyện Lạc Long Quân – Âu Cơ và cội nguồn dân tộc,",
+     "Legends show the Việt exploited the sea very early: the story of Lạc Long Quân and Âu Cơ and the nation's origins,"
+    ],
+    [
+     "Hân Hân",
+     "Mai An Tiêm chinh phục đảo, trồng được dưa hấu đỏ ngon, hay An Dương Vương được Rùa vàng, thần biển, giúp đỡ.",
+     "Mai An Tiêm conquering an island and growing sweet red watermelons, and An Dương Vương helped by the Golden Turtle, the sea god."
+    ]
+   ],
+   "nguon_trang": [
+    168
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh hoa văn hình thuyền trên trống đồng Đông Sơn",
+    "tim": "Dong Son drum boat motif",
+    "yeu_cau": "ảnh hiện vật, giấy phép tự do, ghi nguồn"
+   },
+   "hinh": "Hiện vật: hoa văn thuyền trên trống đồng Đông Sơn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là thời kì ra đời các nhà nước đầu tiên: Văn Lang – Âu Lạc, Chăm-pa, Phù Nam. Trống đồng, thạp đồng hoa văn hình thuyền chứng tỏ cư dân tiếp tục khai thác biển.",
+     "This was when the first states arose: Văn Lang – Âu Lạc, Champa and Funan. Bronze drums and jars with boat motifs show people kept exploiting the sea."
+    ],
+    [
+     "Hân Hân",
+     "Chăm-pa sớm thu hút nhiều thương nhân nước ngoài; còn Óc Eo, tỉnh An Giang, là thương cảng nổi tiếng của Vương quốc Phù Nam.",
+     "Champa drew many foreign merchants early on, while Óc Eo in An Giang was Funan's famous trading port."
+    ]
+   ],
+   "nguon_trang": [
+    168,
+    169
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ X – XV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L7-B13-03 cảnh 9: cửa biển Vân Đồn thời Trần giữa vịnh nhiều đảo đá vôi, thuyền buôn lớn của thương nhân các nước neo đậu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Biển trở thành tuyến giao thông quan trọng, kết nối Đại Việt với các nước. Cảng Vân Đồn ở Quảng Ninh trở thành thương cảng quốc tế quan trọng từ thời Lý – Trần.",
+     "The sea became a key route linking Đại Việt with other countries. Vân Đồn in Quảng Ninh became an important international port under the Lý and Trần."
+    ],
+    [
+     "Nhật Minh",
+     "Các cửa biển Hội Triều ở Thanh Hoá, Hội Thống ở Hà Tĩnh cũng là trung tâm buôn bán lớn; Chăm-pa phát triển thương mại qua Đại Chiêm hải khẩu, Tân Châu.",
+     "Hội Triều in Thanh Hoá and Hội Thống in Hà Tĩnh were also big trading centres; Champa traded through Đại Chiêm and Tân Châu ports."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B13-03/canh-09.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thế kỉ XVI – XIX",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B9-02 cảnh 6: cảng thị Hội An thế kỉ XVII, thuyền buôn nhiều nước cập bến sông, thương nhân Nhật, Hoa, châu Âu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các cảng thị như Vân Đồn, Phố Hiến, Hội An, Thanh Hà, Gia Định đều hướng ra biển, mở rộng giao thương với cả các nước châu Âu.",
+     "Port towns such as Vân Đồn, Phố Hiến, Hội An, Thanh Hà and Gia Định all faced the sea, expanding trade even with Europe."
+    ],
+    [
+     "Nhật Minh",
+     "Chúa Nguyễn mộ dân khai khẩn vùng Đồng bằng sông Cửu Long; các đảo như Côn Lôn, Phú Quốc đều có dân cư đến khai phá, lập nghiệp.",
+     "The Nguyễn lords recruited settlers for the Mekong delta; islands like Côn Lôn and Phú Quốc were settled too."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B9-02/canh-06.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-chua-nguyen",
+   "pha": "doi_dan_binh",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 8 năm 1702, người Anh đánh chiếm đảo Côn Lôn. Hơn một năm sau, chúa Nguyễn Phúc Chu tổ chức đánh đuổi quân Anh, giành lại chủ quyền.",
+     "In August 1702, the English seized Côn Lôn island. Just over a year later, Lord Nguyễn Phúc Chu drove them out and regained sovereignty."
+    ],
+    [
+     "Nhật Minh",
+     "Các chúa Nguyễn tổ chức các đội Hoàng Sa, Bắc Hải hằng năm ra quần đảo Hoàng Sa, Trường Sa khai thác sản vật và quản lí biển đảo.",
+     "The Nguyễn lords sent the Hoàng Sa and Bắc Hải teams every year to the Hoàng Sa and Trường Sa archipelagos to harvest products and manage the islands."
+    ]
+   ],
+   "nguon_trang": [
+    170
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tượng đài Đội Hoàng Sa kiêm quản Bắc Hải tại Lý Sơn (Quảng Ngãi)",
+    "tim": "Hoang Sa flotilla monument Ly Son",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: tượng đài Đội Hoàng Sa kiêm quản Bắc Hải (Lý Sơn)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tiếp nối các chúa Nguyễn, Triều Tây Sơn cũng duy trì việc khai thác quần đảo Hoàng Sa.",
+     "Following the Nguyễn lords, the Tây Sơn also maintained activity on the Hoàng Sa archipelago."
+    ],
+    [
+     "Nhật Minh",
+     "Tờ sai năm 1786 ghi việc sai cai Hội Đức Hầu dẫn bốn chiếc thuyền câu vượt biển ra Hoàng Sa.",
+     "A 1786 order records sending captain Hội Đức Hầu with four boats across the sea to Hoàng Sa."
+    ]
+   ],
+   "nguon_trang": [
+    170
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1786, triều đại nào sai đội Hoàng Sa ra quần đảo Hoàng Sa?",
+    "lua_chon": [
+     "Triều Lý",
+     "Triều Tây Sơn",
+     "Triều Trần"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Tờ sai năm 1786 là của triều đại nào?",
+     "Pause! Which dynasty issued the 1786 order?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Triều Tây Sơn!",
+     "The answer is B: the Tây Sơn!"
+    ]
+   ],
+   "nguon_trang": [
+    170
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "sa_ban",
+   "sa_ban": "hoang-sa-truong-sa",
+   "pha": "tong_quan",
+   "thoi_luong_toi_thieu": 9,
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1802 đến năm 1884, các vua Triều Nguyễn tổ chức khảo sát, thăm dò, khai thác, đo đạc thuỷ trình, vẽ bản đồ và cắm cờ trên quần đảo Hoàng Sa.",
+     "From 1802 to 1884, the Nguyễn emperors surveyed, explored, exploited, charted and mapped the Hoàng Sa archipelago and planted flags there."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1884 đến năm 1945, Pháp đại diện Việt Nam trong đối ngoại, tiếp tục thực thi chủ quyền trên Biển Đông, quần đảo Hoàng Sa và quần đảo Trường Sa.",
+     "From 1884 to 1945, France represented Vietnam abroad and continued to exercise sovereignty over the East Sea, Hoàng Sa and Trường Sa."
+    ],
+    [
+     "Hân Hân",
+     "Từ năm 1945 đến nay, Nhà nước Việt Nam tiếp tục đấu tranh kiên quyết nhằm thực thi chủ quyền biển đảo.",
+     "From 1945 to today, the Vietnamese State has continued to firmly defend its sovereignty over the sea and islands."
+    ]
+   ],
+   "nguon_trang": [
+    170,
+    171
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "DẤU ẤN CHA ÔNG TRÊN BIỂN ĐẢO",
+   "moc": [
+    [
+     "Tiền sử",
+     "Cư dân hang động ven biển đánh bắt hải sản"
+    ],
+    [
+     "VII TCN – X",
+     "Truyền thuyết, trống đồng hoa văn thuyền, Óc Eo"
+    ],
+    [
+     "X – XV",
+     "Vân Đồn, Hội Triều, Hội Thống"
+    ],
+    [
+     "XVI – XIX",
+     "Cảng thị hướng biển; đội Hoàng Sa, Bắc Hải"
+    ],
+    [
+     "1802 – 1884",
+     "Triều Nguyễn đo đạc, vẽ bản đồ, cắm cờ"
+    ],
+    [
+     "1945 – nay",
+     "Nhà nước Việt Nam kiên quyết bảo vệ chủ quyền"
+    ]
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng ôn lại nhé: từ thời tiền sử, qua các nhà nước đầu tiên, đến Lý – Trần, Lê sơ,",
+     "Let's review: from prehistory, through the first states, to the Lý, Trần and Lê,"
+    ],
+    [
+     "Hân Hân",
+     "chúa Nguyễn, Tây Sơn, Triều Nguyễn và Nhà nước Việt Nam hôm nay, chủ quyền biển đảo được xác lập và thực thi liên tục.",
+     "the Nguyễn lords, Tây Sơn, the Nguyễn dynasty and today's Vietnamese State, sovereignty over the sea and islands has been established and exercised continuously."
+    ]
+   ],
+   "nguon_trang": [
+    168,
+    169,
+    170,
+    171
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: đóng vai hướng dẫn viên du lịch, giới thiệu ngắn gọn quá trình xác lập chủ quyền biển đảo của Việt Nam! Bình luận nhé!",
+     "Your challenge: play a tour guide and briefly present how Vietnam established its sovereignty over the sea and islands! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    171
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thương cảng quốc tế quan trọng thời Lý – Trần là cảng nào?",
+   "dap_an": [
+    "Vân Đồn",
+    "Hội An",
+    "Gia Định",
+    "Óc Eo"
+   ],
+   "dung": 0,
+   "trang": 169
+  },
+  {
+   "hoi": "Năm 1702, người Anh đánh chiếm đảo nào?",
+   "dap_an": [
+    "Côn Lôn",
+    "Phú Quốc",
+    "Lý Sơn",
+    "Cồn Cỏ"
+   ],
+   "dung": 0,
+   "trang": 170
+  },
+  {
+   "hoi": "Ai tổ chức đánh đuổi quân Anh, giành lại đảo Côn Lôn?",
+   "dap_an": [
+    "Chúa Nguyễn Phúc Chu",
+    "Vua Gia Long",
+    "Vua Minh Mạng",
+    "Vua Quang Trung"
+   ],
+   "dung": 0,
+   "trang": 170
+  },
+  {
+   "hoi": "Óc Eo là thương cảng nổi tiếng của vương quốc nào?",
+   "dap_an": [
+    "Phù Nam",
+    "Chăm-pa",
+    "Văn Lang",
+    "Đại Việt"
+   ],
+   "dung": 0,
+   "trang": 169
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 168 (mục 3: thời tiền sử – hang động ven biển Hải Phòng, Quảng Ninh, Nghệ An, Hà Tĩnh, Quảng Trị; ca dao; thế kỉ VII TCN – X: Lạc Long Quân – Âu Cơ, Mai An Tiêm, An Dương Vương – Rùa vàng; Văn Lang – Âu Lạc, Chăm-pa, Phù Nam; trống đồng, thạp đồng hoa văn thuyền), tr. 169 (Chăm-pa, Óc Eo; Hình 2.2: Vân Đồn, Hội Triều, Hội Thống, Lê sơ, Vi-giay-a – Đại Chiêm hải khẩu, Tân Châu; thế kỉ XVI – XIX: cảng thị, chúa Nguyễn khai khẩn, Côn Lôn, Phú Quốc), tr. 170 (tư liệu 1: tháng 8 – 1702 Anh chiếm Côn Lôn, Nguyễn Phúc Chu đánh đuổi; đội Hoàng Sa, Bắc Hải; Tây Sơn – tờ sai 1786, cai Hội Đức Hầu, bốn thuyền câu; 1802 – 1884; 1884 – 1945) và tr. 171 (1945 – nay; Vận dụng). Bản đồ là sa bàn vẽ bằng code, đủ Hoàng Sa – Trường Sa; dùng lại ảnh L7-B13-03 cảnh 9, L8-B9-02 cảnh 6. Không vẽ Rùa vàng (thần biển).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

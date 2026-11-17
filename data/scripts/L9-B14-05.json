@@ -1,0 +1,288 @@
+{
+ "ma": "L9-B14-05",
+ "ten_tap": "Vừa kháng chiến, vừa kiến quốc",
+ "ten_tap_en": "Resisting and Rebuilding at Once",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 14. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+  "trang": [
+   69,
+   70
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "kiên cường, ấm áp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 14, tr. 69–70.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Vừa kháng chiến – Vừa kiến quốc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1946 – 1950, nhân dân ta vừa đánh giặc, vừa xây dựng đất nước. Làm thế nào để làm được cả hai?",
+     "In 1946–1950, our people fought the enemy and built the country at the same time. How did they manage both?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng xem nhé!",
+     "Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    70
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: cơ quan đầu não lên Việt Bắc; đầu năm 1950 Trung Quốc, Liên Xô, Tiệp Khắc, Ru-ma-ni, Ba Lan đặt quan hệ ngoại giao",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về chính trị, các cơ quan Đảng, Chính phủ, Mặt trận được di chuyển kịp thời, an toàn lên căn cứ địa Việt Bắc; chính quyền dân chủ nhân dân được kiện toàn.",
+     "Politically, the Party, government and Front moved safely to the Việt Bắc base in time, and people's government was strengthened."
+    ],
+    [
+     "Nhật Minh",
+     "Về ngoại giao, đầu năm 1950, Chủ tịch Hồ Chí Minh tuyên bố sẵn sàng đặt quan hệ với các nước. Trung Quốc, Liên Xô và nhiều nước xã hội chủ nghĩa như Tiệp Khắc, Ru-ma-ni, Ba Lan lần lượt công nhận Việt Nam Dân chủ Cộng hoà.",
+     "Diplomatically, in early 1950 President Hồ Chí Minh declared readiness for relations with all countries. China, the USSR and socialist states such as Czechoslovakia, Romania and Poland recognised the DRV in turn."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đầu năm 1950, những nước nào công nhận và đặt quan hệ ngoại giao với Việt Nam Dân chủ Cộng hoà?",
+    "lua_chon": [
+     "Mỹ, Anh, Pháp",
+     "Trung Quốc, Liên Xô và các nước xã hội chủ nghĩa",
+     "Nhật Bản, Thái Lan"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Những nước nào đã công nhận nước ta đầu năm 1950?",
+     "Pause! Which countries recognised us in early 1950?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Trung Quốc, Liên Xô và các nước xã hội chủ nghĩa khác!",
+     "The answer is B: China, the USSR and other socialist countries!"
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu đồng bào Việt Bắc tăng gia sản xuất trong kháng chiến chống Pháp",
+    "tim": "Viet Bac resistance 1948 farmers photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: tăng gia sản xuất ở vùng tự do",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế, nền kinh tế kháng chiến được xây dựng để tự cấp, tự túc; tăng gia sản xuất, trước hết là nông nghiệp, được đẩy mạnh.",
+     "Economically, a resistance economy was built for self-sufficiency; production, especially farming, was stepped up."
+    ],
+    [
+     "Nhật Minh",
+     "Một số xí nghiệp quốc phòng và dân dụng được xây dựng ở vùng tự do; các ngành khai khoáng, cơ khí, hoá chất, diêm, giấy từng bước hoạt động.",
+     "Defence and civilian workshops were built in the free zones; mining, engineering, chemicals, matches and paper gradually got going."
+    ]
+   ],
+   "nguon_trang": [
+    69
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn hoá – giáo dục",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu lớp học trong vùng kháng chiến chống Pháp",
+    "tim": "resistance school Viet Bac 1950 class photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: lớp học trong vùng kháng chiến",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội nghị Văn hoá toàn quốc lần thứ hai năm 1948 nhấn mạnh xây dựng văn hoá phục vụ kháng chiến. Đến tháng 6 năm 1950, khoảng 10 triệu người được xoá nạn mù chữ.",
+     "The Second National Cultural Conference in 1948 stressed culture serving the resistance. By June 1950, about 10 million people had become literate."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1950, cuộc Cải cách giáo dục phổ thông lần thứ nhất được triển khai, xây dựng nền giáo dục dân tộc, dân chủ.",
+     "In 1950, the first general education reform began, building a national and democratic education system."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đến tháng 6 – 1950, khoảng bao nhiêu người được xoá nạn mù chữ?",
+    "lua_chon": [
+     "1 triệu người",
+     "10 triệu người",
+     "100 triệu người"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Đến tháng 6 năm 1950, bao nhiêu người đã biết chữ?",
+     "EduHistory asks you! By June 1950, how many people had learned to read?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: khoảng 10 triệu người!",
+     "The answer is B: about 10 million people!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "Chính trị: cơ quan đầu não lên Việt Bắc; chính quyền được kiện toàn",
+    "Ngoại giao: đầu năm 1950 đặt quan hệ với Trung Quốc, Liên Xô…",
+    "Kinh tế: tự cấp, tự túc; xí nghiệp quốc phòng ở vùng tự do",
+    "Văn hoá, giáo dục: 10 triệu người biết chữ; cải cách giáo dục 1950"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: những năm 1946 – 1950, ta vừa kháng chiến, vừa kiến quốc trên mọi mặt trận.",
+     "Remember: in 1946–1950 we resisted and rebuilt on every front at once."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là nền tảng để cuộc kháng chiến tiến lên giành thắng lợi.",
+     "That laid the foundation for the resistance to advance to victory."
+    ]
+   ],
+   "nguon_trang": [
+    69,
+    70
+   ],
+   "tieu_de": "VỪA KHÁNG CHIẾN, VỪA KIẾN QUỐC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao vừa đánh giặc mà vẫn phải chăm lo giáo dục, xoá mù chữ? Bình luận nhé!",
+     "Your challenge: why care about education and literacy even while fighting a war? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sau khi toàn quốc kháng chiến bùng nổ, các cơ quan đầu não được chuyển lên đâu?",
+   "dap_an": [
+    "Căn cứ địa Việt Bắc",
+    "Sài Gòn",
+    "Huế",
+    "Hải Phòng"
+   ],
+   "dung": 0,
+   "trang": 69
+  },
+  {
+   "hoi": "Hội nghị Văn hoá toàn quốc lần thứ hai họp năm nào?",
+   "dap_an": [
+    "1948",
+    "1946",
+    "1950",
+    "1951"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Cuộc Cải cách giáo dục phổ thông lần thứ nhất được triển khai năm nào?",
+   "dap_an": [
+    "1950",
+    "1945",
+    "1948",
+    "1954"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Nền kinh tế kháng chiến nhằm mục tiêu gì?",
+   "dap_an": [
+    "Tự cấp, tự túc",
+    "Xuất khẩu",
+    "Phụ thuộc viện trợ",
+    "Mở cửa với Pháp"
+   ],
+   "dung": 0,
+   "trang": 69
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 69 (di chuyển cơ quan đầu não lên Việt Bắc; chính quyền được kiện toàn; đầu năm 1950 tuyên bố đặt quan hệ, Trung Quốc, Liên Xô, Tiệp Khắc, Ru-ma-ni, Ba Lan công nhận; kinh tế tự cấp tự túc; xí nghiệp quốc phòng, dân dụng) và tr. 70 (Hội nghị Văn hoá toàn quốc lần thứ hai 1948; đến 6 – 1950 khoảng 10 triệu người biết chữ; Cải cách giáo dục 1950).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

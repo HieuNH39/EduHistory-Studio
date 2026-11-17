@@ -1,0 +1,404 @@
+{
+ "ma": "L8-B1-05",
+ "ten_tap": "Nhìn lại lịch sử: Điểm chung và khác biệt",
+ "ten_tap_en": "Looking Back: Similarities and Differences",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 1. Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+  "trang": [
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "sac-lo-i"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, tổng kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 1, tr. 8–11.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ hai bờ Đại Tây Dương với một con tàu buồm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hai cuộc cách mạng bên hai bờ Đại Tây Dương: Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ.",
+     "Two revolutions on either side of the Atlantic: the English Revolution and the American War of Independence."
+    ],
+    [
+     "Hân Hân",
+     "Chúng giống và khác nhau thế nào? Cùng nhìn lại nhé!",
+     "How were they alike and different? Let's look back!"
+    ]
+   ],
+   "nguon_trang": [
+    8
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cách mạng tư sản Anh",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "sac-lo-i"
+   ],
+   "hinh": "Dùng lại ảnh L8-B1-02 cảnh 3: hội trường Quốc hội Anh thế kỉ XVII, vua Sác-lơ I đối mặt các đại biểu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu thế kỉ XVII, nước Anh có nền kinh tế phát triển nhất châu Âu. Mâu thuẫn gay gắt giữa tư sản, quý tộc mới với chế độ quân chủ chuyên chế dẫn tới cách mạng.",
+     "In the early 17th century, England had Europe's most advanced economy. Sharp conflict between the bourgeoisie and new nobility and absolute monarchy led to revolution."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 8 năm 1642, vua Sác-lơ I tuyên chiến với Quốc hội, cách mạng bùng nổ.",
+     "In August 1642, King Charles I declared war on Parliament, and revolution broke out."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B1-02/canh-03.jpg",
+   "nguon_trang": [
+    8,
+    9
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-anh"
+   ],
+   "hinh": "Dùng lại ảnh L8-B1-02 cảnh 7: cuối thế kỉ XVII, trong đại sảnh Quốc hội Anh, các đại biểu trao cho đôi vợ chồng nhà vua mới một cuộn văn bản",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1649, vua Sác-lơ I bị xử tử, nền cộng hoà được thành lập. Năm 1660, nền quân chủ chuyên chế phục hồi.",
+     "In 1649 Charles I was executed and a republic founded. In 1660 absolute monarchy returned."
+    ],
+    [
+     "Hân Hân",
+     "Đến năm 1688 – 1689, sau cuộc chính biến, chế độ quân chủ lập hiến ra đời.",
+     "Then in 1688–1689, after a coup, constitutional monarchy was born."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B1-02/canh-07.jpg",
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Hân Hân chỉ lên bảng ghi chữ: không triệt để",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tư sản Anh đã lật đổ chế độ quân chủ chuyên chế, mở đường cho chủ nghĩa tư bản ở Anh phát triển nhanh chóng.",
+     "The English Revolution overthrew absolute monarchy and opened the way for rapid capitalist growth."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cuộc cách mạng không triệt để, vì không xoá bỏ tận gốc chế độ phong kiến và không giải quyết vấn đề ruộng đất của nông dân.",
+     "But it was incomplete: it neither uprooted feudalism nor solved the peasants' land problem."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cách mạng tư sản Anh thiết lập chế độ chính trị nào?",
+    "lua_chon": [
+     "Cộng hoà tổng thống",
+     "Quân chủ lập hiến",
+     "Quân chủ chuyên chế"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Cách mạng tư sản Anh thiết lập chế độ nào?",
+     "EduHistory asks you! What system did the English Revolution establish?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: quân chủ lập hiến!",
+     "The answer is B: constitutional monarchy!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "13 thuộc địa ở Bắc Mỹ",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dan-quan-bac-my"
+   ],
+   "hinh": "Dùng lại ảnh L8-B1-04 cảnh 3: cánh đồng và hàng rào gỗ ở Bắc Mỹ thế kỉ XVIII, dân quân thuộc địa mặc áo thường, mũ ba góc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 4 năm 1775, Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ bùng nổ. Tháng 10 năm 1777, chiến thắng Xa-ra-tô-ga là bước ngoặt của cuộc chiến tranh.",
+     "In April 1775 the war broke out. In October 1777, the victory at Saratoga turned the tide."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B1-04/canh-03.jpg",
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dai-bieu-thuoc-dia"
+   ],
+   "hinh": "Dùng lại ảnh L8-B1-04 cảnh 4: hội trường gạch đỏ thế kỉ XVIII ở Bắc Mỹ, các đại biểu thuộc địa đứng nghe",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tuyên ngôn Độc lập năm 1776 có đoạn: Mọi người sinh ra đều có quyền bình đẳng. Tạo hoá ban cho họ những quyền không thể tước bỏ, trong đó có quyền được sống, quyền được tự do và quyền mưu cầu hạnh phúc.",
+     "The 1776 Declaration of Independence says: all men are created equal, endowed with unalienable rights, among them life, liberty and the pursuit of happiness."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B1-04/canh-04.jpg",
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-ngoai-giao"
+   ],
+   "hinh": "Dùng lại ảnh L8-B1-04 cảnh 8: phòng họp sang trọng ở Pa-ri thế kỉ XVIII, các nhà ngoại giao ngồi quanh bàn kí hoà ước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1781, chiến thắng I-oóc-tao. Chiến tranh kết thúc với việc kí Hoà ước Pa-ri, Anh công nhận nền độc lập của 13 thuộc địa.",
+     "In October 1781 came the victory at Yorktown. The war ended with the Treaty of Paris, in which Britain recognised the colonies' independence."
+    ],
+    [
+     "Hân Hân",
+     "Hợp chúng quốc Mỹ được thành lập, mở đường cho kinh tế tư bản chủ nghĩa phát triển.",
+     "The United States was founded, opening the way for capitalist development."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B1-04/canh-08.jpg",
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh giành độc lập ở Bắc Mỹ thiết lập chế độ chính trị nào?",
+    "lua_chon": [
+     "Cộng hoà tổng thống",
+     "Quân chủ lập hiến",
+     "Quân chủ chuyên chế"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ở Bắc Mỹ, chế độ nào được thiết lập?",
+     "Pause! Which system was set up in North America?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: cộng hoà tổng thống!",
+     "The answer is A: a presidential republic!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Điểm chung và khác biệt",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Giống nhau: đều là cách mạng tư sản, mở đường cho chủ nghĩa tư bản phát triển",
+    "Anh: quý tộc mới và tư sản lãnh đạo; hình thức nội chiến; quân chủ lập hiến",
+    "Bắc Mỹ: chủ nô và tư sản lãnh đạo; chiến tranh giải phóng; cộng hoà tổng thống",
+    "Bắc Mỹ: ảnh hưởng tới phong trào giành độc lập ở nhiều nước"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Điểm chung: cả hai đều mang tính chất cách mạng tư sản, mở đường cho chủ nghĩa tư bản phát triển.",
+     "In common: both were bourgeois revolutions that opened the way for capitalism."
+    ],
+    [
+     "Nhật Minh",
+     "Khác biệt: ở Anh do quý tộc mới và tư sản lãnh đạo, diễn ra dưới hình thức nội chiến, thiết lập quân chủ lập hiến.",
+     "Differences: England's was led by the new nobility and bourgeoisie, took the form of civil war, and set up constitutional monarchy."
+    ],
+    [
+     "Hân Hân",
+     "Còn ở Bắc Mỹ do chủ nô và tư sản lãnh đạo, là cuộc chiến tranh giải phóng, thiết lập cộng hoà tổng thống, ảnh hưởng tới phong trào giành độc lập ở nhiều nước.",
+     "America's was led by slave-owners and the bourgeoisie, was a war of liberation, set up a presidential republic, and inspired independence movements elsewhere."
+    ]
+   ],
+   "nguon_trang": [
+    9,
+    11
+   ],
+   "tieu_de": "ĐIỂM CHUNG VÀ KHÁC BIỆT",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc cách mạng nào diễn ra dưới hình thức chiến tranh giải phóng dân tộc?",
+    "lua_chon": [
+     "Cách mạng tư sản Anh",
+     "Chiến tranh giành độc lập ở Bắc Mỹ",
+     "Cả hai"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu hỏi cuối! Cuộc nào là chiến tranh giải phóng?",
+     "Last question! Which one was a war of liberation?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ!",
+     "The answer is B: the American War of Independence!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: câu nào trong Tuyên ngôn Độc lập của Hợp chúng quốc Mỹ đã được trích dẫn trong bản Tuyên ngôn Độc lập của nước Việt Nam Dân chủ Cộng hoà năm 1945? Bình luận nhé!",
+     "Your challenge: which line of the US Declaration of Independence was quoted in Vietnam's 1945 Declaration of Independence? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai lãnh đạo Cách mạng tư sản Anh?",
+   "dap_an": [
+    "Tầng lớp quý tộc mới và tư sản",
+    "Chủ nô và tư sản",
+    "Nông dân",
+    "Công nhân"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Vì sao Cách mạng tư sản Anh mang tính chất không triệt để?",
+   "dap_an": [
+    "Không xoá bỏ tận gốc chế độ phong kiến, không giải quyết ruộng đất cho nông dân",
+    "Không lật đổ được vua",
+    "Không có quân đội",
+    "Thất bại hoàn toàn"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Chiến thắng nào là bước ngoặt của Chiến tranh giành độc lập ở Bắc Mỹ?",
+   "dap_an": [
+    "Xa-ra-tô-ga (10 – 1777)",
+    "I-oóc-tao (10 – 1781)",
+    "Bô-xtơn (12 – 1773)",
+    "Ba-xti (7 – 1789)"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Kết quả của Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ là gì?",
+   "dap_an": [
+    "Lật đổ ách thống trị của thực dân Anh, thành lập Hợp chúng quốc Mỹ",
+    "Thiết lập quân chủ lập hiến",
+    "Nước Anh mở rộng thuộc địa",
+    "Thành lập nước Pháp"
+   ],
+   "dung": 0,
+   "trang": 10
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 8 – 9 (nguyên nhân, Hình 1.3 sơ đồ: 8 – 1642, 30 – 1 – 1649, 1660, 1688 – 1689; kết quả, tính chất không triệt để, đặc điểm), tr. 10 (Hình 1.4: 4 – 1775, 10 – 1777 Xa-ra-tô-ga, 10 – 1781 I-oóc-tao, Hoà ước Pa-ri; kết quả) và tr. 11 (Tuyên ngôn Độc lập 1776; tính chất, ảnh hưởng; đặc điểm; Vận dụng 1). Dùng lại ảnh L8-B1-02 cảnh 3, 7; L8-B1-04 cảnh 3, 4, 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

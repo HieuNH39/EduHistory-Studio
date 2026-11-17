@@ -1,0 +1,179 @@
+{
+ "ma": "L9-B5-01",
+ "ten_tap": "Việt Nam sau Thế chiến I: Bối cảnh mới",
+ "ten_tap_en": "Vietnam after World War One: A New Context",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 5. Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+  "trang": [
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 5, tr. 22.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm cuốn sách Lịch sử 9",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Chiến tranh thế giới thứ nhất, Việt Nam bước vào một bối cảnh hoàn toàn mới. Đó là gì nhỉ?",
+     "After World War One, Vietnam entered a completely new situation. What was it?"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu công nhân đồn điền cao su ở Đông Dương thời Pháp thuộc (dùng lại ảnh tư liệu của L9-B5-04 cảnh 13, tìm lại theo khung dọc)",
+    "tim": "rubber plantation Cochinchina worker 1920s photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: đồn điền cao su ở Nam Kì thời Pháp thuộc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tư bản Pháp tiến hành chương trình khai thác thuộc địa lần thứ hai ở Đông Dương, đưa tới nhiều biến đổi quan trọng về chính trị, kinh tế, văn hoá, xã hội Việt Nam.",
+     "French capital launched the second colonial exploitation programme in Indochina, bringing major political, economic, cultural and social changes to Vietnam."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Cách mạng tháng Mười Nga năm 1917",
+    "tim": "October Revolution 1917 Petrograd photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Pê-tơ-rô-grát năm 1917",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trên thế giới, thắng lợi của Cách mạng tháng Mười Nga năm 1917 và sự ra đời của Quốc tế Cộng sản năm 1919 tác động to lớn đến phong trào giải phóng dân tộc ở các nước thuộc địa.",
+     "Worldwide, the victory of Russia's October Revolution in 1917 and the founding of the Communist International in 1919 deeply influenced liberation movements in the colonies."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quốc tế Cộng sản ra đời năm nào?",
+    "lua_chon": [
+     "1917",
+     "1919",
+     "1930"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Quốc tế Cộng sản ra đời năm nào?",
+     "EduHistory asks you! When was the Communist International founded?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 1919!",
+     "The answer is B: 1919!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, vì sao phong trào dân tộc dân chủ giai đoạn này diễn ra sôi nổi nhưng vẫn chưa thành công? Bình luận nhé!",
+     "Why do you think the national democratic movement of this period was lively yet still unsuccessful? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cách mạng tháng Mười Nga thắng lợi năm nào?",
+   "dap_an": [
+    "1917",
+    "1919",
+    "1918",
+    "1921"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Chương trình khai thác thuộc địa lần thứ hai ở Đông Dương do ai tiến hành?",
+   "dap_an": [
+    "Tư bản Pháp",
+    "Phát xít Nhật",
+    "Tư bản Mỹ",
+    "Triều Nguyễn"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Sự kiện nào trên thế giới tác động đến phong trào giải phóng dân tộc ở thuộc địa sau năm 1918?",
+   "dap_an": [
+    "Cách mạng tháng Mười Nga và sự ra đời của Quốc tế Cộng sản",
+    "Đại suy thoái 1929",
+    "Chiến tranh lạnh",
+    "Toàn cầu hoá"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Bối cảnh mới đã thúc đẩy phong trào nào ở Việt Nam phát triển?",
+   "dap_an": [
+    "Phong trào dân tộc dân chủ",
+    "Phong trào Cần vương",
+    "Phong trào Tây Sơn",
+    "Phong trào Đổi mới"
+   ],
+   "dung": 0,
+   "trang": 22
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 22 (chương trình khai thác thuộc địa lần thứ hai; Cách mạng tháng Mười Nga 1917, Quốc tế Cộng sản 1919; bối cảnh mới thúc đẩy phong trào dân tộc dân chủ; câu mở đầu). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,315 @@
+{
+ "ma": "L8-B17-04",
+ "ten_tap": "Những bản điều trần tâm huyết",
+ "ten_tap_en": "Heartfelt Reform Memorials",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 17. Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+  "trang": [
+   82,
+   83
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "suy tư",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 17, tr. 82–83.",
+ "chinh_sach_hinh": "Nhân vật lịch sử dùng tư liệu thật; cảnh tái hiện vẽ khái quát, không chân dung cụ thể.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, trên bàn là những cuộn giấy điều trần buộc dây đỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nửa sau thế kỉ XIX, chế độ phong kiến khủng hoảng, đất nước lại phải kháng chiến chống Pháp.",
+     "In the late 19th century, the feudal order was in crisis while the country fought the French."
+    ],
+    [
+     "Nhật Minh",
+     "Lúc ấy, nhiều văn thân, sĩ phu đã mạnh dạn gửi lên Triều đình Huế những bản điều trần, đề nghị cải cách.",
+     "At that time, many scholar-gentry boldly sent memorials to the Huế court proposing reforms."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung Nguyễn Trường Tộ (1830 – 1871)",
+    "tim": "Nguyen Truong To portrait",
+    "yeu_cau": "ảnh hoặc tranh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Tư liệu: Nguyễn Trường Tộ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tiêu biểu là Nguyễn Trường Tộ, một trí thức Công giáo yêu nước quê ở Nghệ An. Ông chú ý khảo sát kinh tế và văn hoá phương Tây.",
+     "A leading figure was Nguyễn Trường Tộ, a patriotic Catholic intellectual from Nghệ An who studied Western economy and culture."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1863 đến năm 1871, ông gửi lên triều đình nhiều bản điều trần, đề nghị chấn chỉnh bộ máy quan lại, phát triển công thương, tài chính, chỉnh đốn võ bị, ngoại giao, cải tổ giáo dục.",
+     "From 1863 to 1871, he sent many memorials urging reform of the bureaucracy, development of industry, trade and finance, military and diplomatic overhaul, and education reform."
+    ],
+    [
+     "Hân Hân",
+     "Ông đã đệ trình vua Tự Đức 14 bản điều trần, trong đó có Tế cấp bát điều, tức Tám điều cấp bách.",
+     "He submitted 14 memorials to Emperor Tự Đức, including the 'Eight Urgent Matters'."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nguyễn Trường Tộ đã đệ trình vua Tự Đức bao nhiêu bản điều trần?",
+    "lua_chon": [
+     "8 bản",
+     "14 bản",
+     "30 bản"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nguyễn Trường Tộ gửi vua Tự Đức bao nhiêu bản điều trần?",
+     "Pause! How many memorials did Nguyễn Trường Tộ submit to Tự Đức?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 14 bản, trong đó có Tám điều cấp bách!",
+     "The answer is B: 14, including the Eight Urgent Matters!"
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "si-phu-yeu-nuoc"
+   ],
+   "hinh": "Một cửa biển miền Bắc nửa sau thế kỉ XIX lúc bình minh: bãi bồi rộng, vài chiếc thuyền buồm nâu neo đậu, xa xa là mỏ đá và cánh đồng mới khai hoang; một vị sĩ phu áo the, khăn xếp đứng trên đê cầm cuộn giấy, nhìn ra biển đầy suy tư (vẽ khái quát, nhìn từ phía sau)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1868, Trần Đình Túc, Nguyễn Huy Tế đề nghị mở cửa biển Trà Lý, nay thuộc tỉnh Hưng Yên, đẩy mạnh khai hoang, khai mỏ, mở mang thương nghiệp, củng cố quốc phòng.",
+     "In 1868, Trần Đình Túc and Nguyễn Huy Tế proposed opening the Trà Lý estuary, now in Hưng Yên province, expanding land reclamation, mining and commerce, and strengthening defence."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1872, Viện Thương bạc đề nghị mở ba cửa biển ở miền Bắc và miền Trung để phát triển ngoại thương.",
+     "In 1872, the Thương bạc office proposed opening three seaports in the North and Centre to develop foreign trade."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-lo-trach"
+   ],
+   "hinh": "Thư phòng của một nhà nho cuối thế kỉ XIX dưới ánh đèn dầu đĩa đất nung nhỏ: một sĩ phu trẻ áo the, khăn xếp (vẽ khái quát, nhìn nghiêng) cầm bút lông chấm nghiên mực, viết lên tờ giấy dó; chồng sách chữ Hán bên cạnh; ngoài cửa sổ là đêm khuya",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyễn Lộ Trạch gửi các bản Thời vụ sách lên vua Tự Đức vào các năm 1877 và 1882,",
+     "Nguyễn Lộ Trạch sent his 'Memorials on Current Affairs' to Tự Đức in 1877 and 1882,"
+    ],
+    [
+     "Hân Hân",
+     "đề nghị chấn hưng dân khí, khai thông dân trí, bảo vệ đất nước.",
+     "urging to revive the people's spirit, open their minds and defend the country."
+    ]
+   ],
+   "nguon_trang": [
+    82
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Vì sao không thành?",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện; trên bảng ghi ba ý: thiếu cơ sở kinh tế – xã hội; tư tưởng bảo thủ; chỉ thực hiện một phần rất nhỏ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những đề nghị cải cách ấy, vì thiếu cơ sở kinh tế, xã hội, lại vấp phải tư tưởng bảo thủ của cả triều đình và nhân dân,",
+     "Those reform proposals, lacking an economic and social base and running into the conservatism of both court and people,"
+    ],
+    [
+     "Nhật Minh",
+     "nên đã không được thực hiện, hoặc chỉ thực hiện một phần rất nhỏ.",
+     "were not carried out, or only in very small part."
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao các đề nghị cải cách nửa sau thế kỉ XIX không được thực hiện?",
+    "lua_chon": [
+     "Vì Pháp ngăn cản",
+     "Vì thiếu cơ sở kinh tế, xã hội và vấp phải tư tưởng bảo thủ",
+     "Vì không ai đề xuất"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Vì sao các đề nghị cải cách không thành?",
+     "EduHistory asks you! Why did the reform proposals fail?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thiếu cơ sở kinh tế, xã hội và vấp phải tư tưởng bảo thủ!",
+     "The answer is B: no economic and social base, and conservative resistance!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Bối cảnh: phong kiến khủng hoảng, kháng chiến chống Pháp",
+    "Nguyễn Trường Tộ (1863 – 1871), Trần Đình Túc – Nguyễn Huy Tế (1868), Viện Thương bạc (1872), Nguyễn Lộ Trạch (1877, 1882)",
+    "Không được thực hiện vì thiếu cơ sở, tư tưởng bảo thủ",
+    "Ý nghĩa: tiền đề tư tưởng cho phong trào Duy tân đầu thế kỉ XX"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tư tưởng cải cách nửa sau thế kỉ XIX phản ánh sự tiến bộ trong nhận thức mới của người Việt Nam,",
+     "Remember: late-19th-century reform ideas reflected a new, progressive awareness among Vietnamese,"
+    ],
+    [
+     "Nhật Minh",
+     "góp phần chuẩn bị tiền đề về tư tưởng cho sự ra đời phong trào Duy tân đầu thế kỉ XX.",
+     "and helped lay the ideological groundwork for the Modernisation movement of the early 20th century."
+    ]
+   ],
+   "nguon_trang": [
+    82,
+    83
+   ],
+   "tieu_de": "TRÀO LƯU CẢI CÁCH",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: nếu các đề nghị cải cách ấy được thực hiện, theo cậu, lịch sử Việt Nam có thể thay đổi thế nào? Bình luận nhé!",
+     "Your challenge: if those reforms had been carried out, how might Vietnamese history have changed? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    83
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nguyễn Lộ Trạch gửi bản Thời vụ sách lên vua Tự Đức vào những năm nào?",
+   "dap_an": [
+    "1877 và 1882",
+    "1863 và 1871",
+    "1868 và 1872",
+    "1858 và 1884"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Năm 1868, Trần Đình Túc, Nguyễn Huy Tế đề nghị mở cửa biển nào?",
+   "dap_an": [
+    "Trà Lý",
+    "Thuận An",
+    "Đà Nẵng",
+    "Hải Phòng"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Tế cấp bát điều (Tám điều cấp bách) là của ai?",
+   "dap_an": [
+    "Nguyễn Trường Tộ",
+    "Nguyễn Lộ Trạch",
+    "Viện Thương bạc",
+    "Nguyễn Huy Tế"
+   ],
+   "dung": 0,
+   "trang": 82
+  },
+  {
+   "hoi": "Ý nghĩa của tư tưởng cải cách nửa sau thế kỉ XIX là gì?",
+   "dap_an": [
+    "Chuẩn bị tiền đề tư tưởng cho phong trào Duy tân đầu thế kỉ XX",
+    "Giúp Việt Nam thoát khỏi ách đô hộ ngay",
+    "Làm triều Nguyễn sụp đổ",
+    "Không có ý nghĩa"
+   ],
+   "dung": 0,
+   "trang": 83
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 82 (mục 3: bối cảnh; Em có biết: Nguyễn Trường Tộ – trí thức Công giáo yêu nước ở Nghệ An, 14 bản điều trần, Tế cấp bát điều; Hình 17.10: Nguyễn Trường Tộ 1863 – 1871, Trần Đình Túc – Nguyễn Huy Tế – Đinh Văn Điền 1868 cửa biển Trà Lý nay thuộc Hưng Yên, Viện Thương bạc 1872, Nguyễn Lộ Trạch Thời vụ sách 1877, 1882) và tr. 83 (lí do không thực hiện; ý nghĩa tiền đề phong trào Duy tân). Nhân vật chỉ dùng ảnh, tranh tư liệu; cảnh tái hiện vẽ khái quát, nhìn từ phía sau hoặc nghiêng.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,351 @@
+{
+ "ma": "L8-B2-04",
+ "ten_tap": "Di sản của cuộc đại cách mạng",
+ "ten_tap_en": "The Legacy of a Great Revolution",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 2. Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+  "trang": [
+   13,
+   14
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-phap"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, tổng kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 2, tr. 13–14.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, Hân Hân cầm lá cờ ba màu xanh – trắng – đỏ nhỏ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao Cách mạng tư sản Pháp được gọi là một cuộc đại cách mạng?",
+     "Why is the French Revolution called a great revolution?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng xem di sản mà nó để lại nhé!",
+     "Let's see the legacy it left!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-phap"
+   ],
+   "hinh": "Dùng lại ảnh L8-B2-03 cảnh 5: quần chúng tấn công pháo đài – nhà tù Ba-xti, khói súng mù mịt (viễn cảnh)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 14 tháng 7 năm 1789, quần chúng tấn công pháo đài – nhà tù Ba-xti, cách mạng bùng nổ.",
+     "On 14 July 1789, crowds stormed the Bastille fortress-prison and the revolution began."
+    ],
+    [
+     "Nhật Minh",
+     "Sau này, ngày 14 tháng 7 được chọn là ngày Quốc khánh của nước Pháp. Lá cờ ba màu xanh lam, trắng, đỏ xuất hiện lần đầu tiên trong cuộc tấn công ấy.",
+     "Later, 14 July became France's national day, and the blue-white-red tricolour first appeared in that attack."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B2-03/canh-05.jpg",
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kết quả",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dai-bieu-phap"
+   ],
+   "hinh": "Dùng lại ảnh L8-B2-03 cảnh 7: hội trường Quốc hội Pháp năm 1789, các đại biểu đứng giơ tay biểu quyết",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cách mạng tư sản Pháp đã lật đổ chế độ phong kiến, thành lập chế độ cộng hoà, đưa giai cấp tư sản lên cầm quyền,",
+     "The French Revolution overthrew feudalism, founded a republic and brought the bourgeoisie to power,"
+    ],
+    [
+     "Nhật Minh",
+     "xoá bỏ nhiều trở ngại trên con đường phát triển của chủ nghĩa tư bản.",
+     "removing many obstacles to capitalist development."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B2-03/canh-07.jpg",
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cách mạng tư sản Pháp đưa giai cấp nào lên cầm quyền?",
+    "lua_chon": [
+     "Quý tộc",
+     "Tư sản",
+     "Tăng lữ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Giai cấp nào lên cầm quyền?",
+     "EduHistory asks you! Which class came to power?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: giai cấp tư sản!",
+     "The answer is B: the bourgeoisie!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ý nghĩa",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-phap"
+   ],
+   "hinh": "Dùng lại ảnh L8-B2-03 cảnh 10: quảng trường Pa-ri đông người, nhân dân reo mừng, giơ cao cờ ba màu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là sự kiện lịch sử trọng đại, ảnh hưởng sâu sắc đến nhiều nước trên thế giới, nhất là ở châu Âu, và để lại nhiều bài học kinh nghiệm cho phong trào cách mạng các nước.",
+     "It was a momentous event, deeply influencing many countries, especially in Europe, and leaving lessons for revolutionary movements."
+    ],
+    [
+     "Hân Hân",
+     "Tư tưởng Tự do, Bình đẳng, Bác ái được truyền bá rộng rãi.",
+     "The ideals of Liberty, Equality, Fraternity spread widely."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B2-03/canh-10.jpg",
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Nhật Minh đọc từ cuốn sách mở",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuyên ngôn Nhân quyền và Dân quyền là văn kiện công bố công khai về quyền con người và quyền công dân.",
+     "The Declaration of the Rights of Man and of the Citizen publicly proclaimed human and civil rights."
+    ],
+    [
+     "Hân Hân",
+     "Trong bản Tuyên ngôn Độc lập của nước Việt Nam Dân chủ Cộng hoà, Chủ tịch Hồ Chí Minh đã trích dẫn: Người ta sinh ra tự do và bình đẳng về quyền lợi, và phải luôn luôn được tự do và bình đẳng về quyền lợi.",
+     "In Vietnam's Declaration of Independence, President Hồ Chí Minh quoted it: All men are born free and with equal rights, and must always remain free and have equal rights."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tính chất và đặc điểm",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-phap"
+   ],
+   "hinh": "Dùng lại ảnh L8-B2-03 cảnh 11: phòng họp câu lạc bộ Gia-cô-banh thế kỉ XVIII, người diễn thuyết đứng trên bục gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là cuộc cách mạng dân chủ tư sản điển hình: thiết lập chế độ cộng hoà cùng các quyền tự do, dân chủ, giải quyết vấn đề ruộng đất cho nông dân, xoá bỏ chế độ đẳng cấp.",
+     "It was the classic bourgeois-democratic revolution: it set up a republic with democratic freedoms, solved the peasants' land question and abolished the estates system."
+    ],
+    [
+     "Nhật Minh",
+     "Đặc điểm nổi bật: diễn ra dưới hình thức cuộc đấu tranh giai cấp quyết liệt do giai cấp tư sản lãnh đạo, lật đổ chế độ quân chủ và bảo vệ tổ quốc.",
+     "Its hallmark: a fierce class struggle led by the bourgeoisie that overthrew the monarchy and defended the nation."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B2-03/canh-11.jpg",
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Cách mạng tư sản Pháp là cuộc cách mạng dân chủ tư sản điển hình?",
+    "lua_chon": [
+     "Vì giữ nguyên chế độ đẳng cấp",
+     "Vì thiết lập cộng hoà, giải quyết ruộng đất cho nông dân, xoá bỏ chế độ đẳng cấp",
+     "Vì thiết lập quân chủ lập hiến"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Vì sao gọi là cách mạng dân chủ tư sản điển hình?",
+     "Pause! Why is it the classic bourgeois-democratic revolution?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: thiết lập cộng hoà, giải quyết ruộng đất cho nông dân, xoá bỏ chế độ đẳng cấp!",
+     "The answer is B: it set up a republic, gave land to peasants and abolished the estates!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Lật đổ chế độ phong kiến, thành lập cộng hoà, tư sản lên cầm quyền",
+    "Truyền bá tư tưởng Tự do – Bình đẳng – Bác ái",
+    "Cách mạng dân chủ tư sản điển hình",
+    "Hình thức: đấu tranh giai cấp quyết liệt do tư sản lãnh đạo"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Cách mạng Pháp lật đổ chế độ phong kiến, đưa tư sản lên cầm quyền, truyền bá tư tưởng Tự do, Bình đẳng, Bác ái.",
+     "Remember: it overthrew feudalism, brought the bourgeoisie to power and spread Liberty, Equality, Fraternity."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là cuộc cách mạng dân chủ tư sản điển hình, diễn ra dưới hình thức đấu tranh giai cấp quyết liệt.",
+     "It was the classic bourgeois-democratic revolution, waged as a fierce class struggle."
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "tieu_de": "DI SẢN CỦA CÁCH MẠNG PHÁP",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: Quốc kì, Quốc ca nước Pháp hiện nay liên quan thế nào đến Cách mạng tư sản Pháp? Bình luận nhé!",
+     "Your challenge: how are France's flag and anthem linked to the Revolution? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    14
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngày nào được chọn làm Quốc khánh của nước Pháp?",
+   "dap_an": [
+    "14 – 7",
+    "26 – 8",
+    "10 – 8",
+    "2 – 6"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Tư tưởng nào được truyền bá rộng rãi sau Cách mạng tư sản Pháp?",
+   "dap_an": [
+    "Tự do, Bình đẳng, Bác ái",
+    "Quân chủ chuyên chế",
+    "Đẳng cấp",
+    "Thần quyền"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Văn kiện nào của Cách mạng Pháp được Chủ tịch Hồ Chí Minh trích dẫn trong Tuyên ngôn Độc lập năm 1945?",
+   "dap_an": [
+    "Tuyên ngôn Nhân quyền và Dân quyền",
+    "Hiến pháp 1791",
+    "Hoà ước Véc-xai",
+    "Tuyên ngôn của Đảng Cộng sản"
+   ],
+   "dung": 0,
+   "trang": 14
+  },
+  {
+   "hoi": "Đặc điểm nổi bật của Cách mạng tư sản Pháp là gì?",
+   "dap_an": [
+    "Đấu tranh giai cấp quyết liệt do tư sản lãnh đạo",
+    "Diễn ra dưới hình thức nội chiến do quý tộc mới lãnh đạo",
+    "Chiến tranh giải phóng dân tộc",
+    "Cải cách từ trên xuống"
+   ],
+   "dung": 0,
+   "trang": 14
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 13 (14 – 7 – 1789; ô Em có biết: Quốc khánh 14 – 7, cờ ba màu) và tr. 14 (mục 2: kết quả, ý nghĩa, tư tưởng Tự do – Bình đẳng – Bác ái; ô Tuyên ngôn Nhân quyền và Dân quyền, câu được Chủ tịch Hồ Chí Minh trích dẫn; tính chất cách mạng dân chủ tư sản điển hình; đặc điểm; Vận dụng). Dùng lại ảnh L8-B2-03 cảnh 5, 7, 10, 11.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

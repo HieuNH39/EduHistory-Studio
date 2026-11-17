@@ -1,0 +1,349 @@
+{
+ "ma": "L6-B19-03",
+ "ten_tap": "Bậc thầy đi biển và xã hội Chăm-pa",
+ "ten_tap_en": "Champa's Master Seafarers and Society",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 19. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+  "trang": [
+   88,
+   89
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-cham-pa"
+ ],
+ "nhac": {
+  "tam_trang": "biển cả, rộng mở",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 19, tr. 88–89.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, Nhật Minh cầm một mẩu gỗ trầm hương mô hình",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mùi hương này đã từng khiến thương nhân khắp nơi tìm đến Chăm-pa đấy!",
+     "This fragrance once drew traders from everywhere to Champa!"
+    ],
+    [
+     "Hân Hân",
+     "Cùng khám phá bậc thầy đi biển và xã hội Chăm-pa nhé!",
+     "Let's explore Champa's master seafarers and society!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kinh tế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-cham-pa"
+   ],
+   "hinh": "Dùng lại ảnh L6-B19-04 cảnh 6: bên cánh đồng lúa chín vùng ven biển miền Trung thời xưa, cư dân Chăm-pa dâng lễ vật lúa, hoa, trái cây",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hoạt động kinh tế của cư dân Chăm-pa rất đa dạng: trồng lúa, chăn nuôi gia súc, gia cầm; sản xuất đồ gốm, trang sức, dụng cụ sản xuất;",
+     "Champa's economy was diverse: rice farming, raising livestock and poultry, making pottery, jewellery and tools;"
+    ],
+    [
+     "Nhật Minh",
+     "khai thác nguồn lợi trên rừng như trầm hương, kì nam, và dưới biển như cá tôm, ngọc trai.",
+     "harvesting forest products like agarwood and kỳ nam, and sea products like fish, shrimp and pearls."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B19-04/canh-06.jpg",
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Bậc thầy đi biển",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Dùng lại ảnh L6-B12-02 cảnh 9: thương cảng cổ ven biển miền Trung có tháp gạch Chăm trên đồi, thuyền buôn cập bến",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đặc biệt, cư dân Chăm-pa giỏi nghề đi biển. Vương quốc Chăm-pa là một trung tâm buôn bán quốc tế, kết nối với Trung Hoa, Ấn Độ và các nước Ả Rập.",
+     "Above all, the Cham were skilled seafarers. Champa was an international trading hub linked to China, India and the Arab lands."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B12-02/canh-09.jpg",
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng, Hân Hân chỉ vào tủ kính có bình gốm men lam",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Họ bán trầm hương, kì nam, ngọc trai, ngà voi để đổi lấy thuỷ tinh từ Ấn Độ, mã não từ Thái Lan, gương đồng từ Trung Quốc, đồ gốm men lam cô-ban từ các nước Ả Rập.",
+     "They sold agarwood, kỳ nam, pearls and ivory for Indian glass, Thai agate, Chinese bronze mirrors and Arab cobalt-blue pottery."
+    ],
+    [
+     "Hân Hân",
+     "Gốm men lam cô-ban còn được tìm thấy ở đảo Cù Lao Chàm, thành phố Đà Nẵng đấy!",
+     "Cobalt-blue pottery has even been found on Cù Lao Chàm island, Đà Nẵng!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Sản phẩm nào của Chăm-pa được thương nhân nước ngoài rất ưa chuộng?",
+    "lua_chon": [
+     "Trầm hương",
+     "Gương đồng",
+     "Mã não"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Sản phẩm nào của Chăm-pa được thương nhân nước ngoài ưa chuộng?",
+     "EduHistory asks you! Which Cham product did foreign traders love?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: trầm hương! Gương đồng và mã não là hàng họ mua về.",
+     "The answer is A: agarwood! Bronze mirrors and agate were imports."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tổ chức xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vua-cham-pa"
+   ],
+   "hinh": "Dùng lại ảnh L6-B19-02 cảnh 8: kinh thành In-đra-pu-ra thời Chăm-pa ở Đồng Dương, tường thành gạch, cổng lớn, đền tháp",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong xã hội Chăm-pa, vua thường được đồng nhất với một vị thần, có quyền lực tối cao.",
+     "In Cham society, the king was often identified with a god and held supreme power."
+    ],
+    [
+     "Hân Hân",
+     "Dưới vua là tể tướng và hai quan đại thần: một văn, một võ. Dưới đại thần là các quan đứng đầu ba cấp: châu, huyện, làng.",
+     "Below him were a chief minister and two grand ministers, one civil and one military; below them, officials heading prefectures, districts and villages."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B19-02/canh-08.jpg",
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Tăng lữ",
+    "Quý tộc",
+    "Dân tự do",
+    "Một bộ phận nhỏ nô lệ"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xã hội Chăm-pa bao gồm các tầng lớp: tăng lữ, quý tộc, dân tự do và một bộ phận nhỏ nô lệ.",
+     "Cham society comprised priests, nobles, free commoners and a small number of slaves."
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ],
+   "tieu_de": "CÁC TẦNG LỚP XÃ HỘI CHĂM-PA",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Dưới vua Chăm-pa là những ai?",
+    "lua_chon": [
+     "Tể tướng và hai quan đại thần",
+     "Các lãnh chúa",
+     "Viện Nguyên lão"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Dưới vua Chăm-pa là ai?",
+     "Pause! Who served directly under the Cham king?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tể tướng và hai quan đại thần, một văn, một võ!",
+     "The answer is A: a chief minister and two grand ministers, one civil, one military!"
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế: lúa, chăn nuôi, thủ công, lâm sản, hải sản",
+    "Giỏi đi biển, trung tâm buôn bán quốc tế (Trung Hoa, Ấn Độ, Ả Rập)",
+    "Vua có quyền tối cao; tể tướng, hai đại thần; châu – huyện – làng",
+    "Tầng lớp: tăng lữ, quý tộc, dân tự do, nô lệ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: cư dân Chăm-pa trồng lúa, làm thủ công, khai thác lâm thổ sản và nổi tiếng với nghề đi biển, buôn bán quốc tế.",
+     "Remember: the Cham farmed rice, made crafts, harvested forest and sea products, and were famed seafaring traders."
+    ],
+    [
+     "Nhật Minh",
+     "Vua có quyền lực tối cao; xã hội gồm tăng lữ, quý tộc, dân tự do và nô lệ.",
+     "The king held supreme power; society had priests, nobles, free people and slaves."
+    ]
+   ],
+   "nguon_trang": [
+    88,
+    89
+   ],
+   "tieu_de": "CHĂM-PA: KINH TẾ VÀ XÃ HỘI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: vẽ sơ đồ các thành phần trong xã hội Chăm-pa rồi nêu nhận xét nhé! Chia sẻ trong phần bình luận!",
+     "Your challenge: draw a diagram of Cham society's groups and comment on it! Share in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    89
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cư dân Chăm-pa khai thác sản phẩm nào trên rừng?",
+   "dap_an": [
+    "Trầm hương, kì nam",
+    "Ngọc trai",
+    "Muối",
+    "Lúa mì"
+   ],
+   "dung": 0,
+   "trang": 88
+  },
+  {
+   "hoi": "Vương quốc Chăm-pa kết nối buôn bán với những nơi nào?",
+   "dap_an": [
+    "Trung Hoa, Ấn Độ và các nước Ả Rập",
+    "Châu Mỹ",
+    "Bắc Âu",
+    "Châu Úc"
+   ],
+   "dung": 0,
+   "trang": 88
+  },
+  {
+   "hoi": "Gốm men lam cô-ban được tìm thấy ở đâu?",
+   "dap_an": [
+    "Đảo Cù Lao Chàm (Đà Nẵng)",
+    "Hoàng thành Thăng Long",
+    "Óc Eo",
+    "Cổ Loa"
+   ],
+   "dung": 0,
+   "trang": 88
+  },
+  {
+   "hoi": "Xã hội Chăm-pa gồm những tầng lớp nào?",
+   "dap_an": [
+    "Tăng lữ, quý tộc, dân tự do, nô lệ",
+    "Lãnh chúa, nông nô",
+    "Quý tộc, nông dân công xã",
+    "Tư sản, vô sản"
+   ],
+   "dung": 0,
+   "trang": 89
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 88 (mục 2a: trồng lúa, chăn nuôi, thủ công, trầm hương, kì nam, cá tôm, ngọc trai; giỏi nghề đi biển, trung tâm buôn bán kết nối Trung Hoa, Ấn Độ, Ả Rập; hàng bán, hàng mua; Hình 3 gốm men lam cô-ban ở Cù Lao Chàm, Hình 4 trầm hương) và tr. 89 (mục 2b: vua đồng nhất với thần; tể tướng, hai đại thần; châu – huyện – làng; tăng lữ, quý tộc, dân tự do, nô lệ; câu hỏi 2). Dùng lại ảnh L6-B19-04 cảnh 6, L6-B12-02 cảnh 9, L6-B19-02 cảnh 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,278 @@
+{
+ "ma": "L9-CD2-04",
+ "ten_tap": "Thách thức từ biến đổi khí hậu",
+ "ten_tap_en": "The Challenge of Climate Change",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+  "trang": [
+   227,
+   228,
+   229
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khẩn thiết, hi vọng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 2, tr. 227–229.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia hai cột: Châu thổ sông Hồng | Châu thổ sông Cửu Long",
+   "loi": [
+    [
+     "Hân Hân",
+     "Biến đổi khí hậu tác động thế nào đến hai vùng châu thổ lớn nhất nước ta, và ta ứng phó ra sao?",
+     "How does climate change affect our two largest deltas, and how do we respond?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng phân tích nhé!",
+     "Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    227,
+    228
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Châu thổ sông Hồng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cánh đồng lúa ở đồng bằng sông Hồng",
+    "tim": "Red River Delta rice fields",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: đồng ruộng ở đồng bằng sông Hồng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở châu thổ sông Hồng, nắng nóng kéo dài làm tăng chi phí làm mát, ảnh hưởng sức khoẻ; mùa lạnh ngắn đi, ảnh hưởng cây vụ đông.",
+     "In the Red River delta, long heatwaves raise cooling costs and harm health; shorter winters hurt winter crops."
+    ],
+    [
+     "Nhật Minh",
+     "Bão, mưa lớn nhiều hơn gây ngập lụt; sản xuất nông nghiệp càng bấp bênh.",
+     "More storms and heavy rain bring floods; farming becomes ever more uncertain."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Châu thổ sông Cửu Long",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh đất ruộng khô nứt nẻ do hạn mặn ở Đồng bằng sông Cửu Long",
+    "tim": "Mekong Delta drought salinity",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: hạn mặn ở Đồng bằng sông Cửu Long",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở châu thổ sông Cửu Long, mùa khô gay gắt, hạn hán gây thiếu nước cho sản xuất, sinh hoạt, tăng nguy cơ cháy rừng.",
+     "In the Mekong delta, harsher dry seasons and droughts cause water shortages for farming and daily life, and raise forest-fire risk."
+    ],
+    [
+     "Nhật Minh",
+     "Nước biển dâng gây sạt lở bờ biển, thu hẹp đất nông nghiệp, rừng ngập mặn; nước mặn xâm nhập sâu làm đất nhiễm phèn, nhiễm mặn.",
+     "Rising seas erode the coast, shrinking farmland and mangroves; saltwater intrudes deep inland, making soils acidic and saline."
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ở châu thổ sông Cửu Long, nước biển dâng gây ra hậu quả gì?",
+    "lua_chon": [
+     "Mùa lạnh dài hơn",
+     "Sạt lở bờ biển, xâm nhập mặn",
+     "Tăng số ngày rét hại"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nước biển dâng gây hậu quả gì ở sông Cửu Long?",
+     "Pause! What does sea-level rise do in the Mekong delta?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: sạt lở bờ biển và xâm nhập mặn!",
+     "The answer is B: coastal erosion and saltwater intrusion!"
+    ]
+   ],
+   "nguon_trang": [
+    228
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Ứng phó",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh kè chắn sóng chống sạt lở ở Cà Mau",
+    "tim": "Ca Mau coastal embankment erosion",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: kè chắn sóng chống sạt lở ở Cà Mau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở châu thổ sông Hồng: áp dụng kĩ thuật canh tác mới, thay đổi thời vụ; đổi mới công nghệ để giảm phát thải; theo dõi thời tiết để phòng chống thiên tai.",
+     "In the Red River delta: new farming techniques and adjusted seasons; cleaner technology to cut emissions; weather monitoring for disaster prevention."
+    ],
+    [
+     "Nhật Minh",
+     "Ở châu thổ sông Cửu Long: giống cây chịu mặn, chịu hạn; mô hình sống chung với lũ; trồng, bảo vệ rừng ngập mặn; xây đê biển, kè chắn sóng, cống ngăn mặn; du lịch sinh thái.",
+     "In the Mekong delta: salt- and drought-tolerant crops; living-with-floods models; planting and protecting mangroves; sea dykes, breakwaters and salinity sluices; eco-tourism."
+    ]
+   ],
+   "nguon_trang": [
+    228,
+    229
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Sông Hồng: nắng nóng tăng, rét giảm, bão lũ bất thường",
+    "Sông Cửu Long: hạn hán, xâm nhập mặn, sạt lở bờ biển",
+    "Giảm nhẹ: giảm phát thải khí nhà kính",
+    "Thích ứng: giống chịu mặn, sống chung với lũ, rừng ngập mặn, đê kè"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: cần thực hiện đồng thời các biện pháp giảm nhẹ và thích ứng với biến đổi khí hậu,",
+     "Remember: we must both mitigate and adapt to climate change,"
+    ],
+    [
+     "Nhật Minh",
+     "phù hợp với đặc điểm của từng vùng châu thổ.",
+     "in ways suited to each delta."
+    ]
+   ],
+   "nguon_trang": [
+    227,
+    228,
+    229
+   ],
+   "tieu_de": "THÁCH THỨC TỪ BIẾN ĐỔI KHÍ HẬU",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: thiết kế một khẩu hiệu tuyên truyền thích ứng với biến đổi khí hậu cho quê hương cậu! Bình luận nhé!",
+     "Your challenge: design a slogan promoting climate adaptation for your home region! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ở châu thổ sông Hồng, mùa lạnh ngắn đi ảnh hưởng đến cây trồng nào?",
+   "dap_an": [
+    "Cây vụ đông",
+    "Cây lúa mùa",
+    "Cây cao su",
+    "Cây cà phê"
+   ],
+   "dung": 0,
+   "trang": 228
+  },
+  {
+   "hoi": "Biện pháp thích ứng nào phù hợp với châu thổ sông Cửu Long?",
+   "dap_an": [
+    "Tạo giống cây chịu mặn, chịu hạn",
+    "Trồng cây vụ đông",
+    "Phá rừng ngập mặn",
+    "Lấp kênh mương"
+   ],
+   "dung": 0,
+   "trang": 229
+  },
+  {
+   "hoi": "Hai nhóm biện pháp ứng phó với biến đổi khí hậu là gì?",
+   "dap_an": [
+    "Giảm nhẹ và thích ứng",
+    "Tăng phát thải và chặt rừng",
+    "Di dời và bỏ hoang",
+    "Không làm gì"
+   ],
+   "dung": 0,
+   "trang": 228
+  },
+  {
+   "hoi": "Loại hình du lịch nào thích ứng với biến đổi khí hậu ở sông Cửu Long?",
+   "dap_an": [
+    "Du lịch sinh thái sông nước, rừng ngập mặn",
+    "Du lịch trượt tuyết",
+    "Du lịch sa mạc",
+    "Du lịch leo núi lửa"
+   ],
+   "dung": 0,
+   "trang": 229
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 227 – 228 (tác động ở châu thổ sông Hồng: nắng nóng, mùa lạnh ngắn, bão lũ; sông Cửu Long: sâu bệnh, hạn hán, cháy rừng, nước biển dâng, sạt lở, xâm nhập mặn; biện pháp giảm nhẹ và thích ứng; biện pháp ở sông Hồng) và tr. 229 (biện pháp ở sông Cửu Long; Hình 3 kè chắn sóng Cà Mau; Vận dụng).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

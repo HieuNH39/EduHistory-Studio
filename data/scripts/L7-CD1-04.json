@@ -1,0 +1,310 @@
+{
+ "ma": "L7-CD1-04",
+ "ten_tap": "Thế giới thay đổi thế nào sau các cuộc phát kiến?",
+ "ten_tap_en": "How Did the World Change after the Discoveries?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chuyên đề 1. Các cuộc đại phát kiến địa lí",
+  "trang": [
+   169
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan-chau-au"
+ ],
+ "nhac": {
+  "tam_trang": "suy ngẫm, hai sắc thái sáng – tối",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chuyên đề 1, tr. 169.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là quả địa cầu vẽ phấn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chuyến đi của Cô-lôm-bô, của Ma-gien-lăng đã chứng minh Trái Đất có dạng hình cầu.",
+     "Columbus's and Magellan's voyages proved the Earth is round."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng các cuộc đại phát kiến địa lí đã tác động thế nào đến tiến trình lịch sử? Cùng phân tích nhé!",
+     "But how did the great discoveries shape the course of history? Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tác động",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-04 cảnh 3: bến cảng châu Âu, tàu buồm dỡ rương vàng bạc, bao hương liệu; quý tộc và thương nhân kiểm đếm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về kinh tế, các cuộc đại phát kiến địa lí góp phần mở rộng phạm vi buôn bán trên thế giới, thúc đẩy thương nghiệp và công nghiệp phát triển nhanh chóng.",
+     "Economically, the great discoveries widened world trade and sped up the growth of commerce and industry."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ vậy, tầng lớp thương nhân và chủ xưởng sản xuất ở Tây Âu trở nên giàu có.",
+     "As a result, Western European merchants and workshop owners grew rich."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-04/canh-03.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuy-thu-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-CD1-03 cảnh 4: bến cảng Tây Ban Nha thế kỉ XVI lúc bình minh, năm chiếc thuyền buồm lớn kéo buồm ra khơi",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các cuộc phát kiến địa lí đem lại cho loài người hiểu biết về những con đường mới, vùng đất mới.",
+     "The discoveries gave humanity knowledge of new routes and new lands."
+    ],
+    [
+     "Hân Hân",
+     "Từ đó, giao lưu văn hoá giữa các dân tộc được tăng cường và mở rộng.",
+     "Cultural exchange among peoples grew stronger and wider."
+    ]
+   ],
+   "anh": "assets/episodes/L7-CD1-03/canh-04.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Về kinh tế, các cuộc đại phát kiến địa lí làm tầng lớp nào ở Tây Âu trở nên giàu có?",
+    "lua_chon": [
+     "Nông dân",
+     "Thương nhân và chủ xưởng",
+     "Nô lệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Tầng lớp nào ở Tây Âu trở nên giàu có?",
+     "EduHistory asks you! Which groups in Western Europe grew rich?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thương nhân và chủ xưởng sản xuất!",
+     "The answer is B: merchants and workshop owners!"
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Mặt trái",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-CD1-02 cảnh 11: bến cảng châu Âu tấp nập tàu chở hàng, thương nhân giàu có đếm tiền; góc bến những người nông dân nghèo khổ lặng lẽ đi qua",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tuy nhiên, trong sự phát triển nhanh chóng của kinh tế, người lao động, nhất là nông dân, ngày càng bị bần cùng hoá.",
+     "However, amid rapid economic growth, working people, especially peasants, grew ever poorer."
+    ]
+   ],
+   "anh": "assets/episodes/L7-CD1-02/canh-11.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-chau-phi"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-04 cảnh 7: bờ biển châu Phi lúc hoàng hôn, tàu buồm neo ngoài khơi, hàng người châu Phi bị xích tay đứng lặng (vẽ trang nghiêm, nhìn từ xa)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các cuộc phát kiến địa lí cũng dẫn đến nạn buôn bán nô lệ và làm nảy sinh quá trình cướp bóc thuộc địa.",
+     "The discoveries also led to the slave trade and to colonial plunder."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-04/canh-07.jpg",
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là tác động tiêu cực của các cuộc đại phát kiến địa lí?",
+    "lua_chon": [
+     "Giao lưu văn hoá mở rộng",
+     "Nạn buôn bán nô lệ, cướp bóc thuộc địa",
+     "Hiểu biết về vùng đất mới"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đâu là tác động tiêu cực?",
+     "Pause! Which effect was negative?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: nạn buôn bán nô lệ và cướp bóc thuộc địa!",
+     "The answer is B: the slave trade and colonial plunder!"
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Mở rộng buôn bán thế giới; thương nghiệp, công nghiệp phát triển",
+    "Hiểu biết về con đường mới, vùng đất mới; giao lưu văn hoá mở rộng",
+    "Người lao động, nhất là nông dân, bị bần cùng hoá",
+    "Nạn buôn bán nô lệ, cướp bóc thuộc địa"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: hai tác động tích cực về kinh tế và hiểu biết, giao lưu văn hoá.",
+     "Remember: two positive effects, on the economy and on knowledge and cultural exchange."
+    ],
+    [
+     "Nhật Minh",
+     "Và hai mặt trái: nông dân bị bần cùng hoá, nạn buôn bán nô lệ và cướp bóc thuộc địa.",
+     "And two dark sides: impoverished peasants, and the slave trade and colonial plunder."
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ],
+   "tieu_de": "TÁC ĐỘNG CỦA ĐẠI PHÁT KIẾN ĐỊA LÍ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: là một người dân châu Á, cậu nghĩ gì về sự có mặt của người châu Âu ở các nước châu Á sau các cuộc phát kiến địa lí? Bình luận nhé!",
+     "Your challenge: as an Asian, what do you think about Europeans arriving in Asian countries after the discoveries? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    169
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chuyến đi của Ph. Ma-gien-lăng đã chứng minh điều gì?",
+   "dap_an": [
+    "Trái Đất có dạng hình cầu",
+    "Trái Đất là mặt phẳng",
+    "Châu Phi nối liền châu Mỹ",
+    "Ấn Độ ở phía tây châu Âu"
+   ],
+   "dung": 0,
+   "trang": 169
+  },
+  {
+   "hoi": "Tác động nào của các cuộc đại phát kiến địa lí liên quan đến văn hoá?",
+   "dap_an": [
+    "Giao lưu văn hoá giữa các dân tộc được tăng cường",
+    "Nông dân bị bần cùng hoá",
+    "Buôn bán nô lệ",
+    "Cướp bóc thuộc địa"
+   ],
+   "dung": 0,
+   "trang": 169
+  },
+  {
+   "hoi": "Trong sự phát triển nhanh của kinh tế sau phát kiến địa lí, ai ngày càng bị bần cùng hoá?",
+   "dap_an": [
+    "Thương nhân",
+    "Chủ xưởng",
+    "Người lao động, nhất là nông dân",
+    "Quý tộc"
+   ],
+   "dung": 2,
+   "trang": 169
+  },
+  {
+   "hoi": "Ai chỉ huy các thuỷ thủ trở về Tây Ban Nha năm 1522 sau khi Ma-gien-lăng thiệt mạng?",
+   "dap_an": [
+    "S. Ê-ca-nô",
+    "V. Ga-ma",
+    "C. Cô-lôm-bô",
+    "B. Đi-a-xơ"
+   ],
+   "dung": 0,
+   "trang": 169
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 169 (chuyến đi của Ma-gien-lăng chứng minh Trái Đất hình cầu; Ê-ca-nô; mục 3 tác động: kinh tế, hiểu biết và giao lưu văn hoá, nông dân bần cùng hoá, buôn bán nô lệ, cướp bóc thuộc địa; Luyện tập câu 2). Không tạo ảnh mới: dùng lại ảnh L7-B2-04 cảnh 3, 7; L7-CD1-02 cảnh 11; L7-CD1-03 cảnh 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

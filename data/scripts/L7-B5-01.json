@@ -1,0 +1,202 @@
+{
+ "ma": "L7-B5-01",
+ "ten_tap": "Ấn Độ - Tiểu lục địa huyền bí",
+ "ten_tap_en": "India: The Mysterious Subcontinent",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 5. Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+  "trang": [
+   29,
+   30
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "an-do"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, khoáng đạt",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 5, tr. 29–30.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học; Nhật Minh chỉ lên quả địa cầu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Có một bán đảo lớn được ví như một 'tiểu lục địa'. Cậu đoán ra chưa?",
+     "There's a huge peninsula called a 'subcontinent'. Can you guess it?"
+    ],
+    [
+     "Hân Hân",
+     "Ấn Độ! Cùng xem vì sao nhé!",
+     "India! Let's see why!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "an-do"
+   ],
+   "hinh": "Khung dọc 9:16. Phong cảnh Ấn Độ nhìn từ trên cao như một bức tranh: phía trên là dãy núi Hi-ma-lay-a tuyết trắng sừng sững; giữa là đồng bằng rộng lớn xanh mướt có dòng sông uốn khúc, làng mạc, đền tháp nhỏ; phía dưới là cao nguyên đất đỏ và bờ biển xanh (tranh phong cảnh, không phải bản đồ, không có chữ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ấn Độ là một bán đảo lớn ở Nam Á. Phía bắc bị ngăn cách với bên ngoài bởi dãy Hi-ma-lay-a hùng vĩ, ba mặt còn lại giáp biển.",
+     "India is a large peninsula in South Asia. The mighty Himalayas cut it off in the north, and the sea surrounds its other three sides."
+    ],
+    [
+     "Nhật Minh",
+     "Vì vậy, Ấn Độ được ví như một 'tiểu lục địa'.",
+     "That's why India is called a 'subcontinent'."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Phía bắc: dãy Hi-ma-lay-a; ba mặt giáp biển",
+    "Đồng bằng Ấn – Hằng ở miền Bắc",
+    "Cao nguyên Đê-can ở miền Tây Nam",
+    "Khí hậu rất đa dạng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Địa hình chủ yếu là đồng bằng Ấn – Hằng ở miền Bắc, cao nguyên Đê-can rộng lớn ở miền Tây Nam. Khí hậu rất đa dạng.",
+     "The land is mainly the Indus–Ganges plain in the north and the vast Deccan Plateau in the south-west. The climate is very varied."
+    ],
+    [
+     "Hân Hân",
+     "Những điều kiện tự nhiên ấy đã tác động tới sự phát triển kinh tế, xã hội Ấn Độ thời phong kiến.",
+     "These natural conditions shaped India's economy and society in feudal times."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ],
+   "tieu_de": "TỰ NHIÊN ẤN ĐỘ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao Ấn Độ được ví như một 'tiểu lục địa'?",
+    "lua_chon": [
+     "Phía bắc là dãy Hi-ma-lay-a, ba mặt giáp biển",
+     "Vì có nhiều sa mạc",
+     "Vì là một hòn đảo nhỏ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao Ấn Độ được ví như một 'tiểu lục địa'?",
+     "EduHistory asks you! Why is India called a 'subcontinent'?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: phía bắc là dãy Hi-ma-lay-a, ba mặt còn lại giáp biển!",
+     "The answer is A: the Himalayas to the north and the sea on three sides!"
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu biết thành tựu văn hoá nào của Ấn Độ? Bình luận nhé!",
+     "Which Indian cultural achievement do you know? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ấn Độ là bán đảo lớn ở khu vực nào?",
+   "dap_an": [
+    "Nam Á",
+    "Đông Á",
+    "Tây Á",
+    "Đông Nam Á"
+   ],
+   "dung": 0,
+   "trang": 30
+  },
+  {
+   "hoi": "Dãy núi nào ngăn cách phía bắc Ấn Độ với bên ngoài?",
+   "dap_an": [
+    "An-pơ",
+    "Hi-ma-lay-a",
+    "U-ran",
+    "Trường Sơn"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Cao nguyên Đê-can nằm ở miền nào của Ấn Độ?",
+   "dap_an": [
+    "Miền Bắc",
+    "Miền Tây Nam",
+    "Miền Đông Bắc",
+    "Miền Tây Bắc"
+   ],
+   "dung": 1,
+   "trang": 30
+  },
+  {
+   "hoi": "Đồng bằng nào nằm ở miền Bắc Ấn Độ?",
+   "dap_an": [
+    "Đồng bằng Ấn – Hằng",
+    "Đồng bằng Lưỡng Hà",
+    "Đồng bằng sông Nin",
+    "Đồng bằng Hoa Bắc"
+   ],
+   "dung": 0,
+   "trang": 30
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 30 (mục 1: bán đảo lớn ở Nam Á, Hi-ma-lay-a, ba mặt giáp biển, 'tiểu lục địa', đồng bằng Ấn – Hằng, cao nguyên Đê-can, khí hậu đa dạng) và tr. 29 (mở đầu). Khung dọc 9:16; cảnh 2 là tranh phong cảnh, không phải bản đồ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

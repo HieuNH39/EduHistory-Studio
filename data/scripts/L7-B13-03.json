@@ -1,0 +1,424 @@
+{
+ "ma": "L7-B13-03",
+ "ten_tap": "Kinh tế và xã hội thời Trần: Đất nước giàu mạnh",
+ "ten_tap_en": "Trần Economy and Society: A Prosperous Country",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 13. Đại Việt thời Trần (1226 – 1400)",
+  "trang": [
+   64,
+   65
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nong-dan-thoi-tran",
+  "thuong-nhan"
+ ],
+ "nhac": {
+  "tam_trang": "tươi vui, nhộn nhịp ở phần chợ và cửa biển; trầm lại ở phần xã hội",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 13, tr. 64–65.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, Hân Hân chỉ vào tủ kính đồ gốm cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở tập trước, ta đã biết nhà Trần xây dựng bộ máy nhà nước rất chặt chẽ.",
+     "Last episode, we saw how tightly the Trần organised their state."
+    ],
+    [
+     "Hân Hân",
+     "Vậy kinh tế và xã hội thời Trần ra sao? Đất nước có giàu mạnh không? Cùng khám phá nhé!",
+     "So what were the Trần economy and society like? Was the country prosperous? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Trần",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-thoi-tran",
+    "ha-de-su"
+   ],
+   "hinh": "Mùa nước cạn bên một dòng sông lớn thời Trần: hàng trăm nông dân đóng khố, chít khăn, gánh đất bằng quang gánh và nện đất đắp con đê dài; một viên quan Hà đê sứ áo dài, khăn vấn đứng trên mặt đê chỉ huy; phía xa là những thửa ruộng mới khai hoang và một con mương dẫn nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Trần thi hành nhiều chính sách tích cực để phục hồi và phát triển nông nghiệp.",
+     "The Trần adopted many active policies to restore and develop farming."
+    ],
+    [
+     "Hân Hân",
+     "Như khai hoang, đắp đê phòng lụt, xây dựng các công trình thuỷ lợi, miễn giảm tô thuế.",
+     "Such as clearing new land, building dykes against floods, building irrigation works and reducing land rents and taxes."
+    ],
+    [
+     "Hà đê sứ",
+     "Đắp đê cho thật chắc! Đê vững thì mùa lũ ruộng đồng mới yên!",
+     "Make the dyke strong! Only a firm dyke keeps the fields safe in the flood season!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "vuong-hau-nha-tran"
+   ],
+   "hinh": "Dùng lại ảnh L7-B13-02 cảnh 6: một vị vương hầu họ Trần cưỡi ngựa đi thăm thái ấp, ruộng đồng bát ngát, gia nô cày cấy",
+   "loi": [
+    [
+     "Hân Hân",
+     "Triều đình cũng cho phép các tôn thất, tức người trong hoàng tộc, lập điền trang.",
+     "The court also let members of the royal clan set up estates (điền trang)."
+    ],
+    [
+     "Nhật Minh",
+     "Những cánh đồng rộng lớn như thế này đã góp phần làm nông nghiệp thời Trần phát triển.",
+     "Wide fields like these helped Trần agriculture grow."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B13-02/canh-06.jpg",
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà Trần cho phép ai lập điền trang?",
+    "lua_chon": [
+     "Nông dân",
+     "Các tôn thất",
+     "Thương nhân nước ngoài"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nhà Trần cho phép ai lập điền trang?",
+     "EduHistory asks you! Whom did the Trần allow to set up estates?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: các tôn thất!",
+     "The answer is B: the royal clan members!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong"
+   ],
+   "hinh": "Xưởng thủ công lớn của nhà nước thời Trần dưới mái ngói rộng: bên trái thợ đúc đổ đồng nóng chảy vào khuôn đúc tiền tròn có lỗ vuông; ở giữa thợ rèn đập những mũi giáo trên đe đỏ lửa; bên phải bên bờ sông, thợ mộc đóng thân một chiếc thuyền chiến lớn bằng gỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các xưởng thủ công của nhà nước chuyên đúc tiền, chế tạo vũ khí, đóng thuyền chiến.",
+     "State workshops specialised in minting coins, making weapons and building warships."
+    ],
+    [
+     "Hân Hân",
+     "Triều đình còn trưng dụng những người thợ giỏi để xây dựng các công trình lớn.",
+     "The court also called up the best craftsmen to build major works."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Thống gốm hoa nâu thời Trần (như Hình 3 SGK, tr. 64; Bảo tàng Lịch sử quốc gia)",
+    "tim": "Trần dynasty brown-painted ceramic jar Vietnam",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đồ gốm hoa nâu thời Trần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tại các làng xã và kinh đô hình thành nhiều làng nghề, phường nghề. Đây là một sản phẩm tiêu biểu: gốm hoa nâu thời Trần.",
+     "Many craft villages and craft guilds arose in villages and in the capital. Here is a typical product: Trần brown-painted ceramics."
+    ],
+    [
+     "Nhật Minh",
+     "Sản phẩm thủ công rất đa dạng, được trao đổi, buôn bán ở các chợ địa phương và kinh thành Thăng Long.",
+     "Handicrafts were very varied and were traded at local markets and in the capital Thăng Long."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan",
+    "nguoi-dan-thang-long"
+   ],
+   "hinh": "Một con phố buôn bán sầm uất ở kinh thành Thăng Long thời Trần: hai bên là dãy nhà mái ngói thấp, sạp hàng bày bình gốm, nồi đồng, chiếu, nón; người mua kẻ bán đông đúc; một người thương nhân áo nâu, khăn vấn mời khách xem hàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hoạt động buôn bán diễn ra ở khắp nơi. Kinh đô Thăng Long hình thành nhiều phường nghề và phố buôn bán.",
+     "Trade went on everywhere. The capital Thăng Long had many craft guilds and trading streets."
+    ],
+    [
+     "Thương nhân",
+     "Hàng của các phường nghề đây, mời bà con ghé xem!",
+     "Goods from the craft guilds here, come and have a look!"
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-nuoc-ngoai",
+    "thuong-nhan"
+   ],
+   "hinh": "Cửa biển Vân Đồn thời Trần giữa vịnh có nhiều đảo đá vôi: nhiều thuyền buôn lớn của thương nhân các nước neo đậu, buồm nâu; trên bến gỗ, thương nhân Đại Việt và thương nhân nước ngoài trong trang phục khác nhau trao đổi hàng hoá, khuân vác các kiện hàng và bình gốm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Các cửa khẩu dọc biên giới và các cửa biển như Vân Đồn, tỉnh Quảng Ninh, Hội Thống, tỉnh Hà Tĩnh, trở thành những nơi buôn bán tấp nập.",
+     "Border gates and seaports such as Vân Đồn in Quảng Ninh and Hội Thống in Hà Tĩnh became bustling trading places."
+    ],
+    [
+     "Nhật Minh",
+     "Nơi đây thu hút nhiều thuyền buôn và thương nhân các nước đến trao đổi hàng hoá.",
+     "They drew many merchant ships and traders from other countries to exchange goods."
+    ],
+    [
+     "Hân Hân",
+     "Ngày nay, đặc khu Vân Đồn trở thành trung tâm kinh tế ven biển quan trọng.",
+     "Today, the Vân Đồn special zone has become an important coastal economic centre."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời Trần, cửa biển nào ở tỉnh Quảng Ninh thu hút thuyền buôn các nước?",
+    "lua_chon": [
+     "Hội Thống",
+     "Vân Đồn",
+     "Thăng Long"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Cửa biển nào ở tỉnh Quảng Ninh thời Trần thu hút nhiều thuyền buôn các nước?",
+     "Pause! Which seaport in Quảng Ninh drew many foreign merchant ships in Trần times?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Vân Đồn!",
+     "The answer is B: Vân Đồn!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Quý tộc (vua, quan lại): nhiều đặc quyền, chủ thái ấp, điền trang",
+    "Nông dân: cày ruộng công làng xã; nhiều người lĩnh canh ruộng địa chủ",
+    "Thợ thủ công, thương nhân: số lượng tăng nhanh",
+    "Nông nô, nô tì: khá đông, cày cấy điền trang, phục dịch quý tộc"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xã hội thời Trần tiếp tục có sự phân hoá. Tầng lớp quý tộc, gồm vua và quan lại, có nhiều đặc quyền, là chủ các thái ấp, điền trang.",
+     "Trần society kept dividing. The aristocracy, the king and officials, had many privileges and owned the fiefs and estates."
+    ],
+    [
+     "Nhật Minh",
+     "Nông dân cày cấy ruộng đất công làng xã, nhưng chế độ tư hữu mở rộng nên ngày càng nhiều người phải lĩnh canh ruộng đất của địa chủ.",
+     "Peasants farmed communal village land, but as private ownership spread, more and more had to rent land from landlords."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế công thương khá phát triển nên thợ thủ công và thương nhân tăng nhanh.",
+     "Crafts and trade grew, so craftsmen and merchants increased quickly."
+    ],
+    [
+     "Nhật Minh",
+     "Còn nông nô, nô tì khá đông đảo, cày cấy trong các điền trang hoặc phục dịch trong gia đình quý tộc.",
+     "Serfs and slaves were numerous, farming the estates or serving noble households."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ],
+   "tieu_de": "CÁC TẦNG LỚP XÃ HỘI THỜI TRẦN",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Nông nghiệp: khai hoang, đắp đê, làm thuỷ lợi, miễn giảm tô thuế",
+    "Thủ công: xưởng nhà nước, làng nghề, phường nghề",
+    "Thương nghiệp: chợ, phố Thăng Long, cửa biển Vân Đồn, Hội Thống"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: nông nghiệp được chú trọng, thủ công nghiệp đa dạng, buôn bán tấp nập trong nước và với nước ngoài.",
+     "Remember: farming was a priority, crafts were varied, and trade bustled at home and abroad."
+    ],
+    [
+     "Hân Hân",
+     "Đó là nền tảng giúp Đại Việt thời Trần giàu mạnh.",
+     "That was the foundation of a prosperous Đại Việt under the Trần."
+    ]
+   ],
+   "nguon_trang": [
+    64,
+    65
+   ],
+   "tieu_de": "KINH TẾ THỜI TRẦN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nhà Trần lại chú trọng đắp đê và làm thuỷ lợi? Bình luận câu trả lời nhé!",
+     "Your challenge: why did the Trần care so much about dykes and irrigation? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chính sách nào KHÔNG phải là biện pháp phát triển nông nghiệp của nhà Trần?",
+   "dap_an": [
+    "Khai hoang",
+    "Đắp đê phòng lụt",
+    "Miễn giảm tô thuế",
+    "Cấm buôn bán với nước ngoài"
+   ],
+   "dung": 3,
+   "trang": 64
+  },
+  {
+   "hoi": "Các xưởng thủ công của nhà nước thời Trần chuyên làm gì?",
+   "dap_an": [
+    "Đúc tiền, chế tạo vũ khí, đóng thuyền chiến",
+    "Dệt vải xuất khẩu",
+    "Làm giấy",
+    "In sách"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Cửa biển Hội Thống thời Trần thuộc tỉnh nào ngày nay?",
+   "dap_an": [
+    "Quảng Ninh",
+    "Hà Tĩnh",
+    "Thanh Hoá",
+    "Nghệ An"
+   ],
+   "dung": 1,
+   "trang": 64
+  },
+  {
+   "hoi": "Tầng lớp nào có nhiều đặc quyền, là chủ các thái ấp, điền trang thời Trần?",
+   "dap_an": [
+    "Nông dân",
+    "Thợ thủ công",
+    "Quý tộc",
+    "Nô tì"
+   ],
+   "dung": 2,
+   "trang": 65
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 64 (mục 3a: chính sách nông nghiệp, xưởng thủ công nhà nước, làng nghề, phường nghề, chợ, Thăng Long, Vân Đồn, Hội Thống, đặc khu Vân Đồn ngày nay; Hình 3 thống gốm hoa nâu) và tr. 65 (mục 3b: các tầng lớp xã hội). 'Tôn thất' giải thích là người trong hoàng tộc (nghĩa từ, không phải số liệu mới). Catalog gợi ý bản đồ thương cảng: không làm sa bàn vì SGK không có lược đồ; thay bằng cảnh tái hiện cửa biển Vân Đồn. Câu thoại của Hà đê sứ và thương nhân là tái hiện, không thêm sự kiện. Cảnh 4 dùng lại ảnh L7-B13-02 cảnh 6.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

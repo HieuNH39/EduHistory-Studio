@@ -1,0 +1,355 @@
+{
+ "ma": "L6-B1-02",
+ "ten_tap": "Lịch sử là gì vậy nhỉ?",
+ "ten_tap_en": "What Is History, Anyway?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 1. Lịch sử và cuộc sống",
+  "trang": [
+   9
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-tinh-khon"
+ ],
+ "nhac": {
+  "tam_trang": "tò mò, vui tươi",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 1, tr. 9.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học; Nhật Minh gãi đầu, Hân Hân cầm cuốn sách Lịch sử",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hân ơi, lịch sử là gì vậy nhỉ? Có phải chỉ là chuyện ngày xưa thôi không?",
+     "Hân, what is history anyway? Is it just about the old days?"
+    ],
+    [
+     "Hân Hân",
+     "Để tớ giải thích bằng một ví dụ rất gần gũi: chiếc máy tính điện tử!",
+     "Let me explain with a very familiar example: the computer!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Máy tính điện tử đầu tiên trên thế giới – ENIAC (1946), như Hình 1a SGK tr. 9",
+    "tim": "ENIAC 1946 computer",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: máy tính ENIAC (1946)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là ENIAC, máy tính điện tử đầu tiên trên thế giới, ra đời năm 1946.",
+     "This is ENIAC, the world's first electronic computer, built in 1946."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Máy tính thế hệ thứ 4 (1971 – 1980), như Hình 1b SGK tr. 9",
+    "tim": "Apple II computer 1977",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: máy tính thế hệ thứ 4 (1971 – 1980)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Rồi đến máy tính thế hệ thứ tư, những năm 1971 – 1980. Còn bây giờ là máy tính xách tay gọn nhẹ!",
+     "Then came fourth-generation computers in 1971–1980. And now, light laptops!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Hân Hân chỉ lên bảng nơi vẽ ba chiếc máy tính nối nhau bằng mũi tên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Máy tính điện tử cũng như mọi sự vật xung quanh chúng ta, cả con người và xã hội loài người đều biến đổi theo thời gian.",
+     "Computers, like everything around us, people and human society included, change over time."
+    ],
+    [
+     "Nhật Minh",
+     "Sự thay đổi đó chính là lịch sử!",
+     "That change is history!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hai cách hiểu",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "ghi_nho",
+   "y": [
+    "Lịch sử là tất cả những gì đã xảy ra",
+    "Lịch sử còn là một khoa học nghiên cứu và phục dựng lại quá khứ"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Lịch sử là tất cả những gì đã xảy ra.",
+     "History is everything that has happened."
+    ],
+    [
+     "Nhật Minh",
+     "Và lịch sử còn được hiểu là một khoa học nghiên cứu và phục dựng lại quá khứ.",
+     "And history is also understood as a science that studies and rebuilds the past."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "tieu_de": "LỊCH SỬ LÀ GÌ?",
+   "hien_luc_theo_cau": [
+    0,
+    1
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo SGK, sự thay đổi của mọi sự vật theo thời gian chính là gì?",
+    "lua_chon": [
+     "Khoa học",
+     "Lịch sử",
+     "Công nghệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Sự thay đổi theo thời gian chính là gì?",
+     "EduHistory asks you! What is change over time?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: lịch sử!",
+     "The answer is B: history!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Môn Lịch sử",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-01 cảnh 7: một gia đình Người tinh khôn đứng trước cửa hang",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn môn Lịch sử là môn học tìm hiểu quá trình hình thành và phát triển của xã hội loài người,",
+     "And History as a school subject explores how human society formed and developed,"
+    ],
+    [
+     "Hân Hân",
+     "từ khi con người xuất hiện trên Trái Đất cho đến ngày nay.",
+     "from when humans appeared on Earth until today."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-01/canh-07.jpg",
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B14-01 cảnh 10: toàn cảnh đồng bằng ven sông thời Văn Lang lúc bình minh, làng mạc nhà sàn, ruộng lúa, thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Học môn Lịch sử, chúng ta sẽ lần lượt đi qua thời nguyên thuỷ, thời cổ đại, rồi đến những trang sử của dân tộc mình.",
+     "In History class we'll travel through prehistoric times, ancient times, and our own nation's story."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B14-01/canh-10.jpg",
+   "nguon_trang": [
+    8,
+    9
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Môn Lịch sử tìm hiểu điều gì?",
+    "lua_chon": [
+     "Sự phát triển của máy móc",
+     "Quá trình hình thành và phát triển của xã hội loài người",
+     "Các loài động vật"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Môn Lịch sử tìm hiểu điều gì?",
+     "Pause! What does the subject of History study?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: quá trình hình thành và phát triển của xã hội loài người!",
+     "The answer is B: how human society formed and developed!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Lịch sử: tất cả những gì đã xảy ra trong quá khứ",
+    "Lịch sử: khoa học nghiên cứu và phục dựng lại quá khứ",
+    "Môn Lịch sử: quá trình hình thành và phát triển của xã hội loài người"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: lịch sử là những gì đã xảy ra, và cũng là khoa học phục dựng lại quá khứ.",
+     "Remember: history is what has happened, and also the science of rebuilding the past."
+    ],
+    [
+     "Nhật Minh",
+     "Còn môn Lịch sử tìm hiểu xã hội loài người từ khi con người xuất hiện đến nay.",
+     "And History class studies human society from the first humans to today."
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "tieu_de": "GHI NHỚ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy tìm một đồ vật trong nhà đã thay đổi theo thời gian, rồi kể lại lịch sử của nó nhé! Bình luận cho tụi mình biết!",
+     "Your challenge: find something at home that has changed over time and tell its history! Let us know in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    9
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Máy tính điện tử đầu tiên trên thế giới là máy nào?",
+   "dap_an": [
+    "ENIAC",
+    "Apple",
+    "Laptop",
+    "IBM PC"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Máy tính ENIAC ra đời năm nào?",
+   "dap_an": [
+    "1946",
+    "1971",
+    "1980",
+    "2000"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Lịch sử còn được hiểu là gì?",
+   "dap_an": [
+    "Một khoa học nghiên cứu và phục dựng lại quá khứ",
+    "Một môn thể thao",
+    "Một loại máy móc",
+    "Một trò chơi"
+   ],
+   "dung": 0,
+   "trang": 9
+  },
+  {
+   "hoi": "Môn Lịch sử tìm hiểu quá trình hình thành và phát triển của xã hội loài người từ khi nào?",
+   "dap_an": [
+    "Từ khi con người xuất hiện trên Trái Đất",
+    "Từ năm 1946",
+    "Từ thế kỉ XX",
+    "Từ khi có máy tính"
+   ],
+   "dung": 0,
+   "trang": 9
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 9 (Hình 1: ENIAC 1946, máy tính thế hệ thứ 4 1971 – 1980, máy tính xách tay; mục 1: sự thay đổi theo thời gian là lịch sử; lịch sử là tất cả những gì đã xảy ra, còn là khoa học nghiên cứu và phục dựng lại quá khứ; khái niệm môn Lịch sử) và tr. 8 (giới thiệu chương). Dùng lại ảnh L6-B4-01 cảnh 7, L6-B14-01 cảnh 10; hai ảnh máy tính là ảnh tư liệu có giấy phép mở.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "ma": "L9-B18-04",
+ "ten_tap": "Thế giới đa cực: cơ hội và thách thức",
+ "ten_tap_en": "A Multipolar World: Opportunities and Challenges",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 18. Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+  "trang": [
+   93,
+   94
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, rõ ràng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 18, tr. 93–94.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là quả địa cầu với nhiều chấm sáng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1991, Liên Xô sụp đổ, Trật tự hai cực I-an-ta chấm dứt. Thế giới đi về đâu?",
+     "In 1991, the USSR collapsed and the bipolar Yalta order ended. Where was the world heading?"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "y": [
+    "Mỹ",
+    "Liên minh châu Âu (EU)",
+    "Nhật Bản",
+    "Trung Quốc",
+    "Liên bang Nga"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trật tự thế giới mới đang hình thành theo xu hướng đa cực, nhiều trung tâm, với sự cạnh tranh của Mỹ, EU, Nhật Bản, Trung Quốc và Liên bang Nga.",
+     "A new world order is forming along multipolar lines, with many centres: the US, the EU, Japan, China and Russia competing."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "tieu_de": "THẾ GIỚI ĐA CỰC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Xu thế chủ đạo của thế giới sau Chiến tranh lạnh là gì?",
+    "lua_chon": [
+     "Đối đầu",
+     "Hoà bình, đối thoại, hợp tác",
+     "Chạy đua vũ trang"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Xu thế chủ đạo của thế giới sau năm 1991 là gì?",
+     "EduHistory asks you! What has been the main world trend since 1991?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: hoà bình, đối thoại! Các nước lấy kinh tế làm trọng tâm, dù xung đột dân tộc, tôn giáo vẫn diễn ra ở một số nơi.",
+     "The answer is B: peace and dialogue! Countries put the economy first, though ethnic and religious conflicts persist in some places."
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, Việt Nam cần làm gì để tận dụng thời cơ, vượt qua thách thức trong thế giới đa cực? Bình luận nhé!",
+     "What should Vietnam do to seize opportunities and meet challenges in a multipolar world? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    93
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sự kiện nào đánh dấu sự kết thúc Trật tự hai cực I-an-ta?",
+   "dap_an": [
+    "Liên Xô sụp đổ năm 1991",
+    "Chiến tranh thế giới thứ hai kết thúc",
+    "Bức tường Béc-lin được xây",
+    "Mỹ thành lập NATO"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Trật tự hai cực I-an-ta tồn tại trong khoảng thời gian nào?",
+   "dap_an": [
+    "1945 – 1991",
+    "1918 – 1939",
+    "1991 – nay",
+    "1947 – 1989"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Sau Chiến tranh lạnh, các quốc gia điều chỉnh chiến lược lấy gì làm trọng tâm?",
+   "dap_an": [
+    "Kinh tế",
+    "Quân sự",
+    "Tôn giáo",
+    "Lãnh thổ"
+   ],
+   "dung": 0,
+   "trang": 93
+  },
+  {
+   "hoi": "Nước nào là nền kinh tế lớn thứ hai thế giới, cạnh tranh quyết liệt với Mỹ từ năm 2010?",
+   "dap_an": [
+    "Trung Quốc",
+    "Nhật Bản",
+    "Liên bang Nga",
+    "Đức"
+   ],
+   "dung": 0,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 93 (1991 Liên Xô sụp đổ, Trật tự hai cực I-an-ta 1945 – 1991 kết thúc; đối thoại, hoà hoãn; lấy kinh tế làm trọng tâm; hoà bình là xu thế chủ đạo, xung đột vẫn diễn ra; đa cực: Mỹ, EU, Nhật Bản, Trung Quốc, Nga) và tr. 94 (Trung Quốc từ 2010 cạnh tranh với Mỹ). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

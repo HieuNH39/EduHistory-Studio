@@ -1,0 +1,495 @@
+{
+ "ma": "L7-B17-03",
+ "ten_tap": "Hào khí văn chương và những vì sao sáng",
+ "ten_tap_en": "Literary Glory and Shining Stars",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 17. Đại Việt thời Lê sơ (1428 – 1527)",
+  "trang": [
+   86,
+   87,
+   88
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguyen-trai",
+  "le-thanh-tong",
+  "ngo-sy-lien",
+  "luong-the-vinh"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào, sâu lắng",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 17, tr. 86–88.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Hân Hân mở cuốn sách về các danh nhân thời Lê sơ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Câu nói 'Hiền tài là nguyên khí của quốc gia' ra đời vào thời Lê sơ đấy!",
+     "The saying 'Talented people are the lifeblood of the nation' was born in the Early Lê era!"
+    ],
+    [
+     "Nhật Minh",
+     "Thời Lê sơ văn hoá, giáo dục phát triển thế nào, và những vì sao sáng nào đã xuất hiện? Cùng khám phá nhé!",
+     "How did culture and education flourish under the Early Lê, and which bright stars appeared? Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    87,
+    88
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn hoá",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Nho giáo được đề cao, chiếm vị trí độc tôn",
+    "Phật giáo và Đạo giáo bị hạn chế"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Lê sơ, Nho giáo được đề cao, chiếm vị trí độc tôn; Phật giáo và Đạo giáo bị hạn chế.",
+     "Under the Early Lê, Confucianism was exalted and held a dominant position; Buddhism and Taoism were restricted."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ],
+   "tieu_de": "TƯ TƯỞNG THỜI LÊ SƠ"
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-thanh-tong",
+    "hoi-tao-dan"
+   ],
+   "hinh": "Trong vườn ngự uyển cung điện Thăng Long thế kỉ XV: vua Lê Thánh Tông áo bào vàng ngồi trong thuỷ đình bên hồ sen, cầm bút lông viết thơ; quanh ông là nhiều nhà nho áo dài, khăn vấn ngồi trên chiếu, có người cầm quạt ngâm thơ, có người mài mực; ánh chiều vàng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hội Tao đàn, còn gọi là Nhị thập bát tú, là hội thơ ca gồm 28 thành viên do vua Lê Thánh Tông sáng lập và làm Chủ soái.",
+     "The Tao đàn Society, also called the 'Twenty-Eight Stars', was a poetry society of 28 members founded and led by King Lê Thánh Tông."
+    ],
+    [
+     "Nhật Minh",
+     "Hai Phó soái là Thân Nhân Trung và Đỗ Nhuận.",
+     "Its two deputy leaders were Thân Nhân Trung and Đỗ Nhuận."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "ghi_nho",
+   "y": [
+    "Chữ Hán: Quân trung từ mệnh tập, Bình Ngô đại cáo (Nguyễn Trãi), Quỳnh uyển cửu ca (Hội Tao đàn)",
+    "Chữ Nôm: Quốc âm thi tập (Nguyễn Trãi), Hồng Đức quốc âm thi tập (Lê Thánh Tông)",
+    "Sử, địa: Lam Sơn thực lục, Dư địa chí (Nguyễn Trãi), Đại Việt sử ký toàn thư (Ngô Sỹ Liên), Hồng Đức bản đồ",
+    "Toán: Đại thành toán pháp, Lập thành toán pháp; Y: Bản thảo thực vật toát yếu"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Văn học chữ Hán tiếp tục phát triển và giữ ưu thế, với Quân trung từ mệnh tập, Bình Ngô đại cáo của Nguyễn Trãi, Quỳnh uyển cửu ca của Hội Tao đàn.",
+     "Literature in Chinese characters kept growing and dominating, with Nguyễn Trãi's Quân trung từ mệnh tập and Bình Ngô đại cáo, and the Tao đàn Society's Quỳnh uyển cửu ca."
+    ],
+    [
+     "Hân Hân",
+     "Văn học chữ Nôm chiếm vị trí quan trọng với Quốc âm thi tập của Nguyễn Trãi, Hồng Đức quốc âm thi tập của Lê Thánh Tông.",
+     "Nôm literature held an important place, with Nguyễn Trãi's Quốc âm thi tập and Lê Thánh Tông's Hồng Đức quốc âm thi tập."
+    ],
+    [
+     "Nhật Minh",
+     "Nhà Lê sơ coi trọng chép sử, biên soạn sách địa lí, bản đồ, như Lam Sơn thực lục, Dư địa chí, Đại Việt sử ký toàn thư, Hồng Đức bản đồ.",
+     "The Early Lê valued history writing and compiling geography books and maps, such as Lam Sơn thực lục, Dư địa chí, Đại Việt sử ký toàn thư and the Hồng Đức maps."
+    ],
+    [
+     "Hân Hân",
+     "Toán học có Đại thành toán pháp, Lập thành toán pháp; y học có Bản thảo thực vật toát yếu.",
+     "Mathematics had the Đại thành toán pháp and Lập thành toán pháp; medicine had the Bản thảo thực vật toát yếu."
+    ]
+   ],
+   "nguon_trang": [
+    86
+   ],
+   "tieu_de": "THÀNH TỰU VĂN HỌC, SỬ HỌC, KHOA HỌC",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Khu di tích quốc gia đặc biệt Lam Kinh, tỉnh Thanh Hoá (như Hình 5 SGK, tr. 87)",
+    "tim": "Lam Kinh Thanh Hoa",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: khu di tích Lam Kinh (tỉnh Thanh Hoá)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều công trình kiến trúc tiêu biểu được xây dựng ở kinh đô Thăng Long và Lam Kinh, tỉnh Thanh Hoá.",
+     "Many fine buildings were raised in the capital Thăng Long and at Lam Kinh, Thanh Hoá."
+    ],
+    [
+     "Nhật Minh",
+     "Nghệ thuật điêu khắc trên đá, gỗ, gốm sứ rất tinh xảo; Nhã nhạc cung đình và nghệ thuật tuồng, chèo phát triển.",
+     "Carving in stone, wood and ceramics was exquisite; court music, tuồng and chèo theatre flourished."
+    ]
+   ],
+   "nguon_trang": [
+    86,
+    87
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Giáo dục",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-thai-to",
+    "si-tu"
+   ],
+   "hinh": "Sân Quốc Tử Giám ở kinh thành Thăng Long thế kỉ XV: cổng gỗ mái ngói, hàng cây cổ thụ; các nho sinh áo dài, khăn vấn ôm sách đi vào giảng đường; một vị quan đứng đọc danh sách người đỗ khoa thi Tiến sĩ dán trên bảng gỗ, sĩ tử chen nhau xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vua Lê Thái Tổ cho dựng lại Quốc Tử Giám ở kinh thành Thăng Long.",
+     "King Lê Thái Tổ had the Quốc Tử Giám rebuilt in the capital Thăng Long."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Lê tổ chức đều đặn các khoa thi Tiến sĩ để tuyển chọn quan lại.",
+     "The Lê held Tiến sĩ (doctoral) examinations regularly to recruit officials."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Bia Tiến sĩ tại Văn Miếu – Quốc Tử Giám, thành phố Hà Nội",
+    "tim": "Stelae of doctors Temple of Literature Hanoi",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: bia Tiến sĩ ở Văn Miếu – Quốc Tử Giám",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lê cho lập bia đá ở Văn Miếu – Quốc Tử Giám để tôn vinh những người đỗ đạt.",
+     "The Lê set up stone stelae at the Temple of Literature to honour those who passed."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1484, khi soạn bia Tiến sĩ đầu tiên, Thân Nhân Trung viết: Hiền tài là nguyên khí của quốc gia.",
+     "In 1484, writing the first doctoral stele, Thân Nhân Trung wrote: talented people are the lifeblood of the nation."
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "'Hiền tài là nguyên khí của quốc gia' là câu viết của ai trên bia Tiến sĩ?",
+    "lua_chon": [
+     "Nguyễn Trãi",
+     "Thân Nhân Trung",
+     "Ngô Sỹ Liên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai viết câu 'Hiền tài là nguyên khí của quốc gia' trên bia Tiến sĩ đầu tiên?",
+     "EduHistory asks you! Who wrote 'Talented people are the lifeblood of the nation' on the first doctoral stele?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Thân Nhân Trung!",
+     "The answer is B: Thân Nhân Trung!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Những vì sao sáng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguyen-trai"
+   ],
+   "hinh": "Dùng lại ảnh L7-B16-02 cảnh 9: Nguyễn Trãi ngồi viết bên ngọn đèn trong lều, bên cạnh là chồng sách",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nguyễn Trãi là anh hùng dân tộc, đồng thời là danh nhân văn hoá thế giới.",
+     "Nguyễn Trãi was a national hero and a world cultural figure."
+    ],
+    [
+     "Hân Hân",
+     "Với tư tưởng nhân nghĩa, yêu nước, thương dân, ông để lại nhiều tác phẩm giá trị như Bình Ngô đại cáo, Chí Linh sơn phú, Quốc âm thi tập, Dư địa chí.",
+     "With his ideals of humanity, patriotism and love for the people, he left many valuable works such as Bình Ngô đại cáo, Chí Linh sơn phú, Quốc âm thi tập and Dư địa chí."
+    ],
+    [
+     "Nguyễn Trãi",
+     "Chở thuyền cũng là dân, lật thuyền cũng là dân.",
+     "It is the people who carry the boat, and the people who can overturn it."
+    ],
+    [
+     "Nhật Minh",
+     "Lê Thánh Tông truy tặng ông: Lòng Ức Trai sáng tựa sao Khuê.",
+     "Lê Thánh Tông honoured him: Ức Trai's heart shines like the Khuê star."
+    ]
+   ],
+   "dung": true,
+   "anh": "assets/episodes/L7-B16-02/canh-09.jpg",
+   "nguon_trang": [
+    87
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-thanh-tong"
+   ],
+   "hinh": "Vua Lê Thánh Tông (vẽ khái quát, áo hoàng bào vàng, khăn vấn đen giản dị) ngồi bên án thư trong cung điện Thăng Long, tay cầm bút lông viết thơ trên giấy dó, bên cạnh là chồng sách và nghiên mực; ngoài hiên các quan đứng chờ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Lê Thánh Tông là vị Hoàng đế anh minh, tài năng xuất chúng về chính trị, kinh tế, đồng thời là nhà văn hoá lớn của dân tộc.",
+     "Lê Thánh Tông was a wise emperor of outstanding talent in politics and economics, and a great cultural figure."
+    ],
+    [
+     "Nhật Minh",
+     "Dưới thời ông, giáo dục nở rộ, có tới 500 người đỗ Tiến sĩ. Ông để lại trên 300 bài thơ chữ Hán và tập Hồng Đức quốc âm thi tập bằng chữ Nôm.",
+     "Under him, education blossomed, with as many as 500 doctoral graduates. He left over 300 poems in Chinese characters and the Hồng Đức quốc âm thi tập in Nôm."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ngo-sy-lien"
+   ],
+   "hinh": "Một vị sử quan thế kỉ XV, Ngô Sỹ Liên, râu dài, áo dài màu lam, khăn vấn, ngồi giữa phòng chép sử chất đầy cuộn sách và chồng sách đóng gáy, cầm bút lông chép những trang sử dưới ánh đèn đĩa dầu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngô Sỹ Liên đỗ Tiến sĩ năm 1442. Ông là nhà sử học nổi tiếng với bộ Đại Việt sử ký toàn thư, đến nay vẫn còn nguyên giá trị.",
+     "Ngô Sỹ Liên passed the doctoral exam in 1442. He was a famous historian, author of the Đại Việt sử ký toàn thư, still valuable today."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "luong-the-vinh"
+   ],
+   "hinh": "Trạng nguyên Lương Thế Vinh thế kỉ XV, áo dài nâu, khăn vấn, ngồi xếp bằng trên sập gỗ, trước mặt là những que tính bằng tre xếp thành hàng và cuộn sách mở; vài học trò ngồi quanh chăm chú nhìn ông tính toán; khung cửa gỗ nhìn ra ruộng lúa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lương Thế Vinh đỗ Trạng nguyên năm 1463. Ông là nhà toán học nổi tiếng, am hiểu Phật pháp, với các sách Đại thành toán pháp, Thiền môn giáo khoa.",
+     "Lương Thế Vinh came first in the 1463 examination. He was a famous mathematician who also knew Buddhist teaching well, author of the Đại thành toán pháp and Thiền môn giáo khoa."
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời vua Lê Thánh Tông có bao nhiêu người đỗ Tiến sĩ?",
+    "lua_chon": [
+     "300",
+     "500",
+     "1 000"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Dưới thời Lê Thánh Tông, có tới bao nhiêu người đỗ Tiến sĩ?",
+     "Pause! Under Lê Thánh Tông, how many people passed the doctoral exam?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 500 người!",
+     "The answer is B: 500!"
+    ]
+   ],
+   "nguon_trang": [
+    88
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "ghi_nho",
+   "y": [
+    "Nguyễn Trãi: anh hùng dân tộc, danh nhân văn hoá thế giới",
+    "Lê Thánh Tông: hoàng đế anh minh, sáng lập Hội Tao đàn",
+    "Ngô Sỹ Liên: Đại Việt sử ký toàn thư",
+    "Lương Thế Vinh: Trạng nguyên, nhà toán học"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ bốn vì sao sáng: Nguyễn Trãi, Lê Thánh Tông, Ngô Sỹ Liên và Lương Thế Vinh.",
+     "Remember four bright stars: Nguyễn Trãi, Lê Thánh Tông, Ngô Sỹ Liên and Lương Thế Vinh."
+    ],
+    [
+     "Nhật Minh",
+     "Họ là minh chứng cho một thời văn hoá, giáo dục phát triển rực rỡ, khi hiền tài được tôn vinh.",
+     "They show a brilliant age of culture and education, when talent was honoured."
+    ]
+   ],
+   "nguon_trang": [
+    87,
+    88
+   ],
+   "tieu_de": "DANH NHÂN VĂN HOÁ THỜI LÊ SƠ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao nhà Lê sơ lại chú trọng phát triển giáo dục, khoa cử? Bình luận nhé!",
+     "Your challenge: why did the Early Lê put so much weight on education and exams? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    87
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Lê sơ, tư tưởng, tôn giáo nào chiếm vị trí độc tôn?",
+   "dap_an": [
+    "Phật giáo",
+    "Đạo giáo",
+    "Nho giáo",
+    "Thiên Chúa giáo"
+   ],
+   "dung": 2,
+   "trang": 86
+  },
+  {
+   "hoi": "Hội Tao đàn do ai sáng lập?",
+   "dap_an": [
+    "Nguyễn Trãi",
+    "Lê Thánh Tông",
+    "Lê Thái Tổ",
+    "Ngô Sỹ Liên"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "Tác phẩm Quốc âm thi tập của Nguyễn Trãi được viết bằng chữ gì?",
+   "dap_an": [
+    "Chữ Hán",
+    "Chữ Nôm",
+    "Chữ Quốc ngữ",
+    "Chữ Phạn"
+   ],
+   "dung": 1,
+   "trang": 86
+  },
+  {
+   "hoi": "Lương Thế Vinh nổi tiếng trong lĩnh vực nào?",
+   "dap_an": [
+    "Toán học",
+    "Sử học",
+    "Y học",
+    "Quân sự"
+   ],
+   "dung": 0,
+   "trang": 88
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 86 (mục 3: Nho giáo độc tôn; Hội Tao đàn 28 thành viên; văn học chữ Hán, chữ Nôm; sử, địa, toán, y; kiến trúc, điêu khắc, Nhã nhạc), tr. 87 (Hình 5 Lam Kinh; Quốc Tử Giám, thi Tiến sĩ, bia đá; tư liệu 2 Thân Nhân Trung 1484; mục 4a Nguyễn Trãi), tr. 88 (Lê Thánh Tông: 500 Tiến sĩ, trên 300 bài thơ; Ngô Sỹ Liên 1442; Lương Thế Vinh 1463). Câu 'Chở thuyền cũng là dân...' là tư tưởng của Nguyễn Trãi được SGK dẫn, đặt vào lời tái hiện. Cảnh 12 dùng lại ảnh L7-B16-02 cảnh 9. Ảnh bia Tiến sĩ (cảnh 10) là ảnh hiện nay của di tích Văn Miếu – Quốc Tử Giám.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

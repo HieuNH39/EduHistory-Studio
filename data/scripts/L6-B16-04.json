@@ -1,0 +1,413 @@
+{
+ "ma": "L6-B16-04",
+ "ten_tap": "Mai Thúc Loan và Phùng Hưng: Những ngọn lửa bất khuất",
+ "ten_tap_en": "Mai Thúc Loan and Phùng Hưng: Unyielding Flames",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 16. Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+  "trang": [
+   75,
+   76,
+   77
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "mai-thuc-loan",
+  "phung-hung"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, bi tráng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 16, tr. 75–77.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ hai ngọn lửa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thế kỉ VIII, dưới ách đô hộ của nhà Đường, hai ngọn lửa bất khuất đã bùng lên: Mai Thúc Loan và Phùng Hưng!",
+     "In the 8th century, under Tang rule, two unyielding flames blazed: Mai Thúc Loan and Phùng Hưng!"
+    ],
+    [
+     "Hân Hân",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    76,
+    77
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Mai Thúc Loan",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-au-lac"
+   ],
+   "hinh": "Dùng lại ảnh L6-B15-02 cảnh 4: sân công đường, dân làng xếp hàng dài nộp thóc, vải vóc, viên quan ghi sổ, lính khuân lên thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đầu thế kỉ VIII, nhân dân bất bình trước chính sách tô thuế nặng nề và sự bóc lột tàn bạo của chính quyền đô hộ nhà Đường.",
+     "In the early 8th century, people resented the Tang rulers' heavy taxes and brutal exploitation."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B15-02/canh-04.jpg",
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "mai-thuc-loan"
+   ],
+   "hinh": "Mai Thúc Loan (vẽ khái quát), một thủ lĩnh người Việt da sạm nắng, vạm vỡ, mặc áo vải nâu, đầu chít khăn, đứng trên gò đất giơ cao thanh kiếm hiệu triệu; trước mặt là đông đảo nông dân Hoan Châu cầm giáo, gậy, nón lá trên lưng; phía sau là núi đồi miền Trung",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Một thủ lĩnh tên là Mai Thúc Loan, quê ở xã Mai Phụ, tỉnh Hà Tĩnh ngày nay, đã phát động nhân dân nổi dậy khởi nghĩa.",
+     "A leader named Mai Thúc Loan, from Mai Phụ in today's Hà Tĩnh, roused the people to rise up."
+    ],
+    [
+     "Hân Hân",
+     "Khởi nghĩa bùng nổ năm 713 và nhanh chóng làm chủ vùng đất Hoan Châu, thuộc các tỉnh Nghệ An, Hà Tĩnh ngày nay.",
+     "The revolt broke out in 713 and quickly took Hoan Châu, today's Nghệ An and Hà Tĩnh."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan"
+   ],
+   "hinh": "Đoàn nghĩa quân người Việt đông đảo hàng vạn người áo nâu, chít khăn, cầm giáo mác, cờ vải trơn màu đỏ không chữ, nối nhau tiến ra Bắc trên con đường đất ven núi; xa xa là một toà thành đất có cổng gỗ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Khởi nghĩa lan rộng ra phạm vi cả nước, thu hút vài chục vạn người tham gia, được nhân dân Chăm-pa, Chân Lạp hưởng ứng.",
+     "The revolt spread nationwide, drawing hundreds of thousands, supported even by the peoples of Champa and Chenla."
+    ],
+    [
+     "Hân Hân",
+     "Quân khởi nghĩa tiến công ra Bắc, đánh đuổi chính quyền đô hộ, làm chủ thành Tống Bình, giải phóng đất nước.",
+     "The rebels marched north, drove out the rulers, took Tống Bình citadel and freed the land."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "mai-thuc-loan"
+   ],
+   "hinh": "Thành Vạn An thời xưa bằng đất nện dưới chân núi ở Nghệ An: tường thành đất cao, cổng gỗ lớn, bên trong là những dãy nhà gỗ mái lá; nghĩa quân áo nâu canh gác trên mặt thành, nhìn về phía xa",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mai Thúc Loan xưng đế, xây thành Vạn An ở Nghệ An làm quốc đô.",
+     "Mai Thúc Loan proclaimed himself emperor and built Vạn An citadel in Nghệ An as his capital."
+    ],
+    [
+     "Hân Hân",
+     "Nhà Đường sai Dương Tư Húc dẫn đại quân sang đàn áp. Cuộc khởi nghĩa bị dập tắt năm 722.",
+     "The Tang sent Yang Sixu with a great army. The revolt was crushed in 722."
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mai Thúc Loan xây thành nào làm quốc đô?",
+    "lua_chon": [
+     "Thành Cổ Loa",
+     "Thành Vạn An",
+     "Thành Đại La"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Mai Thúc Loan xây thành nào làm quốc đô?",
+     "EduHistory asks you! Which citadel did Mai Thúc Loan build as his capital?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thành Vạn An, ở Nghệ An!",
+     "The answer is B: Vạn An, in Nghệ An!"
+    ]
+   ],
+   "nguon_trang": [
+    76
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Hân Hân chỉ lên bảng ghi 713 – 722",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khởi nghĩa Mai Thúc Loan đã giành và giữ chính quyền độc lập trong khoảng gần 10 năm, từ 713 đến 722.",
+     "Mai Thúc Loan's revolt won and held independent power for nearly 10 years, from 713 to 722."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là một trong những cuộc khởi nghĩa lớn nhất, đánh dấu mốc quan trọng trên con đường đấu tranh giải phóng dân tộc thời kì Bắc thuộc.",
+     "It was one of the largest uprisings, a milestone in the fight for liberation during Northern rule."
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Phùng Hưng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "phung-hung"
+   ],
+   "hinh": "Phùng Hưng thời trẻ (vẽ khái quát), một chàng trai vạm vỡ, khoẻ mạnh, mặc áo vải sẫm, chít khăn, đang dùng hai tay ghì sừng một con trâu đực lớn trên bãi cỏ làng Đường Lâm; dân làng đứng quanh trầm trồ thán phục; nhà cửa mái rạ và cây đa phía sau",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phùng Hưng là hào trưởng đất Đường Lâm, xuất thân trong gia đình giàu có, có uy tín lớn đối với nhân dân trong vùng.",
+     "Phùng Hưng was a chieftain of Đường Lâm, from a wealthy family, greatly respected locally."
+    ],
+    [
+     "Nhật Minh",
+     "Ông có sức khoẻ phi thường, có thể xô ngã trâu, đánh được hổ!",
+     "He was extraordinarily strong, able to topple a buffalo and fight a tiger!"
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "phung-hung"
+   ],
+   "hinh": "Nghĩa quân của Phùng Hưng áo nâu, chít khăn, cầm giáo, khiên mây, vây quanh thành Tống Bình bằng đất có cổng gỗ lúc bình minh; Phùng Hưng (vẽ khái quát) đứng trên gò cao chỉ huy; trên mặt thành lính đô hộ hoảng hốt (viễn cảnh, không máu)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối thế kỉ VIII, chính quyền đô hộ nhà Đường ra sức vơ vét. Không cam chịu, Phùng Hưng lãnh đạo nhân dân nổi dậy, làm chủ vùng Đường Lâm,",
+     "In the late 8th century the Tang rulers plundered relentlessly. Refusing to submit, Phùng Hưng led an uprising and took Đường Lâm,"
+    ],
+    [
+     "Nhật Minh",
+     "rồi kéo xuống bao vây và chiếm thành Tống Bình, tự sắp đặt việc cai trị trong vòng 9 năm thì bị quân Đường đàn áp và chiếm lại.",
+     "then besieged and captured Tống Bình, governing on his own for 9 years before the Tang retook it."
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phùng Hưng được nhân dân suy tôn là gì?",
+    "lua_chon": [
+     "Bố Cái đại vương",
+     "Lý Nam Đế",
+     "Lệ Hải Bà Vương"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Phùng Hưng được nhân dân suy tôn là gì?",
+     "Pause! What title did the people give Phùng Hưng?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Bố Cái đại vương!",
+     "The answer is A: Bố Cái đại vương, the Great King who was like father and mother!"
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đền thờ Phùng Hưng ở Đường Lâm, phường Sơn Tây, thành phố Hà Nội (như Hình 7 SGK tr. 77)",
+    "tim": "Đền Phùng Hưng Đường Lâm",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: đền thờ Phùng Hưng (Đường Lâm, Hà Nội)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuộc khởi nghĩa Phùng Hưng tiếp tục khẳng định quyết tâm giành lại độc lập, tự chủ của người Việt, mở đường cho những thắng lợi to lớn về sau.",
+     "Phùng Hưng's uprising reaffirmed the Vietnamese will to regain independence, opening the way to great victories later."
+    ],
+    [
+     "Nhật Minh",
+     "Ngày nay, đền thờ Phùng Hưng vẫn còn ở Đường Lâm, Sơn Tây, Hà Nội.",
+     "Today his temple still stands in Đường Lâm, Sơn Tây, Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Mai Thúc Loan (713 – 722): làm chủ Hoan Châu, xây thành Vạn An, chiếm Tống Bình",
+    "Phùng Hưng (cuối thế kỉ VIII): làm chủ Đường Lâm, chiếm Tống Bình, cai quản 9 năm",
+    "Phùng Hưng được suy tôn là Bố Cái đại vương",
+    "Ý nghĩa: khẳng định quyết tâm giành độc lập, mở đường cho thắng lợi về sau"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Mai Thúc Loan xây thành Vạn An, làm chủ Hoan Châu; Phùng Hưng chiếm thành Tống Bình, được tôn là Bố Cái đại vương.",
+     "Remember: Mai Thúc Loan built Vạn An and held Hoan Châu; Phùng Hưng took Tống Bình and was hailed Bố Cái đại vương."
+    ],
+    [
+     "Hân Hân",
+     "Cả hai khẳng định quyết tâm giành độc lập, tạo tiền đề cho thắng lợi cuối cùng.",
+     "Both showed the resolve for independence, preparing the final victory."
+    ]
+   ],
+   "nguon_trang": [
+    76,
+    77
+   ],
+   "tieu_de": "NHỮNG NGỌN LỬA BẤT KHUẤT",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: tìm xem có con đường, trường học hay di tích nào mang tên Mai Thúc Loan, Phùng Hưng không? Điều đó gợi cho cậu suy nghĩ gì? Bình luận nhé!",
+     "Your challenge: find streets, schools or sites named after Mai Thúc Loan or Phùng Hưng. What does that make you think? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    77
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Mai Thúc Loan quê ở đâu?",
+   "dap_an": [
+    "Xã Mai Phụ, tỉnh Hà Tĩnh ngày nay",
+    "Đường Lâm, Hà Nội",
+    "Núi Nưa, Thanh Hoá",
+    "Hồng Châu, Hải Phòng"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Khởi nghĩa Mai Thúc Loan giữ chính quyền độc lập trong khoảng thời gian nào?",
+   "dap_an": [
+    "713 – 722",
+    "40 – 43",
+    "542 – 602",
+    "905 – 930"
+   ],
+   "dung": 0,
+   "trang": 75
+  },
+  {
+   "hoi": "Phùng Hưng là hào trưởng vùng nào?",
+   "dap_an": [
+    "Đường Lâm",
+    "Hoan Châu",
+    "Mê Linh",
+    "Hồng Châu"
+   ],
+   "dung": 0,
+   "trang": 77
+  },
+  {
+   "hoi": "Nghĩa quân Phùng Hưng tự sắp đặt việc cai trị trong bao lâu?",
+   "dap_an": [
+    "9 năm",
+    "1 năm",
+    "20 năm",
+    "100 năm"
+   ],
+   "dung": 0,
+   "trang": 77
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 75 (mục 4: tô thuế nặng nề, bóc lột của nhà Đường; Mai Thúc Loan quê Mai Phụ, Hà Tĩnh; giữ chính quyền gần 10 năm 713 – 722; một trong những cuộc khởi nghĩa lớn nhất), tr. 76 (Hình 6 lược đồ: làm chủ Hoan Châu; lan rộng, vài chục vạn người, Chăm-pa, Chân Lạp hưởng ứng; chiếm Tống Bình; xưng đế, thành Vạn An; Dương Tư Húc đàn áp) và tr. 77 (mục 5: Phùng Hưng – hào trưởng Đường Lâm, sức khoẻ phi thường, Bố Cái đại vương; chiếm Tống Bình, cai trị 9 năm; ý nghĩa; Hình 7 đền thờ; Vận dụng 3). Dùng lại ảnh L6-B15-02 cảnh 4; năm cảnh tái hiện mới (nhân vật vẽ khái quát, không cảnh giao chiến đẫm máu).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

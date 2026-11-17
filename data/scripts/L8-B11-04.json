@@ -1,0 +1,341 @@
+{
+ "ma": "L8-B11-04",
+ "ten_tap": "Vì sao có ngày Quốc tế Lao động 1/5?",
+ "ten_tap_en": "Why Is There an International Workers' Day on 1 May?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 11. Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+  "trang": [
+   52,
+   53
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "mạnh mẽ, đoàn kết",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 11, tr. 52–53.",
+ "chinh_sach_hinh": "Nhân vật cận đại chỉ dùng ảnh tư liệu thật; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi ngày 1 – 5",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 1 tháng 5 hằng năm là ngày Quốc tế Lao động. Nhưng vì sao lại là ngày này?",
+     "Every 1 May is International Workers' Day. But why that date?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng ngược dòng lịch sử phong trào công nhân quốc tế nhé!",
+     "Let's trace the history of the international workers' movement!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Quốc tế thứ nhất",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu C. Mác (1818 – 1883) (dùng lại ảnh tư liệu của L8-B11-02 cảnh 4)",
+    "tim": "Karl Marx photograph",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B11-02 cảnh 4"
+   },
+   "hinh": "Ảnh tư liệu: C. Mác (1818 – 1883)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Do sự lớn mạnh của phong trào công nhân, tháng 9 năm 1864, C. Mác và Ph. Ăng-ghen thành lập Hội Liên hiệp lao động quốc tế, còn gọi là Quốc tế thứ nhất.",
+     "As the workers' movement grew, in September 1864 Marx and Engels founded the International Workingmen's Association, the First International."
+    ],
+    [
+     "Hân Hân",
+     "Quốc tế thứ nhất tổ chức năm kì đại hội, thông qua những nghị quyết quan trọng như tiến hành bãi công, thành lập công đoàn, ngày làm 8 giờ.",
+     "It held five congresses and passed key resolutions on strikes, trade unions and the eight-hour day."
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quốc tế thứ nhất được thành lập vào thời gian nào?",
+    "lua_chon": [
+     "Tháng 9 – 1864",
+     "Ngày 14 – 7 – 1889",
+     "Ngày 1 – 5 – 1886"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Quốc tế thứ nhất ra đời khi nào?",
+     "EduHistory asks you! When was the First International founded?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: tháng 9 năm 1864!",
+     "The answer is A: September 1864!"
+    ]
+   ],
+   "nguon_trang": [
+    52
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Si-ca-gô, năm 1886",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cuộc biểu tình của công nhân Si-ca-gô (Mỹ) năm 1886 (như Hình 11.4 SGK tr. 53)",
+    "tim": "Chicago 1886 eight-hour day workers",
+    "yeu_cau": "ảnh hoặc tranh tư liệu thuộc phạm vi công cộng, không có cảnh bạo lực; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: công nhân Si-ca-gô (Mỹ) năm 1886",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Mỹ, ngày 1 tháng 5 năm 1886, hàng chục vạn công nhân đình công đòi ngày làm 8 giờ, đặc biệt là cuộc tổng bãi công của gần 40 vạn công nhân Si-ca-gô.",
+     "In the US on 1 May 1886, hundreds of thousands of workers struck for an eight-hour day, above all nearly 400,000 in Chicago."
+    ],
+    [
+     "Hân Hân",
+     "Tuy bị đàn áp, nhưng vẫn có hơn 5 vạn công nhân được hưởng quyền làm việc 8 giờ mỗi ngày. Từ năm 1889, ngày 1 tháng 5 trở thành ngày Quốc tế Lao động.",
+     "Though repressed, over 50,000 workers won the eight-hour day. From 1889, 1 May became International Workers' Day."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Công nhân Mỹ đình công ngày 1 – 5 – 1886 để đòi điều gì?",
+    "lua_chon": [
+     "Tăng giờ làm",
+     "Ngày làm 8 giờ",
+     "Được nghỉ hưu sớm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Công nhân Si-ca-gô đòi điều gì?",
+     "Pause! What did Chicago's workers demand?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: ngày làm 8 giờ!",
+     "The answer is B: an eight-hour day!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Nhật Minh chỉ lên ba mốc trên bảng: 1875, 1879, 1883",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sự xâm nhập của chủ nghĩa Mác kết hợp với phong trào công nhân đã dẫn tới sự ra đời của một số đảng và tổ chức cộng sản như Đảng Xã hội dân chủ Đức năm 1875, Đảng Công nhân Pháp năm 1879, nhóm Giải phóng lao động Nga năm 1883.",
+     "Marxism combined with the workers' movement produced parties such as the German Social Democratic Party in 1875, the French Workers' Party in 1879 and Russia's Emancipation of Labour group in 1883."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Quốc tế thứ hai",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Ph. Ăng-ghen (1820 – 1895) (dùng lại ảnh tư liệu của L8-B11-02 cảnh 5)",
+    "tim": "Friedrich Engels photograph",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B11-02 cảnh 5"
+   },
+   "hinh": "Ảnh tư liệu: Ph. Ăng-ghen (1820 – 1895)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày 14 tháng 7 năm 1889, Quốc tế thứ hai ra đời ở Pa-ri. Nhờ sự hoạt động tích cực của Ph. Ăng-ghen, Quốc tế thứ hai có những đóng góp quan trọng cho phong trào công nhân thế giới.",
+     "On 14 July 1889 the Second International was founded in Paris; thanks to Engels it contributed greatly to the world workers' movement."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy nhiên, sau khi Ph. Ăng-ghen mất, những phần tử cơ hội chủ nghĩa dần chiếm ưu thế trong Quốc tế thứ hai.",
+     "But after Engels died, opportunists gradually gained the upper hand."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu V. I. Lê-nin",
+    "tim": "Vladimir Lenin 1920 photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: V. I. Lê-nin",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kế tục sự nghiệp của C. Mác và Ph. Ăng-ghen là V. I. Lê-nin, lãnh tụ của giai cấp công nhân Nga. Ông đã phát triển chủ nghĩa Mác thành chủ nghĩa Mác – Lê-nin.",
+     "Continuing Marx and Engels' work was V. I. Lenin, leader of the Russian working class, who developed Marxism into Marxism–Leninism."
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Quốc tế thứ nhất (9 – 1864): bãi công, công đoàn, ngày làm 8 giờ",
+    "1 – 5 – 1886: đình công ở Mỹ, tổng bãi công Si-ca-gô đòi ngày làm 8 giờ",
+    "Từ năm 1889: ngày 1 – 5 là ngày Quốc tế Lao động",
+    "Quốc tế thứ hai (14 – 7 – 1889); Lê-nin phát triển chủ nghĩa Mác"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: Quốc tế thứ nhất năm 1864 và Quốc tế thứ hai năm 1889 lãnh đạo phong trào công nhân.",
+     "Remember: the First International of 1864 and the Second of 1889 led the workers' movement."
+    ],
+    [
+     "Hân Hân",
+     "Cuộc đình công Si-ca-gô năm 1886 đòi ngày làm 8 giờ, và từ năm 1889, ngày 1 tháng 5 trở thành ngày Quốc tế Lao động.",
+     "The 1886 Chicago strike demanded the eight-hour day, and from 1889, 1 May became International Workers' Day."
+    ]
+   ],
+   "nguon_trang": [
+    52,
+    53
+   ],
+   "tieu_de": "VÌ SAO CÓ NGÀY 1 – 5?",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    0
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ngày Quốc tế Lao động 1 tháng 5 có ý nghĩa gì trong cuộc sống hiện nay? Bình luận nhé!",
+     "Your challenge: what does International Workers' Day mean in life today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    53
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Quốc tế thứ hai ra đời ở đâu?",
+   "dap_an": [
+    "Pa-ri (Pháp)",
+    "Luân Đôn (Anh)",
+    "Béc-lin (Đức)",
+    "Si-ca-gô (Mỹ)"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Từ năm nào, ngày 1 – 5 trở thành ngày Quốc tế Lao động?",
+   "dap_an": [
+    "1889",
+    "1886",
+    "1864",
+    "1917"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Đảng Xã hội dân chủ Đức ra đời năm nào?",
+   "dap_an": [
+    "1875",
+    "1879",
+    "1883",
+    "1889"
+   ],
+   "dung": 0,
+   "trang": 53
+  },
+  {
+   "hoi": "Ai đã phát triển chủ nghĩa Mác thành chủ nghĩa Mác – Lê-nin?",
+   "dap_an": [
+    "V. I. Lê-nin",
+    "Ph. Ăng-ghen",
+    "R. Ô-oen",
+    "Xanh Xi-mông"
+   ],
+   "dung": 0,
+   "trang": 53
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 52 (mục 4a: Quốc tế thứ nhất tháng 9 – 1864, năm kì đại hội, nghị quyết bãi công, công đoàn, ngày làm 8 giờ) và tr. 53 (1 – 5 – 1886 đình công ở Mỹ, gần 40 vạn công nhân Si-ca-gô, hơn 5 vạn hưởng 8 giờ; từ 1889 ngày 1 – 5; các đảng 1875, 1879, 1883; Quốc tế thứ hai 14 – 7 – 1889; Lê-nin; Vận dụng). Ảnh nhân vật là ảnh tư liệu (dùng lại ảnh C. Mác, Ph. Ăng-ghen của L8-B11-02).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

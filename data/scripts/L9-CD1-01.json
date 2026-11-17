@@ -1,0 +1,165 @@
+{
+ "ma": "L9-CD1-01",
+ "ten_tap": "Đô thị – Trái tim của sự phát triển",
+ "ten_tap_en": "Cities – The Heart of Development",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 1. Đô thị: Lịch sử và hiện tại (2)",
+  "trang": [
+   221,
+   224
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hiện đại, nhanh",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 1, tr. 221–224.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là hình bóng các toà nhà cao tầng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1950, thế giới chỉ có hai đô thị trên 10 triệu dân là Niu Oóc và Tô-ky-ô. Đến năm 2024, đã có 33 siêu đô thị! Đô thị quan trọng thế nào?",
+     "In 1950, only New York and Tokyo had over 10 million people. By 2024 there were 33 megacities! Why do cities matter so much?"
+    ]
+   ],
+   "nguon_trang": [
+    221
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh toàn cảnh Thành phố Hồ Chí Minh nhìn từ trên cao",
+    "tim": "Ho Chi Minh City skyline",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Thành phố Hồ Chí Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đô thị là trung tâm quyền lực và kinh tế của vùng, đất nước, khu vực: hạt nhân kinh tế, tạo việc làm, thúc đẩy đổi mới sáng tạo.",
+     "Cities are centres of power and economy for regions, nations and areas: economic cores that create jobs and drive innovation."
+    ],
+    [
+     "Hân Hân",
+     "Đô thị còn là đầu mối giao thông, thông tin, thương mại, tài chính; lan toả văn hoá, xã hội và đi đầu trong tăng trưởng xanh.",
+     "They are also hubs of transport, information, trade and finance, spread culture and lead green growth."
+    ]
+   ],
+   "nguon_trang": [
+    221
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 2024, thế giới có bao nhiêu siêu đô thị?",
+    "lua_chon": [
+     "2",
+     "18",
+     "33"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Năm 2024, thế giới có bao nhiêu siêu đô thị?",
+     "EduHistory asks you! How many megacities were there in 2024?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: 33 siêu đô thị!",
+     "The answer is C: 33 megacities!"
+    ]
+   ],
+   "nguon_trang": [
+    221
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hãy giới thiệu một thành phố của nước ta mà cậu yêu thích, và vai trò của nó với vùng! Bình luận nhé!",
+     "Introduce a Vietnamese city you love and its role in its region! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1950, hai đô thị trên 10 triệu dân là những đô thị nào?",
+   "dap_an": [
+    "Niu Oóc và Tô-ky-ô",
+    "Luân Đôn và Pa-ri",
+    "Thượng Hải và Mum-bai",
+    "Hà Nội và Thành phố Hồ Chí Minh"
+   ],
+   "dung": 0,
+   "trang": 221
+  },
+  {
+   "hoi": "Vai trò nào là của đô thị?",
+   "dap_an": [
+    "Hạt nhân kinh tế, động lực phát triển",
+    "Chỉ là nơi sản xuất nông nghiệp",
+    "Không có vai trò gì",
+    "Chỉ là nơi nghỉ dưỡng"
+   ],
+   "dung": 0,
+   "trang": 221
+  },
+  {
+   "hoi": "Đô thị góp phần liên kết các vùng vì đô thị là gì?",
+   "dap_an": [
+    "Đầu mối giao thông, thông tin, thương mại, tài chính",
+    "Vùng núi cao",
+    "Vùng nông thôn",
+    "Khu bảo tồn"
+   ],
+   "dung": 0,
+   "trang": 221
+  },
+  {
+   "hoi": "Đô thị đi đầu trong lĩnh vực nào về môi trường?",
+   "dap_an": [
+    "Tăng trưởng xanh",
+    "Khai thác rừng",
+    "Đốt than",
+    "Không có"
+   ],
+   "dung": 0,
+   "trang": 221
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 221 (năm 1950 hai đô thị trên 10 triệu dân, năm 2024 có 33 siêu đô thị; vai trò: hạt nhân kinh tế, đổi mới sáng tạo, liên kết hội nhập, lan toả văn hoá xã hội, tăng trưởng xanh) và tr. 224 (Vận dụng: giới thiệu một thành phố). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

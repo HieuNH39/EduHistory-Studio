@@ -1,0 +1,186 @@
+{
+ "ma": "L9-B3-03",
+ "ten_tap": "Làn sóng độc lập trỗi dậy",
+ "ten_tap_en": "The Rising Tide of Independence",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+  "trang": [
+   15,
+   16,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sôi nổi",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 3, tr. 15–17.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là quả địa cầu châu Á",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thắng lợi của Cách mạng tháng Mười Nga đã tác động đến nhiều nước châu Á. Phong trào giành độc lập dâng cao khắp Đông Bắc Á, Đông Nam Á, Nam Á và Tây Á!",
+     "The Russian October Revolution influenced many Asian countries. Independence movements surged across East, Southeast, South and West Asia!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu M. Gan-đi (1869 – 1948)",
+    "tim": "Mahatma Gandhi portrait photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: M. Gan-đi (1869 – 1948)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Phong trào diễn ra theo hai khuynh hướng: dân chủ tư sản, tiêu biểu là Ấn Độ, In-đô-nê-xi-a, và vô sản, tiêu biểu là Trung Quốc, Việt Nam.",
+     "The movements followed two trends: bourgeois-democratic, as in India and Indonesia, and proletarian, as in China and Vietnam."
+    ],
+    [
+     "Nhật Minh",
+     "Ở Ấn Độ, dưới sự lãnh đạo của Đảng Quốc đại, đứng đầu là M. Gan-đi, nhân dân đòi độc lập, tẩy chay hàng hoá Anh, phát triển kinh tế dân tộc.",
+     "In India, led by the Congress Party under Gandhi, people demanded independence, boycotted British goods and built the national economy."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phong trào ở Ấn Độ do ai đứng đầu?",
+    "lua_chon": [
+     "M. Gan-đi",
+     "Tôn Trung Sơn",
+     "Xu-các-nô"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai đứng đầu Đảng Quốc đại lãnh đạo phong trào ở Ấn Độ?",
+     "EduHistory asks you! Who led the Congress Party's movement in India?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: M. Gan-đi!",
+     "The answer is A: Gandhi!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu sinh viên Bắc Kinh biểu tình trong phong trào Ngũ tứ (dùng lại ảnh tư liệu của L9-B3-04 cảnh 4, tìm lại theo khung dọc)",
+    "tim": "May Fourth Movement 1919 students",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: phong trào Ngũ tứ (4 – 5 – 1919)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Trung Quốc, phong trào Ngũ tứ bùng nổ ngày 4 tháng 5 năm 1919, mở đầu bằng cuộc biểu tình của 3 000 sinh viên Bắc Kinh. Tháng 7 năm 1921, Đảng Cộng sản Trung Quốc ra đời.",
+     "In China, the May Fourth Movement broke out on 4 May 1919 with a march by 3,000 Beijing students. In July 1921, the Chinese Communist Party was founded."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, vì sao Cách mạng tháng Mười Nga lại cổ vũ mạnh mẽ các dân tộc châu Á? Bình luận nhé!",
+     "Why do you think the October Revolution inspired Asian peoples so strongly? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào Ngũ tứ ở Trung Quốc bùng nổ ngày nào?",
+   "dap_an": [
+    "4 – 5 – 1919",
+    "10 – 10 – 1911",
+    "1 – 10 – 1949",
+    "7 – 1921"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Đảng Cộng sản Trung Quốc được thành lập khi nào?",
+   "dap_an": [
+    "Tháng 7 – 1921",
+    "Tháng 5 – 1920",
+    "Đầu năm 1930",
+    "Tháng 11 – 1930"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Phong trào ở Ấn Độ, In-đô-nê-xi-a tiêu biểu cho khuynh hướng nào?",
+   "dap_an": [
+    "Dân chủ tư sản",
+    "Vô sản",
+    "Phong kiến",
+    "Quân chủ"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Đảng Cộng sản In-đô-nê-xi-a được thành lập khi nào?",
+   "dap_an": [
+    "Tháng 5 – 1920",
+    "Tháng 4 – 1930",
+    "Tháng 11 – 1930",
+    "Tháng 7 – 1921"
+   ],
+   "dung": 0,
+   "trang": 17
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 15 (Cách mạng tháng Mười tác động; phong trào lan rộng Đông Bắc Á, Đông Nam Á, Nam Á, Tây Á), tr. 16 (hai khuynh hướng; Ấn Độ – Đảng Quốc đại, M. Gan-đi; Ngũ tứ 4 – 5 – 1919, 3 000 sinh viên; ĐCS Trung Quốc 7 – 1921) và tr. 17 (ĐCS In-đô-nê-xi-a 5 – 1920...). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "ma": "L9-B5-03",
+ "ten_tap": "Tư sản và Tiểu tư sản: Những bước chuyển mình",
+ "ten_tap_en": "The Bourgeoisie and Petty Bourgeoisie on the Move",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 5. Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+  "trang": [
+   22,
+   23
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sôi nổi",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 5, tr. 22–23.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng chia hai cột: Tư sản | Tiểu tư sản",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những năm 1918 – 1930, giai cấp tư sản và tầng lớp tiểu tư sản Việt Nam đã có những bước chuyển mình.",
+     "From 1918 to 1930, the Vietnamese bourgeoisie and petty bourgeoisie began to stir."
+    ],
+    [
+     "Hân Hân",
+     "Cùng xem họ đã đấu tranh như thế nào nhé!",
+     "Let's see how they struggled!"
+    ]
+   ],
+   "nguon_trang": [
+    22,
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cảng Sài Gòn những năm 1920",
+    "tim": "Port de Saigon 1920s photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: cảng Sài Gòn những năm 1920",
+   "loi": [
+    [
+     "Hân Hân",
+     "Giai cấp tư sản đấu tranh chống sự cạnh tranh, chèn ép của tư sản Hoa kiều và tư sản Pháp, đòi một số quyền tự do, dân chủ.",
+     "The bourgeoisie fought against competition and pressure from Chinese and French capitalists and demanded some freedoms and rights."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1919, họ tẩy chay tư sản Hoa kiều, vận động dùng hàng Việt Nam ở Sài Gòn, Hà Nội, Hải Phòng, Nam Định; năm 1923, chống độc quyền cảng Sài Gòn của tư sản Pháp.",
+     "In 1919 they boycotted Chinese merchants and promoted Vietnamese goods in Saigon, Hà Nội, Hải Phòng and Nam Định; in 1923 they opposed the French monopoly of Saigon port."
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Đảng Lập hiến (Sài Gòn, 1923); Thực nghiệp dân báo, Diễn đàn bản xứ, Tiếng vang An Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1923, một số tư sản và đại địa chủ thành lập Đảng Lập hiến tại Sài Gòn,",
+     "In 1923, some capitalists and big landlords founded the Constitutionalist Party in Saigon,"
+    ],
+    [
+     "Nhật Minh",
+     "và lập các tờ báo như Thực nghiệp dân báo, Diễn đàn bản xứ, Tiếng vang An Nam để đòi quyền lợi cho mình.",
+     "and launched newspapers such as Thực nghiệp dân báo, Diễn đàn bản xứ and Tiếng vang An Nam to defend their interests."
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đảng Lập hiến được thành lập ở đâu, năm nào?",
+    "lua_chon": [
+     "Hà Nội, 1919",
+     "Sài Gòn, 1923",
+     "Huế, 1926"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đảng Lập hiến ra đời ở đâu, năm nào?",
+     "Pause! Where and when was the Constitutionalist Party founded?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Sài Gòn, năm 1923!",
+     "The answer is B: Saigon, 1923!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tiểu tư sản",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Phan Bội Châu (dùng lại ảnh tư liệu của L8-B19-02 cảnh 4)",
+    "tim": "Phan Boi Chau",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B19-02 cảnh 4"
+   },
+   "hinh": "Ảnh tư liệu: Phan Bội Châu",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tầng lớp tiểu tư sản ngày càng trưởng thành. Trí thức mở nhà xuất bản tiến bộ như Cường học thư xã, Quan hải tùng thư, Nam Đồng thư xã; ra báo Chuông rạn, An Nam trẻ.",
+     "The petty bourgeoisie matured. Intellectuals opened progressive publishers such as Cường học thư xã, Quan hải tùng thư and Nam Đồng thư xã, and papers like La Cloche fêlée and Jeune Annam."
+    ],
+    [
+     "Nhật Minh",
+     "Họ đấu tranh đòi thả Phan Bội Châu năm 1925, Nguyễn An Ninh năm 1926, và tổ chức đám tang, lễ truy điệu Phan Châu Trinh năm 1926.",
+     "They campaigned for the release of Phan Bội Châu in 1925 and Nguyễn An Ninh in 1926, and held the funeral and memorials for Phan Châu Trinh in 1926."
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Thanh niên cao vọng đảng, Việt Nam nghĩa đoàn, Hội Phục Việt, Đảng Thanh niên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một số tổ chức chính trị sơ khai ra đời làm nòng cốt trong phong trào yêu nước, như Thanh niên cao vọng đảng, Việt Nam nghĩa đoàn, Hội Phục Việt, Đảng Thanh niên.",
+     "Early political groups formed the core of the patriotic movement, such as the High Aspiration Youth Party, the Vietnam Righteous League, the Restoration Society and the Youth Party."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều thanh niên tham gia phong trào này về sau gia nhập Đảng Cộng sản Việt Nam, như Trần Phú, Nguyễn Đức Cảnh.",
+     "Many young people in these movements later joined the Communist Party of Vietnam, such as Trần Phú and Nguyễn Đức Cảnh."
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1925, tầng lớp tiểu tư sản đấu tranh đòi thả ai?",
+    "lua_chon": [
+     "Phan Bội Châu",
+     "Phan Châu Trinh",
+     "Trần Phú"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Năm 1925, tiểu tư sản đấu tranh đòi thả ai?",
+     "EduHistory asks you! In 1925, whose release did they demand?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Phan Bội Châu!",
+     "The answer is A: Phan Bội Châu!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư sản: tẩy chay Hoa kiều, dùng hàng Việt (1919); chống độc quyền cảng Sài Gòn (1923)",
+    "Đảng Lập hiến (1923), báo chí đòi quyền lợi",
+    "Tiểu tư sản: nhà xuất bản, báo tiến bộ, tổ chức chính trị sơ khai",
+    "Đòi thả Phan Bội Châu (1925), để tang Phan Châu Trinh (1926)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tư sản đấu tranh chống chèn ép, đòi quyền lợi; Đảng Lập hiến ra đời năm 1923.",
+     "Remember: the bourgeoisie fought for its interests; the Constitutionalist Party was founded in 1923."
+    ],
+    [
+     "Nhật Minh",
+     "Tiểu tư sản sôi nổi với báo chí, nhà xuất bản, tổ chức chính trị, góp phần thức tỉnh tinh thần yêu nước.",
+     "The petty bourgeoisie was active in the press, publishing and politics, awakening patriotism."
+    ]
+   ],
+   "nguon_trang": [
+    22,
+    23
+   ],
+   "tieu_de": "TƯ SẢN VÀ TIỂU TƯ SẢN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: phong trào của tư sản và tiểu tư sản giống và khác nhau thế nào? Bình luận nhé!",
+     "Your challenge: how were the bourgeois and petty-bourgeois movements alike and different? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1923, giai cấp tư sản Việt Nam đấu tranh chống điều gì?",
+   "dap_an": [
+    "Độc quyền cảng Sài Gòn của tư sản Pháp",
+    "Thuế thân",
+    "Chế độ phong kiến",
+    "Phát xít Nhật"
+   ],
+   "dung": 0,
+   "trang": 22
+  },
+  {
+   "hoi": "Tờ báo nào của tầng lớp tiểu tư sản?",
+   "dap_an": [
+    "Chuông rạn",
+    "Thực nghiệp dân báo",
+    "Tiếng vang An Nam",
+    "Diễn đàn bản xứ"
+   ],
+   "dung": 0,
+   "trang": 23
+  },
+  {
+   "hoi": "Đám tang Phan Châu Trinh được tổ chức năm nào?",
+   "dap_an": [
+    "1926",
+    "1925",
+    "1923",
+    "1930"
+   ],
+   "dung": 0,
+   "trang": 23
+  },
+  {
+   "hoi": "Tổ chức nào là tổ chức chính trị sơ khai của tiểu tư sản?",
+   "dap_an": [
+    "Hội Phục Việt",
+    "Đảng Lập hiến",
+    "Quốc tế Cộng sản",
+    "Mặt trận Việt Minh"
+   ],
+   "dung": 0,
+   "trang": 23
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 22 (mục 2: tư sản chống chèn ép; tẩy chay Hoa kiều, dùng hàng Việt ở Sài Gòn, Hà Nội, Hải Phòng, Nam Định (1919); chống độc quyền cảng Sài Gòn (1923)) và tr. 23 (Đảng Lập hiến 1923, báo Thực nghiệp dân báo, Diễn đàn bản xứ, Tiếng vang An Nam; tiểu tư sản: Cường học thư xã, Quan hải tùng thư, Nam Đồng thư xã; báo Chuông rạn, An Nam trẻ; Thanh niên cao vọng đảng, Việt Nam nghĩa đoàn, Hội Phục Việt, Đảng Thanh niên; đòi thả Phan Bội Châu 1925, Nguyễn An Ninh 1926, tang Phan Châu Trinh 1926; Trần Phú, Nguyễn Đức Cảnh). Dùng lại ảnh L8-B19-02 cảnh 4.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

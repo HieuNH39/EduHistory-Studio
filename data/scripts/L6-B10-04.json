@@ -1,0 +1,201 @@
+{
+ "ma": "L6-B10-04",
+ "ten_tap": "Di sản Hy-La: Những thứ ta vẫn dùng hàng ngày",
+ "ten_tap_en": "Greco-Roman Legacy: Things We Still Use Daily",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 10. Hy Lạp và La Mã cổ đại",
+  "trang": [
+   48,
+   49
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tươi vui, bất ngờ",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 10, tr. 48–49.",
+ "chinh_sach_hinh": "Hai bạn dẫn chuyện dựng bằng code; đấu trường Cô-li-dê là ảnh tư liệu có giấy phép mở.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, Hân Hân cầm cuốn lịch treo tường",
+   "loi": [
+    [
+     "Hân Hân",
+     "Mỗi ngày, cậu đều dùng những thứ từ Hy Lạp và La Mã cổ đại đấy!",
+     "Every day you use things from ancient Greece and Rome!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trước tấm bảng viết chữ A B C và số La Mã I II III IV",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Hy Lạp và La Mã đã sáng tạo ra hệ chữ cái La-tinh A, B, C và chữ số La Mã mà ngày nay chúng ta đang sử dụng.",
+     "The Greeks and Romans created the Latin alphabet, A, B, C, and the Roman numerals we use today."
+    ],
+    [
+     "Hân Hân",
+     "Họ còn sáng tạo ra dương lịch nữa!",
+     "They also created the solar calendar!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đấu trường Cô-li-dê ở Rô-ma (như Hình 12 SGK tr. 49)",
+    "tim": "Colosseum Rome",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đấu trường Cô-li-dê (Rô-ma)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Hy Lạp và La Mã cổ đại đã xây dựng những công trình kiến trúc nổi tiếng, nhiều công trình còn được bảo tồn đến ngày nay, như đấu trường Cô-li-dê.",
+     "They built famous monuments, many still preserved today, like the Colosseum."
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân cầm cuốn sách hình học, Nhật Minh cầm cuốn truyện",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hy Lạp là quê hương của các nhà khoa học nổi tiếng như Pi-ta-go, Ta-lét, Ác-si-mét; văn học có Hô-me với I-li-át và Ô-đi-xê.",
+     "Greece was home to famous scientists like Pythagoras, Thales and Archimedes, and to Homer's Iliad and Odyssey."
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hệ chữ cái A, B, C mà ta dùng ngày nay được gọi là gì?",
+    "lua_chon": [
+     "Chữ cái La-tinh",
+     "Chữ tượng hình",
+     "Chữ Phạn"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Hệ chữ A, B, C gọi là gì?",
+     "EduHistory asks you! What do we call the A, B, C alphabet?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: chữ cái La-tinh!",
+     "The answer is A: the Latin alphabet!"
+    ]
+   ],
+   "nguon_trang": [
+    48
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, thành tựu nào của Hy Lạp, La Mã cổ đại còn được bảo tồn đến ngày nay? Bình luận nhé!",
+     "Which achievements of ancient Greece and Rome survive today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    49
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người Hy Lạp và La Mã sáng tạo ra loại lịch nào?",
+   "dap_an": [
+    "Dương lịch",
+    "Âm lịch",
+    "Lịch âm – dương",
+    "Lịch Mặt Trăng"
+   ],
+   "dung": 0,
+   "trang": 48
+  },
+  {
+   "hoi": "Ai là tác giả của I-li-át và Ô-đi-xê?",
+   "dap_an": [
+    "Hô-me",
+    "Xô-phốc",
+    "Pi-ta-go",
+    "Hê-rô-đốt"
+   ],
+   "dung": 0,
+   "trang": 48
+  },
+  {
+   "hoi": "Đấu trường Cô-li-dê thuộc nền văn minh nào?",
+   "dap_an": [
+    "La Mã",
+    "Ai Cập",
+    "Ấn Độ",
+    "Trung Quốc"
+   ],
+   "dung": 0,
+   "trang": 49
+  },
+  {
+   "hoi": "Nhà khoa học nào sau đây là người Hy Lạp?",
+   "dap_an": [
+    "Ác-si-mét",
+    "Biên Thước",
+    "Khổng Tử",
+    "Khuất Nguyên"
+   ],
+   "dung": 0,
+   "trang": 48
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 48 (mục 4: chữ cái La-tinh, chữ số La Mã; Hô-me – I-li-át, Ô-đi-xê; Xô-phốc; Pi-ta-go, Ta-lét, Ác-si-mét; dương lịch) và tr. 49 (công trình kiến trúc còn bảo tồn; Hình 12 đấu trường Cô-li-dê; Vận dụng 3). Khung dọc; không có cảnh tái hiện mới.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

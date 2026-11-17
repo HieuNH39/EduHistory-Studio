@@ -1,0 +1,193 @@
+{
+ "ma": "L7-CD1-01",
+ "ten_tap": "Tại sao người châu Âu lại khao khát ra khơi?",
+ "ten_tap_en": "Why Were Europeans So Eager to Set Sail?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Chuyên đề 1. Các cuộc đại phát kiến địa lí",
+  "trang": [
+   166,
+   167
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuong-nhan-tay-au"
+ ],
+ "nhac": {
+  "tam_trang": "phiêu lưu, náo nức",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Chuyên đề 1, tr. 166–167.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: dùng lại ảnh đã duyệt của L7-CD1-02; hai bạn dẫn chuyện, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh cầm chiếc la bàn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ nửa cuối thế kỉ XV, các nhà thám hiểm phương Tây liên tục ra khơi. Vì sao họ khao khát đến vậy?",
+     "From the late 15th century, Western explorers kept setting sail. Why were they so eager?"
+    ]
+   ],
+   "nguon_trang": [
+    166
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-tay-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-CD1-02 cảnh 3 (khung dọc cắt giữa ảnh): thương nhân Tây Âu trong kho hàng trống trơn nhìn tấm bản đồ con đường buôn bán bị gạch chéo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sản xuất ở Tây Âu phát triển, nhu cầu nguyên liệu, vàng bạc và thị trường ngày một tăng.",
+     "Western European production grew, and so did the need for raw materials, gold, silver and markets."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng các con đường buôn bán truyền thống sang phương Đông qua Địa Trung Hải bị người Ả Rập và Thổ Nhĩ Kỳ độc chiếm.",
+     "But the traditional trade routes to the East via the Mediterranean were monopolised by Arabs and Turks."
+    ]
+   ],
+   "anh": "assets/episodes/L7-CD1-02/canh-03.jpg",
+   "nguon_trang": [
+    166
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-dong-tau"
+   ],
+   "hinh": "Dùng lại ảnh L7-CD1-02 cảnh 4 (khung dọc cắt giữa ảnh): xưởng đóng tàu lắp bánh lái, căng buồm cho tàu Ca-ra-ven; nhà hàng hải trải hải đồ, đặt la bàn",
+   "loi": [
+    [
+     "Hân Hân",
+     "May thay, họ đã có bản đồ, hải đồ, la bàn nam châm, và những con tàu Ca-ra-ven có bánh lái, buồm lớn để vượt đại dương.",
+     "Luckily, they had maps, sea charts, the magnetic compass and caravels with rudders and big sails to cross oceans."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng với sự bảo trợ của một số nhà nước phong kiến châu Âu.",
+     "Plus the backing of some European feudal states."
+    ]
+   ],
+   "anh": "assets/episodes/L7-CD1-02/canh-04.jpg",
+   "nguon_trang": [
+    166,
+    167
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao người Tây Âu cần tìm con đường khác sang phương Đông?",
+    "lua_chon": [
+     "Đường cũ qua Địa Trung Hải bị độc chiếm",
+     "Vì muốn đi du lịch",
+     "Vì châu Âu hết đất"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao cần tìm con đường khác sang phương Đông?",
+     "EduHistory asks you! Why look for another route to the East?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: con đường cũ qua Địa Trung Hải bị người Ả Rập và Thổ Nhĩ Kỳ độc chiếm!",
+     "The answer is A: the old Mediterranean route was monopolised by Arabs and Turks!"
+    ]
+   ],
+   "nguon_trang": [
+    166
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, yếu tố kĩ thuật nào quan trọng nhất cho những chuyến ra khơi ấy? Bình luận nhé!",
+     "Which technical factor do you think mattered most for those voyages? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    167
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ giữa thế kỉ XV, Tây Âu có nhu cầu gì ngày càng tăng?",
+   "dap_an": [
+    "Nguyên liệu, vàng bạc, thị trường",
+    "Lúa gạo",
+    "Nhân công nô lệ",
+    "Gỗ quý"
+   ],
+   "dung": 0,
+   "trang": 166
+  },
+  {
+   "hoi": "Các con đường buôn bán truyền thống sang phương Đông bị ai độc chiếm?",
+   "dap_an": [
+    "Người Ả Rập và Thổ Nhĩ Kỳ",
+    "Người Trung Quốc",
+    "Người Ấn Độ",
+    "Người Mông Cổ"
+   ],
+   "dung": 0,
+   "trang": 166
+  },
+  {
+   "hoi": "Loại tàu nào giúp người châu Âu vượt đại dương?",
+   "dap_an": [
+    "Tàu Ca-ra-ven",
+    "Thuyền độc mộc",
+    "Tàu hơi nước",
+    "Thuyền thúng"
+   ],
+   "dung": 0,
+   "trang": 166
+  },
+  {
+   "hoi": "Cuối thế kỉ XV, dụng cụ nào được sử dụng phổ biến để đi biển khi không có Mặt Trời hay trăng, sao?",
+   "dap_an": [
+    "La bàn nam châm",
+    "Kính thiên văn",
+    "Đồng hồ cát",
+    "Máy định vị"
+   ],
+   "dung": 0,
+   "trang": 166
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 166 (mục 1: nhu cầu nguyên liệu, vàng bạc, thị trường; con đường qua Địa Trung Hải bị Ả Rập, Thổ Nhĩ Kỳ độc chiếm; bản đồ, hải đồ, la bàn, tàu Ca-ra-ven) và tr. 167 (sự bảo trợ của nhà nước phong kiến). Khung dọc; dùng lại ảnh L7-CD1-02 cảnh 3, 4 (cắt giữa ảnh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

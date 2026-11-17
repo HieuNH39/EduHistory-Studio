@@ -1,0 +1,341 @@
+{
+ "ma": "L7-B4-03",
+ "ten_tap": "Kinh tế Minh - Thanh: Mầm mống tư bản",
+ "ten_tap_en": "Ming – Qing Economy: Seeds of Capitalism",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 4. Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX",
+  "trang": [
+   26,
+   28
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-gom-canh-duc"
+ ],
+ "nhac": {
+  "tam_trang": "nhộn nhịp, tò mò",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 4, tr. 26–28.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước tủ kính có chiếc bình sứ trắng vẽ hoa lam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đồ sứ Trung Quốc thời Minh từng được tả là 'trắng như ngọc, sáng như gương, mỏng như giấy và vang như chuông'.",
+     "Ming porcelain was once described as 'white as jade, bright as a mirror, thin as paper and ringing like a bell'."
+    ],
+    [
+     "Nhật Minh",
+     "Kinh tế thời Minh – Thanh còn có gì đặc biệt? Cùng khám phá nhé!",
+     "What else was special about the Ming – Qing economy? Let's explore!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thời Minh – Thanh",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-trung-quoc"
+   ],
+   "hinh": "Dùng lại ảnh L7-B4-02 cảnh 8: nông dân chọn bông lúa chắc hạt làm giống, cánh đồng lúa chín vàng trải dài",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Minh – Thanh, nông nghiệp có những bước tiến về kĩ thuật gieo trồng. Diện tích trồng trọt vượt xa thời kì trước, sản lượng lương thực tăng nhiều.",
+     "Under the Ming and Qing, farming techniques advanced. Cultivated land far exceeded earlier times, and grain output rose sharply."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B4-02/canh-08.jpg",
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-gom-canh-duc"
+   ],
+   "hinh": "Một xưởng gốm sứ lớn ở trấn Cảnh Đức thời Minh: hàng chục người thợ làm việc theo từng khâu – nhào đất trắng, chuốt bình trên bàn xoay, vẽ hoa văn màu lam lên bình, xếp bình vào lò nung lớn đỏ lửa; những chiếc bình sứ trắng bóng xếp đầy trên giá gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về thủ công nghiệp, đã hình thành những xưởng thủ công tương đối lớn, thuê nhiều nhân công, sản phẩm rất đa dạng.",
+     "In crafts, fairly large workshops appeared, hiring many workers and making a wide range of goods."
+    ],
+    [
+     "Nhật Minh",
+     "Nghề làm đồ sứ đạt đến độ tinh xảo. Thời Minh, trấn Cảnh Đức được mệnh danh là kinh đô đồ sứ của Trung Quốc.",
+     "Porcelain-making reached great refinement. Under the Ming, Jingdezhen was called China's porcelain capital."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đồ sứ trắng vẽ hoa lam thời Minh (Trung Quốc)",
+    "tim": "Ming dynasty blue and white porcelain",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đồ sứ thời Minh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nổi tiếng nhất là đồ sứ trắng, với hàng nghìn loại sản phẩm khác nhau.",
+     "Most famous was white porcelain, in thousands of different kinds."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-det-to-chau"
+   ],
+   "hinh": "Một xưởng dệt lớn ở Tô Châu thời Minh – Thanh dưới mái ngói dài: hàng chục khung cửi gỗ cao xếp thẳng hàng, mỗi khung có người thợ dệt lụa hoa văn; người nhuộm vải bên những chum màu; ông chủ xưởng áo dài đứng ghi sổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều xưởng dệt lớn, chuyên môn hoá cao xuất hiện ở Tô Châu, Tùng Giang. Các xưởng đóng tàu đã đóng được những loại thuyền lớn.",
+     "Many large, highly specialised weaving workshops appeared at Suzhou and Songjiang. Shipyards built large vessels."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thời Minh, nơi nào được mệnh danh là kinh đô đồ sứ của Trung Quốc?",
+    "lua_chon": [
+     "Tô Châu",
+     "Trấn Cảnh Đức",
+     "Quảng Châu"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thời Minh, nơi nào được mệnh danh là kinh đô đồ sứ?",
+     "EduHistory asks you! Which place was called the porcelain capital under the Ming?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: trấn Cảnh Đức!",
+     "The answer is B: Jingdezhen!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Một cảnh trong bức tranh Thanh minh thượng hà đồ (như Hình 3 SGK, tr. 26)",
+    "tim": "Along the River During the Qingming Festival",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: một cảnh trong tranh Thanh minh thượng hà đồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về thương nghiệp, nhiều thành thị trở nên phồn thịnh như Bắc Kinh, Nam Kinh.",
+     "In trade, many cities flourished, such as Beijing and Nanjing."
+    ],
+    [
+     "Hân Hân",
+     "Bức tranh Thanh minh thượng hà đồ miêu tả sự phát triển sầm uất của thành thị ở Trung Quốc.",
+     "The painting 'Along the River During the Qingming Festival' shows how bustling Chinese cities were."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan"
+   ],
+   "hinh": "Thương cảng Quảng Châu thời Minh – Thanh: những chiếc thuyền buồm lớn kiểu Trung Hoa và thuyền buôn nước ngoài neo kín bến; trên bến, thương nhân Trung Quốc áo dài trao đổi hàng với thương nhân Đông Nam Á, Ấn Độ, Ba Tư trong trang phục khác nhau; người khuân những kiện tơ lụa và hòm đồ sứ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều thương cảng lớn như Quảng Châu, Phúc Kiến trở thành những trung tâm buôn bán sầm uất, nơi giao thương với các nước Đông Nam Á, Ấn Độ, Ba Tư.",
+     "Major ports like Guangzhou and Fujian became busy trading hubs, dealing with Southeast Asia, India and Persia."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Nông nghiệp: kĩ thuật gieo trồng tiến bộ, diện tích, sản lượng tăng",
+    "Thủ công: xưởng lớn thuê nhiều nhân công; đồ sứ Cảnh Đức, dệt Tô Châu",
+    "Thương nghiệp: Bắc Kinh, Nam Kinh; cảng Quảng Châu, Phúc Kiến",
+    "Mầm mống kinh tế tư bản chủ nghĩa xuất hiện nhưng còn nhỏ bé"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Như thế, đến thời Minh – Thanh, mầm mống kinh tế tư bản chủ nghĩa đã xuất hiện.",
+     "So by the Ming – Qing era, the seeds of a capitalist economy had appeared."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng chúng còn nhỏ bé, chưa đủ sức chi phối mạnh mẽ nền kinh tế – xã hội Trung Quốc.",
+     "But they were still small and could not strongly shape China's economy and society."
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ],
+   "tieu_de": "KINH TẾ THỜI MINH – THANH",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mầm mống kinh tế tư bản chủ nghĩa ở Trung Quốc thời Minh – Thanh thế nào?",
+    "lua_chon": [
+     "Đã chi phối toàn bộ nền kinh tế",
+     "Đã xuất hiện nhưng còn nhỏ bé",
+     "Chưa xuất hiện"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Mầm mống kinh tế tư bản chủ nghĩa thời Minh – Thanh thế nào?",
+     "Pause! What were the seeds of capitalism like under the Ming – Qing?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: đã xuất hiện nhưng còn nhỏ bé!",
+     "The answer is B: they had appeared but were still small!"
+    ]
+   ],
+   "nguon_trang": [
+    26
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kinh tế thời Minh – Thanh có điểm gì mới so với thời Đường? Bình luận nhé!",
+     "Your challenge: what was new in the Ming – Qing economy compared with the Tang? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    28
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Minh – Thanh, nhiều xưởng dệt lớn, chuyên môn hoá cao xuất hiện ở đâu?",
+   "dap_an": [
+    "Tô Châu, Tùng Giang",
+    "Trường An, Lạc Dương",
+    "Bắc Kinh, Nam Kinh",
+    "Quảng Châu, Phúc Kiến"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Những thương cảng lớn thời Minh – Thanh là",
+   "dap_an": [
+    "Quảng Châu, Phúc Kiến",
+    "Trường An, Lạc Dương",
+    "Ca-li-cút, Li-xbon",
+    "Vân Đồn, Hội Thống"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Bức tranh Thanh minh thượng hà đồ miêu tả điều gì?",
+   "dap_an": [
+    "Sự sầm uất của thành thị ở Trung Quốc",
+    "Một trận đánh",
+    "Cung điện nhà vua",
+    "Cảnh núi non"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Điểm mới của kinh tế Trung Quốc thời Minh – Thanh là gì?",
+   "dap_an": [
+    "Xuất hiện mầm mống kinh tế tư bản chủ nghĩa",
+    "Bắt đầu biết trồng lúa",
+    "Mở con đường tơ lụa",
+    "Phát minh ra giấy"
+   ],
+   "dung": 0,
+   "trang": 26
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 26 (mục 3: nông nghiệp, xưởng thủ công lớn, đồ sứ Giang Tây, trấn Cảnh Đức – ô thông tin; dệt Tô Châu, Tùng Giang; đóng tàu; Bắc Kinh, Nam Kinh; Quảng Châu, Phúc Kiến; mầm mống tư bản; Hình 3 Thanh minh thượng hà đồ) và tr. 28 (Luyện tập câu 2). Cảnh 3 dùng lại ảnh L7-B4-02 cảnh 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

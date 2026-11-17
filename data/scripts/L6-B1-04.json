@@ -1,0 +1,182 @@
+{
+ "ma": "L6-B1-04",
+ "ten_tap": "Tại sao lịch sử là 'thầy dạy'?",
+ "ten_tap_en": "Why Is History a 'Teacher'?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 1. Lịch sử và cuộc sống",
+  "trang": [
+   10
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "suy ngẫm, ấm áp",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 1, tr. 10.",
+ "chinh_sach_hinh": "Hai bạn dẫn chuyện dựng bằng code; tượng Xi-xê-rông là ảnh tư liệu có giấy phép mở.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh cầm cuốn sách Lịch sử",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà chính trị nổi tiếng của La Mã cổ đại Xi-xê-rông từng nói: Lịch sử là thầy dạy của cuộc sống. Vì sao nhỉ?",
+     "Cicero, the famous politician of ancient Rome, said: History is the teacher of life. Why?"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng bán thân Xi-xê-rông (La Mã cổ đại)",
+    "tim": "Cicero bust Musei Capitolini",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: tượng bán thân Xi-xê-rông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Học lịch sử giúp chúng ta tìm hiểu quá khứ, tìm về cội nguồn của chính bản thân, gia đình, dòng họ, và rộng hơn là của cả dân tộc, nhân loại.",
+     "Learning history helps us explore the past and find the roots of ourselves, our families and clans, and more broadly our nation and humanity."
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày bảo tàng, Hân Hân chỉ vào một tủ kính",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Học lịch sử còn để đúc kết những bài học kinh nghiệm về sự thành công và thất bại của quá khứ,",
+     "We also learn history to draw lessons from the successes and failures of the past,"
+    ],
+    [
+     "Hân Hân",
+     "để phục vụ hiện tại và xây dựng cuộc sống mới trong tương lai!",
+     "to serve the present and build a new life in the future!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Theo Xi-xê-rông, lịch sử là gì?",
+    "lua_chon": [
+     "Thầy dạy của cuộc sống",
+     "Một câu chuyện cổ tích",
+     "Một môn học khó"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Theo Xi-xê-rông, lịch sử là gì?",
+     "EduHistory asks you! According to Cicero, what is history?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: thầy dạy của cuộc sống!",
+     "The answer is A: the teacher of life!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có đồng ý với Xi-xê-rông không? Vì sao? Bình luận nhé!",
+     "Do you agree with Cicero? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    10
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai đã nói: \"Lịch sử là thầy dạy của cuộc sống\"?",
+   "dap_an": [
+    "Xi-xê-rông",
+    "Hô-me",
+    "Ac-si-mét",
+    "Pi-ta-go"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Xi-xê-rông là nhà chính trị của quốc gia cổ đại nào?",
+   "dap_an": [
+    "La Mã",
+    "Ai Cập",
+    "Ấn Độ",
+    "Trung Quốc"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Học lịch sử giúp chúng ta tìm về điều gì?",
+   "dap_an": [
+    "Cội nguồn của bản thân, gia đình, dòng họ, dân tộc, nhân loại",
+    "Cách chơi trò chơi",
+    "Công thức nấu ăn",
+    "Luật giao thông"
+   ],
+   "dung": 0,
+   "trang": 10
+  },
+  {
+   "hoi": "Đúc kết bài học kinh nghiệm từ quá khứ để làm gì?",
+   "dap_an": [
+    "Phục vụ hiện tại và xây dựng tương lai",
+    "Quên đi quá khứ",
+    "Chỉ để thi cử",
+    "Để kể chuyện cười"
+   ],
+   "dung": 0,
+   "trang": 10
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 10 (mục 2: học lịch sử để tìm về cội nguồn bản thân, gia đình, dòng họ, dân tộc, nhân loại; đúc kết bài học kinh nghiệm về thành công và thất bại để phục vụ hiện tại, xây dựng tương lai; Luyện tập: câu nói của Xi-xê-rông \"Lịch sử là thầy dạy của cuộc sống\"). Khung dọc; không có cảnh tái hiện mới.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

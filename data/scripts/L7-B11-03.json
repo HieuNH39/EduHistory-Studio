@@ -1,0 +1,401 @@
+{
+ "ma": "L7-B11-03",
+ "ten_tap": "Đại Việt thời Lý: Ruộng đồng và chợ búa",
+ "ten_tap_en": "Lý Dynasty Đại Việt: Fields and Markets",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+  "trang": [
+   54,
+   55
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-thai-tong"
+ ],
+ "nhac": {
+  "tam_trang": "tươi vui, nhộn nhịp",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 11, tr. 54–55.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, trước tủ kính có đồng tiền cổ và ấm gốm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết đồng tiền đầu tiên của nhà Lý tên là gì không?",
+     "Do you know the name of the Lý dynasty's first coin?"
+    ],
+    [
+     "Nhật Minh",
+     "Thuận Thiên đại bảo! Hôm nay, cùng khám phá ruộng đồng, xưởng thợ và chợ búa thời Lý nhé!",
+     "Thuận Thiên đại bảo! Today, let's explore Lý-era fields, workshops and markets!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Nông nghiệp",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Ngụ binh ư nông",
+    "Cày ruộng tịch điền",
+    "Bảo vệ trâu bò",
+    "Khai khẩn đất hoang, đào kênh mương, đắp đê phòng lụt"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Lý thực hiện nhiều biện pháp thúc đẩy nông nghiệp: ngụ binh ư nông, cày ruộng tịch điền, bảo vệ trâu bò, khai khẩn đất hoang, đào kênh mương, đắp đê phòng lụt.",
+     "The Lý took many steps to boost farming: soldiers farming in rotation, the royal ploughing ritual, protecting buffaloes and oxen, clearing land, digging canals and building dykes."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ vậy, nhiều năm mùa màng bội thu.",
+     "As a result, there were many bumper harvests."
+    ]
+   ],
+   "nguon_trang": [
+    54
+   ],
+   "tieu_de": "NHÀ LÝ CHĂM LO NÔNG NGHIỆP",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thai-tong",
+    "trieu-than"
+   ],
+   "hinh": "Dùng lại ảnh L7-B11-02 cảnh 11: nhà vua nhà Lý cầm cày trên thửa ruộng tịch điền đầu xuân, quan lại và dân làng đứng xem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Mùa xuân năm 1038, vua Lý Thái Tông ra Bố Hải Khẩu cày tịch điền. Vua tế Thần Nông rồi tự cày những đường đầu tiên.",
+     "In spring 1038, King Lý Thái Tông went to Bố Hải Khẩu for the royal ploughing. He offered sacrifice to the God of Agriculture and ploughed the first furrows himself."
+    ],
+    [
+     "Viên quan",
+     "Đó là công việc của nông phu, bệ hạ cần gì làm thế!",
+     "That is peasants' work, why should Your Majesty do it!"
+    ],
+    [
+     "Lý Thái Tông",
+     "Trẫm không tự cày thì lấy gì làm xôi cúng, lại lấy gì cho thiên hạ noi theo?",
+     "If I do not plough myself, what shall we offer in worship, and what example shall the realm follow?"
+    ]
+   ],
+   "dung": true,
+   "anh": "assets/episodes/L7-B11-02/canh-11.jpg",
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vì sao vua Lý Thái Tông tự cày ruộng tịch điền?",
+    "lua_chon": [
+     "Để làm gương cho thiên hạ noi theo",
+     "Vì thiếu người cày",
+     "Để thử sức"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vì sao nhà vua tự mình cày ruộng tịch điền?",
+     "EduHistory asks you! Why did the king plough the royal field himself?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: để làm gương cho thiên hạ noi theo!",
+     "The answer is A: to set an example for the whole realm!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thủ công nghiệp",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-thu-cong-thoi-ly"
+   ],
+   "hinh": "Hai xưởng thủ công thời Lý cạnh nhau: bên trái xưởng của triều đình, thợ đúc đổ đồng vào khuôn đúc tiền tròn lỗ vuông và rèn binh khí; bên phải một làng nghề: người làm gốm vẽ hoa văn màu nâu lên chiếc ấm gốm, người ươm tơ, thiếu nữ dệt lụa bên khung cửi gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thủ công nghiệp thời Lý khá phát triển, gồm hai bộ phận.",
+     "Lý handicrafts were quite developed, in two branches."
+    ],
+    [
+     "Nhật Minh",
+     "Thủ công nghiệp nhà nước đúc tiền, chế tạo binh khí, làm phẩm phục của triều đình, xây dựng đền đài, cung điện.",
+     "State crafts minted coins, made weapons and court robes, and built temples and palaces."
+    ],
+    [
+     "Hân Hân",
+     "Thủ công nghiệp nhân dân làm đồ trang sức, làm giấy, đúc đồng, ươm tơ, dệt lụa, làm đồ gốm.",
+     "People's crafts made jewellery, paper, bronze, silk and pottery."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ấm gốm hoa nâu thời Lý (như Hình 3 SGK, tr. 55)",
+    "tim": "Lý dynasty ceramic Vietnam brown",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đồ gốm thời Lý",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chuông Quy Điền, tháp Báo Thiên, những biểu tượng văn hoá nổi tiếng thời Lý, đều là sản phẩm của thủ công nghiệp thời kì này.",
+     "The Quy Điền bell and the Báo Thiên tower, famous Lý cultural symbols, were products of the crafts of this period."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thai-tong",
+    "cung-nu"
+   ],
+   "hinh": "Trong cung điện Thăng Long thời Lý: các cung nữ áo dài màu thanh nhã ngồi bên những khung cửi gỗ, dệt những tấm gấm vóc rực rỡ hoa văn rồng mây; một viên quan trông coi; trên giá treo những xấp gấm vừa dệt xong",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1040, vua dạy cung nữ dệt được gấm vóc. Sau đó, vua xuống chiếu phát hết gấm vóc của nước Tống trong kho để may áo ban cho các quan.",
+     "In 1040, the king had palace women taught to weave brocade. Then he ordered all the Song brocade in the stores to be made into robes for officials."
+    ],
+    [
+     "Nhật Minh",
+     "Để tỏ ra vua không dùng gấm vóc nước Tống nữa!",
+     "To show he would no longer use Song brocade!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thương nghiệp",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan",
+    "thuong-nhan-nuoc-ngoai"
+   ],
+   "hinh": "Cảng biển Vân Đồn thời Lý giữa vịnh nhiều đảo đá vôi: thuyền buôn nước ngoài buồm cánh dơi neo đậu; trên bến, thương nhân Đại Việt áo nâu, khăn vấn trao đổi hàng với thương nhân nước ngoài; người khuân vác chuyển các kiện hàng, bình gốm, cuộn lụa; một người đang đếm những đồng tiền đồng lỗ vuông",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở các địa phương hình thành các chợ và một số trung tâm buôn bán hàng hoá.",
+     "Markets and trading centres appeared across the regions."
+    ],
+    [
+     "Hân Hân",
+     "Quan hệ buôn bán giữa Đại Việt với Trung Quốc khá phát triển, nhiều chợ ở vùng biên giới được hình thành.",
+     "Trade between Đại Việt and China grew, and many border markets were set up."
+    ],
+    [
+     "Nhật Minh",
+     "Cảng biển Vân Đồn, tỉnh Quảng Ninh, trở thành nơi buôn bán với nước ngoài rất sầm uất.",
+     "The seaport of Vân Đồn in Quảng Ninh became a bustling place of foreign trade."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "'Thuận Thiên đại bảo' là gì?",
+    "lua_chon": [
+     "Bộ luật đầu tiên",
+     "Đồng tiền đầu tiên của nhà Lý",
+     "Tên một ngôi chùa"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! 'Thuận Thiên đại bảo' là gì?",
+     "Pause! What was 'Thuận Thiên đại bảo'?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: đồng tiền đầu tiên của nhà Lý!",
+     "The answer is B: the Lý dynasty's first coin!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Quý tộc (vua, quan): nhiều đặc quyền; một số dân thường giàu thành địa chủ",
+    "Nông dân: đa số, cày ruộng công, nộp thuế; một số lĩnh canh nộp tô",
+    "Thợ thủ công, thương nhân: khá đông đảo",
+    "Nô tì: địa vị thấp kém nhất"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Xã hội thời Lý có xu hướng phân hoá hơn. Quý tộc có nhiều đặc quyền; một số ít dân thường nhiều ruộng đất trở thành địa chủ.",
+     "Lý society became more divided. Nobles had many privileges; a few commoners with much land became landlords."
+    ],
+    [
+     "Nhật Minh",
+     "Nông dân chiếm đa số, nhận ruộng công làng xã để cày cấy, nộp thuế; một số phải lĩnh canh, nộp tô cho địa chủ.",
+     "Peasants were the majority, farming communal land and paying tax; some rented land and paid rent to landlords."
+    ],
+    [
+     "Hân Hân",
+     "Thợ thủ công và thương nhân khá đông đảo. Nô tì có địa vị thấp kém nhất.",
+     "Craftsmen and merchants were numerous. Slaves had the lowest status."
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "tieu_de": "XÃ HỘI THỜI LÝ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: chính sách nào của nhà Lý giúp kinh tế phát triển nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which Lý policy helped the economy most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    55
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Mùa xuân năm 1038, vua Lý Thái Tông cày tịch điền ở đâu?",
+   "dap_an": [
+    "Bố Hải Khẩu",
+    "Vân Đồn",
+    "Thăng Long",
+    "Hoa Lư"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Hoạt động nào thuộc thủ công nghiệp nhà nước thời Lý?",
+   "dap_an": [
+    "Đúc tiền, chế tạo binh khí",
+    "Ươm tơ, dệt lụa ở làng",
+    "Làm giấy ở làng nghề",
+    "Làm đồ trang sức của dân"
+   ],
+   "dung": 0,
+   "trang": 55
+  },
+  {
+   "hoi": "Cảng biển nào thời Lý là nơi buôn bán với nước ngoài rất sầm uất?",
+   "dap_an": [
+    "Hội An",
+    "Vân Đồn",
+    "Phố Hiến",
+    "Óc Eo"
+   ],
+   "dung": 1,
+   "trang": 55
+  },
+  {
+   "hoi": "Tầng lớp nào chiếm đa số trong dân cư thời Lý?",
+   "dap_an": [
+    "Quý tộc",
+    "Địa chủ",
+    "Nông dân",
+    "Nô tì"
+   ],
+   "dung": 2,
+   "trang": 55
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 54 (mục 2a nông nghiệp: các biện pháp, mùa màng bội thu) và tr. 55 (tư liệu tịch điền 1038 ở Bố Hải Khẩu – lời quan và vua lấy theo tư liệu SGK; thủ công nhà nước, nhân dân; chuông Quy Điền, tháp Báo Thiên; Hình 3 ấm gốm hoa nâu; tư liệu 3 năm 1040 gấm vóc; thương nghiệp, chợ biên giới, Vân Đồn; Hình 4 Thuận Thiên đại bảo; mục 2b xã hội). Catalog gợi ý mô phỏng chợ, cảng → dùng cảnh tái hiện. Cảnh 4 dùng lại ảnh L7-B11-02 cảnh 11. Thêm giọng 'Lý Thái Tông', 'Viên quan' vào config.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

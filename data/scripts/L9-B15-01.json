@@ -1,0 +1,276 @@
+{
+ "ma": "L9-B15-01",
+ "ten_tap": "Đại hội Đảng và sức mạnh đoàn kết",
+ "ten_tap_en": "The Party Congress and the Power of Unity",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 15. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+  "trang": [
+   74
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 15, tr. 74.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: 2 – 1951 Đại hội II; 3 – 1951 Mặt trận Liên Việt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1951, cuộc kháng chiến bước sang giai đoạn mới. Đảng và Mặt trận đã làm gì để tăng cường sức mạnh?",
+     "From 1951 the resistance entered a new stage. What did the Party and the Front do to grow stronger?"
+    ],
+    [
+     "Nhật Minh",
+     "Cùng xem nhé!",
+     "Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Đại hội đại biểu lần thứ II của Đảng (1951) (như Hình 15.2 SGK tr. 74)",
+    "tim": "Second Congress Indochinese Communist Party 1951 photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Đại hội đại biểu lần thứ II của Đảng (1951)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tháng 2 năm 1951, Đại hội đại biểu lần thứ II của Đảng Cộng sản Đông Dương họp tại xã Vinh Quang, nay là xã Kim Bình, khẳng định đường lối kháng chiến chống Pháp.",
+     "In February 1951, the Second Congress of the Indochinese Communist Party met in Vinh Quang commune, now Kim Bình, affirming the resistance line."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là mốc đánh dấu bước phát triển mới trong lãnh đạo cách mạng của Đảng, là Đại hội kháng chiến thắng lợi.",
+     "It marked a new stage in the Party's leadership: the Congress of victorious resistance."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đại hội đại biểu lần thứ II của Đảng họp vào thời gian nào?",
+    "lua_chon": [
+     "Tháng 2 – 1930",
+     "Tháng 2 – 1951",
+     "Tháng 12 – 1946"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đại hội II của Đảng họp khi nào?",
+     "Pause! When did the Party's Second Congress meet?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: tháng 2 năm 1951!",
+     "The answer is B: February 1951!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng vẽ hai vòng tròn Việt Minh + Hội Liên Việt hợp lại thành Mặt trận Liên Việt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Để tăng cường mặt trận dân tộc thống nhất, tháng 3 năm 1951, Mặt trận Liên hiệp quốc dân Việt Nam, gọi tắt là Mặt trận Liên Việt, được thành lập,",
+     "To strengthen the united national front, in March 1951 the Vietnam National United Front, the Liên Việt Front, was founded,"
+    ],
+    [
+     "Nhật Minh",
+     "trên cơ sở hợp nhất Mặt trận Việt Minh và Hội Liên Việt.",
+     "by merging the Việt Minh Front and the Liên Việt Association."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi tên: Cù Chính Lan, La Văn Cầu, Nguyễn Thị Chiên, Trần Đại Nghĩa, Ngô Gia Khảm, Hoàng Hanh, Nguyễn Quốc Trị",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1952, Đại hội Chiến sĩ thi đua và Cán bộ gương mẫu toàn quốc lần thứ nhất được tổ chức,",
+     "In 1952, the First National Congress of Emulation Fighters and Model Cadres was held,"
+    ],
+    [
+     "Nhật Minh",
+     "vinh danh các anh hùng như Cù Chính Lan, La Văn Cầu, Nguyễn Thị Chiên, Trần Đại Nghĩa, Ngô Gia Khảm, Hoàng Hanh, Nguyễn Quốc Trị.",
+     "honouring heroes such as Cù Chính Lan, La Văn Cầu, Nguyễn Thị Chiên, Trần Đại Nghĩa, Ngô Gia Khảm, Hoàng Hanh and Nguyễn Quốc Trị."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mặt trận Liên Việt được thành lập trên cơ sở hợp nhất những tổ chức nào?",
+    "lua_chon": [
+     "Mặt trận Việt Minh và Hội Liên Việt",
+     "Đảng Lập hiến và Việt Nam Quốc dân đảng",
+     "Mặt trận Dân chủ và Mặt trận Phản đế"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Mặt trận Liên Việt được hợp nhất từ những tổ chức nào?",
+     "EduHistory asks you! Which organisations merged into the Liên Việt Front?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Mặt trận Việt Minh và Hội Liên Việt!",
+     "The answer is A: the Việt Minh Front and the Liên Việt Association!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "2 – 1951: Đại hội II – Đại hội kháng chiến thắng lợi",
+    "3 – 1951: Mặt trận Liên Việt (Việt Minh + Hội Liên Việt)",
+    "1952: Đại hội Chiến sĩ thi đua và Cán bộ gương mẫu toàn quốc lần thứ nhất",
+    "Sức mạnh đại đoàn kết toàn dân tộc"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: Đại hội II tháng 2 năm 1951 khẳng định đường lối kháng chiến; Mặt trận Liên Việt ra đời tháng 3 năm 1951.",
+     "Remember: the Second Congress in February 1951 affirmed the resistance line; the Liên Việt Front was born in March 1951."
+    ],
+    [
+     "Nhật Minh",
+     "Khối đại đoàn kết toàn dân tộc ngày càng được tăng cường.",
+     "National unity grew ever stronger."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "tieu_de": "ĐẠI HỘI II VÀ MẶT TRẬN LIÊN VIỆT",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: chọn một anh hùng được vinh danh năm 1952 và tìm hiểu xem người đó đã lập công gì! Bình luận nhé!",
+     "Your challenge: pick one hero honoured in 1952 and find out what they achieved! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Đại hội II của Đảng họp ở đâu?",
+   "dap_an": [
+    "Xã Vinh Quang (nay là xã Kim Bình)",
+    "Pác Bó",
+    "Tân Trào",
+    "Hương Cảng"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Mặt trận Liên Việt được thành lập khi nào?",
+   "dap_an": [
+    "Tháng 3 – 1951",
+    "Tháng 5 – 1941",
+    "Tháng 2 – 1951",
+    "Năm 1952"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Đại hội Chiến sĩ thi đua và Cán bộ gương mẫu toàn quốc lần thứ nhất diễn ra năm nào?",
+   "dap_an": [
+    "1952",
+    "1951",
+    "1953",
+    "1954"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Đại hội II được gọi là gì?",
+   "dap_an": [
+    "Đại hội kháng chiến thắng lợi",
+    "Đại hội đổi mới",
+    "Đại hội thống nhất",
+    "Đại hội thành lập Đảng"
+   ],
+   "dung": 0,
+   "trang": 74
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 74 (từ năm 1951; Đại hội II tháng 2 – 1951 tại xã Vinh Quang nay là xã Kim Bình – Đại hội kháng chiến thắng lợi; Mặt trận Liên Việt 3 – 1951 hợp nhất Việt Minh và Hội Liên Việt; Đại hội Chiến sĩ thi đua 1952 vinh danh Cù Chính Lan, Nguyễn Quốc Trị, La Văn Cầu, Nguyễn Thị Chiên, Trần Đại Nghĩa, Ngô Gia Khảm, Hoàng Hanh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "ma": "L8-CD2-01",
+ "ten_tap": "Biển Đông – Không gian sinh tồn của người Việt",
+ "ten_tap_en": "The East Sea – Living Space of the Vietnamese",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 2. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+  "trang": [
+   162,
+   164
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 2, tr. 162–164.",
+ "chinh_sach_hinh": "Không dùng bản đồ AI; ảnh là ảnh thật; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, phía sau là ảnh nền biển xanh và sóng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng với phần đất liền, biển đảo là không gian sinh tồn và phát triển của dân tộc Việt Nam từ bao đời nay.",
+     "Together with the mainland, the sea and islands have been the living and growing space of the Vietnamese people for generations."
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh phong cảnh đảo Lý Sơn (Quảng Ngãi) nhìn từ biển",
+    "tim": "Ly Son island Quang Ngai",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả; không phải bản đồ"
+   },
+   "hinh": "Ảnh: đảo Lý Sơn (Quảng Ngãi)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo Luật Biển Việt Nam năm 2012, vùng biển Việt Nam trong Biển Đông gồm nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+     "Under the 2012 Law of the Sea of Vietnam, Vietnam's waters in the East Sea comprise internal waters, territorial sea, contiguous zone, exclusive economic zone and continental shelf."
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Nội thuỷ",
+    "Lãnh hải",
+    "Vùng tiếp giáp lãnh hải",
+    "Vùng đặc quyền kinh tế",
+    "Thềm lục địa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm vùng biển là nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+     "Remember the five zones: internal waters, territorial sea, contiguous zone, exclusive economic zone and continental shelf."
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ],
+   "tieu_de": "VÙNG BIỂN VIỆT NAM (LUẬT BIỂN 2012)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Vùng biển Việt Nam rộng khoảng bao nhiêu?",
+    "lua_chon": [
+     "Khoảng 1 triệu km²",
+     "Khoảng 100 nghìn km²",
+     "Khoảng 10 triệu km²"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Vùng biển Việt Nam rộng khoảng bao nhiêu?",
+     "EduHistory asks you! About how large are Vietnam's waters?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: khoảng 1 triệu ki-lô-mét vuông, gấp hơn ba lần diện tích phần đất liền!",
+     "The answer is A: about one million square kilometres, more than three times the land area!"
+    ]
+   ],
+   "nguon_trang": [
+    164
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, vì sao nói biển đảo là không gian sinh tồn của dân tộc Việt Nam? Bình luận nhé!",
+     "Why do you think the sea and islands are called the living space of the Vietnamese nation? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    162
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Luật Biển Việt Nam được ban hành năm nào?",
+   "dap_an": [
+    "2012",
+    "1982",
+    "2003",
+    "1992"
+   ],
+   "dung": 0,
+   "trang": 162
+  },
+  {
+   "hoi": "Vùng biển Việt Nam rộng gấp khoảng bao nhiêu lần diện tích đất liền?",
+   "dap_an": [
+    "Hơn ba lần",
+    "Bằng nhau",
+    "Một nửa",
+    "Mười lần"
+   ],
+   "dung": 0,
+   "trang": 164
+  },
+  {
+   "hoi": "Vùng nào sau đây thuộc vùng biển Việt Nam theo Luật Biển 2012?",
+   "dap_an": [
+    "Vùng đặc quyền kinh tế",
+    "Vùng biển quốc tế",
+    "Vùng trời",
+    "Vùng núi"
+   ],
+   "dung": 0,
+   "trang": 162
+  },
+  {
+   "hoi": "Đường cơ sở tính chiều rộng lãnh hải của lục địa Việt Nam nối các điểm nào?",
+   "dap_an": [
+    "Từ 0 đến A24",
+    "Từ A1 đến A10",
+    "Từ 1 đến 21",
+    "Từ A10 đến A30"
+   ],
+   "dung": 0,
+   "trang": 162
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 162 (biển đảo là không gian sinh tồn và phát triển; Luật Biển Việt Nam năm 2012: nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa; đường cơ sở nối các điểm từ 0 đến A24) và tr. 164 (diện tích khoảng 1 triệu km², gấp hơn ba lần đất liền). Khung dọc; không dùng bản đồ trong tập này (bản đồ chủ quyền có ở L8-CD2-02, L8-B16-05).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

@@ -1,0 +1,320 @@
+{
+ "ma": "L7-B2-03",
+ "ten_tap": "Thế giới thay đổi sau những chuyến đi",
+ "ten_tap_en": "How the Voyages Changed the World",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 2. Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+  "trang": [
+   15,
+   16,
+   17
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuy-thu-chau-au"
+ ],
+ "nhac": {
+  "tam_trang": "hào hứng ở phần đầu, trầm lắng ở phần mặt tối",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 2, tr. 15–17.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ quả địa cầu với những đường tàu đi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những chuyến đi của Đi-a-xơ, Cô-lôm-bô, Ga-ma, Ma-gien-lăng đã làm thế giới thay đổi thế nào?",
+     "How did the voyages of Dias, Columbus, da Gama and Magellan change the world?"
+    ],
+    [
+     "Nhật Minh",
+     "Có cả mặt sáng và mặt tối đấy. Cùng xem nhé!",
+     "There's a bright side and a dark side. Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hệ quả",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuy-thu-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-02 cảnh 10: bốn chiếc tàu buồm rời bến cảng Li-xbon lúc bình minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phát kiến địa lí đã để lại những hệ quả lớn lao cho loài người.",
+     "The great discoveries left huge consequences for humankind."
+    ],
+    [
+     "Hân Hân",
+     "Chúng mở ra con đường mới, tìm ra vùng đất mới, thị trường mới, thúc đẩy hàng hải quốc tế phát triển.",
+     "They opened new routes, found new lands and new markets, and boosted international navigation."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-02/canh-10.jpg",
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-chau-au"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-04 cảnh 3: bến cảng châu Âu, tàu buồm dỡ rương vàng bạc, bao hương liệu; quý tộc và thương nhân kiểm đếm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Phát kiến địa lí đem về cho châu Âu khối lượng lớn vàng bạc, nguyên liệu.",
+     "The discoveries brought Europe huge amounts of gold, silver and raw materials."
+    ],
+    [
+     "Hân Hân",
+     "Nhờ đó, nền sản xuất và thương nghiệp ở châu Âu được thúc đẩy phát triển.",
+     "This pushed European production and commerce forward."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-04/canh-03.jpg",
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Phát kiến địa lí đem về cho châu Âu những gì?",
+    "lua_chon": [
+     "Vàng bạc, nguyên liệu",
+     "Lúa gạo",
+     "Than đá"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Phát kiến địa lí đem về cho châu Âu những gì?",
+     "EduHistory asks you! What did the discoveries bring Europe?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: khối lượng lớn vàng bạc, nguyên liệu!",
+     "The answer is A: large amounts of gold, silver and raw materials!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Mặt tối",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-chau-phi"
+   ],
+   "hinh": "Dùng lại ảnh L7-B2-04 cảnh 7: bờ biển châu Phi lúc hoàng hôn, một con tàu buồm lớn neo ngoài khơi; hàng người châu Phi bị xích tay đứng lặng (vẽ trang nghiêm, nhìn từ xa)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhưng phát kiến địa lí cũng làm nảy sinh nạn buôn bán nô lệ da đen và quá trình xâm chiếm, cướp bóc thuộc địa.",
+     "But the discoveries also gave rise to the African slave trade and to the seizing and plundering of colonies."
+    ],
+    [
+     "Hân Hân",
+     "Hàng triệu người da đen ở châu Phi bị bắt để bán cho các chủ đồn điền, hầm mỏ ở châu Âu, châu Mỹ làm nhân công.",
+     "Millions of Black Africans were captured and sold as labour to plantation and mine owners in Europe and the Americas."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B2-04/canh-07.jpg",
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mặt tiêu cực của phát kiến địa lí là gì?",
+    "lua_chon": [
+     "Nạn buôn bán nô lệ da đen, cướp bóc thuộc địa",
+     "Hàng hải phát triển",
+     "Tìm ra vùng đất mới"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đâu là mặt tiêu cực của phát kiến địa lí?",
+     "Pause! What was the negative side of the discoveries?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: nạn buôn bán nô lệ da đen và cướp bóc thuộc địa!",
+     "The answer is A: the African slave trade and colonial plunder!"
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đài tưởng niệm những nhà phát kiến địa lí Bồ Đào Nha ở thành phố Li-xbon (như Hình 2 SGK, tr. 15)",
+    "tim": "Padrão dos Descobrimentos Lisbon",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Đài tưởng niệm những nhà phát kiến địa lí ở Li-xbon",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ngày nay, ở thành phố Li-xbon có Đài tưởng niệm những nhà phát kiến địa lí Bồ Đào Nha.",
+     "Today, Lisbon has a Monument to the Portuguese Discoveries."
+    ],
+    [
+     "Nhật Minh",
+     "Còn ở Mỹ có ngày lễ Columbus Day, vào thứ Hai của tuần thứ 2 tháng 10, để tưởng nhớ người có công tìm ra châu Mỹ.",
+     "And the US marks Columbus Day on the second Monday of October, remembering the man credited with finding the Americas."
+    ]
+   ],
+   "nguon_trang": [
+    15
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Mở ra con đường mới, vùng đất mới, thị trường mới; hàng hải quốc tế phát triển",
+    "Đem về cho châu Âu nhiều vàng bạc, nguyên liệu; sản xuất, thương nghiệp phát triển",
+    "Nảy sinh nạn buôn bán nô lệ da đen, xâm chiếm và cướp bóc thuộc địa"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ ba hệ quả: con đường mới và thị trường mới; vàng bạc, nguyên liệu về châu Âu;",
+     "Remember three results: new routes and markets; gold, silver and raw materials flowing to Europe;"
+    ],
+    [
+     "Hân Hân",
+     "và mặt tối là nạn buôn bán nô lệ, cướp bóc thuộc địa.",
+     "and the dark side: the slave trade and colonial plunder."
+    ]
+   ],
+   "nguon_trang": [
+    16
+   ],
+   "tieu_de": "HỆ QUẢ CỦA PHÁT KIẾN ĐỊA LÍ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong các hệ quả ấy, hệ quả nào quan trọng nhất? Vì sao? Bình luận nhé!",
+     "Your challenge: which consequence was most important, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    17
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hệ quả nào là tích cực của các cuộc phát kiến địa lí?",
+   "dap_an": [
+    "Thúc đẩy hàng hải quốc tế phát triển",
+    "Nạn buôn bán nô lệ",
+    "Cướp bóc thuộc địa",
+    "Chiến tranh thế giới"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Người châu Phi bị bắt bán làm nhân công cho ai?",
+   "dap_an": [
+    "Các chủ đồn điền, hầm mỏ ở châu Âu, châu Mỹ",
+    "Các lãnh chúa Nhật Bản",
+    "Triều đình Trung Quốc",
+    "Các vua Ấn Độ"
+   ],
+   "dung": 0,
+   "trang": 16
+  },
+  {
+   "hoi": "Đài tưởng niệm những nhà phát kiến địa lí Bồ Đào Nha ở thành phố nào?",
+   "dap_an": [
+    "Ma-đrít",
+    "Li-xbon",
+    "Rô-ma",
+    "Pa-ri"
+   ],
+   "dung": 1,
+   "trang": 15
+  },
+  {
+   "hoi": "Columbus Day ở Mỹ tưởng nhớ ai?",
+   "dap_an": [
+    "V. Ga-ma",
+    "C. Cô-lôm-bô",
+    "B. Đi-a-xơ",
+    "Ph. Ma-gien-lăng"
+   ],
+   "dung": 1,
+   "trang": 15
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 15 (Hình 2 Đài tưởng niệm ở Li-xbon; ô Kết nối văn hoá Columbus Day), tr. 16 (mục 1b hệ quả; hàng triệu người da đen bị bắt bán) và tr. 17 (Luyện tập câu 1). Không tạo ảnh mới: dùng lại ảnh L7-B2-02 cảnh 10, L7-B2-04 cảnh 3, 7. Cảnh nô lệ chỉ dùng tranh trang nghiêm nhìn từ xa đã duyệt.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

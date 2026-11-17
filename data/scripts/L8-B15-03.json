@@ -1,0 +1,335 @@
+{
+ "ma": "L8-B15-03",
+ "ten_tap": "Liên minh chiến đấu ba nước Đông Dương",
+ "ten_tap_en": "The Fighting Alliance of the Three Indochinese Peoples",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 15. Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+  "trang": [
+   68,
+   70
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hào hùng, đoàn kết",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 15, tr. 68–70.",
+ "chinh_sach_hinh": "Thủ lĩnh và nhân vật tôn giáo không vẽ bằng AI; cảnh tái hiện chỉ vẽ nhóm nghĩa quân khái quát, không thương vong.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là sơ đồ ba ô chữ Việt Nam – Lào – Cam-pu-chia nối với nhau bằng mũi tên",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cuối thế kỉ XIX, Việt Nam, Cam-pu-chia và Lào đều trở thành thuộc địa của thực dân Pháp.",
+     "By the late 19th century, Vietnam, Cambodia and Laos had all become French colonies."
+    ],
+    [
+     "Hân Hân",
+     "Nhân dân ba nước đã đứng lên như thế nào? Cùng tìm hiểu nhé!",
+     "How did the peoples of the three countries rise up? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    68,
+    70
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu vua Hàm Nghi (dùng lại ảnh tư liệu của L8-B18-02 cảnh 2)",
+    "tim": "Emperor Ham Nghi portrait",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B18-02 cảnh 2"
+   },
+   "hinh": "Ảnh tư liệu: vua Hàm Nghi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Việt Nam, cuộc kháng chiến chống Pháp nổ ra ngay từ giữa thế kỉ XIX, nổi bật là phong trào Cần vương từ năm 1885 đến năm 1896.",
+     "In Vietnam, resistance against the French began in the mid-19th century, most notably the Cần Vương movement from 1885 to 1896."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chân dung Hoàng Hoa Thám – Đề Thám (dùng lại ảnh tư liệu của L8-B18-04 cảnh 5)",
+    "tim": "De Tham portrait",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L8-B18-04 cảnh 5"
+   },
+   "hinh": "Ảnh tư liệu: Hoàng Hoa Thám (Đề Thám)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cùng với đó là khởi nghĩa nông dân Yên Thế, kéo dài từ năm 1884 đến năm 1913.",
+     "Alongside it was the Yên Thế peasant uprising, which lasted from 1884 to 1913."
+    ],
+    [
+     "Hân Hân",
+     "Sang đầu thế kỉ XX, phong trào giải phóng dân tộc đi theo khuynh hướng dân chủ tư sản, với hai xu hướng chính là bạo động và cải cách.",
+     "In the early 20th century, the national liberation movement followed a bourgeois-democratic orientation, with two main trends: armed struggle and reform."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cam-pu-chia",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-cam-pu-chia"
+   ],
+   "hinh": "Một làng Khơ-me bên bờ sông thế kỉ XIX: nhà sàn mái lá thốt nốt, rặng cây thốt nốt cao; những nghĩa quân Khơ-me nam giới quấn khăn rằn, mặc xà rông, cầm giáo, dao dài và súng hoả mai cũ tập hợp dưới bóng cây, sẵn sàng lên đường; dân làng tiễn đưa (không cảnh chiến đấu)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở Cam-pu-chia, nhiều cuộc khởi nghĩa đã nổ ra, tiêu biểu là khởi nghĩa do A-cha Xoa lãnh đạo từ năm 1863 đến năm 1866,",
+     "In Cambodia, many uprisings broke out, notably the one led by Achar Sva from 1863 to 1866,"
+    ],
+    [
+     "Hân Hân",
+     "và cuộc khởi nghĩa dưới sự chỉ huy của nhà sư Pu-côm-bô, từ năm 1866 đến năm 1867.",
+     "and the uprising commanded by the monk Pou Kombo, from 1866 to 1867."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-cam-pu-chia"
+   ],
+   "hinh": "Rừng thưa nhiệt đới Cam-pu-chia cuối thế kỉ XIX: một toán nghĩa quân Khơ-me mặc áo vải sẫm, quấn khăn rằn, mang giáo và súng hoả mai đang lặng lẽ băng qua suối, ẩn vào rừng sau một trận phục kích (nhìn từ xa, không thương vong)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đặc biệt, cuộc khởi nghĩa do Hoàng thân Si-vô-tha đứng đầu, kéo dài từ năm 1861 đến năm 1892, đã gây cho Pháp nhiều thiệt hại lớn.",
+     "In particular, the uprising headed by Prince Si Votha, lasting from 1861 to 1892, inflicted heavy losses on the French."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc khởi nghĩa nào ở Cam-pu-chia đã gây cho Pháp nhiều thiệt hại lớn (1861 – 1892)?",
+    "lua_chon": [
+     "Khởi nghĩa A-cha Xoa",
+     "Khởi nghĩa Pu-côm-bô",
+     "Khởi nghĩa Si-vô-tha"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Cuộc khởi nghĩa nào đã gây cho Pháp nhiều thiệt hại lớn?",
+     "Pause! Which uprising inflicted heavy losses on the French?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: khởi nghĩa do Hoàng thân Si-vô-tha đứng đầu!",
+     "The answer is C: the uprising headed by Prince Si Votha!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lào",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-lao"
+   ],
+   "hinh": "Cao nguyên Bô-lô-ven (Lào) đầu thế kỉ XX: đồi cỏ xanh, rừng thưa và thác nước trắng xa xa; những nghĩa quân người Lào Thơng mặc áo chàm, đóng khố, mang nỏ, giáo và ống tên, đi thành hàng dọc trên lối mòn giữa sương sớm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Lào, nhân dân đã nổi dậy đấu tranh chống Pháp, tiêu biểu là khởi nghĩa của nhân dân Xa-van-na-khét do Pha-ca-đuốc lãnh đạo, từ năm 1901 đến năm 1903,",
+     "In Laos, people rose against the French, notably the Savannakhet uprising led by Phacadouc from 1901 to 1903,"
+    ],
+    [
+     "Nhật Minh",
+     "và cuộc khởi nghĩa do Ong Kẹo lãnh đạo ở cao nguyên Bô-lô-ven, từ năm 1901 đến năm 1907.",
+     "and the uprising led by Ong Keo on the Bolaven Plateau from 1901 to 1907."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Liên minh ba dân tộc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghia-quan-ba-nuoc"
+   ],
+   "hinh": "Trong rừng núi Tây Nguyên cuối thế kỉ XIX, bên đống lửa trại: nghĩa quân người Việt áo nâu khăn đầu rìu, nghĩa quân Khơ-me quấn khăn rằn và nghĩa quân Lào mặc áo chàm ngồi quây quần bên đống lửa, cùng bàn bạc, bắt tay nhau; vũ khí là giáo, nỏ, súng hoả mai dựng bên gốc cây",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhân dân Việt Nam ở Nam Bộ và Tây Nguyên đã đoàn kết, phối hợp chiến đấu với nhân dân Cam-pu-chia, Lào chống Pháp.",
+     "Vietnamese people in the South and the Central Highlands united and fought alongside the Cambodian and Lao peoples against the French."
+    ],
+    [
+     "Hân Hân",
+     "Đây là những biểu hiện bước đầu của liên minh chiến đấu ba dân tộc chống kẻ thù chung.",
+     "These were the first signs of a fighting alliance of the three peoples against a common enemy."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Việt Nam: phong trào Cần vương (1885 – 1896), khởi nghĩa Yên Thế (1884 – 1913)",
+    "Cam-pu-chia: A-cha Xoa, Pu-côm-bô, Hoàng thân Si-vô-tha",
+    "Lào: Pha-ca-đuốc (Xa-van-na-khét), Ong Kẹo (Bô-lô-ven)",
+    "Bước đầu hình thành liên minh chiến đấu ba dân tộc"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: ba nước Đông Dương đều anh dũng đấu tranh chống thực dân Pháp.",
+     "Remember: all three Indochinese countries fought bravely against French colonialism."
+    ],
+    [
+     "Nhật Minh",
+     "Và từ cuối thế kỉ XIX, nhân dân ba nước đã bước đầu đoàn kết chống kẻ thù chung.",
+     "And from the late 19th century, the three peoples began to unite against their common enemy."
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ],
+   "tieu_de": "ĐÔNG DƯƠNG CHỐNG PHÁP",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao liên minh chiến đấu của nhân dân ba nước được hình thành ngay từ cuối thế kỉ XIX – đầu thế kỉ XX? Bình luận nhé!",
+     "Your challenge: why did the fighting alliance of the three peoples form as early as the late 19th and early 20th centuries? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    70
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Phong trào Cần vương ở Việt Nam diễn ra trong thời gian nào?",
+   "dap_an": [
+    "1885 – 1896",
+    "1884 – 1913",
+    "1861 – 1892",
+    "1901 – 1907"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Ai lãnh đạo khởi nghĩa ở cao nguyên Bô-lô-ven (1901 – 1907)?",
+   "dap_an": [
+    "Ong Kẹo",
+    "Pha-ca-đuốc",
+    "A-cha Xoa",
+    "Si-vô-tha"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Khởi nghĩa của nhân dân Xa-van-na-khét do ai lãnh đạo?",
+   "dap_an": [
+    "Pha-ca-đuốc",
+    "Pu-côm-bô",
+    "Ong Kẹo",
+    "Hoàng Hoa Thám"
+   ],
+   "dung": 0,
+   "trang": 70
+  },
+  {
+   "hoi": "Nhân dân Việt Nam ở đâu đã phối hợp chiến đấu với nhân dân Cam-pu-chia, Lào chống Pháp?",
+   "dap_an": [
+    "Nam Bộ và Tây Nguyên",
+    "Bắc Kì",
+    "Thanh Hoá",
+    "Hà Nội"
+   ],
+   "dung": 0,
+   "trang": 70
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 68 (Việt Nam, Cam-pu-chia, Lào thành thuộc địa của Pháp) và tr. 70 (mục 2b: Cần vương 1885 – 1896, Yên Thế 1884 – 1913, hai xu hướng bạo động và cải cách; A-cha Xoa 1863 – 1866, nhà sư Pu-côm-bô 1866 – 1867, Hoàng thân Si-vô-tha 1861 – 1892; Pha-ca-đuốc 1901 – 1903, Ong Kẹo 1901 – 1907; Nam Bộ, Tây Nguyên phối hợp chiến đấu; Luyện tập 2). Không vẽ AI chân dung nhà sư Pu-côm-bô và các thủ lĩnh; chỉ vẽ nhóm nghĩa quân khái quát. Dùng lại ảnh tư liệu L8-B18-02 cảnh 2, L8-B18-04 cảnh 5.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

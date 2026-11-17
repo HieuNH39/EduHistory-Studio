@@ -1,0 +1,346 @@
+{
+ "ma": "L6-B14-04",
+ "ten_tap": "Người Việt cổ sống ra sao?",
+ "ten_tap_en": "How Did the Ancient Vietnamese Live?",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+  "trang": [
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-co"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, mộc mạc, âm hưởng trống đồng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 14, tr. 63–64.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ ngôi nhà sàn mái cong",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Việt cổ thời Văn Lang, Âu Lạc ăn gì, ở đâu, mặc gì nhỉ?",
+     "What did the ancient Vietnamese of Văn Lang and Âu Lạc eat, where did they live, and what did they wear?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng khám phá đời sống vật chất của tổ tiên nhé!",
+     "Let's explore our ancestors' material life!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Nghề nông",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B14-01 cảnh 3: làng Việt cổ ven sông, người nông dân cày ruộng bằng lưỡi cày đồng, thợ rèn đập sắt bên lò, thợ đúc đồng đổ khuôn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cư dân Việt cổ đã biết đến nền nông nghiệp dùng cày, và sớm lấy nghề nông trồng lúa nước làm nghề chính.",
+     "The ancient Vietnamese practised plough farming and made wet-rice growing their main occupation."
+    ],
+    [
+     "Nhật Minh",
+     "Ngoài ra, họ còn trồng các loại cây hoa màu, trồng dâu, nuôi tằm.",
+     "They also grew other crops, planted mulberry and raised silkworms."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B14-01/canh-03.jpg",
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B2-02 cảnh 5: một gia đình người Việt cổ dưới gầm nhà sàn bằng tre, gỗ, lá, hai người giã gạo nhịp nhàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân chủ yếu ở nhà sàn được làm bằng tre, nứa, lá, gỗ.",
+     "People mostly lived in stilt houses of bamboo, reeds, leaves and wood."
+    ],
+    [
+     "Hân Hân",
+     "Thức ăn chính là gạo nếp, gạo tẻ, muối, mắm cá.",
+     "Their staple foods were sticky rice, ordinary rice, salt and fish sauce."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B2-02/canh-05.jpg",
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nghề chính của cư dân Văn Lang, Âu Lạc là gì?",
+    "lua_chon": [
+     "Săn bắt",
+     "Trồng lúa nước",
+     "Buôn bán đường biển"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nghề chính của cư dân Văn Lang, Âu Lạc là gì?",
+     "EduHistory asks you! What was the main occupation in Văn Lang and Âu Lạc?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: trồng lúa nước!",
+     "The answer is B: wet-rice farming!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đúc đồng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Mặt trống đồng Ngọc Lũ – loại trống đẹp nhất của trống đồng Đông Sơn (dùng lại ảnh tư liệu của L6-B2-02 cảnh 2)",
+    "tim": "mặt trống đồng Ngọc Lũ",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L6-B2-02 cảnh 2"
+   },
+   "hinh": "Tư liệu: mặt trống đồng Ngọc Lũ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghề luyện kim của người Việt cổ dần được chuyên môn hoá. Kĩ thuật đúc đồng phát triển với những hiện vật tiêu biểu là trống đồng Ngọc Lũ, thạp đồng Đào Thịnh.",
+     "Metalworking became specialised. Bronze casting flourished, with masterpieces like the Ngọc Lũ drum and the Đào Thịnh jar."
+    ],
+    [
+     "Hân Hân",
+     "Trên trống đồng Ngọc Lũ có hoạ tiết mái nhà cong, hình thuyền, người giã gạo. Bên cạnh đó, người Việt cổ đã bước đầu biết rèn sắt.",
+     "The drum shows curved roofs, boats and people pounding rice. They had also begun to forge iron."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Trang phục",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B14-01 cảnh 5: trai tráng người Việt cổ cầm giáo đồng, rìu đồng đứng thành hàng ở cửa làng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Người Việt cổ ngày thường để tóc ngang vai, búi tó hoặc tết tóc kiểu đuôi sam.",
+     "Day to day, they wore their hair shoulder-length, in a bun, or in a braid."
+    ],
+    [
+     "Nhật Minh",
+     "Nam đóng khố, cởi trần, đi chân đất; nữ mặc váy, mặc yếm.",
+     "Men wore loincloths, went bare-chested and barefoot; women wore skirts and bodices."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B14-01/canh-05.jpg",
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Hân Hân cài một chiếc lông chim lên tóc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vào dịp lễ hội, họ có thể đội thêm mũ lông chim, đeo trang sức như vòng tay, hạt chuỗi, khuyên tai!",
+     "At festivals they might add feathered headdresses and jewellery like bracelets, bead necklaces and earrings!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ngày thường, trang phục của nam giới Việt cổ thế nào?",
+    "lua_chon": [
+     "Mặc áo dài, đội mũ",
+     "Đóng khố, cởi trần, đi chân đất",
+     "Mặc áo giáp"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Nam giới Việt cổ ngày thường mặc thế nào?",
+     "Pause! What did ancient Vietnamese men usually wear?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: đóng khố, cởi trần, đi chân đất!",
+     "The answer is B: loincloth, bare chest, bare feet!"
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "ghi_nho",
+   "y": [
+    "Nông nghiệp dùng cày, trồng lúa nước là chính; trồng dâu, nuôi tằm",
+    "Đúc đồng phát triển (trống đồng Ngọc Lũ, thạp đồng Đào Thịnh); bước đầu rèn sắt",
+    "Ở nhà sàn; ăn gạo nếp, gạo tẻ, muối, mắm cá",
+    "Nam đóng khố, cởi trần; nữ mặc váy, yếm"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: lúa nước là nghề chính, kĩ thuật đúc đồng phát triển với trống đồng Ngọc Lũ.",
+     "Remember: wet rice was the main occupation; bronze casting thrived, as the Ngọc Lũ drum shows."
+    ],
+    [
+     "Hân Hân",
+     "Người Việt cổ ở nhà sàn; nam đóng khố, nữ mặc váy, yếm.",
+     "They lived in stilt houses; men wore loincloths, women skirts and bodices."
+    ]
+   ],
+   "nguon_trang": [
+    63
+   ],
+   "tieu_de": "ĐỜI SỐNG VẬT CHẤT NGƯỜI VIỆT CỔ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong các thành tựu thời Văn Lang, Âu Lạc, cậu thích nhất thành tựu nào? Viết vài câu giới thiệu trong phần bình luận nhé!",
+     "Your challenge: which achievement of Văn Lang and Âu Lạc do you like best? Introduce it in a few lines in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ngoài lúa nước, cư dân Văn Lang, Âu Lạc còn trồng gì?",
+   "dap_an": [
+    "Cây hoa màu, dâu nuôi tằm",
+    "Cà phê",
+    "Cao su",
+    "Lúa mì"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Hiện vật tiêu biểu cho kĩ thuật đúc đồng của người Việt cổ là gì?",
+   "dap_an": [
+    "Trống đồng Ngọc Lũ, thạp đồng Đào Thịnh",
+    "Kim tự tháp",
+    "Cột đá A-sô-ca",
+    "Chuông đồng thời Chu"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Thức ăn chính của người Việt cổ là gì?",
+   "dap_an": [
+    "Gạo nếp, gạo tẻ, muối, mắm cá",
+    "Bánh mì",
+    "Thịt cừu",
+    "Lúa mạch"
+   ],
+   "dung": 0,
+   "trang": 63
+  },
+  {
+   "hoi": "Người Việt cổ chủ yếu ở loại nhà nào?",
+   "dap_an": [
+    "Nhà sàn",
+    "Nhà gạch nhiều tầng",
+    "Lều vải",
+    "Hang động"
+   ],
+   "dung": 0,
+   "trang": 63
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 63 (mục 3a: nông nghiệp dùng cày, lúa nước, hoa màu, dâu tằm; luyện kim chuyên môn hoá, trống đồng Ngọc Lũ, thạp đồng Đào Thịnh, bước đầu rèn sắt; nhà sàn; gạo nếp, gạo tẻ, muối, mắm cá; tóc, trang phục, trang sức; Hình 6 hoạ tiết trống đồng) và tr. 64 (Luyện tập 2). Dùng lại ảnh L6-B14-01 cảnh 3, 5; L6-B2-02 cảnh 5 (có clip); ảnh tư liệu trống đồng Ngọc Lũ của L6-B2-02 cảnh 2.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

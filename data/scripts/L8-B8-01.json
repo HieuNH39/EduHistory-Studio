@@ -1,0 +1,183 @@
+{
+ "ma": "L8-B8-01",
+ "ten_tap": "Ngọn lửa Tây Sơn bùng cháy",
+ "ten_tap_en": "The Tây Sơn Flame Ignites",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 8. Phong trào Tây Sơn",
+  "trang": [
+   35,
+   36
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tay-son"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, khí thế",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 8, tr. 35–36.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh chỉ vào con số 1771 trên bảng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ giữa thế kỉ XVIII, chính quyền Đàng Trong ngày càng suy yếu: quan lại cồng kềnh, tham nhũng, ruộng đất của nông dân bị lấn chiếm, tô thuế đè nặng.",
+     "From the mid-18th century, the Southern regime decayed: bloated, corrupt officials, peasants' land seized, heavy taxes."
+    ]
+   ],
+   "nguon_trang": [
+    35
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tay-son"
+   ],
+   "hinh": "Khung dọc 9:16. Rừng núi Tây Sơn thượng đạo phía trên đèo An Khê lúc bình minh: ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ (vẽ khái quát, áo vải chàm, khăn đầu rìu, nét mặt cương nghị) đứng trên mỏm đá, dựng một lá cờ vải đỏ trơn không chữ; phía dưới là đông đảo nghĩa quân áo nâu cầm giáo mác, gậy tầm vông",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa. Căn cứ ban đầu ở vùng Tây Sơn thượng đạo, phía trên đèo An Khê, tỉnh Gia Lai.",
+     "In 1771, the brothers Nguyễn Nhạc, Nguyễn Huệ and Nguyễn Lữ raised the banner of revolt, first based in upper Tây Sơn above the An Khê pass, in Gia Lai."
+    ],
+    [
+     "Nhật Minh",
+     "Với khẩu hiệu lấy của người giàu chia cho người nghèo, cuộc khởi nghĩa nhanh chóng thu hút các tầng lớp nhân dân tham gia.",
+     "With the slogan take from the rich to give to the poor, the revolt quickly drew people from all walks of life."
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ba anh em nhà Tây Sơn dựng cờ khởi nghĩa vào năm nào?",
+    "lua_chon": [
+     "Năm 1771",
+     "Năm 1785",
+     "Năm 1789"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Khởi nghĩa Tây Sơn bùng nổ năm nào?",
+     "EduHistory asks you! When did the Tây Sơn uprising begin?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: năm 1771!",
+     "The answer is A: 1771!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân đọc ô Em có biết",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết: tổ tiên ba anh em quê ở Nghệ An, bị chúa Nguyễn bắt đưa vào Đàng Trong khai hoang. Nguyễn Huệ có vóc dáng đặc biệt, khoẻ mạnh, can đảm, mắt sáng như chớp, tiếng vang như chuông!",
+     "Did you know: the brothers' ancestors came from Nghệ An, taken south to clear land. Nguyễn Huệ was strong and brave, with eyes like lightning and a voice like a bell!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Vì sao khẩu hiệu lấy của người giàu chia cho người nghèo lại thu hút nhân dân đến vậy? Bình luận nhé!",
+     "Why did the slogan take from the rich to give to the poor attract so many people? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    36
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Căn cứ ban đầu của nghĩa quân Tây Sơn ở đâu?",
+   "dap_an": [
+    "Tây Sơn thượng đạo (phía trên đèo An Khê)",
+    "Thăng Long",
+    "Phú Xuân",
+    "Gia Định"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Khẩu hiệu của khởi nghĩa Tây Sơn là gì?",
+   "dap_an": [
+    "Lấy của người giàu chia cho người nghèo",
+    "Phù Lê diệt Trịnh",
+    "Cần vương cứu nước",
+    "Bình Ngô"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Ba anh em nhà Tây Sơn gồm những ai?",
+   "dap_an": [
+    "Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ",
+    "Nguyễn Hoàng, Nguyễn Kim, Nguyễn Ánh",
+    "Trịnh Kiểm, Trịnh Tùng, Trịnh Giang",
+    "Lê Lợi, Lê Lai, Nguyễn Trãi"
+   ],
+   "dung": 0,
+   "trang": 36
+  },
+  {
+   "hoi": "Tình hình chính quyền Đàng Trong giữa thế kỉ XVIII thế nào?",
+   "dap_an": [
+    "Suy yếu, quan lại cồng kềnh và tham nhũng",
+    "Hưng thịnh",
+    "Thống nhất cả nước",
+    "Mở cửa buôn bán với phương Tây"
+   ],
+   "dung": 0,
+   "trang": 35
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 35 (mục 1: chính quyền Đàng Trong suy yếu, quan lại cồng kềnh, tham nhũng, ruộng đất bị lấn chiếm, tô thuế, lao dịch) và tr. 36 (năm 1771, ba anh em dựng cờ; Tây Sơn thượng đạo phía trên đèo An Khê, Gia Lai; khẩu hiệu; ô Em có biết). Khung dọc; một cảnh tái hiện mới (ba anh em Tây Sơn vẽ khái quát).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

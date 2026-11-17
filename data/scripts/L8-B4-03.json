@@ -1,0 +1,418 @@
+{
+ "ma": "L8-B4-03",
+ "ten_tap": "Đông Nam Á dưới ách cai trị thực dân",
+ "ten_tap_en": "Southeast Asia under Colonial Rule",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 4. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+  "trang": [
+   19,
+   21,
+   22
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thuc-dan"
+ ],
+ "nhac": {
+  "tam_trang": "trầm lắng, phê phán",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 4, tr. 19–22.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ phác thảo khu vực Đông Nam Á với bốn ô: chính trị, kinh tế, văn hoá, xã hội",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dưới ách đô hộ của thực dân phương Tây, các nước Đông Nam Á đã thay đổi thế nào?",
+     "Under Western colonial rule, how did Southeast Asian countries change?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng phân tích bốn mặt: chính trị, kinh tế, văn hoá, xã hội nhé!",
+     "Let's analyse four aspects: politics, economy, culture and society!"
+    ]
+   ],
+   "nguon_trang": [
+    19,
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuc-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B4-02 cảnh 3: những con tàu buồm lớn kiểu châu Âu thế kỉ XVI cập một hải cảng nhiệt đới đông đúc thuyền buôn bản địa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Do có vị trí địa lí quan trọng, lại giàu tài nguyên khoáng sản, Đông Nam Á sớm trở thành mục tiêu xâm lược của các nước tư bản phương Tây.",
+     "With its key location and rich mineral resources, Southeast Asia soon became a target for Western capitalist powers."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B4-02/canh-03.jpg",
+   "nguon_trang": [
+    19
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chính trị",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-chuc-thuc-dan"
+   ],
+   "hinh": "Dùng lại ảnh L8-B4-02 cảnh 7: văn phòng thuộc địa thế kỉ XIX, các quan chức châu Âu áo trắng, mũ cối cúi bên tấm bản đồ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính quyền thực dân thường chia một nước thuộc địa thành nhiều vùng với hình thức cai trị khác nhau, tạo ra mâu thuẫn giữa dân cư các vùng để dễ bề cai trị.",
+     "Colonial rulers often split a colony into regions ruled differently, setting their peoples against each other to rule more easily."
+    ],
+    [
+     "Hân Hân",
+     "Ví dụ, thực dân Anh đã hoà trộn Ma-lai-xi-a, Xin-ga-po và Bru-nây vào nhau, sau đó chia thành bốn khu vực mới với chế độ cai trị khác nhau.",
+     "For example, Britain merged Malaya, Singapore and Brunei, then redivided them into four new zones with different regimes."
+    ],
+    [
+     "Nhật Minh",
+     "Chính quyền và tầng lớp trên ở các nước đã đầu hàng, phụ thuộc hoặc làm tay sai; bộ máy trung ương và cấp tỉnh do quan chức thực dân điều hành.",
+     "Local rulers and elites surrendered, became dependent or served as puppets; central and provincial administration was run by colonial officials."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B4-02/canh-07.jpg",
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chính sách chia một nước thuộc địa thành nhiều vùng với hình thức cai trị khác nhau nhằm mục đích gì?",
+    "lua_chon": [
+     "Giúp các vùng phát triển đều",
+     "Tạo mâu thuẫn giữa dân cư để dễ bề cai trị",
+     "Trả lại độc lập"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chia nhỏ vùng cai trị nhằm mục đích gì?",
+     "EduHistory asks you! Why divide colonies into zones?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: tạo mâu thuẫn giữa dân cư để thực dân dễ bề cai trị, tức là chia để trị!",
+     "The answer is B: to set peoples against each other and rule more easily: divide and rule!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kinh tế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nong-dan-dong-nam-a"
+   ],
+   "hinh": "Dùng lại ảnh L8-B4-04 cảnh 5: nông dân Đông Nam Á gầy gò xếp hàng nộp thóc, nộp thuế trước một trạm thu thuế có lính thực dân canh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thực dân phương Tây đẩy mạnh vơ vét, bóc lột người dân bản xứ, cướp đoạt ruộng đất để lập đồn điền.",
+     "Western colonisers stepped up plunder and exploitation of local people, seizing land for plantations."
+    ],
+    [
+     "Nhật Minh",
+     "Họ không chú trọng mở mang công nghiệp nặng, chủ yếu xây dựng những ngành công nghiệp chế biến, sản xuất hàng tiêu dùng.",
+     "They neglected heavy industry, building mainly processing and consumer-goods industries."
+    ]
+   ],
+   "anh": "assets/episodes/L8-B4-04/canh-05.jpg",
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "lao-dong-ban-xu"
+   ],
+   "hinh": "Một bến cảng thuộc địa ở Đông Nam Á thế kỉ XIX: đường ray mới chạy ra tận cầu tàu, những bao gạo, kiện cà phê, cao su được bốc lên con tàu hơi nước châu Âu; người lao động bản xứ gầy gò, đội nón, mặc áo vải cũ khuân vác nặng nhọc; một viên đốc công châu Âu mặc đồ trắng, đội mũ cối đứng dưới ô giám sát",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thực dân mở rộng hệ thống đường sắt, đường bộ, bến cảng, nhưng là để phục vụ công cuộc khai thác kinh tế hoặc đàn áp phong trào đấu tranh của nhân dân.",
+     "They expanded railways, roads and ports, but to serve economic exploitation or to crush popular resistance."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thực dân phương Tây chủ yếu xây dựng những ngành công nghiệp nào ở Đông Nam Á?",
+    "lua_chon": [
+     "Công nghiệp nặng",
+     "Công nghiệp chế biến, sản xuất hàng tiêu dùng",
+     "Công nghiệp hàng không"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Thực dân chủ yếu xây dựng ngành công nghiệp nào?",
+     "Pause! Which industries did colonisers mainly build?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: công nghiệp chế biến, sản xuất hàng tiêu dùng!",
+     "The answer is B: processing and consumer goods!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn hoá",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, Nhật Minh chỉ lên bảng ghi: đồng hoá, ngu dân",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thực dân du nhập văn hoá phương Tây, làm xói mòn những giá trị văn hoá truyền thống, gây ra xung đột văn hoá, tôn giáo ở nhiều nước như Phi-líp-pin, In-đô-nê-xi-a.",
+     "Colonisers imported Western culture, eroding traditional values and causing cultural and religious conflict in places like the Philippines and Indonesia."
+    ],
+    [
+     "Nhật Minh",
+     "Họ thực hiện chính sách nô dịch nhằm đồng hoá và ngu dân để dễ bề cai trị.",
+     "They pursued enslaving policies of assimilation and keeping people ignorant, to rule more easily."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xã hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Một bộ phận quý tộc, lãnh chúa giàu có câu kết với thực dân",
+    "Nông dân bị bần cùng hoá, chịu thuế và lao dịch nặng nề",
+    "Hình thành giai cấp tư sản, công nhân, tiểu tư sản trí thức"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Xã hội có sự phân hoá sâu sắc. Một bộ phận quý tộc, lãnh chúa phong kiến giàu có câu kết với thực dân bóc lột nông dân.",
+     "Society became deeply divided. Some rich nobles and lords colluded with the colonisers to exploit peasants."
+    ],
+    [
+     "Hân Hân",
+     "Nông dân ngày càng bị bần cùng hoá, nhiều người phải rời bỏ ruộng đất để bán sức lao động.",
+     "Peasants grew ever poorer; many left their land to sell their labour."
+    ],
+    [
+     "Nhật Minh",
+     "Giai cấp tư sản, công nhân và tầng lớp tiểu tư sản trí thức hình thành, bắt đầu tham gia đấu tranh giải phóng dân tộc.",
+     "A bourgeoisie, working class and petty-bourgeois intelligentsia emerged and began joining the liberation struggle."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "tieu_de": "XÃ HỘI PHÂN HOÁ SÂU SẮC",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Những giai cấp, tầng lớp mới nào hình thành ở Đông Nam Á dưới ách thực dân?",
+    "lua_chon": [
+     "Tăng lữ, quý tộc",
+     "Tư sản, công nhân, tiểu tư sản trí thức",
+     "Lãnh chúa, nông nô"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Giai cấp, tầng lớp mới nào xuất hiện?",
+     "EduHistory asks you! Which new classes appeared?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: tư sản, công nhân, tiểu tư sản trí thức!",
+     "The answer is B: the bourgeoisie, workers and the petty-bourgeois intelligentsia!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Chính trị: chính quyền tay sai, chia để trị",
+    "Kinh tế: vơ vét tài nguyên; giao thông phục vụ khai thác",
+    "Văn hoá: nô dịch, đồng hoá, xói mòn giá trị truyền thống",
+    "Xã hội: phân hoá sâu sắc, xuất hiện giai cấp mới"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: về chính trị là chính quyền tay sai, chia để trị; về kinh tế là vơ vét, bóc lột.",
+     "Remember: politically, puppet rule and divide-and-rule; economically, plunder and exploitation."
+    ],
+    [
+     "Nhật Minh",
+     "Về văn hoá là nô dịch, đồng hoá; về xã hội là phân hoá sâu sắc và xuất hiện giai cấp mới.",
+     "Culturally, enslavement and assimilation; socially, deep division and new classes."
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "tieu_de": "DƯỚI ÁCH CAI TRỊ THỰC DÂN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: có ý kiến cho rằng các nước phương Tây đến Đông Nam Á để giúp các nước này thoát khỏi nghèo nàn, lạc hậu. Cậu có đồng ý không? Vì sao? Bình luận nhé!",
+     "Your challenge: some say Western powers came to help Southeast Asia escape poverty and backwardness. Do you agree? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    22
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Vì sao Đông Nam Á sớm trở thành mục tiêu xâm lược của các nước tư bản phương Tây?",
+   "dap_an": [
+    "Có vị trí địa lí quan trọng, giàu tài nguyên khoáng sản",
+    "Vì khí hậu lạnh",
+    "Vì không có dân cư",
+    "Vì đã phát triển công nghiệp nặng"
+   ],
+   "dung": 0,
+   "trang": 19
+  },
+  {
+   "hoi": "Thực dân mở rộng đường sắt, đường bộ, bến cảng ở Đông Nam Á nhằm mục đích gì?",
+   "dap_an": [
+    "Phục vụ khai thác kinh tế hoặc đàn áp phong trào đấu tranh",
+    "Giúp người dân đi lại",
+    "Phát triển du lịch",
+    "Xây dựng công nghiệp nặng"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Chính sách văn hoá của thực dân ở Đông Nam Á là gì?",
+   "dap_an": [
+    "Nô dịch nhằm đồng hoá và ngu dân",
+    "Phát triển giáo dục cho mọi người",
+    "Bảo tồn văn hoá truyền thống",
+    "Khuyến khích tự do tôn giáo"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Thực dân Anh đã chia Ma-lai-xi-a, Xin-ga-po, Bru-nây thành mấy khu vực mới?",
+   "dap_an": [
+    "Bốn khu vực",
+    "Hai khu vực",
+    "Ba khu vực",
+    "Năm khu vực"
+   ],
+   "dung": 0,
+   "trang": 21
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 19 (vị trí địa lí quan trọng, giàu tài nguyên), tr. 21 (tư liệu chia để trị: Ma-lai-xi-a, Xin-ga-po, Bru-nây chia thành bốn khu vực; Hình 4.3 sơ đồ chính trị, kinh tế, văn hoá, xã hội) và tr. 22 (Luyện tập – Vận dụng). Dùng lại ảnh L8-B4-02 cảnh 3, 7; L8-B4-04 cảnh 5; một cảnh tái hiện mới (bến cảng thuộc địa).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

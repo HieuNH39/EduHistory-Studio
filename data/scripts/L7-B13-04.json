@@ -1,0 +1,519 @@
+{
+ "ma": "L7-B13-04",
+ "ten_tap": "Văn hoá Đại Việt thời Trần: Hào khí Đông A",
+ "ten_tap_en": "Trần Dynasty Culture: The Spirit of Đông A",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 13. Đại Việt thời Trần (1226 – 1400)",
+  "trang": [
+   65,
+   66,
+   67
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tran-nhan-tong",
+  "chu-van-an",
+  "tran-quoc-tuan"
+ ],
+ "nhac": {
+  "tam_trang": "trang trọng, sâu lắng ở phần tôn giáo – giáo dục; tươi vui ở phần nghệ thuật",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 13, tr. 65–67.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Nhật Minh cầm cuốn sách về văn hoá Đại Việt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời Trần không chỉ có ba lần đánh thắng quân Mông – Nguyên đâu nhé.",
+     "The Trần era wasn't only about defeating the Mongols three times."
+    ],
+    [
+     "Nhật Minh",
+     "Văn hoá thời Trần cũng phát triển rực rỡ: từ tôn giáo, giáo dục, khoa học đến văn học, nghệ thuật. Cùng đi một vòng nào!",
+     "Trần culture also flourished: religion, education, science, literature and the arts. Let's take a tour!"
+    ]
+   ],
+   "nguon_trang": [
+    65,
+    66,
+    67
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tư tưởng – tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Nho giáo: vị thế ngày càng được nâng cao",
+    "Phật giáo: được vua, quý tộc và nhân dân tôn sùng",
+    "Đạo giáo: cũng được coi trọng"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thời Trần, cả Nho giáo, Phật giáo và Đạo giáo đều được coi trọng.",
+     "Under the Trần, Confucianism, Buddhism and Taoism were all respected."
+    ],
+    [
+     "Hân Hân",
+     "Trong đó, Nho giáo ngày càng được nâng cao vị thế, còn Phật giáo được cả vua, quý tộc và nhân dân tôn sùng.",
+     "Confucianism kept rising in status, while Buddhism was revered by kings, nobles and common people alike."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ],
+   "tieu_de": "TƯ TƯỞNG – TÔN GIÁO THỜI TRẦN",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-nho-thoi-tran"
+   ],
+   "hinh": "Trong điện triều nhà Trần, ba vị quan văn là nhà nho áo dài màu lam và nâu, khăn vấn, tay cầm hốt và cuộn sách, đứng chắp tay trước bệ rồng; các quan khác đứng thành hàng hai bên; ánh sáng vàng ấm qua cửa gỗ chạm khắc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều nhà nho được giao giữ các chức vụ quan trọng trong triều, như Chu Văn An, Trương Hán Siêu, Phạm Sư Mạnh.",
+     "Many Confucian scholars held important posts at court, such as Chu Văn An, Trương Hán Siêu and Phạm Sư Mạnh."
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-su-thoi-tran"
+   ],
+   "hinh": "Phong cảnh núi Yên Tử thời Trần chìm trong mây sớm: con đường bậc đá rêu phong uốn lượn giữa rừng thông, trên đỉnh là một ngôi chùa nhỏ mái ngói cổ; xa xa vài vị sư áo nâu nhỏ bé đi lên bậc đá, nhìn từ phía sau (không vẽ chân dung nhân vật lịch sử nào)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đặc biệt, thời kì này, Thiền phái Trúc Lâm Yên Tử ra đời, do vua Trần Nhân Tông sáng lập.",
+     "Notably, in this period the Trúc Lâm Yên Tử Zen school was born, founded by King Trần Nhân Tông."
+    ],
+    [
+     "Hân Hân",
+     "Thượng hoàng Trần Nhân Tông là vị tổ thứ nhất của Thiền phái Trúc Lâm. Sau khi ông qua đời, hai vị thiền sư Pháp Loa và Huyền Quang kế tục sự nghiệp, gọi là Trúc Lâm Tam Tổ.",
+     "Retired King Trần Nhân Tông was the first patriarch of the Trúc Lâm school. After his death, the Zen masters Pháp Loa and Huyền Quang carried on his work; together they are called the Three Patriarchs of Trúc Lâm."
+    ]
+   ],
+   "nguon_trang": [
+    65,
+    66
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng Phật hoàng Trần Nhân Tông ở Yên Tử, tỉnh Quảng Ninh (như Hình 6 SGK, tr. 66)",
+    "tim": "Trần Nhân Tông statue Yên Tử",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: tượng Phật hoàng Trần Nhân Tông ở Yên Tử",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là tượng Phật hoàng Trần Nhân Tông ở Yên Tử, tỉnh Quảng Ninh ngày nay.",
+     "This is the statue of Buddha-King Trần Nhân Tông at Yên Tử, in today's Quảng Ninh province."
+    ]
+   ],
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thiền phái Trúc Lâm Yên Tử do ai sáng lập?",
+    "lua_chon": [
+     "Trần Thái Tông",
+     "Trần Nhân Tông",
+     "Chu Văn An"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thiền phái Trúc Lâm Yên Tử do ai sáng lập?",
+     "EduHistory asks you! Who founded the Trúc Lâm Yên Tử Zen school?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: vua Trần Nhân Tông!",
+     "The answer is B: King Trần Nhân Tông!"
+    ]
+   ],
+   "nguon_trang": [
+    65
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Giáo dục",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "chu-van-an"
+   ],
+   "hinh": "Một trường học tư thời Trần dưới mái nhà gỗ lợp ngói: thầy giáo già râu tóc bạc, áo dài nâu, khăn vấn ngồi trên sập giảng bài; hàng chục học trò áo the, khăn vấn ngồi trên chiếu, đặt sách trên án thư thấp, chăm chú nghe giảng; ngoài sân có cây đa và giếng nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quốc Tử Giám được mở rộng, là nơi dạy học cho các hoàng tử và con em quý tộc, quan lại cấp cao.",
+     "The Quốc Tử Giám was expanded to teach princes and the children of nobles and high officials."
+    ],
+    [
+     "Hân Hân",
+     "Các trường học, cả trường công và trường tư, xuất hiện ở nhiều địa phương. Nổi tiếng là trường Huỳnh Cung của Chu Văn An, ở thành phố Hà Nội ngày nay.",
+     "Schools, public and private, appeared in many localities. The most famous was Chu Văn An's Huỳnh Cung school, in today's Hà Nội."
+    ]
+   ],
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "si-tu"
+   ],
+   "hinh": "Dùng lại ảnh L7-B15-02 cảnh 12: trường thi, các sĩ tử áo the khăn vấn ngồi làm bài, quan coi thi đi giữa các hàng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các kì thi Nho học thời Trần được tổ chức thường xuyên và quy củ hơn.",
+     "Confucian examinations under the Trần were held more regularly and in a more orderly way."
+    ],
+    [
+     "Hân Hân",
+     "Thái học sinh là kì thi đại khoa, được tổ chức lần đầu vào năm 1232. Triều đình định lệ 7 năm mở một khoa thi.",
+     "The Thái học sinh was the grand examination, first held in 1232. The court set a rule of one exam every 7 years."
+    ],
+    [
+     "Nhật Minh",
+     "Ba người đỗ cao nhất được gọi là Tam khôi, gồm Trạng nguyên, Bảng nhãn và Thám hoa.",
+     "The three top graduates were called the Tam khôi: Trạng nguyên, Bảng nhãn and Thám hoa."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B15-02/canh-12.jpg",
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ba người đỗ cao nhất kì thi đại khoa thời Trần được gọi chung là gì?",
+    "lua_chon": [
+     "Tam khôi",
+     "Tam tổ",
+     "Tứ trụ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ba người đỗ cao nhất kì thi đại khoa được gọi chung là gì?",
+     "Pause! What were the three top graduates of the grand exam called?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Tam khôi!",
+     "The answer is A: the Tam khôi!"
+    ]
+   ],
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Khoa học – kĩ thuật",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "le-van-huu",
+    "tue-tinh"
+   ],
+   "hinh": "Dùng lại ảnh L7-B13-02 cảnh 7: sử quan chép sử trong Quốc sử viện, thầy thuốc bốc thuốc, quan Hà đê sứ trên đê",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về sử học, có Đại Việt sử ký do Lê Văn Hưu biên soạn, là bộ quốc sử đầu tiên của nước ta.",
+     "In history, there was the Đại Việt sử ký compiled by Lê Văn Hưu, our country's first national history."
+    ],
+    [
+     "Nhật Minh",
+     "Ngoài ra còn Việt sử lược, không rõ tác giả, Việt sử cương mục và Việt Nam thế chí của Hồ Tông Thốc.",
+     "There were also the Việt sử lược by an unknown author, and the Việt sử cương mục and Việt Nam thế chí by Hồ Tông Thốc."
+    ],
+    [
+     "Hân Hân",
+     "Trong y học, Tuệ Tĩnh là thầy thuốc nổi tiếng, nghiên cứu và viết sách về cây thuốc nam.",
+     "In medicine, Tuệ Tĩnh was a famous physician who studied and wrote about native Vietnamese medicinal plants."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B13-02/canh-07.jpg",
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tran-quoc-tuan"
+   ],
+   "hinh": "Đêm khuya trong doanh trại nhà Trần: vị Quốc công Tiết chế Trần Quốc Tuấn râu dài, áo bào đỏ thẫm, ngồi bên án thư gỗ dưới ngọn đèn đĩa dầu bằng đất, cầm bút lông viết lên cuộn giấy; bên cạnh là chồng sách và tấm sa bàn vẽ sông núi; ngoài lều có lính gác cầm giáo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Về quân sự, có các tác phẩm Binh thư yếu lược và Vạn Kiếp tông bí truyền thư của Trần Quốc Tuấn.",
+     "In military science, there were Trần Quốc Tuấn's works Binh thư yếu lược and Vạn Kiếp tông bí truyền thư."
+    ]
+   ],
+   "nguon_trang": [
+    66
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học – nghệ thuật",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 16,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "han-thuyen"
+   ],
+   "hinh": "Một nhà nho thời Trần ngồi trong căn nhà gỗ bên ao sen, cầm bút lông viết những dòng thơ lên giấy dó; trên án thư có nghiên mực, chồng sách; vài người bạn văn ngồi quanh lắng nghe ông ngâm thơ; ánh chiều vàng nhạt",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn học chữ Hán và văn học chữ Nôm đều phát triển.",
+     "Literature in Chinese characters and in Nôm script both flourished."
+    ],
+    [
+     "Nhật Minh",
+     "Chữ Hán được dùng sáng tác thơ, phú, hịch, truyện kí, phản ánh âm hưởng hào hùng của cuộc kháng chiến chống ngoại xâm, lòng yêu nước và tự hào dân tộc.",
+     "Chinese characters were used for poems, rhapsodies, proclamations and chronicles, echoing the heroic resistance wars, patriotism and national pride."
+    ],
+    [
+     "Hân Hân",
+     "Văn học chữ Nôm phản ánh cuộc sống bình dân, với những tác giả nổi tiếng như Nguyễn Thuyên, tức Hàn Thuyên, Trần Nhân Tông, Chu Văn An.",
+     "Nôm literature reflected ordinary life, with famous authors such as Nguyễn Thuyên, also called Hàn Thuyên, Trần Nhân Tông and Chu Văn An."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 17,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tháp Phổ Minh, tỉnh Ninh Bình (như Hình 7 SGK, tr. 67)",
+    "tim": "Phổ Minh tower Nam Định",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: tháp Phổ Minh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật kiến trúc và điêu khắc thể hiện rõ trong các công trình như kinh đô Thăng Long, thành Tây Đô ở tỉnh Thanh Hoá, các lăng mộ vua Trần ở tỉnh Quảng Ninh.",
+     "Architecture and sculpture shone in works such as the capital Thăng Long, the Tây Đô citadel in Thanh Hoá and the Trần royal tombs in Quảng Ninh."
+    ],
+    [
+     "Hân Hân",
+     "Và đây là tháp Phổ Minh, ở tỉnh Ninh Bình ngày nay.",
+     "And this is the Phổ Minh tower, in today's Ninh Bình province."
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 18,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-dan-thoi-tran"
+   ],
+   "hinh": "Ngày hội ở một làng quê thời Trần: trên chiếu trải giữa sân đình, phường chèo mặc áo màu biểu diễn, người gõ trống, người kéo nhị; bên ao làng có nhà thuỷ đình nhỏ đang diễn múa rối, những con rối gỗ sơn màu lướt trên mặt nước; dân làng đứng xem đông vui",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật diễn xướng phát triển nhiều loại hình như chèo, tuồng, hát xẩm, múa rối.",
+     "Performing arts developed many forms such as chèo, tuồng, xẩm singing and puppetry."
+    ],
+    [
+     "Hân Hân",
+     "Những loại hình ấy vẫn còn được biểu diễn đến ngày nay đấy!",
+     "Those art forms are still performed today!"
+    ]
+   ],
+   "nguon_trang": [
+    67
+   ]
+  },
+  {
+   "so": 19,
+   "lop": "ghi_nho",
+   "y": [
+    "Tư tưởng – tôn giáo: Nho, Phật, Đạo; Thiền phái Trúc Lâm Yên Tử",
+    "Giáo dục: Quốc Tử Giám, trường Huỳnh Cung; thi Thái học sinh (1232)",
+    "Khoa học: Đại Việt sử ký, Binh thư yếu lược, sách thuốc nam của Tuệ Tĩnh",
+    "Văn học – nghệ thuật: chữ Hán, chữ Nôm; tháp Phổ Minh; chèo, tuồng, múa rối"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tư tưởng – tôn giáo có Thiền phái Trúc Lâm Yên Tử; giáo dục có Quốc Tử Giám và kì thi Thái học sinh.",
+     "Remember: in religion, the Trúc Lâm Yên Tử Zen school; in education, the Quốc Tử Giám and the Thái học sinh exam."
+    ],
+    [
+     "Nhật Minh",
+     "Khoa học có Đại Việt sử ký, Binh thư yếu lược; văn học – nghệ thuật có văn chữ Nôm, tháp Phổ Minh, chèo, tuồng, múa rối.",
+     "In science, the Đại Việt sử ký and Binh thư yếu lược; in literature and arts, Nôm writing, the Phổ Minh tower, chèo, tuồng and puppetry."
+    ]
+   ],
+   "nguon_trang": [
+    65,
+    66,
+    67
+   ],
+   "tieu_de": "VĂN HOÁ ĐẠI VIỆT THỜI TRẦN",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 20,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: trong các thành tựu văn hoá thời Trần, cậu ấn tượng nhất với thành tựu nào? Vì sao? Bình luận nhé!",
+     "Your challenge: which Trần cultural achievement impresses you most, and why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    66,
+    67
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thời Trần, những tôn giáo, tư tưởng nào được coi trọng?",
+   "dap_an": [
+    "Chỉ có Nho giáo",
+    "Chỉ có Phật giáo",
+    "Nho giáo, Phật giáo và Đạo giáo",
+    "Thiên Chúa giáo"
+   ],
+   "dung": 2,
+   "trang": 65
+  },
+  {
+   "hoi": "Kì thi Thái học sinh thời Trần được tổ chức lần đầu vào năm nào?",
+   "dap_an": [
+    "1226",
+    "1232",
+    "1258",
+    "1400"
+   ],
+   "dung": 1,
+   "trang": 66
+  },
+  {
+   "hoi": "Ai là tác giả Đại Việt sử ký, bộ quốc sử đầu tiên của nước ta?",
+   "dap_an": [
+    "Lê Văn Hưu",
+    "Tuệ Tĩnh",
+    "Chu Văn An",
+    "Hồ Tông Thốc"
+   ],
+   "dung": 0,
+   "trang": 66
+  },
+  {
+   "hoi": "Công trình kiến trúc nào sau đây thuộc thời Trần?",
+   "dap_an": [
+    "Tháp Phổ Minh",
+    "Chùa Một Cột",
+    "Kinh thành Huế",
+    "Văn Miếu Quốc Tử Giám thời Lý"
+   ],
+   "dung": 0,
+   "trang": 67
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 65 (mục 4a: Nho, Phật, Đạo; Chu Văn An, Trương Hán Siêu, Phạm Sư Mạnh; Thiền phái Trúc Lâm), tr. 66 (Trúc Lâm Tam Tổ; Hình 6; mục b giáo dục: Quốc Tử Giám, trường Huỳnh Cung, Thái học sinh 1232, định lệ 7 năm, Tam khôi; mục c khoa học – kĩ thuật), tr. 67 (mục d văn học, nghệ thuật; Hình 7 tháp Phổ Minh). Tên tập giữ theo catalog; cụm 'Hào khí Đông A' có trong SGK (tr. 73 tên tranh Hình 5, tr. 74 phần mở đầu). Phương án D câu 4 là phương án nhiễu (công trình thời Lý). Cảnh 10 dùng lại ảnh L7-B15-02 cảnh 12, cảnh 14 dùng lại ảnh L7-B13-02 cảnh 7.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

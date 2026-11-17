@@ -1,0 +1,195 @@
+{
+ "ma": "L8-CD1-04",
+ "ten_tap": "Đê hay Thích ứng? Bạn chọn gì?",
+ "ten_tap_en": "Dikes or Adaptation? What Would You Choose?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Chủ đề chung 1. Văn minh châu thổ sông Hồng và sông Cửu Long",
+  "trang": [
+   155,
+   159,
+   160,
+   161
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, so sánh",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Chủ đề chung 1, tr. 155–161.",
+ "chinh_sach_hinh": "Chỉ dùng ảnh thật; dẫn chuyện dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng chia đôi ghi Sông Hồng | Sông Cửu Long",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hai châu thổ lớn nhất nước ta, hai cách ứng xử khác nhau với dòng nước. Cậu chọn đê hay thích ứng?",
+     "Our two largest deltas, two different ways of living with water. Would you choose dikes or adaptation?"
+    ]
+   ],
+   "nguon_trang": [
+    155,
+    160
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh đê sông Hồng",
+    "tim": "Red River dike Vietnam",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả; không phải bản đồ"
+   },
+   "hinh": "Ảnh: đê sông Hồng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ở miền Bắc, khai khẩn châu thổ sông Hồng gắn liền với việc đắp đê trị thuỷ.",
+     "In the North, opening up the Red River delta went hand in hand with building dikes to tame the river."
+    ],
+    [
+     "Hân Hân",
+     "Từ thế kỉ XI, thời Lý, Nhà nước đã cho đắp đê dọc theo hầu hết các con sông lớn; thời Trần đặt chức quan Hà đê sứ trông coi đê điều.",
+     "From the 11th century, under the Lý, dikes were built along most large rivers; the Trần created the post of dike commissioner."
+    ]
+   ],
+   "nguon_trang": [
+    159,
+    160
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh chợ nổi ở Đồng bằng sông Cửu Long",
+    "tim": "Cai Rang floating market",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: chợ nổi ở Đồng bằng sông Cửu Long",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn khai khẩn đồng bằng sông Cửu Long lại là quá trình thích ứng với tự nhiên: đào nhiều dòng kênh lớn,",
+     "Opening up the Mekong delta, by contrast, was a process of adapting to nature: digging many large canals,"
+    ],
+    [
+     "Hân Hân",
+     "và tạo nên chợ nổi, nhà nổi, những cách thích ứng với môi trường sông nước của cư dân nơi đây.",
+     "and creating floating markets and floating houses, ways the people adapted to life on the water."
+    ]
+   ],
+   "nguon_trang": [
+    160,
+    161
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khai khẩn châu thổ sông Hồng gắn liền với việc gì?",
+    "lua_chon": [
+     "Đắp đê trị thuỷ",
+     "Họp chợ nổi",
+     "Dựng nhà nổi"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Người xưa khai khẩn châu thổ sông Hồng gắn liền với việc gì?",
+     "EduHistory asks you! What was opening up the Red River delta tied to?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: đắp đê trị thuỷ!",
+     "The answer is A: building dikes to control floods!"
+    ]
+   ],
+   "nguon_trang": [
+    160
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, hiện nay việc chế ngự và thích ứng với dòng nước của sông Hồng, sông Cửu Long có còn cần thiết không? Vì sao? Bình luận nhé!",
+     "Do you think taming and adapting to the Red and Mekong rivers is still necessary today? Why? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    161
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chức quan Hà đê sứ trông coi đê điều được đặt ra từ thời nào?",
+   "dap_an": [
+    "Thời Trần",
+    "Thời Lý",
+    "Thời Nguyễn",
+    "Thời Hùng Vương"
+   ],
+   "dung": 0,
+   "trang": 160
+  },
+  {
+   "hoi": "Chợ nổi, nhà nổi là cách thích ứng của cư dân vùng nào?",
+   "dap_an": [
+    "Đồng bằng sông Cửu Long",
+    "Châu thổ sông Hồng",
+    "Tây Nguyên",
+    "Duyên hải miền Trung"
+   ],
+   "dung": 0,
+   "trang": 161
+  },
+  {
+   "hoi": "Kênh Vĩnh Tế nối liền những địa điểm nào?",
+   "dap_an": [
+    "Châu Đốc và Hà Tiên",
+    "Hà Nội và Hải Phòng",
+    "Huế và Đà Nẵng",
+    "Cà Mau và Bạc Liêu"
+   ],
+   "dung": 0,
+   "trang": 160
+  },
+  {
+   "hoi": "Từ thời Lý, Nhà nước Đại Việt đã làm gì để chế ngự sông Hồng?",
+   "dap_an": [
+    "Đắp đê dọc theo hầu hết các con sông lớn",
+    "Xây chợ nổi",
+    "Dựng nhà nổi",
+    "Đào kênh Vĩnh Tế"
+   ],
+   "dung": 0,
+   "trang": 160
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 155 (hai châu thổ lớn nhất), tr. 159 – 160 (đắp đê từ thời Lý, thời Trần đặt Hà đê sứ; khai khẩn sông Hồng gắn với đắp đê trị thuỷ, sông Cửu Long là thích ứng với tự nhiên; kênh Vĩnh Tế nối Châu Đốc – Hà Tiên) và tr. 161 (đào nhiều dòng kênh lớn; chợ nổi, nhà nổi; câu Vận dụng). Khung dọc; ảnh là ảnh thật, không phải bản đồ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

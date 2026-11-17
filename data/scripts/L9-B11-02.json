@@ -1,0 +1,164 @@
+{
+ "ma": "L9-B11-02",
+ "ten_tap": "Kinh tế Mỹ: Từ đỉnh cao đến sự cạnh tranh",
+ "ten_tap_en": "The US Economy: From the Peak to Competition",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 11. Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+  "trang": [
+   50
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, rõ ràng",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 11, tr. 50.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng vẽ biểu đồ cột đi xuống từ 1948 đến 1973",
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1945 đến năm 1991, Mỹ luôn là cường quốc kinh tế số một thế giới. Nhưng tỉ trọng của Mỹ có giữ nguyên không?",
+     "From 1945 to 1991, the US was always the world's top economy. But did its share stay the same?"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu phố Uôn (Wall Street, Niu Oóc) những năm 1950",
+    "tim": "Wall Street New York 1950s photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: phố Uôn, Niu Oóc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 1948, sản lượng công nghiệp Mỹ chiếm 56% toàn thế giới; Mỹ nắm 3/4 dự trữ vàng của thế giới.",
+     "In 1948, US industry made 56% of the world's output, and America held three quarters of the world's gold reserves."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1973, Mỹ chỉ còn chiếm 39,8% tổng sản lượng công nghiệp thế giới, do sự vươn lên của Tây Âu và Nhật Bản.",
+     "By 1973, its share had fallen to 39.8%, as Western Europe and Japan rose."
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1948, sản lượng công nghiệp Mỹ chiếm bao nhiêu phần trăm thế giới?",
+    "lua_chon": [
+     "39,8%",
+     "56%",
+     "75%"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Năm 1948, Mỹ chiếm bao nhiêu phần trăm sản lượng công nghiệp thế giới?",
+     "EduHistory asks you! What share of world industrial output did the US have in 1948?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: 56%, hơn một nửa thế giới!",
+     "The answer is B: 56%, more than half the world!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dù tỉ trọng giảm dần, Mỹ vẫn giữ vững vị thế cường quốc kinh tế số một. Theo cậu, vì sao Tây Âu và Nhật Bản vươn lên được? Bình luận nhé!",
+     "Though its share fell, the US remained number one. Why do you think Western Europe and Japan were able to rise? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    50
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Những năm 1945 – 1950, kinh tế Mỹ có vị thế như thế nào?",
+   "dap_an": [
+    "Chiếm ưu thế tuyệt đối trong kinh tế thế giới",
+    "Đứng thứ hai sau Liên Xô",
+    "Bị khủng hoảng nặng",
+    "Phụ thuộc Tây Âu"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Năm 1973, Mỹ chiếm bao nhiêu phần trăm sản lượng công nghiệp thế giới?",
+   "dap_an": [
+    "39,8%",
+    "56%",
+    "48%",
+    "20%"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Vì sao từ năm 1950, kinh tế Mỹ không còn chiếm ưu thế tuyệt đối?",
+   "dap_an": [
+    "Do sự vươn lên của Tây Âu và Nhật Bản",
+    "Do Liên Xô tan rã",
+    "Do đại suy thoái 1929",
+    "Do mất dự trữ vàng"
+   ],
+   "dung": 0,
+   "trang": 50
+  },
+  {
+   "hoi": "Năm 1948, Mỹ nắm bao nhiêu phần dự trữ vàng thế giới?",
+   "dap_an": [
+    "3/4",
+    "1/2",
+    "1/4",
+    "1/3"
+   ],
+   "dung": 0,
+   "trang": 50
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 50 (Mỹ luôn là cường quốc kinh tế số một nhưng tỉ trọng giảm dần; 1945 – 1950 ưu thế tuyệt đối; từ 1950 Tây Âu, Nhật Bản vươn lên; năm 1948: 56% sản lượng công nghiệp, 3/4 dự trữ vàng; năm 1973: 39,8%). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

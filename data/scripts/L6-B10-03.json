@@ -1,0 +1,365 @@
+{
+ "ma": "L6-B10-03",
+ "ten_tap": "Từ thành bang đến Đế chế La Mã",
+ "ten_tap_en": "From City-State to Roman Empire",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 10. Hy Lạp và La Mã cổ đại",
+  "trang": [
+   46,
+   47
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-la-ma"
+ ],
+ "nhac": {
+  "tam_trang": "hùng tráng, cổ điển",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 10, tr. 46–47.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ chiếc ủng hình bán đảo I-ta-li-a",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ một thành bang nhỏ bé, La Mã đã trở thành một đế quốc trải rộng ba châu lục. Chuyện gì đã xảy ra?",
+     "From a tiny city-state, Rome became an empire spanning three continents. What happened?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng nghe tớ kể nhé!",
+     "Let me tell you!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-la-ma"
+   ],
+   "hinh": "Dùng lại ảnh L6-B10-01 cảnh 9: bán đảo I-ta-li-a thời cổ nhìn từ trên cao, biển bao quanh, ở bờ biển phía nam có những vịnh kín gió",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bán đảo I-ta-li-a, nơi hình thành Nhà nước La Mã cổ đại, nằm ở Nam Âu, xung quanh được biển bao bọc.",
+     "The Italian peninsula, where ancient Rome arose, lies in southern Europe, surrounded by sea."
+    ],
+    [
+     "Nhật Minh",
+     "Từ một thành bang nhỏ bé ở miền Trung bán đảo, Nhà nước La Mã đã dần mở rộng lãnh thổ, trở thành đế quốc rộng lớn vào thế kỉ I TCN.",
+     "From a small city-state in central Italy, Rome gradually expanded into a vast empire by the 1st century BCE."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B10-01/canh-09.jpg",
+   "nguon_trang": [
+    46,
+    47
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "linh-la-ma"
+   ],
+   "hinh": "Dùng lại ảnh L6-B10-02 cảnh 15: đoàn quân La Mã đội mũ giáp, cầm khiên chữ nhật đỏ hành quân qua cổng một thành phố Hy Lạp, người dân đứng hai bên",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đến thế kỉ I TCN, Hy Lạp cũng bị đế quốc La Mã thôn tính.",
+     "By the 1st century BCE, Greece too was conquered by the Roman Empire."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B10-02/canh-15.jpg",
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "La Mã trở thành đế quốc rộng lớn vào khoảng thời gian nào?",
+    "lua_chon": [
+     "Thế kỉ VIII TCN",
+     "Thế kỉ I TCN",
+     "Thế kỉ X"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! La Mã trở thành đế quốc rộng lớn khi nào?",
+     "EduHistory asks you! When did Rome become a vast empire?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thế kỉ I trước Công nguyên!",
+     "The answer is B: the 1st century BCE!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 27 TCN",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng Ốc-ta-vi-út (63 TCN – 14), người mở đầu thời kì đế chế La Mã (như Hình 7 SGK tr. 47)",
+    "tim": "Augustus of Prima Porta",
+    "yeu_cau": "ảnh tư liệu tượng cổ có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: tượng Ốc-ta-vi-út",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 27 TCN, Ốc-ta-vi-út được tôn lên thành Đấng tối cao, có quyền lực như hoàng đế, mở đầu thời kì đế chế.",
+     "In 27 BCE, Octavian was raised to supreme ruler with an emperor's powers, opening the imperial era."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "Hoàng đế: nắm mọi quyền lực",
+    "Viện Nguyên lão: chỉ là hình thức",
+    "Đại hội nhân dân: chỉ là hình thức"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong nhà nước đế chế, hoàng đế nắm quyền lực tối cao.",
+     "In the imperial state, the emperor held supreme power."
+    ],
+    [
+     "Nhật Minh",
+     "Còn Viện Nguyên lão và Đại hội nhân dân chỉ còn là hình thức.",
+     "The Senate and the People's Assembly existed only in name."
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "tieu_de": "TỔ CHỨC NHÀ NƯỚC ĐẾ CHẾ LA MÃ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Trong thời kì đế chế, Viện Nguyên lão có vai trò thế nào?",
+    "lua_chon": [
+     "Nắm mọi quyền lực",
+     "Chỉ còn là hình thức",
+     "Bầu ra hoàng đế mỗi năm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Viện Nguyên lão thời đế chế có vai trò gì?",
+     "Pause! What role did the Senate play in the empire?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chỉ còn là hình thức!",
+     "The answer is B: only a formality!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-la-ma"
+   ],
+   "hinh": "Dùng lại ảnh L6-B10-01 cảnh 10: đồng bằng và đồng cỏ rộng lớn của đế quốc La Mã, ruộng lúa mì vàng, đàn bò cừu, xa xa là mỏ quặng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đến thời kì đế quốc La Mã, lãnh thổ được mở rộng ra cả ba châu lục, với nhiều đồng bằng và đồng cỏ rộng lớn.",
+     "Under the empire, Roman territory stretched across three continents, with many broad plains and pastures."
+    ],
+    [
+     "Nhật Minh",
+     "Nhờ đó, trồng trọt và chăn nuôi có điều kiện phát triển; lòng đất nhiều khoáng sản thuận lợi cho nghề luyện kim.",
+     "So farming and herding thrived, and rich mineral deposits favoured metalworking."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B10-01/canh-10.jpg",
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lãnh thổ đế quốc La Mã mở rộng ra mấy châu lục?",
+    "lua_chon": [
+     "Hai châu lục",
+     "Ba châu lục",
+     "Năm châu lục"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đế quốc La Mã trải rộng mấy châu lục?",
+     "EduHistory asks you! How many continents did the Roman Empire span?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: ba châu lục!",
+     "The answer is B: three continents!"
+    ]
+   ],
+   "nguon_trang": [
+    46
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Từ thành bang nhỏ ở miền Trung I-ta-li-a → đế quốc (thế kỉ I TCN)",
+    "Năm 27 TCN: Ốc-ta-vi-út mở đầu thời kì đế chế",
+    "Hoàng đế nắm quyền; Viện Nguyên lão, Đại hội nhân dân chỉ là hình thức",
+    "Lãnh thổ mở rộng ra ba châu lục"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: năm 27 TCN, Ốc-ta-vi-út mở đầu thời kì đế chế; hoàng đế nắm quyền, Viện Nguyên lão chỉ còn là hình thức.",
+     "Remember: in 27 BCE Octavian opened the imperial era; the emperor ruled and the Senate became a formality."
+    ],
+    [
+     "Hân Hân",
+     "Đế chế La Mã mở rộng ra ba châu lục.",
+     "The Roman Empire spread over three continents."
+    ]
+   ],
+   "nguon_trang": [
+    46,
+    47
+   ],
+   "tieu_de": "TỪ THÀNH BANG ĐẾN ĐẾ CHẾ",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: so sánh nhà nước thành bang A-ten với nhà nước đế chế La Mã, ai nắm quyền lực? Bình luận nhé!",
+     "Your challenge: compare the Athenian city-state with the Roman Empire: who held the power? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    47
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nhà nước La Mã hình thành trên bán đảo nào?",
+   "dap_an": [
+    "I-ta-li-a",
+    "Ban-căng",
+    "Ả Rập",
+    "Đông Dương"
+   ],
+   "dung": 0,
+   "trang": 46
+  },
+  {
+   "hoi": "Năm 27 TCN, ai được tôn lên thành Đấng tối cao, mở đầu thời kì đế chế La Mã?",
+   "dap_an": [
+    "Ốc-ta-vi-út",
+    "Pê-ri-clét",
+    "Hô-me",
+    "Ác-si-mét"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Trong tổ chức nhà nước đế chế La Mã, ai nắm quyền lực?",
+   "dap_an": [
+    "Hoàng đế",
+    "Đại hội nhân dân",
+    "Viện Nguyên lão",
+    "Toà án"
+   ],
+   "dung": 0,
+   "trang": 47
+  },
+  {
+   "hoi": "Hy Lạp bị đế quốc La Mã thôn tính vào khi nào?",
+   "dap_an": [
+    "Thế kỉ I TCN",
+    "Thế kỉ VIII TCN",
+    "Năm 27",
+    "Thế kỉ V"
+   ],
+   "dung": 0,
+   "trang": 46
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 46 (La Mã: bán đảo I-ta-li-a, Nam Âu; thời đế quốc mở rộng ba châu lục, đồng bằng, đồng cỏ, khoáng sản; Hy Lạp bị La Mã thôn tính thế kỉ I TCN) và tr. 47 (mục 3: từ thành bang nhỏ ở miền Trung I-ta-li-a thành đế quốc thế kỉ I TCN; năm 27 TCN Ốc-ta-vi-út; Hình 7, Hình 8 sơ đồ tổ chức: Hoàng đế; Viện Nguyên lão, Đại hội nhân dân chỉ là hình thức). Dùng lại ảnh L6-B10-01 cảnh 9, 10; L6-B10-02 cảnh 15; tượng Ốc-ta-vi-út là ảnh tư liệu.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

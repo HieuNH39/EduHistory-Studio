@@ -1,0 +1,337 @@
+{
+ "ma": "L6-B13-03",
+ "ten_tap": "Chữ viết và những sử thi bất hủ",
+ "ten_tap_en": "Scripts and Immortal Epics",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 13. Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+  "trang": [
+   57,
+   58
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "tho-da"
+ ],
+ "nhac": {
+  "tam_trang": "trang nhã, huyền thoại",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 13, tr. 57–58.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh cầm tập lá cọ chép chữ cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Đông Nam Á xưa viết chữ gì, đọc truyện gì nhỉ?",
+     "What did ancient Southeast Asians write and read?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng giải mã chữ viết và những bộ sử thi bất hủ nhé!",
+     "Let's decode their scripts and immortal epics!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Bia Võ Cạnh tìm thấy ở phường Tây Nha Trang, tỉnh Khánh Hoà, niên đại khoảng thế kỉ III – IV (như Hình 2 SGK tr. 57)",
+    "tim": "Võ Cạnh inscription",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: bia Võ Cạnh (Khánh Hoà)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhiều nhóm cư dân Đông Nam Á đã tạo ra chữ viết riêng dựa trên hệ thống chữ cổ của người Ấn Độ.",
+     "Many Southeast Asian peoples created their own scripts based on ancient Indian writing."
+    ],
+    [
+     "Nhật Minh",
+     "Đây là bia Võ Cạnh tìm thấy ở Nha Trang, tỉnh Khánh Hoà, có niên đại khoảng thế kỉ III – IV, là tấm bia chữ Phạn cổ nhất ở Đông Nam Á.",
+     "This is the Võ Cạnh stele from Nha Trang, Khánh Hoà, dating to around the 3rd–4th century, the oldest Sanskrit inscription in Southeast Asia."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "tho-da"
+   ],
+   "hinh": "Dùng lại ảnh L6-B19-04 cảnh 4: người thợ đá xưa khắc những hàng chữ Phạn lên một tấm bia đá dựng đứng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tấm bia đầu tiên của người Khơ-me bằng chữ Phạn và chữ Khơ-me cổ là bia Ăng-co Bo-rây ở Cam-pu-chia.",
+     "The first Khmer stele, in Sanskrit and Old Khmer, is the Angkor Borei inscription in Cambodia."
+    ],
+    [
+     "Nhật Minh",
+     "Trên cơ sở chữ Pa-li, người Môn sáng tạo ra chữ Môn cổ; người Mã Lai sáng tạo ra chữ Mã Lai cổ, tìm thấy trên tấm bia ở đảo Xu-ma-tơ-ra.",
+     "Based on Pali, the Mon created Old Mon script; the Malays created Old Malay, found on a stele in Sumatra."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B19-04/canh-04.jpg",
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Hân Hân viết một chữ Hán lên bảng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Riêng người Việt thì kế thừa hệ thống chữ Hán của người Trung Quốc.",
+     "The Vietnamese, however, inherited the Chinese character system."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Việt xưa kế thừa hệ thống chữ viết nào?",
+    "lua_chon": [
+     "Chữ Phạn",
+     "Chữ Hán",
+     "Chữ Pa-li"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Người Việt kế thừa hệ thống chữ nào?",
+     "EduHistory asks you! Which script did the Vietnamese inherit?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chữ Hán của người Trung Quốc!",
+     "The answer is B: Chinese characters!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, Nhật Minh đọc to một câu ca dao từ cuốn sách",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bên cạnh kho tàng văn học dân gian như ca dao, tục ngữ, hò vè, người Đông Nam Á cũng tiếp thu văn học của người Ấn Độ,",
+     "Besides folk literature like folk songs, proverbs and chants, Southeast Asians also absorbed Indian literature,"
+    ],
+    [
+     "Hân Hân",
+     "tiêu biểu nhất là sử thi Ma-ha-bha-ra-ta và Ra-ma-y-a-na.",
+     "above all the epics Mahabharata and Ramayana."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 9,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nghe-nhan-khome"
+   ],
+   "hinh": "Dùng lại ảnh L6-B13-04 cảnh 11: hành lang đá dài của đền Ăng-co Vát, trên vách là bức phù điêu khổng lồ của người Khơ-me cổ đại",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ đó, họ sáng tạo bộ sử thi của dân tộc mình như: Phạ Lắc Phạ Lam của Lào, Ra-ma-kiên của Thái Lan, Ra-ma-y-a-na của In-đô-nê-xi-a, Riêm-kê của Cam-pu-chia.",
+     "From these they created their own epics: Phra Lak Phra Lam in Laos, Ramakien in Thailand, Ramayana in Indonesia, Reamker in Cambodia."
+    ],
+    [
+     "Hân Hân",
+     "Ở đền Ăng-co Vát còn có bức phù điêu của người Khơ-me cổ đại mô tả cảnh trong sử thi Ra-ma-y-a-na.",
+     "Angkor Wat even has an ancient Khmer relief showing scenes from the Ramayana."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B13-04/canh-11.jpg",
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ra-ma-kiên là bộ sử thi của nước nào?",
+    "lua_chon": [
+     "Lào",
+     "Thái Lan",
+     "Cam-pu-chia"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Ra-ma-kiên là sử thi của nước nào?",
+     "Pause! Which country's epic is the Ramakien?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Thái Lan!",
+     "The answer is B: Thailand!"
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "ghi_nho",
+   "y": [
+    "Chữ viết riêng dựa trên chữ cổ Ấn Độ (Khơ-me, Môn, Mã Lai)",
+    "Bia Võ Cạnh: bia chữ Phạn cổ nhất Đông Nam Á",
+    "Người Việt kế thừa chữ Hán",
+    "Sử thi: Phạ Lắc Phạ Lam, Ra-ma-kiên, Riêm-kê, Ra-ma-y-a-na"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: người Khơ-me, Môn, Mã Lai sáng tạo chữ viết dựa trên chữ cổ Ấn Độ; người Việt kế thừa chữ Hán.",
+     "Remember: the Khmer, Mon and Malays built scripts on ancient Indian writing; the Vietnamese inherited Chinese characters."
+    ],
+    [
+     "Hân Hân",
+     "Từ sử thi Ấn Độ, các dân tộc sáng tạo nên sử thi của riêng mình.",
+     "From Indian epics, each people created its own."
+    ]
+   ],
+   "nguon_trang": [
+    57
+   ],
+   "tieu_de": "CHỮ VIẾT VÀ VĂN HỌC",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: tìm và chia sẻ một thành tựu văn hoá Đông Nam Á chịu ảnh hưởng của văn hoá Ấn Độ hoặc Trung Quốc nhé!",
+     "Your challenge: find and share one Southeast Asian cultural achievement influenced by India or China!"
+    ]
+   ],
+   "nguon_trang": [
+    58
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Chữ viết riêng của nhiều nhóm cư dân Đông Nam Á được tạo ra dựa trên hệ thống chữ nào?",
+   "dap_an": [
+    "Chữ cổ của người Ấn Độ",
+    "Chữ La-tinh",
+    "Chữ tượng hình Ai Cập",
+    "Chữ hình nêm"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Tấm bia đầu tiên của người Khơ-me bằng chữ Phạn và chữ Khơ-me cổ là bia nào?",
+   "dap_an": [
+    "Bia Ăng-co Bo-rây",
+    "Bia Võ Cạnh",
+    "Bia Tiến sĩ",
+    "Bia Đông Yên Châu"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Bia Võ Cạnh được tìm thấy ở tỉnh nào?",
+   "dap_an": [
+    "Khánh Hoà",
+    "Quảng Nam",
+    "An Giang",
+    "Hà Nội"
+   ],
+   "dung": 0,
+   "trang": 57
+  },
+  {
+   "hoi": "Riêm-kê là sử thi của nước nào?",
+   "dap_an": [
+    "Cam-pu-chia",
+    "Lào",
+    "Thái Lan",
+    "In-đô-nê-xi-a"
+   ],
+   "dung": 0,
+   "trang": 57
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 57 (mục 2: chữ viết riêng dựa trên chữ cổ Ấn Độ; bia Ăng-co Bo-rây; chữ Môn cổ trên cơ sở chữ Pa-li; chữ Mã Lai cổ ở Xu-ma-tơ-ra; người Việt kế thừa chữ Hán; văn học dân gian; sử thi Ma-ha-bha-ra-ta, Ra-ma-y-a-na; Phạ Lắc Phạ Lam, Ra-ma-kiên, Ra-ma-y-a-na, Riêm-kê; Hình 2 bia Võ Cạnh khoảng thế kỉ III – IV; Hình 3 phù điêu Ăng-co Vát) và tr. 58 (Vận dụng 2). Dùng lại ảnh L6-B19-04 cảnh 4, L6-B13-04 cảnh 11.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

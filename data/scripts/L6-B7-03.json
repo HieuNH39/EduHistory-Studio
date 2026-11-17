@@ -1,0 +1,180 @@
+{
+ "ma": "L6-B7-03",
+ "ten_tap": "Giải mã chữ viết cổ đại",
+ "ten_tap_en": "Decoding Ancient Writing",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 7. Ai Cập và Lưỡng Hà cổ đại",
+  "trang": [
+   29,
+   32
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "bí ẩn, tò mò",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 7, tr. 29–32.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: hai bạn dẫn chuyện dựng bằng code, chữ viết cổ là ảnh hiện vật có giấy phép mở.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, Nhật Minh giơ tấm thẻ đố vui",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hân ơi, thử thách nhé: cậu có nhận ra đây là chữ của người cổ đại nào không?",
+     "Hân, challenge time: can you tell whose ancient writing this is?"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chữ tượng hình của người Ai Cập cổ đại (như Hình 4 SGK tr. 29)",
+    "tim": "Egyptian hieroglyphs papyrus",
+    "yeu_cau": "ảnh tư liệu hiện vật thuộc phạm vi công cộng hoặc giấy phép mở, không có hình thần linh"
+   },
+   "hinh": "Tư liệu: chữ tượng hình Ai Cập cổ đại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là chữ tượng hình của người Ai Cập! Họ dùng hình vẽ thực để biểu đạt ý niệm, và dùng thân cây pa-pi-rút để làm giấy viết.",
+     "This is Egyptian hieroglyphic writing! They used realistic pictures to express ideas, and made paper from papyrus stalks."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chữ viết hình nêm trên đất sét của người Lưỡng Hà cổ đại (như Hình 2 SGK tr. 29)",
+    "tim": "cuneiform clay tablet",
+    "yeu_cau": "ảnh tư liệu hiện vật thuộc phạm vi công cộng hoặc giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: chữ hình nêm trên đất sét (Lưỡng Hà)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là chữ hình nêm của người Lưỡng Hà! Họ dùng vật nhọn hình tam giác làm bút, viết lên tấm đất sét ướt, tạo thành chữ giống hình cái nêm.",
+     "And this is Mesopotamian cuneiform! They pressed a triangular stylus into wet clay, making wedge-shaped marks."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Lưỡng Hà viết chữ hình nêm lên chất liệu gì?",
+    "lua_chon": [
+     "Giấy pa-pi-rút",
+     "Tấm đất sét ướt",
+     "Lụa"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Chữ hình nêm được viết lên đâu?",
+     "EduHistory asks you! What was cuneiform written on?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: tấm đất sét ướt! Chữ tượng hình và chữ hình nêm là những loại chữ cổ nhất thế giới.",
+     "The answer is B: wet clay! Hieroglyphs and cuneiform are the world's oldest scripts."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu có biết: từ paper, nghĩa là giấy trong tiếng Anh, có gốc từ papyrus đấy! Cậu thích loại chữ nào hơn? Bình luận nhé!",
+     "Fun fact: the English word paper comes from papyrus! Which script do you like more? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Người Ai Cập cổ đại dùng loại chữ nào?",
+   "dap_an": [
+    "Chữ tượng hình",
+    "Chữ hình nêm",
+    "Chữ Phạn",
+    "Chữ La-tinh"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Người Ai Cập tạo ra giấy từ cây gì?",
+   "dap_an": [
+    "Cây pa-pi-rút",
+    "Cây tre",
+    "Cây dâu",
+    "Cây lúa"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Vì sao chữ của người Lưỡng Hà được gọi là chữ hình nêm?",
+   "dap_an": [
+    "Vì chữ giống hình cái nêm",
+    "Vì viết bằng mực đen",
+    "Vì viết trên lá",
+    "Vì giống hình con chim"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Từ \"paper\" (giấy viết) trong tiếng Anh có gốc từ đâu?",
+   "dap_an": [
+    "Papyrus",
+    "Pyramid",
+    "Pharaoh",
+    "Paris"
+   ],
+   "dung": 0,
+   "trang": 32
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 29 (hình chữ viết Ai Cập, Lưỡng Hà) và tr. 32 (ô thông tin: giấy pa-pi-rút, từ paper; vật nhọn hình tam giác viết lên đất sét ướt – chữ hình nêm; chữ tượng hình dùng hình vẽ thực biểu đạt ý niệm; những loại chữ cổ nhất thế giới). Khung dọc; ảnh chữ viết là ảnh tư liệu hiện vật.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

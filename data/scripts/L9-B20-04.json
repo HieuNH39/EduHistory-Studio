@@ -1,0 +1,264 @@
+{
+ "ma": "L9-B20-04",
+ "ten_tap": "Bước ngoặt lịch sử: Đổi mới",
+ "ten_tap_en": "A Historic Turning Point: Đổi mới",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 20. Việt Nam từ năm 1976 đến nay",
+  "trang": [
+   105,
+   106,
+   107
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "lạc quan, tự hào",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 20, tr. 105–107.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi lớn: Đổi mới – 12 – 1986",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1986, Đại hội VI của Đảng đề ra đường lối đổi mới toàn diện đất nước – một bước ngoặt lịch sử.",
+     "In December 1986, the Party's Sixth Congress set out a comprehensive renovation policy, Đổi mới – a historic turning point."
+    ],
+    [
+     "Hân Hân",
+     "Vì sao phải đổi mới, và đổi mới những gì? Cùng tìm hiểu nhé!",
+     "Why renovate, and what changed? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    105,
+    106
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: cách mạng khoa học – kĩ thuật; Trung Quốc cải cách (1978); Liên Xô cải tổ (1985); Việt Nam khủng hoảng, bị bao vây, cấm vận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những năm 70, 80, thế giới biến đổi do cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá. Năm 1978, Trung Quốc cải cách, mở cửa; năm 1985, Liên Xô cải tổ.",
+     "In the 1970s and 1980s, the world changed with the scientific and technological revolution and globalisation. In 1978 China began reform and opening up; in 1985 the USSR began restructuring."
+    ],
+    [
+     "Nhật Minh",
+     "Trong nước, Việt Nam lâm vào khủng hoảng kinh tế – xã hội, lại bị bao vây về kinh tế, cô lập về chính trị. Đổi mới trở thành yêu cầu cấp bách.",
+     "At home, Vietnam was in socio-economic crisis, under economic blockade and political isolation. Renovation became an urgent need."
+    ]
+   ],
+   "nguon_trang": [
+    105
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đại hội nào của Đảng đề ra đường lối đổi mới toàn diện đất nước?",
+    "lua_chon": [
+     "Đại hội IV (1976)",
+     "Đại hội VI (12 – 1986)",
+     "Đại hội XIII (2021)"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Đại hội nào đề ra đường lối đổi mới?",
+     "Pause! Which Congress launched Đổi mới?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Đại hội VI, tháng 12 năm 1986!",
+     "The answer is B: the Sixth Congress, December 1986!"
+    ]
+   ],
+   "nguon_trang": [
+    106
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "ghi_nho",
+   "y": [
+    "Xoá bỏ mô hình kinh tế tập trung quan liêu bao cấp",
+    "Kinh tế hàng hoá nhiều thành phần, cơ chế thị trường có sự quản lí của Nhà nước",
+    "Đẩy mạnh công nghiệp hoá – hiện đại hoá; kêu gọi đầu tư nước ngoài",
+    "Nhà nước pháp quyền XHCN; mở rộng đối ngoại, hội nhập quốc tế"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Về kinh tế: xoá bỏ mô hình tập trung quan liêu bao cấp, xây dựng kinh tế hàng hoá nhiều thành phần vận động theo cơ chế thị trường có sự quản lí của Nhà nước, đẩy mạnh công nghiệp hoá – hiện đại hoá.",
+     "Economically: abolish the bureaucratic, subsidised central-planning model; build a multi-sector market economy under state management; push industrialisation and modernisation."
+    ],
+    [
+     "Nhật Minh",
+     "Về chính trị: xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân; mở rộng quan hệ đối ngoại, hội nhập quốc tế toàn diện.",
+     "Politically: build a socialist rule-of-law state of the people, by the people and for the people; broaden foreign relations and integrate fully into the world."
+    ]
+   ],
+   "nguon_trang": [
+    106
+   ],
+   "tieu_de": "NỘI DUNG ĐƯỜNG LỐI ĐỔI MỚI",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Những bước đầu",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh nông dân thu hoạch lúa",
+    "tim": "Vietnam rice harvest",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: nông dân thu hoạch lúa",
+   "loi": [
+    [
+     "Hân Hân",
+     "Trong kế hoạch 5 năm 1986 – 1991, Ba chương trình kinh tế Lương thực – Thực phẩm, Hàng tiêu dùng và Hàng xuất khẩu giúp phục hồi sản xuất; GDP tăng khoảng 4,4% mỗi năm.",
+     "In the 1986–1991 five-year plan, three economic programmes – food, consumer goods and exports – revived production; GDP grew about 4.4% a year."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 1989, sản xuất lương thực đủ ăn, có dự trữ; những tấn gạo, dầu thô đầu tiên của Việt Nam được xuất khẩu.",
+     "From 1989, food production was enough to eat and store; Vietnam exported its first rice and crude oil."
+    ]
+   ],
+   "nguon_trang": [
+    106,
+    107
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1989, Việt Nam lần đầu tiên xuất khẩu những mặt hàng nào?",
+    "lua_chon": [
+     "Gạo và dầu thô",
+     "Ô tô và máy bay",
+     "Điện thoại và máy tính"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Năm 1989, Việt Nam lần đầu xuất khẩu gì?",
+     "EduHistory asks you! What did Vietnam first export in 1989?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: gạo và dầu thô!",
+     "The answer is A: rice and crude oil!"
+    ]
+   ],
+   "nguon_trang": [
+    107
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ở gia đình hoặc địa phương cậu, có những thay đổi nào nhờ công cuộc Đổi mới? Hỏi ông bà, bố mẹ rồi bình luận nhé!",
+     "Your challenge: what changes has Đổi mới brought to your family or area? Ask your grandparents and parents, then tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    106
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1985, nước nào tiến hành công cuộc cải tổ?",
+   "dap_an": [
+    "Liên Xô",
+    "Trung Quốc",
+    "Mỹ",
+    "Nhật Bản"
+   ],
+   "dung": 0,
+   "trang": 105
+  },
+  {
+   "hoi": "Ba chương trình kinh tế trong kế hoạch 5 năm 1986 – 1991 là gì?",
+   "dap_an": [
+    "Lương thực – Thực phẩm, Hàng tiêu dùng, Hàng xuất khẩu",
+    "Điện, Than, Thép",
+    "Ô tô, Đóng tàu, Hàng không",
+    "Giáo dục, Y tế, Văn hoá"
+   ],
+   "dung": 0,
+   "trang": 106
+  },
+  {
+   "hoi": "Tăng trưởng GDP thời kì 1986 – 1991 đạt khoảng bao nhiêu mỗi năm?",
+   "dap_an": [
+    "4,4%",
+    "9,1%",
+    "11%",
+    "1,5%"
+   ],
+   "dung": 0,
+   "trang": 106
+  },
+  {
+   "hoi": "Đường lối đổi mới chủ trương xây dựng nền kinh tế như thế nào?",
+   "dap_an": [
+    "Kinh tế hàng hoá nhiều thành phần, theo cơ chế thị trường có sự quản lí của Nhà nước",
+    "Kinh tế tập trung bao cấp",
+    "Kinh tế tự cấp tự túc",
+    "Kinh tế đóng cửa"
+   ],
+   "dung": 0,
+   "trang": 106
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 105 (nguyên nhân đổi mới: cách mạng KH-KT, toàn cầu hoá; Trung Quốc 1978, Liên Xô 1985; Việt Nam khủng hoảng, bị bao vây, cô lập), tr. 106 (Đại hội VI 12 – 1986; nội dung đường lối về kinh tế, chính trị; Ba chương trình kinh tế; GDP khoảng 4,4%/năm) và tr. 107 (từ năm 1989 đủ ăn, có dự trữ; năm 1989 gạo, dầu thô lần đầu xuất khẩu).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

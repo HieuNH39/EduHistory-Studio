@@ -1,0 +1,396 @@
+{
+ "ma": "L7-B5-05",
+ "ten_tap": "Dòng chảy văn hóa Ấn Độ",
+ "ten_tap_en": "The River of Indian Culture",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 5. Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+  "trang": [
+   29,
+   30,
+   32,
+   33
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ka-li-da-sa"
+ ],
+ "nhac": {
+  "tam_trang": "huyền bí, trang nhã",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 5, tr. 29–33.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, Hân Hân mở cuốn sách ảnh về Ấn Độ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Văn hoá Ấn Độ được ví như một dòng sông dài bắt nguồn từ dãy Hi-ma-lay-a, tiếp nhận thêm nhiều chi lưu.",
+     "Indian culture is likened to a long river rising in the Himalayas and taking in many tributaries."
+    ],
+    [
+     "Nhật Minh",
+     "Vì thế, nó thống nhất trong đa dạng. Cùng xuôi theo dòng chảy văn hoá ấy nhé!",
+     "So it is unity in diversity. Let's follow that cultural river!"
+    ]
+   ],
+   "nguon_trang": [
+    29
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Thời Gúp-ta: đạo Bà La Môn phát triển thành đạo Hin-đu",
+    "Đạo Phật phân hoá thành hai giáo phái, phát triển mạnh thời Gúp-ta",
+    "Đạo Hồi du nhập, thành tôn giáo lớn từ thời Đê-li"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dưới thời Vương triều Gúp-ta, đạo Bà La Môn phát triển thành đạo Hin-đu, tôn giáo thịnh hành ở Ấn Độ cho đến ngày nay.",
+     "Under the Gupta, Brahmanism developed into Hinduism, still India's main religion today."
+    ],
+    [
+     "Hân Hân",
+     "Đạo Phật phân hoá thành hai giáo phái, tiếp tục phát triển mạnh. Đạo Hồi cũng du nhập và trở thành một tôn giáo lớn từ thời Vương triều Đê-li.",
+     "Buddhism split into two schools and kept flourishing. Islam also arrived and became a major religion from the Delhi Sultanate on."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ],
+   "tieu_de": "TÔN GIÁO",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-an-do"
+   ],
+   "hinh": "Dùng lại ảnh L7-B5-03 cảnh 11: thành phố Ấn Độ với mái vòm, tháp của đạo Hồi bên cạnh những ngôi đền Hin-đu, người dân hai tôn giáo cùng đi qua khu chợ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhiều tôn giáo cùng tồn tại đã làm văn hoá Ấn Độ thêm phong phú, đa dạng.",
+     "Many religions living side by side made Indian culture richer and more diverse."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B5-03/canh-11.jpg",
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đạo Hin-đu phát triển từ tôn giáo nào?",
+    "lua_chon": [
+     "Đạo Phật",
+     "Đạo Bà La Môn",
+     "Đạo Hồi"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đạo Hin-đu phát triển từ tôn giáo nào?",
+     "EduHistory asks you! Hinduism developed from which religion?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: đạo Bà La Môn!",
+     "The answer is B: Brahmanism!"
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết – văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ka-li-da-sa"
+   ],
+   "hinh": "Một buổi diễn kịch trong sân cung điện Ấn Độ cổ dưới ánh đuốc: trên sân khấu gỗ chạm khắc, các diễn viên trong trang phục lụa màu và trang sức diễn cảnh một thiếu nữ trong rừng gặp nhà vua; nhạc công ngồi bên trống và đàn; một nhà thơ áo trắng ngồi xem, tay cầm tập lá cọ chép kịch bản",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chữ Phạn đạt đến mức hoàn chỉnh, trở thành ngôn ngữ – văn tự để sáng tác văn học, thơ ca, và là nguồn gốc của chữ viết Hin-đi ngày nay.",
+     "Sanskrit reached perfection and became the language for literature and poetry, and the origin of today's Hindi script."
+    ],
+    [
+     "Hân Hân",
+     "Văn học Ấn Độ hết sức phong phú, với sử thi, kịch thơ, truyện thần thoại, đề cao chủ nghĩa nhân đạo, tư tưởng tự do, ca ngợi tình yêu.",
+     "Indian literature was extremely rich, with epics, verse plays and myths, celebrating humanity, freedom and love."
+    ],
+    [
+     "Nhật Minh",
+     "Nổi tiếng nhất là Ka-li-đa-sa, tác giả vở kịch Sơ-kun-to-la. Đại văn hào Đức Giô-han Gớt đã làm thơ ca ngợi tác phẩm này.",
+     "The most famous was Kalidasa, author of the play Shakuntala. The great German writer Goethe wrote a poem praising it."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiến trúc, điêu khắc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đền Kha-giu-ra-hô, ngôi đền Hin-đu giáo ở Ấn Độ (như Hình 4 SGK, tr. 32)",
+    "tim": "Khajuraho Kandariya Mahadeva temple",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: đền Kha-giu-ra-hô (Ấn Độ)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kiến trúc Ấn Độ chịu ảnh hưởng sâu sắc của ba tôn giáo lớn: Phật giáo, Hin-đu giáo và Hồi giáo. Đây là đền Kha-giu-ra-hô, một ngôi đền Hin-đu giáo.",
+     "Indian architecture was deeply shaped by three great religions: Buddhism, Hinduism and Islam. This is Khajuraho, a Hindu temple."
+    ]
+   ],
+   "nguon_trang": [
+    32
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Chùa hang A-gian-ta (Ấn Độ), tượng Phật tạc trên vách đá (như Hình 5 SGK, tr. 33)",
+    "tim": "Ajanta caves Buddha",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: chùa hang A-gian-ta (Ấn Độ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Còn đây là chùa hang A-gian-ta, có 31 hang động, chủ yếu được xây dựng từ thế kỉ IV đến thế kỉ VIII.",
+     "And this is the Ajanta cave temple complex, with 31 caves, mostly built from the 4th to the 8th century."
+    ],
+    [
+     "Hân Hân",
+     "Từ một dải núi đá khổng lồ, người Ấn Độ tạo nên công trình kì vĩ mà tinh tế. Năm 1983, quần thể này được UNESCO ghi danh là Di sản văn hoá thế giới.",
+     "From a huge rock cliff, Indians created a magnificent yet delicate work. In 1983, UNESCO listed it as a World Heritage site."
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Lăng Hoàng đế A-cơ-ba (Ấn Độ) (như Hình 1 SGK, tr. 29)",
+    "tim": "Akbar's tomb Sikandra",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: lăng Hoàng đế A-cơ-ba (Ấn Độ)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Kiến trúc chịu ảnh hưởng Hồi giáo, như lăng Hoàng đế A-cơ-ba của Vương triều Mô-gôn.",
+     "Islamic influence shows in buildings such as the tomb of Emperor Akbar of the Mughal dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    29,
+    32
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cột sắt không gỉ được đúc vào thế kỉ V (Ấn Độ) (như Hình 2 SGK, tr. 30)",
+    "tim": "Iron pillar of Delhi",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: cột sắt không gỉ (thế kỉ V)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Và đây là cột sắt không gỉ, được đúc từ thế kỉ V, thời Vương triều Gúp-ta.",
+     "And here is the rustless iron pillar, cast in the 5th century under the Gupta dynasty."
+    ]
+   ],
+   "nguon_trang": [
+    30
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chùa hang A-gian-ta được UNESCO ghi danh là Di sản văn hoá thế giới năm nào?",
+    "lua_chon": [
+     "1983",
+     "1993",
+     "2003"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chùa hang A-gian-ta được UNESCO ghi danh năm nào?",
+     "Pause! In which year did UNESCO list the Ajanta caves?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: năm 1983!",
+     "The answer is A: 1983!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "ghi_nho",
+   "y": [
+    "Tôn giáo: Hin-đu giáo, Phật giáo, Hồi giáo",
+    "Chữ Phạn hoàn chỉnh; văn học phong phú – Ka-li-đa-sa, Sơ-kun-to-la",
+    "Kiến trúc: đền Kha-giu-ra-hô, chùa hang A-gian-ta, lăng A-cơ-ba",
+    "Ảnh hưởng ra bên ngoài, nhất là Đông Nam Á"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thời kì này, các thành tựu văn hoá Ấn Độ tiếp tục ảnh hưởng, được truyền bá ra bên ngoài, nhất là khu vực Đông Nam Á.",
+     "In this period, Indian culture kept spreading abroad, especially to Southeast Asia."
+    ],
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: tôn giáo, chữ viết – văn học và kiến trúc là ba điểm sáng của dòng chảy văn hoá Ấn Độ.",
+     "Remember: religion, writing and literature, and architecture are three highlights of India's cultural river."
+    ]
+   ],
+   "nguon_trang": [
+    32,
+    33
+   ],
+   "tieu_de": "DÒNG CHẢY VĂN HOÁ ẤN ĐỘ",
+   "hien_luc_theo_cau": [
+    1,
+    1,
+    1,
+    0
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: kể tên một công trình ở Đông Nam Á chịu ảnh hưởng văn hoá Ấn Độ. Bình luận nhé!",
+     "Your challenge: name a Southeast Asian monument influenced by Indian culture. Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    33
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai là tác giả vở kịch Sơ-kun-to-la?",
+   "dap_an": [
+    "Ka-li-đa-sa",
+    "Giô-han Gớt",
+    "A-cơ-ba",
+    "San-đra Gúp-ta I"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Chữ viết nào là nguồn gốc của chữ Hin-đi ngày nay?",
+   "dap_an": [
+    "Chữ Phạn",
+    "Chữ Hán",
+    "Chữ La-tinh",
+    "Chữ Ả Rập"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Kiến trúc Ấn Độ chịu ảnh hưởng sâu sắc của những tôn giáo nào?",
+   "dap_an": [
+    "Phật giáo, Hin-đu giáo, Hồi giáo",
+    "Nho giáo, Đạo giáo",
+    "Thiên Chúa giáo",
+    "Tin Lành"
+   ],
+   "dung": 0,
+   "trang": 32
+  },
+  {
+   "hoi": "Chùa hang A-gian-ta có bao nhiêu hang động?",
+   "dap_an": [
+    "13",
+    "21",
+    "31",
+    "41"
+   ],
+   "dung": 2,
+   "trang": 33
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 29 (mở đầu dòng sông văn hoá; Hình 1 lăng A-cơ-ba), tr. 30 (Hình 2 cột sắt không gỉ thế kỉ V), tr. 32 (mục 2a tôn giáo, 2b chữ viết – văn học, Ka-li-đa-sa, Sơ-kun-to-la, ô Giô-han Gớt; 2c kiến trúc, Hình 4) và tr. 33 (ô Em có biết A-gian-ta: 31 hang, thế kỉ IV – VIII, UNESCO 1983; ảnh hưởng ra Đông Nam Á). Bài thơ của Gớt không trích nguyên văn, chỉ nói ông làm thơ ca ngợi. Catalog gợi ý mô phỏng 3D → dùng ảnh tư liệu thật của các di tích. Cảnh 4 dùng lại ảnh L7-B5-03 cảnh 11.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

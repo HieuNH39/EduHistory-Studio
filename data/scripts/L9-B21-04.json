@@ -1,0 +1,166 @@
+{
+ "ma": "L9-B21-04",
+ "ten_tap": "Việt Nam và bài toán toàn cầu hoá",
+ "ten_tap_en": "Vietnam and the Globalisation Equation",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 21. Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+  "trang": [
+   114,
+   115
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "nhanh, gợi mở",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 21, tr. 114–115.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng chia đôi: Cơ hội | Thách thức",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Toàn cầu hoá với Việt Nam: vừa là cơ hội, vừa là thách thức. Cùng xem vì sao nhé!",
+     "Globalisation for Vietnam: both opportunity and challenge. Let's see why!"
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh khu công nghiệp hiện đại ở Việt Nam",
+    "tim": "industrial park Vietnam factory",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: khu công nghiệp ở Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cơ hội: tiếp cận vốn đầu tư nước ngoài, khoa học – kĩ thuật tiên tiến, mở rộng thương mại, nâng cao mức sống; tham gia tích cực ASEAN, Liên hợp quốc, nâng cao uy tín quốc gia.",
+     "Opportunities: access to foreign investment and advanced technology, wider trade and higher living standards; an active role in ASEAN and the UN, raising national prestige."
+    ],
+    [
+     "Nhật Minh",
+     "Thách thức: cạnh tranh gay gắt; dễ thành nơi gia công, lắp ráp đơn giản; nguy cơ hoà tan, xói mòn bản sắc văn hoá truyền thống.",
+     "Challenges: fierce competition; the risk of becoming a place of simple assembly; and the danger of cultural dilution and loss of traditional identity."
+    ]
+   ],
+   "nguon_trang": [
+    114,
+    115
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là thách thức của toàn cầu hoá đối với Việt Nam?",
+    "lua_chon": [
+     "Tiếp cận vốn đầu tư nước ngoài",
+     "Nguy cơ xói mòn bản sắc văn hoá truyền thống",
+     "Mở rộng thương mại"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Đâu là thách thức?",
+     "EduHistory asks you! Which is a challenge?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: nguy cơ hoà tan, xói mòn bản sắc văn hoá truyền thống!",
+     "The answer is B: the risk of losing our traditional cultural identity!"
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, học sinh cần làm gì để vừa hội nhập, vừa giữ gìn bản sắc văn hoá Việt Nam? Bình luận nhé!",
+     "How can students integrate globally while keeping Vietnamese culture alive? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    115
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Về chính trị, toàn cầu hoá mở ra cơ hội gì cho Việt Nam?",
+   "dap_an": [
+    "Tham gia tích cực các tổ chức như ASEAN, Liên hợp quốc",
+    "Đóng cửa với thế giới",
+    "Rời khỏi ASEAN",
+    "Không có cơ hội"
+   ],
+   "dung": 0,
+   "trang": 115
+  },
+  {
+   "hoi": "Theo SGK, cách mạng công nghiệp lần thứ tư có thể khiến Việt Nam dễ trở thành gì?",
+   "dap_an": [
+    "Nơi gia công, lắp ráp đơn giản",
+    "Trung tâm công nghệ hàng đầu thế giới",
+    "Nước nông nghiệp lạc hậu",
+    "Nước không có công nghiệp"
+   ],
+   "dung": 0,
+   "trang": 114
+  },
+  {
+   "hoi": "Về văn hoá, toàn cầu hoá giúp Việt Nam điều gì?",
+   "dap_an": [
+    "Tiếp thu tinh hoa văn hoá nhân loại",
+    "Xoá bỏ văn hoá dân tộc",
+    "Cấm giao lưu",
+    "Không thay đổi"
+   ],
+   "dung": 0,
+   "trang": 115
+  },
+  {
+   "hoi": "Vì sao nói toàn cầu hoá vừa là cơ hội, vừa là thách thức?",
+   "dap_an": [
+    "Vì đem lại lợi ích nhưng cũng tạo ra cạnh tranh, nguy cơ",
+    "Vì chỉ có lợi",
+    "Vì chỉ có hại",
+    "Vì không liên quan đến Việt Nam"
+   ],
+   "dung": 0,
+   "trang": 115
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 114 (thách thức: dễ thành nơi gia công, lắp ráp đơn giản) và tr. 115 (tác động đối với Việt Nam: kinh tế – vốn, KH-KT, thương mại, mức sống; chính trị – ASEAN, Liên hợp quốc, uy tín; văn hoá – tiếp thu tinh hoa, nguy cơ xói mòn bản sắc). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

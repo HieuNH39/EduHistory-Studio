@@ -1,0 +1,401 @@
+{
+ "ma": "L6-B9-04",
+ "ten_tap": "Y học và kỹ thuật đỉnh cao",
+ "ten_tap_en": "Medicine and Peak Technology",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 9. Trung Quốc cổ đại",
+  "trang": [
+   41,
+   42,
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "thay-thuoc"
+ ],
+ "nhac": {
+  "tam_trang": "khám phá, kì thú",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 9, tr. 41–43.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, Nhật Minh đặt hai ngón tay lên cổ tay mình như bắt mạch",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Bắt mạch, châm cứu, đúc đồng tinh xảo... Người Trung Quốc cổ đại tài giỏi thế nào nhỉ?",
+     "Pulse reading, acupuncture, fine bronze casting... how skilled were the ancient Chinese?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng khám phá y học và kĩ thuật đỉnh cao của họ nhé!",
+     "Let's explore their medicine and top-level techniques!"
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thiên văn",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-thien-van"
+   ],
+   "hinh": "Đêm đầy sao trên một đài quan sát bằng đất nện thời cổ đại Trung Quốc: hai nhà quan sát mặc áo dài rộng, tóc búi, ngước nhìn vầng trăng tròn và các vì sao, một người ghi chép lên thẻ tre; xa xa là mái nhà của một kinh thành cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thời cổ đại, người Trung Quốc đã sớm biết quan sát thiên văn, đặt ra lịch âm – dương, kết hợp chu kì Mặt Trăng và Mặt Trời.",
+     "Early on, the Chinese observed the sky and made a lunisolar calendar combining the cycles of the Moon and the Sun."
+    ],
+    [
+     "Hân Hân",
+     "Cam thạch tinh kinh được biết đến là bảng ghi chép các hành tinh xưa nhất thế giới.",
+     "The Gan-Shi Star Catalogue is known as the world's oldest record of the planets."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Lịch âm – dương của người Trung Quốc kết hợp chu kì của những gì?",
+    "lua_chon": [
+     "Mặt Trăng và Mặt Trời",
+     "Các mùa mưa",
+     "Nước lên xuống của sông"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Lịch âm – dương kết hợp chu kì của gì?",
+     "EduHistory asks you! A lunisolar calendar combines which cycles?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Mặt Trăng và Mặt Trời!",
+     "The answer is A: the Moon and the Sun!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Y học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thay-thuoc"
+   ],
+   "hinh": "Dùng lại ảnh L7-B4-04 cảnh 13: phòng thuốc cổ truyền, tủ gỗ nhiều ngăn đựng thảo dược, thầy thuốc già châm cứu cho người bệnh, học trò ghi chép",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các nhà y học Trung Quốc thời cổ đại đã biết giải phẫu cơ thể con người; biết chẩn đoán bệnh bằng cách nhìn, nghe, bắt mạch; biết châm cứu và sắc thuốc để trị bệnh.",
+     "Ancient Chinese physicians knew anatomy; diagnosed by looking, listening and taking the pulse; and treated illness with acupuncture and herbal decoctions."
+    ],
+    [
+     "Hân Hân",
+     "Hoàng Đế nội kinh và Thần Nông bản thảo kinh là hai bộ sách y học có giá trị lớn.",
+     "The Yellow Emperor's Inner Classic and Shennong's Herbal Classic are two medical books of great value."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B4-04/canh-13.jpg",
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng, Hân Hân giơ một tấm thẻ ghi Biên Thước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Biên Thước là một trong Tứ đại danh y của Trung Quốc, được cho là người khai sinh ra phương pháp bắt mạch và đặt nền tảng cho Đông y.",
+     "Bian Que, one of China's Four Great Physicians, is said to have pioneered pulse diagnosis and laid the foundation of Eastern medicine."
+    ],
+    [
+     "Nhật Minh",
+     "Sử gia Tư Mã Thiên từng ca ngợi: Đến nay thiên hạ nói đến mạch là do Biên Thước vậy.",
+     "The historian Sima Qian praised: whenever people today speak of the pulse, it is thanks to Bian Que."
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 8,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai được cho là người khai sinh ra phương pháp bắt mạch?",
+    "lua_chon": [
+     "Khổng Tử",
+     "Biên Thước",
+     "Khuất Nguyên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Ai khai sinh ra phương pháp bắt mạch?",
+     "Pause! Who pioneered pulse diagnosis?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: Biên Thước!",
+     "The answer is B: Bian Que!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Đúc đồng",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Đồ đồng thời nhà Thương (như Hình 5 SGK tr. 43)",
+    "tim": "Shang dynasty bronze ding",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: đồ đồng thời nhà Thương",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kĩ thuật đúc đồng của người Trung Quốc sớm đạt đến đỉnh cao. Từ thời nhà Thương, cư dân đã biết đúc đồng làm công cụ, vũ khí và đồ tế lễ.",
+     "Chinese bronze casting peaked early. From the Shang, people cast bronze tools, weapons and ritual vessels."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nhac-cong"
+   ],
+   "hinh": "Dùng lại ảnh L6-B9-02 cảnh 9: cận cảnh chiếc chuông đồng thời Chu, thân chuông phủ hoa văn và những hàng chữ khắc cổ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sang thời nhà Chu, đồ đồng ngày càng đa dạng và tinh xảo, phản ánh trình độ kĩ thuật cao. Như chuông đồng này, trên thân có khắc hoa văn và chữ viết.",
+     "Under the Zhou, bronzes grew more varied and refined, showing high skill, like this bell carved with patterns and writing."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B9-02/canh-09.jpg",
+   "nguon_trang": [
+    41,
+    43
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kiến trúc",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 13,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-co-dai"
+   ],
+   "hinh": "Dùng lại ảnh L6-B9-02 cảnh 6: công trường xây cung điện thời cổ, người dân dùng chày gỗ nện chặt từng lớp đất trong khuôn ván để đắp tường",
+   "loi": [
+    [
+     "Hân Hân",
+     "Dưới thời nhà Thương và nhà Chu đã xuất hiện cung điện, thành quách và khu mộ táng của tầng lớp thống trị.",
+     "Under the Shang and Zhou, palaces, walled cities and elite tombs appeared."
+    ],
+    [
+     "Nhật Minh",
+     "Người xưa đã có kĩ thuật xây tường đất nện, bố cục không gian khá quy củ, đặt nền móng cho kiến trúc Trung Quốc về sau.",
+     "Builders used rammed-earth walls and orderly layouts, laying the foundation for later Chinese architecture."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B9-02/canh-06.jpg",
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Di chỉ khảo cổ học An Khư, tỉnh Hà Nam, Trung Quốc (như Hình 6 SGK tr. 43)",
+    "tim": "Yinxu Anyang",
+    "yeu_cau": "ảnh tư liệu có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: di chỉ An Khư (Hà Nam, Trung Quốc)",
+   "loi": [
+    [
+     "Hân Hân",
+     "An Khư là di chỉ khảo cổ quan trọng có niên đại từ thời nhà Thương. Tại đây, các nhà khảo cổ đã phát hiện nền cung điện, mộ táng, đồ đồng và chữ khắc trên xương thú, mai rùa.",
+     "Yinxu is a key Shang-era site where archaeologists found palace foundations, tombs, bronzes and inscribed bones and shells."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2006, di chỉ An Khư được UNESCO ghi danh là Di sản văn hoá thế giới.",
+     "In 2006, UNESCO listed Yinxu as a World Cultural Heritage site."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 15,
+   "lop": "ghi_nho",
+   "y": [
+    "Thiên văn: lịch âm – dương; Cam thạch tinh kinh",
+    "Y học: bắt mạch, châm cứu, sắc thuốc; Biên Thước",
+    "Đúc đồng: từ thời Thương, tinh xảo thời Chu",
+    "Kiến trúc: cung điện, tường đất nện; di chỉ An Khư"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ nhé: lịch âm – dương và bảng ghi chép hành tinh xưa nhất thế giới; Biên Thước đặt nền tảng cho Đông y.",
+     "Remember: a lunisolar calendar and the oldest planet record; Bian Que founded Eastern medicine."
+    ],
+    [
+     "Hân Hân",
+     "Kĩ thuật đúc đồng và xây dựng cung điện đạt trình độ cao.",
+     "Bronze casting and palace building reached a high level."
+    ]
+   ],
+   "nguon_trang": [
+    42,
+    43
+   ],
+   "tieu_de": "Y HỌC VÀ KĨ THUẬT ĐỈNH CAO",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 16,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong bảo tàng nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: ở Việt Nam ngày nay, cậu thấy dấu ấn nào của Đông y như bắt mạch hay châm cứu không? Bình luận nhé!",
+     "Your challenge: do you see traces of Eastern medicine, like pulse reading or acupuncture, in Vietnam today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    42
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Bảng ghi chép các hành tinh xưa nhất thế giới có tên là gì?",
+   "dap_an": [
+    "Cam thạch tinh kinh",
+    "Kinh Thi",
+    "Hoàng Đế nội kinh",
+    "Tả truyện"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Các nhà y học Trung Quốc cổ đại chẩn đoán bệnh bằng cách nào?",
+   "dap_an": [
+    "Nhìn, nghe, bắt mạch",
+    "Chụp X-quang",
+    "Xét nghiệm máu",
+    "Đo nhiệt kế"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Hai bộ sách y học có giá trị lớn của Trung Quốc cổ đại là gì?",
+   "dap_an": [
+    "Hoàng Đế nội kinh và Thần Nông bản thảo kinh",
+    "Kinh Thi và Sở Từ",
+    "Xuân Thu và Tả truyện",
+    "I-li-át và Ô-đi-xê"
+   ],
+   "dung": 0,
+   "trang": 42
+  },
+  {
+   "hoi": "Di chỉ An Khư được UNESCO ghi danh là Di sản văn hoá thế giới năm nào?",
+   "dap_an": [
+    "2006",
+    "1990",
+    "2016",
+    "1999"
+   ],
+   "dung": 0,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 41 (chuông đồng thời Chu), tr. 42 (lịch âm – dương; Cam thạch tinh kinh; y học: giải phẫu, nhìn, nghe, bắt mạch, châm cứu, sắc thuốc; Hoàng Đế nội kinh, Thần Nông bản thảo kinh; ô Biên Thước – Tư Mã Thiên) và tr. 43 (đúc đồng thời Thương, Chu; cung điện, thành quách, tường đất nện; ô An Khư – UNESCO 2006). Dùng lại ảnh L7-B4-04 cảnh 13, L6-B9-02 cảnh 6, 9; một cảnh tái hiện mới (quan sát thiên văn).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

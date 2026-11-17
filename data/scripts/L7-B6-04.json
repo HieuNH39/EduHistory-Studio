@@ -1,0 +1,335 @@
+{
+ "ma": "L7-B6-04",
+ "ten_tap": "Tôn giáo và những trang viết đầu tiên",
+ "ten_tap_en": "Religions and the First Written Pages",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 6. Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+  "trang": [
+   37,
+   38
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nha-su-dong-nam-a"
+ ],
+ "nhac": {
+  "tam_trang": "nhẹ nhàng, khám phá",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 6, tr. 37–38.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện trường, trên bàn là một cuốn sách có chữ Nôm",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người Việt có chữ Nôm, người Thái có chữ Thái, người Lào có chữ Lào. Các chữ viết ấy ra đời khi nào?",
+     "The Vietnamese had Nôm, the Thai had Thai script, the Lao had Lao script. When did these scripts appear?"
+    ],
+    [
+     "Hân Hân",
+     "Hôm nay, cùng tìm hiểu tôn giáo và chữ viết, văn học Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI nhé!",
+     "Today, let's explore religion, writing and literature in Southeast Asia from the late 10th to the early 16th century!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tín ngưỡng – tôn giáo",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nha-su-dong-nam-a"
+   ],
+   "hinh": "Sân một ngôi chùa Phật giáo mái nhọn nhiều tầng ở Đông Nam Á thế kỉ XIV: các nhà sư áo vàng cam ngồi dạy chữ cho trẻ em trên chiếu dưới gốc cây bồ đề; người dân mang hoa, xôi đến lễ chùa; bảo tháp trắng hình chuông phía sau",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Từ thế kỉ XIII, dòng Phật giáo tiểu thừa được truyền bá và phổ biến ở Đông Nam Á: ở Lan Xang, Cam-pu-chia, các vương quốc của người Thái, người Miến Điện.",
+     "From the 13th century, Theravada Buddhism spread across Southeast Asia: to Lan Xang, Cambodia, and the kingdoms of the Thai and the Burmese."
+    ],
+    [
+     "Hân Hân",
+     "Nhiều ngôi chùa mới được xây dựng, không chỉ là nơi thờ phụng mà còn là trung tâm văn hoá thời bấy giờ.",
+     "Many new temples were built, not only for worship but as cultural centres of the time."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Công viên lịch sử Su-khô-thay, Thái Lan (như Hình 3 SGK, tr. 37)",
+    "tim": "Sukhothai Historical Park Wat Mahathat",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: Công viên lịch sử Su-khô-thay (Thái Lan)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đây là Công viên lịch sử Su-khô-thay, trung tâm Phật giáo lớn nhất Thái Lan thế kỉ XIV.",
+     "This is Sukhothai Historical Park, the largest Buddhist centre in 14th-century Thailand."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "thuong-nhan-a-rap"
+   ],
+   "hinh": "Một bến cảng trên đảo Gia-va thế kỉ XIII: những chiếc thuyền buồm của thương nhân Ả Rập và Ấn Độ cập bến; các thương nhân khăn xếp, áo choàng dài trò chuyện với người dân bản địa đội mũ vải, mặc xà rông; phía sau đang dựng một ngôi đền mái nhiều tầng bằng gỗ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hồi giáo cũng theo chân các thương nhân Ả Rập, Ấn Độ du nhập vào Đông Nam Á vào thế kỉ XII – XIII.",
+     "Islam also came to Southeast Asia with Arab and Indian traders in the 12th–13th centuries."
+    ],
+    [
+     "Nhật Minh",
+     "Những thế kỉ sau đó, hàng loạt tiểu quốc Hồi giáo ra đời và Hồi giáo trở thành quốc giáo.",
+     "In the following centuries, many Muslim states arose and Islam became a state religion."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Hồi giáo du nhập vào Đông Nam Á theo chân ai?",
+    "lua_chon": [
+     "Các nhà sư Trung Quốc",
+     "Thương nhân Ả Rập, Ấn Độ",
+     "Quân Mông – Nguyên"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Hồi giáo du nhập vào Đông Nam Á theo chân ai?",
+     "EduHistory asks you! With whom did Islam come to Southeast Asia?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thương nhân Ả Rập, Ấn Độ!",
+     "The answer is B: Arab and Indian traders!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chữ viết – văn học",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-lai-dong-nam-a"
+   ],
+   "hinh": "Dùng lại ảnh L7-B6-02 cảnh 6: viên quan Gia-va khắc chữ lên những tấm lá buông; viên quan Đại Việt viết bằng bút lông trên giấy",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ XIII, chữ Thái được hình thành dựa trên hệ thống chữ Phạn của người Ấn. Khoảng thế kỉ XIV, chữ Lào ra đời.",
+     "In the early 13th century, Thai script was formed from the Indian Sanskrit system. Around the 14th century, Lao script appeared."
+    ],
+    [
+     "Hân Hân",
+     "Trên cơ sở học tập chữ Hán, người Việt đã tạo ra chữ Nôm.",
+     "Learning from Chinese characters, the Vietnamese created Nôm script."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B6-02/canh-06.jpg",
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Chữ Thái (đầu thế kỉ XIII) – dựa trên chữ Phạn",
+    "Chữ Lào (khoảng thế kỉ XIV)",
+    "Chữ Nôm (người Việt) – dựa trên chữ Hán"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ghi nhớ: chữ Thái, chữ Lào, chữ Nôm, những chữ viết riêng của các dân tộc Đông Nam Á.",
+     "Remember: Thai, Lao and Nôm, the peoples' own scripts in Southeast Asia."
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ],
+   "tieu_de": "CHỮ VIẾT RIÊNG",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "In-đô-nê-xi-a: Sách của các ông vua, trường ca Ne-ga-rắc Re-ta-ga-ma",
+    "Ma-lai-xi-a: Truyện sử Mã Lai (khuyết danh)"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Bên cạnh văn học dân gian, dòng văn học viết xuất hiện và phát triển nhanh.",
+     "Alongside folk literature, written literature appeared and grew fast."
+    ],
+    [
+     "Nhật Minh",
+     "Ở In-đô-nê-xi-a có Sách của các ông vua, trường ca Ne-ga-rắc Re-ta-ga-ma. Ở Ma-lai-xi-a có Truyện sử Mã Lai, phản ánh sự hưng thịnh của Vương quốc Ma-lắc-ca.",
+     "Indonesia had the Book of Kings and the epic Nagarakretagama. Malaysia had the Malay Annals, reflecting Malacca's prosperity."
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "tieu_de": "VĂN HỌC VIẾT",
+   "hien_luc_theo_cau": [
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Việt tạo ra chữ Nôm trên cơ sở học tập chữ viết nào?",
+    "lua_chon": [
+     "Chữ Phạn",
+     "Chữ Hán",
+     "Chữ La-tinh"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chữ Nôm được tạo ra trên cơ sở học tập chữ viết nào?",
+     "Pause! Nôm was created by learning from which script?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: chữ Hán!",
+     "The answer is B: Chinese characters!"
+    ]
+   ],
+   "nguon_trang": [
+    37
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong thư viện, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: việc các dân tộc Đông Nam Á sáng tạo ra chữ viết riêng có ý nghĩa gì? Bình luận nhé!",
+     "Your challenge: what did it mean for Southeast Asian peoples to create their own scripts? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    38
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ thế kỉ XIII, dòng Phật giáo nào được truyền bá và phổ biến ở Đông Nam Á?",
+   "dap_an": [
+    "Phật giáo tiểu thừa",
+    "Phật giáo đại thừa",
+    "Thiền tông",
+    "Mật tông"
+   ],
+   "dung": 0,
+   "trang": 37
+  },
+  {
+   "hoi": "Chữ Thái được hình thành dựa trên chữ viết nào?",
+   "dap_an": [
+    "Chữ Hán",
+    "Chữ Phạn",
+    "Chữ Ả Rập",
+    "Chữ La-tinh"
+   ],
+   "dung": 1,
+   "trang": 37
+  },
+  {
+   "hoi": "Chữ Lào ra đời vào khoảng thế kỉ nào?",
+   "dap_an": [
+    "Thế kỉ X",
+    "Thế kỉ XII",
+    "Thế kỉ XIV",
+    "Thế kỉ XVI"
+   ],
+   "dung": 2,
+   "trang": 37
+  },
+  {
+   "hoi": "Tác phẩm Truyện sử Mã Lai phản ánh sự hưng thịnh của vương quốc nào?",
+   "dap_an": [
+    "Ma-lắc-ca",
+    "Lan Xang",
+    "Su-khô-thay",
+    "Pa-gan"
+   ],
+   "dung": 0,
+   "trang": 38
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 37 (mục 3a: Phật giáo tiểu thừa từ thế kỉ XIII, chùa là trung tâm văn hoá; Hình 3 Su-khô-thay; Hồi giáo thế kỉ XII – XIII; mục 3b: chữ Thái, chữ Lào, chữ Nôm) và tr. 38 (văn học viết In-đô-nê-xi-a, Ma-lai-xi-a; câu hỏi ý nghĩa chữ viết riêng). Cảnh 9 dùng lại ảnh L7-B6-02 cảnh 6.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

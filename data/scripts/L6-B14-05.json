@@ -1,0 +1,185 @@
+{
+ "ma": "L6-B14-05",
+ "ten_tap": "Tục lệ độc đáo của tổ tiên",
+ "ten_tap_en": "Our Ancestors' Unique Customs",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 14. Nhà nước Văn Lang, Âu Lạc",
+  "trang": [
+   63,
+   64
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-viet-co"
+ ],
+ "nhac": {
+  "tam_trang": "ấm cúng, tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 14, tr. 63–64.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm chiếc bánh chưng mô hình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bánh chưng ngày Tết có từ bao giờ? Từ thời tổ tiên Văn Lang đấy!",
+     "When did Tết's square rice cake begin? Back in our Văn Lang ancestors' time!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Khung dọc 9:16. Trong ngôi nhà sàn thời Văn Lang, một gia đình người Việt cổ thời đồ đồng: người cha để tóc búi, đóng khố, trên cánh tay có hình xăm hoa văn đơn giản; người mẹ mặc yếm, váy, mỉm cười để lộ hàm răng nhuộm đen; họ bày những chiếc bánh chưng vuông gói lá xanh, bánh giày tròn trắng và trầu cau lên một chiếc bàn thờ tổ tiên bằng gỗ; em nhỏ ngồi bên cạnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân Văn Lang, Âu Lạc có tục thờ cúng tổ tiên, và thờ các vị thần trong tự nhiên như thần Sông, thần Núi, thần Mặt Trời.",
+     "The people of Văn Lang and Âu Lạc worshipped their ancestors and nature gods such as the gods of rivers, mountains and the Sun."
+    ],
+    [
+     "Hân Hân",
+     "Người Việt cổ có tục xăm mình, nhuộm răng đen, ăn trầu, làm bánh chưng, bánh giày.",
+     "They tattooed their bodies, blackened their teeth, chewed betel, and made bánh chưng and bánh giày."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Mặt trống đồng Ngọc Lũ với hình người múa hát (như Hình 6, 8 SGK tr. 63 – 64)",
+    "tim": "Ngọc Lũ bronze drum",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn"
+   },
+   "hinh": "Tư liệu: mặt trống đồng Ngọc Lũ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Các lễ hội gắn với nền nông nghiệp trồng lúa nước cũng được tổ chức thường xuyên, như hình người múa hát trên trống đồng.",
+     "Festivals tied to wet-rice farming were held often, as the dancing figures on bronze drums show."
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người Việt cổ có tục lệ nào sau đây?",
+    "lua_chon": [
+     "Nhuộm răng đen, ăn trầu",
+     "Ướp xác",
+     "Viết chữ hình nêm"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Tục lệ nào là của người Việt cổ?",
+     "EduHistory asks you! Which custom belonged to the ancient Vietnamese?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: nhuộm răng đen, ăn trầu!",
+     "The answer is A: blackening teeth and chewing betel!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Lễ hội Đền Hùng tổ chức vào ngày 10 tháng 3 âm lịch hằng năm có ý nghĩa như thế nào? Bình luận nhé!",
+     "What does the Hùng Kings Temple Festival, held every 10th day of the 3rd lunar month, mean? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    64
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cư dân Văn Lang, Âu Lạc thờ những ai?",
+   "dap_an": [
+    "Tổ tiên và các vị thần tự nhiên",
+    "Thần Dớt",
+    "Thần Mặt Trời Ra",
+    "Không thờ ai"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Loại bánh nào được người Việt cổ làm?",
+   "dap_an": [
+    "Bánh chưng, bánh giày",
+    "Bánh mì",
+    "Bánh pi-da",
+    "Bánh quy"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Lễ hội của cư dân Văn Lang, Âu Lạc gắn với điều gì?",
+   "dap_an": [
+    "Nền nông nghiệp trồng lúa nước",
+    "Nghề đi biển xa",
+    "Buôn bán gia vị",
+    "Chăn nuôi ngựa"
+   ],
+   "dung": 0,
+   "trang": 64
+  },
+  {
+   "hoi": "Lễ hội Đền Hùng được tổ chức vào ngày nào?",
+   "dap_an": [
+    "10 – 3 âm lịch",
+    "1 – 1 âm lịch",
+    "2 – 9",
+    "15 – 8 âm lịch"
+   ],
+   "dung": 0,
+   "trang": 64
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 64 (mục 3b: thờ cúng tổ tiên, thần Sông, thần Núi, thần Mặt Trời; xăm mình, nhuộm răng đen, ăn trầu, bánh chưng, bánh giày; lễ hội gắn với lúa nước; Hình 8 người múa hát trên trống đồng; Vận dụng 3 lễ hội Đền Hùng 10 – 3 âm lịch). Khung dọc; một cảnh tái hiện mới (gia đình Việt cổ dâng bánh chưng, bánh giày).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

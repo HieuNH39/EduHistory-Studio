@@ -1,0 +1,215 @@
+{
+ "ma": "L7-B12-04",
+ "ten_tap": "Vì sao ta lại giảng hòa?",
+ "ten_tap_en": "Why Did We Make Peace?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 12. Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+  "trang": [
+   60,
+   61
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ly-thuong-kiet",
+  "quach-quy"
+ ],
+ "nhac": {
+  "tam_trang": "lắng đọng, tự hào",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 12, tr. 60–61.",
+ "chinh_sach_hinh": "Không tạo ảnh mới: cảnh tái hiện dùng lại ảnh đã duyệt của L7-B12-03 (trường \"anh\", khung dọc cắt giữa ảnh); hai bạn dẫn chuyện, thẻ ghi nhớ, câu hỏi dựng bằng code.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Nhật Minh thắc mắc, Hân Hân giải thích",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân ta đang thắng lớn trên sông Như Nguyệt, vậy mà Lý Thường Kiệt lại đề nghị giảng hoà. Vì sao nhỉ?",
+     "We were winning big on the Như Nguyệt River, yet Lý Thường Kiệt proposed peace. Why?"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet",
+    "quach-quy"
+   ],
+   "hinh": "Dùng lại ảnh L7-B12-03 cảnh 9 (khung dọc cắt giữa ảnh): sứ giả nhà Lý mang thư giảng hoà đến doanh trại quân Tống, Quách Quỳ đọc thư",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cuối mùa xuân năm 1077, quân ta vượt sông đánh thẳng vào doanh trại giặc. Quân Tống thua to, lâm vào thế tuyệt vọng.",
+     "In late spring 1077, our troops crossed the river and struck the enemy camp. The Song suffered a heavy defeat and were desperate."
+    ],
+    [
+     "Nhật Minh",
+     "Lúc ấy, Lý Thường Kiệt chủ động đề nghị giảng hoà, thực chất là cho quân Tống một lối thoát.",
+     "Then Lý Thường Kiệt proposed peace, in fact giving the Song a way out."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B12-03/canh-09.jpg",
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Không nhọc tướng tá",
+    "Khỏi tốn máu mủ",
+    "Bảo toàn được tông miếu"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Sử sách nhận xét: làm như thế không nhọc tướng tá, khỏi tốn máu mủ, mà bảo toàn được tông miếu.",
+     "Historians noted: this spared the generals, saved bloodshed and preserved the ancestral temples."
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ],
+   "tieu_de": "VÌ SAO GIẢNG HOÀ?",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đề nghị giảng hoà của Lý Thường Kiệt thực chất là gì?",
+    "lua_chon": [
+     "Đầu hàng quân Tống",
+     "Cho quân Tống một lối thoát",
+     "Xin quân Tống giúp đỡ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Đề nghị giảng hoà thực chất là gì?",
+     "EduHistory asks you! What was the peace offer really?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: cho quân Tống một lối thoát!",
+     "The answer is B: giving the Song a way out!"
+    ]
+   ],
+   "nguon_trang": [
+    60
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ly-thuong-kiet"
+   ],
+   "hinh": "Dùng lại ảnh L7-B12-03 cảnh 10 (khung dọc cắt giữa ảnh): Lý Thường Kiệt đứng trên bờ đê nhìn quân Tống rút xa dần",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Tống vội vã rút về nước. Cuộc xâm lược của nhà Tống bị đánh tan, nền độc lập được bảo vệ vững chắc.",
+     "The Song hurried home. Their invasion was crushed and independence was firmly defended."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B12-03/canh-10.jpg",
+   "nguon_trang": [
+    60,
+    61
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu nhận xét gì về cách kết thúc chiến tranh của Lý Thường Kiệt? Bình luận nhé!",
+     "What do you think of how Lý Thường Kiệt ended the war? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    61
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cuối mùa xuân năm 1077, quân Lý làm gì trên phòng tuyến Như Nguyệt?",
+   "dap_an": [
+    "Rút lui về Thăng Long",
+    "Vượt sông đánh thẳng vào doanh trại giặc",
+    "Đầu hàng quân Tống",
+    "Cầu viện Chăm-pa"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Ai chỉ huy quân bộ nhà Tống năm 1077?",
+   "dap_an": [
+    "Hoà Mâu",
+    "Quách Quỳ",
+    "Hầu Nhân Bảo",
+    "Liễu Thăng"
+   ],
+   "dung": 1,
+   "trang": 60
+  },
+  {
+   "hoi": "Theo sử sách, giảng hoà giúp điều gì?",
+   "dap_an": [
+    "Không nhọc tướng tá, khỏi tốn máu mủ, bảo toàn tông miếu",
+    "Chiếm thêm đất của nhà Tống",
+    "Được nhà Tống cống nạp",
+    "Kéo dài chiến tranh"
+   ],
+   "dung": 0,
+   "trang": 61
+  },
+  {
+   "hoi": "Chiến thắng trên phòng tuyến Như Nguyệt thể hiện sự lãnh đạo tài ba của ai?",
+   "dap_an": [
+    "Lý Công Uẩn",
+    "Lý Thường Kiệt",
+    "Trần Quốc Tuấn",
+    "Lê Hoàn"
+   ],
+   "dung": 1,
+   "trang": 61
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 60 (cuối mùa xuân 1077 vượt sông, 'giảng hoà' thực chất là cho quân Tống một lối thoát) và tr. 61 (tư liệu 3: không nhọc tướng tá, khỏi tốn máu mủ, bảo toàn tông miếu; ý nghĩa). Khung dọc; không tạo ảnh mới: dùng lại ảnh L7-B12-03 cảnh 9, 10 (cắt giữa ảnh).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

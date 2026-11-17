@@ -1,0 +1,210 @@
+{
+ "ma": "L6-B6-04",
+ "ten_tap": "Tổng kết: Từ công xã đến quốc gia",
+ "ten_tap_en": "Summary: From Clan to Country",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 6. Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+  "trang": [
+   24,
+   25,
+   26,
+   27
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-nguyen-thuy"
+ ],
+ "nhac": {
+  "tam_trang": "nhanh, sôi nổi",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 6, tr. 24–27.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Nhật Minh bấm đồng hồ bấm giờ",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tổng kết siêu tốc: từ công xã đến quốc gia! Bắt đầu!",
+     "Speed summary: from clan to country! Go!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy"
+   ],
+   "hinh": "Dùng lại ảnh L6-B6-01 cảnh 3 (khung dọc cắt giữa ảnh): sáng sớm sau đám cháy rừng, người nguyên thuỷ bới tro, giơ lên cục kim loại đỏ sẫm",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vào khoảng thiên niên kỉ IV trước Công nguyên, người nguyên thuỷ phát hiện ra kim loại để chế tạo công cụ và vũ khí.",
+     "Around the 4th millennium BCE, primitive people discovered metal for making tools and weapons."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B6-01/canh-03.jpg",
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-nguyen-thuy"
+   ],
+   "hinh": "Dùng lại ảnh L6-B6-03 cảnh 11 (khung dọc cắt giữa ảnh): cánh đồng lúa ven sông thời đồ đồng, người điều khiển chiếc cày gỗ lắp lưỡi đồng do bò kéo",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Sản xuất phát triển, của cải dư thừa, xã hội phân hoá giàu nghèo, và xã hội nguyên thuỷ dần tan rã.",
+     "Production grew, surplus appeared, society split into rich and poor, and primitive society broke apart."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B6-03/canh-11.jpg",
+   "nguon_trang": [
+    25,
+    26
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-viet-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B14-01 cảnh 10 (khung dọc cắt giữa ảnh): toàn cảnh đồng bằng ven sông lúc bình minh, làng mạc nhà sàn, ruộng lúa, thuyền",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Việt Nam, qua các nền văn hoá Phùng Nguyên, Đồng Đậu, Gò Mun, cư dân định cư lâu dài ven sông Hồng, sông Mã, sông Thu Bồn, sông Đồng Nai.",
+     "In Vietnam, through the Phùng Nguyên, Đồng Đậu and Gò Mun cultures, people settled along the Red, Mã, Thu Bồn and Đồng Nai rivers."
+    ],
+    [
+     "Nhật Minh",
+     "Đó là cơ sở cho sự xuất hiện các quốc gia cổ đầu tiên trên đất nước Việt Nam!",
+     "That laid the ground for the first ancient states in Vietnam!"
+    ]
+   ],
+   "anh": "assets/episodes/L6-B14-01/canh-10.jpg",
+   "nguon_trang": [
+    26,
+    27
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Người nguyên thuỷ phát hiện ra kim loại vào khoảng thời gian nào?",
+    "lua_chon": [
+     "Thiên niên kỉ IV TCN",
+     "Thế kỉ I",
+     "Năm 1000"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Kim loại được phát hiện vào khoảng thời gian nào?",
+     "EduHistory asks you! When was metal discovered?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: khoảng thiên niên kỉ IV trước Công nguyên!",
+     "The answer is A: around the 4th millennium BCE!"
+    ]
+   ],
+   "nguon_trang": [
+    24
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Theo cậu, sự xuất hiện của kim loại đã tác động thế nào tới đời sống con người? Bình luận nhé!",
+     "How do you think metal changed people's lives? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    27
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Sắt được phát hiện muộn hơn đồng nhưng được sử dụng rộng rãi vì sao?",
+   "dap_an": [
+    "Vì cứng hơn đồng",
+    "Vì đẹp hơn",
+    "Vì nhẹ hơn",
+    "Vì rẻ hơn vàng"
+   ],
+   "dung": 0,
+   "trang": 24
+  },
+  {
+   "hoi": "Nền văn hoá đồ đồng nào ở Bắc Bộ có hiện vật đồng chiếm hơn một nửa số hiện vật tìm được?",
+   "dap_an": [
+    "Gò Mun",
+    "Phùng Nguyên",
+    "Đồng Đậu",
+    "Đồng Nai"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Văn hoá tiền Sa Huỳnh thuộc khu vực nào?",
+   "dap_an": [
+    "Trung Bộ",
+    "Bắc Bộ",
+    "Nam Bộ",
+    "Tây Nguyên"
+   ],
+   "dung": 0,
+   "trang": 26
+  },
+  {
+   "hoi": "Cư dân định cư lâu dài ven các con sông lớn là cơ sở cho điều gì?",
+   "dap_an": [
+    "Sự xuất hiện các quốc gia cổ đầu tiên ở Việt Nam",
+    "Sự tan rã của làng xóm",
+    "Sự ra đời của chữ viết La-tinh",
+    "Sự xuất hiện của Vượn người"
+   ],
+   "dung": 0,
+   "trang": 27
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 24 (kim loại khoảng thiên niên kỉ IV TCN; sắt cứng hơn đồng), tr. 25 (của cải dư thừa, phân hoá, tan rã), tr. 26 (sơ đồ văn hoá Phùng Nguyên, Đồng Đậu, Gò Mun, tiền Sa Huỳnh, Đồng Nai) và tr. 27 (định cư ven sông Hồng, sông Mã, sông Thu Bồn, sông Đồng Nai – cơ sở các quốc gia cổ đầu tiên; Vận dụng 1). Khung dọc; dùng lại ảnh L6-B6-01 cảnh 3, L6-B6-03 cảnh 11, L6-B14-01 cảnh 10.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

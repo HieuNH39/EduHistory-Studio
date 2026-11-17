@@ -1,0 +1,172 @@
+{
+ "ma": "L9-CD2-03",
+ "ten_tap": "Biến đổi khí hậu: Chuyện không của riêng ai",
+ "ten_tap_en": "Climate Change: Everyone's Business",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long (2)",
+  "trang": [
+   227,
+   229
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "khẩn thiết, nhẹ nhàng",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 2, tr. 227–229.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng vẽ nhiệt kế đỏ và đường sóng biển dâng",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Biến đổi khí hậu đang hiện diện ngay ở hai vùng châu thổ sông Hồng và sông Cửu Long. Biểu hiện là gì?",
+     "Climate change is already here in the Red River and Mekong deltas. What are the signs?"
+    ]
+   ],
+   "nguon_trang": [
+    227
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "ghi_nho",
+   "y": [
+    "Nhiệt độ trung bình năm tăng (1961 – 2020)",
+    "Lượng mưa biến động qua các thập niên",
+    "Thời tiết cực đoan bất thường, khó dự báo",
+    "Mực nước biển dâng trung bình 2,7 mm/năm"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Từ năm 1961 đến năm 2020, nhiệt độ trung bình năm ở trạm Thái Bình và Cần Thơ đều tăng; lượng mưa biến động qua các thập niên.",
+     "From 1961 to 2020, average annual temperatures at the Thái Bình and Cần Thơ stations rose; rainfall fluctuated across decades."
+    ],
+    [
+     "Nhật Minh",
+     "Thời tiết cực đoan bất thường, khó dự báo hơn; mực nước biển ven hai châu thổ dâng trung bình 2,7 mi-li-mét mỗi năm.",
+     "Extreme weather became more erratic and harder to forecast; sea level along both deltas rose by an average 2.7 millimetres a year."
+    ]
+   ],
+   "nguon_trang": [
+    227
+   ],
+   "tieu_de": "BIỂU HIỆN BIẾN ĐỔI KHÍ HẬU",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Mực nước biển ven hai châu thổ dâng trung bình bao nhiêu mỗi năm?",
+    "lua_chon": [
+     "0,27 mm",
+     "2,7 mm",
+     "27 mm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nước biển dâng trung bình bao nhiêu mỗi năm?",
+     "EduHistory asks you! How much does the sea rise each year on average?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 2,7 mi-li-mét mỗi năm! Ở châu thổ sông Hồng, số ngày nắng nóng từ 35 độ C trở lên có xu thế tăng.",
+     "The answer is B: 2.7 millimetres a year! In the Red River delta, days of 35°C or more are increasing."
+    ]
+   ],
+   "nguon_trang": [
+    227
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Biến đổi khí hậu là chuyện không của riêng ai. Cậu có thể làm một việc nhỏ nào để góp phần ứng phó? Bình luận nhé!",
+     "Climate change concerns everyone. What small thing can you do to help? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    229
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ở châu thổ sông Hồng, số ngày rét đậm, rét hại có xu thế như thế nào?",
+   "dap_an": [
+    "Giảm",
+    "Tăng mạnh",
+    "Không đổi",
+    "Tăng gấp đôi"
+   ],
+   "dung": 0,
+   "trang": 227
+  },
+  {
+   "hoi": "Số liệu nhiệt độ trong SGK lấy từ các trạm khí tượng nào?",
+   "dap_an": [
+    "Thái Bình và Cần Thơ",
+    "Hà Nội và Huế",
+    "Đà Nẵng và Nha Trang",
+    "Sa Pa và Đà Lạt"
+   ],
+   "dung": 0,
+   "trang": 227
+  },
+  {
+   "hoi": "Ở châu thổ sông Cửu Long, hiện tượng nào gia tăng?",
+   "dap_an": [
+    "Số đợt hạn",
+    "Số ngày rét đậm",
+    "Tuyết rơi",
+    "Băng giá"
+   ],
+   "dung": 0,
+   "trang": 227
+  },
+  {
+   "hoi": "Đâu là một biểu hiện của biến đổi khí hậu?",
+   "dap_an": [
+    "Thời tiết cực đoan bất thường, khó dự báo",
+    "Nhiệt độ giảm mạnh",
+    "Nước biển rút xa",
+    "Không còn bão"
+   ],
+   "dung": 0,
+   "trang": 227
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 227 (bảng nhiệt độ, lượng mưa trạm Thái Bình, Cần Thơ 1961 – 2020; thời tiết cực đoan; ngày nắng nóng từ 35°C tăng, rét đậm rét hại giảm ở sông Hồng; nắng nóng, hạn ở sông Cửu Long; nước biển dâng 2,7 mm/năm) và tr. 229 (Vận dụng). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

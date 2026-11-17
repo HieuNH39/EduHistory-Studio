@@ -1,0 +1,166 @@
+{
+ "ma": "L9-B15-05",
+ "ten_tap": "Tại sao chúng ta thắng?",
+ "ten_tap_en": "Why Did We Win?",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 15. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+  "trang": [
+   78,
+   79
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang trọng, tự hào",
+  "tep": "assets/music/imperial-grandeur.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 15, tr. 78–79.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong studio, bảng ghi 1945 – 1954",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chín năm kháng chiến chống thực dân Pháp đã thắng lợi. Vì sao chúng ta thắng?",
+     "Nine years of resistance against France ended in victory. Why did we win?"
+    ]
+   ],
+   "nguon_trang": [
+    78
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ (dùng lại ảnh tư liệu của L9-B15-03 cảnh 8, tìm lại theo khung dọc)",
+    "tim": "Dien Bien Phu porters bicycles supplies photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sự lãnh đạo sáng suốt của Đảng, đứng đầu là Chủ tịch Hồ Chí Minh; truyền thống yêu nước, hậu phương vững chắc và lực lượng vũ trang ba thứ quân trưởng thành.",
+     "The wise leadership of the Party headed by President Hồ Chí Minh; our patriotic tradition, a solid rear and the growth of three kinds of armed forces."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng với đó là liên minh với nhân dân Lào, Cam-pu-chia và sự ủng hộ của Trung Quốc, Liên Xô, các lực lượng yêu chuộng hoà bình.",
+     "Add the alliance with the Lao and Cambodian peoples and support from China, the USSR and peace-loving forces."
+    ]
+   ],
+   "nguon_trang": [
+    78,
+    79
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cuộc kháng chiến chống Pháp thắng lợi đã chấm dứt ách thống trị của thực dân Pháp trong khoảng bao lâu?",
+    "lua_chon": [
+     "Gần 10 năm",
+     "Gần một thế kỉ",
+     "Gần 30 năm"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thắng lợi năm 1954 chấm dứt ách thống trị của Pháp kéo dài bao lâu?",
+     "EduHistory asks you! How long had French rule lasted when the 1954 victory ended it?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: gần một thế kỉ! Miền Bắc được giải phóng, cổ vũ phong trào giải phóng dân tộc Á, Phi, Mỹ La-tinh.",
+     "The answer is B: nearly a century! The North was liberated, inspiring liberation movements in Asia, Africa and Latin America."
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì sao nói chiến thắng Điện Biên Phủ lừng lẫy năm châu, chấn động địa cầu? Bình luận nhé!",
+     "Why is Điện Biên Phủ said to have echoed across five continents and shaken the globe? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    79
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Ai đứng đầu Đảng lãnh đạo cuộc kháng chiến chống Pháp?",
+   "dap_an": [
+    "Chủ tịch Hồ Chí Minh",
+    "Trường Chinh",
+    "Nguyễn Văn Cừ",
+    "Trần Phú"
+   ],
+   "dung": 0,
+   "trang": 78
+  },
+  {
+   "hoi": "Lực lượng vũ trang ba thứ quân là nhân tố nào trong nguyên nhân thắng lợi?",
+   "dap_an": [
+    "Nguyên nhân chủ quan",
+    "Nguyên nhân khách quan",
+    "Không phải nguyên nhân",
+    "Hậu quả"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Sau năm 1954, miền Bắc chuyển sang giai đoạn nào?",
+   "dap_an": [
+    "Cách mạng xã hội chủ nghĩa",
+    "Cách mạng tư sản",
+    "Chiến tranh lạnh",
+    "Thuộc địa"
+   ],
+   "dung": 0,
+   "trang": 79
+  },
+  {
+   "hoi": "Thắng lợi chống Pháp cổ vũ phong trào giải phóng dân tộc ở đâu?",
+   "dap_an": [
+    "Á, Phi và Mỹ La-tinh",
+    "Chỉ ở châu Âu",
+    "Chỉ ở Bắc Mỹ",
+    "Chỉ ở Úc"
+   ],
+   "dung": 0,
+   "trang": 79
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 78 (nguyên nhân: Đảng đứng đầu là Hồ Chí Minh) và tr. 79 (truyền thống yêu nước, chính quyền vững mạnh, hậu phương, ba thứ quân; liên minh Lào, Cam-pu-chia; Trung Quốc, Liên Xô ủng hộ; ý nghĩa: chấm dứt gần một thế kỉ thống trị, miền Bắc giải phóng, cổ vũ Á, Phi, Mỹ La-tinh; câu hỏi Điện Biên Phủ). Khung dọc.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

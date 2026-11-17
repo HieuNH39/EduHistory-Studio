@@ -1,0 +1,288 @@
+{
+ "ma": "L9-B16-01",
+ "ten_tap": "Miền Bắc hồi sinh sau chiến tranh",
+ "ten_tap_en": "The North Revives after the War",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+  "trang": [
+   80,
+   81
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "ấm áp, lạc quan",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 16, tr. 80–81.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Miền Bắc 1954 – 1957",
+   "loi": [
+    [
+     "Hân Hân",
+     "Sau Hiệp định Giơ-ne-vơ, miền Bắc hoàn toàn giải phóng nhưng phải đối mặt với nhiều khó khăn do chiến tranh để lại.",
+     "After the Geneva Accords, the North was fully liberated but faced many hardships left by the war."
+    ],
+    [
+     "Nhật Minh",
+     "Miền Bắc đã hồi sinh như thế nào? Cùng tìm hiểu nhé!",
+     "How did the North recover? Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cầu Hiền Lương nhìn từ bờ Bắc (Quảng Trị)",
+    "tim": "Hien Luong bridge Quang Tri",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: cầu Hiền Lương (Quảng Trị)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đảng và Chính phủ quyết định đẩy mạnh phát động quần chúng thực hiện cải cách ruộng đất.",
+     "The Party and government decided to mobilise the masses for land reform."
+    ],
+    [
+     "Hân Hân",
+     "Qua 5 đợt cải cách, từ cuối năm 1953 đến năm 1956, trên 81 vạn héc-ta ruộng đất của đế quốc và địa chủ được chia cho khoảng 2,2 triệu hộ nông dân và dân nghèo ở nông thôn.",
+     "Over five rounds from late 1953 to 1956, more than 810,000 hectares of imperialist and landlord land were given to about 2.2 million peasant and poor rural households."
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Người cày có ruộng – sai lầm – sửa sai",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khẩu hiệu Người cày có ruộng trở thành hiện thực; giai cấp địa chủ phong kiến bị xoá bỏ, nông dân trở thành người làm chủ ở nông thôn.",
+     "The slogan 'Land to the tiller' came true; the feudal landlord class was abolished and peasants became masters of the countryside."
+    ],
+    [
+     "Nhật Minh",
+     "Tuy nhiên, cải cách ruộng đất còn phạm sai lầm, như đánh giá chưa đúng một số địa chủ kháng chiến, người có công với cách mạng. Đảng và Chính phủ đã kịp thời sửa sai, khắc phục hậu quả.",
+     "However, land reform made mistakes, such as misjudging some patriotic landlords and people who had served the revolution. The Party and government promptly corrected them and dealt with the consequences."
+    ]
+   ],
+   "nguon_trang": [
+    80,
+    81
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Qua 5 đợt cải cách ruộng đất, bao nhiêu hộ nông dân được chia ruộng?",
+    "lua_chon": [
+     "Khoảng 2,2 triệu hộ",
+     "Khoảng 22 nghìn hộ",
+     "Khoảng 81 vạn hộ"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Bao nhiêu hộ nông dân và dân nghèo được chia ruộng?",
+     "Pause! How many peasant and poor households received land?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: khoảng 2,2 triệu hộ!",
+     "The answer is A: about 2.2 million households!"
+    ]
+   ],
+   "nguon_trang": [
+    80
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Khôi phục kinh tế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu cảng Hải Phòng những năm sau 1954",
+    "tim": "Hai Phong port 1950s photograph",
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: cảng Hải Phòng",
+   "loi": [
+    [
+     "Hân Hân",
+     "Những năm 1955 – 1957, miền Bắc khôi phục kinh tế, hàn gắn vết thương chiến tranh. Cuối năm 1957, sản lượng nông nghiệp vượt mức trước Chiến tranh thế giới thứ hai, giải quyết cơ bản nạn đói.",
+     "In 1955–1957, the North restored its economy and healed war wounds. By late 1957, farm output exceeded pre-World War Two levels and famine was largely solved."
+    ],
+    [
+     "Nhật Minh",
+     "Nhiều nhà máy mới được xây dựng như Cơ khí Hà Nội, Diêm Thống Nhất, Thuốc lá Thăng Long; các cảng Hải Phòng, Hòn Gai, Bến Thuỷ được tu sửa, mở rộng.",
+     "New factories were built, such as Hà Nội Engineering, Thống Nhất Matches and Thăng Long Tobacco; the ports of Hải Phòng, Hòn Gai and Bến Thuỷ were repaired and expanded."
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhà máy nào được xây dựng ở miền Bắc thời kì 1955 – 1957?",
+    "lua_chon": [
+     "Cơ khí Hà Nội",
+     "Ba Son",
+     "Nhà máy sợi Nam Định thời Pháp"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nhà máy nào được xây mới ở miền Bắc thời kì này?",
+     "EduHistory asks you! Which factory was newly built in the North then?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: Cơ khí Hà Nội, cùng Diêm Thống Nhất, Thuốc lá Thăng Long!",
+     "The answer is A: Hà Nội Engineering, along with Thống Nhất Matches and Thăng Long Tobacco!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "ghi_nho",
+   "y": [
+    "Cải cách ruộng đất (cuối 1953 – 1956): hơn 81 vạn ha chia cho 2,2 triệu hộ",
+    "Người cày có ruộng; có sai lầm và đã sửa sai",
+    "Cuối 1957: nông nghiệp vượt mức trước chiến tranh, cơ bản giải quyết nạn đói",
+    "Nhà máy mới; buôn bán với 27 nước; đường hàng không quốc tế khai thông"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: cải cách ruộng đất đưa ruộng đất về tay nông dân; miền Bắc khôi phục kinh tế, giải quyết cơ bản nạn đói.",
+     "Remember: land reform put land in peasants' hands; the North restored its economy and largely ended famine."
+    ],
+    [
+     "Nhật Minh",
+     "Cuối năm 1957, miền Bắc đã đặt quan hệ buôn bán với 27 nước.",
+     "By late 1957, the North traded with 27 countries."
+    ]
+   ],
+   "nguon_trang": [
+    80,
+    81
+   ],
+   "tieu_de": "MIỀN BẮC HỒI SINH (1954 – 1957)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: vì sao việc kịp thời sửa sai trong cải cách ruộng đất lại quan trọng? Bình luận nhé!",
+     "Your challenge: why was promptly correcting the land reform mistakes so important? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    81
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Cải cách ruộng đất ở miền Bắc được tiến hành qua mấy đợt?",
+   "dap_an": [
+    "5 đợt",
+    "3 đợt",
+    "7 đợt",
+    "10 đợt"
+   ],
+   "dung": 0,
+   "trang": 80
+  },
+  {
+   "hoi": "Cuối năm 1957, miền Bắc đặt quan hệ buôn bán với bao nhiêu nước?",
+   "dap_an": [
+    "27 nước",
+    "17 nước",
+    "72 nước",
+    "7 nước"
+   ],
+   "dung": 0,
+   "trang": 81
+  },
+  {
+   "hoi": "Những năm 1955 – 1957, miền Bắc thực hiện nhiệm vụ gì?",
+   "dap_an": [
+    "Khôi phục kinh tế, hàn gắn vết thương chiến tranh",
+    "Đổi mới đất nước",
+    "Kế hoạch 5 năm lần thứ nhất",
+    "Chống Chiến tranh đặc biệt"
+   ],
+   "dung": 0,
+   "trang": 81
+  },
+  {
+   "hoi": "Số hộ được chia ruộng chiếm bao nhiêu phần trăm số hộ ở nông thôn miền Bắc?",
+   "dap_an": [
+    "72,8%",
+    "27,8%",
+    "90%",
+    "50%"
+   ],
+   "dung": 0,
+   "trang": 80
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 80 (miền Bắc giải phóng, khó khăn; cải cách ruộng đất 5 đợt cuối 1953 – 1956; hơn 81 vạn ha, 2,2 triệu hộ, 72,8%) và tr. 81 (Người cày có ruộng; sai lầm và sửa sai; 1955 – 1957 khôi phục kinh tế; cuối 1957 nông nghiệp vượt mức, giải quyết cơ bản nạn đói; Cơ khí Hà Nội, Diêm Thống Nhất, Thuốc lá Thăng Long; 27 nước; cảng Hải Phòng, Hòn Gai, Bến Thuỷ; hàng không quốc tế).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

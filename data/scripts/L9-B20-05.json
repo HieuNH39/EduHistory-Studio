@@ -1,0 +1,357 @@
+{
+ "ma": "L9-B20-05",
+ "ten_tap": "Việt Nam vươn mình",
+ "ten_tap_en": "Vietnam Rising",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 20. Việt Nam từ năm 1976 đến nay",
+  "trang": [
+   106,
+   107,
+   108,
+   109,
+   110
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "lạc quan, tự hào",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 20, tr. 106–110.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Việt Nam vươn mình – thành tựu Đổi mới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Công cuộc Đổi mới từ năm 1986 đến nay đã đạt được những thành tựu to lớn và toàn diện trên tất cả các lĩnh vực.",
+     "Since 1986, Đổi mới has achieved great, comprehensive results in every field."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng điểm qua từng lĩnh vực nhé!",
+     "Let's go through them one by one!"
+    ]
+   ],
+   "nguon_trang": [
+    106,
+    107
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Kinh tế",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh cảng container ở Thành phố Hồ Chí Minh",
+    "tim": "Cat Lai port container Ho Chi Minh City",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: cảng hàng hoá ở Thành phố Hồ Chí Minh",
+   "loi": [
+    [
+     "Hân Hân",
+     "Kinh tế tăng trưởng khá và tương đối bền vững; cơ cấu chuyển biến theo hướng hiện đại; kinh tế tư nhân và khu vực có vốn đầu tư nước ngoài đóng góp ngày càng lớn.",
+     "The economy grew fairly fast and steadily; its structure modernised; the private sector and foreign-invested firms contributed more and more."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 2007, Việt Nam gia nhập Tổ chức Thương mại thế giới; nay có quan hệ thương mại với hơn 200 nước và vùng lãnh thổ, kí hơn 90 hiệp định thương mại song phương.",
+     "In 2007, Vietnam joined the World Trade Organization; it now trades with over 200 countries and territories and has signed more than 90 bilateral trade agreements."
+    ]
+   ],
+   "nguon_trang": [
+    107
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Việt Nam trở thành thành viên Tổ chức Thương mại thế giới (WTO) năm nào?",
+    "lua_chon": [
+     "1995",
+     "2007",
+     "2015"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Việt Nam gia nhập WTO năm nào?",
+     "Pause! When did Vietnam join the WTO?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: năm 2007!",
+     "The answer is B: 2007!"
+    ]
+   ],
+   "nguon_trang": [
+    107
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh đường dây tải điện 500 kV Bắc – Nam",
+    "tim": "500 kV transmission line Vietnam",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: đường dây 500 kV Bắc – Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Hệ thống cơ sở hạ tầng được xây dựng hiện đại, phục vụ phát triển kinh tế và đời sống; nhiều khu công nghiệp, khu kinh tế hiện đại thu hút đầu tư, tạo việc làm.",
+     "Modern infrastructure was built for the economy and daily life; many modern industrial and economic zones attracted investment and created jobs."
+    ]
+   ],
+   "nguon_trang": [
+    107,
+    108
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Chính trị – Đối ngoại",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 7,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Hiến pháp 1992, 2013; 1995 bình thường hoá với Mỹ, gia nhập ASEAN; gần 200 nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chính trị ổn định; Hiến pháp năm 1992 và năm 2013 thể hiện mục tiêu xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+     "Politics stayed stable; the 1992 and 2013 Constitutions set the goal of a socialist rule-of-law state of, by and for the people."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1995, Việt Nam bình thường hoá quan hệ với Mỹ và gia nhập ASEAN; đến nay có quan hệ ngoại giao với gần 200 quốc gia, vùng lãnh thổ, là thành viên của hơn 70 tổ chức, diễn đàn đa phương.",
+     "In 1995, Vietnam normalised relations with the US and joined ASEAN; today it has diplomatic ties with nearly 200 countries and territories and belongs to over 70 multilateral bodies."
+    ]
+   ],
+   "nguon_trang": [
+    108
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 8,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Xã hội – Giáo dục – Văn hoá",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 9,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh biểu diễn múa xoè Thái",
+    "tim": "Xoe Thai dance",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: múa xoè Thái – Di sản văn hoá phi vật thể đại diện của nhân loại",
+   "loi": [
+    [
+     "Hân Hân",
+     "Xoá đói giảm nghèo thành công. Thu nhập bình quân đầu người từ 0,64 triệu đồng năm 1990 tăng lên 102,9 triệu đồng năm 2023.",
+     "Poverty reduction succeeded. Income per head rose from 0.64 million đồng in 1990 to 102.9 million đồng in 2023."
+    ],
+    [
+     "Nhật Minh",
+     "Cả nước đạt chuẩn xoá mù chữ năm 2000, phổ cập giáo dục trung học cơ sở năm 2010. Nghệ thuật xoè Thái được UNESCO ghi danh năm 2021.",
+     "The country achieved literacy standards in 2000 and universal lower secondary education in 2010. Thái xoè dance was inscribed by UNESCO in 2021."
+    ]
+   ],
+   "nguon_trang": [
+    108,
+    109
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thu nhập bình quân đầu người năm 2023 của Việt Nam là bao nhiêu?",
+    "lua_chon": [
+     "0,64 triệu đồng",
+     "5,7 triệu đồng",
+     "102,9 triệu đồng"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Năm 2023, thu nhập bình quân đầu người là bao nhiêu?",
+     "EduHistory asks you! What was income per head in 2023?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là C: 102,9 triệu đồng! Đời sống nhân dân được cải thiện rõ rệt.",
+     "The answer is C: 102.9 million đồng! Living standards improved markedly."
+    ]
+   ],
+   "nguon_trang": [
+    108
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Quốc phòng – An ninh",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 12,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Quân đội chính quy, hiện đại; từ 2014 gìn giữ hoà bình Liên hợp quốc; hợp tác quốc phòng hơn 100 nước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Tiềm lực quốc phòng, an ninh được tăng cường; Quân đội Nhân dân Việt Nam được tổ chức chính quy, hiện đại.",
+     "Defence and security were strengthened; the Vietnam People's Army became regular and modern."
+    ],
+    [
+     "Nhật Minh",
+     "Từ năm 2014, Việt Nam tham gia lực lượng gìn giữ hoà bình Liên hợp quốc; quan hệ quốc phòng mở rộng với trên 100 nước, tổ chức và diễn đàn quốc tế.",
+     "Since 2014, Vietnam has joined UN peacekeeping; its defence ties extend to more than 100 countries, organisations and forums."
+    ]
+   ],
+   "nguon_trang": [
+    109
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 13,
+   "lop": "ghi_nho",
+   "y": [
+    "Kinh tế tăng trưởng, hội nhập (WTO 2007, hơn 200 đối tác thương mại)",
+    "Chính trị ổn định; quan hệ ngoại giao với gần 200 quốc gia, vùng lãnh thổ",
+    "Xoá đói giảm nghèo; phổ cập THCS (2010); văn hoá đậm đà bản sắc",
+    "Hạn chế: kinh tế chưa bền vững, môi trường xuống cấp, chênh lệch thu nhập"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Thành tựu Đổi mới đưa đất nước ra khỏi khủng hoảng, nâng tầm vị thế, uy tín của Việt Nam trên thế giới.",
+     "Đổi mới lifted the country out of crisis and raised Vietnam's standing and prestige in the world."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng vẫn còn hạn chế cần khắc phục. Mục tiêu đến năm 2045, Việt Nam trở thành nước phát triển, có thu nhập cao.",
+     "But shortcomings remain. The goal: by 2045 Vietnam becomes a developed, high-income country."
+    ]
+   ],
+   "nguon_trang": [
+    109,
+    110
+   ],
+   "tieu_de": "VIỆT NAM VƯƠN MÌNH",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 14,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: để Việt Nam trở thành nước phát triển vào năm 2045, học sinh chúng mình có thể góp phần gì? Bình luận nhé!",
+     "Your challenge: how can students like us help Vietnam become a developed country by 2045? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    110
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Năm 1995, Việt Nam có những sự kiện đối ngoại nào?",
+   "dap_an": [
+    "Bình thường hoá quan hệ với Mỹ và gia nhập ASEAN",
+    "Gia nhập WTO",
+    "Tham gia gìn giữ hoà bình",
+    "Kí RCEP"
+   ],
+   "dung": 0,
+   "trang": 108
+  },
+  {
+   "hoi": "Cả nước đạt chuẩn phổ cập giáo dục trung học cơ sở năm nào?",
+   "dap_an": [
+    "2010",
+    "2000",
+    "2007",
+    "2013"
+   ],
+   "dung": 0,
+   "trang": 108
+  },
+  {
+   "hoi": "Từ năm nào Việt Nam tham gia lực lượng gìn giữ hoà bình Liên hợp quốc?",
+   "dap_an": [
+    "2014",
+    "1995",
+    "2007",
+    "2021"
+   ],
+   "dung": 0,
+   "trang": 109
+  },
+  {
+   "hoi": "Mục tiêu đến năm 2045 của Việt Nam là gì?",
+   "dap_an": [
+    "Trở thành nước phát triển, có thu nhập cao",
+    "Gia nhập ASEAN",
+    "Xoá mù chữ",
+    "Thống nhất đất nước"
+   ],
+   "dung": 0,
+   "trang": 110
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 106 – 107 (thành tựu kinh tế; WTO 2007; hơn 200 nước, hơn 90 hiệp định; khu công nghiệp), tr. 108 (hạ tầng – đường dây 500 kV; Hiến pháp 1992, 2013; 1995 bình thường hoá với Mỹ, gia nhập ASEAN; gần 200 quốc gia, hơn 70 tổ chức; xoá đói giảm nghèo; thu nhập 0,64 triệu (1990) → 102,9 triệu (2023); xoá mù chữ 2000, phổ cập THCS 2010), tr. 109 (văn hoá, xoè Thái UNESCO 2021; quốc phòng, gìn giữ hoà bình từ 2014, hơn 100 nước; ý nghĩa) và tr. 110 (hạn chế; mục tiêu 2045).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

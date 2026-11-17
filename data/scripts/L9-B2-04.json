@@ -1,0 +1,314 @@
+{
+ "ma": "L9-B2-04",
+ "ten_tap": "Nước Mỹ: Từ hoàng kim đến Chính sách mới",
+ "ten_tap_en": "America: From the Golden Age to the New Deal",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+  "trang": [
+   12,
+   13
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "sôi động rồi trầm xuống, kết lạc quan",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 2, tr. 12–13.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng là biểu đồ đường đi lên rồi lao dốc, ghi 1929",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nước Mỹ giữa hai cuộc chiến tranh thế giới: từ thời kì hoàng kim, rơi vào đại suy thoái, rồi vực dậy nhờ Chính sách mới.",
+     "America between the world wars: from a golden age into the Great Depression, then revived by the New Deal."
+    ],
+    [
+     "Nhật Minh",
+     "Cùng xem nhé!",
+     "Let's see!"
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh dây chuyền lắp ráp ô tô ở Mỹ những năm 20 của thế kỉ XX",
+    "tim": "Ford assembly line 1920s photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: dây chuyền sản xuất ô tô ở Mỹ những năm 20",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh thế giới thứ nhất đem lại cơ hội vàng cho kinh tế Mỹ, đưa nước này vào thời kì hoàng kim trong những năm 20.",
+     "World War One gave the US economy a golden opportunity, ushering in a golden age in the 1920s."
+    ],
+    [
+     "Hân Hân",
+     "Chỉ trong 6 năm, từ năm 1923 đến năm 1929, sản lượng công nghiệp Mỹ tăng 69%. Năm 1929, Mỹ chiếm 48% sản lượng công nghiệp thế giới.",
+     "In just six years, from 1923 to 1929, US industrial output rose 69%. In 1929, America produced 48% of the world's industrial output."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1929, Mỹ chiếm bao nhiêu phần trăm sản lượng công nghiệp thế giới?",
+    "lua_chon": [
+     "Khoảng 18%",
+     "48%",
+     "69%"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "Dừng hình! Năm 1929, Mỹ chiếm bao nhiêu phần sản lượng công nghiệp thế giới?",
+     "Pause! What share of world industrial output did the US have in 1929?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: 48%, gần một nửa thế giới!",
+     "The answer is B: 48%, almost half the world!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Tháng 10 – 1929",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh đám đông trước Phố Uôn (Wall Street) ngày khủng hoảng tài chính tháng 10 – 1929",
+    "tim": "Wall Street crash 1929 crowd photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn"
+   },
+   "hinh": "Ảnh tư liệu: Phố Uôn, tháng 10 – 1929",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Tháng 10 năm 1929, cuộc đại suy thoái kinh tế bùng nổ ở Mỹ, bắt đầu từ lĩnh vực tài chính,",
+     "In October 1929, the Great Depression broke out in America, starting in finance,"
+    ],
+    [
+     "Hân Hân",
+     "rồi nhanh chóng lan rộng ra công nghiệp và nông nghiệp, khiến nền kinh tế, tài chính Mỹ bị chấn động.",
+     "then quickly spreading to industry and agriculture, shaking the US economy and financial system."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh tư liệu Tổng thống Ph. Ru-dơ-ven",
+    "tim": "Franklin D. Roosevelt portrait photograph",
+    "yeu_cau": "ảnh tư liệu thuộc phạm vi công cộng, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Ảnh tư liệu: Tổng thống Ph. Ru-dơ-ven",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1932, ứng cử viên Đảng Dân chủ là Ph. Ru-dơ-ven được bầu làm Tổng thống.",
+     "In 1932, Democratic candidate Franklin Roosevelt was elected President."
+    ],
+    [
+     "Nhật Minh",
+     "Ông thực hiện Chính sách mới: giải quyết nạn thất nghiệp, phục hồi các ngành kinh tế – tài chính, cải tổ hệ thống ngân hàng, tạo thêm việc làm và ổn định tình hình xã hội.",
+     "He launched the New Deal: tackling unemployment, reviving the economy and finance, reforming the banks, creating jobs and stabilising society."
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai thực hiện Chính sách mới để đưa nước Mỹ thoát khỏi đại suy thoái?",
+    "lua_chon": [
+     "Tổng thống Ph. Ru-dơ-ven",
+     "Thủ tướng Hít-le",
+     "Tổng thống Tru-man"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Ai đã thực hiện Chính sách mới?",
+     "EduHistory asks you! Who introduced the New Deal?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: Tổng thống Ph. Ru-dơ-ven!",
+     "The answer is A: President Franklin Roosevelt!"
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: Chính sách láng giềng thân thiện; đặt quan hệ ngoại giao với Liên Xô (1933)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Về đối ngoại, từ năm 1933, Chính phủ Ru-dơ-ven công nhận và đặt quan hệ ngoại giao với Liên Xô, thực hiện Chính sách láng giềng thân thiện với các nước Mỹ La-tinh.",
+     "In foreign policy, from 1933 the Roosevelt government recognised the USSR and pursued the Good Neighbor Policy toward Latin America."
+    ],
+    [
+     "Nhật Minh",
+     "Chính sách mới đã cứu nguy cho chủ nghĩa tư bản Mỹ, giúp nước Mỹ duy trì chế độ dân chủ tư sản, tình hình chính trị, xã hội dần ổn định.",
+     "The New Deal rescued American capitalism, preserved bourgeois democracy and gradually stabilised politics and society."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 9,
+   "lop": "ghi_nho",
+   "y": [
+    "Những năm 20: thời kì hoàng kim, sản lượng công nghiệp tăng 69% (1923 – 1929)",
+    "Tháng 10 – 1929: đại suy thoái bùng nổ từ lĩnh vực tài chính",
+    "Ph. Ru-dơ-ven thực hiện Chính sách mới, cải tổ ngân hàng, tạo việc làm",
+    "Kết quả: duy trì chế độ dân chủ tư sản, xã hội dần ổn định"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: những năm 20, kinh tế Mỹ phát triển hoàng kim; tháng 10 năm 1929, đại suy thoái bùng nổ.",
+     "Remember: the US economy boomed in the 1920s; in October 1929 the Great Depression struck."
+    ],
+    [
+     "Nhật Minh",
+     "Chính sách mới của Ru-dơ-ven giúp phục hồi kinh tế và duy trì chế độ dân chủ tư sản.",
+     "Roosevelt's New Deal revived the economy and preserved bourgeois democracy."
+    ]
+   ],
+   "nguon_trang": [
+    13
+   ],
+   "tieu_de": "NƯỚC MỸ (1918 – 1939)",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: nước Mỹ và nước Đức thoát khỏi đại suy thoái bằng hai con đường khác nhau thế nào? Bình luận nhé!",
+     "Your challenge: how did the US and Germany take different paths out of the Depression? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    12,
+    13
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Từ năm 1923 đến năm 1929, sản lượng công nghiệp Mỹ tăng bao nhiêu?",
+   "dap_an": [
+    "69%",
+    "48%",
+    "17%",
+    "100%"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Cuộc đại suy thoái kinh tế bùng nổ ở Mỹ vào thời gian nào?",
+   "dap_an": [
+    "Tháng 10 – 1929",
+    "Tháng 1 – 1933",
+    "Năm 1918",
+    "Năm 1939"
+   ],
+   "dung": 0,
+   "trang": 13
+  },
+  {
+   "hoi": "Ph. Ru-dơ-ven được bầu làm Tổng thống Mỹ năm nào?",
+   "dap_an": [
+    "1932",
+    "1929",
+    "1930",
+    "1945"
+   ],
+   "dung": 0,
+   "trang": 12
+  },
+  {
+   "hoi": "Chính sách đối ngoại của Mỹ với các nước Mỹ La-tinh từ năm 1933 là gì?",
+   "dap_an": [
+    "Chính sách láng giềng thân thiện",
+    "Học thuyết Tru-man",
+    "Kế hoạch Mác-san",
+    "Chiến tranh lạnh"
+   ],
+   "dung": 0,
+   "trang": 13
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 12 (mục 3a: năm 1930 Đảng Dân chủ thắng; năm 1932 Ph. Ru-dơ-ven được bầu làm Tổng thống) và tr. 13 (từ năm 1933 đặt quan hệ với Liên Xô, Chính sách láng giềng thân thiện; thời kì hoàng kim, 1923 – 1929 tăng 69%, năm 1929 chiếm 48%; đại suy thoái 10 – 1929 bắt đầu từ tài chính; Chính sách mới: giải quyết thất nghiệp, cải tổ ngân hàng, tạo việc làm; kết quả).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

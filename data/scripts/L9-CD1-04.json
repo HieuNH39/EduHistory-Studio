@@ -1,0 +1,316 @@
+{
+ "ma": "L9-CD1-04",
+ "ten_tap": "Đô thị Việt Nam: Cơ hội và thách thức",
+ "ten_tap_en": "Vietnam's Cities: Opportunities and Challenges",
+ "khung": "4-5p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Chủ đề 1. Đô thị: Lịch sử và hiện tại (2)",
+  "trang": [
+   222,
+   223,
+   224
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "hiện đại",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Chủ đề 1, tr. 222–224.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng ghi: Đô thị hoá ở Việt Nam – 38,5% (2024)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đô thị hoá ở Việt Nam gắn với công nghiệp hoá, hiện đại hoá. Năm 2024, tỉ lệ dân thành thị của nước ta là 38,5%.",
+     "Urbanisation in Vietnam goes hand in hand with industrialisation and modernisation. In 2024, 38.5% of our people lived in towns and cities."
+    ],
+    [
+     "Hân Hân",
+     "Đô thị hoá mang lại cơ hội gì và đặt ra thách thức gì? Cùng phân tích nhé!",
+     "What opportunities and challenges does it bring? Let's analyse!"
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh toàn cảnh Hà Nội nhìn từ trên cao",
+    "tim": "Hanoi skyline aerial",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: Thủ đô Hà Nội",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thành phố Hồ Chí Minh và Hà Nội là hai đô thị lớn nhất nước ta, trở thành cực tăng trưởng kinh tế và trung tâm đổi mới sáng tạo của cả nước.",
+     "Hồ Chí Minh City and Hà Nội are our two largest cities, the country's growth poles and innovation centres."
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 2024, tỉ lệ dân thành thị của Việt Nam là bao nhiêu?",
+    "lua_chon": [
+     "38,5%",
+     "54,0%",
+     "80,0%"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 2024, tỉ lệ dân thành thị nước ta là bao nhiêu?",
+     "Pause! What share of Vietnam's people lived in cities in 2024?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: 38,5%!",
+     "The answer is A: 38.5%!"
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cơ hội",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: động lực kinh tế; khoa học – công nghệ, chuyển đổi số; thu hút đầu tư",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đô thị hoá tạo động lực phát triển kinh tế cả nước, góp phần chuyển dịch cơ cấu kinh tế và lao động; đô thị là trung tâm khoa học – công nghệ, thúc đẩy chuyển đổi số quốc gia.",
+     "Urbanisation drives the national economy and shifts its structure and workforce; cities are science and technology centres pushing national digital transformation."
+    ],
+    [
+     "Nhật Minh",
+     "Với hạ tầng hiện đại và lao động chất lượng cao, đô thị thu hút đầu tư về vốn và khoa học – công nghệ.",
+     "With modern infrastructure and skilled workers, cities attract capital and technology investment."
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh khu đô thị mới với công viên và nhà cao tầng ở Việt Nam",
+    "tim": "Vietnam new urban area park",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: một khu đô thị mới ở Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đô thị hoá tạo việc làm, nâng cao chất lượng cuộc sống, phổ biến lối sống thành thị.",
+     "Urbanisation creates jobs, raises living standards and spreads urban lifestyles."
+    ],
+    [
+     "Nhật Minh",
+     "Các đô thị còn lan toả, phát triển kinh tế vùng nông thôn, như ngoại thành Hà Nội, Thành phố Hồ Chí Minh.",
+     "Cities also spread growth to rural areas, as in the outskirts of Hà Nội and Hồ Chí Minh City."
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Thách thức",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 8,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh giao thông đông đúc giờ cao điểm ở thành phố Việt Nam",
+    "tim": "Hanoi traffic rush hour motorbikes",
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+   },
+   "hinh": "Ảnh: giao thông giờ cao điểm ở đô thị Việt Nam",
+   "loi": [
+    [
+     "Hân Hân",
+     "Một số nơi ở các đô thị còn tình trạng quá tải cơ sở hạ tầng, ô nhiễm môi trường.",
+     "Some urban areas still suffer overloaded infrastructure and pollution."
+    ],
+    [
+     "Nhật Minh",
+     "Đô thị hoá tự phát, thiếu kiểm soát còn làm giảm diện tích đất nông nghiệp và gây nhiều tác động tiêu cực.",
+     "Unplanned, uncontrolled urbanisation also eats into farmland and causes many negative effects."
+    ]
+   ],
+   "nguon_trang": [
+    222,
+    224
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Đâu là thách thức của đô thị hoá ở Việt Nam?",
+    "lua_chon": [
+     "Tạo việc làm",
+     "Quá tải cơ sở hạ tầng, ô nhiễm môi trường",
+     "Thu hút đầu tư"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Đâu là thách thức của đô thị hoá?",
+     "EduHistory asks you! Which is a challenge of urbanisation?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: quá tải cơ sở hạ tầng và ô nhiễm môi trường!",
+     "The answer is B: overloaded infrastructure and pollution!"
+    ]
+   ],
+   "nguon_trang": [
+    224
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Đô thị hoá gắn với công nghiệp hoá, hiện đại hoá; 38,5% dân thành thị (2024)",
+    "Hà Nội, Thành phố Hồ Chí Minh: cực tăng trưởng, trung tâm đổi mới sáng tạo",
+    "Cơ hội: động lực kinh tế, thu hút đầu tư, việc làm, lan toả nông thôn",
+    "Thách thức: quá tải hạ tầng, ô nhiễm môi trường"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: đô thị hoá là động lực phát triển kinh tế – xã hội của Việt Nam.",
+     "Remember: urbanisation is a driver of Vietnam's socio-economic development."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng cần phát triển có kiểm soát, theo hướng đô thị xanh, đô thị thông minh.",
+     "But it must be controlled, aiming for green, smart cities."
+    ]
+   ],
+   "nguon_trang": [
+    223,
+    224
+   ],
+   "tieu_de": "ĐÔ THỊ VIỆT NAM",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: đề xuất một ý tưởng giúp thành phố của cậu xanh hơn, thông minh hơn! Bình luận nhé!",
+     "Your challenge: suggest one idea to make your city greener and smarter! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    223
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Hai đô thị lớn nhất nước ta là những đô thị nào?",
+   "dap_an": [
+    "Thành phố Hồ Chí Minh và Hà Nội",
+    "Đà Nẵng và Huế",
+    "Hải Phòng và Cần Thơ",
+    "Nha Trang và Vũng Tàu"
+   ],
+   "dung": 0,
+   "trang": 224
+  },
+  {
+   "hoi": "Đô thị hoá ở Việt Nam gắn với quá trình nào?",
+   "dap_an": [
+    "Công nghiệp hoá, hiện đại hoá",
+    "Tập thể hoá",
+    "Phong kiến hoá",
+    "Nông nghiệp hoá"
+   ],
+   "dung": 0,
+   "trang": 224
+  },
+  {
+   "hoi": "Đô thị lan toả, phát triển kinh tế vùng nào?",
+   "dap_an": [
+    "Vùng nông thôn",
+    "Vùng biển xa",
+    "Vùng cực",
+    "Sa mạc"
+   ],
+   "dung": 0,
+   "trang": 224
+  },
+  {
+   "hoi": "Đô thị phát triển theo xu hướng nào thời kì hậu công nghiệp?",
+   "dap_an": [
+    "Đô thị xanh, đô thị thông minh",
+    "Đô thị không cây xanh",
+    "Đô thị đóng cửa",
+    "Đô thị không có internet"
+   ],
+   "dung": 0,
+   "trang": 223
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 222 (đô thị hoá thiếu kiểm soát làm giảm đất nông nghiệp, ô nhiễm), tr. 223 (đô thị xanh, đô thị thông minh) và tr. 224 (mục 3: đô thị hoá gắn với CNH – HĐH; 38,5% dân thành thị năm 2024; TP Hồ Chí Minh, Hà Nội là cực tăng trưởng; tác động tích cực: động lực, chuyển dịch cơ cấu, KH-CN, chuyển đổi số, thu hút đầu tư, việc làm, lan toả nông thôn; tiêu cực: quá tải hạ tầng, ô nhiễm; Vận dụng).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

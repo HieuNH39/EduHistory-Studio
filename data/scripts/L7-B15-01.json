@@ -1,0 +1,387 @@
+{
+ "ma": "L7-B15-01",
+ "ten_tap": "Nhà Trần suy yếu và sự ra đời của nhà Hồ",
+ "ten_tap_en": "The Decline of the Trần and the Rise of the Hồ",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 15. Nước Đại Ngu thời Hồ (1400 – 1407)",
+  "trang": [
+   74,
+   75
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ho-quy-ly",
+  "chu-van-an"
+ ],
+ "nhac": {
+  "tam_trang": "trầm, bất an ở phần nhà Trần suy yếu; trang nghiêm ở phần nhà Hồ lên ngôi",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Lời thoại của nhân vật lịch sử mang tính tái hiện; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 15, tr. 74–75.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày bảo tàng, đứng trước bức tranh sơn mài về thời Trần",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nhà Trần với hào khí Đông A đã ba lần đánh tan quân Mông – Nguyên, xây dựng quốc gia Đại Việt hùng mạnh.",
+     "With the 'spirit of Đông A', the Trần beat the Mongols three times and built a strong Đại Việt."
+    ],
+    [
+     "Hân Hân",
+     "Vậy mà chỉ hơn một trăm năm sau, nhà Hồ đã thay thế nhà Trần. Chuyện gì đã xảy ra?",
+     "Yet a little over a century later, the Hồ replaced the Trần. What happened?"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Cuối thế kỉ XIV",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quy-toc-nha-tran",
+    "nong-dan"
+   ],
+   "hinh": "Dùng lại ảnh L7-B15-02 cảnh 3: quý tộc nhà Trần mở tiệc ca múa trong phủ đệ; ngoài đồng, nông dân và nô tì giơ gậy gộc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nửa sau thế kỉ XIV, nhà Trần ngày càng suy yếu. Tầng lớp quý tộc có xu hướng ăn chơi hưởng lạc, khiến nhân dân bất bình.",
+     "In the second half of the 14th century, the Trần declined. Nobles turned to pleasure-seeking, angering the people."
+    ],
+    [
+     "Nhật Minh",
+     "Khởi nghĩa của nông dân và nô tì nổ ra ở nhiều nơi, tiêu biểu là khởi nghĩa của Phạm Sư Ôn, ở thành phố Hà Nội ngày nay.",
+     "Uprisings of peasants and slaves broke out in many places, most notably Phạm Sư Ôn's, in today's Hà Nội."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B15-02/canh-03.jpg",
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "chu-van-an",
+    "vua-tran-du-tong"
+   ],
+   "hinh": "Trong điện triều cuối thời Trần, ánh sáng mờ: vị quan già Chu Văn An râu tóc bạc, áo dài nâu giản dị, hai tay dâng cuộn sớ lên nhà vua trẻ ngồi trên ngai ngoảnh mặt đi; các quan đứng hai bên liếc nhìn nhau; ngoài cửa trời u ám",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Em có biết? Dưới triều vua Trần Dụ Tông, Chu Văn An, một vị quan thanh liêm, cương trực, đã dâng sớ xin chém bảy gian thần.",
+     "Did you know? Under King Trần Dụ Tông, Chu Văn An, an honest and upright official, petitioned to behead seven corrupt courtiers."
+    ],
+    [
+     "Hân Hân",
+     "Nhà vua không chấp nhận. Ông liền từ quan, về ở ẩn và dạy học tại Chí Linh, nay thuộc thành phố Hải Phòng.",
+     "The king refused. Chu Văn An resigned and went home to live quietly and teach at Chí Linh, now part of Hải Phòng city."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Ai dâng sớ xin chém bảy gian thần dưới triều vua Trần Dụ Tông?",
+    "lua_chon": [
+     "Hồ Quý Ly",
+     "Chu Văn An",
+     "Phạm Sư Ôn"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Ai đã dâng sớ xin chém bảy gian thần?",
+     "EduHistory asks you! Who petitioned to behead seven corrupt courtiers?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: Chu Văn An!",
+     "The answer is B: Chu Văn An!"
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-quy-ly"
+   ],
+   "hinh": "Dùng lại ảnh L7-B15-02 cảnh 4: Hồ Quý Ly áo bào tía đứng giữa triều đình nhà Trần, các quan cúi đầu, vị vua trẻ ngồi trên ngai",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong bối cảnh đó, Hồ Quý Ly dần thâu tóm quyền lực.",
+     "In this situation, Hồ Quý Ly gradually seized power."
+    ],
+    [
+     "Hân Hân",
+     "Năm 1397, ông ép vua Trần dời đô vào Thanh Hoá.",
+     "In 1397, he forced the Trần king to move the capital to Thanh Hoá."
+    ]
+   ],
+   "anh": "assets/episodes/L7-B15-02/canh-04.jpg",
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Cửa Nam thành Tây Đô, tỉnh Thanh Hoá (như ảnh SGK, tr. 74)",
+    "tim": "Citadel of the Ho Dynasty south gate",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: cửa Nam thành Tây Đô (tỉnh Thanh Hoá)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Đây là cửa Nam thành Tây Đô ở tỉnh Thanh Hoá, nơi đặt kinh đô mới.",
+     "This is the South Gate of the Tây Đô citadel in Thanh Hoá, where the new capital stood."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "quan-cham-pa"
+   ],
+   "hinh": "Viễn cảnh trên một dòng sông lớn gần kinh thành Thăng Long cuối thế kỉ XIV: đoàn thuyền chiến Chăm-pa mũi cong, buồm vuông ngược dòng tiến lên; trên bờ, người dân hoảng hốt bỏ chạy, khói bốc lên từ xa; trời chiều u ám",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Những cuộc tấn công của Chăm-pa ra Thăng Long càng làm cho Triều Trần thêm rệu rã.",
+     "Champa's attacks on Thăng Long left the Trần court even more shaky."
+    ]
+   ],
+   "nguon_trang": [
+    74
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Năm 1400",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 10,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ho-quy-ly",
+    "trieu-than"
+   ],
+   "hinh": "Trong chính điện kinh thành Tây Đô bằng đá năm 1400: Hồ Quý Ly cao tuổi, râu dài, mặc hoàng bào vàng, đứng trước ngai vàng; bá quan văn võ quỳ chầu thành hai hàng; ánh sáng ban mai chiếu qua cửa lớn",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 1400, Hồ Quý Ly buộc vua Trần nhường ngôi, lập ra Triều Hồ.",
+     "In 1400, Hồ Quý Ly forced the Trần king to abdicate and founded the Hồ dynasty."
+    ],
+    [
+     "Hồ Quý Ly",
+     "Từ nay, tên nước là Đại Ngu!",
+     "From now on, our country shall be called Đại Ngu!"
+    ],
+    [
+     "Nhật Minh",
+     "Đại Ngu nghĩa là niềm vui lớn.",
+     "Đại Ngu means 'great joy'."
+    ]
+   ],
+   "dung": true,
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Năm 1400, Hồ Quý Ly đặt tên nước là gì?",
+    "lua_chon": [
+     "Đại Việt",
+     "Đại Cồ Việt",
+     "Đại Ngu"
+    ],
+    "dung": 2
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Năm 1400, Hồ Quý Ly đặt tên nước là gì?",
+     "Pause! What did Hồ Quý Ly name the country in 1400?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là C: Đại Ngu!",
+     "The answer is C: Đại Ngu!"
+    ]
+   ],
+   "nguon_trang": [
+    75
+   ]
+  },
+  {
+   "so": 12,
+   "lop": "truc_thoi_gian",
+   "tieu_de": "TỪ NHÀ TRẦN ĐẾN NHÀ HỒ",
+   "moc": [
+    [
+     "Nửa sau thế kỉ XIV",
+     "Nhà Trần suy yếu, khởi nghĩa nổ ra"
+    ],
+    [
+     "1397",
+     "Dời đô vào Thanh Hoá"
+    ],
+    [
+     "1400",
+     "Lập Triều Hồ, tên nước Đại Ngu"
+    ],
+    [
+     "1400 – 1407",
+     "Hồ Quý Ly, Hồ Hán Thương"
+    ]
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Cùng ôn lại nhé: nửa sau thế kỉ XIV, nhà Trần suy yếu. Năm 1397, kinh đô dời vào Thanh Hoá.",
+     "Let's review: in the late 14th century, the Trần declined. In 1397, the capital moved to Thanh Hoá."
+    ],
+    [
+     "Nhật Minh",
+     "Năm 1400, Triều Hồ ra đời. Triều Hồ chỉ tồn tại 7 năm, với hai đời vua là Hồ Quý Ly và Hồ Hán Thương.",
+     "In 1400, the Hồ dynasty was born. It lasted only 7 years, with two kings: Hồ Quý Ly and Hồ Hán Thương."
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ],
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 13,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong phòng trưng bày, nhìn về phía người xem; Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Thử thách cho cậu: những biến động nào cuối thời Trần đã tạo cơ hội cho Hồ Quý Ly lên nắm quyền? Bình luận nhé!",
+     "Your challenge: which upheavals at the end of the Trần era gave Hồ Quý Ly his chance to take power? Tell us in the comments!"
+    ],
+    [
+     "Nhật Minh",
+     "Tập sau, ta sẽ xem Hồ Quý Ly cải cách những gì!",
+     "Next time: what reforms did Hồ Quý Ly carry out?"
+    ]
+   ],
+   "nguon_trang": [
+    74,
+    75
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Nửa sau thế kỉ XIV, tầng lớp quý tộc nhà Trần có xu hướng thế nào?",
+   "dap_an": [
+    "Chăm lo sức dân",
+    "Ăn chơi hưởng lạc",
+    "Mở rộng khoa thi",
+    "Khai hoang lập ấp"
+   ],
+   "dung": 1,
+   "trang": 74
+  },
+  {
+   "hoi": "Cuộc khởi nghĩa tiêu biểu của nông dân và nô tì cuối thời Trần do ai lãnh đạo?",
+   "dap_an": [
+    "Phạm Sư Ôn",
+    "Chu Văn An",
+    "Hồ Hán Thương",
+    "Trần Dụ Tông"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Năm 1397, Hồ Quý Ly ép vua Trần dời đô về đâu?",
+   "dap_an": [
+    "Thăng Long",
+    "Hoa Lư",
+    "Thanh Hoá",
+    "Phú Xuân"
+   ],
+   "dung": 2,
+   "trang": 74
+  },
+  {
+   "hoi": "Triều Hồ tồn tại trong bao nhiêu năm?",
+   "dap_an": [
+    "7 năm",
+    "10 năm",
+    "20 năm",
+    "30 năm"
+   ],
+   "dung": 0,
+   "trang": 75
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 74 (mở đầu 'Hào khí Đông A'; mục 1: nhà Trần suy yếu, khởi nghĩa Phạm Sư Ôn, ô Em có biết về Chu Văn An, Hồ Quý Ly thâu tóm quyền lực, dời đô 1397, Chăm-pa tấn công; ảnh cửa Nam thành Tây Đô) và tr. 75 (1400 lập Triều Hồ, Đại Ngu – niềm vui lớn; 7 năm, hai đời vua). Catalog gợi ý 'bản đồ tư duy' → dùng trục thời gian. Câu 'Từ nay, tên nước là Đại Ngu!' là lời tái hiện. Cảnh 3, 6 dùng lại ảnh L7-B15-02 cảnh 3, 4. Nội dung cải cách để dành cho L7-B15-02.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

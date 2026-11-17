@@ -1,0 +1,254 @@
+{
+ "ma": "L9-B9-04",
+ "ten_tap": "Hậu quả và sự kết thúc",
+ "ten_tap_en": "The End and the Aftermath",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 9 (bộ sách dùng chung)",
+  "bai": "Bài 9. Chiến tranh lạnh (1947 – 1989)",
+  "trang": [
+   43
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trầm, suy ngẫm",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 9, Bài 9, tr. 43.",
+ "chinh_sach_hinh": "Lịch sử hiện đại: không dùng AI vẽ người thật hay cảnh lịch sử; nhân vật chỉ được nhắc tên, không vẽ chân dung; chỉ dùng ảnh/phim tư liệu (ghi nguồn, kiểm tra giấy phép), sơ đồ dựng bằng code. Minh – Hân chỉ xuất hiện ở hiện tại.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, trên bảng vẽ hai khối đối đầu và chữ: Chiến tranh lạnh",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Chiến tranh lạnh kéo dài hơn bốn thập kỉ. Nó kết thúc ra sao và để lại hậu quả gì?",
+     "The Cold War lasted more than four decades. How did it end, and what did it leave behind?"
+    ],
+    [
+     "Hân Hân",
+     "Cùng tìm hiểu nhé!",
+     "Let's find out!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Ảnh Bức tường Béc-lin (dùng lại ảnh tư liệu của L9-B9-03 cảnh 11)",
+    "tim": "Berlin Wall",
+    "yeu_cau": "dùng lại ảnh tư liệu đã có nguồn của L9-B9-03 cảnh 11"
+   },
+   "hinh": "Ảnh tư liệu: Bức tường Béc-lin (1989)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Bức tường Béc-lin ngăn cách Đông Đức và Tây Đức là một biểu hiện của Chiến tranh lạnh.",
+     "The Berlin Wall dividing East and West Germany was a symbol of the Cold War."
+    ],
+    [
+     "Nhật Minh",
+     "Tháng 12 năm 1989, trong cuộc gặp không chính thức tại Man-ta, các nhà lãnh đạo Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.",
+     "In December 1989, at an informal meeting in Malta, US and Soviet leaders declared the Cold War over."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Chiến tranh lạnh được tuyên bố chấm dứt ở đâu, khi nào?",
+    "lua_chon": [
+     "Béc-lin, 11 – 1989",
+     "Man-ta, 12 – 1989",
+     "Oa-sinh-tơn, 1991"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Chiến tranh lạnh được tuyên bố chấm dứt ở đâu?",
+     "Pause! Where was the end of the Cold War declared?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: tại Man-ta, tháng 12 năm 1989!",
+     "The answer is B: in Malta, December 1989!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Hậu quả",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: căng thẳng, đối đầu; chiến tranh cục bộ; nguy cơ chiến tranh thế giới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh lạnh đẩy thế giới vào tình trạng luôn căng thẳng, đối đầu giữa hai phe,",
+     "The Cold War kept the world in constant tension and confrontation between two camps,"
+    ],
+    [
+     "Nhật Minh",
+     "làm bùng nổ các cuộc chiến tranh, xung đột cục bộ ở khắp các khu vực, và làm xuất hiện nguy cơ một cuộc chiến tranh thế giới mới.",
+     "sparked local wars and conflicts in every region, and raised the danger of a new world war."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 6,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học, trên bảng ghi: chia cắt lãnh thổ; chia rẽ dân tộc; xung đột tôn giáo",
+   "loi": [
+    [
+     "Hân Hân",
+     "Chiến tranh lạnh còn đưa đến sự chia cắt lãnh thổ, chia rẽ tình cảm dân tộc, xung đột tôn giáo ở nhiều quốc gia, khu vực,",
+     "It also led to divided territories, rifts between peoples and religious conflicts in many countries and regions,"
+    ],
+    [
+     "Nhật Minh",
+     "với những hệ luỵ sâu sắc và lâu dài.",
+     "with deep and lasting consequences."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 7,
+   "lop": "ghi_nho",
+   "y": [
+    "Kết thúc: Mỹ – Liên Xô tuyên bố chấm dứt tại Man-ta (12 – 1989)",
+    "Thế giới luôn căng thẳng, đối đầu giữa hai phe",
+    "Chiến tranh, xung đột cục bộ; nguy cơ chiến tranh thế giới mới",
+    "Chia cắt lãnh thổ, chia rẽ dân tộc, xung đột tôn giáo"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: tháng 12 năm 1989, Chiến tranh lạnh được tuyên bố chấm dứt tại Man-ta.",
+     "Remember: in December 1989, the end of the Cold War was declared in Malta."
+    ],
+    [
+     "Nhật Minh",
+     "Nhưng hậu quả của nó – căng thẳng, xung đột, chia cắt – vẫn còn kéo dài.",
+     "But its consequences – tension, conflict and division – lasted long after."
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "tieu_de": "CHIẾN TRANH LẠNH: KẾT THÚC VÀ HẬU QUẢ",
+   "hien_luc_theo_cau": [
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: hãy nêu một hậu quả của Chiến tranh lạnh mà thế giới hôm nay vẫn còn thấy! Bình luận nhé!",
+     "Your challenge: name one consequence of the Cold War still visible in today's world! Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    43
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Bức tường Béc-lin ngăn cách những nơi nào?",
+   "dap_an": [
+    "Đông Đức và Tây Đức",
+    "Liên Xô và Mỹ",
+    "Pháp và Đức",
+    "Ba Lan và Đức"
+   ],
+   "dung": 0,
+   "trang": 43
+  },
+  {
+   "hoi": "Ai tuyên bố chấm dứt Chiến tranh lạnh?",
+   "dap_an": [
+    "Các nhà lãnh đạo Mỹ và Liên Xô",
+    "Liên hợp quốc",
+    "Các nước Đông Âu",
+    "NATO"
+   ],
+   "dung": 0,
+   "trang": 43
+  },
+  {
+   "hoi": "Hậu quả nào là của Chiến tranh lạnh?",
+   "dap_an": [
+    "Thế giới luôn căng thẳng, đối đầu",
+    "Liên Xô trở thành cường quốc công nghiệp",
+    "Đại suy thoái kinh tế",
+    "Cách mạng công nghiệp"
+   ],
+   "dung": 0,
+   "trang": 43
+  },
+  {
+   "hoi": "Chiến tranh lạnh làm xuất hiện nguy cơ gì?",
+   "dap_an": [
+    "Một cuộc chiến tranh thế giới mới",
+    "Đại dịch toàn cầu",
+    "Khủng hoảng lương thực",
+    "Biến đổi khí hậu"
+   ],
+   "dung": 0,
+   "trang": 43
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 9 tr. 43 (Hình 9.2 Bức tường Béc-lin; mục 3: tuyên bố chấm dứt tại Man-ta 12 – 1989; hậu quả: căng thẳng, đối đầu, chiến tranh cục bộ, nguy cơ chiến tranh thế giới mới; chia cắt lãnh thổ, chia rẽ dân tộc, xung đột tôn giáo; Vận dụng). Dùng lại ảnh L9-B9-03 cảnh 11.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

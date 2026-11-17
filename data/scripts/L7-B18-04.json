@@ -1,0 +1,188 @@
+{
+ "ma": "L7-B18-04",
+ "ten_tap": "Cuộc sống sông nước Nam Bộ xưa",
+ "ten_tap_en": "Life on the Waters of Old Nam Bộ",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 18. Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+  "trang": [
+   94
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "cu-dan-nam-bo"
+ ],
+ "nhac": {
+  "tam_trang": "êm đềm, khoáng đạt",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 18, tr. 94.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong phòng trưng bày; Hân Hân kể, Nhật Minh tò mò",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nam Bộ từ thế kỉ X đến đầu thế kỉ XVI: người dân sống thế nào giữa vùng sông nước?",
+     "Nam Bộ from the 10th to the early 16th century: how did people live in this land of rivers?"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-nam-bo"
+   ],
+   "hinh": "Khung dọc 9:16. Một xóm làng xưa trên gò đất cao ở phía tây Nam Bộ: nhà sàn lợp lá dừa nước, trâu nằm dưới bóng cây, đàn gà vịt quanh sân; ruộng lúa nước xanh mướt; dưới con rạch, người dân chèo xuồng thả lưới bắt cá; một người phụ nữ ngồi đan giỏ tre",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cư dân tập trung ở những vùng đất cao phía tây, tụ cư thành xóm làng.",
+     "People gathered on the higher ground in the west, living together in hamlets."
+    ],
+    [
+     "Hân Hân",
+     "Kinh tế chủ yếu dựa vào trồng lúa nước, kết hợp chăn nuôi gia súc, gia cầm và đánh bắt thuỷ hải sản. Họ còn làm nghề thủ công và buôn bán nhỏ.",
+     "Their economy relied on wet-rice farming, plus raising livestock and poultry and catching fish. They also did crafts and small trade."
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "cu-dan-nam-bo"
+   ],
+   "hinh": "Khung dọc 9:16. Bên dòng sông lớn ở Nam Bộ xưa: một ngôi đền nhỏ bằng gạch cũ kĩ, người dân mặc xà rông, quấn khăn mang hoa quả đến dâng; vài chiếc xuồng chở hàng neo bên bến đất; nắng chiều vàng trên mặt nước",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Ảnh hưởng của văn minh Ăng-co ở đây không đậm nét. Người dân vẫn giữ nhiều truyền thống văn hoá từ thời Phù Nam.",
+     "Angkor's influence here was light. People kept many cultural traditions from the Funan era."
+    ],
+    [
+     "Hân Hân",
+     "Hin-đu giáo, Phật giáo và các tín ngưỡng dân gian vẫn được duy trì: một nền văn hoá bình dân của vùng khí hậu nóng ẩm, sông nước.",
+     "Hinduism, Buddhism and folk beliefs lived on: a popular culture of a hot, humid land of rivers."
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Cư dân Nam Bộ thời kì này tập trung ở đâu?",
+    "lua_chon": [
+     "Vùng đất cao phía tây",
+     "Ven biển phía đông",
+     "Vùng núi cao"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "EduHistory hỏi bạn! Cư dân Nam Bộ thời kì này tập trung ở đâu?",
+     "EduHistory asks you! Where did the people of Nam Bộ live in this period?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là A: vùng đất cao phía tây!",
+     "The answer is A: the higher ground in the west!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Cậu biết món ăn, lễ hội hay nghề truyền thống nào của vùng sông nước Nam Bộ? Bình luận nhé!",
+     "Do you know a dish, festival or traditional craft of Nam Bộ's river country? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    94
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Kinh tế của cư dân Nam Bộ thời kì này chủ yếu dựa vào hoạt động nào?",
+   "dap_an": [
+    "Canh tác lúa nước",
+    "Buôn bán đường biển",
+    "Khai thác mỏ",
+    "Chăn nuôi ngựa"
+   ],
+   "dung": 0,
+   "trang": 94
+  },
+  {
+   "hoi": "So với thời Phù Nam, thương nghiệp ở Nam Bộ thời kì này thế nào?",
+   "dap_an": [
+    "Phát triển hơn",
+    "Không còn phát triển như trước",
+    "Phát triển ngang bằng",
+    "Chưa xuất hiện"
+   ],
+   "dung": 1,
+   "trang": 94
+  },
+  {
+   "hoi": "Ảnh hưởng của văn minh nào ở Nam Bộ thời kì này không đậm nét?",
+   "dap_an": [
+    "Văn minh Ăng-co",
+    "Văn minh Ai Cập",
+    "Văn minh Hy Lạp",
+    "Văn minh Lưỡng Hà"
+   ],
+   "dung": 0,
+   "trang": 94
+  },
+  {
+   "hoi": "Tôn giáo nào được duy trì trong đời sống cư dân Nam Bộ thời kì này?",
+   "dap_an": [
+    "Hin-đu giáo và Phật giáo",
+    "Hồi giáo",
+    "Thiên Chúa giáo",
+    "Đạo Tin Lành"
+   ],
+   "dung": 0,
+   "trang": 94
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 94 (mục 2b: cư dân tập trung vùng đất cao phía tây; lúa nước, chăn nuôi, đánh bắt thuỷ hải sản, thủ công, buôn bán nhỏ; thương nghiệp không còn như thời Phù Nam; ảnh hưởng Ăng-co không đậm nét; truyền thống Phù Nam; Hin-đu, Phật giáo, tín ngưỡng dân gian; văn hoá bình dân sông nước). Khung dọc 9:16.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

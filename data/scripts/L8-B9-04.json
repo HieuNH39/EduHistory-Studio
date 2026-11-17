@@ -1,0 +1,179 @@
+{
+ "ma": "L8-B9-04",
+ "ten_tap": "Nghệ thuật dân gian: Hồn cốt Việt thế kỉ XVI-XVIII",
+ "ten_tap_en": "Folk Art: The Vietnamese Soul, 16th–18th Centuries",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 8 (bộ sách dùng chung)",
+  "bai": "Bài 9. Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+  "trang": [
+   45
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "dan-lang"
+ ],
+ "nhac": {
+  "tam_trang": "dân gian, rộn ràng",
+  "tep": "assets/music/vietnam-festival.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 8, Bài 9, tr. 45.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong bảo tàng, trước một mảng gỗ chạm khắc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Hồn cốt Việt thế kỉ XVI – XVIII nằm ở đâu? Ở những nét chạm khắc đình chùa và tiếng trống chèo!",
+     "Where is the Vietnamese soul of the 16th–18th centuries? In carved temples and the drums of chèo theatre!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ],
+   "ve_code": true,
+   "nen": "bao_tang"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa Bút Tháp, tỉnh Bắc Ninh (như Hình 9.4 SGK tr. 45)",
+    "tim": "Bút Tháp Quan Âm thousand arms",
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn; không vẽ bằng AI"
+   },
+   "hinh": "Tư liệu: tượng Quan Âm nghìn mắt nghìn tay (chùa Bút Tháp)",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nghệ thuật dân gian phát triển, tiêu biểu là điêu khắc trong các đình, chùa với nét chạm khắc mềm mại, mô tả cảnh sinh hoạt thường ngày, và tượng Phật rất đặc sắc, như tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa Bút Tháp.",
+     "Folk art flourished, especially temple carving with supple lines showing daily life, and remarkable Buddha statues like the thousand-eyed, thousand-armed Quan Âm at Bút Tháp pagoda."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "dan-lang"
+   ],
+   "hinh": "Khung dọc 9:16. Sân đình làng Đàng Ngoài thế kỉ XVII – XVIII lúc chiều: trên chiếu hoa trải giữa sân, các nghệ nhân chèo mặc áo màu, đầu chít khăn, múa hát; người đánh trống chèo ngồi bên; phía sau một người biểu diễn đi trên dây căng giữa hai cột tre, vài cô gái múa đèn; dân làng ngồi quanh xem đông vui",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Nghệ thuật sân khấu đa dạng với các loại hình như hát chèo, hát ả đào, hát tuồng. Ngoài ra còn có các điệu múa như múa trên dây, múa đèn.",
+     "Theatre was diverse: chèo, ả đào and tuồng singing, plus dances like tightrope dancing and lantern dancing."
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Loại hình sân khấu nào phát triển ở Đại Việt thế kỉ XVI – XVIII?",
+    "lua_chon": [
+     "Hát chèo, hát ả đào, hát tuồng",
+     "Kịch nói, nhạc rock",
+     "Ô-pê-ra, ba-lê"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Loại hình sân khấu nào phát triển thời kì này?",
+     "EduHistory asks you! Which theatre forms flourished then?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: hát chèo, hát ả đào, hát tuồng!",
+     "The answer is A: chèo, ả đào and tuồng!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Hân Hân giơ tay mời bình luận",
+   "loi": [
+    [
+     "Hân Hân",
+     "Cậu đã từng xem chèo hay tuồng chưa? Kể cho tụi mình nghe nhé!",
+     "Have you ever watched chèo or tuồng? Tell us about it!"
+    ]
+   ],
+   "nguon_trang": [
+    45
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Điêu khắc đình chùa thế kỉ XVI – XVIII có đặc điểm gì?",
+   "dap_an": [
+    "Chạm khắc mềm mại, mô tả cảnh sinh hoạt thường ngày",
+    "Thô cứng, chỉ vẽ hình học",
+    "Chỉ khắc chữ",
+    "Không có điêu khắc"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa nào?",
+   "dap_an": [
+    "Chùa Bút Tháp (Bắc Ninh)",
+    "Chùa Một Cột",
+    "Chùa Thiên Mụ",
+    "Chùa Hương"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Điệu múa dân gian nào được nhắc đến trong SGK?",
+   "dap_an": [
+    "Múa trên dây, múa đèn",
+    "Múa ba-lê",
+    "Múa lân sư rồng hiện đại",
+    "Múa đương đại"
+   ],
+   "dung": 0,
+   "trang": 45
+  },
+  {
+   "hoi": "Đâu KHÔNG phải loại hình sân khấu thế kỉ XVI – XVIII?",
+   "dap_an": [
+    "Ô-pê-ra",
+    "Hát chèo",
+    "Hát tuồng",
+    "Hát ả đào"
+   ],
+   "dung": 0,
+   "trang": 45
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 8 tr. 45 (nghệ thuật dân gian: điêu khắc đình chùa, chạm khắc mềm mại, tượng Phật đặc sắc; Hình 9.4 tượng Quan Âm nghìn mắt nghìn tay chùa Bút Tháp; sân khấu hát chèo, ả đào, tuồng; múa trên dây, múa đèn). Khung dọc; tượng Phật chỉ dùng ảnh tư liệu; một cảnh tái hiện mới (sân khấu chèo ở sân đình).",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

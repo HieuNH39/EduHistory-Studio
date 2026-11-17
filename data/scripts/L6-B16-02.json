@@ -1,0 +1,192 @@
+{
+ "ma": "L6-B16-02",
+ "ten_tap": "Bà Triệu - Nữ tướng cưỡi voi",
+ "ten_tap_en": "Lady Triệu: The Elephant-Riding General",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 16. Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+  "trang": [
+   73,
+   74
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "ba-trieu"
+ ],
+ "nhac": {
+  "tam_trang": "hào hùng, khí thế",
+  "tep": "assets/music/atlas-vietnam.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 16, tr. 73–74.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân giơ cao cuốn sách có hình con voi",
+   "loi": [
+    [
+     "Hân Hân",
+     "Năm 23 tuổi, một cô gái xứ Thanh đã cưỡi voi ra trận. Đó là Bà Triệu!",
+     "At 23, a young woman from Thanh Hoá rode an elephant into battle. That was Lady Triệu!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "ba-trieu"
+   ],
+   "hinh": "Khung dọc 9:16. Bà Triệu (vẽ khái quát, nét mặt cương nghị) mặc áo giáp nhẹ màu vàng, đầu chít khăn, ngồi trên bành voi chiến lớn, tay giơ cao thanh kiếm; phía sau là đông đảo nghĩa quân người Việt áo nâu cầm giáo dưới chân núi Nưa xanh thẫm, trời chiều rực đỏ (không máu, không cảnh giao chiến)",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đầu thế kỉ III, chính sách cai trị hà khắc của nhà Ngô khiến đời sống người Việt ngày càng cực khổ. Bà Triệu, tức Triệu Thị Trinh, đã lãnh đạo nhân dân khởi nghĩa.",
+     "In the early 3rd century, harsh Wu rule made Vietnamese life ever harder. Lady Triệu, Triệu Thị Trinh, led the people in revolt."
+    ],
+    [
+     "Hân Hân",
+     "Bà nói: Tôi muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá trường kình ở Biển Đông, lấy lại giang sơn, dựng nên độc lập, cởi ách nô lệ!",
+     "She said: I want to ride the strong wind, tread the fierce waves, slay the great whale of the Eastern Sea, reclaim our land, build independence, and throw off slavery!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Bà Triệu (tranh dân gian Đông Hồ, như Hình 3 SGK tr. 73)",
+    "tim": "Bà Triệu tranh Đông Hồ",
+    "yeu_cau": "tranh dân gian thuộc phạm vi công cộng hoặc ảnh có giấy phép mở; nếu không có thì dùng thẻ Ảnh tư liệu trong sách giáo khoa"
+   },
+   "hinh": "Tư liệu: tranh Đông Hồ Bà Triệu",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Năm 248, từ căn cứ núi Nưa, Thanh Hoá, khởi nghĩa bùng nổ, đánh hạ nhiều huyện lị ở Cửu Chân, Cửu Đức, Nhật Nam. Cả Giao Châu đều chấn động!",
+     "In 248, from Mount Nưa in Thanh Hoá, the revolt erupted and seized many districts in Cửu Chân, Cửu Đức and Nhật Nam. All of Giao Châu shook!"
+    ],
+    [
+     "Hân Hân",
+     "Nhà Ngô cử 8 000 quân sang đàn áp. Bà Triệu anh dũng hi sinh ở núi Tùng. Cuộc khởi nghĩa đã thức tỉnh ý thức dân tộc, tạo đà cho khởi nghĩa Lý Bí sau này.",
+     "Wu sent 8,000 troops. Lady Triệu died bravely at Mount Tùng. Her revolt awakened national consciousness and paved the way for Lý Bí's uprising."
+    ]
+   ],
+   "nguon_trang": [
+    73,
+    74
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Khởi nghĩa Bà Triệu bùng nổ năm nào?",
+    "lua_chon": [
+     "Năm 40",
+     "Năm 248",
+     "Năm 542"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Khởi nghĩa Bà Triệu bùng nổ năm nào?",
+     "EduHistory asks you! When did Lady Triệu's uprising break out?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: năm 248, ở núi Nưa, Thanh Hoá!",
+     "The answer is B: 248, at Mount Nưa, Thanh Hoá!"
+    ]
+   ],
+   "nguon_trang": [
+    73
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Quân Ngô từng truyền nhau: Vung tay đánh cọp xem còn dễ, đối diện Bà Vương mới khó sao! Ở nơi cậu sống có con đường nào mang tên Bà Triệu không? Bình luận nhé!",
+     "Wu soldiers used to say: fighting a tiger is easy, facing the Lady King is hard! Is there a street named after Lady Triệu where you live? Tell us!"
+    ]
+   ],
+   "nguon_trang": [
+    73,
+    77
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Bà Triệu còn có tên gọi là gì?",
+   "dap_an": [
+    "Triệu Thị Trinh",
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Lê Chân"
+   ],
+   "dung": 0,
+   "trang": 73
+  },
+  {
+   "hoi": "Căn cứ khởi nghĩa Bà Triệu ở đâu?",
+   "dap_an": [
+    "Núi Nưa (Thanh Hoá)",
+    "Đầm Dạ Trạch",
+    "Mê Linh",
+    "Đường Lâm"
+   ],
+   "dung": 0,
+   "trang": 73
+  },
+  {
+   "hoi": "Nhà Ngô cử bao nhiêu quân sang đàn áp khởi nghĩa Bà Triệu?",
+   "dap_an": [
+    "8 000 quân",
+    "800 quân",
+    "80 000 quân",
+    "1 000 quân"
+   ],
+   "dung": 0,
+   "trang": 74
+  },
+  {
+   "hoi": "Khởi nghĩa Bà Triệu có ý nghĩa gì?",
+   "dap_an": [
+    "Thức tỉnh ý thức dân tộc, tạo đà cho khởi nghĩa Lý Bí",
+    "Giành độc lập lâu dài",
+    "Lập nước Vạn Xuân",
+    "Chấm dứt thời Bắc thuộc"
+   ],
+   "dung": 0,
+   "trang": 74
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 73 (mục 2: chính sách nhà Ngô đầu thế kỉ III; ô Bà Triệu – Triệu Thị Trinh, 23 tuổi, cưỡi voi, câu ca của quân Ngô; tư liệu 2 lời Bà Triệu; năm 248 từ núi Nưa, Cửu Chân, Cửu Đức, Nhật Nam; Giao Châu chấn động) và tr. 74 (8 000 quân Ngô; hi sinh ở núi Tùng; ý nghĩa). Khung dọc; một cảnh tái hiện mới (Bà Triệu cưỡi voi, vẽ khái quát, không cảnh giao chiến). Lời Bà Triệu do dẫn chuyện trích dẫn theo tư liệu SGK.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

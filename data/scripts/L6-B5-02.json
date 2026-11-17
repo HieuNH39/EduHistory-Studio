@@ -1,0 +1,186 @@
+{
+ "ma": "L6-B5-02",
+ "ten_tap": "Sự ra đời của Công xã thị tộc",
+ "ten_tap_en": "The Birth of the Clan Community",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 5. Xã hội nguyên thuỷ",
+  "trang": [
+   20,
+   21
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-tinh-khon"
+ ],
+ "nhac": {
+  "tam_trang": "ấm áp, gần gũi",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 5, tr. 20–21.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện, Hân Hân cầm một tấm sơ đồ cây gia đình",
+   "loi": [
+    [
+     "Hân Hân",
+     "Khi Người tinh khôn xuất hiện, bầy người nguyên thuỷ tan rã, nhường chỗ cho một tổ chức xã hội chặt chẽ hơn. Đó là gì nhỉ?",
+     "When modern humans appeared, the primitive herds broke up, giving way to a tighter social organisation. What was it?"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B5-01 cảnh 3: khung dọc, trước cửa hang đá, khoảng hai ba chục Người tối cổ quây quần, người đứng đầu chỉ việc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trước đó, Người tối cổ sống thành những nhóm nhỏ vài ba chục người, gọi là bầy người nguyên thuỷ.",
+     "Before that, early humans lived in small groups of a few dozen, called primitive herds."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B5-01/canh-03.jpg",
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B5-03 cảnh 8 (khung dọc cắt giữa ảnh): khu cư trú của Người tinh khôn bên thung lũng, người trồng rau, gieo lúa, chuồng gia súc",
+   "loi": [
+    [
+     "Hân Hân",
+     "Còn đây là công xã thị tộc! Thị tộc là một nhóm người gồm khoảng 2 – 3 thế hệ có cùng dòng máu, sống quần tụ với nhau.",
+     "And this is the clan community! A clan is a group of about 2–3 generations of the same blood, living together."
+    ],
+    [
+     "Nhật Minh",
+     "Mọi người bình đẳng, cùng làm chung, hưởng chung!",
+     "Everyone is equal, working together and sharing together!"
+    ]
+   ],
+   "anh": "assets/episodes/L6-B5-03/canh-08.jpg",
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thị tộc gồm khoảng mấy thế hệ có cùng dòng máu?",
+    "lua_chon": [
+     "1 thế hệ",
+     "2 – 3 thế hệ",
+     "10 thế hệ"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thị tộc gồm khoảng mấy thế hệ?",
+     "EduHistory asks you! About how many generations made up a clan?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: khoảng 2 – 3 thế hệ!",
+     "The answer is B: about 2–3 generations!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, cùng làm chung, hưởng chung có ý nghĩa gì với người nguyên thuỷ? Bình luận nhé!",
+     "What do you think working and sharing together meant for early people? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    21
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Khi nào bầy người nguyên thuỷ tan rã, nhường chỗ cho công xã thị tộc?",
+   "dap_an": [
+    "Khi Người tinh khôn xuất hiện",
+    "Khi Vượn người xuất hiện",
+    "Khi có chữ viết",
+    "Khi có nhà nước"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Thị tộc là nhóm người có quan hệ gì với nhau?",
+   "dap_an": [
+    "Cùng dòng máu",
+    "Cùng nghề nghiệp",
+    "Cùng sở thích",
+    "Không quen biết"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Trong công xã thị tộc, mọi người sống như thế nào?",
+   "dap_an": [
+    "Bình đẳng, cùng làm chung, hưởng chung",
+    "Chia giàu nghèo",
+    "Mỗi người sống riêng",
+    "Có vua cai trị"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Bầy người nguyên thuỷ gồm khoảng bao nhiêu người?",
+   "dap_an": [
+    "Vài ba chục người",
+    "Vài nghìn người",
+    "Hai người",
+    "Hàng triệu người"
+   ],
+   "dung": 0,
+   "trang": 20
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 20 (bầy người nguyên thuỷ – nhóm nhỏ vài ba chục người ở giai đoạn Người tối cổ) và tr. 21 (Người tinh khôn xuất hiện, bầy người tan rã; công xã thị tộc 2 – 3 thế hệ cùng dòng máu, sống quần tụ, bình đẳng, làm chung, hưởng chung). Khung dọc; dùng lại ảnh L6-B5-01 cảnh 3, L6-B5-03 cảnh 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

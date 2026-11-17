@@ -1,0 +1,202 @@
+{
+ "ma": "L7-B1-03",
+ "ten_tap": "Thiên Chúa giáo: Từ tôn giáo của người nghèo đến quốc giáo",
+ "ten_tap_en": "Christianity: From the Faith of the Poor to a State Religion",
+ "khung": "60s",
+ "huong": "doc",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 7 (bộ sách dùng chung)",
+  "bai": "Bài 1. Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+  "trang": [
+   11,
+   12
+  ]
+ },
+ "nhan_vat_lich_su": [],
+ "nhac": {
+  "tam_trang": "trang nghiêm, trung tính",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 7, Bài 1, tr. 11–12.",
+ "chinh_sach_hinh": "Chủ đề tôn giáo: không dùng AI vẽ nhân vật tôn giáo; chỉ dùng ảnh tư liệu địa danh (ghi nguồn, giấy phép mở) và thẻ dựng bằng code; lời thoại trung tính theo đúng SGK.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong thư viện; Hân Hân mở cuốn sách lịch sử thế giới",
+   "loi": [
+    [
+     "Hân Hân",
+     "Ở Tây Âu thời phong kiến, có một tổ chức thế lực rất lớn: Giáo hội Thiên Chúa giáo.",
+     "In feudal Western Europe, one organisation had enormous power: the Christian Church."
+    ],
+    [
+     "Nhật Minh",
+     "Tôn giáo này ra đời thế nào nhỉ?",
+     "How did this religion begin?"
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ],
+   "ve_code": true,
+   "nen": "thu_vien"
+  },
+  {
+   "so": 2,
+   "lop": "tu_lieu",
+   "tu_lieu": {
+    "mo_ta": "Thành cổ Giê-ru-sa-lem ngày nay",
+    "tim": "Jerusalem Old City panorama",
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+   },
+   "hinh": "Ảnh tư liệu: thành cổ Giê-ru-sa-lem",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thiên Chúa giáo ra đời vào đầu Công nguyên ở vùng Giê-ru-sa-lem, thuộc Pa-le-xtin ngày nay.",
+     "Christianity arose at the beginning of the Common Era in the Jerusalem region, in today's Palestine."
+    ],
+    [
+     "Hân Hân",
+     "Ban đầu, đó là tôn giáo của những người nghèo khổ, bị áp bức. Về sau, nó trở thành công cụ cai trị về mặt tinh thần của giai cấp thống trị.",
+     "At first it was the religion of the poor and oppressed. Later it became a spiritual tool of rule for the ruling class."
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "ghi_nho",
+   "y": [
+    "Đầu Công nguyên: ra đời ở vùng Giê-ru-sa-lem",
+    "Thế kỉ IV: quốc giáo của đế quốc La Mã",
+    "Thời phong kiến: Giáo hội có thế lực rất lớn ở Tây Âu"
+   ],
+   "loi": [
+    [
+     "Nhật Minh",
+     "Đến thế kỉ IV, Thiên Chúa giáo được công nhận là quốc giáo của đế quốc La Mã.",
+     "By the 4th century, Christianity was recognised as the state religion of the Roman Empire."
+    ],
+    [
+     "Hân Hân",
+     "Thời phong kiến, Giáo hội Thiên Chúa giáo có thế lực rất lớn ở Tây Âu, cả về chính trị, kinh tế, văn hoá, tư tưởng.",
+     "In the feudal age, the Christian Church held great power in Western Europe: political, economic, cultural and ideological."
+    ]
+   ],
+   "nguon_trang": [
+    11,
+    12
+   ],
+   "tieu_de": "THIÊN CHÚA GIÁO",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Thiên Chúa giáo trở thành quốc giáo của đế quốc La Mã vào thế kỉ nào?",
+    "lua_chon": [
+     "Thế kỉ I",
+     "Thế kỉ IV",
+     "Thế kỉ IX"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Thiên Chúa giáo được công nhận là quốc giáo của đế quốc La Mã vào thế kỉ nào?",
+     "EduHistory asks you! In which century did Christianity become the Roman Empire's state religion?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là B: thế kỉ IV!",
+     "The answer is B: the 4th century!"
+    ]
+   ],
+   "nguon_trang": [
+    11
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Khung dọc 9:16: Nhật Minh và Hân Hân (vẽ bằng code) nhìn về phía người xem, Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Theo cậu, vì sao Giáo hội lại có thế lực lớn đến vậy ở Tây Âu thời phong kiến? Bình luận nhé!",
+     "Why do you think the Church was so powerful in feudal Western Europe? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    12
+   ],
+   "ve_code": true,
+   "nen": "studio"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Thiên Chúa giáo ra đời ở đâu?",
+   "dap_an": [
+    "Vùng Giê-ru-sa-lem",
+    "Thành Rô-ma",
+    "Vùng Lưỡng Hà",
+    "Vùng Ấn Độ"
+   ],
+   "dung": 0,
+   "trang": 11
+  },
+  {
+   "hoi": "Ban đầu, Thiên Chúa giáo là tôn giáo của ai?",
+   "dap_an": [
+    "Quý tộc La Mã",
+    "Những người nghèo khổ, bị áp bức",
+    "Các lãnh chúa",
+    "Thương nhân"
+   ],
+   "dung": 1,
+   "trang": 11
+  },
+  {
+   "hoi": "Thiên Chúa giáo ra đời vào thời gian nào?",
+   "dap_an": [
+    "Đầu Công nguyên",
+    "Thế kỉ IV",
+    "Thế kỉ IX",
+    "Thế kỉ XV"
+   ],
+   "dung": 0,
+   "trang": 11
+  },
+  {
+   "hoi": "Thời phong kiến, Giáo hội Thiên Chúa giáo ở Tây Âu có thế lực lớn về những mặt nào?",
+   "dap_an": [
+    "Chỉ về tôn giáo",
+    "Chính trị, kinh tế, văn hoá, tư tưởng",
+    "Chỉ về quân sự",
+    "Chỉ về thương mại"
+   ],
+   "dung": 1,
+   "trang": 12
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 7 tr. 11 (mục 3: ra đời đầu Công nguyên ở Giê-ru-sa-lem, thuộc Pa-le-xtin ngày nay; tôn giáo của người nghèo khổ, bị áp bức, về sau là công cụ cai trị tinh thần; thế kỉ IV quốc giáo La Mã) và tr. 12 (Giáo hội có thế lực rất lớn). Tôn trọng tín ngưỡng: không dùng AI vẽ nhân vật tôn giáo; chỉ dùng ảnh tư liệu địa danh và thẻ ghi nhớ.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}

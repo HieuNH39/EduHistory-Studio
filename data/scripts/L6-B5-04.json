@@ -1,0 +1,320 @@
+{
+ "ma": "L6-B5-04",
+ "ten_tap": "Lao động - Chìa khoá của văn minh",
+ "ten_tap_en": "Labour: The Key to Civilisation",
+ "khung": "2-3p",
+ "huong": "ngang",
+ "nguon": {
+  "sach": "Lịch sử và Địa lí 6 (bộ sách dùng chung)",
+  "bai": "Bài 5. Xã hội nguyên thuỷ",
+  "trang": [
+   20,
+   21,
+   23
+  ]
+ },
+ "nhan_vat_lich_su": [
+  "nguoi-tinh-khon"
+ ],
+ "nhac": {
+  "tam_trang": "truyền cảm hứng, ấm áp",
+  "tep": "assets/music/lost-memories.mp3"
+ },
+ "ghi_chu_tai_hien": "Hình ảnh mang tính minh hoạ; nội dung dựa trên SGK Lịch sử và Địa lí 6, Bài 5, tr. 20–23.",
+ "canh": [
+  {
+   "so": 1,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code, đồng phục FPT) trong lớp học, Hân Hân giơ hai bàn tay ra trước",
+   "loi": [
+    [
+     "Hân Hân",
+     "Vì sao từ Người tối cổ, con người lại trở thành Người tinh khôn?",
+     "Why did early humans become modern humans?"
+    ],
+    [
+     "Nhật Minh",
+     "Câu trả lời nằm ở hai chữ: lao động!",
+     "The answer lies in one word: labour!"
+    ]
+   ],
+   "nguon_trang": [
+    20,
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  },
+  {
+   "so": 2,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-03 cảnh 4: cận cảnh đôi tay người nguyên thuỷ ghè hòn đá thành chiếc rìu tay",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Trong quá trình lao động, Người tối cổ đã liên tục cải tiến công cụ. Đôi bàn tay dần trở nên khéo léo hơn,",
+     "Through labour, early humans kept improving their tools. Their hands grew ever more skilful,"
+    ],
+    [
+     "Hân Hân",
+     "cơ thể cũng dần biến đổi để trở thành Người tinh khôn, tức Người hiện đại.",
+     "and their bodies gradually changed into modern humans."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-03/canh-04.jpg",
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 3,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-01 cảnh 7: một gia đình Người tinh khôn đứng trước cửa hang, dáng thẳng, cơ thể gọn",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Người tinh khôn có bàn tay nhỏ, khéo léo, các ngón tay linh hoạt, cơ thể gọn và linh hoạt.",
+     "Modern humans had small, skilful hands, nimble fingers, and a compact, agile body."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-01/canh-07.jpg",
+   "nguon_trang": [
+    20
+   ]
+  },
+  {
+   "so": 4,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Nhờ đâu cơ thể con người dần biến đổi, hoàn thiện để trở thành Người tinh khôn?",
+    "lua_chon": [
+     "Nhờ lao động",
+     "Nhờ ngủ nhiều",
+     "Nhờ khí hậu lạnh"
+    ],
+    "dung": 0
+   },
+   "loi": [
+    [
+     "Hân Hân",
+     "EduHistory hỏi bạn! Nhờ đâu cơ thể con người dần hoàn thiện?",
+     "EduHistory asks you! What made the human body gradually perfect itself?"
+    ],
+    [
+     "Nhật Minh",
+     "Đáp án là A: nhờ lao động!",
+     "The answer is A: labour!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 5,
+   "lop": "chuyen_canh",
+   "hieu_ung": "cong_trong_dong",
+   "chu": "Lao động gắn kết con người",
+   "thoi_luong": 2.0
+  },
+  {
+   "so": 6,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-toi-co"
+   ],
+   "hinh": "Dùng lại ảnh L6-B4-03 cảnh 6: cửa hang Thẩm Khuyên, một nhóm Người tối cổ ngồi quây quần",
+   "loi": [
+    [
+     "Hân Hân",
+     "Quá trình lao động kiếm sống và chế ngự thiên nhiên đã khiến con người liên kết với nhau, hình thành các tổ chức xã hội.",
+     "Labouring to survive and tame nature brought people together, forming social organisations."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B4-03/canh-06.jpg",
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 7,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B5-03 cảnh 8: khu cư trú của Người tinh khôn, người trồng rau, gieo lúa, chuồng gia súc",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Con người biết sáng tạo ra những công cụ và phương thức sản xuất mới: trồng rau, trồng lúa, chăn nuôi, làm gốm, dệt vải.",
+     "People created new tools and ways of producing: growing vegetables and rice, raising animals, making pottery, weaving."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B5-03/canh-08.jpg",
+   "nguon_trang": [
+    21,
+    23
+   ]
+  },
+  {
+   "so": 8,
+   "lop": "tai_hien",
+   "chuyen_dong": "kling",
+   "nhan_vat": [
+    "nguoi-tinh-khon"
+   ],
+   "hinh": "Dùng lại ảnh L6-B5-03 cảnh 5: trong lòng hang dưới ánh lửa, một người vẽ cảnh đi săn lên vách đá",
+   "loi": [
+    [
+     "Hân Hân",
+     "Nhờ đó, đời sống vật chất và tinh thần được nâng cao, con người từng bước tiến tới xã hội văn minh, hiện đại.",
+     "So material and spiritual life improved, and humans stepped toward a civilised, modern society."
+    ]
+   ],
+   "anh": "assets/episodes/L6-B5-03/canh-05.jpg",
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 9,
+   "lop": "cau_hoi",
+   "thoi_luong_toi_thieu": 7,
+   "cau_hoi": {
+    "hoi": "Quá trình lao động kiếm sống và chế ngự thiên nhiên đã khiến con người làm gì?",
+    "lua_chon": [
+     "Sống tách biệt",
+     "Liên kết với nhau, hình thành các tổ chức xã hội",
+     "Bỏ công cụ lao động"
+    ],
+    "dung": 1
+   },
+   "loi": [
+    [
+     "Nhật Minh",
+     "Dừng hình! Lao động đã khiến con người làm gì?",
+     "Pause! What did labour lead people to do?"
+    ],
+    [
+     "Hân Hân",
+     "Đáp án là B: liên kết với nhau, hình thành các tổ chức xã hội!",
+     "The answer is B: join together and form social organisations!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ]
+  },
+  {
+   "so": 10,
+   "lop": "ghi_nho",
+   "y": [
+    "Lao động giúp cơ thể con người hoàn thiện, trở thành Người tinh khôn",
+    "Lao động giúp con người liên kết, hình thành tổ chức xã hội",
+    "Lao động tạo ra công cụ, phương thức sản xuất mới, nâng cao đời sống"
+   ],
+   "loi": [
+    [
+     "Hân Hân",
+     "Ghi nhớ nhé: lao động giúp cơ thể con người hoàn thiện, giúp con người liên kết thành xã hội,",
+     "Remember: labour perfected the human body, joined people into society,"
+    ],
+    [
+     "Nhật Minh",
+     "và là động lực nâng cao đời sống vật chất và tinh thần.",
+     "and drove better material and spiritual lives."
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "tieu_de": "VAI TRÒ CỦA LAO ĐỘNG",
+   "hien_luc_theo_cau": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "so": 11,
+   "lop": "dan_chuyen",
+   "chuyen_dong": "kling",
+   "hinh": "Nhật Minh và Hân Hân (vẽ bằng code) trong lớp học nhìn về phía người xem; Nhật Minh giơ tay mời bình luận",
+   "loi": [
+    [
+     "Nhật Minh",
+     "Thử thách cho cậu: theo cậu, lao động có vai trò như thế nào đối với con người và xã hội ngày nay? Bình luận nhé!",
+     "Your challenge: what role does labour play for people and society today? Tell us in the comments!"
+    ]
+   ],
+   "nguon_trang": [
+    23
+   ],
+   "ve_code": true,
+   "nen": "lop_hoc"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "hoi": "Trong quá trình lao động, đôi bàn tay của Người tối cổ thay đổi thế nào?",
+   "dap_an": [
+    "Dần trở nên khéo léo hơn",
+    "Yếu đi",
+    "Không thay đổi",
+    "Dài ra"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Người tinh khôn còn được gọi là gì?",
+   "dap_an": [
+    "Người hiện đại",
+    "Vượn người",
+    "Người tối cổ",
+    "Người cổ đại"
+   ],
+   "dung": 0,
+   "trang": 20
+  },
+  {
+   "hoi": "Ở giai đoạn công xã thị tộc, Người tinh khôn đã biết làm gì?",
+   "dap_an": [
+    "Trồng rau, trồng lúa, chăn nuôi, làm gốm, dệt vải",
+    "Chế tạo máy móc",
+    "Viết sách",
+    "Đúc tiền"
+   ],
+   "dung": 0,
+   "trang": 21
+  },
+  {
+   "hoi": "Lao động giúp con người từng bước tiến tới điều gì?",
+   "dap_an": [
+    "Xã hội văn minh, hiện đại",
+    "Sống trong hang mãi mãi",
+    "Bỏ làm nông nghiệp",
+    "Sống riêng lẻ"
+   ],
+   "dung": 0,
+   "trang": 23
+  }
+ ],
+ "kiem_tra": {
+  "viet": "Claude",
+  "doi_chieu": "OCR SGK LSĐL 6 tr. 20 (Người tối cổ cải tiến công cụ, đôi tay khéo léo, cơ thể biến đổi thành Người tinh khôn; ô đặc điểm Người tinh khôn), tr. 21 (đời sống Người tinh khôn) và tr. 23 (vai trò của lao động: cơ thể hoàn thiện, liên kết thành tổ chức xã hội, sáng tạo công cụ và phương thức sản xuất mới, nâng cao đời sống, tiến tới xã hội văn minh; câu hỏi 3). Dùng lại ảnh L6-B4-03 cảnh 4, 6; L6-B4-01 cảnh 7; L6-B5-03 cảnh 5, 8.",
+  "gv_duyet": "Claude tự duyệt theo uỷ quyền của GVHD (13/11/2026)"
+ }
+}
