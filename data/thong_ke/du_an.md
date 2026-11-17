@@ -1,5 +1,5 @@
 # Thống kê dự án EduHistory Studio
-Cập nhật 17/11/2026 06:05 (tự động từ kho mã, tools/thong_ke_du_an.py)
+Cập nhật 18/11/2026 04:50 (tự động từ kho mã, tools/thong_ke_du_an.py)
 
 ## danh_muc
 - so_tap: 359
@@ -9,18 +9,18 @@ Cập nhật 17/11/2026 06:05 (tự động từ kho mã, tools/thong_ke_du_an.p
 - theo_khung: {'60s': 91, '2-3p': 189, '4-5p': 79}
 
 ## kich_ban
-- so_kich_ban: 221
-- theo_lop: {'L6': 46, 'L7': 53, 'L8': 55, 'L9': 67}
-- theo_khung: {'60s': 36, '2-3p': 126, '4-5p': 59}
-- so_canh: 2737
-- canh_theo_lop: {'dan_chuyen': 481, 'tu_lieu': 150, 'cau_hoi': 396, 'chuyen_canh': 330, 'ghi_nho': 427, 'tai_hien': 517, 'du_hanh': 132, 'truc_thoi_gian': 105, 'sa_ban': 192, 'mo_phong': 7}
-- so_cau_trac_nghiem: 884
-- so_cau_dung_hinh: 396
-- so_cau_thoai: 4922
-- so_ky_tu_loi_doc: 444773
-- so_trang_sgk_doi_chieu: 342
-- so_nhan_vat_lich_su_co_loi: 113
-- so_kich_ban_phat_hien_sai_lech_danh_muc: 69
+- so_kich_ban: 359
+- theo_lop: {'L6': 77, 'L7': 83, 'L8': 87, 'L9': 112}
+- theo_khung: {'60s': 91, '2-3p': 189, '4-5p': 79}
+- so_canh: 4006
+- canh_theo_lop: {'dan_chuyen': 840, 'tu_lieu': 339, 'cau_hoi': 611, 'chuyen_canh': 491, 'ghi_nho': 540, 'tai_hien': 738, 'du_hanh': 132, 'truc_thoi_gian': 114, 'sa_ban': 194, 'mo_phong': 7}
+- so_cau_trac_nghiem: 1436
+- so_cau_dung_hinh: 611
+- so_cau_thoai: 6838
+- so_ky_tu_loi_doc: 625137
+- so_trang_sgk_doi_chieu: 393
+- so_nhan_vat_lich_su_co_loi: 115
+- so_kich_ban_phat_hien_sai_lech_danh_muc: 73
 - vi_du_kich_ban_co_sua: ['L6-B1-03', 'L6-B13-04', 'L6-B15-01', 'L6-B19-01', 'L6-B19-02', 'L6-B20-01', 'L6-B3-01', 'L6-B4-02', 'L6-B5-01', 'L6-B6-03', 'L6-B7-02', 'L6-B8-02']
 
 ## sa_ban
@@ -28,23 +28,23 @@ Cập nhật 17/11/2026 06:05 (tự động từ kho mã, tools/thong_ke_du_an.p
 - ban_do_co_hoang_sa_truong_sa: 27
 
 ## hinh_anh
-- anh_canh: 524
-- anh_tu_lieu_that: 150
-- clip_ai: 44
+- anh_canh: 601
+- anh_tu_lieu_that: 339
+- clip_ai: 73
 - clip_kling_da_tai: 17
 - clip_gemini: 1
 - bang_thiet_ke_nhan_vat: 10
 
 ## video
-- so_video_v1: 221
-- tong_giay: 34300.5
+- so_video_v1: 279
+- tong_giay: 39785.1
 
 ## san_xuat
-- so_lan_dung_ghi_nhat_ky: 399
-- so_tap_ghi: 221
-- phut_may_tren_phut_video: 2.84
-- giay_may_trung_binh_moi_tap: 440.5
-- phan_bo_khau_s: {'giong_doc_s': 19227.0, 'dung_hinh_s': 54690.6, 'sfx_s': 1167.2, 'am_thanh_s': 2814.9, 'ghep_cuoi_s': 20627.8}
+- so_lan_dung_ghi_nhat_ky: 472
+- so_tap_ghi: 278
+- phut_may_tren_phut_video: 2.99
+- giay_may_trung_binh_moi_tap: 427.4
+- phan_bo_khau_s: {'giong_doc_s': 23718.3, 'dung_hinh_s': 66348.9, 'sfx_s': 1429.8, 'am_thanh_s': 3394.1, 'ghep_cuoi_s': 25350.1}
 
 ## am_thanh
 - hieu_ung_su_kien: 34
@@ -57,18 +57,18 @@ Cập nhật 17/11/2026 06:05 (tự động từ kho mã, tools/thong_ke_du_an.p
 - so_trang: 52
 
 ## website
-- so_trang_tap: 221
+- so_trang_tap: 359
 
 ## ma_nguon
-- python_dong: 13677
+- python_dong: 13697
 - python_tep: 86
 - js_dong: 4936
 - js_tep: 156
 - html_css_dong: 4276
-- so_commit: 49
+- so_commit: 58
 - so_phien_nhat_ky_vibe_coding: 7
-- so_dong_nhat_ky_loi_va_sua: 121
+- so_dong_nhat_ky_loi_va_sua: 127
 
 ## giong_doc
-- so_nhan_vat_co_giong: 121
+- so_nhan_vat_co_giong: 123
 - so_giong_mau_dung: 16

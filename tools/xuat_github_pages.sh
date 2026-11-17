@@ -22,8 +22,8 @@ for v in web/videos/*.mp4; do
   w=$(ffprobe -v error -select_streams v -show_entries stream=width -of csv=p=0 "$v") || continue
   [ -n "$h" ] && [ -n "$w" ] || { echo "bỏ qua $ma (đang ghi)"; continue; }
   if [ "$h" -gt "$w" ]; then sc="scale=720:-2"; else sc="scale=-2:720"; fi
-  nice -n 19 ffmpeg -v error -y -threads 2 -i "$v" -vf "$sc" -c:v libx264 -preset veryfast -crf 27 \
-       -c:a aac -b:a 128k -aac_is 0 -aac_pns 0 -movflags +faststart "$dich.tmp.mp4" && mv "$dich.tmp.mp4" "$dich"
+  nice -n 19 ffmpeg -v error -y -threads 2 -i "$v" -vf "$sc" -c:v libx264 -preset veryfast -crf 32 \
+       -c:a aac -b:a 80k -aac_is 0 -aac_pns 0 -movflags +faststart "$dich.tmp.mp4" && mv "$dich.tmp.mp4" "$dich" && { grep -qx "$ma" tmp/pages/v32.txt 2>/dev/null || echo "$ma" >> tmp/pages/v32.txt; }
   echo "nén $ma: $(du -h "$dich" | cut -f1)"
 done
 touch "$OUT/site/.nojekyll"
@@ -38,6 +38,6 @@ git -c user.name=HieuNH39 -c user.email=HieuNH39@users.noreply.github.com commit
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01XUaCeG6RmrTP1nxBNNZ2CP"
 git remote add origin https://github.com/HieuNH39/EduHistory-Studio.git
-git -c http.postBuffer=524288000 push -q -f origin gh-pages || { echo "LỖI: chưa đẩy được gh-pages"; exit 1; }
+git -c pack.window=0 -c http.postBuffer=524288000 push -q -f origin gh-pages || { echo "LỖI: chưa đẩy được gh-pages"; exit 1; }
 [ "$(git rev-parse HEAD)" == "$(git ls-remote origin gh-pages | cut -f1)" ] || { echo "LỖI: nhánh gh-pages trên GitHub chưa khớp"; exit 1; }
 echo "Đã đẩy: https://hieunh39.github.io/EduHistory-Studio/"
