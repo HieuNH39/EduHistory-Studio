@@ -38,5 +38,6 @@ git -c user.name=HieuNH39 -c user.email=HieuNH39@users.noreply.github.com commit
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01XUaCeG6RmrTP1nxBNNZ2CP"
 git remote add origin https://github.com/HieuNH39/EduHistory-Studio.git
-git -c http.postBuffer=524288000 push -q -f origin gh-pages
+git -c http.postBuffer=524288000 push -q -f origin gh-pages || { echo "LỖI: chưa đẩy được gh-pages"; exit 1; }
+[ "$(git rev-parse HEAD)" == "$(git ls-remote origin gh-pages | cut -f1)" ] || { echo "LỖI: nhánh gh-pages trên GitHub chưa khớp"; exit 1; }
 echo "Đã đẩy: https://hieunh39.github.io/EduHistory-Studio/"
