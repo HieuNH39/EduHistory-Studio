@@ -4763,16 +4763,21 @@
    "ten_tap_en": "Trần Dynasty Culture: The Spirit of Đông A",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     65,
     66,
     67
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 202.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B13-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B13-04.jpg",
    "trang": "tap/L7-B13-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5141,17 +5146,22 @@
    "ten_tap_en": "Why Did We Win?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     79,
     80,
     81,
     82
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 148.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B16-06.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B16-06.jpg",
    "trang": "tap/L7-B16-06.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7484,15 +7494,20 @@
    "ten_tap_en": "Heartfelt Reform Memorials",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     82,
     83
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 137.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B17-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B17-04.jpg",
    "trang": "tap/L8-B17-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10810,16 +10825,21 @@
    "ten_tap_en": "The Challenge of Climate Change",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     227,
     228,
     229
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 94.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-CD2-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD2-04.jpg",
    "trang": "tap/L9-CD2-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10917,14 +10937,19 @@
    "ten_tap_en": "What Does International Law Say?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     234
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 113.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-CD3-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD3-03.jpg",
    "trang": "tap/L9-CD3-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10965,17 +10990,22 @@
    "ten_tap_en": "What Can I Do to Protect Our Seas and Islands?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     230,
     232,
     233,
     235
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 44.7,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-CD3-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD3-05.jpg",
    "trang": "tap/L9-CD3-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4

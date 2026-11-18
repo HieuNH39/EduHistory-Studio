@@ -1,5 +1,5 @@
 {
- "thoi_diem": "18/11/2026 12:26",
+ "thoi_diem": "18/11/2026 13:45",
  "danh_muc": {
   "so_tap": 359,
   "so_bai": 85,
@@ -71,14 +71,14 @@
  "hinh_anh": {
   "anh_canh": 601,
   "anh_tu_lieu_that": 339,
-  "clip_ai": 91,
+  "clip_ai": 95,
   "clip_kling_da_tai": 17,
   "clip_gemini": 1,
   "bang_thiet_ke_nhan_vat": 10
  },
  "video": {
-  "so_video_v1": 348,
-  "tong_giay": 47072.3,
+  "so_video_v1": 359,
+  "tong_giay": 48329.2,
   "danh_sach": {
    "L6-B1-01": 47.4,
    "L6-B1-02": 109.5,
@@ -176,6 +176,7 @@
    "L7-B13-01": 56.2,
    "L7-B13-02": 157.4,
    "L7-B13-03": 158.9,
+   "L7-B13-04": 202.8,
    "L7-B14-01": 63.3,
    "L7-B14-02": 146.5,
    "L7-B14-03": 216.0,
@@ -189,6 +190,7 @@
    "L7-B16-03": 144.3,
    "L7-B16-04": 150.3,
    "L7-B16-05": 191.5,
+   "L7-B16-06": 148.1,
    "L7-B17-01": 52.1,
    "L7-B17-02": 182.9,
    "L7-B17-03": 203.8,
@@ -276,6 +278,7 @@
    "L8-B17-01": 51.5,
    "L8-B17-02": 149.7,
    "L8-B17-03": 290.9,
+   "L8-B17-04": 137.0,
    "L8-B18-01": 50.3,
    "L8-B18-02": 149.8,
    "L8-B18-03": 109.6,
@@ -411,7 +414,9 @@
    "L9-B7-01": 51.5,
    "L9-B7-02": 166.9,
    "L9-B7-03": 171.2,
+   "L9-B7-04": 172.3,
    "L9-B8-01": 58.8,
+   "L9-B8-02": 126.0,
    "L9-B8-03": 172.5,
    "L9-B8-04": 225.9,
    "L9-B8-05": 59.9,
@@ -420,27 +425,33 @@
    "L9-B9-02": 131.7,
    "L9-B9-03": 277.3,
    "L9-B9-04": 84.4,
+   "L9-CD1-01": 51.9,
    "L9-CD1-02": 159.9,
    "L9-CD1-03": 144.6,
+   "L9-CD1-04": 114.1,
    "L9-CD2-01": 111.0,
    "L9-CD2-02": 115.3,
+   "L9-CD2-03": 52.4,
+   "L9-CD2-04": 94.4,
    "L9-CD2-05": 235.6,
    "L9-CD3-01": 171.5,
    "L9-CD3-02": 189.5,
-   "L9-CD3-04": 130.5
+   "L9-CD3-03": 113.2,
+   "L9-CD3-04": 130.5,
+   "L9-CD3-05": 44.7
   }
  },
  "san_xuat": {
-  "so_lan_dung_ghi_nhat_ky": 545,
-  "so_tap_ghi": 348,
+  "so_lan_dung_ghi_nhat_ky": 557,
+  "so_tap_ghi": 359,
   "phut_may_tren_phut_video": 3.01,
-  "giay_may_trung_binh_moi_tap": 407.4,
+  "giay_may_trung_binh_moi_tap": 405.7,
   "phan_bo_khau_s": {
-   "giong_doc_s": 30186.6,
-   "dung_hinh_s": 77032.4,
-   "sfx_s": 1713.6,
-   "am_thanh_s": 4058.2,
-   "ghep_cuoi_s": 30497.6
+   "giong_doc_s": 31290.5,
+   "dung_hinh_s": 78834.9,
+   "sfx_s": 1776.0,
+   "am_thanh_s": 4186.8,
+   "ghep_cuoi_s": 31348.5
   }
  },
  "am_thanh": {
@@ -511,12 +522,12 @@
   "so_trang_tap": 359
  },
  "ma_nguon": {
-  "python_dong": 13697,
+  "python_dong": 13744,
   "python_tep": 86,
-  "js_dong": 4936,
+  "js_dong": 5139,
   "js_tep": 156,
-  "html_css_dong": 4276,
-  "so_commit": 61,
+  "html_css_dong": 4347,
+  "so_commit": 62,
   "so_phien_nhat_ky_vibe_coding": 7,
   "so_dong_nhat_ky_loi_va_sua": 127
  },
