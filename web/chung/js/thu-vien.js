@@ -179,12 +179,15 @@
           if (daBao) return;
           daBao = true;
           v.hidden = true;
+          k.classList.remove('co-dk');
+          $$('.dk-video, .dk-giua, .dk-het, .dk-nhan', k.parentNode).forEach(function (x) { x.hidden = true; });
           if (yt) yt.hidden = false;
           else if (loi) loi.hidden = false;
         };
         if (src) src.addEventListener('error', hong);
         v.addEventListener('error', hong);
         if (v.networkState === 3) hong(); // NETWORK_NO_SOURCE: lỗi xảy ra trước khi tệp này chạy
+        else dieuKhien(k, v);
       }
       if (yt) {
         var a = $('.nut-yt', yt);
@@ -203,6 +206,196 @@
         });
       }
     });
+  }
+
+  /* ================================================================ trang tập: thanh điều khiển video
+     Thay thanh mặc định của trình duyệt bằng thanh riêng: tập trước / lùi 15 giây / phát – dừng / tua 15 giây / tập sau,
+     thanh thời gian, tắt tiếng, toàn màn hình. Không có JavaScript thì video vẫn dùng thanh mặc định (thuộc tính controls). */
+  var ICV = {
+    phat: '<path d="M8 5.5v13l11-6.5z" fill="currentColor"/>',
+    dung: '<path d="M7 5h3.6v14H7zM13.4 5H17v14h-3.6z" fill="currentColor"/>',
+    lui: '<path d="M12 5a7 7 0 1 1-6.6 9.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 2.2v5.6L8.2 5z" fill="currentColor"/><text x="12.2" y="15.6" text-anchor="middle" font-size="7.2" font-weight="700" fill="currentColor" font-family="system-ui,sans-serif">15</text>',
+    toi: '<path d="M12 5a7 7 0 1 0 6.6 9.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 2.2v5.6L15.8 5z" fill="currentColor"/><text x="11.8" y="15.6" text-anchor="middle" font-size="7.2" font-weight="700" fill="currentColor" font-family="system-ui,sans-serif">15</text>',
+    truoc: '<path d="M6 5h2.2v14H6zM19 5.5v13L9.6 12z" fill="currentColor"/>',
+    sau: '<path d="M15.8 5H18v14h-2.2zM5 5.5v13L14.4 12z" fill="currentColor"/>',
+    am: '<path d="M4 9.5h3.6L12 6v12l-4.4-3.5H4z" fill="currentColor"/><path d="M15 9a4.2 4.2 0 0 1 0 6M17.4 6.6a7.6 7.6 0 0 1 0 10.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    tat: '<path d="M4 9.5h3.6L12 6v12l-4.4-3.5H4z" fill="currentColor"/><path d="M15.5 9.5l5 5M20.5 9.5l-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    to: '<path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>',
+    nho: '<path d="M9 4v5H4M20 9h-5V4M15 20v-5h5M4 15h5v5" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>'
+  };
+  function icv(ten) { return '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">' + ICV[ten] + '</svg>'; }
+  function mmss(t) {
+    if (!isFinite(t) || t < 0) t = 0;
+    var m = Math.floor(t / 60), g = Math.floor(t % 60);
+    return m + ':' + (g < 10 ? '0' : '') + g;
+  }
+  function dieuKhien(k, v) {
+    var BUOC = 15;
+    v.removeAttribute('controls');
+    k.classList.add('co-dk');
+    var nutTo = function (cls, ten, nhan, phim) {
+      var b = el('button', 'dk ' + cls);
+      b.type = 'button';
+      b.innerHTML = icv(ten);
+      b.setAttribute('aria-label', nhan);
+      b.title = nhan + (phim ? ' (phím ' + phim + ')' : '');
+      return b;
+    };
+    var lienKet = function (cls, ten, kieu, phim) {
+      var href = k.getAttribute('data-' + kieu), tenTap = k.getAttribute('data-ten-' + kieu);
+      var nhan = (kieu === 'truoc' ? 'Tập trước' : 'Tập sau');
+      if (!href) {
+        var tat = nutTo(cls, ten, nhan + ': không có');
+        tat.setAttribute('aria-disabled', 'true'); tat.disabled = true;
+        return tat;
+      }
+      var a = el('a', 'dk ' + cls);
+      a.href = href; a.innerHTML = icv(ten);
+      a.setAttribute('aria-label', nhan + ': ' + tenTap);
+      a.title = nhan + ': ' + tenTap + ' (phím ' + phim + ')';
+      return a;
+    };
+    var thanh = el('div', 'dk-video');
+    thanh.setAttribute('role', 'group');
+    thanh.setAttribute('aria-label', 'Điều khiển video');
+    var tua = document.createElement('input');
+    tua.type = 'range'; tua.className = 'dk-tua'; tua.min = '0'; tua.max = '1000'; tua.step = '1'; tua.value = '0';
+    tua.setAttribute('aria-label', 'Thanh thời gian: kéo để tua video');
+    var hang = el('div', 'dk-hang');
+    var truoc = lienKet('dk-truoc', 'truoc', 'truoc', 'Shift + P');
+    var lui = nutTo('dk-lui', 'lui', 'Lùi 15 giây', '←');
+    var phat = nutTo('dk-phat', 'phat', 'Phát video', 'cách');
+    var toi = nutTo('dk-toi', 'toi', 'Tua tới 15 giây', '→');
+    var sau = lienKet('dk-sau', 'sau', 'sau', 'Shift + N');
+    var tg = el('span', 'dk-tg', '0:00 / ' + mmss(v.duration));
+    tg.setAttribute('aria-hidden', 'true');
+    var dem = el('span', 'dk-dem');
+    var am = nutTo('dk-am', 'am', 'Tắt tiếng', 'M');
+    var to = nutTo('dk-to', 'to', 'Xem toàn màn hình', 'F');
+    [truoc, lui, phat, toi, sau, tg, dem, am, to].forEach(function (x) { hang.appendChild(x); });
+    thanh.appendChild(tua);
+    thanh.appendChild(hang);
+    var giua = el('button', 'dk-giua');
+    giua.type = 'button'; giua.innerHTML = icv('phat'); giua.setAttribute('aria-label', 'Phát video');
+    var het = el('div', 'dk-het'); het.hidden = true;
+    var xemLai = el('button', 'dk-het-nut', 'Xem lại'); xemLai.type = 'button';
+    het.appendChild(xemLai);
+    var hrefSau = k.getAttribute('data-sau');
+    if (hrefSau) {
+      var tiep = el('a', 'dk-het-nut chinh'); tiep.href = hrefSau;
+      tiep.appendChild(el('span', 'nho', 'Tập tiếp theo'));
+      tiep.appendChild(el('span', null, k.getAttribute('data-ten-sau') || ''));
+      het.appendChild(tiep);
+    }
+    k.appendChild(giua);
+    k.appendChild(het);
+    // thanh nằm ngay dưới khung hình (không che phụ đề gắn sẵn ở đáy video); khung + thanh cùng vào một vỏ để phóng toàn màn hình
+    var vo = el('div', 'trinh-phat' + (k.classList.contains('doc') ? ' doc' : ''));
+    k.parentNode.insertBefore(vo, k);
+    vo.appendChild(k);
+    vo.appendChild(thanh);
+
+    function batTat() { if (v.paused || v.ended) { var p = v.play(); if (p && p.catch) p.catch(function () {}); } else v.pause(); }
+    function nhay(d) {
+      if (!isFinite(v.duration)) return;
+      v.currentTime = Math.max(0, Math.min(v.duration - 0.05, v.currentTime + d));
+      thongBaoNgan((d < 0 ? 'Lùi ' : 'Tua tới ') + Math.abs(d) + ' giây');
+    }
+    var nhanTam = el('div', 'dk-nhan'); nhanTam.setAttribute('aria-live', 'polite'); k.appendChild(nhanTam);
+    var henNhan;
+    function thongBaoNgan(chu) {
+      nhanTam.textContent = chu; nhanTam.classList.add('hien');
+      clearTimeout(henNhan); henNhan = setTimeout(function () { nhanTam.classList.remove('hien'); }, 900);
+    }
+    function capNhatPhat() {
+      var dang = !v.paused && !v.ended;
+      phat.innerHTML = icv(dang ? 'dung' : 'phat');
+      phat.setAttribute('aria-label', dang ? 'Tạm dừng' : 'Phát video');
+      phat.title = (dang ? 'Tạm dừng' : 'Phát video') + ' (phím cách)';
+      k.classList.toggle('dang-phat', dang);
+      giua.hidden = dang || v.ended;
+      if (dang) het.hidden = true;
+      hienThanh();
+    }
+    var keo = false;
+    function capNhatTg() {
+      var d = v.duration;
+      if (!keo && isFinite(d) && d > 0) {
+        tua.value = String(Math.round(v.currentTime / d * 1000));
+        tua.style.setProperty('--da', (v.currentTime / d * 100) + '%');
+      }
+      tg.textContent = mmss(v.currentTime) + ' / ' + mmss(d);
+      tua.setAttribute('aria-valuetext', mmss(v.currentTime) + ' trên ' + mmss(d));
+    }
+    tua.addEventListener('input', function () {
+      keo = true;
+      if (isFinite(v.duration)) {
+        v.currentTime = tua.value / 1000 * v.duration;
+        tua.style.setProperty('--da', (tua.value / 10) + '%');
+      }
+    });
+    tua.addEventListener('change', function () { keo = false; capNhatTg(); });
+    phat.addEventListener('click', batTat);
+    giua.addEventListener('click', batTat);
+    v.addEventListener('click', batTat);
+    lui.addEventListener('click', function () { nhay(-BUOC); });
+    toi.addEventListener('click', function () { nhay(BUOC); });
+    am.addEventListener('click', function () { v.muted = !v.muted; });
+    v.addEventListener('volumechange', function () {
+      am.innerHTML = icv(v.muted ? 'tat' : 'am');
+      am.setAttribute('aria-label', v.muted ? 'Bật tiếng' : 'Tắt tiếng');
+      am.title = (v.muted ? 'Bật tiếng' : 'Tắt tiếng') + ' (phím M)';
+    });
+    var fsEl = function () { return document.fullscreenElement || document.webkitFullscreenElement; };
+    to.addEventListener('click', function () {
+      if (fsEl()) { (document.exitFullscreen || document.webkitExitFullscreen).call(document); return; }
+      if (vo.requestFullscreen) vo.requestFullscreen();
+      else if (vo.webkitRequestFullscreen) vo.webkitRequestFullscreen();
+      else if (v.webkitEnterFullscreen) v.webkitEnterFullscreen(); // iPhone: chỉ phóng to được chính thẻ video
+    });
+    ['fullscreenchange', 'webkitfullscreenchange'].forEach(function (ev) {
+      document.addEventListener(ev, function () {
+        var dang = fsEl() === vo;
+        vo.classList.toggle('toan-man-hinh', dang);
+        to.innerHTML = icv(dang ? 'nho' : 'to');
+        to.setAttribute('aria-label', dang ? 'Thoát toàn màn hình' : 'Xem toàn màn hình');
+      });
+    });
+    xemLai.addEventListener('click', function () { v.currentTime = 0; batTat(); });
+    ['play', 'pause', 'ended'].forEach(function (ev) { v.addEventListener(ev, capNhatPhat); });
+    v.addEventListener('ended', function () { het.hidden = false; giua.hidden = true; var n = $('.dk-het-nut.chinh', het) || xemLai; n.focus(); });
+    ['timeupdate', 'durationchange', 'loadedmetadata', 'seeked'].forEach(function (ev) { v.addEventListener(ev, capNhatTg); });
+    // khi đang phát mà không đụng chuột 2,5 giây thì ẩn con trỏ trên khung hình
+    var hen;
+    function hienThanh() {
+      k.classList.remove('an-dk');
+      clearTimeout(hen);
+      if (!v.paused && !v.ended) hen = setTimeout(function () { k.classList.add('an-dk'); }, 2500);
+    }
+    ['mousemove', 'touchstart'].forEach(function (ev) { k.addEventListener(ev, hienThanh, { passive: true }); });
+    // phím tắt khi con trỏ không ở ô nhập chữ: cách/K phát–dừng, ←/→ lùi/tua 15 giây, M tắt tiếng, F toàn màn hình, Shift+N/P tập sau/trước
+    document.addEventListener('keydown', function (ev) {
+      var t = ev.target, tag = (t && t.tagName) || '';
+      if (ev.altKey || ev.ctrlKey || ev.metaKey) return;
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(tag) && t !== tua) return;
+      if (t && t.isContentEditable) return;
+      if (/^(BUTTON|A)$/.test(tag) && (ev.key === ' ' || ev.key === 'Enter') && !vo.contains(t)) return;
+      // chỉ nhận phím khi con trỏ ở trong khung video, hoặc chưa chọn gì mà khung video đang hiện trên màn hình
+      var r = k.getBoundingClientRect();
+      var thay = r.bottom > 60 && r.top < (window.innerHeight || 800) - 60;
+      if (!vo.contains(t) && !((t === document.body || t === document.documentElement || !t) && thay)) return;
+      var ph = ev.key;
+      if (ph === ' ' || ph === 'k' || ph === 'K') { if (/^(BUTTON|A)$/.test(tag) && ph === ' ') return; ev.preventDefault(); batTat(); }
+      else if (ph === 'ArrowLeft' && t !== tua) { ev.preventDefault(); nhay(-BUOC); }
+      else if (ph === 'ArrowRight' && t !== tua) { ev.preventDefault(); nhay(BUOC); }
+      else if (ph === 'm' || ph === 'M') { v.muted = !v.muted; }
+      else if (ph === 'f' || ph === 'F') { to.click(); }
+      else if ((ph === 'N' || ph === 'n') && ev.shiftKey && k.getAttribute('data-sau')) { location.href = k.getAttribute('data-sau'); }
+      else if ((ph === 'P' || ph === 'p') && ev.shiftKey && k.getAttribute('data-truoc')) { location.href = k.getAttribute('data-truoc'); }
+      else return;
+      hienThanh();
+    });
+    capNhatPhat(); capNhatTg();
   }
 
   /* ================================================================ trang tập: câu hỏi luyện tập */
@@ -262,7 +455,17 @@
           phanHoi.appendChild(el('p', 'ket ' + (ok ? 'dung' : 'sai'),
             ok ? 'Chính xác!' : 'Chưa đúng. Đáp án đúng: ' + CHU[vtDung] + '. ' + q.dap_an[q.dung] + '.'));
           if (q.giai_thich) phanHoi.appendChild(el('p', 'giai-thich', 'Trong video: “' + q.giai_thich + '”'));
-          if (q.trang) phanHoi.appendChild(el('p', 'xem-sgk', 'Xem lại SGK ' + du.sach + ', trang ' + q.trang + '.'));
+          if (q.trang) {
+            var xs = el('p', 'xem-sgk', 'Xem lại SGK ' + du.sach + ', ');
+            if (du.sgk) {
+              var lk = el('a', 'lk-sgk', 'trang ' + q.trang);
+              lk.href = du.sgk + '#page=' + parseInt(q.trang, 10);
+              lk.target = '_blank'; lk.rel = 'noopener noreferrer';
+              lk.title = 'Mở SGK điện tử ở trang ' + q.trang + ' (thẻ mới)';
+              xs.appendChild(lk); xs.appendChild(document.createTextNode('.'));
+            } else xs.appendChild(document.createTextNode('trang ' + q.trang + '.'));
+            phanHoi.appendChild(xs);
+          }
           if (xong === n) ketThuc();
         }
         fs.appendChild(luoi);

@@ -5899,15 +5899,20 @@
    "ten_tap_en": "The Industrial Wave Spreads",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     16,
     17
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 132.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B3-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B3-04.jpg",
    "trang": "tap/L8-B3-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6445,15 +6450,20 @@
    "ten_tap_en": "The Legacy of Emperor Quang Trung",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     39,
     40
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 156.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B8-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B8-04.jpg",
    "trang": "tap/L8-B8-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6523,15 +6533,20 @@
    "ten_tap_en": "The Birth of Quốc ngữ and Nôm Literature",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     44,
     45
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 161.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B9-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B9-03.jpg",
    "trang": "tap/L8-B9-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6545,14 +6560,19 @@
    "ten_tap_en": "Folk Art: The Vietnamese Soul, 16th–18th Centuries",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     45
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 48.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B9-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B9-04.jpg",
    "trang": "tap/L8-B9-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7768,17 +7788,22 @@
    "ten_tap_en": "Dikes or Adaptation? What Would You Choose?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     155,
     159,
     160,
     161
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 55.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-CD1-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-CD1-04.jpg",
    "trang": "tap/L8-CD1-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7849,14 +7874,19 @@
    "ten_tap_en": "The Marine Economy: Potential and Challenges",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     167
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 113.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-CD2-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-CD2-03.jpg",
    "trang": "tap/L8-CD2-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8118,15 +8148,20 @@
    "ten_tap_en": "America: From the Golden Age to the New Deal",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     12,
     13
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 134.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B2-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B2-04.jpg",
    "trang": "tap/L9-B2-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8195,16 +8230,21 @@
    "ten_tap_en": "The Rising Tide of Independence",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     15,
     16,
     17
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 62.5,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B3-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B3-03.jpg",
    "trang": "tap/L9-B3-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8354,15 +8394,20 @@
    "ten_tap_en": "The Cost of War",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     20,
     21
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 43.3,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B4-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B4-04.jpg",
    "trang": "tap/L9-B4-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8376,14 +8421,19 @@
    "ten_tap_en": "Who Defeated Fascism?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     21
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 105.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B4-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B4-05.jpg",
    "trang": "tap/L9-B4-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8397,14 +8447,19 @@
    "ten_tap_en": "Vietnam after World War One: A New Context",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     22
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 51.2,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B5-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B5-01.jpg",
    "trang": "tap/L9-B5-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8445,15 +8500,20 @@
    "ten_tap_en": "The Bourgeoisie and Petty Bourgeoisie on the Move",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     22,
     23
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 136.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B5-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B5-03.jpg",
    "trang": "tap/L9-B5-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8575,14 +8635,19 @@
    "ten_tap_en": "The Birth of Three Communist Organisations",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     28
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 123.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B6-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B6-03.jpg",
    "trang": "tap/L9-B6-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8676,15 +8741,20 @@
    "ten_tap_en": "The 1936–1939 Movement: A Rehearsal for the August Revolution",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     32,
     33
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 171.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B7-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B7-03.jpg",
    "trang": "tap/L9-B7-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8698,17 +8768,22 @@
    "ten_tap_en": "Comparing Two Revolutionary Upsurges",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     30,
     31,
     32,
     33
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 172.3,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B7-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B7-04.jpg",
    "trang": "tap/L9-B7-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8749,15 +8824,20 @@
    "ten_tap_en": "A Historic Turn: The Strategic Reorientation",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     35,
     36
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 126.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B8-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B8-02.jpg",
    "trang": "tap/L9-B8-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8826,15 +8906,20 @@
    "ten_tap_en": "Independence Day at Ba Đình",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     39,
     40
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 59.9,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B8-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B8-05.jpg",
    "trang": "tap/L9-B8-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9041,16 +9126,21 @@
    "ten_tap_en": "Eastern Europe: From People's Democracy to Regime Change",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     46,
     47,
     48
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 154.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B10-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B10-03.jpg",
    "trang": "tap/L9-B10-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9064,17 +9154,22 @@
    "ten_tap_en": "Why Socialism Collapsed in the USSR and Eastern Europe",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     44,
     45,
     46,
     48
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 65.5,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B10-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B10-04.jpg",
    "trang": "tap/L9-B10-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9115,14 +9210,19 @@
    "ten_tap_en": "The US Economy: From the Peak to Competition",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     50
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 56.4,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B11-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B11-02.jpg",
    "trang": "tap/L9-B11-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9244,15 +9344,20 @@
    "ten_tap_en": "China: Historic Turning Points",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     55,
     56
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 169.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B12-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B12-04.jpg",
    "trang": "tap/L9-B12-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9266,14 +9371,19 @@
    "ten_tap_en": "India: Self-Reliance and Development",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     57
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 109.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B12-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B12-05.jpg",
    "trang": "tap/L9-B12-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9370,15 +9480,20 @@
    "ten_tap_en": "Fighting Hunger and Illiteracy",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     63,
     64
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 146.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B13-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B13-03.jpg",
    "trang": "tap/L9-B13-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9447,14 +9562,19 @@
    "ten_tap_en": "The Resistance Will Surely Win",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     68
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 88.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B14-02.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B14-02.jpg",
    "trang": "tap/L9-B14-02.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9524,15 +9644,20 @@
    "ten_tap_en": "Resisting and Rebuilding at Once",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     69,
     70
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 125.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B14-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B14-05.jpg",
    "trang": "tap/L9-B14-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9546,14 +9671,19 @@
    "ten_tap_en": "The Party Congress and the Power of Unity",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     74
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 103.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B15-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B15-01.jpg",
    "trang": "tap/L9-B15-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9621,14 +9751,19 @@
    "ten_tap_en": "The Geneva Conference and Peace",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     78
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 111.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B15-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B15-04.jpg",
    "trang": "tap/L9-B15-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9642,15 +9777,20 @@
    "ten_tap_en": "Why Did We Win?",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     78,
     79
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 49.3,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B15-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B15-05.jpg",
    "trang": "tap/L9-B15-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9664,15 +9804,20 @@
    "ten_tap_en": "The North Revives after the War",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     80,
     81
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 120.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B16-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B16-01.jpg",
    "trang": "tap/L9-B16-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9768,7 +9913,7 @@
    "ten_tap_en": "Quick Recap: 1954–1965",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     80,
     81,
@@ -9776,10 +9921,15 @@
     83,
     84
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 67.5,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B16-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B16-05.jpg",
    "trang": "tap/L9-B16-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9847,15 +9997,20 @@
    "ten_tap_en": "Vietnamization and Our People's Struggle",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     86,
     87
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 124.2,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B17-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B17-03.jpg",
    "trang": "tap/L9-B17-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10058,14 +10213,19 @@
    "ten_tap_en": "Northeast Asia: Dragons and the World's Factory",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     96
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 50.1,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B19-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B19-01.jpg",
    "trang": "tap/L9-B19-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10186,15 +10346,20 @@
    "ten_tap_en": "The Three Pillars of the ASEAN Community",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     99,
     100
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 118.5,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B19-06.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B19-06.jpg",
    "trang": "tap/L9-B19-06.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10208,15 +10373,20 @@
    "ten_tap_en": "One Nation Again",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     101,
     102
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 66.6,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B20-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B20-01.jpg",
    "trang": "tap/L9-B20-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10284,16 +10454,21 @@
    "ten_tap_en": "A Historic Turning Point: Đổi mới",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     105,
     106,
     107
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 117.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B20-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B20-04.jpg",
    "trang": "tap/L9-B20-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10307,7 +10482,7 @@
    "ten_tap_en": "Vietnam Rising",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     106,
     107,
@@ -10315,10 +10490,15 @@
     109,
     110
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 172.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B20-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B20-05.jpg",
    "trang": "tap/L9-B20-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10414,15 +10594,20 @@
    "ten_tap_en": "Vietnam and the Globalisation Equation",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     114,
     115
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 47.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B21-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B21-04.jpg",
    "trang": "tap/L9-B21-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10436,15 +10621,20 @@
    "ten_tap_en": "Cities – The Heart of Development",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     221,
     224
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 51.9,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-CD1-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD1-01.jpg",
    "trang": "tap/L9-CD1-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10512,16 +10702,21 @@
    "ten_tap_en": "Vietnam's Cities: Opportunities and Challenges",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     222,
     223,
     224
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 114.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-CD1-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD1-04.jpg",
    "trang": "tap/L9-CD1-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -10588,15 +10783,20 @@
    "ten_tap_en": "Climate Change: Everyone's Business",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     227,
     229
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 52.4,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-CD2-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-CD2-03.jpg",
    "trang": "tap/L9-CD2-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4

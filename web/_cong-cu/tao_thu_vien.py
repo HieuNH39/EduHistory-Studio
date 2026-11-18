@@ -137,6 +137,49 @@ def bo_dau(s):
     return re.sub(r"\s+", " ", s.replace("đ", "d").replace("Đ", "D").lower()).strip()
 
 
+# Sách điện tử của NXB Giáo dục Việt Nam (taphuan.nxbgd.vn): #page=<số trang in> mở đúng trang in trong SGK
+# (đã kiểm tra trên cả 4 cuốn ngày 18/11/2026: #page=50 hiện trang có số in 50).
+SGK_DOC = {6: "https://taphuan.nxbgd.vn/tap-huan/doc-sach/sgk-lich-su-va-dia-li-6.4830326427",
+           7: "https://taphuan.nxbgd.vn/tap-huan/doc-sach/sgk-lich-su-va-dia-li-7.4830359644",
+           8: "https://taphuan.nxbgd.vn/tap-huan/doc-sach/sgk-lich-su-dia-li-8.4830375637",
+           9: "https://taphuan.nxbgd.vn/tap-huan/doc-sach/sgk-lich-su-va-dia-li-9.4844021301"}
+
+
+def lk_sgk(lop, trang):
+    """Đường dẫn mở SGK điện tử ở đúng trang in; '' nếu không xác định được."""
+    try:
+        lop, trang = int(lop), int(str(trang).split("–")[0].split("-")[0].strip())
+    except (TypeError, ValueError):
+        return ""
+    return f"{SGK_DOC[lop]}#page={trang}" if lop in SGK_DOC and trang > 0 else ""
+
+
+def trang_lk(trs, lop, tien_to="tr. "):
+    """Như trang_chu nhưng mỗi số trang (hoặc khoảng trang) là liên kết mở SGK điện tử ở trang đó (thẻ mới)."""
+    t = sorted({int(x) for x in (trs or []) if isinstance(x, (int, float)) or (isinstance(x, str) and x.isdigit())})
+    out, i = [], 0
+    while i < len(t):
+        j = i
+        while j + 1 < len(t) and t[j + 1] == t[j] + 1:
+            j += 1
+        chu = str(t[i]) if i == j else f"{t[i]}–{t[j]}"
+        u = lk_sgk(lop, t[i])
+        out.append(f'<a class="lk-sgk" href="{e(u)}" target="_blank" rel="noopener noreferrer" '
+                   f'title="Mở SGK điện tử ở trang {t[i]} (thẻ mới)">{chu}</a>' if u else chu)
+        i = j + 1
+    return (e(tien_to) + ", ".join(out)) if out else ""
+
+
+def nut_sgk(lop, trang, lop_nut="nut-chinh"):
+    u = lk_sgk(lop, trang)
+    if not u:
+        return ""
+    return (f'<a class="{lop_nut} nut-sgk" href="{e(u)}" target="_blank" rel="noopener noreferrer">'
+            f'<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="M3 5.5C5.5 4.3 8.6 4.4 12 6c3.4-1.6 6.5-1.7 9-.5v13c-2.5-1.2-5.6-1.1-9 .5-3.4-1.6-6.5-1.7-9-.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 6v13.5" stroke="currentColor" stroke-width="1.8"/></svg>'
+            f'<span>Đọc SGK trang {int(str(trang).split("–")[0].split("-")[0])}</span></a>'
+            f'<p class="chu-sgk">Mở sách điện tử của NXB Giáo dục Việt Nam ở thẻ mới.</p>')
+
+
 def trang_chu(trs, tien_to="tr. "):
     """[76, 77, 79] -> 'tr. 76–77, 79'"""
     t = sorted({int(x) for x in (trs or []) if isinstance(x, (int, float)) or (isinstance(x, str) and x.isdigit())})
@@ -862,8 +905,9 @@ def trang_index(bai_ds, ds, cap_nhat, tt_ds=()):
 
 
 # ---------------------------------------------------------------- trang tập
-def khoi_video(x, goi_y="Trong lúc chờ, em hãy đọc phần ghi nhớ và làm câu hỏi ôn tập bên dưới."):
+def khoi_video(x, goi_y="Trong lúc chờ, em hãy đọc phần ghi nhớ và làm câu hỏi ôn tập bên dưới.", truoc=None, sau=None):
     ma, doc = x["ma"], x["huong"] == "doc"
+    ke = "".join(f' data-{k}="{t["ma"]}.html" data-ten-{k}="{e(t["ten_tap"])}"' for k, t in (("truoc", truoc), ("sau", sau)) if t)
     lop_khung = "khung-video doc" if doc else "khung-video"
     bia = x["anh_bia"]
     if bia and doc and os.path.exists(os.path.join(WEB, bia.replace(".jpg", "-doc.jpg"))):
@@ -879,7 +923,7 @@ def khoi_video(x, goi_y="Trong lúc chờ, em hãy đọc phần ghi nhớ và l
     if x["video"]:
         loi = ("Không mở được tệp video trên máy này. Bản website công khai không kèm tệp video; "
                + ("hãy xem bản trên YouTube bên dưới." if x["youtube_id"] else "video được chiếu tại lớp hoặc trên máy tính của trường."))
-        return (f'<div class="{lop_khung}" data-ma="{ma}">'
+        return (f'<div class="{lop_khung}" data-ma="{ma}"{ke}>'
                 f'<video controls playsinline preload="metadata"{anh} aria-describedby="ghi-chu-phu-de">'
                 f'<source src="../{e(x["video"]["tep"])}" type="video/mp4">'
                 f'<p>Trình duyệt không phát được video. <a href="../{e(x["video"]["tep"])}">Tải tệp video</a>.</p></video>'
@@ -955,13 +999,14 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
     goi_y = ("Trong lúc chờ, em hãy đọc phần ghi nhớ và làm câu hỏi ôn tập bên dưới." if co_gn and co_cau else
              "Trong lúc chờ, em hãy làm câu hỏi ôn tập bên dưới." if co_cau else
              "Trong lúc chờ, em hãy đọc phần ghi nhớ bên dưới." if co_gn else "Em hãy quay lại sau nhé.")
-    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x, goi_y)}{thanh_hanh_dong(x)}'
+    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x, goi_y, truoc, sau)}{thanh_hanh_dong(x)}'
              f'<p class="ghi-chu-phu-de" id="ghi-chu-phu-de"><span class="bieu-tuong-cc" aria-hidden="true">CC</span>{e(phu_de)}</p>{ngoai}</section>')
     # --- cột bên: SGK, mô phỏng
     nguon = kb.get("nguon") or {}
     ben = [f'<section class="o-ben" aria-labelledby="h-sgk"><h2 id="h-sgk">Bài học trong SGK</h2>'
            f'<p><i>{e(x["sach"])}</i></p><p>{e(nguon.get("bai") or (nb + ". " + bai["ten"]))}</p>'
-           f'<p class="tr-lon">{e(trang_chu(x["trang_sgk"]) or ("tr. " + str(bai.get("trang_in", ""))))}</p></section>']
+           f'<p class="tr-lon">{e(trang_chu(x["trang_sgk"]) or ("tr. " + str(bai.get("trang_in", ""))))}</p>'
+           + nut_sgk(lop, (sorted(int(t) for t in x["trang_sgk"] if str(t).isdigit()) or [bai.get("trang_in", "")])[0]) + '</section>']
     if x["mo_phong"]:
         m = x["mo_phong"]
         ben.append(f'<section class="o-ben o-mp" aria-labelledby="h-mp"><h2 id="h-mp">Mô phỏng tương tác</h2>'
@@ -978,7 +1023,7 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
     muc = []
     gn = ghi_nho(kb) if kb else []
     if gn:
-        li = "".join(f'<li><span>{e(y)}</span>' + (f' <span class="tr">({e(trang_chu(tr))})</span>' if tr else "") + "</li>"
+        li = "".join(f'<li><span>{e(y)}</span>' + (f' <span class="tr">({trang_lk(tr, lop)})</span>' if tr else "") + "</li>"
                      for y, tr in gn)
         muc.append(f'<section class="muc" aria-labelledby="h-ghi-nho"><h2 id="h-ghi-nho">Ghi nhớ</h2><ul class="ghi-nho">{li}</ul></section>')
     for i, m in enumerate(moc_thoi_gian(kb) if kb else []):
@@ -987,7 +1032,7 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
         li = "".join(f'<li><b>{e(a)}</b><span>{e(b)}</span></li>' for a, b in m["moc"])
         muc.append(f'<section class="muc" aria-labelledby="h-moc-{i}"><h2 id="h-moc-{i}">Mốc thời gian</h2>'
                    + (f'<p class="phu-de-muc">{e(tieu)}</p>' if tieu else "")
-                   + f'<ol class="dong-moc">{li}</ol>' + (f'<p class="tr">{e(trang_chu(m["tr"], "SGK tr. "))}</p>' if m["tr"] else "")
+                   + f'<ol class="dong-moc">{li}</ol>' + (f'<p class="tr">{trang_lk(m["tr"], lop, "SGK tr. ")}</p>' if m["tr"] else "")
                    + "</section>")
     cau = []
     if kb and kb.get("cau_hoi"):
@@ -999,9 +1044,9 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
         du_phong = "".join(
             f'<li><p class="hoi">{e(q["hoi"])}</p><ol class="dap-an-tinh" type="A">' + "".join(f"<li>{e(a)}</li>" for a in q["dap_an"])
             + f'</ol><details><summary>Xem đáp án</summary><p>{"ABCDEFG"[q["dung"]]}. {e(q["dap_an"][q["dung"]])}'
-            + (f' ({e(trang_chu([q["trang"]], "SGK tr. "))})' if q.get("trang") else "") + "</p></details></li>"
+            + (f' ({trang_lk([q["trang"]], lop, "SGK tr. ")})' if q.get("trang") else "") + "</p></details></li>"
             for q in cau)
-        du_lieu = json.dumps({"sach": sach, "cau": cau}, ensure_ascii=False).replace("</", "<\\/")
+        du_lieu = json.dumps({"sach": sach, "sgk": SGK_DOC.get(int(lop), ""), "cau": cau}, ensure_ascii=False).replace("</", "<\\/")
         muc.append(f'<section class="muc luyen-tap" aria-labelledby="h-luyen-tap"><h2 id="h-luyen-tap">Luyện tập nhanh</h2>'
                    f'<p class="phu-de-muc">{len(cau)} câu trắc nghiệm. Chọn một đáp án cho mỗi câu; máy chấm ngay và chỉ ra trang SGK để em xem lại.</p>'
                    f'<div id="cau-hoi" class="cau-hoi"><ol class="du-phong">{du_phong}</ol></div>'
@@ -1036,7 +1081,7 @@ def trang_tap(x, bai, truoc, sau, cap_nhat):
     # chú thích nguồn
     ghi_chu = kb.get("ghi_chu_tai_hien") or ""
     nguon_dong = (f'<section class="nguon-tap" aria-label="Nguồn"><p><b>Nguồn:</b> {e(x["sach"])}, {e(nb)}, '
-                  f'{e(trang_chu(x["trang_sgk"]) or "")}. Kịch bản đã đối chiếu với SGK; mỗi ý ghi nhớ và câu hỏi có số trang để em tự kiểm tra.</p>'
+                  f'{trang_lk(x["trang_sgk"], lop) or ""}. Kịch bản đã đối chiếu với SGK; mỗi ý ghi nhớ và câu hỏi có số trang để em tự kiểm tra (bấm số trang để mở SGK điện tử).</p>'
                   + (f'<p>{e(ghi_chu)}</p>' if ghi_chu else "") + "</section>")
     trc = (f'<a class="tap-truoc" href="{truoc["ma"]}.html"><span>Tập trước</span>{et(truoc["ten_tap"])}</a>' if truoc else "<span></span>")
     sau_ = (f'<a class="tap-sau" href="{sau["ma"]}.html"><span>Tập sau</span>{et(sau["ten_tap"])}</a>' if sau else "<span></span>")
@@ -1091,7 +1136,7 @@ def trang_gioi_thieu(ds, cap_nhat):
   <p>AI tạo sinh có thể “bịa” chi tiết. Dự án đặt ra các quy tắc sau để hạn chế điều đó:</p>
   <ul class="quy-tac">
     <li><b>Phân tầng hình ảnh.</b> AI chỉ vẽ lớp minh hoạ (bối cảnh, trang phục, không khí). Bản đồ, niên đại, số liệu và chữ trên hình dựng bằng code từ dữ liệu đã thẩm định; bản đồ Việt Nam luôn có quần đảo Hoàng Sa và Trường Sa.</li>
-    <li><b>Mọi câu đều có nguồn.</b> Mỗi câu thoại, ý ghi nhớ và câu hỏi gắn với lớp, bài, trang SGK. Trên website, số trang hiện ngay cạnh nội dung để học sinh tự mở sách kiểm tra.</li>
+    <li><b>Mọi câu đều có nguồn.</b> Mỗi câu thoại, ý ghi nhớ và câu hỏi gắn với lớp, bài, trang SGK. Trên website, số trang hiện ngay cạnh nội dung; bấm vào số trang là mở đúng trang đó trong SGK điện tử của NXB Giáo dục Việt Nam.</li>
     <li><b>Đối chiếu với SGK đã số hoá.</b> Kịch bản được so lại với văn bản SGK (nhận dạng chữ từ ảnh trang sách); công cụ kiểm tra tự động soát số trang, số liệu, đáp án. Chỗ nào sửa kiến thức phải dẫn được dòng SGK làm căn cứ.</li>
     <li><b>Lời thoại tái hiện được ghi rõ.</b> Lời của nhân vật lịch sử là lời dựng lại cho sinh động, không đưa thêm sự kiện, số liệu ngoài SGK; cuối mỗi video và trong mục “Lời thoại” đều ghi chú điều này.</li>
     <li><b>Lịch sử hiện đại dùng tư liệu thật.</b> Lãnh tụ và nhân vật thời hiện đại không do AI vẽ; dùng ảnh, phim tư liệu có nguồn.</li>
@@ -1235,13 +1280,15 @@ def trang_chuyen_su(x, truoc, sau, cap_nhat):
     lien_ket_ngoai = [f'<a href="{e(u)}" target="_blank" rel="noopener noreferrer">Xem trên {t}</a>'
                       for u, t in ((x["tiktok"], "TikTok"), (x["youtube"], "YouTube")) if u]
     ngoai = (f'<p class="lien-ket-ngoai">{"".join(lien_ket_ngoai)}<span>(mở trang web bên ngoài)</span></p>' if lien_ket_ngoai else "")
-    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x)}{thanh_hanh_dong(x)}'
+    video = (f'<section class="muc-video" aria-label="Video">{khoi_video(x, truoc=truoc, sau=sau)}{thanh_hanh_dong(x)}'
              f'<p class="ghi-chu-phu-de" id="ghi-chu-phu-de"><span class="bieu-tuong-cc" aria-hidden="true">CC</span>'
              f'Phụ đề song ngữ gắn sẵn trong video: tiếng Việt ở dòng trên, tiếng Anh ở dòng dưới. Bản chữ đầy đủ ở mục “Lời kể”.</p>{ngoai}</section>')
     b = x["bai"]
     ben = (f'<section class="o-ben" aria-labelledby="h-sgk"><h2 id="h-sgk">Bài học gốc trong SGK</h2>'
            f'<p><i>{e(x["sach"])}</i></p><p>{e(x["bai_chu"])}</p>'
            + (f'<a class="nut-phu" href="../index.html#{e(b["id"])}">Xem các tập video của bài này</a>' if b else "")
+           + (nut_sgk(re.search(r"(\d)\s*$", x["sach"]).group(1), b.get("trang_in", ""), "nut-phu")
+              if b and re.search(r"(\d)\s*$", x["sach"] or "") else "")
            + '</section>')
     muc = []
     if x["loi"]:
