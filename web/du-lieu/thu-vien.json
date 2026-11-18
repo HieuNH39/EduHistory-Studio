@@ -2147,16 +2147,21 @@
    "ten_tap_en": "Oracle Bones and Millennia-Old Legacies",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     41,
     42,
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 157.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L6-B9-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B9-03.jpg",
    "trang": "tap/L6-B9-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -2170,16 +2175,21 @@
    "ten_tap_en": "Medicine and Peak Technology",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     41,
     42,
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 153.1,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L6-B9-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L6-B9-04.jpg",
    "trang": "tap/L6-B9-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5211,16 +5221,21 @@
    "ten_tap_en": "Literary Glory and Shining Stars",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     86,
     87,
     88
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 203.8,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L7-B17-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L7-B17-03.jpg",
    "trang": "tap/L7-B17-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5906,15 +5921,20 @@
    "ten_tap_en": "The Dark Side of Industrial Civilisation",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     15,
     17
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 132.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B3-05.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B3-05.jpg",
    "trang": "tap/L8-B3-05.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -5984,16 +6004,21 @@
    "ten_tap_en": "Southeast Asia under Colonial Rule",
    "khung": "4-5p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     19,
     21,
     22
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 179.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B4-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B4-03.jpg",
    "trang": "tap/L8-B4-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -6339,15 +6364,20 @@
    "ten_tap_en": "The Tây Sơn Flame Ignites",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     35,
     36
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 60.2,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B8-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B8-01.jpg",
    "trang": "tap/L8-B8-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7190,16 +7220,21 @@
    "ten_tap_en": "The Truth About the 'Civilising Mission'",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     67,
     68,
     70
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 52.0,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B15-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B15-04.jpg",
    "trang": "tap/L8-B15-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7213,14 +7248,19 @@
    "ten_tap_en": "The Birth of the Last Dynasty",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     71
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 49.7,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L8-B16-01.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B16-01.jpg",
    "trang": "tap/L8-B16-01.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7261,14 +7301,19 @@
    "ten_tap_en": "Economy and Society: Simmering Conflicts",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     73
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 161.7,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B16-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B16-03.jpg",
    "trang": "tap/L8-B16-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7282,15 +7327,20 @@
    "ten_tap_en": "The Brilliant Cultural Heritage of the Nguyễn Era",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     74,
     75
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 138.9,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B16-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B16-04.jpg",
    "trang": "tap/L8-B16-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -7490,15 +7540,20 @@
    "ten_tap_en": "Bãi Sậy and Ba Đình: Fortresses of Steel",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     85,
     86
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 109.6,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L8-B18-03.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L8-B18-03.jpg",
    "trang": "tap/L8-B18-03.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -8905,14 +8960,19 @@
    "ten_tap_en": "The End and the Aftermath",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     43
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 84.4,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B9-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B9-04.jpg",
    "trang": "tap/L9-B9-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9864,14 +9924,19 @@
    "ten_tap_en": "Why Did We Win?",
    "khung": "2-3p",
    "huong": "ngang",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     91
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 96.0,
+    "rong": 1920,
+    "cao": 1080,
+    "tep": "videos/L9-B17-06.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B17-06.jpg",
    "trang": "tap/L9-B17-06.html",
    "mo_phong": null,
    "so_cau_hoi": 4
@@ -9966,15 +10031,20 @@
    "ten_tap_en": "A Multipolar World: Opportunities and Challenges",
    "khung": "60s",
    "huong": "doc",
-   "trang_thai": "co-kich-ban",
+   "trang_thai": "co-video",
    "trang_sgk": [
     93,
     94
    ],
-   "video": null,
+   "video": {
+    "thoi_luong": 45.7,
+    "rong": 1080,
+    "cao": 1920,
+    "tep": "videos/L9-B18-04.mp4"
+   },
    "youtube": null,
    "tiktok": null,
-   "anh_bia": null,
+   "anh_bia": "du-lieu/anh-bia/L9-B18-04.jpg",
    "trang": "tap/L9-B18-04.html",
    "mo_phong": null,
    "so_cau_hoi": 4
