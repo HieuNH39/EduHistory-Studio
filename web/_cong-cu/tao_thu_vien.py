@@ -638,7 +638,7 @@ def dung_du_lieu(ch, kiem_tra):
             "huong": (d or {}).get("huong") or t.get("huong") or "ngang",
             "trang_thai": tt, "co_trang": bool(d or co_video),
             "trang_sgk": ((d or {}).get("nguon") or {}).get("trang") or t.get("trang_sgk") or [],
-            "sach": ((d or {}).get("nguon") or {}).get("sach") or f"Lịch sử và Địa lí {t['lop']} (bộ sách dùng chung)",
+            "sach": re.sub(r"\s*\(bộ sách dùng chung\)", "", ((d or {}).get("nguon") or {}).get("sach") or f"Lịch sử và Địa lí {t['lop']}"),
             "video": v, "youtube": lk.get("youtube"), "youtube_id": lk.get("youtube_id"), "tiktok": lk.get("tiktok"),
             "mo_phong": mo_phong.get(ma),
             "nhan_vat": [n.get("ten") for n in (t.get("nhan_vat") or []) if isinstance(n, dict) and n.get("ten")],
@@ -822,7 +822,7 @@ def trang_index(bai_ds, ds, cap_nhat, tt_ds=()):
                      f'<span class="so-lop" aria-hidden="true">{l}</span><span class="ten-lop">Lớp {l}</span>'
                      f'<span class="thoi-ky">{THOI_KY[l]}</span>'
                      f'<span class="dem">{nb} bài, {len(tl)} tập</span>{thanh}'
-                     f'<span class="dem-phu">{dv} video, {dk + dv} tập có câu hỏi ôn tập</span></a></li>')
+                     f'</a></li>')
     the_video = []
     for x in [x for x in ds if x["trang_thai"] == "co-video"]:
         b = next(bb for bb in bai_ds if bb["id"] == x["bai"])
@@ -836,7 +836,7 @@ def trang_index(bai_ds, ds, cap_nhat, tt_ds=()):
     ke_video = ""
     if the_video:
         ke_video = (f'<section class="ke-video" aria-labelledby="tieu-de-video"><div class="rong">'
-                    f'<div class="dau-muc"><h2 id="tieu-de-video">Video bài học</h2><p>{len(the_video)} video đã hoàn thành, xem ngay trên trình duyệt.</p></div><ul class="luoi-video">{"".join(the_video)}</ul></div></section>')
+                    f'<div class="dau-muc"><h2 id="tieu-de-video">Video bài học</h2></div><ul class="luoi-video">{"".join(the_video)}</ul></div></section>')
     # thư viện theo lớp – chương – bài – tập
     khoi = []
     for l in lop_ds:
@@ -876,7 +876,6 @@ def trang_index(bai_ds, ds, cap_nhat, tt_ds=()):
     <input type="search" id="tim" name="tim" autocomplete="off" spellcheck="false" placeholder="Tìm bài, nhân vật, sự kiện…" aria-describedby="goi-y-tim">
     <p id="goi-y-tim" class="goi-y">Ví dụ: Bạch Đằng, Lê Lợi, 1945. Gõ có dấu hay không dấu đều được.</p>
   </div>
-  <dl class="so-lieu"><div><dt>video đã hoàn thành</dt><dd>{n_v}</dd></div><div><dt>tập có câu hỏi ôn tập</dt><dd>{n_k}</dd></div><div><dt>tập trong kế hoạch</dt><dd>{len(ds)}</dd></div></dl>
  </div>
  <div class="bia-trong" aria-hidden="true">{trong_dong("trong-lon")}</div>
 </div>
@@ -1256,8 +1255,7 @@ def ke_chuyen_su(tt_ds):
         return ""
     return (f'<section class="ke-video ke-doc" id="chuyen-su" aria-labelledby="tieu-de-chuyen-su"><div class="rong">'
             f'<div class="dau-muc"><h2 id="tieu-de-chuyen-su">Chuyện sử mở rộng</h2>'
-            f'<p>{len(tt_ds)} video dọc khoảng một phút, kể thêm những câu chuyện quanh bài học trong SGK. '
-            f'Mỗi video ghi rõ bài học gốc và nguồn để em tự kiểm chứng.</p></div>'
+            f'</div>'
             f'<ul class="luoi-doc" tabindex="0" aria-label="Danh sách chuyện sử, cuộn ngang để xem thêm">{"".join(the_chuyen_su(x) for x in tt_ds)}</ul></div></section>')
 
 

@@ -1,7 +1,17 @@
 {
  "6": {
-  "loai": "the_sgk",
-  "mo_ta": "Ảnh tư liệu: ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa, năm 1938 (như Hình 3 SGK, tr. 233)",
-  "ghi_chu": "Thẻ chỉ dẫn xem hình trong SGK, không chép hình SGK"
+  "tep": "mh_L9-CD3-02_06.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Ngọn hải đăng trên quần đảo Hoàng Sa (xây năm 1938)",
+  "kich_thuoc_goc": [
+   1024,
+   572
+  ],
+  "he_so_phong": 1.44,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

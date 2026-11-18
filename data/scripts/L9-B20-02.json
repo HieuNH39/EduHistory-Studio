@@ -262,11 +262,14 @@
    "so": 11,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh: lời thề của người lính Vị Xuyên khắc tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468, tỉnh Tuyên Quang (như Hình 20.3 SGK, tr. 103)",
+    "mo_ta": "Hình vẽ minh hoạ: lời thề của người lính Vị Xuyên khắc tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468, tỉnh Tuyên Quang (như Hình 20.3 SGK, tr. 103)",
     "tim": "Điểm cao 468 Vị Xuyên đền thờ lời thề sống bám đá ảnh",
-    "yeu_cau": "ảnh chụp di tích công khai hoặc giấy phép mở, ghi nguồn"
+    "yeu_cau": "ảnh chụp di tích công khai hoặc giấy phép mở, ghi nguồn",
+    "mo_ta_cu": "Ảnh: lời thề của người lính Vị Xuyên khắc tại Đền thờ các Anh hùng liệt sĩ trên Điểm cao 468, tỉnh Tuyên Quang (như Hình 20.3 SGK, tr. 103)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh: lời thề “sống bám đá, chết hoá đá, thành bất tử” (Điểm cao 468)",
+   "hinh": "Hình vẽ minh hoạ: lời thề “sống bám đá, chết hoá đá, thành bất tử” (Điểm cao 468)",
    "loi": [
     [
      "Nhật Minh",

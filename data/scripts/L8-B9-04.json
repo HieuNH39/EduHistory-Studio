@@ -42,11 +42,14 @@
    "so": 2,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa Bút Tháp, tỉnh Bắc Ninh (như Hình 9.4 SGK tr. 45)",
+    "mo_ta": "Hình vẽ minh hoạ: Tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa Bút Tháp, tỉnh Bắc Ninh (như Hình 9.4 SGK tr. 45)",
     "tim": "Bút Tháp Quan Âm thousand arms",
-    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn; không vẽ bằng AI"
+    "yeu_cau": "ảnh tư liệu hiện vật có giấy phép mở, ghi nguồn; không vẽ bằng AI",
+    "mo_ta_cu": "Tượng Phật Bà Quan Âm nghìn mắt, nghìn tay ở chùa Bút Tháp, tỉnh Bắc Ninh (như Hình 9.4 SGK tr. 45)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Tư liệu: tượng Quan Âm nghìn mắt nghìn tay (chùa Bút Tháp)",
+   "hinh": "Hình vẽ minh hoạ: tượng Quan Âm nghìn mắt nghìn tay (chùa Bút Tháp)",
    "loi": [
     [
      "Hân Hân",

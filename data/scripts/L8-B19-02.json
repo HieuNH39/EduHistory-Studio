@@ -264,11 +264,14 @@
    "so": 10,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu năm 1908 về phong trào chống sưu thuế của nhân dân Trung Kì (đoàn người kéo đến công đường)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): phong trào chống sưu thuế ở Trung Kì (1908)",
     "tim": "phong trào chống thuế Trung Kì 1908 ảnh tư liệu",
-    "yeu_cau": "ảnh chụp năm 1908, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong"
+    "yeu_cau": "ảnh chụp năm 1908, phạm vi công cộng, ghi nguồn; tránh cảnh thương vong",
+    "mo_ta_cu": "Ảnh tư liệu năm 1908 về phong trào chống sưu thuế của nhân dân Trung Kì (đoàn người kéo đến công đường)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: phong trào chống sưu thuế ở Trung Kì (1908)",
+   "hinh": "Tranh minh hoạ (AI vẽ): phong trào chống sưu thuế ở Trung Kì (1908)",
    "loi": [
     [
      "Nhật Minh",

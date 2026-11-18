@@ -12,8 +12,18 @@
   "he_so_phong": 1.12
  },
  "6": {
-  "loai": "the_chu",
-  "mo_ta": "Ảnh: Khu di tích lịch sử Ngã ba Đồng Lộc (Hà Tĩnh) ngày nay",
-  "ghi_chu": "Thẻ chữ thay ảnh tư liệu (chưa tìm được ảnh có giấy phép mở)"
+  "tep": "mh_L9-B17-04_06.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Thanh niên xung phong san lấp hố bom ở Ngã ba Đồng Lộc (Hà Tĩnh)",
+  "kich_thuoc_goc": [
+   1024,
+   572
+  ],
+  "he_so_phong": 1.44,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

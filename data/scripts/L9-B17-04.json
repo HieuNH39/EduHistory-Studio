@@ -147,11 +147,14 @@
    "so": 6,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh: Khu di tích lịch sử Ngã ba Đồng Lộc (Hà Tĩnh) ngày nay",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): thanh niên xung phong san lấp hố bom ở Ngã ba Đồng Lộc",
     "tim": "Ngã ba Đồng Lộc khu di tích Hà Tĩnh ảnh",
-    "yeu_cau": "ảnh chụp di tích hiện nay, giấy phép mở, ghi nguồn; không vẽ AI người thật"
+    "yeu_cau": "ảnh chụp di tích hiện nay, giấy phép mở, ghi nguồn; không vẽ AI người thật",
+    "mo_ta_cu": "Ảnh: Khu di tích lịch sử Ngã ba Đồng Lộc (Hà Tĩnh) ngày nay",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Khu di tích Ngã ba Đồng Lộc (Hà Tĩnh)",
+   "hinh": "Tranh minh hoạ (AI vẽ): thanh niên xung phong san lấp hố bom ở Ngã ba Đồng Lộc",
    "loi": [
     [
      "Hân Hân",

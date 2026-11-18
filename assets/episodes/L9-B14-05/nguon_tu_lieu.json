@@ -1,12 +1,32 @@
 {
  "4": {
-  "loai": "the_chu",
-  "mo_ta": "Ảnh tư liệu đồng bào Việt Bắc tăng gia sản xuất trong kháng chiến chống Pháp",
-  "ghi_chu": "Thẻ chữ thay ảnh tư liệu (chưa tìm được ảnh có giấy phép mở)"
+  "tep": "mh_L9-B14-05_04.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Tăng gia sản xuất ở vùng tự do Việt Bắc",
+  "kich_thuoc_goc": [
+   1024,
+   572
+  ],
+  "he_so_phong": 1.44,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  },
  "6": {
-  "loai": "the_chu",
-  "mo_ta": "Ảnh tư liệu lớp học trong vùng kháng chiến chống Pháp",
-  "ghi_chu": "Thẻ chữ thay ảnh tư liệu (chưa tìm được ảnh có giấy phép mở)"
+  "tep": "mh_L9-B14-05_06.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Lớp học trong vùng kháng chiến",
+  "kich_thuoc_goc": [
+   1024,
+   572
+  ],
+  "he_so_phong": 1.44,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

@@ -71,11 +71,14 @@
    "so": 3,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh một cảng biển nước sâu ở Việt Nam với tàu container",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): cảng biển nước sâu ở Việt Nam",
     "tim": "Cai Mep port container Vietnam",
-    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả",
+    "mo_ta_cu": "Ảnh một cảng biển nước sâu ở Việt Nam với tàu container",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh: cảng biển nước sâu ở Việt Nam",
+   "hinh": "Tranh minh hoạ (AI vẽ): cảng biển nước sâu ở Việt Nam",
    "loi": [
     [
      "Hân Hân",

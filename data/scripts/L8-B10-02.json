@@ -57,11 +57,14 @@
    "so": 3,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu cuối thế kỉ XIX: khu công nghiệp ở Anh với ống khói nhà máy, mỏ than",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): vùng công nghiệp ở Anh cuối thế kỉ XIX",
     "tim": "British coal mine factory 1890s photograph",
-    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn"
+    "yeu_cau": "ảnh chụp cuối thế kỉ XIX, phạm vi công cộng, ghi nguồn",
+    "mo_ta_cu": "Ảnh tư liệu cuối thế kỉ XIX: khu công nghiệp ở Anh với ống khói nhà máy, mỏ than",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: công nghiệp Anh cuối thế kỉ XIX",
+   "hinh": "Tranh minh hoạ (AI vẽ): vùng công nghiệp ở Anh cuối thế kỉ XIX",
    "loi": [
     [
      "Nhật Minh",

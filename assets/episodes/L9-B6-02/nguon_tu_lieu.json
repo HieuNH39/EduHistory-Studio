@@ -12,8 +12,9 @@
   "he_so_phong": 0.52
  },
  "3": {
-  "loai": "the_sgk",
-  "mo_ta": "Tư liệu: một số báo Người cùng khổ (Le Paria) (như Hình 6.2 SGK, tr. 27)",
-  "ghi_chu": "Thẻ chỉ dẫn xem hình trong SGK, không chép hình SGK"
+  "loai": "minh_hoa_code",
+  "kieu": "le_paria",
+  "nguon": "Hình vẽ minh hoạ bằng đồ hoạ máy tính – không phải ảnh tư liệu",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

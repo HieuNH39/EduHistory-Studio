@@ -88,11 +88,14 @@
    "so": 5,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh đất ruộng khô nứt nẻ do hạn mặn ở Đồng bằng sông Cửu Long",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): ruộng khô nứt nẻ vì hạn mặn ở Đồng bằng sông Cửu Long",
     "tim": "Mekong Delta drought salinity",
-    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả"
+    "yeu_cau": "ảnh chụp có giấy phép tự do, ghi nguồn tác giả",
+    "mo_ta_cu": "Ảnh đất ruộng khô nứt nẻ do hạn mặn ở Đồng bằng sông Cửu Long",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh: hạn mặn ở Đồng bằng sông Cửu Long",
+   "hinh": "Tranh minh hoạ (AI vẽ): ruộng khô nứt nẻ vì hạn mặn ở Đồng bằng sông Cửu Long",
    "loi": [
     [
      "Hân Hân",

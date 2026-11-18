@@ -259,11 +259,14 @@
    "so": 12,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: trang nhất báo Le Paria (Người cùng khổ), năm 1922 (như Hình 4 SGK)",
+    "mo_ta": "Hình vẽ minh hoạ: trang nhất báo Le Paria (Người cùng khổ), năm 1922 (như Hình 4 SGK)",
     "tim": "journal Le Paria 1922 première page",
-    "yeu_cau": "ảnh tư liệu công khai (ấn phẩm năm 1922, đã hết thời hạn bảo hộ), ghi nguồn; không dùng ảnh hay tranh vẽ chân dung lãnh tụ"
+    "yeu_cau": "ảnh tư liệu công khai (ấn phẩm năm 1922, đã hết thời hạn bảo hộ), ghi nguồn; không dùng ảnh hay tranh vẽ chân dung lãnh tụ",
+    "mo_ta_cu": "Ảnh tư liệu: trang nhất báo Le Paria (Người cùng khổ), năm 1922 (như Hình 4 SGK)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: trang nhất báo Le Paria, năm 1922",
+   "hinh": "Hình vẽ minh hoạ: trang nhất báo Le Paria, năm 1922",
    "loi": [
     [
      "Hân Hân",

@@ -60,11 +60,14 @@
    "so": 3,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Tư liệu: một số báo Người cùng khổ (Le Paria) (như Hình 6.2 SGK, tr. 27)",
+    "mo_ta": "Hình vẽ minh hoạ: một số báo Người cùng khổ (Le Paria) (như Hình 6.2 SGK, tr. 27)",
     "tim": "Le Paria newspaper 1922 front page scan",
-    "yeu_cau": "bản chụp báo gốc công bố năm 1922 (phạm vi công cộng), ghi nguồn"
+    "yeu_cau": "bản chụp báo gốc công bố năm 1922 (phạm vi công cộng), ghi nguồn",
+    "mo_ta_cu": "Tư liệu: một số báo Người cùng khổ (Le Paria) (như Hình 6.2 SGK, tr. 27)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Tư liệu: báo Người cùng khổ (Le Paria)",
+   "hinh": "Hình vẽ minh hoạ: báo Người cùng khổ (Le Paria)",
    "loi": [
     [
      "Hân Hân",

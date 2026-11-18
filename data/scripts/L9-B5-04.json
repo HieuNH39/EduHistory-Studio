@@ -56,11 +56,14 @@
    "so": 3,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: công nhân Việt Nam làm việc trong nhà máy, xưởng thời Pháp thuộc (đầu thế kỉ XX)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): công nhân Việt Nam trong nhà máy thời Pháp thuộc",
     "tim": "Vietnamese workers factory French colonial 1920s photograph",
-    "yeu_cau": "ảnh/bưu ảnh tư liệu thời Pháp thuộc thuộc phạm vi công cộng (kiểm tra năm công bố, ghi nguồn); không vẽ AI"
+    "yeu_cau": "ảnh/bưu ảnh tư liệu thời Pháp thuộc thuộc phạm vi công cộng (kiểm tra năm công bố, ghi nguồn); không vẽ AI",
+    "mo_ta_cu": "Ảnh tư liệu: công nhân Việt Nam làm việc trong nhà máy, xưởng thời Pháp thuộc (đầu thế kỉ XX)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: công nhân Việt Nam thời Pháp thuộc",
+   "hinh": "Tranh minh hoạ (AI vẽ): công nhân Việt Nam trong nhà máy thời Pháp thuộc",
    "loi": [
     [
      "Nhật Minh",

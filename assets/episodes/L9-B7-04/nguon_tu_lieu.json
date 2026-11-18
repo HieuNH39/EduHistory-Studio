@@ -12,8 +12,18 @@
   "he_so_phong": 0.74
  },
  "5": {
-  "loai": "the_sgk",
-  "mo_ta": "Ảnh tượng đài Xô viết Nghệ – Tĩnh (như Hình 7.1 SGK tr. 30)",
-  "ghi_chu": "Thẻ chỉ dẫn xem hình trong SGK, không chép hình SGK"
+  "tep": "mh_L9-B3-05_08.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Nông dân Nghệ – Tĩnh biểu tình (1930)",
+  "kich_thuoc_goc": [
+   2752,
+   1536
+  ],
+  "he_so_phong": 0.53,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

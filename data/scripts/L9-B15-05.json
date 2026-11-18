@@ -42,11 +42,14 @@
    "so": 2,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ (dùng lại ảnh tư liệu của L9-B15-03 cảnh 8, tìm lại theo khung dọc)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ",
     "tim": "Dien Bien Phu porters bicycles supplies photograph",
-    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "Ảnh tư liệu dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ (dùng lại ảnh tư liệu của L9-B15-03 cảnh 8, tìm lại theo khung dọc)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ",
+   "hinh": "Tranh minh hoạ (AI vẽ): dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ",
    "loi": [
     [
      "Hân Hân",

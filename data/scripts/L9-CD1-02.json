@@ -213,11 +213,14 @@
    "so": 8,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: một góc thành phố Luân Đôn (Anh) năm 1908 và một góc thành phố Niu Oóc (Hoa Kỳ) năm 1900 (như Hình 1, Hình 2 SGK, tr. 222)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): một góc thành phố Luân Đôn (Anh) năm 1908 và một góc thành phố Niu Oóc (Hoa Kỳ) năm 1900 (như Hình 1, Hình 2 SGK, tr. 222)",
     "tim": "London street 1908 photograph; New York City 1900 street photograph",
-    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn"
+    "yeu_cau": "ảnh tư liệu công khai (phạm vi công cộng), ghi nguồn",
+    "mo_ta_cu": "Ảnh tư liệu: một góc thành phố Luân Đôn (Anh) năm 1908 và một góc thành phố Niu Oóc (Hoa Kỳ) năm 1900 (như Hình 1, Hình 2 SGK, tr. 222)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: Luân Đôn (1908) và Niu Oóc (1900)",
+   "hinh": "Tranh minh hoạ (AI vẽ): Luân Đôn (1908) và Niu Oóc (1900)",
    "loi": [
     [
      "Nhật Minh",

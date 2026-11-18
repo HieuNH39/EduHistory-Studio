@@ -100,11 +100,14 @@
    "so": 4,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu đồng bào Việt Bắc tăng gia sản xuất trong kháng chiến chống Pháp",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): đồng bào vùng tự do Việt Bắc tăng gia sản xuất",
     "tim": "Viet Bac resistance 1948 farmers photograph",
-    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "Ảnh tư liệu đồng bào Việt Bắc tăng gia sản xuất trong kháng chiến chống Pháp",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: tăng gia sản xuất ở vùng tự do",
+   "hinh": "Tranh minh hoạ (AI vẽ): đồng bào vùng tự do Việt Bắc tăng gia sản xuất",
    "loi": [
     [
      "Hân Hân",
@@ -132,11 +135,14 @@
    "so": 6,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu lớp học trong vùng kháng chiến chống Pháp",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): lớp học trong vùng kháng chiến",
     "tim": "resistance school Viet Bac 1950 class photograph",
-    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "Ảnh tư liệu lớp học trong vùng kháng chiến chống Pháp",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: lớp học trong vùng kháng chiến",
+   "hinh": "Tranh minh hoạ (AI vẽ): lớp học trong vùng kháng chiến",
    "loi": [
     [
      "Hân Hân",

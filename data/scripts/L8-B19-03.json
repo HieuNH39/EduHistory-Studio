@@ -68,11 +68,14 @@
    "so": 3,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu tàu buôn đầu thế kỉ XX neo ở cảng Sài Gòn (không cần xác định tên tàu)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): tàu buôn ở cảng Sài Gòn đầu thế kỉ XX",
     "tim": "Saigon port steamship 1910s photograph",
-    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn; không vẽ người thật bằng AI"
+    "yeu_cau": "ảnh chụp đầu thế kỉ XX, phạm vi công cộng, ghi nguồn; không vẽ người thật bằng AI",
+    "mo_ta_cu": "Ảnh tư liệu tàu buôn đầu thế kỉ XX neo ở cảng Sài Gòn (không cần xác định tên tàu)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Khung dọc 9:16: Ảnh tư liệu tàu buôn ở cảng Sài Gòn đầu thế kỉ XX",
+   "hinh": "Khung dọc 9:16: Tranh minh hoạ (AI vẽ): tàu buôn ở cảng Sài Gòn đầu thế kỉ XX",
    "loi": [
     [
      "Nhật Minh",

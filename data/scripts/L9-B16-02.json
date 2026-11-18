@@ -188,11 +188,14 @@
    "so": 8,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: phong trào “Ba sẵn sàng” của thanh niên miền Bắc, năm 1964 (như Hình 16.4 SGK, tr. 82)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): thanh niên miền Bắc hưởng ứng phong trào “Ba sẵn sàng” (1964)",
     "tim": "phong trào Ba sẵn sàng thanh niên miền Bắc 1964 ảnh tư liệu",
-    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/báo chí có giấy phép, ghi nguồn; không vẽ AI"
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/báo chí có giấy phép, ghi nguồn; không vẽ AI",
+    "mo_ta_cu": "Ảnh tư liệu: phong trào “Ba sẵn sàng” của thanh niên miền Bắc, năm 1964 (như Hình 16.4 SGK, tr. 82)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: phong trào “Ba sẵn sàng” (1964)",
+   "hinh": "Tranh minh hoạ (AI vẽ): thanh niên miền Bắc hưởng ứng phong trào “Ba sẵn sàng” (1964)",
    "loi": [
     [
      "Hân Hân",

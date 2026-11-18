@@ -291,11 +291,14 @@
    "so": 13,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: máy cắt mía KTP 1 đầu tiên của Cu-ba, sản xuất năm 1977 (như Hình 12.4 SGK, tr. 54)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): máy cắt mía KTP 1 đầu tiên của Cu-ba, sản xuất năm 1977 (như Hình 12.4 SGK, tr. 54)",
     "tim": "KTP-1 sugar cane harvester Cuba 1977",
-    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "Ảnh tư liệu: máy cắt mía KTP 1 đầu tiên của Cu-ba, sản xuất năm 1977 (như Hình 12.4 SGK, tr. 54)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: máy cắt mía KTP 1 của Cu-ba (1977)",
+   "hinh": "Tranh minh hoạ (AI vẽ): máy cắt mía KTP 1 của Cu-ba (1977)",
    "loi": [
     [
      "Hân Hân",

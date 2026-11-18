@@ -142,11 +142,14 @@
    "so": 6,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa, năm 1938 (như Hình 3 SGK, tr. 233)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa, năm 1938 (như Hình 3 SGK, tr. 233)",
     "tim": "hải đăng đảo Hoàng Sa 1938 ảnh tư liệu",
-    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI"
+    "yeu_cau": "ảnh tư liệu của cơ quan lưu trữ/bảo tàng có giấy phép, ghi nguồn; không vẽ AI",
+    "mo_ta_cu": "Ảnh tư liệu: ngọn hải đăng do chính quyền Pháp xây dựng trên quần đảo Hoàng Sa, năm 1938 (như Hình 3 SGK, tr. 233)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: hải đăng trên quần đảo Hoàng Sa (1938)",
+   "hinh": "Tranh minh hoạ (AI vẽ): hải đăng trên quần đảo Hoàng Sa (1938)",
    "loi": [
     [
      "Hân Hân",

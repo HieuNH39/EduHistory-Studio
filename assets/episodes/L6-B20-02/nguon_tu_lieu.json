@@ -12,8 +12,18 @@
   "he_so_phong": 1.47
  },
  "8": {
-  "loai": "the_sgk",
-  "mo_ta": "Ảnh tư liệu: huy chương La Mã tìm thấy ở di tích Nền Chùa, tỉnh An Giang (như Hình 5 SGK tr. 92)",
-  "ghi_chu": "Thẻ chỉ dẫn xem hình trong SGK, không chép hình SGK"
+  "tep": "mh_L6-B20-02_08.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Huy chương La Mã như hiện vật tìm thấy ở Nền Chùa (An Giang)",
+  "kich_thuoc_goc": [
+   2752,
+   1536
+  ],
+  "he_so_phong": 0.53,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

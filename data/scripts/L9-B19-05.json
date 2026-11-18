@@ -162,16 +162,19 @@
    "so": 8,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội, Việt Nam, năm 1999 (như Hình 19.8 SGK, tr. 99)",
+    "mo_ta": "Hình vẽ minh hoạ: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội, Việt Nam, năm 1999 (như Hình 19.8 SGK, tr. 99)",
     "tim": "Cambodia admission ASEAN ceremony Hanoi 1999 photo",
-    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn"
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở, ghi nguồn",
+    "mo_ta_cu": "Ảnh tư liệu: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội, Việt Nam, năm 1999 (như Hình 19.8 SGK, tr. 99)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội (1999)",
+   "hinh": "Hình vẽ minh hoạ: Lễ kết nạp Cam-pu-chia gia nhập ASEAN ở Hà Nội (1999)",
    "loi": [
     [
      "Hân Hân",
-     "Đây là Lễ kết nạp Cam-pu-chia gia nhập ASEAN, tổ chức ở Hà Nội năm 1999.",
-     "This is the ceremony admitting Cambodia to ASEAN, held in Hà Nội in 1999."
+     "Tháng 4 năm 1999, Cam-pu-chia được kết nạp và trở thành thành viên thứ 10 của ASEAN, lễ kết nạp tổ chức ở Hà Nội.",
+     "In April 1999, Cambodia was admitted as the 10th member of ASEAN, at a ceremony held in Hà Nội."
     ],
     [
      "Nhật Minh",

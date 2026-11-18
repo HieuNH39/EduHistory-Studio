@@ -280,11 +280,14 @@
    "so": 14,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "La bàn cổ của Trung Quốc (như Hình 5 SGK, tr. 28)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): La bàn cổ của Trung Quốc (như Hình 5 SGK, tr. 28)",
     "tim": "Chinese south-pointing spoon compass model",
-    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu công khai, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "La bàn cổ của Trung Quốc (như Hình 5 SGK, tr. 28)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: mô hình la bàn cổ của Trung Quốc",
+   "hinh": "Tranh minh hoạ (AI vẽ): mô hình la bàn cổ của Trung Quốc",
    "loi": [
     [
      "Nhật Minh",

@@ -247,11 +247,14 @@
    "so": 10,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh chụp hiện nay: bờ biển châu thổ sông Cửu Long bị sạt lở, rừng ngập mặn đổ ngã",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): bờ biển châu thổ sông Cửu Long bị sạt lở",
     "tim": "Mekong Delta coastal erosion Ca Mau photo",
-    "yeu_cau": "ảnh chụp thực tế, có giấy phép sử dụng (Creative Commons hoặc nguồn báo chí được phép), ghi nguồn"
+    "yeu_cau": "ảnh chụp thực tế, có giấy phép sử dụng (Creative Commons hoặc nguồn báo chí được phép), ghi nguồn",
+    "mo_ta_cu": "Ảnh chụp hiện nay: bờ biển châu thổ sông Cửu Long bị sạt lở, rừng ngập mặn đổ ngã",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu hiện nay: bờ biển bị sạt lở ở châu thổ sông Cửu Long",
+   "hinh": "Tranh minh hoạ (AI vẽ): bờ biển châu thổ sông Cửu Long bị sạt lở",
    "loi": [
     [
      "Nhật Minh",

@@ -77,16 +77,19 @@
    "so": 4,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN, ngày 8 – 8 – 1967 (như Hình 12.11 SGK, tr. 59)",
+    "mo_ta": "Hình vẽ minh hoạ: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN, ngày 8 – 8 – 1967 (như Hình 12.11 SGK, tr. 59)",
     "tim": "ASEAN Declaration signing Bangkok 8 August 1967 photograph",
-    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở (ví dụ ảnh của Ban Thư kí ASEAN), ghi nguồn"
+    "yeu_cau": "ảnh tư liệu công khai hoặc giấy phép mở (ví dụ ảnh của Ban Thư kí ASEAN), ghi nguồn",
+    "mo_ta_cu": "Ảnh tư liệu: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN, ngày 8 – 8 – 1967 (như Hình 12.11 SGK, tr. 59)",
+    "thay_the": "minh_hoa_code",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: kí Tuyên bố thành lập ASEAN (8 – 8 – 1967)",
+   "hinh": "Hình vẽ minh hoạ: kí Tuyên bố thành lập ASEAN (8 – 8 – 1967)",
    "loi": [
     [
      "Hân Hân",
-     "Đây là ảnh tư liệu: Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN.",
-     "This archive photo shows the foreign ministers of the five countries signing the declaration founding ASEAN."
+     "Ngày 8 tháng 8 năm 1967, tại Băng Cốc, Bộ trưởng Ngoại giao năm nước kí bản Tuyên bố thành lập ASEAN.",
+     "On 8 August 1967, in Bangkok, the foreign ministers of five countries signed the declaration founding ASEAN."
     ]
    ],
    "nguon_trang": [

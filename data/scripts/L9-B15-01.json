@@ -46,11 +46,14 @@
    "so": 2,
    "lop": "tu_lieu",
    "tu_lieu": {
-    "mo_ta": "Ảnh tư liệu Đại hội đại biểu lần thứ II của Đảng (1951) (như Hình 15.2 SGK tr. 74)",
+    "mo_ta": "Tranh minh hoạ (AI vẽ): lán họp giữa rừng Việt Bắc, nơi diễn ra Đại hội đại biểu lần thứ II của Đảng (2 – 1951)",
     "tim": "Second Congress Indochinese Communist Party 1951 photograph",
-    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép"
+    "yeu_cau": "ảnh tư liệu, ghi nguồn, kiểm tra giấy phép",
+    "mo_ta_cu": "Ảnh tư liệu Đại hội đại biểu lần thứ II của Đảng (1951) (như Hình 15.2 SGK tr. 74)",
+    "thay_the": "minh_hoa_ai",
+    "ghi_chu_thay": "Không tìm được ảnh có giấy phép mở; GVHD yêu cầu tự vẽ thay thẻ chỉ dẫn SGK (18/11/2026)"
    },
-   "hinh": "Ảnh tư liệu: Đại hội đại biểu lần thứ II của Đảng (1951)",
+   "hinh": "Tranh minh hoạ (AI vẽ): lán họp giữa rừng Việt Bắc, nơi diễn ra Đại hội đại biểu lần thứ II của Đảng (2 – 1951)",
    "loi": [
     [
      "Hân Hân",

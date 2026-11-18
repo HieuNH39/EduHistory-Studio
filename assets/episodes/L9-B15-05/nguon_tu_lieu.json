@@ -1,7 +1,17 @@
 {
  "2": {
-  "loai": "the_chu",
-  "mo_ta": "Ảnh tư liệu dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ (dùng lại ảnh tư liệu của L9-B15-03 cảnh 8, tìm lại theo khung dọc)",
-  "ghi_chu": "Thẻ chữ thay ảnh tư liệu (chưa tìm được ảnh có giấy phép mở)"
+  "tep": "mh_L9-B15-05_02.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Dân công thồ lương thực phục vụ chiến dịch Điện Biên Phủ",
+  "kich_thuoc_goc": [
+   572,
+   1024
+  ],
+  "he_so_phong": 1.35,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }

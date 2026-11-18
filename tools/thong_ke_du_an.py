@@ -60,12 +60,19 @@ def main():
     # ---- tài nguyên hình ----
     imgs = glob.glob(os.path.join(ROOT, "assets/episodes/L*/canh-*.jpg"))  # chỉ tập bài học, bỏ DEMO-*
     clips = glob.glob(os.path.join(ROOT, "assets/episodes/L*/canh-*.mp4"))
-    tl = 0
-    for p in glob.glob(os.path.join(ROOT, "assets/episodes/L*/nguon_tu_lieu.json")): tl += len(json.load(open(p)))
+    tl = 0; loai_tl = {}
+    for p in glob.glob(os.path.join(ROOT, "assets/episodes/L*/nguon_tu_lieu.json")):
+        for v in json.load(open(p)).values():
+            k = (v.get("loai") if isinstance(v, dict) else None) or "anh_that"; loai_tl[k] = loai_tl.get(k, 0) + 1
+    tl = loai_tl.get("anh_that", 0)          # ảnh tư liệu thật (Commons, có ghi nguồn)
+    mh_ai = loai_tl.get("minh_hoa_ai", 0)    # tranh AI vẽ thay chỗ ảnh tư liệu không tìm được nguồn (18/11)
+    khac = sum(v for k, v in loai_tl.items() if k not in ("anh_that", "minh_hoa_ai"))   # hình vẽ code, thẻ chữ
     kl = [json.loads(l) for l in open(os.path.join(ROOT, "data/kling/nhat_ky_kling.jsonl")) if l.strip()]
     gm = [json.loads(l) for l in open(os.path.join(ROOT, "data/gemini/nhat_ky_video.jsonl")) if l.strip()] if os.path.exists(os.path.join(ROOT, "data/gemini/nhat_ky_video.jsonl")) else []
     sheets = glob.glob(os.path.join(ROOT, "brand/characters/lich-su/nhap/*.jpg"))
-    tk["hinh_anh"] = {"anh_canh": len(imgs) - tl, "anh_tu_lieu_that": tl, "clip_ai": len(clips),
+    tk["hinh_anh"] = {"anh_canh": len(imgs) - tl - khac, "anh_tu_lieu_that": tl, "clip_ai": len(clips),
+                      "tranh_ai_thay_tu_lieu": mh_ai, "hinh_ve_code_thay_tu_lieu": loai_tl.get("minh_hoa_code", 0),
+                      "the_chu_thay_tu_lieu": loai_tl.get("the_chu", 0) + loai_tl.get("the_sgk", 0),
                       "clip_kling_da_tai": sum(1 for k in kl if k.get("tep")), "clip_gemini": len(gm),
                       "bang_thiet_ke_nhan_vat": len(sheets)}
     # ---- video đã dựng ----

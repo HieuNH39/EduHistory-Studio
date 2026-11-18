@@ -24,8 +24,18 @@
   "he_so_phong": 0.53
  },
  "3": {
-  "loai": "the_chu",
-  "mo_ta": "Ảnh tư liệu: công nhân Việt Nam làm việc trong nhà máy, xưởng thời Pháp thuộc (đầu thế kỉ XX)",
-  "ghi_chu": "Thẻ chữ thay ảnh tư liệu (chưa tìm được ảnh có giấy phép mở)"
+  "tep": "mh_L9-B5-04_03.png",
+  "trang": "",
+  "nguon": "Tranh minh hoạ do AI (Gemini) vẽ – không phải ảnh tư liệu",
+  "giay_phep": "",
+  "mo_ta": "Công nhân Việt Nam trong nhà máy thời Pháp thuộc",
+  "kich_thuoc_goc": [
+   1024,
+   572
+  ],
+  "he_so_phong": 1.44,
+  "loai": "minh_hoa_ai",
+  "cong_cu": "Gemini (Google)",
+  "ghi_chu": "Thay thẻ chỉ dẫn SGK theo yêu cầu GVHD 18/11/2026: không tìm được ảnh có giấy phép mở"
  }
 }
