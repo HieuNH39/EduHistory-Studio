@@ -1,6 +1,6 @@
 {
  "nguon": "Sinh tự động bởi web/_cong-cu/tao_thu_vien.py từ data/catalog, data/scripts, video đã dựng, web/mo-phong, web/du-lieu/lien-ket.json",
- "cap_nhat": "18/11/2026",
+ "cap_nhat": "19/11/2026",
  "bai": [
   {
    "id": "L6-B1",
@@ -4715,7 +4715,7 @@
     63
    ],
    "video": {
-    "thoi_luong": 157.4,
+    "thoi_luong": 157.6,
     "rong": 1920,
     "cao": 1080,
     "tep": "videos/L7-B13-02.mp4"
