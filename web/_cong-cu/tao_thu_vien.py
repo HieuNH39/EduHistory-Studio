@@ -107,7 +107,7 @@ def chan_trang(goc="", cau=None):
     """Chân trang: liên hệ bên trái, giới thiệu bên phải."""
     ten = e(LIEN_HE.get("ten_kenh") or "EduHistory")
     def muc(icon, nhan, url, phu=""):
-        noi = f'{ICON[icon]}<span><b>{nhan}:</b> {ten if icon != "zalo" else e(phu)}</span>'
+        noi = f'{ICON[icon]}<span><b>{nhan}:</b> {e(phu) if phu else ten}</span>'
         if url:
             return f'<li><a class="lien-he" href="{e(url)}" target="_blank" rel="noopener noreferrer">{noi}</a></li>'
         return f'<li><span class="lien-he chua-co" title="Kênh sắp ra mắt">{noi}<small>sắp ra mắt</small></span></li>'
@@ -117,11 +117,23 @@ def chan_trang(goc="", cau=None):
                   "Chúc các bạn có những giờ phút học tập hiệu quả với EduHistory")
     return (f'<footer class="chan"><div class="rong chan-luoi">'
             f'<div class="chan-lien-he"><h2 class="an-chu">Liên hệ</h2><ul>'
-            + muc("tiktok", "TikTok", LIEN_HE.get("tiktok"))
-            + muc("youtube", "YouTube", LIEN_HE.get("youtube"))
+            + muc("tiktok", "TikTok", LIEN_HE.get("tiktok"), LIEN_HE.get("ten_tiktok", ""))
+            + muc("youtube", "YouTube", LIEN_HE.get("youtube"), LIEN_HE.get("ten_youtube", ""))
             + (muc("zalo", "Zalo", f"https://zalo.me/{z}", z_hien) if z else "")
             + f'</ul></div><div class="chan-gt">{trong_dong("chan-trong")}<p class="chan-ten">ChronoVibe Team - EduHistory</p>'
-            f'<p>{e(cau[0])}</p><p class="chan-chuc">{e(cau[1])}</p></div></div></footer>')
+            f'<p>{e(cau[0])}</p><p class="chan-chuc">{e(cau[1])}</p></div></div></footer>' + thanh_lien_he())
+
+
+def thanh_lien_he():
+    """Thanh liên hệ nhỏ, dọc, cố định ở mép phải màn hình: luôn thấy từ đầu trang và khi cuộn."""
+    z = re.sub(r"\D", "", LIEN_HE.get("zalo") or "")
+    z_hien = f"{z[:4]} {z[4:7]} {z[7:]}" if len(z) == 10 else z
+    muc = [("tiktok", "TikTok", LIEN_HE.get("tiktok"), f"Xem EduHistory trên TikTok {LIEN_HE.get('ten_tiktok') or ''}".strip()),
+           ("youtube", "YouTube", LIEN_HE.get("youtube"), f"Xem kênh YouTube {LIEN_HE.get('ten_youtube') or 'EduHistory'}"),
+           ("zalo", "Zalo", f"https://zalo.me/{z}" if z else "", f"Liên hệ Zalo {z_hien}")]
+    li = "".join(f'<li><a class="tlh-{k}" href="{e(u)}" target="_blank" rel="noopener noreferrer" title="{e(t)}" aria-label="{e(t)}">'
+                 f'{ICON[k]}<span>{n}</span></a></li>' for k, n, u, t in muc if u)
+    return f'<aside class="thanh-lien-he" aria-label="Kênh và liên hệ EduHistory"><ul>{li}</ul></aside>' if li else ""
 
 
 
