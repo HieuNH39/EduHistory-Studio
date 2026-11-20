@@ -1,5 +1,5 @@
 # Thống kê dự án EduHistory Studio
-Cập nhật 19/11/2026 21:01 (tự động từ kho mã, tools/thong_ke_du_an.py)
+Cập nhật 20/11/2026 09:16 (tự động từ kho mã, tools/thong_ke_du_an.py)
 
 ## danh_muc
 - so_tap: 359
@@ -68,7 +68,7 @@ Cập nhật 19/11/2026 21:01 (tự động từ kho mã, tools/thong_ke_du_an.p
 - js_dong: 5139
 - js_tep: 156
 - html_css_dong: 4367
-- so_commit: 70
+- so_commit: 71
 - so_phien_nhat_ky_vibe_coding: 8
 - so_dong_nhat_ky_loi_va_sua: 131
 

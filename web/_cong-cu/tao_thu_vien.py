@@ -1170,7 +1170,7 @@ def trang_gioi_thieu(ds, cap_nhat):
   <dl class="doi">
     <div><dt>Đội thi</dt><dd>ChronoVibe – học sinh THCS, Trường TH, THCS &amp; THPT FPT Bắc Giang</dd></div>
     <div><dt>Giáo viên hướng dẫn</dt><dd>Nguyễn Hữu Hiệu, Trần Khánh Ly</dd></div>
-    <div><dt>Nguồn kiến thức</dt><dd>SGK <i>Lịch sử và Địa lí</i> 6, 7, 8, 9 (Kết nối tri thức với cuộc sống), bộ sách dùng chung</dd></div>
+    <div><dt>Nguồn kiến thức</dt><dd>SGK <i>Lịch sử và Địa lí</i> 6, 7, 8, 9 – sách giáo khoa thống nhất toàn quốc, NXB Giáo dục Việt Nam</dd></div>
     <div><dt>Phông chữ</dt><dd>Be Vietnam Pro, Playfair Display (giấy phép SIL Open Font License 1.1)</dd></div>
   </dl>
   <p class="ghi-chu-so">Website hỗ trợ việc học, không thay thế SGK và bài giảng của thầy cô. Nếu phát hiện chỗ chưa đúng, hãy báo cho giáo viên hướng dẫn kèm mã tập (ví dụ L7-B14-04) và số trang SGK.</p>
