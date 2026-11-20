@@ -1,0 +1,4 @@
+{
+ "_huong_dan": "Đường dẫn video đã đăng cho từng tập (theo mã tập). Ví dụ: \"L9-B17-05\": {\"youtube\": \"https://youtu.be/XXXXXXXXXXX\", \"tiktok\": \"https://www.tiktok.com/@ten-kenh/video/1234567890\"}. Sửa xong chạy lại: python3 web/_cong-cu/tao_thu_vien.py",
+ "tap": {}
+}
